@@ -1,3602 +1,3902 @@
 [
   {
+    "id": "q1",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) à le tonnerre et le ciel ?",
-    "options": [
+    "text": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) à le tonnerre et le ciel ?",
+    "answers": [
       "Némésis",
       "Héra",
       "Hécate",
       "Zeus"
     ],
-    "answer": "Zeus"
+    "correctIndex": 3
   },
   {
+    "id": "q2",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) à la mer ?",
-    "options": [
+    "text": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) à la mer ?",
+    "answers": [
       "Hécate",
       "Némésis",
       "Poséidon",
       "Héra"
     ],
-    "answer": "Poséidon"
+    "correctIndex": 2
   },
   {
+    "id": "q3",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) à le monde des morts ?",
-    "options": [
+    "text": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) à le monde des morts ?",
+    "answers": [
       "Héra",
       "Hécate",
       "Némésis",
       "Hadès"
     ],
-    "answer": "Hadès"
+    "correctIndex": 3
   },
   {
+    "id": "q4",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) à la sagesse et les arts ?",
-    "options": [
+    "text": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) à la sagesse et les arts ?",
+    "answers": [
       "Héra",
       "Némésis",
       "Athéna",
       "Hécate"
     ],
-    "answer": "Athéna"
+    "correctIndex": 2
   },
   {
+    "id": "q5",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) à l’amour ?",
-    "options": [
+    "text": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) à l’amour ?",
+    "answers": [
       "Héra",
       "Némésis",
       "Hécate",
       "Aphrodite"
     ],
-    "answer": "Aphrodite"
+    "correctIndex": 3
   },
   {
+    "id": "q6",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) à la chasse ?",
-    "options": [
+    "text": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) à la chasse ?",
+    "answers": [
       "Héra",
       "Hécate",
       "Némésis",
       "Artémis"
     ],
-    "answer": "Artémis"
+    "correctIndex": 3
   },
   {
+    "id": "q7",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) à la guerre (aspect féroce) ?",
-    "options": [
+    "text": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) à la guerre (aspect féroce) ?",
+    "answers": [
       "Némésis",
       "Héra",
       "Arès",
       "Hécate"
     ],
-    "answer": "Arès"
+    "correctIndex": 2
   },
   {
+    "id": "q8",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) à le feu et la forge ?",
-    "options": [
+    "text": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) à le feu et la forge ?",
+    "answers": [
       "Héra",
       "Hécate",
       "Héphaïstos",
       "Némésis"
     ],
-    "answer": "Héphaïstos"
+    "correctIndex": 2
   },
   {
+    "id": "q9",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) à les voyages et les messagers ?",
-    "options": [
+    "text": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) à les voyages et les messagers ?",
+    "answers": [
       "Hermès",
       "Némésis",
       "Héra",
       "Hécate"
     ],
-    "answer": "Hermès"
+    "correctIndex": 0
   },
   {
+    "id": "q10",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) à le soleil et la musique ?",
-    "options": [
+    "text": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) à le soleil et la musique ?",
+    "answers": [
       "Némésis",
       "Hécate",
       "Apollon",
       "Héra"
     ],
-    "answer": "Apollon"
+    "correctIndex": 2
   },
   {
+    "id": "q11",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) à le vin et la fête ?",
-    "options": [
+    "text": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) à le vin et la fête ?",
+    "answers": [
       "Némésis",
       "Héra",
       "Hécate",
       "Dionysos"
     ],
-    "answer": "Dionysos"
+    "correctIndex": 3
   },
   {
+    "id": "q12",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) à le foyer domestique ?",
-    "options": [
+    "text": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) à le foyer domestique ?",
+    "answers": [
       "Hécate",
       "Némésis",
       "Héra",
       "Hestia"
     ],
-    "answer": "Hestia"
+    "correctIndex": 3
   },
   {
+    "id": "q13",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) à l’agriculture et les moissons ?",
-    "options": [
+    "text": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) à l’agriculture et les moissons ?",
+    "answers": [
       "Hécate",
       "Héra",
       "Déméter",
       "Némésis"
     ],
-    "answer": "Déméter"
+    "correctIndex": 2
   },
   {
+    "id": "q14",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Dans la mythologie romaine, quelle divinité est associée à le ciel et le tonnerre ?",
-    "options": [
+    "text": "Dans la mythologie romaine, quelle divinité est associée à le ciel et le tonnerre ?",
+    "answers": [
       "Saturne",
       "Faune",
       "Junon",
       "Jupiter"
     ],
-    "answer": "Jupiter"
+    "correctIndex": 3
   },
   {
+    "id": "q15",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Dans la mythologie romaine, quelle divinité est associée à la mer ?",
-    "options": [
+    "text": "Dans la mythologie romaine, quelle divinité est associée à la mer ?",
+    "answers": [
       "Neptune",
       "Junon",
       "Faune",
       "Saturne"
     ],
-    "answer": "Neptune"
+    "correctIndex": 0
   },
   {
+    "id": "q16",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Dans la mythologie romaine, quelle divinité est associée à le monde des morts ?",
-    "options": [
+    "text": "Dans la mythologie romaine, quelle divinité est associée à le monde des morts ?",
+    "answers": [
       "Faune",
       "Pluton",
       "Saturne",
       "Junon"
     ],
-    "answer": "Pluton"
+    "correctIndex": 1
   },
   {
+    "id": "q17",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Dans la mythologie romaine, quelle divinité est associée à la sagesse ?",
-    "options": [
+    "text": "Dans la mythologie romaine, quelle divinité est associée à la sagesse ?",
+    "answers": [
       "Junon",
       "Faune",
       "Saturne",
       "Minerve"
     ],
-    "answer": "Minerve"
+    "correctIndex": 3
   },
   {
+    "id": "q18",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Dans la mythologie romaine, quelle divinité est associée à l’amour ?",
-    "options": [
+    "text": "Dans la mythologie romaine, quelle divinité est associée à l’amour ?",
+    "answers": [
       "Junon",
       "Faune",
       "Vénus",
       "Saturne"
     ],
-    "answer": "Vénus"
+    "correctIndex": 2
   },
   {
+    "id": "q19",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Dans la mythologie romaine, quelle divinité est associée à la chasse ?",
-    "options": [
+    "text": "Dans la mythologie romaine, quelle divinité est associée à la chasse ?",
+    "answers": [
       "Faune",
       "Saturne",
       "Junon",
       "Diane"
     ],
-    "answer": "Diane"
+    "correctIndex": 3
   },
   {
+    "id": "q20",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Dans la mythologie romaine, quelle divinité est associée à la guerre ?",
-    "options": [
+    "text": "Dans la mythologie romaine, quelle divinité est associée à la guerre ?",
+    "answers": [
       "Mars",
       "Junon",
       "Saturne",
       "Faune"
     ],
-    "answer": "Mars"
+    "correctIndex": 0
   },
   {
+    "id": "q21",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Dans la mythologie romaine, quelle divinité est associée à le feu et la forge ?",
-    "options": [
+    "text": "Dans la mythologie romaine, quelle divinité est associée à le feu et la forge ?",
+    "answers": [
       "Vulcain",
       "Saturne",
       "Faune",
       "Junon"
     ],
-    "answer": "Vulcain"
+    "correctIndex": 0
   },
   {
+    "id": "q22",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Dans la mythologie romaine, quelle divinité est associée à les voyageurs et les marchands ?",
-    "options": [
+    "text": "Dans la mythologie romaine, quelle divinité est associée à les voyageurs et les marchands ?",
+    "answers": [
       "Mercure",
       "Faune",
       "Saturne",
       "Junon"
     ],
-    "answer": "Mercure"
+    "correctIndex": 0
   },
   {
+    "id": "q23",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Dans la mythologie romaine, quelle divinité est associée à le soleil et les arts ?",
-    "options": [
+    "text": "Dans la mythologie romaine, quelle divinité est associée à le soleil et les arts ?",
+    "answers": [
       "Junon",
       "Faune",
       "Saturne",
       "Apollon"
     ],
-    "answer": "Apollon"
+    "correctIndex": 3
   },
   {
+    "id": "q24",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Dans la mythologie romaine, quelle divinité est associée à le vin et les fêtes ?",
-    "options": [
+    "text": "Dans la mythologie romaine, quelle divinité est associée à le vin et les fêtes ?",
+    "answers": [
       "Saturne",
       "Faune",
       "Bacchus",
       "Junon"
     ],
-    "answer": "Bacchus"
+    "correctIndex": 2
   },
   {
+    "id": "q25",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Dans la mythologie romaine, quelle divinité est associée à le foyer ?",
-    "options": [
+    "text": "Dans la mythologie romaine, quelle divinité est associée à le foyer ?",
+    "answers": [
       "Saturne",
       "Vesta",
       "Junon",
       "Faune"
     ],
-    "answer": "Vesta"
+    "correctIndex": 1
   },
   {
+    "id": "q26",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Dans la mythologie romaine, quelle divinité est associée à l’agriculture ?",
-    "options": [
+    "text": "Dans la mythologie romaine, quelle divinité est associée à l’agriculture ?",
+    "answers": [
       "Junon",
       "Faune",
       "Cérès",
       "Saturne"
     ],
-    "answer": "Cérès"
+    "correctIndex": 2
   },
   {
+    "id": "q27",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "À propos de Marathon : en quelle année a eu lieu la bataille de Marathon ?",
-    "options": [
+    "text": "À propos de Marathon : en quelle année a eu lieu la bataille de Marathon ?",
+    "answers": [
       "146 av. J.-C.",
       "404 av. J.-C.",
       "480 av. J.-C.",
       "490 av. J.-C."
     ],
-    "answer": "490 av. J.-C."
+    "correctIndex": 3
   },
   {
+    "id": "q28",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Qui s’affrontait à la bataille de Marathon ?",
-    "options": [
+    "text": "Qui s’affrontait à la bataille de Marathon ?",
+    "answers": [
       "Grecs vs Romains",
       "Romains vs Gaulois",
       "Grecs vs Perses",
       "Perses vs Égyptiens"
     ],
-    "answer": "Grecs vs Perses"
+    "correctIndex": 2
   },
   {
+    "id": "q29",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel personnage est particulièrement associé à la bataille de Marathon ?",
-    "options": [
+    "text": "Quel personnage est particulièrement associé à la bataille de Marathon ?",
+    "answers": [
       "Ramsès II",
       "Jules César",
       "Miltiade",
       "Périclès"
     ],
-    "answer": "Miltiade"
+    "correctIndex": 2
   },
   {
+    "id": "q30",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "À propos de Salamine : en quelle année a eu lieu la bataille de Salamine ?",
-    "options": [
+    "text": "À propos de Salamine : en quelle année a eu lieu la bataille de Salamine ?",
+    "answers": [
       "480 av. J.-C.",
       "404 av. J.-C.",
       "146 av. J.-C.",
       "Option 4"
     ],
-    "answer": "480 av. J.-C."
+    "correctIndex": 0
   },
   {
+    "id": "q31",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Qui s’affrontait à la bataille de Salamine ?",
-    "options": [
+    "text": "Qui s’affrontait à la bataille de Salamine ?",
+    "answers": [
       "Perses vs Égyptiens",
       "Grecs vs Perses",
       "Romains vs Gaulois",
       "Grecs vs Romains"
     ],
-    "answer": "Grecs vs Perses"
+    "correctIndex": 1
   },
   {
+    "id": "q32",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel personnage est particulièrement associé à la bataille de Salamine ?",
-    "options": [
+    "text": "Quel personnage est particulièrement associé à la bataille de Salamine ?",
+    "answers": [
       "Thémistocle",
       "Ramsès II",
       "Périclès",
       "Jules César"
     ],
-    "answer": "Thémistocle"
+    "correctIndex": 0
   },
   {
+    "id": "q33",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "À propos de Thermopyles : en quelle année a eu lieu la bataille des Thermopyles ?",
-    "options": [
+    "text": "À propos de Thermopyles : en quelle année a eu lieu la bataille des Thermopyles ?",
+    "answers": [
       "480 av. J.-C.",
       "404 av. J.-C.",
       "146 av. J.-C.",
       "Option 4"
     ],
-    "answer": "480 av. J.-C."
+    "correctIndex": 0
   },
   {
+    "id": "q34",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Qui s’affrontait à la bataille de Thermopyles ?",
-    "options": [
+    "text": "Qui s’affrontait à la bataille de Thermopyles ?",
+    "answers": [
       "Grecs vs Romains",
       "Romains vs Gaulois",
       "Grecs vs Perses",
       "Perses vs Égyptiens"
     ],
-    "answer": "Grecs vs Perses"
+    "correctIndex": 2
   },
   {
+    "id": "q35",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel personnage est particulièrement associé à la bataille de Thermopyles ?",
-    "options": [
+    "text": "Quel personnage est particulièrement associé à la bataille de Thermopyles ?",
+    "answers": [
       "Jules César",
       "Périclès",
       "Léonidas Iᵉʳ",
       "Ramsès II"
     ],
-    "answer": "Léonidas Iᵉʳ"
+    "correctIndex": 2
   },
   {
+    "id": "q36",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "À propos de Gaugamèles : en quelle année a eu lieu la bataille de Gaugamèles ?",
-    "options": [
+    "text": "À propos de Gaugamèles : en quelle année a eu lieu la bataille de Gaugamèles ?",
+    "answers": [
       "480 av. J.-C.",
       "404 av. J.-C.",
       "146 av. J.-C.",
       "331 av. J.-C."
     ],
-    "answer": "331 av. J.-C."
+    "correctIndex": 3
   },
   {
+    "id": "q37",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Qui s’affrontait à la bataille de Gaugamèles ?",
-    "options": [
+    "text": "Qui s’affrontait à la bataille de Gaugamèles ?",
+    "answers": [
       "Grecs vs Romains",
       "Macédoniens vs Perses",
       "Perses vs Égyptiens",
       "Romains vs Gaulois"
     ],
-    "answer": "Macédoniens vs Perses"
+    "correctIndex": 1
   },
   {
+    "id": "q38",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel personnage est particulièrement associé à la bataille de Gaugamèles ?",
-    "options": [
+    "text": "Quel personnage est particulièrement associé à la bataille de Gaugamèles ?",
+    "answers": [
       "Alexandre le Grand",
       "Périclès",
       "Jules César",
       "Ramsès II"
     ],
-    "answer": "Alexandre le Grand"
+    "correctIndex": 0
   },
   {
+    "id": "q39",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "À propos de Issos : en quelle année a eu lieu la bataille d’Issos ?",
-    "options": [
+    "text": "À propos de Issos : en quelle année a eu lieu la bataille d’Issos ?",
+    "answers": [
       "480 av. J.-C.",
       "333 av. J.-C.",
       "146 av. J.-C.",
       "404 av. J.-C."
     ],
-    "answer": "333 av. J.-C."
+    "correctIndex": 1
   },
   {
+    "id": "q40",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Qui s’affrontait à la bataille de Issos ?",
-    "options": [
+    "text": "Qui s’affrontait à la bataille de Issos ?",
+    "answers": [
       "Romains vs Gaulois",
       "Grecs vs Romains",
       "Perses vs Égyptiens",
       "Macédoniens vs Perses"
     ],
-    "answer": "Macédoniens vs Perses"
+    "correctIndex": 3
   },
   {
+    "id": "q41",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel personnage est particulièrement associé à la bataille de Issos ?",
-    "options": [
+    "text": "Quel personnage est particulièrement associé à la bataille de Issos ?",
+    "answers": [
       "Ramsès II",
       "Jules César",
       "Alexandre le Grand",
       "Périclès"
     ],
-    "answer": "Alexandre le Grand"
+    "correctIndex": 2
   },
   {
+    "id": "q42",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "À propos de Zama : en quelle année a eu lieu la bataille de Zama ?",
-    "options": [
+    "text": "À propos de Zama : en quelle année a eu lieu la bataille de Zama ?",
+    "answers": [
       "404 av. J.-C.",
       "480 av. J.-C.",
       "202 av. J.-C.",
       "146 av. J.-C."
     ],
-    "answer": "202 av. J.-C."
+    "correctIndex": 2
   },
   {
+    "id": "q43",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Qui s’affrontait à la bataille de Zama ?",
-    "options": [
+    "text": "Qui s’affrontait à la bataille de Zama ?",
+    "answers": [
       "Romains vs Gaulois",
       "Grecs vs Romains",
       "Perses vs Égyptiens",
       "Romains vs Carthaginois"
     ],
-    "answer": "Romains vs Carthaginois"
+    "correctIndex": 3
   },
   {
+    "id": "q44",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel personnage est particulièrement associé à la bataille de Zama ?",
-    "options": [
+    "text": "Quel personnage est particulièrement associé à la bataille de Zama ?",
+    "answers": [
       "Ramsès II",
       "Scipion l’Africain",
       "Périclès",
       "Jules César"
     ],
-    "answer": "Scipion l’Africain"
+    "correctIndex": 1
   },
   {
+    "id": "q45",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "À propos de Cannes : en quelle année a eu lieu la bataille de Cannes ?",
-    "options": [
+    "text": "À propos de Cannes : en quelle année a eu lieu la bataille de Cannes ?",
+    "answers": [
       "480 av. J.-C.",
       "216 av. J.-C.",
       "146 av. J.-C.",
       "404 av. J.-C."
     ],
-    "answer": "216 av. J.-C."
+    "correctIndex": 1
   },
   {
+    "id": "q46",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Qui s’affrontait à la bataille de Cannes ?",
-    "options": [
+    "text": "Qui s’affrontait à la bataille de Cannes ?",
+    "answers": [
       "Perses vs Égyptiens",
       "Romains vs Carthaginois",
       "Romains vs Gaulois",
       "Grecs vs Romains"
     ],
-    "answer": "Romains vs Carthaginois"
+    "correctIndex": 1
   },
   {
+    "id": "q47",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel personnage est particulièrement associé à la bataille de Cannes ?",
-    "options": [
+    "text": "Quel personnage est particulièrement associé à la bataille de Cannes ?",
+    "answers": [
       "Ramsès II",
       "Jules César",
       "Périclès",
       "Hannibal Barca"
     ],
-    "answer": "Hannibal Barca"
+    "correctIndex": 3
   },
   {
+    "id": "q48",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "À propos de Actium : en quelle année a eu lieu la bataille d’Actium ?",
-    "options": [
+    "text": "À propos de Actium : en quelle année a eu lieu la bataille d’Actium ?",
+    "answers": [
       "480 av. J.-C.",
       "404 av. J.-C.",
       "31 av. J.-C.",
       "146 av. J.-C."
     ],
-    "answer": "31 av. J.-C."
+    "correctIndex": 2
   },
   {
+    "id": "q49",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Qui s’affrontait à la bataille de Actium ?",
-    "options": [
+    "text": "Qui s’affrontait à la bataille de Actium ?",
+    "answers": [
       "Romains vs Gaulois",
       "Octavien vs Marc Antoine et Cléopâtre",
       "Grecs vs Romains",
       "Perses vs Égyptiens"
     ],
-    "answer": "Octavien vs Marc Antoine et Cléopâtre"
+    "correctIndex": 1
   },
   {
+    "id": "q50",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel personnage est particulièrement associé à la bataille de Actium ?",
-    "options": [
+    "text": "Quel personnage est particulièrement associé à la bataille de Actium ?",
+    "answers": [
       "Jules César",
       "Périclès",
       "Ramsès II",
       "Octavien"
     ],
-    "answer": "Octavien"
+    "correctIndex": 3
   },
   {
+    "id": "q51",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "À propos de Philippes : en quelle année a eu lieu la bataille de Philippes ?",
-    "options": [
+    "text": "À propos de Philippes : en quelle année a eu lieu la bataille de Philippes ?",
+    "answers": [
       "146 av. J.-C.",
       "480 av. J.-C.",
       "404 av. J.-C.",
       "42 av. J.-C."
     ],
-    "answer": "42 av. J.-C."
+    "correctIndex": 3
   },
   {
+    "id": "q52",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Qui s’affrontait à la bataille de Philippes ?",
-    "options": [
+    "text": "Qui s’affrontait à la bataille de Philippes ?",
+    "answers": [
       "Grecs vs Romains",
       "Romains vs Gaulois",
       "Perses vs Égyptiens",
       "Triumvirs vs Républicains"
     ],
-    "answer": "Triumvirs vs Républicains"
+    "correctIndex": 3
   },
   {
+    "id": "q53",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel personnage est particulièrement associé à la bataille de Philippes ?",
-    "options": [
+    "text": "Quel personnage est particulièrement associé à la bataille de Philippes ?",
+    "answers": [
       "Marc Antoine",
       "Ramsès II",
       "Périclès",
       "Jules César"
     ],
-    "answer": "Marc Antoine"
+    "correctIndex": 0
   },
   {
+    "id": "q54",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "À propos de Mylae : en quelle année a eu lieu la bataille de Mylae ?",
-    "options": [
+    "text": "À propos de Mylae : en quelle année a eu lieu la bataille de Mylae ?",
+    "answers": [
       "260 av. J.-C.",
       "404 av. J.-C.",
       "146 av. J.-C.",
       "480 av. J.-C."
     ],
-    "answer": "260 av. J.-C."
+    "correctIndex": 0
   },
   {
+    "id": "q55",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Qui s’affrontait à la bataille de Mylae ?",
-    "options": [
+    "text": "Qui s’affrontait à la bataille de Mylae ?",
+    "answers": [
       "Romains vs Gaulois",
       "Rome vs Carthage",
       "Perses vs Égyptiens",
       "Grecs vs Romains"
     ],
-    "answer": "Rome vs Carthage"
+    "correctIndex": 1
   },
   {
+    "id": "q56",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel personnage est particulièrement associé à la bataille de Mylae ?",
-    "options": [
+    "text": "Quel personnage est particulièrement associé à la bataille de Mylae ?",
+    "answers": [
       "C. Duillius",
       "Ramsès II",
       "Jules César",
       "Périclès"
     ],
-    "answer": "C. Duillius"
+    "correctIndex": 0
   },
   {
+    "id": "q57",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "À propos de Égates : en quelle année a eu lieu la bataille des îles Égates ?",
-    "options": [
+    "text": "À propos de Égates : en quelle année a eu lieu la bataille des îles Égates ?",
+    "answers": [
       "241 av. J.-C.",
       "480 av. J.-C.",
       "404 av. J.-C.",
       "146 av. J.-C."
     ],
-    "answer": "241 av. J.-C."
+    "correctIndex": 0
   },
   {
+    "id": "q58",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Qui s’affrontait à la bataille de Égates ?",
-    "options": [
+    "text": "Qui s’affrontait à la bataille de Égates ?",
+    "answers": [
       "Grecs vs Romains",
       "Perses vs Égyptiens",
       "Romains vs Gaulois",
       "Rome vs Carthage"
     ],
-    "answer": "Rome vs Carthage"
+    "correctIndex": 3
   },
   {
+    "id": "q59",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel personnage est particulièrement associé à la bataille de Égates ?",
-    "options": [
+    "text": "Quel personnage est particulièrement associé à la bataille de Égates ?",
+    "answers": [
       "Périclès",
       "Ramsès II",
       "Jules César",
       "C. Lutatius Catulus"
     ],
-    "answer": "C. Lutatius Catulus"
+    "correctIndex": 3
   },
   {
+    "id": "q60",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "À propos de Chéronée : en quelle année a eu lieu la bataille de Chéronée ?",
-    "options": [
+    "text": "À propos de Chéronée : en quelle année a eu lieu la bataille de Chéronée ?",
+    "answers": [
       "146 av. J.-C.",
       "338 av. J.-C.",
       "404 av. J.-C.",
       "480 av. J.-C."
     ],
-    "answer": "338 av. J.-C."
+    "correctIndex": 1
   },
   {
+    "id": "q61",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Qui s’affrontait à la bataille de Chéronée ?",
-    "options": [
+    "text": "Qui s’affrontait à la bataille de Chéronée ?",
+    "answers": [
       "Grecs vs Romains",
       "Perses vs Égyptiens",
       "Romains vs Gaulois",
       "Macédoine vs cités grecques"
     ],
-    "answer": "Macédoine vs cités grecques"
+    "correctIndex": 3
   },
   {
+    "id": "q62",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel personnage est particulièrement associé à la bataille de Chéronée ?",
-    "options": [
+    "text": "Quel personnage est particulièrement associé à la bataille de Chéronée ?",
+    "answers": [
       "Ramsès II",
       "Périclès",
       "Philippe II",
       "Jules César"
     ],
-    "answer": "Philippe II"
+    "correctIndex": 2
   },
   {
+    "id": "q63",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel empereur romain a lancé la construction du Colisée ?",
-    "options": [
+    "text": "Quel empereur romain a lancé la construction du Colisée ?",
+    "answers": [
       "Néron",
       "Hadrien",
       "Vespasien",
       "Trajan"
     ],
-    "answer": "Vespasien"
+    "correctIndex": 2
   },
   {
+    "id": "q64",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Qui est considéré comme le premier empereur romain ?",
-    "options": [
+    "text": "Qui est considéré comme le premier empereur romain ?",
+    "answers": [
       "Auguste",
       "César",
       "Caligula",
       "Tibère"
     ],
-    "answer": "Auguste"
+    "correctIndex": 0
   },
   {
+    "id": "q65",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel empereur régnait lors du grand incendie de Rome (64) ?",
-    "options": [
+    "text": "Quel empereur régnait lors du grand incendie de Rome (64) ?",
+    "answers": [
       "Commode",
       "Néron",
       "Trajan",
       "Claude"
     ],
-    "answer": "Néron"
+    "correctIndex": 1
   },
   {
+    "id": "q66",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel empereur a porté l’Empire romain à son extension maximale ?",
-    "options": [
+    "text": "Quel empereur a porté l’Empire romain à son extension maximale ?",
+    "answers": [
       "Hadrien",
       "Marc Aurèle",
       "Trajan",
       "Dioclétien"
     ],
-    "answer": "Trajan"
+    "correctIndex": 2
   },
   {
+    "id": "q67",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel empereur fit construire un mur en Bretagne ?",
-    "options": [
+    "text": "Quel empereur fit construire un mur en Bretagne ?",
+    "answers": [
       "Trajan",
       "Antonin le Pieux",
       "Hadrien",
       "Claude"
     ],
-    "answer": "Hadrien"
+    "correctIndex": 2
   },
   {
+    "id": "q68",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel empereur promulgua l’édit de Milan (313) légalisant le christianisme ?",
-    "options": [
+    "text": "Quel empereur promulgua l’édit de Milan (313) légalisant le christianisme ?",
+    "answers": [
       "Julien",
       "Théodose Iᵉʳ",
       "Dioclétien",
       "Constantin"
     ],
-    "answer": "Constantin"
+    "correctIndex": 3
   },
   {
+    "id": "q69",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel empereur fit du christianisme la religion d’État (380) ?",
-    "options": [
+    "text": "Quel empereur fit du christianisme la religion d’État (380) ?",
+    "answers": [
       "Théodose Iᵉʳ",
       "Gratien",
       "Constantin",
       "Valens"
     ],
-    "answer": "Théodose Iᵉʳ"
+    "correctIndex": 0
   },
   {
+    "id": "q70",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel empereur annexa la Bretagne en 43 ?",
-    "options": [
+    "text": "Quel empereur annexa la Bretagne en 43 ?",
+    "answers": [
       "Auguste",
       "Claude",
       "Tibère",
       "Néron"
     ],
-    "answer": "Claude"
+    "correctIndex": 1
   },
   {
+    "id": "q71",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel empereur accorda la citoyenneté romaine à presque tous les hommes libres ?",
-    "options": [
+    "text": "Quel empereur accorda la citoyenneté romaine à presque tous les hommes libres ?",
+    "answers": [
       "Trajan",
       "Septime Sévère",
       "Hadrien",
       "Caracalla"
     ],
-    "answer": "Caracalla"
+    "correctIndex": 3
   },
   {
+    "id": "q72",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel empereur mit en place la Tétrarchie ?",
-    "options": [
+    "text": "Quel empereur mit en place la Tétrarchie ?",
+    "answers": [
       "Constantin",
       "Maximien",
       "Dioclétien",
       "Galère"
     ],
-    "answer": "Dioclétien"
+    "correctIndex": 2
   },
   {
+    "id": "q73",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quelle civilisation a bâti les pyramides de Gizeh ?",
-    "options": [
+    "text": "Quelle civilisation a bâti les pyramides de Gizeh ?",
+    "answers": [
       "Grecs",
       "Romains",
       "Égyptiens",
       "Sumériens"
     ],
-    "answer": "Égyptiens"
+    "correctIndex": 2
   },
   {
+    "id": "q74",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel fleuve était vital pour l’Égypte ancienne ?",
-    "options": [
+    "text": "Quel fleuve était vital pour l’Égypte ancienne ?",
+    "answers": [
       "Tigre",
       "Nil",
       "Jourdain",
       "Euphrate"
     ],
-    "answer": "Nil"
+    "correctIndex": 1
   },
   {
+    "id": "q75",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel pharaon est célèbre pour sa tombe intacte découverte en 1922 ?",
-    "options": [
+    "text": "Quel pharaon est célèbre pour sa tombe intacte découverte en 1922 ?",
+    "answers": [
       "Khéops",
       "Toutankhamon",
       "Ramsès II",
       "Akhenaton"
     ],
-    "answer": "Toutankhamon"
+    "correctIndex": 1
   },
   {
+    "id": "q76",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quelle reine d’Égypte fut l’alliée de Marc Antoine ?",
-    "options": [
+    "text": "Quelle reine d’Égypte fut l’alliée de Marc Antoine ?",
+    "answers": [
       "Hatshepsout",
       "Bérénice",
       "Néfertiti",
       "Cléopâtre VII"
     ],
-    "answer": "Cléopâtre VII"
+    "correctIndex": 3
   },
   {
+    "id": "q77",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel pharaon est associé à une réforme religieuse centrée sur Aton ?",
-    "options": [
+    "text": "Quel pharaon est associé à une réforme religieuse centrée sur Aton ?",
+    "answers": [
       "Ramsès II",
       "Djoser",
       "Thoutmôsis III",
       "Akhenaton"
     ],
-    "answer": "Akhenaton"
+    "correctIndex": 3
   },
   {
+    "id": "q78",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel monument emblématique a une tête humaine et un corps de lion ?",
-    "options": [
+    "text": "Quel monument emblématique a une tête humaine et un corps de lion ?",
+    "answers": [
       "Ziggourat",
       "Colosse",
       "Phare",
       "Grand Sphinx"
     ],
-    "answer": "Grand Sphinx"
+    "correctIndex": 3
   },
   {
+    "id": "q79",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quelle écriture sacrée utilisaient les Égyptiens ?",
-    "options": [
+    "text": "Quelle écriture sacrée utilisaient les Égyptiens ?",
+    "answers": [
       "Hiéroglyphes",
       "Alphabet grec",
       "Cunéiforme",
       "Runes"
     ],
-    "answer": "Hiéroglyphes"
+    "correctIndex": 0
   },
   {
+    "id": "q80",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel pharaon mena la bataille de Qadesh contre les Hittites ?",
-    "options": [
+    "text": "Quel pharaon mena la bataille de Qadesh contre les Hittites ?",
+    "answers": [
       "Séthi Iᵉʳ",
       "Ramsès II",
       "Amenhotep II",
       "Thoutmôsis III"
     ],
-    "answer": "Ramsès II"
+    "correctIndex": 1
   },
   {
+    "id": "q81",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quelle ville abritait la grande bibliothèque de l’Antiquité ?",
-    "options": [
+    "text": "Quelle ville abritait la grande bibliothèque de l’Antiquité ?",
+    "answers": [
       "Athènes",
       "Alexandrie",
       "Rome",
       "Pergame"
     ],
-    "answer": "Alexandrie"
+    "correctIndex": 1
   },
   {
+    "id": "q82",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel vizir fit construire la pyramide à degrés de Saqqarah ?",
-    "options": [
+    "text": "Quel vizir fit construire la pyramide à degrés de Saqqarah ?",
+    "answers": [
       "Imhotep",
       "Kagemni",
       "Ptahhotep",
       "Hemiounou"
     ],
-    "answer": "Imhotep"
+    "correctIndex": 0
   },
   {
+    "id": "q83",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quelle ancienne cité était la capitale de Babylone sous Nabuchodonosor II ?",
-    "options": [
+    "text": "Quelle ancienne cité était la capitale de Babylone sous Nabuchodonosor II ?",
+    "answers": [
       "Babylone",
       "Nippur",
       "Ur",
       "Uruk"
     ],
-    "answer": "Babylone"
+    "correctIndex": 0
   },
   {
+    "id": "q84",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel célèbre code de lois provient de Babylone ?",
-    "options": [
+    "text": "Quel célèbre code de lois provient de Babylone ?",
+    "answers": [
       "Édit de Milan",
       "Corpus juris civilis",
       "Code d’Hammurabi",
       "Douze Tables"
     ],
-    "answer": "Code d’Hammurabi"
+    "correctIndex": 2
   },
   {
+    "id": "q85",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quelle écriture utilisaient les Sumériens et Akkadiens ?",
-    "options": [
+    "text": "Quelle écriture utilisaient les Sumériens et Akkadiens ?",
+    "answers": [
       "Runes",
       "Alphabet latin",
       "Cunéiforme",
       "Hiéroglyphes"
     ],
-    "answer": "Cunéiforme"
+    "correctIndex": 2
   },
   {
+    "id": "q86",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel héros est au centre d’une épopée mésopotamienne ?",
-    "options": [
+    "text": "Quel héros est au centre d’une épopée mésopotamienne ?",
+    "answers": [
       "Enée",
       "Achille",
       "Gilgamesh",
       "Héraclès"
     ],
-    "answer": "Gilgamesh"
+    "correctIndex": 2
   },
   {
+    "id": "q87",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quelle structure religieuse typique avait la forme d’une pyramide à degrés ?",
-    "options": [
+    "text": "Quelle structure religieuse typique avait la forme d’une pyramide à degrés ?",
+    "answers": [
       "Pyramide lisse",
       "Ziggourat",
       "Stupa",
       "Dolmen"
     ],
-    "answer": "Ziggourat"
+    "correctIndex": 1
   },
   {
+    "id": "q88",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel empire assyrien avait pour capitale Ninive ?",
-    "options": [
+    "text": "Quel empire assyrien avait pour capitale Ninive ?",
+    "answers": [
       "Hittites",
       "Mède",
       "Élam",
       "Assyrie"
     ],
-    "answer": "Assyrie"
+    "correctIndex": 3
   },
   {
+    "id": "q89",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel peuple maritime diffusa un alphabet en Méditerranée ?",
-    "options": [
+    "text": "Quel peuple maritime diffusa un alphabet en Méditerranée ?",
+    "answers": [
       "Huns",
       "Gaulois",
       "Phéniciens",
       "Celtes"
     ],
-    "answer": "Phéniciens"
+    "correctIndex": 2
   },
   {
+    "id": "q90",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quelle ville phénicienne fonda Carthage selon la tradition ?",
-    "options": [
+    "text": "Quelle ville phénicienne fonda Carthage selon la tradition ?",
+    "answers": [
       "Byblos",
       "Tyr",
       "Arwad",
       "Sidon"
     ],
-    "answer": "Tyr"
+    "correctIndex": 1
   },
   {
+    "id": "q91",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel roi perse fonda l’empire achéménide ?",
-    "options": [
+    "text": "Quel roi perse fonda l’empire achéménide ?",
+    "answers": [
       "Artaxerxès II",
       "Cyrus le Grand",
       "Xerxès Iᵉʳ",
       "Darius Iᵉʳ"
     ],
-    "answer": "Cyrus le Grand"
+    "correctIndex": 1
   },
   {
+    "id": "q92",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quelle route antique reliait Suse à Sardes ?",
-    "options": [
+    "text": "Quelle route antique reliait Suse à Sardes ?",
+    "answers": [
       "Route de l’étain",
       "Chemin d’Ambre",
       "Via Appia",
       "Route royale"
     ],
-    "answer": "Route royale"
+    "correctIndex": 3
   },
   {
+    "id": "q93",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quelle cité grecque est réputée pour sa démocratie au Vᵉ siècle av. J.-C. ?",
-    "options": [
+    "text": "Quelle cité grecque est réputée pour sa démocratie au Vᵉ siècle av. J.-C. ?",
+    "answers": [
       "Thèbes",
       "Sparte",
       "Athènes",
       "Corinthe"
     ],
-    "answer": "Athènes"
+    "correctIndex": 2
   },
   {
+    "id": "q94",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quelle cité grecque était célèbre pour sa discipline militaire ?",
-    "options": [
+    "text": "Quelle cité grecque était célèbre pour sa discipline militaire ?",
+    "answers": [
       "Sparte",
       "Argos",
       "Rhodes",
       "Athènes"
     ],
-    "answer": "Sparte"
+    "correctIndex": 0
   },
   {
+    "id": "q95",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel philosophe est l’auteur de « La République » ?",
-    "options": [
+    "text": "Quel philosophe est l’auteur de « La République » ?",
+    "answers": [
       "Platon",
       "Épicure",
       "Socrate",
       "Aristote"
     ],
-    "answer": "Platon"
+    "correctIndex": 0
   },
   {
+    "id": "q96",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel élève de Platon fonda le Lycée ?",
-    "options": [
+    "text": "Quel élève de Platon fonda le Lycée ?",
+    "answers": [
       "Zénon",
       "Aristote",
       "Socrate",
       "Démocrite"
     ],
-    "answer": "Aristote"
+    "correctIndex": 1
   },
   {
+    "id": "q97",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel historien est surnommé le « père de l’Histoire » ?",
-    "options": [
+    "text": "Quel historien est surnommé le « père de l’Histoire » ?",
+    "answers": [
       "Polybe",
       "Xénophon",
       "Thucydide",
       "Hérodote"
     ],
-    "answer": "Hérodote"
+    "correctIndex": 3
   },
   {
+    "id": "q98",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel dramaturge a écrit « Œdipe Roi » ?",
-    "options": [
+    "text": "Quel dramaturge a écrit « Œdipe Roi » ?",
+    "answers": [
       "Eschyle",
       "Aristophane",
       "Euripide",
       "Sophocle"
     ],
-    "answer": "Sophocle"
+    "correctIndex": 3
   },
   {
+    "id": "q99",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quelle guerre opposa Athènes et Sparte ?",
-    "options": [
+    "text": "Quelle guerre opposa Athènes et Sparte ?",
+    "answers": [
       "Guerres puniques",
       "Guerres médiques",
       "Guerre du Péloponnèse",
       "Guerre de Troie"
     ],
-    "answer": "Guerre du Péloponnèse"
+    "correctIndex": 2
   },
   {
+    "id": "q100",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quelle ligue était menée par Athènes ?",
-    "options": [
+    "text": "Quelle ligue était menée par Athènes ?",
+    "answers": [
       "Ligue étolienne",
       "Ligue du Péloponnèse",
       "Ligue achéenne",
       "Ligue de Délos"
     ],
-    "answer": "Ligue de Délos"
+    "correctIndex": 3
   },
   {
+    "id": "q101",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel stratège grec renforça la flotte athénienne avant Salamine ?",
-    "options": [
+    "text": "Quel stratège grec renforça la flotte athénienne avant Salamine ?",
+    "answers": [
       "Alcibiade",
       "Périclès",
       "Thémistocle",
       "Cimon"
     ],
-    "answer": "Thémistocle"
+    "correctIndex": 2
   },
   {
+    "id": "q102",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel roi macédonien conquit l’Empire perse ?",
-    "options": [
+    "text": "Quel roi macédonien conquit l’Empire perse ?",
+    "answers": [
       "Philippe II",
       "Alexandre le Grand",
       "Antigone",
       "Cassandre"
     ],
-    "answer": "Alexandre le Grand"
+    "correctIndex": 1
   },
   {
+    "id": "q103",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quelle assemblée romaine élisait les magistrats supérieurs ?",
-    "options": [
+    "text": "Quelle assemblée romaine élisait les magistrats supérieurs ?",
+    "answers": [
       "Sénat",
       "Comices centuriates",
       "Conciles plébéiens",
       "Comices tributes"
     ],
-    "answer": "Comices centuriates"
+    "correctIndex": 1
   },
   {
+    "id": "q104",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel ensemble de lois romaines archaïques fut gravé sur des tables ?",
-    "options": [
+    "text": "Quel ensemble de lois romaines archaïques fut gravé sur des tables ?",
+    "answers": [
       "Édit du préteur",
       "Lois des Douze Tables",
       "Lex Canuleia",
       "Lex Hortensia"
     ],
-    "answer": "Lois des Douze Tables"
+    "correctIndex": 1
   },
   {
+    "id": "q105",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel général traversa le Rubicon en 49 av. J.-C. ?",
-    "options": [
+    "text": "Quel général traversa le Rubicon en 49 av. J.-C. ?",
+    "answers": [
       "Pompée",
       "Brutus",
       "Crassus",
       "Jules César"
     ],
-    "answer": "Jules César"
+    "correctIndex": 3
   },
   {
+    "id": "q106",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel monument de spectacles pouvait accueillir des combats de gladiateurs ?",
-    "options": [
+    "text": "Quel monument de spectacles pouvait accueillir des combats de gladiateurs ?",
+    "answers": [
       "Théâtre de Marcellus",
       "Colisée",
       "Panthéon",
       "Circus Maximus"
     ],
-    "answer": "Colisée"
+    "correctIndex": 1
   },
   {
+    "id": "q107",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quelle voie romaine reliait Rome à Capoue et Brindes ?",
-    "options": [
+    "text": "Quelle voie romaine reliait Rome à Capoue et Brindes ?",
+    "answers": [
       "Via Salaria",
       "Via Flaminia",
       "Via Appia",
       "Via Aurelia"
     ],
-    "answer": "Via Appia"
+    "correctIndex": 2
   },
   {
+    "id": "q108",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel poète écrivit l’« Énéide » ?",
-    "options": [
+    "text": "Quel poète écrivit l’« Énéide » ?",
+    "answers": [
       "Ovide",
       "Virgile",
       "Horace",
       "Catulle"
     ],
-    "answer": "Virgile"
+    "correctIndex": 1
   },
   {
+    "id": "q109",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Qui forma le Deuxième Triumvirat avec Octavien ?",
-    "options": [
+    "text": "Qui forma le Deuxième Triumvirat avec Octavien ?",
+    "answers": [
       "Crassus et Pompée",
       "César et Pompée",
       "Brutus et Cassius",
       "Marc Antoine et Lépide"
     ],
-    "answer": "Marc Antoine et Lépide"
+    "correctIndex": 3
   },
   {
+    "id": "q110",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel terme désigne la paix et prospérité sous les premiers empereurs ?",
-    "options": [
+    "text": "Quel terme désigne la paix et prospérité sous les premiers empereurs ?",
+    "answers": [
       "Pax Augusta",
       "Pax Latina",
       "Pax Romana",
       "Pax Deorum"
     ],
-    "answer": "Pax Romana"
+    "correctIndex": 2
   },
   {
+    "id": "q111",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel peuple fut vaincu par César en Gaule ?",
-    "options": [
+    "text": "Quel peuple fut vaincu par César en Gaule ?",
+    "answers": [
       "Numides",
       "Germains",
       "Gaulois",
       "Daces"
     ],
-    "answer": "Gaulois"
+    "correctIndex": 2
   },
   {
+    "id": "q112",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel chef gaulois s’opposa à César à Alésia ?",
-    "options": [
+    "text": "Quel chef gaulois s’opposa à César à Alésia ?",
+    "answers": [
       "Vercingétorix",
       "Bituit",
       "Brennus",
       "Ambiorix"
     ],
-    "answer": "Vercingétorix"
+    "correctIndex": 0
   },
   {
+    "id": "q113",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel savant d’Alexandrie écrivit les « Éléments » ?",
-    "options": [
+    "text": "Quel savant d’Alexandrie écrivit les « Éléments » ?",
+    "answers": [
       "Archimède",
       "Euclide",
       "Apollonius",
       "Ptolémée"
     ],
-    "answer": "Euclide"
+    "correctIndex": 1
   },
   {
+    "id": "q114",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel savant formula le principe de la poussée sur les fluides ?",
-    "options": [
+    "text": "Quel savant formula le principe de la poussée sur les fluides ?",
+    "answers": [
       "Euclide",
       "Héron",
       "Ptolémée",
       "Archimède"
     ],
-    "answer": "Archimède"
+    "correctIndex": 3
   },
   {
+    "id": "q115",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Qui calcula la circonférence de la Terre avec les ombres à Syène et Alexandrie ?",
-    "options": [
+    "text": "Qui calcula la circonférence de la Terre avec les ombres à Syène et Alexandrie ?",
+    "answers": [
       "Posidonios",
       "Strabon",
       "Hipparque",
       "Ératosthène"
     ],
-    "answer": "Ératosthène"
+    "correctIndex": 3
   },
   {
+    "id": "q116",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel astronome conçut un grand traité appelé « Almageste » ?",
-    "options": [
+    "text": "Quel astronome conçut un grand traité appelé « Almageste » ?",
+    "answers": [
       "Hipparque",
       "Aristote",
       "Ptolémée",
       "Aristarque"
     ],
-    "answer": "Ptolémée"
+    "correctIndex": 2
   },
   {
+    "id": "q117",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel Grec proposa tôt un modèle héliocentrique ?",
-    "options": [
+    "text": "Quel Grec proposa tôt un modèle héliocentrique ?",
+    "answers": [
       "Anaxagore",
       "Aristarque de Samos",
       "Ptolémée",
       "Ératosthène"
     ],
-    "answer": "Aristarque de Samos"
+    "correctIndex": 1
   },
   {
+    "id": "q118",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel ingénieur imagina la « machine à vapeur » antique (éolipyle) ?",
-    "options": [
+    "text": "Quel ingénieur imagina la « machine à vapeur » antique (éolipyle) ?",
+    "answers": [
       "Archimède",
       "Philon",
       "Héron d’Alexandrie",
       "Ctesibios"
     ],
-    "answer": "Héron d’Alexandrie"
+    "correctIndex": 2
   },
   {
+    "id": "q119",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel médecin influent de l’Antiquité romaine fut actif à Pergame puis Rome ?",
-    "options": [
+    "text": "Quel médecin influent de l’Antiquité romaine fut actif à Pergame puis Rome ?",
+    "answers": [
       "Celse",
       "Dioscoride",
       "Hippocrate",
       "Galen (Galin)"
     ],
-    "answer": "Galen (Galin)"
+    "correctIndex": 3
   },
   {
+    "id": "q120",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel philosophe a été le maître d’Alexandre le Grand ?",
-    "options": [
+    "text": "Quel philosophe a été le maître d’Alexandre le Grand ?",
+    "answers": [
       "Isocrate",
       "Socrate",
       "Aristote",
       "Platon"
     ],
-    "answer": "Aristote"
+    "correctIndex": 2
   },
   {
+    "id": "q121",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel recueil attribué à Hippocrate est fondamental pour la médecine ?",
-    "options": [
+    "text": "Quel recueil attribué à Hippocrate est fondamental pour la médecine ?",
+    "answers": [
       "De Architectura",
       "Corpus hippocratique",
       "De Rerum Natura",
       "Naturalis Historia"
     ],
-    "answer": "Corpus hippocratique"
+    "correctIndex": 1
   },
   {
+    "id": "q122",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Qui est l’auteur de « Métamorphoses » ?",
-    "options": [
+    "text": "Qui est l’auteur de « Métamorphoses » ?",
+    "answers": [
       "Ovide",
       "Tibulle",
       "Horace",
       "Virgile"
     ],
-    "answer": "Ovide"
+    "correctIndex": 0
   },
   {
+    "id": "q123",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel empereur maurya s’est converti au bouddhisme après Kalinga ?",
-    "options": [
+    "text": "Quel empereur maurya s’est converti au bouddhisme après Kalinga ?",
+    "answers": [
       "Chandragupta",
       "Ashoka",
       "Bindusara",
       "Kanishka"
     ],
-    "answer": "Ashoka"
+    "correctIndex": 1
   },
   {
+    "id": "q124",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel fondateur créa l’empire Maurya ?",
-    "options": [
+    "text": "Quel fondateur créa l’empire Maurya ?",
+    "answers": [
       "Ashoka",
       "Harsha",
       "Chandragupta Maurya",
       "Bindusara"
     ],
-    "answer": "Chandragupta Maurya"
+    "correctIndex": 2
   },
   {
+    "id": "q125",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel texte ancien est écrit en sanskrit et compose l’épopée de Rama ?",
-    "options": [
+    "text": "Quel texte ancien est écrit en sanskrit et compose l’épopée de Rama ?",
+    "answers": [
       "Vedas",
       "Mahabharata",
       "Ramayana",
       "Upanishads"
     ],
-    "answer": "Ramayana"
+    "correctIndex": 2
   },
   {
+    "id": "q126",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel texte ancien narre la guerre des Bharata ?",
-    "options": [
+    "text": "Quel texte ancien narre la guerre des Bharata ?",
+    "answers": [
       "Vedas",
       "Arthashastra",
       "Mahabharata",
       "Ramayana"
     ],
-    "answer": "Mahabharata"
+    "correctIndex": 2
   },
   {
+    "id": "q127",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel traité politique est attribué à Kautilya (Chanakya) ?",
-    "options": [
+    "text": "Quel traité politique est attribué à Kautilya (Chanakya) ?",
+    "answers": [
       "Sutras",
       "Arthashastra",
       "Manusmriti",
       "Upanishads"
     ],
-    "answer": "Arthashastra"
+    "correctIndex": 1
   },
   {
+    "id": "q128",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel roi kouchan patronna le bouddhisme et l’art gandhara ?",
-    "options": [
+    "text": "Quel roi kouchan patronna le bouddhisme et l’art gandhara ?",
+    "answers": [
       "Harsha",
       "Chandragupta II",
       "Kanishka",
       "Ashoka"
     ],
-    "answer": "Kanishka"
+    "correctIndex": 2
   },
   {
+    "id": "q129",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel ancien site est célèbre pour ses grottes bouddhiques décorées ?",
-    "options": [
+    "text": "Quel ancien site est célèbre pour ses grottes bouddhiques décorées ?",
+    "answers": [
       "Ajanta",
       "Sanchi",
       "Ellora",
       "Nalanda"
     ],
-    "answer": "Ajanta"
+    "correctIndex": 0
   },
   {
+    "id": "q130",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quelle ancienne université bouddhique fut renommée en Inde ?",
-    "options": [
+    "text": "Quelle ancienne université bouddhique fut renommée en Inde ?",
+    "answers": [
       "Pataliputra",
       "Sarnath",
       "Taxila",
       "Nalanda"
     ],
-    "answer": "Nalanda"
+    "correctIndex": 3
   },
   {
+    "id": "q131",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quelle écriture était utilisée dans le sous-continent (nord-ouest) à l’époque ancienne ?",
-    "options": [
+    "text": "Quelle écriture était utilisée dans le sous-continent (nord-ouest) à l’époque ancienne ?",
+    "answers": [
       "Kharosthi",
       "Devanagari",
       "Brahmi tardif",
       "Grantha"
     ],
-    "answer": "Kharosthi"
+    "correctIndex": 0
   },
   {
+    "id": "q132",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel stûpa célèbre, restauré par Ashoka, se trouve à Sanchi ?",
-    "options": [
+    "text": "Quel stûpa célèbre, restauré par Ashoka, se trouve à Sanchi ?",
+    "answers": [
       "Stûpa de Amaravati",
       "Stûpa de Bharhut",
       "Dhamek Stûpa",
       "Grand Stûpa de Sanchi"
     ],
-    "answer": "Grand Stûpa de Sanchi"
+    "correctIndex": 3
   },
   {
+    "id": "q133",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel premier empereur unifia la Chine en 221 av. J.-C. ?",
-    "options": [
+    "text": "Quel premier empereur unifia la Chine en 221 av. J.-C. ?",
+    "answers": [
       "Qin Shi Huangdi",
       "Zheng He",
       "Wudi",
       "Gaozu (Liu Bang)"
     ],
-    "answer": "Qin Shi Huangdi"
+    "correctIndex": 0
   },
   {
+    "id": "q134",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel ouvrage stratégique est attribué à Sun Tzu ?",
-    "options": [
+    "text": "Quel ouvrage stratégique est attribué à Sun Tzu ?",
+    "answers": [
       "Dao De Jing",
       "Entretiens de Confucius",
       "Mozi",
       "L’Art de la guerre"
     ],
-    "answer": "L’Art de la guerre"
+    "correctIndex": 3
   },
   {
+    "id": "q135",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel philosophe prôna l’éthique et les rites dans les « Entretiens » ?",
-    "options": [
+    "text": "Quel philosophe prôna l’éthique et les rites dans les « Entretiens » ?",
+    "answers": [
       "Confucius",
       "Laozi",
       "Mozi",
       "Zhuangzi"
     ],
-    "answer": "Confucius"
+    "correctIndex": 0
   },
   {
+    "id": "q136",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel texte fondateur du taoïsme est attribué à Laozi ?",
-    "options": [
+    "text": "Quel texte fondateur du taoïsme est attribué à Laozi ?",
+    "answers": [
       "Zhuangzi",
       "Dao De Jing",
       "Huainanzi",
       "Liezi"
     ],
-    "answer": "Dao De Jing"
+    "correctIndex": 1
   },
   {
+    "id": "q137",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel armée de statues en terre cuite fut enterrée près de Xi’an ?",
-    "options": [
+    "text": "Quel armée de statues en terre cuite fut enterrée près de Xi’an ?",
+    "answers": [
       "Colosses de Memnon",
       "Armée de terre cuite",
       "Cuirassés de pierre",
       "Bronzes de Sanxingdui"
     ],
-    "answer": "Armée de terre cuite"
+    "correctIndex": 1
   },
   {
+    "id": "q138",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Sous quelle dynastie la soie et la route commerciale se développèrent fortement ?",
-    "options": [
+    "text": "Sous quelle dynastie la soie et la route commerciale se développèrent fortement ?",
+    "answers": [
       "Tang",
       "Qin",
       "Han",
       "Zhou"
     ],
-    "answer": "Han"
+    "correctIndex": 2
   },
   {
+    "id": "q139",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel fonctionnaire des Han est crédité de l’invention du papier ?",
-    "options": [
+    "text": "Quel fonctionnaire des Han est crédité de l’invention du papier ?",
+    "answers": [
       "Zhang Heng",
       "Sima Qian",
       "Ban Zhao",
       "Cai Lun"
     ],
-    "answer": "Cai Lun"
+    "correctIndex": 3
   },
   {
+    "id": "q140",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel astronome des Han inventa un sismographe ?",
-    "options": [
+    "text": "Quel astronome des Han inventa un sismographe ?",
+    "answers": [
       "Ban Gu",
       "Zhang Heng",
       "Cai Lun",
       "Sima Qian"
     ],
-    "answer": "Zhang Heng"
+    "correctIndex": 1
   },
   {
+    "id": "q141",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel historien composa les « Mémoires historiques » ?",
-    "options": [
+    "text": "Quel historien composa les « Mémoires historiques » ?",
+    "answers": [
       "Sima Qian",
       "Ban Gu",
       "Du You",
       "Sima Guang"
     ],
-    "answer": "Sima Qian"
+    "correctIndex": 0
   },
   {
+    "id": "q142",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel grand mur fut amorcé pour se protéger des incursions du nord ?",
-    "options": [
+    "text": "Quel grand mur fut amorcé pour se protéger des incursions du nord ?",
+    "answers": [
       "Mur de Longxing",
       "Mur d’Hadrien",
       "Mur cyclopéen",
       "Grande Muraille"
     ],
-    "answer": "Grande Muraille"
+    "correctIndex": 3
   },
   {
+    "id": "q143",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quelle cité phénicienne donna naissance à Carthage selon la tradition ?",
-    "options": [
+    "text": "Quelle cité phénicienne donna naissance à Carthage selon la tradition ?",
+    "answers": [
       "Tyr",
       "Sidon",
       "Arwad",
       "Byblos"
     ],
-    "answer": "Tyr"
+    "correctIndex": 0
   },
   {
+    "id": "q144",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel général carthaginois traversa les Alpes avec des éléphants ?",
-    "options": [
+    "text": "Quel général carthaginois traversa les Alpes avec des éléphants ?",
+    "answers": [
       "Hannibal Barca",
       "Magon",
       "Hamilcar",
       "Hasdrubal"
     ],
-    "answer": "Hannibal Barca"
+    "correctIndex": 0
   },
   {
+    "id": "q145",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel peuple d’Anatolie affronta l’Égypte à Qadesh ?",
-    "options": [
+    "text": "Quel peuple d’Anatolie affronta l’Égypte à Qadesh ?",
+    "answers": [
       "Lydiens",
       "Urartiens",
       "Hittites",
       "Phrygiens"
     ],
-    "answer": "Hittites"
+    "correctIndex": 2
   },
   {
+    "id": "q146",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel palais minoen se trouve en Crète ?",
-    "options": [
+    "text": "Quel palais minoen se trouve en Crète ?",
+    "answers": [
       "Cnossos",
       "Knossos",
       "Phaistos",
       "Malia"
     ],
-    "answer": "Knossos"
+    "correctIndex": 1
   },
   {
+    "id": "q147",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quelle civilisation grecque palatiale précédait la période classique sur le continent ?",
-    "options": [
+    "text": "Quelle civilisation grecque palatiale précédait la période classique sur le continent ?",
+    "answers": [
       "Doriens",
       "Mycéniens",
       "Minoens",
       "Ioniens"
     ],
-    "answer": "Mycéniens"
+    "correctIndex": 1
   },
   {
+    "id": "q148",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel syllabaire grec ancien fut utilisé par les Mycéniens ?",
-    "options": [
+    "text": "Quel syllabaire grec ancien fut utilisé par les Mycéniens ?",
+    "answers": [
       "Cyrillique",
       "Linéaire B",
       "Linéaire A",
       "Alphabet grec"
     ],
-    "answer": "Linéaire B"
+    "correctIndex": 1
   },
   {
+    "id": "q149",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel peuple d’Italie a influencé tôt Rome ?",
-    "options": [
+    "text": "Quel peuple d’Italie a influencé tôt Rome ?",
+    "answers": [
       "Étrusques",
       "Samnites",
       "Ombriens",
       "Latins"
     ],
-    "answer": "Étrusques"
+    "correctIndex": 0
   },
   {
+    "id": "q150",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel monument antique guidait les marins à Alexandrie ?",
-    "options": [
+    "text": "Quel monument antique guidait les marins à Alexandrie ?",
+    "answers": [
       "Phare d’Alexandrie",
       "Temple d’Artémis",
       "Colosse de Rhodes",
       "Mausolée d’Halicarnasse"
     ],
-    "answer": "Phare d’Alexandrie"
+    "correctIndex": 0
   },
   {
+    "id": "q151",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quelle statue géante se trouvait dans le port de Rhodes ?",
-    "options": [
+    "text": "Quelle statue géante se trouvait dans le port de Rhodes ?",
+    "answers": [
       "Colosse de Rhodes",
       "Apollon de Délos",
       "Athéna Parthénos",
       "Zeus d’Olympie"
     ],
-    "answer": "Colosse de Rhodes"
+    "correctIndex": 0
   },
   {
+    "id": "q152",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel mausolée monumental se situait à Halicarnasse ?",
-    "options": [
+    "text": "Quel mausolée monumental se situait à Halicarnasse ?",
+    "answers": [
       "Tombe de Mausole",
       "Mausolée d’Halicarnasse",
       "Pyramide de Khéops",
       "Tombe de Cyrus"
     ],
-    "answer": "Mausolée d’Halicarnasse"
+    "correctIndex": 1
   },
   {
+    "id": "q153",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel héros grec tua le Minotaure ?",
-    "options": [
+    "text": "Quel héros grec tua le Minotaure ?",
+    "answers": [
       "Thésée",
       "Persée",
       "Achille",
       "Héraclès"
     ],
-    "answer": "Thésée"
+    "correctIndex": 0
   },
   {
+    "id": "q154",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel héros tua la Méduse ?",
-    "options": [
+    "text": "Quel héros tua la Méduse ?",
+    "answers": [
       "Jason",
       "Thésée",
       "Bellérophon",
       "Persée"
     ],
-    "answer": "Persée"
+    "correctIndex": 3
   },
   {
+    "id": "q155",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel roi de l’épopée est lié à Ithaque ?",
-    "options": [
+    "text": "Quel roi de l’épopée est lié à Ithaque ?",
+    "answers": [
       "Ménélas",
       "Agamemnon",
       "Ulysse",
       "Achille"
     ],
-    "answer": "Ulysse"
+    "correctIndex": 2
   },
   {
+    "id": "q156",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel poète est l’auteur de l’« Iliade » et de l’« Odyssée » ?",
-    "options": [
+    "text": "Quel poète est l’auteur de l’« Iliade » et de l’« Odyssée » ?",
+    "answers": [
       "Hésiode",
       "Pindare",
       "Sappho",
       "Homère"
     ],
-    "answer": "Homère"
+    "correctIndex": 3
   },
   {
+    "id": "q157",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quelle école philosophique prône l’ataraxie et le plaisir mesuré ?",
-    "options": [
+    "text": "Quelle école philosophique prône l’ataraxie et le plaisir mesuré ?",
+    "answers": [
       "Stoïcisme",
       "Épicurisme",
       "Platonisme",
       "Cynisme"
     ],
-    "answer": "Épicurisme"
+    "correctIndex": 1
   },
   {
+    "id": "q158",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quelle école fondée par Zénon de Kition prône la maîtrise de soi ?",
-    "options": [
+    "text": "Quelle école fondée par Zénon de Kition prône la maîtrise de soi ?",
+    "answers": [
       "Scepticisme",
       "Stoïcisme",
       "Épicurisme",
       "Cynisme"
     ],
-    "answer": "Stoïcisme"
+    "correctIndex": 1
   },
   {
+    "id": "q159",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel orateur athénien s’opposa à Philippe II par ses « Philippiques » ?",
-    "options": [
+    "text": "Quel orateur athénien s’opposa à Philippe II par ses « Philippiques » ?",
+    "answers": [
       "Démosthène",
       "Lysias",
       "Isocrate",
       "Antiphon"
     ],
-    "answer": "Démosthène"
+    "correctIndex": 0
   },
   {
+    "id": "q160",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel constructeur athénien supervisa le Parthénon ?",
-    "options": [
+    "text": "Quel constructeur athénien supervisa le Parthénon ?",
+    "answers": [
       "Mnésiclès",
       "Callicratès",
       "Phidias",
       "Ictinos"
     ],
-    "answer": "Phidias"
+    "correctIndex": 2
   },
   {
+    "id": "q161",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel temple dominait l’Acropole d’Athènes ?",
-    "options": [
+    "text": "Quel temple dominait l’Acropole d’Athènes ?",
+    "answers": [
       "Hécatompédon",
       "Temple de Zeus",
       "Erechthéion",
       "Parthénon"
     ],
-    "answer": "Parthénon"
+    "correctIndex": 3
   },
   {
+    "id": "q162",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel jeu sportif grec antique inspira les Jeux modernes ?",
-    "options": [
+    "text": "Quel jeu sportif grec antique inspira les Jeux modernes ?",
+    "answers": [
       "Jeux olympiques",
       "Néméens",
       "Pythiques",
       "Panathénées"
     ],
-    "answer": "Jeux olympiques"
+    "correctIndex": 0
   },
   {
+    "id": "q163",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Dans quel sanctuaire grec la Pythie rendait-elle ses oracles ?",
-    "options": [
+    "text": "Dans quel sanctuaire grec la Pythie rendait-elle ses oracles ?",
+    "answers": [
       "Olympie",
       "Délos",
       "Dodone",
       "Delphes"
     ],
-    "answer": "Delphes"
+    "correctIndex": 3
   },
   {
+    "id": "q164",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quelle montagne de Grèce était considérée comme la demeure des dieux ?",
-    "options": [
+    "text": "Quelle montagne de Grèce était considérée comme la demeure des dieux ?",
+    "answers": [
       "Taygète",
       "Parnès",
       "Parnasse",
       "Olympe"
     ],
-    "answer": "Olympe"
+    "correctIndex": 3
   },
   {
+    "id": "q165",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel héros conduisit les Argonautes ?",
-    "options": [
+    "text": "Quel héros conduisit les Argonautes ?",
+    "answers": [
       "Jason",
       "Ulysse",
       "Achille",
       "Hector"
     ],
-    "answer": "Jason"
+    "correctIndex": 0
   },
   {
+    "id": "q166",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel roi de Macédoine institua la sarisse dans la phalange ?",
-    "options": [
+    "text": "Quel roi de Macédoine institua la sarisse dans la phalange ?",
+    "answers": [
       "Philippe II",
       "Alexandre le Grand",
       "Cassandre",
       "Démétrios"
     ],
-    "answer": "Philippe II"
+    "correctIndex": 0
   },
   {
+    "id": "q167",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel métal était associé aux armes des Hittites dès le IIᵉ millénaire ?",
-    "options": [
+    "text": "Quel métal était associé aux armes des Hittites dès le IIᵉ millénaire ?",
+    "answers": [
       "Cuivre",
       "Bronze",
       "Fer",
       "Or"
     ],
-    "answer": "Fer"
+    "correctIndex": 2
   },
   {
+    "id": "q168",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel peuple antique maîtrisait la pourpre de murex ?",
-    "options": [
+    "text": "Quel peuple antique maîtrisait la pourpre de murex ?",
+    "answers": [
       "Étrusques",
       "Phéniciens",
       "Romains",
       "Celtes"
     ],
-    "answer": "Phéniciens"
+    "correctIndex": 1
   },
   {
+    "id": "q169",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel écrivant grec composa l’« Anabase » relatant l’expédition des Dix Mille ?",
-    "options": [
+    "text": "Quel écrivant grec composa l’« Anabase » relatant l’expédition des Dix Mille ?",
+    "answers": [
       "Xénophon",
       "Hérodote",
       "Polybe",
       "Thucydide"
     ],
-    "answer": "Xénophon"
+    "correctIndex": 0
   },
   {
+    "id": "q170",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel général spartiate vainquit Athènes à Aigos Potamos ?",
-    "options": [
+    "text": "Quel général spartiate vainquit Athènes à Aigos Potamos ?",
+    "answers": [
       "Lysandre",
       "Pausanias",
       "Agis II",
       "Brasidas"
     ],
-    "answer": "Lysandre"
+    "correctIndex": 0
   },
   {
+    "id": "q171",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel traité mit fin à la Première Guerre punique ?",
-    "options": [
+    "text": "Quel traité mit fin à la Première Guerre punique ?",
+    "answers": [
       "Traité d’Apamée",
       "Paix de Nicias",
       "Paix d’Antalcidas",
       "Traité de Lutatius"
     ],
-    "answer": "Traité de Lutatius"
+    "correctIndex": 3
   },
   {
+    "id": "q172",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel général romain vainquit Jugurtha ?",
-    "options": [
+    "text": "Quel général romain vainquit Jugurtha ?",
+    "answers": [
       "Marius",
       "Pompée",
       "César",
       "Sulla"
     ],
-    "answer": "Marius"
+    "correctIndex": 0
   },
   {
+    "id": "q173",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel adversaire romain fut roi du Pont au Ier siècle av. J.-C. ?",
-    "options": [
+    "text": "Quel adversaire romain fut roi du Pont au Ier siècle av. J.-C. ?",
+    "answers": [
       "Tigrane",
       "Mithridate VI",
       "Deiotaros",
       "Pharnace"
     ],
-    "answer": "Mithridate VI"
+    "correctIndex": 1
   },
   {
+    "id": "q174",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quelle reine macédonienne fut la mère d’Alexandre le Grand ?",
-    "options": [
+    "text": "Quelle reine macédonienne fut la mère d’Alexandre le Grand ?",
+    "answers": [
       "Eurydice",
       "Cléopâtre Eurydice",
       "Olympias",
       "Roxane"
     ],
-    "answer": "Olympias"
+    "correctIndex": 2
   },
   {
+    "id": "q175",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quelle cité étrusque est réputée pour ses nécropoles peintes ?",
-    "options": [
+    "text": "Quelle cité étrusque est réputée pour ses nécropoles peintes ?",
+    "answers": [
       "Véies",
       "Tarquinia",
       "Cerveteri",
       "Volterra"
     ],
-    "answer": "Tarquinia"
+    "correctIndex": 1
   },
   {
+    "id": "q176",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel auteur romain écrivit « De Architectura » ?",
-    "options": [
+    "text": "Quel auteur romain écrivit « De Architectura » ?",
+    "answers": [
       "Sénèque",
       "Tacite",
       "Vitruve",
       "Pline l’Ancien"
     ],
-    "answer": "Vitruve"
+    "correctIndex": 2
   },
   {
+    "id": "q177",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel naturaliste romain écrivit « Histoire naturelle » ?",
-    "options": [
+    "text": "Quel naturaliste romain écrivit « Histoire naturelle » ?",
+    "answers": [
       "Pline l’Ancien",
       "Tacite",
       "Pline le Jeune",
       "Sénèque"
     ],
-    "answer": "Pline l’Ancien"
+    "correctIndex": 0
   },
   {
+    "id": "q178",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel dieu égyptien à tête de chacal est lié à l’embaumement ?",
-    "options": [
+    "text": "Quel dieu égyptien à tête de chacal est lié à l’embaumement ?",
+    "answers": [
       "Horus",
       "Seth",
       "Anubis",
       "Sobek"
     ],
-    "answer": "Anubis"
+    "correctIndex": 2
   },
   {
+    "id": "q179",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel dieu égyptien à tête de faucon est associé au ciel ?",
-    "options": [
+    "text": "Quel dieu égyptien à tête de faucon est associé au ciel ?",
+    "answers": [
       "Thot",
       "Horus",
       "Anubis",
       "Amon"
     ],
-    "answer": "Horus"
+    "correctIndex": 1
   },
   {
+    "id": "q180",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel dieu égyptien ibis est lié à l’écriture ?",
-    "options": [
+    "text": "Quel dieu égyptien ibis est lié à l’écriture ?",
+    "answers": [
       "Rê",
       "Thot",
       "Ptah",
       "Khnoum"
     ],
-    "answer": "Thot"
+    "correctIndex": 1
   },
   {
+    "id": "q181",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quelle cité grecque abritait le sanctuaire de Zeus et les Jeux olympiques ?",
-    "options": [
+    "text": "Quelle cité grecque abritait le sanctuaire de Zeus et les Jeux olympiques ?",
+    "answers": [
       "Olympie",
       "Némée",
       "Delphes",
       "Argos"
     ],
-    "answer": "Olympie"
+    "correctIndex": 0
   },
   {
+    "id": "q182",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel roi biblique conquit Jérusalem vers le Xe siècle av. J.-C. ?",
-    "options": [
+    "text": "Quel roi biblique conquit Jérusalem vers le Xe siècle av. J.-C. ?",
+    "answers": [
       "Salomon",
       "David",
       "Ézéchias",
       "Josias"
     ],
-    "answer": "David"
+    "correctIndex": 1
   },
   {
+    "id": "q183",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quelle cité antique d’Asie Mineure fut célèbre pour son gigantesque autel de Zeus ?",
-    "options": [
+    "text": "Quelle cité antique d’Asie Mineure fut célèbre pour son gigantesque autel de Zeus ?",
+    "answers": [
       "Milet",
       "Éphèse",
       "Pergame",
       "Smyrne"
     ],
-    "answer": "Pergame"
+    "correctIndex": 2
   },
   {
+    "id": "q184",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel temple grec d’Asie Mineure était dédié à Artémis ?",
-    "options": [
+    "text": "Quel temple grec d’Asie Mineure était dédié à Artémis ?",
+    "answers": [
       "Temple d’Apollon à Didymes",
       "Temple d’Artémis à Éphèse",
       "Temple d’Héra à Samos",
       "Temple d’Athéna à Priène"
     ],
-    "answer": "Temple d’Artémis à Éphèse"
+    "correctIndex": 1
   },
   {
+    "id": "q185",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel roi de Macédoine fut vainqueur à Cynoscéphales (197 av. J.-C.) ?",
-    "options": [
+    "text": "Quel roi de Macédoine fut vainqueur à Cynoscéphales (197 av. J.-C.) ?",
+    "answers": [
       "Philippe V (vaincu) / victoire romaine",
       "Antigone",
       "Persée",
       "Cassandre"
     ],
-    "answer": "Philippe V (vaincu) / victoire romaine"
+    "correctIndex": 0
   },
   {
+    "id": "q186",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Qui est l’auteur de « La Politique » ?",
-    "options": [
+    "text": "Qui est l’auteur de « La Politique » ?",
+    "answers": [
       "Xénophon",
       "Aristote",
       "Isocrate",
       "Platon"
     ],
-    "answer": "Aristote"
+    "correctIndex": 1
   },
   {
+    "id": "q187",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Qui est l’auteur de « Les Lois » ?",
-    "options": [
+    "text": "Qui est l’auteur de « Les Lois » ?",
+    "answers": [
       "Épicure",
       "Zénon",
       "Aristote",
       "Platon"
     ],
-    "answer": "Platon"
+    "correctIndex": 3
   },
   {
+    "id": "q188",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Qui est l’auteur de « Les Nuées » (comédie) ?",
-    "options": [
+    "text": "Qui est l’auteur de « Les Nuées » (comédie) ?",
+    "answers": [
       "Ménandre",
       "Euripide",
       "Sophocle",
       "Aristophane"
     ],
-    "answer": "Aristophane"
+    "correctIndex": 3
   },
   {
+    "id": "q189",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Qui est l’auteur de « Les Perses » (tragédie) ?",
-    "options": [
+    "text": "Qui est l’auteur de « Les Perses » (tragédie) ?",
+    "answers": [
       "Sophocle",
       "Eschyle",
       "Aristophane",
       "Euripide"
     ],
-    "answer": "Eschyle"
+    "correctIndex": 1
   },
   {
+    "id": "q190",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quelle cité contrôlait le canal de Corinthe ?",
-    "options": [
+    "text": "Quelle cité contrôlait le canal de Corinthe ?",
+    "answers": [
       "Épidaure",
       "Sparte",
       "Athènes",
       "Corinthe"
     ],
-    "answer": "Corinthe"
+    "correctIndex": 3
   },
   {
+    "id": "q191",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel roi lagide régna sur l’Égypte après Alexandre ?",
-    "options": [
+    "text": "Quel roi lagide régna sur l’Égypte après Alexandre ?",
+    "answers": [
       "Cassandre",
       "Séleucos Iᵉʳ",
       "Ptolémée Iᵉʳ",
       "Antigone"
     ],
-    "answer": "Ptolémée Iᵉʳ"
+    "correctIndex": 2
   },
   {
+    "id": "q192",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel royaume successeur d’Alexandre régna sur la Syrie et la Mésopotamie ?",
-    "options": [
+    "text": "Quel royaume successeur d’Alexandre régna sur la Syrie et la Mésopotamie ?",
+    "answers": [
       "Séleucides",
       "Lagides",
       "Antigonides",
       "Attalides"
     ],
-    "answer": "Séleucides"
+    "correctIndex": 0
   },
   {
+    "id": "q193",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel royaume hellénistique avait pour capitale Pergame ?",
-    "options": [
+    "text": "Quel royaume hellénistique avait pour capitale Pergame ?",
+    "answers": [
       "Attalides",
       "Antigonides",
       "Séleucides",
       "Lagides"
     ],
-    "answer": "Attalides"
+    "correctIndex": 0
   },
   {
+    "id": "q194",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel général carthaginois fut vaincu à Zama ?",
-    "options": [
+    "text": "Quel général carthaginois fut vaincu à Zama ?",
+    "answers": [
       "Hamilcar",
       "Magon",
       "Hasdrubal",
       "Hannibal"
     ],
-    "answer": "Hannibal"
+    "correctIndex": 3
   },
   {
+    "id": "q195",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel chef romain vainquit à Zama ?",
-    "options": [
+    "text": "Quel chef romain vainquit à Zama ?",
+    "answers": [
       "Sulla",
       "César",
       "Marius",
       "Scipion l’Africain"
     ],
-    "answer": "Scipion l’Africain"
+    "correctIndex": 3
   },
   {
+    "id": "q196",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel temple circulaire à Rome est dédié à tous les dieux ?",
-    "options": [
+    "text": "Quel temple circulaire à Rome est dédié à tous les dieux ?",
+    "answers": [
       "Temple de Saturne",
       "Temple de Mars",
       "Temple de Vesta",
       "Panthéon"
     ],
-    "answer": "Panthéon"
+    "correctIndex": 3
   },
   {
+    "id": "q197",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel aqueduc alimentait Rome depuis le IIIᵉ siècle av. J.-C. ?",
-    "options": [
+    "text": "Quel aqueduc alimentait Rome depuis le IIIᵉ siècle av. J.-C. ?",
+    "answers": [
       "Aqua Claudia",
       "Aqua Marcia",
       "Aqua Virgo",
       "Aqua Appia"
     ],
-    "answer": "Aqua Appia"
+    "correctIndex": 3
   },
   {
+    "id": "q198",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quelle ville campanienne fut ensevelie en 79 ?",
-    "options": [
+    "text": "Quelle ville campanienne fut ensevelie en 79 ?",
+    "answers": [
       "Herculanum",
       "Oplontis",
       "Stabies",
       "Pompéi"
     ],
-    "answer": "Pompéi"
+    "correctIndex": 3
   },
   {
+    "id": "q199",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel port voisin de Pompéi fut aussi touché en 79 ?",
-    "options": [
+    "text": "Quel port voisin de Pompéi fut aussi touché en 79 ?",
+    "answers": [
       "Cumes",
       "Capoue",
       "Herculanum",
       "Ostie"
     ],
-    "answer": "Herculanum"
+    "correctIndex": 2
   },
   {
+    "id": "q200",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel architecte romain a légué un traité influent ?",
-    "options": [
+    "text": "Quel architecte romain a légué un traité influent ?",
+    "answers": [
       "Apollodore de Damas",
       "Agrippa",
       "Frontin",
       "Vitruve"
     ],
-    "answer": "Vitruve"
+    "correctIndex": 3
   },
   {
+    "id": "q201",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel ingénieur conçut le forum de Trajan ?",
-    "options": [
+    "text": "Quel ingénieur conçut le forum de Trajan ?",
+    "answers": [
       "Apollodore de Damas",
       "Vitruve",
       "Frontin",
       "Agrippa"
     ],
-    "answer": "Apollodore de Damas"
+    "correctIndex": 0
   },
   {
+    "id": "q202",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel roi égyptien fit ériger de nombreux obélisques ?",
-    "options": [
+    "text": "Quel roi égyptien fit ériger de nombreux obélisques ?",
+    "answers": [
       "Ramsès II",
       "Djoser",
       "Thoutmôsis III",
       "Séthi Iᵉʳ"
     ],
-    "answer": "Thoutmôsis III"
+    "correctIndex": 2
   },
   {
+    "id": "q203",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel dieu solaire égyptien est souvent représenté en disque ?",
-    "options": [
+    "text": "Quel dieu solaire égyptien est souvent représenté en disque ?",
+    "answers": [
       "Ptah",
       "Rê (Râ)",
       "Aton",
       "Amon"
     ],
-    "answer": "Rê (Râ)"
+    "correctIndex": 1
   },
   {
+    "id": "q204",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel couple royal égyptien est célèbre à Amarna ?",
-    "options": [
+    "text": "Quel couple royal égyptien est célèbre à Amarna ?",
+    "answers": [
       "Amenhotep III et Tiyi",
       "Toutankhamon et Ankhesenamon",
       "Ramsès II et Néfertari",
       "Akhenaton et Néfertiti"
     ],
-    "answer": "Akhenaton et Néfertiti"
+    "correctIndex": 3
   },
   {
+    "id": "q205",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel trésor archéologique égyptien a été trouvé dans la Vallée des Rois ?",
-    "options": [
+    "text": "Quel trésor archéologique égyptien a été trouvé dans la Vallée des Rois ?",
+    "answers": [
       "Tombe de Ramsès II",
       "Tombe de Toutankhamon",
       "Tombe de Séthi Iᵉʳ",
       "Tombe de Horemheb"
     ],
-    "answer": "Tombe de Toutankhamon"
+    "correctIndex": 1
   },
   {
+    "id": "q206",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel roi perse mena l’invasion de la Grèce en 480 av. J.-C. ?",
-    "options": [
+    "text": "Quel roi perse mena l’invasion de la Grèce en 480 av. J.-C. ?",
+    "answers": [
       "Darius Iᵉʳ",
       "Artaxerxès Iᵉʳ",
       "Cyrus le Grand",
       "Xerxès Iᵉʳ"
     ],
-    "answer": "Xerxès Iᵉʳ"
+    "correctIndex": 3
   },
   {
+    "id": "q207",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quelle cité grecque domina la mer Égée avec sa flotte ?",
-    "options": [
+    "text": "Quelle cité grecque domina la mer Égée avec sa flotte ?",
+    "answers": [
       "Corinthe",
       "Sparte",
       "Thèbes",
       "Athènes"
     ],
-    "answer": "Athènes"
+    "correctIndex": 3
   },
   {
+    "id": "q208",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel chef athénien donna son nom à une ère de grandeur culturelle ?",
-    "options": [
+    "text": "Quel chef athénien donna son nom à une ère de grandeur culturelle ?",
+    "answers": [
       "Thémistocle",
       "Alcibiade",
       "Cimon",
       "Périclès"
     ],
-    "answer": "Périclès"
+    "correctIndex": 3
   },
   {
+    "id": "q209",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel roi de Macédoine vainquit les cités grecques à Chéronée ?",
-    "options": [
+    "text": "Quel roi de Macédoine vainquit les cités grecques à Chéronée ?",
+    "answers": [
       "Philippe II",
       "Alexandre le Grand",
       "Antigone",
       "Cassandre"
     ],
-    "answer": "Philippe II"
+    "correctIndex": 0
   },
   {
+    "id": "q210",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel général romain triompha des Gaulois à Alésia ?",
-    "options": [
+    "text": "Quel général romain triompha des Gaulois à Alésia ?",
+    "answers": [
       "Sulla",
       "Pompée",
       "César",
       "Marius"
     ],
-    "answer": "César"
+    "correctIndex": 2
   },
   {
+    "id": "q211",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quelle tribu germanique anéantit trois légions à Teutobourg (9) ?",
-    "options": [
+    "text": "Quelle tribu germanique anéantit trois légions à Teutobourg (9) ?",
+    "answers": [
       "Saxons",
       "Vandales",
       "Goths",
       "Chérusques"
     ],
-    "answer": "Chérusques"
+    "correctIndex": 3
   },
   {
+    "id": "q212",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel auteur latin écrivit « De Rerum Natura » ?",
-    "options": [
+    "text": "Quel auteur latin écrivit « De Rerum Natura » ?",
+    "answers": [
       "Tite-Live",
       "Sénèque",
       "Cicéron",
       "Lucrèce"
     ],
-    "answer": "Lucrèce"
+    "correctIndex": 3
   },
   {
+    "id": "q213",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel historien romain raconta la fondation de Rome et la République ?",
-    "options": [
+    "text": "Quel historien romain raconta la fondation de Rome et la République ?",
+    "answers": [
       "Tacite",
       "Tite-Live",
       "Suétone",
       "Salluste"
     ],
-    "answer": "Tite-Live"
+    "correctIndex": 1
   },
   {
+    "id": "q214",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel biographe romain écrivit « Vies des douze Césars » ?",
-    "options": [
+    "text": "Quel biographe romain écrivit « Vies des douze Césars » ?",
+    "answers": [
       "Plutarque",
       "Tacite",
       "Suétone",
       "Salluste"
     ],
-    "answer": "Suétone"
+    "correctIndex": 2
   },
   {
+    "id": "q215",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel orateur romain est célèbre pour ses Catilinaires ?",
-    "options": [
+    "text": "Quel orateur romain est célèbre pour ses Catilinaires ?",
+    "answers": [
       "Cicéron",
       "Quintilien",
       "Sénèque",
       "Pline le Jeune"
     ],
-    "answer": "Cicéron"
+    "correctIndex": 0
   },
   {
+    "id": "q216",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quelle cité grecque était réputée pour son colosse ?",
-    "options": [
+    "text": "Quelle cité grecque était réputée pour son colosse ?",
+    "answers": [
       "Délos",
       "Rhodes",
       "Olympie",
       "Delphes"
     ],
-    "answer": "Rhodes"
+    "correctIndex": 1
   },
   {
+    "id": "q217",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel roi hellénistique régna en Égypte ?",
-    "options": [
+    "text": "Quel roi hellénistique régna en Égypte ?",
+    "answers": [
       "Attale",
       "Antigone",
       "Séleucos",
       "Ptolémée"
     ],
-    "answer": "Ptolémée"
+    "correctIndex": 3
   },
   {
+    "id": "q218",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel général carthaginois fut père de Hannibal ?",
-    "options": [
+    "text": "Quel général carthaginois fut père de Hannibal ?",
+    "answers": [
       "Hamilcar Barca",
       "Magon",
       "Bomilcar",
       "Hasdrubal"
     ],
-    "answer": "Hamilcar Barca"
+    "correctIndex": 0
   },
   {
+    "id": "q219",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel port de Rome servait de débouché maritime ?",
-    "options": [
+    "text": "Quel port de Rome servait de débouché maritime ?",
+    "answers": [
       "Ravenne",
       "Pouzzoles",
       "Ostie",
       "Cumes"
     ],
-    "answer": "Ostie"
+    "correctIndex": 2
   },
   {
+    "id": "q220",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quelle montagne abrita l’éruption de 79 ?",
-    "options": [
+    "text": "Quelle montagne abrita l’éruption de 79 ?",
+    "answers": [
       "Pélion",
       "Etna",
       "Vésuve",
       "Stromboli"
     ],
-    "answer": "Vésuve"
+    "correctIndex": 2
   },
   {
+    "id": "q221",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel philosophe stoïcien fut empereur romain ?",
-    "options": [
+    "text": "Quel philosophe stoïcien fut empereur romain ?",
+    "answers": [
       "Marc Aurèle",
       "Trajan",
       "Nerva",
       "Hadrien"
     ],
-    "answer": "Marc Aurèle"
+    "correctIndex": 0
   },
   {
+    "id": "q222",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quelle langue véhiculaire fut largement diffusée par les Grecs ?",
-    "options": [
+    "text": "Quelle langue véhiculaire fut largement diffusée par les Grecs ?",
+    "answers": [
       "Grec koinè",
       "Copte",
       "Latin",
       "Araméen"
     ],
-    "answer": "Grec koinè"
+    "correctIndex": 0
   },
   {
+    "id": "q223",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel alphabet se diffuse grâce aux Phéniciens ?",
-    "options": [
+    "text": "Quel alphabet se diffuse grâce aux Phéniciens ?",
+    "answers": [
       "Cyrillique",
       "Hiéroglyphes",
       "Runes",
       "Alphabet phénicien"
     ],
-    "answer": "Alphabet phénicien"
+    "correctIndex": 3
   },
   {
+    "id": "q224",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel peuple antique colonisa Massalia (Marseille) ?",
-    "options": [
+    "text": "Quel peuple antique colonisa Massalia (Marseille) ?",
+    "answers": [
       "Carthaginois",
       "Romains",
       "Étrusques",
       "Grecs (Phocéens)"
     ],
-    "answer": "Grecs (Phocéens)"
+    "correctIndex": 3
   },
   {
+    "id": "q225",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quelle ville grecque abritait un célèbre théâtre en plein air ?",
-    "options": [
+    "text": "Quelle ville grecque abritait un célèbre théâtre en plein air ?",
+    "answers": [
       "Corinthe",
       "Épidaure",
       "Argos",
       "Sparte"
     ],
-    "answer": "Épidaure"
+    "correctIndex": 1
   },
   {
+    "id": "q226",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel stratège athénien joua un rôle majeur à Salamine ?",
-    "options": [
+    "text": "Quel stratège athénien joua un rôle majeur à Salamine ?",
+    "answers": [
       "Thémistocle",
       "Périclès",
       "Cimon",
       "Aristide"
     ],
-    "answer": "Thémistocle"
+    "correctIndex": 0
   },
   {
+    "id": "q227",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Qui est le père d’Alexandre le Grand ?",
-    "options": [
+    "text": "Qui est le père d’Alexandre le Grand ?",
+    "answers": [
       "Amyntas III",
       "Cassandre",
       "Philippe II",
       "Antigone"
     ],
-    "answer": "Philippe II"
+    "correctIndex": 2
   },
   {
+    "id": "q228",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel poète latin est l’auteur des « Bucoliques » ?",
-    "options": [
+    "text": "Quel poète latin est l’auteur des « Bucoliques » ?",
+    "answers": [
       "Properce",
       "Horace",
       "Virgile",
       "Ovide"
     ],
-    "answer": "Virgile"
+    "correctIndex": 2
   },
   {
+    "id": "q229",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel empereur fit construire un grand forum portant son nom ?",
-    "options": [
+    "text": "Quel empereur fit construire un grand forum portant son nom ?",
+    "answers": [
       "Trajan",
       "Auguste",
       "Nerva",
       "César"
     ],
-    "answer": "Trajan"
+    "correctIndex": 0
   },
   {
+    "id": "q230",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel général romain a écrit des « Commentaires » sur la guerre des Gaules ?",
-    "options": [
+    "text": "Quel général romain a écrit des « Commentaires » sur la guerre des Gaules ?",
+    "answers": [
       "Jules César",
       "Pompée",
       "Sulla",
       "Marius"
     ],
-    "answer": "Jules César"
+    "correctIndex": 0
   },
   {
+    "id": "q231",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel philosophe grec est célèbre pour sa méthode de dialogues ?",
-    "options": [
+    "text": "Quel philosophe grec est célèbre pour sa méthode de dialogues ?",
+    "answers": [
       "Socrate",
       "Platon",
       "Aristote",
       "Zénon"
     ],
-    "answer": "Socrate"
+    "correctIndex": 0
   },
   {
+    "id": "q232",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quelle cité grecque abritait les Panathénées ?",
-    "options": [
+    "text": "Quelle cité grecque abritait les Panathénées ?",
+    "answers": [
       "Athènes",
       "Sparte",
       "Argos",
       "Corinthe"
     ],
-    "answer": "Athènes"
+    "correctIndex": 0
   },
   {
+    "id": "q233",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel grand roi perse fit creuser un canal à travers l’isthme de l’Athos ?",
-    "options": [
+    "text": "Quel grand roi perse fit creuser un canal à travers l’isthme de l’Athos ?",
+    "answers": [
       "Xerxès Iᵉʳ",
       "Artaxerxès",
       "Darius Iᵉʳ",
       "Cyrus"
     ],
-    "answer": "Xerxès Iᵉʳ"
+    "correctIndex": 0
   },
   {
+    "id": "q234",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel monument funéraire est l’une des Sept Merveilles ?",
-    "options": [
+    "text": "Quel monument funéraire est l’une des Sept Merveilles ?",
+    "answers": [
       "Statue de Zeus",
       "Phare d’Alexandrie",
       "Mausolée d’Halicarnasse",
       "Colosse de Rhodes"
     ],
-    "answer": "Mausolée d’Halicarnasse"
+    "correctIndex": 2
   },
   {
+    "id": "q235",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quelle bataille navale opposa Octavien à Marc Antoine ?",
-    "options": [
+    "text": "Quelle bataille navale opposa Octavien à Marc Antoine ?",
+    "answers": [
       "Nauloque",
       "Égates",
       "Actium",
       "Mylae"
     ],
-    "answer": "Actium"
+    "correctIndex": 2
   },
   {
+    "id": "q236",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Colisée",
       "Circus Maximus",
       "Panthéon",
       "Théâtre de Marcellus"
     ],
-    "answer": "Colisée"
+    "correctIndex": 0
   },
   {
+    "id": "q237",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Théâtre de Marcellus",
       "Circus Maximus",
       "Panthéon",
       "Colisée"
     ],
-    "answer": "Colisée"
+    "correctIndex": 3
   },
   {
+    "id": "q238",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Circus Maximus",
       "Panthéon",
       "Colisée",
       "Théâtre de Marcellus"
     ],
-    "answer": "Colisée"
+    "correctIndex": 2
   },
   {
+    "id": "q239",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Colisée",
       "Circus Maximus",
       "Panthéon",
       "Théâtre de Marcellus"
     ],
-    "answer": "Colisée"
+    "correctIndex": 0
   },
   {
+    "id": "q240",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Colisée",
       "Circus Maximus",
       "Panthéon",
       "Théâtre de Marcellus"
     ],
-    "answer": "Colisée"
+    "correctIndex": 0
   },
   {
+    "id": "q241",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Théâtre de Marcellus",
       "Colisée",
       "Circus Maximus",
       "Panthéon"
     ],
-    "answer": "Colisée"
+    "correctIndex": 1
   },
   {
+    "id": "q242",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Circus Maximus",
       "Panthéon",
       "Colisée",
       "Théâtre de Marcellus"
     ],
-    "answer": "Colisée"
+    "correctIndex": 2
   },
   {
+    "id": "q243",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Théâtre de Marcellus",
       "Circus Maximus",
       "Panthéon",
       "Colisée"
     ],
-    "answer": "Colisée"
+    "correctIndex": 3
   },
   {
+    "id": "q244",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Circus Maximus",
       "Colisée",
       "Panthéon",
       "Théâtre de Marcellus"
     ],
-    "answer": "Colisée"
+    "correctIndex": 1
   },
   {
+    "id": "q245",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Panthéon",
       "Circus Maximus",
       "Colisée",
       "Théâtre de Marcellus"
     ],
-    "answer": "Colisée"
+    "correctIndex": 2
   },
   {
+    "id": "q246",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Théâtre de Marcellus",
       "Panthéon",
       "Colisée",
       "Circus Maximus"
     ],
-    "answer": "Colisée"
+    "correctIndex": 2
   },
   {
+    "id": "q247",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Théâtre de Marcellus",
       "Panthéon",
       "Circus Maximus",
       "Colisée"
     ],
-    "answer": "Colisée"
+    "correctIndex": 3
   },
   {
+    "id": "q248",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Panthéon",
       "Théâtre de Marcellus",
       "Circus Maximus",
       "Colisée"
     ],
-    "answer": "Colisée"
+    "correctIndex": 3
   },
   {
+    "id": "q249",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Panthéon",
       "Colisée",
       "Circus Maximus",
       "Théâtre de Marcellus"
     ],
-    "answer": "Colisée"
+    "correctIndex": 1
   },
   {
+    "id": "q250",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Théâtre de Marcellus",
       "Circus Maximus",
       "Panthéon",
       "Colisée"
     ],
-    "answer": "Colisée"
+    "correctIndex": 3
   },
   {
+    "id": "q251",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Colisée",
       "Panthéon",
       "Théâtre de Marcellus",
       "Circus Maximus"
     ],
-    "answer": "Colisée"
+    "correctIndex": 0
   },
   {
+    "id": "q252",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Théâtre de Marcellus",
       "Circus Maximus",
       "Panthéon",
       "Colisée"
     ],
-    "answer": "Colisée"
+    "correctIndex": 3
   },
   {
+    "id": "q253",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Colisée",
       "Panthéon",
       "Théâtre de Marcellus",
       "Circus Maximus"
     ],
-    "answer": "Colisée"
+    "correctIndex": 0
   },
   {
+    "id": "q254",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Panthéon",
       "Théâtre de Marcellus",
       "Circus Maximus",
       "Colisée"
     ],
-    "answer": "Colisée"
+    "correctIndex": 3
   },
   {
+    "id": "q255",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Colisée",
       "Théâtre de Marcellus",
       "Circus Maximus",
       "Panthéon"
     ],
-    "answer": "Colisée"
+    "correctIndex": 0
   },
   {
+    "id": "q256",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Théâtre de Marcellus",
       "Colisée",
       "Circus Maximus",
       "Panthéon"
     ],
-    "answer": "Colisée"
+    "correctIndex": 1
   },
   {
+    "id": "q257",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Panthéon",
       "Circus Maximus",
       "Colisée",
       "Théâtre de Marcellus"
     ],
-    "answer": "Colisée"
+    "correctIndex": 2
   },
   {
+    "id": "q258",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Circus Maximus",
       "Panthéon",
       "Colisée",
       "Théâtre de Marcellus"
     ],
-    "answer": "Colisée"
+    "correctIndex": 2
   },
   {
+    "id": "q259",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Circus Maximus",
       "Panthéon",
       "Théâtre de Marcellus",
       "Colisée"
     ],
-    "answer": "Colisée"
+    "correctIndex": 3
   },
   {
+    "id": "q260",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Théâtre de Marcellus",
       "Circus Maximus",
       "Panthéon",
       "Colisée"
     ],
-    "answer": "Colisée"
+    "correctIndex": 3
   },
   {
+    "id": "q261",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Théâtre de Marcellus",
       "Colisée",
       "Panthéon",
       "Circus Maximus"
     ],
-    "answer": "Colisée"
+    "correctIndex": 1
   },
   {
+    "id": "q262",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Colisée",
       "Théâtre de Marcellus",
       "Circus Maximus",
       "Panthéon"
     ],
-    "answer": "Colisée"
+    "correctIndex": 0
   },
   {
+    "id": "q263",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Théâtre de Marcellus",
       "Circus Maximus",
       "Colisée",
       "Panthéon"
     ],
-    "answer": "Colisée"
+    "correctIndex": 2
   },
   {
+    "id": "q264",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Théâtre de Marcellus",
       "Panthéon",
       "Circus Maximus",
       "Colisée"
     ],
-    "answer": "Colisée"
+    "correctIndex": 3
   },
   {
+    "id": "q265",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Circus Maximus",
       "Colisée",
       "Théâtre de Marcellus",
       "Panthéon"
     ],
-    "answer": "Colisée"
+    "correctIndex": 1
   },
   {
+    "id": "q266",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Colisée",
       "Circus Maximus",
       "Théâtre de Marcellus",
       "Panthéon"
     ],
-    "answer": "Colisée"
+    "correctIndex": 0
   },
   {
+    "id": "q267",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Circus Maximus",
       "Colisée",
       "Panthéon",
       "Théâtre de Marcellus"
     ],
-    "answer": "Colisée"
+    "correctIndex": 1
   },
   {
+    "id": "q268",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Circus Maximus",
       "Colisée",
       "Panthéon",
       "Théâtre de Marcellus"
     ],
-    "answer": "Colisée"
+    "correctIndex": 1
   },
   {
+    "id": "q269",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Théâtre de Marcellus",
       "Circus Maximus",
       "Panthéon",
       "Colisée"
     ],
-    "answer": "Colisée"
+    "correctIndex": 3
   },
   {
+    "id": "q270",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Colisée",
       "Panthéon",
       "Théâtre de Marcellus",
       "Circus Maximus"
     ],
-    "answer": "Colisée"
+    "correctIndex": 0
   },
   {
+    "id": "q271",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Colisée",
       "Théâtre de Marcellus",
       "Panthéon",
       "Circus Maximus"
     ],
-    "answer": "Colisée"
+    "correctIndex": 0
   },
   {
+    "id": "q272",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Colisée",
       "Circus Maximus",
       "Théâtre de Marcellus",
       "Panthéon"
     ],
-    "answer": "Colisée"
+    "correctIndex": 0
   },
   {
+    "id": "q273",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Circus Maximus",
       "Panthéon",
       "Théâtre de Marcellus",
       "Colisée"
     ],
-    "answer": "Colisée"
+    "correctIndex": 3
   },
   {
+    "id": "q274",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Colisée",
       "Panthéon",
       "Théâtre de Marcellus",
       "Circus Maximus"
     ],
-    "answer": "Colisée"
+    "correctIndex": 0
   },
   {
+    "id": "q275",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Théâtre de Marcellus",
       "Panthéon",
       "Colisée",
       "Circus Maximus"
     ],
-    "answer": "Colisée"
+    "correctIndex": 2
   },
   {
+    "id": "q276",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Panthéon",
       "Théâtre de Marcellus",
       "Colisée",
       "Circus Maximus"
     ],
-    "answer": "Colisée"
+    "correctIndex": 2
   },
   {
+    "id": "q277",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Circus Maximus",
       "Colisée",
       "Panthéon",
       "Théâtre de Marcellus"
     ],
-    "answer": "Colisée"
+    "correctIndex": 1
   },
   {
+    "id": "q278",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Panthéon",
       "Théâtre de Marcellus",
       "Colisée",
       "Circus Maximus"
     ],
-    "answer": "Colisée"
+    "correctIndex": 2
   },
   {
+    "id": "q279",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Panthéon",
       "Colisée",
       "Théâtre de Marcellus",
       "Circus Maximus"
     ],
-    "answer": "Colisée"
+    "correctIndex": 1
   },
   {
+    "id": "q280",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Panthéon",
       "Théâtre de Marcellus",
       "Circus Maximus",
       "Colisée"
     ],
-    "answer": "Colisée"
+    "correctIndex": 3
   },
   {
+    "id": "q281",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Théâtre de Marcellus",
       "Colisée",
       "Panthéon",
       "Circus Maximus"
     ],
-    "answer": "Colisée"
+    "correctIndex": 1
   },
   {
+    "id": "q282",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Panthéon",
       "Colisée",
       "Théâtre de Marcellus",
       "Circus Maximus"
     ],
-    "answer": "Colisée"
+    "correctIndex": 1
   },
   {
+    "id": "q283",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Théâtre de Marcellus",
       "Circus Maximus",
       "Panthéon",
       "Colisée"
     ],
-    "answer": "Colisée"
+    "correctIndex": 3
   },
   {
+    "id": "q284",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Panthéon",
       "Circus Maximus",
       "Colisée",
       "Théâtre de Marcellus"
     ],
-    "answer": "Colisée"
+    "correctIndex": 2
   },
   {
+    "id": "q285",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Colisée",
       "Théâtre de Marcellus",
       "Circus Maximus",
       "Panthéon"
     ],
-    "answer": "Colisée"
+    "correctIndex": 0
   },
   {
+    "id": "q286",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Théâtre de Marcellus",
       "Panthéon",
       "Colisée",
       "Circus Maximus"
     ],
-    "answer": "Colisée"
+    "correctIndex": 2
   },
   {
+    "id": "q287",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Colisée",
       "Circus Maximus",
       "Panthéon",
       "Théâtre de Marcellus"
     ],
-    "answer": "Colisée"
+    "correctIndex": 0
   },
   {
+    "id": "q288",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Circus Maximus",
       "Théâtre de Marcellus",
       "Panthéon",
       "Colisée"
     ],
-    "answer": "Colisée"
+    "correctIndex": 3
   },
   {
+    "id": "q289",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Circus Maximus",
       "Théâtre de Marcellus",
       "Colisée",
       "Panthéon"
     ],
-    "answer": "Colisée"
+    "correctIndex": 2
   },
   {
+    "id": "q290",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Théâtre de Marcellus",
       "Panthéon",
       "Colisée",
       "Circus Maximus"
     ],
-    "answer": "Colisée"
+    "correctIndex": 2
   },
   {
+    "id": "q291",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Circus Maximus",
       "Théâtre de Marcellus",
       "Panthéon",
       "Colisée"
     ],
-    "answer": "Colisée"
+    "correctIndex": 3
   },
   {
+    "id": "q292",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Colisée",
       "Circus Maximus",
       "Panthéon",
       "Théâtre de Marcellus"
     ],
-    "answer": "Colisée"
+    "correctIndex": 0
   },
   {
+    "id": "q293",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Colisée",
       "Panthéon",
       "Circus Maximus",
       "Théâtre de Marcellus"
     ],
-    "answer": "Colisée"
+    "correctIndex": 0
   },
   {
+    "id": "q294",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Panthéon",
       "Théâtre de Marcellus",
       "Circus Maximus",
       "Colisée"
     ],
-    "answer": "Colisée"
+    "correctIndex": 3
   },
   {
+    "id": "q295",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Circus Maximus",
       "Panthéon",
       "Colisée",
       "Théâtre de Marcellus"
     ],
-    "answer": "Colisée"
+    "correctIndex": 2
   },
   {
+    "id": "q296",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Théâtre de Marcellus",
       "Colisée",
       "Circus Maximus",
       "Panthéon"
     ],
-    "answer": "Colisée"
+    "correctIndex": 1
   },
   {
+    "id": "q297",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Colisée",
       "Panthéon",
       "Circus Maximus",
       "Théâtre de Marcellus"
     ],
-    "answer": "Colisée"
+    "correctIndex": 0
   },
   {
+    "id": "q298",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Panthéon",
       "Circus Maximus",
       "Colisée",
       "Théâtre de Marcellus"
     ],
-    "answer": "Colisée"
+    "correctIndex": 2
   },
   {
+    "id": "q299",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Circus Maximus",
       "Panthéon",
       "Théâtre de Marcellus",
       "Colisée"
     ],
-    "answer": "Colisée"
+    "correctIndex": 3
   },
   {
+    "id": "q300",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "Quel est le monument emblématique de spectacles à Rome ?",
-    "options": [
+    "text": "Quel est le monument emblématique de spectacles à Rome ?",
+    "answers": [
       "Panthéon",
       "Circus Maximus",
       "Colisée",
       "Théâtre de Marcellus"
     ],
-    "answer": "Colisée"
+    "correctIndex": 2
   }
 ]
