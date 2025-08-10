@@ -1,16 +1,482 @@
 [
   {
-    "category": "Histoire",
+    "category": "Antiquité",
     "difficulty": "Facile",
-    "question": "En quelle année a eu lieu la prise de la Bastille ?",
-    "options": ["1789", "1792", "1776", "1804"],
-    "answer": "1789"
+    "question": "Quelle civilisation a construit les pyramides de Gizeh ?",
+    "options": [
+      "Égyptiens",
+      "Grecs",
+      "Romains",
+      "Perses"
+    ],
+    "answer": "Égyptiens"
   },
   {
-    "category": "Histoire",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "question": "Quel fleuve traverse l’Égypte ancienne ?",
+    "options": [
+      "Nil",
+      "Tigre",
+      "Euphrate",
+      "Jourdain"
+    ],
+    "answer": "Nil"
+  },
+  {
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "question": "Qui est le dieu grec du tonnerre ?",
+    "options": [
+      "Zeus",
+      "Hermès",
+      "Apollon",
+      "Hadès"
+    ],
+    "answer": "Zeus"
+  },
+  {
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "question": "Quelle cité grecque est connue pour son régime militaire strict ?",
+    "options": [
+      "Sparte",
+      "Athènes",
+      "Corinthe",
+      "Thèbes"
+    ],
+    "answer": "Sparte"
+  },
+  {
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "question": "Quel peuple a fondé Rome selon la légende de Romulus et Rémus ?",
+    "options": [
+      "Latins",
+      "Étrusques",
+      "Gaulois",
+      "Phéniciens"
+    ],
+    "answer": "Latins"
+  },
+  {
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "question": "Quelle écriture utilisaient les Mésopotamiens ?",
+    "options": [
+      "Cunéiforme",
+      "Hiéroglyphes",
+      "Alphabet latin",
+      "Runes"
+    ],
+    "answer": "Cunéiforme"
+  },
+  {
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "question": "Quel est le monument emblématique bâti par l’empereur Vespasien à Rome ?",
+    "options": [
+      "Colisée",
+      "Panthéon",
+      "Circus Maximus",
+      "Forum de Trajan"
+    ],
+    "answer": "Colisée"
+  },
+  {
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "question": "Qui a conquis un empire allant de la Grèce à l’Indus ?",
+    "options": [
+      "Alexandre le Grand",
+      "César",
+      "Hannibal",
+      "Darius Ier"
+    ],
+    "answer": "Alexandre le Grand"
+  },
+  {
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "question": "Quelle reine d’Égypte fut alliée à Marc Antoine ?",
+    "options": [
+      "Cléopâtre VII",
+      "Néfertiti",
+      "Hatshepsout",
+      "Bérénice"
+    ],
+    "answer": "Cléopâtre VII"
+  },
+  {
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "question": "Quelle guerre opposa Grecs et Troyens selon Homère ?",
+    "options": [
+      "Guerre de Troie",
+      "Guerres médiques",
+      "Guerre du Péloponnèse",
+      "Guerres puniques"
+    ],
+    "answer": "Guerre de Troie"
+  },
+  {
+    "category": "Antiquité",
+    "difficulty": "Moyen",
+    "question": "Quel général carthaginois traversa les Alpes avec des éléphants ?",
+    "options": [
+      "Hannibal Barca",
+      "Hamilcar",
+      "Mago",
+      "Hasdrubal"
+    ],
+    "answer": "Hannibal Barca"
+  },
+  {
+    "category": "Antiquité",
+    "difficulty": "Moyen",
+    "question": "Dans quelle cité se trouvait l’Acropole dominée par le Parthénon ?",
+    "options": [
+      "Athènes",
+      "Sparte",
+      "Rhodes",
+      "Milet"
+    ],
+    "answer": "Athènes"
+  },
+  {
+    "category": "Antiquité",
+    "difficulty": "Moyen",
+    "question": "Quel code de lois célèbre provient de Babylone ?",
+    "options": [
+      "Code d’Hammurabi",
+      "Lois des Douze Tables",
+      "Édit de Milan",
+      "Corpus juris civilis"
+    ],
+    "answer": "Code d’Hammurabi"
+  },
+  {
+    "category": "Antiquité",
+    "difficulty": "Moyen",
+    "question": "Quel pharaon tenta une révolution religieuse en imposant Aton ?",
+    "options": [
+      "Akhenaton",
+      "Toutankhamon",
+      "Ramsès II",
+      "Thoutmôsis III"
+    ],
+    "answer": "Akhenaton"
+  },
+  {
+    "category": "Antiquité",
+    "difficulty": "Moyen",
+    "question": "Qui fut assassiné en 44 av. J.-C. aux Ides de mars ?",
+    "options": [
+      "Jules César",
+      "Pompée",
+      "Crassus",
+      "Cicéron"
+    ],
+    "answer": "Jules César"
+  },
+  {
+    "category": "Antiquité",
+    "difficulty": "Moyen",
+    "question": "Quelle bataille navale (31 av. J.-C.) consacra Octave face à Antoine et Cléopâtre ?",
+    "options": [
+      "Actium",
+      "Salamine",
+      "Mylae",
+      "Aegates"
+    ],
+    "answer": "Actium"
+  },
+  {
+    "category": "Antiquité",
+    "difficulty": "Moyen",
+    "question": "Quel est le nom de l’écriture sacrée de l’Égypte antique ?",
+    "options": [
+      "Hiéroglyphes",
+      "Démotique",
+      "Cunéiforme",
+      "Linéraire B"
+    ],
+    "answer": "Hiéroglyphes"
+  },
+  {
+    "category": "Antiquité",
+    "difficulty": "Moyen",
+    "question": "Quelle grande bibliothèque fut située en Égypte ptolémaïque ?",
+    "options": [
+      "Alexandrie",
+      "Pergame",
+      "Antioche",
+      "Séleucie"
+    ],
+    "answer": "Alexandrie"
+  },
+  {
+    "category": "Antiquité",
+    "difficulty": "Moyen",
+    "question": "Quel philosophe est l’auteur de « La République » ?",
+    "options": [
+      "Platon",
+      "Aristote",
+      "Socrate",
+      "Épicure"
+    ],
+    "answer": "Platon"
+  },
+  {
+    "category": "Antiquité",
+    "difficulty": "Moyen",
+    "question": "Quel roi perse lança l’invasion de la Grèce en 480 av. J.-C. ?",
+    "options": [
+      "Xerxès Ier",
+      "Darius Ier",
+      "Cyrus le Grand",
+      "Artaxerxès II"
+    ],
+    "answer": "Xerxès Ier"
+  },
+  {
+    "category": "Antiquité",
     "difficulty": "Difficile",
-    "question": "Qui a succédé à Napoléon III après 1870 ?",
-    "options": ["Adolphe Thiers", "Louis-Philippe", "Gambetta", "Charles X"],
-    "answer": "Adolphe Thiers"
+    "question": "Quel traité mit fin à la Première Guerre punique ?",
+    "options": [
+      "Traité de Lutatius",
+      "Traité d’Apamée",
+      "Traité d’Antalcidas",
+      "Paix de Callias"
+    ],
+    "answer": "Traité de Lutatius"
+  },
+  {
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "question": "Quel archonte instaura à Athènes des réformes connues pour leur sévérité ?",
+    "options": [
+      "Dracon",
+      "Solon",
+      "Clisthène",
+      "Pisistrate"
+    ],
+    "answer": "Dracon"
+  },
+  {
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "question": "Comment s’appelle la pierre ayant permis de déchiffrer les hiéroglyphes ?",
+    "options": [
+      "Pierre de Rosette",
+      "Pierre de Behistun",
+      "Pierre de Palerme",
+      "Stèle de Mésha"
+    ],
+    "answer": "Pierre de Rosette"
+  },
+  {
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "question": "Quel royaume macédonien post-alexandrin fut dirigé par les Séleucides ?",
+    "options": [
+      "Empire séleucide",
+      "Royaume lagide",
+      "Royaume attalide",
+      "Royaume gréco-bactrien"
+    ],
+    "answer": "Empire séleucide"
+  },
+  {
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "question": "Quel poète latin écrivit les « Métamorphoses » ?",
+    "options": [
+      "Ovide",
+      "Virgile",
+      "Horace",
+      "Catulle"
+    ],
+    "answer": "Ovide"
+  },
+  {
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "question": "Sous quel empereur eut lieu l’éruption du Vésuve de 79 ?",
+    "options": [
+      "Titus",
+      "Néron",
+      "Trajan",
+      "Domitien"
+    ],
+    "answer": "Titus"
+  },
+  {
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "question": "Quel stratège athénien est associé à la victoire de Marathon (490 av. J.-C.) ?",
+    "options": [
+      "Miltiade",
+      "Cimon",
+      "Thémistocle",
+      "Périclès"
+    ],
+    "answer": "Miltiade"
+  },
+  {
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "question": "Quelle cité phénicienne fut détruite en 146 av. J.-C. par Rome ?",
+    "options": [
+      "Carthage",
+      "Tyr",
+      "Sidon",
+      "Gades"
+    ],
+    "answer": "Carthage"
+  },
+  {
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "question": "Quelle loi romaine (vers 450 av. J.-C.) codifia le droit public et privé ?",
+    "options": [
+      "Lois des Douze Tables",
+      "Lex Hortensia",
+      "Lex Canuleia",
+      "Lex Licinia Sextia"
+    ],
+    "answer": "Lois des Douze Tables"
+  },
+  {
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "question": "Quel historien grec écrivit « Enquêtes » (Histoires) sur les guerres médiques ?",
+    "options": [
+      "Hérodote",
+      "Thucydide",
+      "Polybe",
+      "Xénophon"
+    ],
+    "answer": "Hérodote"
+  },
+  {
+    "category": "Antiquité",
+    "difficulty": "Extrême",
+    "question": "Sous quel règne égyptien se situe la bataille de Qadesh contre les Hittites ?",
+    "options": [
+      "Ramsès II",
+      "Séthi Ier",
+      "Thoutmôsis Iᵉʳ",
+      "Amenhotep II"
+    ],
+    "answer": "Ramsès II"
+  },
+  {
+    "category": "Antiquité",
+    "difficulty": "Extrême",
+    "question": "Quel roi spartiate mena l’expédition des Thermopyles en 480 av. J.-C. ?",
+    "options": [
+      "Léonidas Iᵉʳ",
+      "Agis II",
+      "Cléomène Iᵉʳ",
+      "Archidamos II"
+    ],
+    "answer": "Léonidas Iᵉʳ"
+  },
+  {
+    "category": "Antiquité",
+    "difficulty": "Extrême",
+    "question": "Quelle réforme militaire macédonienne est attribuée à Philippe II ?",
+    "options": [
+      "Phalange à sarisse",
+      "Légion manipulaire",
+      "Trière cataphractaire",
+      "Cavalerie numide"
+    ],
+    "answer": "Phalange à sarisse"
+  },
+  {
+    "category": "Antiquité",
+    "difficulty": "Extrême",
+    "question": "Quel satrape se révolta contre Artaxerxès II lors de la « Guerre des Dix Mille » ?",
+    "options": [
+      "Cyrus le Jeune",
+      "Tissapherne",
+      "Pharnabaze",
+      "Mithridate II"
+    ],
+    "answer": "Cyrus le Jeune"
+  },
+  {
+    "category": "Antiquité",
+    "difficulty": "Extrême",
+    "question": "Quel mathématicien d’Alexandrie écrivit les « Éléments » ?",
+    "options": [
+      "Euclide",
+      "Archimède",
+      "Apollonius",
+      "Eratosthène"
+    ],
+    "answer": "Euclide"
+  },
+  {
+    "category": "Antiquité",
+    "difficulty": "Extrême",
+    "question": "Quel est le nom du traité qui mit fin à la guerre du Péloponnèse (404 av. J.-C.) ?",
+    "options": [
+      "Capitulation d’Athènes (Paix de 404)",
+      "Paix de Nicias",
+      "Paix d’Antalcidas",
+      "Paix de Philocrate"
+    ],
+    "answer": "Capitulation d’Athènes (Paix de 404)"
+  },
+  {
+    "category": "Antiquité",
+    "difficulty": "Extrême",
+    "question": "Quel souverain séleucide affronta Rome à Magnésie du Sipyle (190 av. J.-C.) ?",
+    "options": [
+      "Antiochos III",
+      "Séleucos Iᵉʳ",
+      "Antiochos IV",
+      "Démétrios Iᵉʳ"
+    ],
+    "answer": "Antiochos III"
+  },
+  {
+    "category": "Antiquité",
+    "difficulty": "Extrême",
+    "question": "Quel système d’écriture grec ancien précède l’alphabet classique en Crète ?",
+    "options": [
+      "Linéaire A",
+      "Linéaire B",
+      "Phénicien",
+      "Ogham"
+    ],
+    "answer": "Linéaire A"
+  },
+  {
+    "category": "Antiquité",
+    "difficulty": "Extrême",
+    "question": "Quel géographe calcula la circonférence de la Terre avec les ombres de Syène et Alexandrie ?",
+    "options": [
+      "Ératosthène",
+      "Hipparque",
+      "Strabon",
+      "Posidonios"
+    ],
+    "answer": "Ératosthène"
+  },
+  {
+    "category": "Antiquité",
+    "difficulty": "Extrême",
+    "question": "Quel est le nom du traité imposé par Rome aux Étoliens en 189 av. J.-C. ?",
+    "options": [
+      "Traité d’Apamée",
+      "Traité de Lutatius",
+      "Paix d’Andros",
+      "Paix de Callias"
+    ],
+    "answer": "Traité d’Apamée"
   }
 ]
