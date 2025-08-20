@@ -1,0 +1,3902 @@
+[
+  {
+    "id": "q1",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de la photographie ?",
+    "answers": [
+      "George Eastman",
+      "Louis Daguerre",
+      "William Fox Talbot",
+      "Nicéphore Niépce"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q2",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la machine à coudre ?",
+    "answers": [
+      "Thomas Saint",
+      "Elias Howe",
+      "Walter Hunt",
+      "Isaac Singer"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q3",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
+    "answers": [
+      "Arthur Young",
+      "Paul Cornu",
+      "Juan de la Cierva",
+      "Igor Sikorsky"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q4",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
+    "answers": [
+      "Albert T. Marshall",
+      "Jacob Perkins",
+      "Carl von Linde",
+      "James Harrison"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q5",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur à explosion ?",
+    "answers": [
+      "Karl Benz",
+      "Gottlieb Daimler",
+      "Rudolf Diesel",
+      "Nikolaus Otto"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q6",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la machine à coudre ?",
+    "answers": [
+      "Walter Hunt",
+      "Elias Howe",
+      "Isaac Singer",
+      "Thomas Saint"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q7",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la machine à coudre ?",
+    "answers": [
+      "Walter Hunt",
+      "Elias Howe",
+      "Thomas Saint",
+      "Isaac Singer"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q8",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
+    "answers": [
+      "Arthur Young",
+      "Paul Cornu",
+      "Juan de la Cierva",
+      "Igor Sikorsky"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q9",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du gramophone ?",
+    "answers": [
+      "Alexander Graham Bell",
+      "Guglielmo Marconi",
+      "Thomas Edison",
+      "Emile Berliner"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q10",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la radio ?",
+    "answers": [
+      "Lee de Forest",
+      "Nikola Tesla",
+      "Reginald Fessenden",
+      "Guglielmo Marconi"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q11",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier ordinateur programmable ?",
+    "answers": [
+      "Konrad Zuse",
+      "John von Neumann",
+      "Charles Babbage",
+      "Alan Turing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q12",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier ordinateur programmable ?",
+    "answers": [
+      "John von Neumann",
+      "Charles Babbage",
+      "Konrad Zuse",
+      "Alan Turing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q13",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
+    "answers": [
+      "Igor Sikorsky",
+      "Juan de la Cierva",
+      "Paul Cornu",
+      "Arthur Young"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q14",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier ordinateur programmable ?",
+    "answers": [
+      "Alan Turing",
+      "Charles Babbage",
+      "Konrad Zuse",
+      "John von Neumann"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q15",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
+    "answers": [
+      "James Harrison",
+      "Albert T. Marshall",
+      "Carl von Linde",
+      "Jacob Perkins"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q16",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de la photographie ?",
+    "answers": [
+      "William Fox Talbot",
+      "Louis Daguerre",
+      "Nicéphore Niépce",
+      "George Eastman"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q17",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur diesel ?",
+    "answers": [
+      "Gottlieb Daimler",
+      "Nicholas Otto",
+      "Karl Benz",
+      "Rudolf Diesel"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q18",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du sous-marin ?",
+    "answers": [
+      "Cornelis Drebbel",
+      "David Bushnell",
+      "Isaac Peral",
+      "John Philip Holland"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q19",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du gramophone ?",
+    "answers": [
+      "Guglielmo Marconi",
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "Emile Berliner"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q20",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du gramophone ?",
+    "answers": [
+      "Emile Berliner",
+      "Guglielmo Marconi",
+      "Alexander Graham Bell",
+      "Thomas Edison"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q21",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la machine à coudre ?",
+    "answers": [
+      "Thomas Saint",
+      "Elias Howe",
+      "Isaac Singer",
+      "Walter Hunt"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q22",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier ordinateur programmable ?",
+    "answers": [
+      "Konrad Zuse",
+      "Alan Turing",
+      "Charles Babbage",
+      "John von Neumann"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q23",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du sous-marin ?",
+    "answers": [
+      "John Philip Holland",
+      "Isaac Peral",
+      "David Bushnell",
+      "Cornelis Drebbel"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q24",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier ordinateur programmable ?",
+    "answers": [
+      "Alan Turing",
+      "Konrad Zuse",
+      "John von Neumann",
+      "Charles Babbage"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q25",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
+    "answers": [
+      "Albert T. Marshall",
+      "James Harrison",
+      "Carl von Linde",
+      "Jacob Perkins"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q26",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
+    "answers": [
+      "James Harrison",
+      "Jacob Perkins",
+      "Albert T. Marshall",
+      "Carl von Linde"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q27",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la radio ?",
+    "answers": [
+      "Nikola Tesla",
+      "Reginald Fessenden",
+      "Guglielmo Marconi",
+      "Lee de Forest"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q28",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du gramophone ?",
+    "answers": [
+      "Thomas Edison",
+      "Guglielmo Marconi",
+      "Emile Berliner",
+      "Alexander Graham Bell"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q29",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
+    "answers": [
+      "Arthur Young",
+      "Paul Cornu",
+      "Juan de la Cierva",
+      "Igor Sikorsky"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q30",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la radio ?",
+    "answers": [
+      "Reginald Fessenden",
+      "Guglielmo Marconi",
+      "Nikola Tesla",
+      "Lee de Forest"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q31",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
+    "answers": [
+      "Arthur Young",
+      "Paul Cornu",
+      "Igor Sikorsky",
+      "Juan de la Cierva"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q32",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la machine à coudre ?",
+    "answers": [
+      "Thomas Saint",
+      "Walter Hunt",
+      "Isaac Singer",
+      "Elias Howe"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q33",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier ordinateur programmable ?",
+    "answers": [
+      "Charles Babbage",
+      "John von Neumann",
+      "Konrad Zuse",
+      "Alan Turing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q34",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du gramophone ?",
+    "answers": [
+      "Thomas Edison",
+      "Guglielmo Marconi",
+      "Alexander Graham Bell",
+      "Emile Berliner"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q35",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
+    "answers": [
+      "Juan de la Cierva",
+      "Arthur Young",
+      "Igor Sikorsky",
+      "Paul Cornu"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q36",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur à explosion ?",
+    "answers": [
+      "Gottlieb Daimler",
+      "Nikolaus Otto",
+      "Karl Benz",
+      "Rudolf Diesel"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q37",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
+    "answers": [
+      "Igor Sikorsky",
+      "Paul Cornu",
+      "Arthur Young",
+      "Juan de la Cierva"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q38",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la machine à coudre ?",
+    "answers": [
+      "Thomas Saint",
+      "Elias Howe",
+      "Isaac Singer",
+      "Walter Hunt"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q39",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de la photographie ?",
+    "answers": [
+      "William Fox Talbot",
+      "Louis Daguerre",
+      "George Eastman",
+      "Nicéphore Niépce"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q40",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur à explosion ?",
+    "answers": [
+      "Nikolaus Otto",
+      "Karl Benz",
+      "Rudolf Diesel",
+      "Gottlieb Daimler"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q41",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur diesel ?",
+    "answers": [
+      "Gottlieb Daimler",
+      "Rudolf Diesel",
+      "Karl Benz",
+      "Nicholas Otto"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q42",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur à explosion ?",
+    "answers": [
+      "Karl Benz",
+      "Rudolf Diesel",
+      "Nikolaus Otto",
+      "Gottlieb Daimler"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q43",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la machine à coudre ?",
+    "answers": [
+      "Thomas Saint",
+      "Elias Howe",
+      "Isaac Singer",
+      "Walter Hunt"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q44",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du sous-marin ?",
+    "answers": [
+      "David Bushnell",
+      "Isaac Peral",
+      "John Philip Holland",
+      "Cornelis Drebbel"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q45",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la radio ?",
+    "answers": [
+      "Lee de Forest",
+      "Guglielmo Marconi",
+      "Reginald Fessenden",
+      "Nikola Tesla"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q46",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur diesel ?",
+    "answers": [
+      "Gottlieb Daimler",
+      "Karl Benz",
+      "Rudolf Diesel",
+      "Nicholas Otto"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q47",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
+    "answers": [
+      "James Harrison",
+      "Albert T. Marshall",
+      "Carl von Linde",
+      "Jacob Perkins"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q48",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier ordinateur programmable ?",
+    "answers": [
+      "Konrad Zuse",
+      "Alan Turing",
+      "John von Neumann",
+      "Charles Babbage"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q49",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de la photographie ?",
+    "answers": [
+      "George Eastman",
+      "Louis Daguerre",
+      "William Fox Talbot",
+      "Nicéphore Niépce"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q50",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
+    "answers": [
+      "James Harrison",
+      "Albert T. Marshall",
+      "Jacob Perkins",
+      "Carl von Linde"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q51",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de la photographie ?",
+    "answers": [
+      "George Eastman",
+      "Louis Daguerre",
+      "Nicéphore Niépce",
+      "William Fox Talbot"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q52",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur diesel ?",
+    "answers": [
+      "Gottlieb Daimler",
+      "Rudolf Diesel",
+      "Nicholas Otto",
+      "Karl Benz"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q53",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du sous-marin ?",
+    "answers": [
+      "Isaac Peral",
+      "John Philip Holland",
+      "Cornelis Drebbel",
+      "David Bushnell"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q54",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
+    "answers": [
+      "Jacob Perkins",
+      "Carl von Linde",
+      "James Harrison",
+      "Albert T. Marshall"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q55",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
+    "answers": [
+      "Igor Sikorsky",
+      "Arthur Young",
+      "Paul Cornu",
+      "Juan de la Cierva"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q56",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du gramophone ?",
+    "answers": [
+      "Emile Berliner",
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Guglielmo Marconi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q57",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du gramophone ?",
+    "answers": [
+      "Emile Berliner",
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "Guglielmo Marconi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q58",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du sous-marin ?",
+    "answers": [
+      "Isaac Peral",
+      "John Philip Holland",
+      "David Bushnell",
+      "Cornelis Drebbel"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q59",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de la photographie ?",
+    "answers": [
+      "Nicéphore Niépce",
+      "Louis Daguerre",
+      "George Eastman",
+      "William Fox Talbot"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q60",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de la photographie ?",
+    "answers": [
+      "Louis Daguerre",
+      "Nicéphore Niépce",
+      "George Eastman",
+      "William Fox Talbot"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q61",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la machine à coudre ?",
+    "answers": [
+      "Isaac Singer",
+      "Thomas Saint",
+      "Walter Hunt",
+      "Elias Howe"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q62",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur à explosion ?",
+    "answers": [
+      "Karl Benz",
+      "Gottlieb Daimler",
+      "Rudolf Diesel",
+      "Nikolaus Otto"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q63",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier ordinateur programmable ?",
+    "answers": [
+      "Alan Turing",
+      "Konrad Zuse",
+      "John von Neumann",
+      "Charles Babbage"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q64",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur diesel ?",
+    "answers": [
+      "Gottlieb Daimler",
+      "Nicholas Otto",
+      "Karl Benz",
+      "Rudolf Diesel"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q65",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du sous-marin ?",
+    "answers": [
+      "Cornelis Drebbel",
+      "Isaac Peral",
+      "John Philip Holland",
+      "David Bushnell"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q66",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
+    "answers": [
+      "James Harrison",
+      "Jacob Perkins",
+      "Carl von Linde",
+      "Albert T. Marshall"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q67",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur diesel ?",
+    "answers": [
+      "Karl Benz",
+      "Nicholas Otto",
+      "Rudolf Diesel",
+      "Gottlieb Daimler"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q68",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier ordinateur programmable ?",
+    "answers": [
+      "Konrad Zuse",
+      "Charles Babbage",
+      "Alan Turing",
+      "John von Neumann"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q69",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
+    "answers": [
+      "James Harrison",
+      "Jacob Perkins",
+      "Albert T. Marshall",
+      "Carl von Linde"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q70",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier ordinateur programmable ?",
+    "answers": [
+      "Alan Turing",
+      "John von Neumann",
+      "Konrad Zuse",
+      "Charles Babbage"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q71",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur à explosion ?",
+    "answers": [
+      "Gottlieb Daimler",
+      "Rudolf Diesel",
+      "Nikolaus Otto",
+      "Karl Benz"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q72",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier ordinateur programmable ?",
+    "answers": [
+      "John von Neumann",
+      "Charles Babbage",
+      "Konrad Zuse",
+      "Alan Turing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q73",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
+    "answers": [
+      "James Harrison",
+      "Albert T. Marshall",
+      "Jacob Perkins",
+      "Carl von Linde"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q74",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur diesel ?",
+    "answers": [
+      "Karl Benz",
+      "Rudolf Diesel",
+      "Nicholas Otto",
+      "Gottlieb Daimler"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q75",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la radio ?",
+    "answers": [
+      "Reginald Fessenden",
+      "Nikola Tesla",
+      "Guglielmo Marconi",
+      "Lee de Forest"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q76",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
+    "answers": [
+      "Juan de la Cierva",
+      "Igor Sikorsky",
+      "Paul Cornu",
+      "Arthur Young"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q77",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de la photographie ?",
+    "answers": [
+      "Louis Daguerre",
+      "George Eastman",
+      "William Fox Talbot",
+      "Nicéphore Niépce"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q78",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du sous-marin ?",
+    "answers": [
+      "Isaac Peral",
+      "Cornelis Drebbel",
+      "David Bushnell",
+      "John Philip Holland"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q79",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur diesel ?",
+    "answers": [
+      "Gottlieb Daimler",
+      "Nicholas Otto",
+      "Karl Benz",
+      "Rudolf Diesel"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q80",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la machine à coudre ?",
+    "answers": [
+      "Isaac Singer",
+      "Elias Howe",
+      "Thomas Saint",
+      "Walter Hunt"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q81",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du sous-marin ?",
+    "answers": [
+      "David Bushnell",
+      "Isaac Peral",
+      "Cornelis Drebbel",
+      "John Philip Holland"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q82",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de la photographie ?",
+    "answers": [
+      "George Eastman",
+      "William Fox Talbot",
+      "Louis Daguerre",
+      "Nicéphore Niépce"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q83",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de la photographie ?",
+    "answers": [
+      "Nicéphore Niépce",
+      "George Eastman",
+      "Louis Daguerre",
+      "William Fox Talbot"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q84",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier ordinateur programmable ?",
+    "answers": [
+      "Charles Babbage",
+      "Alan Turing",
+      "John von Neumann",
+      "Konrad Zuse"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q85",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur diesel ?",
+    "answers": [
+      "Gottlieb Daimler",
+      "Karl Benz",
+      "Rudolf Diesel",
+      "Nicholas Otto"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q86",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du sous-marin ?",
+    "answers": [
+      "David Bushnell",
+      "Cornelis Drebbel",
+      "Isaac Peral",
+      "John Philip Holland"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q87",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
+    "answers": [
+      "Juan de la Cierva",
+      "Paul Cornu",
+      "Arthur Young",
+      "Igor Sikorsky"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q88",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du sous-marin ?",
+    "answers": [
+      "Cornelis Drebbel",
+      "Isaac Peral",
+      "David Bushnell",
+      "John Philip Holland"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q89",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la radio ?",
+    "answers": [
+      "Nikola Tesla",
+      "Lee de Forest",
+      "Guglielmo Marconi",
+      "Reginald Fessenden"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q90",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la machine à coudre ?",
+    "answers": [
+      "Elias Howe",
+      "Isaac Singer",
+      "Thomas Saint",
+      "Walter Hunt"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q91",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur à explosion ?",
+    "answers": [
+      "Rudolf Diesel",
+      "Gottlieb Daimler",
+      "Nikolaus Otto",
+      "Karl Benz"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q92",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de la photographie ?",
+    "answers": [
+      "George Eastman",
+      "Nicéphore Niépce",
+      "Louis Daguerre",
+      "William Fox Talbot"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q93",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur à explosion ?",
+    "answers": [
+      "Nikolaus Otto",
+      "Karl Benz",
+      "Gottlieb Daimler",
+      "Rudolf Diesel"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q94",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la machine à coudre ?",
+    "answers": [
+      "Walter Hunt",
+      "Elias Howe",
+      "Thomas Saint",
+      "Isaac Singer"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q95",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
+    "answers": [
+      "Juan de la Cierva",
+      "Paul Cornu",
+      "Arthur Young",
+      "Igor Sikorsky"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q96",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la radio ?",
+    "answers": [
+      "Nikola Tesla",
+      "Guglielmo Marconi",
+      "Lee de Forest",
+      "Reginald Fessenden"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q97",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de la photographie ?",
+    "answers": [
+      "William Fox Talbot",
+      "Nicéphore Niépce",
+      "George Eastman",
+      "Louis Daguerre"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q98",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur diesel ?",
+    "answers": [
+      "Nicholas Otto",
+      "Karl Benz",
+      "Rudolf Diesel",
+      "Gottlieb Daimler"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q99",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de la photographie ?",
+    "answers": [
+      "George Eastman",
+      "Nicéphore Niépce",
+      "William Fox Talbot",
+      "Louis Daguerre"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q100",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur diesel ?",
+    "answers": [
+      "Nicholas Otto",
+      "Karl Benz",
+      "Gottlieb Daimler",
+      "Rudolf Diesel"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q101",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du gramophone ?",
+    "answers": [
+      "Alexander Graham Bell",
+      "Emile Berliner",
+      "Thomas Edison",
+      "Guglielmo Marconi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q102",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la radio ?",
+    "answers": [
+      "Lee de Forest",
+      "Reginald Fessenden",
+      "Guglielmo Marconi",
+      "Nikola Tesla"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q103",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la radio ?",
+    "answers": [
+      "Lee de Forest",
+      "Nikola Tesla",
+      "Guglielmo Marconi",
+      "Reginald Fessenden"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q104",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur diesel ?",
+    "answers": [
+      "Rudolf Diesel",
+      "Gottlieb Daimler",
+      "Nicholas Otto",
+      "Karl Benz"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q105",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
+    "answers": [
+      "Igor Sikorsky",
+      "Arthur Young",
+      "Juan de la Cierva",
+      "Paul Cornu"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q106",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur à explosion ?",
+    "answers": [
+      "Karl Benz",
+      "Gottlieb Daimler",
+      "Nikolaus Otto",
+      "Rudolf Diesel"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q107",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
+    "answers": [
+      "Carl von Linde",
+      "Jacob Perkins",
+      "James Harrison",
+      "Albert T. Marshall"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q108",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
+    "answers": [
+      "Albert T. Marshall",
+      "Jacob Perkins",
+      "Carl von Linde",
+      "James Harrison"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q109",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la radio ?",
+    "answers": [
+      "Reginald Fessenden",
+      "Lee de Forest",
+      "Guglielmo Marconi",
+      "Nikola Tesla"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q110",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du gramophone ?",
+    "answers": [
+      "Guglielmo Marconi",
+      "Emile Berliner",
+      "Alexander Graham Bell",
+      "Thomas Edison"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q111",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du sous-marin ?",
+    "answers": [
+      "Isaac Peral",
+      "John Philip Holland",
+      "Cornelis Drebbel",
+      "David Bushnell"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q112",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de la photographie ?",
+    "answers": [
+      "George Eastman",
+      "Nicéphore Niépce",
+      "William Fox Talbot",
+      "Louis Daguerre"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q113",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du sous-marin ?",
+    "answers": [
+      "John Philip Holland",
+      "Isaac Peral",
+      "Cornelis Drebbel",
+      "David Bushnell"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q114",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du gramophone ?",
+    "answers": [
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "Emile Berliner",
+      "Guglielmo Marconi"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q115",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier ordinateur programmable ?",
+    "answers": [
+      "Alan Turing",
+      "Konrad Zuse",
+      "John von Neumann",
+      "Charles Babbage"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q116",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier ordinateur programmable ?",
+    "answers": [
+      "Charles Babbage",
+      "Alan Turing",
+      "Konrad Zuse",
+      "John von Neumann"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q117",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
+    "answers": [
+      "Carl von Linde",
+      "Albert T. Marshall",
+      "Jacob Perkins",
+      "James Harrison"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q118",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la radio ?",
+    "answers": [
+      "Nikola Tesla",
+      "Guglielmo Marconi",
+      "Lee de Forest",
+      "Reginald Fessenden"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q119",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du sous-marin ?",
+    "answers": [
+      "David Bushnell",
+      "Cornelis Drebbel",
+      "John Philip Holland",
+      "Isaac Peral"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q120",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la radio ?",
+    "answers": [
+      "Reginald Fessenden",
+      "Guglielmo Marconi",
+      "Nikola Tesla",
+      "Lee de Forest"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q121",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
+    "answers": [
+      "Albert T. Marshall",
+      "James Harrison",
+      "Carl von Linde",
+      "Jacob Perkins"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q122",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du gramophone ?",
+    "answers": [
+      "Alexander Graham Bell",
+      "Emile Berliner",
+      "Thomas Edison",
+      "Guglielmo Marconi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q123",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de la photographie ?",
+    "answers": [
+      "William Fox Talbot",
+      "Louis Daguerre",
+      "Nicéphore Niépce",
+      "George Eastman"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q124",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du gramophone ?",
+    "answers": [
+      "Emile Berliner",
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Guglielmo Marconi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q125",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier ordinateur programmable ?",
+    "answers": [
+      "Charles Babbage",
+      "Konrad Zuse",
+      "Alan Turing",
+      "John von Neumann"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q126",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de la photographie ?",
+    "answers": [
+      "Nicéphore Niépce",
+      "Louis Daguerre",
+      "George Eastman",
+      "William Fox Talbot"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q127",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la radio ?",
+    "answers": [
+      "Reginald Fessenden",
+      "Lee de Forest",
+      "Guglielmo Marconi",
+      "Nikola Tesla"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q128",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
+    "answers": [
+      "Arthur Young",
+      "Paul Cornu",
+      "Juan de la Cierva",
+      "Igor Sikorsky"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q129",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur à explosion ?",
+    "answers": [
+      "Nikolaus Otto",
+      "Karl Benz",
+      "Gottlieb Daimler",
+      "Rudolf Diesel"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q130",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du gramophone ?",
+    "answers": [
+      "Thomas Edison",
+      "Emile Berliner",
+      "Alexander Graham Bell",
+      "Guglielmo Marconi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q131",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du gramophone ?",
+    "answers": [
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Guglielmo Marconi",
+      "Emile Berliner"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q132",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la radio ?",
+    "answers": [
+      "Nikola Tesla",
+      "Lee de Forest",
+      "Guglielmo Marconi",
+      "Reginald Fessenden"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q133",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du sous-marin ?",
+    "answers": [
+      "Isaac Peral",
+      "David Bushnell",
+      "John Philip Holland",
+      "Cornelis Drebbel"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q134",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du sous-marin ?",
+    "answers": [
+      "John Philip Holland",
+      "David Bushnell",
+      "Cornelis Drebbel",
+      "Isaac Peral"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q135",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du gramophone ?",
+    "answers": [
+      "Guglielmo Marconi",
+      "Emile Berliner",
+      "Alexander Graham Bell",
+      "Thomas Edison"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q136",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
+    "answers": [
+      "Igor Sikorsky",
+      "Paul Cornu",
+      "Juan de la Cierva",
+      "Arthur Young"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q137",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
+    "answers": [
+      "Carl von Linde",
+      "Albert T. Marshall",
+      "James Harrison",
+      "Jacob Perkins"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q138",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du sous-marin ?",
+    "answers": [
+      "Cornelis Drebbel",
+      "David Bushnell",
+      "John Philip Holland",
+      "Isaac Peral"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q139",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur diesel ?",
+    "answers": [
+      "Rudolf Diesel",
+      "Gottlieb Daimler",
+      "Karl Benz",
+      "Nicholas Otto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q140",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du gramophone ?",
+    "answers": [
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Guglielmo Marconi",
+      "Emile Berliner"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q141",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur diesel ?",
+    "answers": [
+      "Karl Benz",
+      "Rudolf Diesel",
+      "Gottlieb Daimler",
+      "Nicholas Otto"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q142",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur diesel ?",
+    "answers": [
+      "Gottlieb Daimler",
+      "Nicholas Otto",
+      "Karl Benz",
+      "Rudolf Diesel"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q143",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur à explosion ?",
+    "answers": [
+      "Rudolf Diesel",
+      "Nikolaus Otto",
+      "Gottlieb Daimler",
+      "Karl Benz"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q144",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
+    "answers": [
+      "Igor Sikorsky",
+      "Arthur Young",
+      "Juan de la Cierva",
+      "Paul Cornu"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q145",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
+    "answers": [
+      "Paul Cornu",
+      "Arthur Young",
+      "Igor Sikorsky",
+      "Juan de la Cierva"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q146",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du gramophone ?",
+    "answers": [
+      "Emile Berliner",
+      "Guglielmo Marconi",
+      "Alexander Graham Bell",
+      "Thomas Edison"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q147",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la machine à coudre ?",
+    "answers": [
+      "Elias Howe",
+      "Walter Hunt",
+      "Isaac Singer",
+      "Thomas Saint"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q148",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur à explosion ?",
+    "answers": [
+      "Karl Benz",
+      "Gottlieb Daimler",
+      "Rudolf Diesel",
+      "Nikolaus Otto"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q149",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur diesel ?",
+    "answers": [
+      "Gottlieb Daimler",
+      "Nicholas Otto",
+      "Rudolf Diesel",
+      "Karl Benz"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q150",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
+    "answers": [
+      "Carl von Linde",
+      "James Harrison",
+      "Jacob Perkins",
+      "Albert T. Marshall"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q151",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
+    "answers": [
+      "James Harrison",
+      "Jacob Perkins",
+      "Carl von Linde",
+      "Albert T. Marshall"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q152",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur à explosion ?",
+    "answers": [
+      "Gottlieb Daimler",
+      "Rudolf Diesel",
+      "Nikolaus Otto",
+      "Karl Benz"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q153",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la radio ?",
+    "answers": [
+      "Lee de Forest",
+      "Guglielmo Marconi",
+      "Reginald Fessenden",
+      "Nikola Tesla"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q154",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la machine à coudre ?",
+    "answers": [
+      "Walter Hunt",
+      "Thomas Saint",
+      "Elias Howe",
+      "Isaac Singer"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q155",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur diesel ?",
+    "answers": [
+      "Rudolf Diesel",
+      "Karl Benz",
+      "Nicholas Otto",
+      "Gottlieb Daimler"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q156",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la machine à coudre ?",
+    "answers": [
+      "Isaac Singer",
+      "Walter Hunt",
+      "Elias Howe",
+      "Thomas Saint"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q157",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur diesel ?",
+    "answers": [
+      "Rudolf Diesel",
+      "Karl Benz",
+      "Nicholas Otto",
+      "Gottlieb Daimler"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q158",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du sous-marin ?",
+    "answers": [
+      "David Bushnell",
+      "Cornelis Drebbel",
+      "Isaac Peral",
+      "John Philip Holland"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q159",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
+    "answers": [
+      "James Harrison",
+      "Carl von Linde",
+      "Jacob Perkins",
+      "Albert T. Marshall"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q160",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la radio ?",
+    "answers": [
+      "Lee de Forest",
+      "Nikola Tesla",
+      "Reginald Fessenden",
+      "Guglielmo Marconi"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q161",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
+    "answers": [
+      "Paul Cornu",
+      "Juan de la Cierva",
+      "Arthur Young",
+      "Igor Sikorsky"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q162",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de la photographie ?",
+    "answers": [
+      "Nicéphore Niépce",
+      "William Fox Talbot",
+      "George Eastman",
+      "Louis Daguerre"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q163",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la radio ?",
+    "answers": [
+      "Reginald Fessenden",
+      "Guglielmo Marconi",
+      "Lee de Forest",
+      "Nikola Tesla"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q164",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du sous-marin ?",
+    "answers": [
+      "Isaac Peral",
+      "David Bushnell",
+      "John Philip Holland",
+      "Cornelis Drebbel"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q165",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du sous-marin ?",
+    "answers": [
+      "David Bushnell",
+      "Isaac Peral",
+      "John Philip Holland",
+      "Cornelis Drebbel"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q166",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la machine à coudre ?",
+    "answers": [
+      "Walter Hunt",
+      "Isaac Singer",
+      "Elias Howe",
+      "Thomas Saint"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q167",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du sous-marin ?",
+    "answers": [
+      "John Philip Holland",
+      "Cornelis Drebbel",
+      "Isaac Peral",
+      "David Bushnell"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q168",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
+    "answers": [
+      "James Harrison",
+      "Albert T. Marshall",
+      "Carl von Linde",
+      "Jacob Perkins"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q169",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier ordinateur programmable ?",
+    "answers": [
+      "Alan Turing",
+      "Konrad Zuse",
+      "Charles Babbage",
+      "John von Neumann"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q170",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
+    "answers": [
+      "Juan de la Cierva",
+      "Paul Cornu",
+      "Arthur Young",
+      "Igor Sikorsky"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q171",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du gramophone ?",
+    "answers": [
+      "Alexander Graham Bell",
+      "Emile Berliner",
+      "Thomas Edison",
+      "Guglielmo Marconi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q172",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur diesel ?",
+    "answers": [
+      "Karl Benz",
+      "Gottlieb Daimler",
+      "Nicholas Otto",
+      "Rudolf Diesel"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q173",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
+    "answers": [
+      "James Harrison",
+      "Jacob Perkins",
+      "Albert T. Marshall",
+      "Carl von Linde"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q174",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la machine à coudre ?",
+    "answers": [
+      "Thomas Saint",
+      "Elias Howe",
+      "Isaac Singer",
+      "Walter Hunt"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q175",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur diesel ?",
+    "answers": [
+      "Nicholas Otto",
+      "Rudolf Diesel",
+      "Gottlieb Daimler",
+      "Karl Benz"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q176",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
+    "answers": [
+      "Paul Cornu",
+      "Juan de la Cierva",
+      "Arthur Young",
+      "Igor Sikorsky"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q177",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de la photographie ?",
+    "answers": [
+      "William Fox Talbot",
+      "George Eastman",
+      "Nicéphore Niépce",
+      "Louis Daguerre"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q178",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la machine à coudre ?",
+    "answers": [
+      "Walter Hunt",
+      "Elias Howe",
+      "Thomas Saint",
+      "Isaac Singer"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q179",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur à explosion ?",
+    "answers": [
+      "Gottlieb Daimler",
+      "Nikolaus Otto",
+      "Rudolf Diesel",
+      "Karl Benz"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q180",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la machine à coudre ?",
+    "answers": [
+      "Walter Hunt",
+      "Isaac Singer",
+      "Thomas Saint",
+      "Elias Howe"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q181",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur à explosion ?",
+    "answers": [
+      "Rudolf Diesel",
+      "Gottlieb Daimler",
+      "Karl Benz",
+      "Nikolaus Otto"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q182",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la machine à coudre ?",
+    "answers": [
+      "Isaac Singer",
+      "Walter Hunt",
+      "Elias Howe",
+      "Thomas Saint"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q183",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier ordinateur programmable ?",
+    "answers": [
+      "Konrad Zuse",
+      "Alan Turing",
+      "Charles Babbage",
+      "John von Neumann"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q184",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la radio ?",
+    "answers": [
+      "Lee de Forest",
+      "Reginald Fessenden",
+      "Nikola Tesla",
+      "Guglielmo Marconi"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q185",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du gramophone ?",
+    "answers": [
+      "Guglielmo Marconi",
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "Emile Berliner"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q186",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
+    "answers": [
+      "Carl von Linde",
+      "Jacob Perkins",
+      "Albert T. Marshall",
+      "James Harrison"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q187",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur diesel ?",
+    "answers": [
+      "Gottlieb Daimler",
+      "Karl Benz",
+      "Rudolf Diesel",
+      "Nicholas Otto"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q188",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la machine à coudre ?",
+    "answers": [
+      "Elias Howe",
+      "Thomas Saint",
+      "Isaac Singer",
+      "Walter Hunt"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q189",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la radio ?",
+    "answers": [
+      "Nikola Tesla",
+      "Reginald Fessenden",
+      "Lee de Forest",
+      "Guglielmo Marconi"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q190",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur à explosion ?",
+    "answers": [
+      "Gottlieb Daimler",
+      "Rudolf Diesel",
+      "Karl Benz",
+      "Nikolaus Otto"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q191",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier ordinateur programmable ?",
+    "answers": [
+      "Alan Turing",
+      "John von Neumann",
+      "Charles Babbage",
+      "Konrad Zuse"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q192",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du gramophone ?",
+    "answers": [
+      "Thomas Edison",
+      "Emile Berliner",
+      "Guglielmo Marconi",
+      "Alexander Graham Bell"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q193",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur à explosion ?",
+    "answers": [
+      "Rudolf Diesel",
+      "Nikolaus Otto",
+      "Gottlieb Daimler",
+      "Karl Benz"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q194",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la radio ?",
+    "answers": [
+      "Nikola Tesla",
+      "Lee de Forest",
+      "Reginald Fessenden",
+      "Guglielmo Marconi"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q195",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
+    "answers": [
+      "James Harrison",
+      "Albert T. Marshall",
+      "Carl von Linde",
+      "Jacob Perkins"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q196",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la radio ?",
+    "answers": [
+      "Lee de Forest",
+      "Guglielmo Marconi",
+      "Nikola Tesla",
+      "Reginald Fessenden"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q197",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du gramophone ?",
+    "answers": [
+      "Guglielmo Marconi",
+      "Emile Berliner",
+      "Thomas Edison",
+      "Alexander Graham Bell"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q198",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de la photographie ?",
+    "answers": [
+      "Nicéphore Niépce",
+      "Louis Daguerre",
+      "George Eastman",
+      "William Fox Talbot"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q199",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du sous-marin ?",
+    "answers": [
+      "Isaac Peral",
+      "John Philip Holland",
+      "David Bushnell",
+      "Cornelis Drebbel"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q200",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la radio ?",
+    "answers": [
+      "Nikola Tesla",
+      "Guglielmo Marconi",
+      "Reginald Fessenden",
+      "Lee de Forest"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q201",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur à explosion ?",
+    "answers": [
+      "Rudolf Diesel",
+      "Nikolaus Otto",
+      "Karl Benz",
+      "Gottlieb Daimler"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q202",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur à explosion ?",
+    "answers": [
+      "Karl Benz",
+      "Nikolaus Otto",
+      "Gottlieb Daimler",
+      "Rudolf Diesel"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q203",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
+    "answers": [
+      "Juan de la Cierva",
+      "Arthur Young",
+      "Paul Cornu",
+      "Igor Sikorsky"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q204",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du sous-marin ?",
+    "answers": [
+      "John Philip Holland",
+      "Cornelis Drebbel",
+      "David Bushnell",
+      "Isaac Peral"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q205",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de la photographie ?",
+    "answers": [
+      "George Eastman",
+      "Nicéphore Niépce",
+      "William Fox Talbot",
+      "Louis Daguerre"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q206",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur à explosion ?",
+    "answers": [
+      "Gottlieb Daimler",
+      "Nikolaus Otto",
+      "Karl Benz",
+      "Rudolf Diesel"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q207",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
+    "answers": [
+      "James Harrison",
+      "Carl von Linde",
+      "Albert T. Marshall",
+      "Jacob Perkins"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q208",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur à explosion ?",
+    "answers": [
+      "Gottlieb Daimler",
+      "Nikolaus Otto",
+      "Karl Benz",
+      "Rudolf Diesel"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q209",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier ordinateur programmable ?",
+    "answers": [
+      "Konrad Zuse",
+      "Charles Babbage",
+      "Alan Turing",
+      "John von Neumann"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q210",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du sous-marin ?",
+    "answers": [
+      "David Bushnell",
+      "Cornelis Drebbel",
+      "John Philip Holland",
+      "Isaac Peral"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q211",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
+    "answers": [
+      "Paul Cornu",
+      "Igor Sikorsky",
+      "Juan de la Cierva",
+      "Arthur Young"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q212",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur à explosion ?",
+    "answers": [
+      "Nikolaus Otto",
+      "Karl Benz",
+      "Gottlieb Daimler",
+      "Rudolf Diesel"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q213",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la machine à coudre ?",
+    "answers": [
+      "Walter Hunt",
+      "Elias Howe",
+      "Isaac Singer",
+      "Thomas Saint"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q214",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier ordinateur programmable ?",
+    "answers": [
+      "Alan Turing",
+      "Konrad Zuse",
+      "John von Neumann",
+      "Charles Babbage"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q215",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur diesel ?",
+    "answers": [
+      "Rudolf Diesel",
+      "Gottlieb Daimler",
+      "Karl Benz",
+      "Nicholas Otto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q216",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
+    "answers": [
+      "Juan de la Cierva",
+      "Arthur Young",
+      "Paul Cornu",
+      "Igor Sikorsky"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q217",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du gramophone ?",
+    "answers": [
+      "Thomas Edison",
+      "Guglielmo Marconi",
+      "Emile Berliner",
+      "Alexander Graham Bell"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q218",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du gramophone ?",
+    "answers": [
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Emile Berliner",
+      "Guglielmo Marconi"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q219",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier ordinateur programmable ?",
+    "answers": [
+      "John von Neumann",
+      "Alan Turing",
+      "Konrad Zuse",
+      "Charles Babbage"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q220",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de la photographie ?",
+    "answers": [
+      "Nicéphore Niépce",
+      "Louis Daguerre",
+      "William Fox Talbot",
+      "George Eastman"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q221",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la machine à coudre ?",
+    "answers": [
+      "Elias Howe",
+      "Thomas Saint",
+      "Isaac Singer",
+      "Walter Hunt"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q222",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du sous-marin ?",
+    "answers": [
+      "Cornelis Drebbel",
+      "David Bushnell",
+      "Isaac Peral",
+      "John Philip Holland"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q223",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur à explosion ?",
+    "answers": [
+      "Rudolf Diesel",
+      "Nikolaus Otto",
+      "Karl Benz",
+      "Gottlieb Daimler"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q224",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du gramophone ?",
+    "answers": [
+      "Emile Berliner",
+      "Guglielmo Marconi",
+      "Alexander Graham Bell",
+      "Thomas Edison"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q225",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de la photographie ?",
+    "answers": [
+      "Nicéphore Niépce",
+      "William Fox Talbot",
+      "George Eastman",
+      "Louis Daguerre"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q226",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du sous-marin ?",
+    "answers": [
+      "John Philip Holland",
+      "Isaac Peral",
+      "David Bushnell",
+      "Cornelis Drebbel"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q227",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
+    "answers": [
+      "Jacob Perkins",
+      "Albert T. Marshall",
+      "Carl von Linde",
+      "James Harrison"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q228",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
+    "answers": [
+      "Carl von Linde",
+      "Jacob Perkins",
+      "James Harrison",
+      "Albert T. Marshall"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q229",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la machine à coudre ?",
+    "answers": [
+      "Isaac Singer",
+      "Walter Hunt",
+      "Elias Howe",
+      "Thomas Saint"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q230",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la machine à coudre ?",
+    "answers": [
+      "Walter Hunt",
+      "Elias Howe",
+      "Thomas Saint",
+      "Isaac Singer"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q231",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de la photographie ?",
+    "answers": [
+      "Nicéphore Niépce",
+      "George Eastman",
+      "William Fox Talbot",
+      "Louis Daguerre"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q232",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du gramophone ?",
+    "answers": [
+      "Emile Berliner",
+      "Alexander Graham Bell",
+      "Guglielmo Marconi",
+      "Thomas Edison"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q233",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur à explosion ?",
+    "answers": [
+      "Rudolf Diesel",
+      "Gottlieb Daimler",
+      "Nikolaus Otto",
+      "Karl Benz"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q234",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur à explosion ?",
+    "answers": [
+      "Rudolf Diesel",
+      "Nikolaus Otto",
+      "Karl Benz",
+      "Gottlieb Daimler"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q235",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du gramophone ?",
+    "answers": [
+      "Thomas Edison",
+      "Guglielmo Marconi",
+      "Emile Berliner",
+      "Alexander Graham Bell"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q236",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de la photographie ?",
+    "answers": [
+      "Nicéphore Niépce",
+      "Louis Daguerre",
+      "William Fox Talbot",
+      "George Eastman"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q237",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du gramophone ?",
+    "answers": [
+      "Emile Berliner",
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "Guglielmo Marconi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q238",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur diesel ?",
+    "answers": [
+      "Karl Benz",
+      "Nicholas Otto",
+      "Rudolf Diesel",
+      "Gottlieb Daimler"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q239",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de la photographie ?",
+    "answers": [
+      "William Fox Talbot",
+      "George Eastman",
+      "Nicéphore Niépce",
+      "Louis Daguerre"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q240",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la radio ?",
+    "answers": [
+      "Guglielmo Marconi",
+      "Nikola Tesla",
+      "Lee de Forest",
+      "Reginald Fessenden"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q241",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier ordinateur programmable ?",
+    "answers": [
+      "Konrad Zuse",
+      "John von Neumann",
+      "Charles Babbage",
+      "Alan Turing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q242",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la radio ?",
+    "answers": [
+      "Nikola Tesla",
+      "Reginald Fessenden",
+      "Guglielmo Marconi",
+      "Lee de Forest"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q243",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur à explosion ?",
+    "answers": [
+      "Karl Benz",
+      "Nikolaus Otto",
+      "Gottlieb Daimler",
+      "Rudolf Diesel"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q244",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
+    "answers": [
+      "Igor Sikorsky",
+      "Juan de la Cierva",
+      "Paul Cornu",
+      "Arthur Young"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q245",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la machine à coudre ?",
+    "answers": [
+      "Thomas Saint",
+      "Isaac Singer",
+      "Walter Hunt",
+      "Elias Howe"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q246",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du sous-marin ?",
+    "answers": [
+      "John Philip Holland",
+      "Isaac Peral",
+      "Cornelis Drebbel",
+      "David Bushnell"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q247",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
+    "answers": [
+      "James Harrison",
+      "Carl von Linde",
+      "Jacob Perkins",
+      "Albert T. Marshall"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q248",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
+    "answers": [
+      "Juan de la Cierva",
+      "Arthur Young",
+      "Paul Cornu",
+      "Igor Sikorsky"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q249",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur à explosion ?",
+    "answers": [
+      "Nikolaus Otto",
+      "Gottlieb Daimler",
+      "Rudolf Diesel",
+      "Karl Benz"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q250",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du gramophone ?",
+    "answers": [
+      "Guglielmo Marconi",
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "Emile Berliner"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q251",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du sous-marin ?",
+    "answers": [
+      "John Philip Holland",
+      "Isaac Peral",
+      "Cornelis Drebbel",
+      "David Bushnell"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q252",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier ordinateur programmable ?",
+    "answers": [
+      "John von Neumann",
+      "Alan Turing",
+      "Charles Babbage",
+      "Konrad Zuse"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q253",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur à explosion ?",
+    "answers": [
+      "Nikolaus Otto",
+      "Karl Benz",
+      "Gottlieb Daimler",
+      "Rudolf Diesel"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q254",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du gramophone ?",
+    "answers": [
+      "Thomas Edison",
+      "Guglielmo Marconi",
+      "Alexander Graham Bell",
+      "Emile Berliner"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q255",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier ordinateur programmable ?",
+    "answers": [
+      "Alan Turing",
+      "Charles Babbage",
+      "Konrad Zuse",
+      "John von Neumann"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q256",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du gramophone ?",
+    "answers": [
+      "Emile Berliner",
+      "Alexander Graham Bell",
+      "Guglielmo Marconi",
+      "Thomas Edison"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q257",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
+    "answers": [
+      "Carl von Linde",
+      "Albert T. Marshall",
+      "James Harrison",
+      "Jacob Perkins"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q258",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de la photographie ?",
+    "answers": [
+      "Louis Daguerre",
+      "George Eastman",
+      "William Fox Talbot",
+      "Nicéphore Niépce"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q259",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur diesel ?",
+    "answers": [
+      "Rudolf Diesel",
+      "Gottlieb Daimler",
+      "Karl Benz",
+      "Nicholas Otto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q260",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
+    "answers": [
+      "James Harrison",
+      "Albert T. Marshall",
+      "Carl von Linde",
+      "Jacob Perkins"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q261",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du sous-marin ?",
+    "answers": [
+      "David Bushnell",
+      "Isaac Peral",
+      "Cornelis Drebbel",
+      "John Philip Holland"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q262",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier ordinateur programmable ?",
+    "answers": [
+      "Konrad Zuse",
+      "Charles Babbage",
+      "Alan Turing",
+      "John von Neumann"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q263",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
+    "answers": [
+      "Arthur Young",
+      "Igor Sikorsky",
+      "Paul Cornu",
+      "Juan de la Cierva"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q264",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
+    "answers": [
+      "James Harrison",
+      "Carl von Linde",
+      "Jacob Perkins",
+      "Albert T. Marshall"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q265",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du gramophone ?",
+    "answers": [
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "Guglielmo Marconi",
+      "Emile Berliner"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q266",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de la photographie ?",
+    "answers": [
+      "William Fox Talbot",
+      "Nicéphore Niépce",
+      "Louis Daguerre",
+      "George Eastman"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q267",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
+    "answers": [
+      "Arthur Young",
+      "Paul Cornu",
+      "Igor Sikorsky",
+      "Juan de la Cierva"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q268",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la radio ?",
+    "answers": [
+      "Lee de Forest",
+      "Guglielmo Marconi",
+      "Reginald Fessenden",
+      "Nikola Tesla"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q269",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur diesel ?",
+    "answers": [
+      "Gottlieb Daimler",
+      "Nicholas Otto",
+      "Karl Benz",
+      "Rudolf Diesel"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q270",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
+    "answers": [
+      "Juan de la Cierva",
+      "Paul Cornu",
+      "Arthur Young",
+      "Igor Sikorsky"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q271",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur à explosion ?",
+    "answers": [
+      "Karl Benz",
+      "Gottlieb Daimler",
+      "Nikolaus Otto",
+      "Rudolf Diesel"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q272",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la machine à coudre ?",
+    "answers": [
+      "Walter Hunt",
+      "Thomas Saint",
+      "Elias Howe",
+      "Isaac Singer"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q273",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur diesel ?",
+    "answers": [
+      "Karl Benz",
+      "Rudolf Diesel",
+      "Nicholas Otto",
+      "Gottlieb Daimler"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q274",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du gramophone ?",
+    "answers": [
+      "Thomas Edison",
+      "Guglielmo Marconi",
+      "Emile Berliner",
+      "Alexander Graham Bell"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q275",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de la photographie ?",
+    "answers": [
+      "William Fox Talbot",
+      "George Eastman",
+      "Nicéphore Niépce",
+      "Louis Daguerre"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q276",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur à explosion ?",
+    "answers": [
+      "Nikolaus Otto",
+      "Karl Benz",
+      "Gottlieb Daimler",
+      "Rudolf Diesel"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q277",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de la photographie ?",
+    "answers": [
+      "Nicéphore Niépce",
+      "Louis Daguerre",
+      "George Eastman",
+      "William Fox Talbot"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q278",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur diesel ?",
+    "answers": [
+      "Gottlieb Daimler",
+      "Rudolf Diesel",
+      "Nicholas Otto",
+      "Karl Benz"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q279",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la radio ?",
+    "answers": [
+      "Lee de Forest",
+      "Guglielmo Marconi",
+      "Reginald Fessenden",
+      "Nikola Tesla"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q280",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier ordinateur programmable ?",
+    "answers": [
+      "Charles Babbage",
+      "John von Neumann",
+      "Konrad Zuse",
+      "Alan Turing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q281",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la machine à coudre ?",
+    "answers": [
+      "Isaac Singer",
+      "Elias Howe",
+      "Thomas Saint",
+      "Walter Hunt"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q282",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur à explosion ?",
+    "answers": [
+      "Gottlieb Daimler",
+      "Rudolf Diesel",
+      "Karl Benz",
+      "Nikolaus Otto"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q283",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur à explosion ?",
+    "answers": [
+      "Karl Benz",
+      "Rudolf Diesel",
+      "Gottlieb Daimler",
+      "Nikolaus Otto"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q284",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur à explosion ?",
+    "answers": [
+      "Gottlieb Daimler",
+      "Nikolaus Otto",
+      "Rudolf Diesel",
+      "Karl Benz"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q285",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
+    "answers": [
+      "Paul Cornu",
+      "Juan de la Cierva",
+      "Arthur Young",
+      "Igor Sikorsky"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q286",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la machine à coudre ?",
+    "answers": [
+      "Walter Hunt",
+      "Isaac Singer",
+      "Thomas Saint",
+      "Elias Howe"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q287",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du sous-marin ?",
+    "answers": [
+      "Isaac Peral",
+      "David Bushnell",
+      "Cornelis Drebbel",
+      "John Philip Holland"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q288",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la radio ?",
+    "answers": [
+      "Nikola Tesla",
+      "Lee de Forest",
+      "Reginald Fessenden",
+      "Guglielmo Marconi"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q289",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé la radio ?",
+    "answers": [
+      "Nikola Tesla",
+      "Guglielmo Marconi",
+      "Lee de Forest",
+      "Reginald Fessenden"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q290",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur diesel ?",
+    "answers": [
+      "Gottlieb Daimler",
+      "Rudolf Diesel",
+      "Nicholas Otto",
+      "Karl Benz"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q291",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier ordinateur programmable ?",
+    "answers": [
+      "Alan Turing",
+      "John von Neumann",
+      "Charles Babbage",
+      "Konrad Zuse"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q292",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur à explosion ?",
+    "answers": [
+      "Karl Benz",
+      "Nikolaus Otto",
+      "Gottlieb Daimler",
+      "Rudolf Diesel"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q293",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du gramophone ?",
+    "answers": [
+      "Emile Berliner",
+      "Guglielmo Marconi",
+      "Thomas Edison",
+      "Alexander Graham Bell"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q294",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur diesel ?",
+    "answers": [
+      "Rudolf Diesel",
+      "Gottlieb Daimler",
+      "Nicholas Otto",
+      "Karl Benz"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q295",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du sous-marin ?",
+    "answers": [
+      "John Philip Holland",
+      "David Bushnell",
+      "Isaac Peral",
+      "Cornelis Drebbel"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q296",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de la photographie ?",
+    "answers": [
+      "George Eastman",
+      "Nicéphore Niépce",
+      "William Fox Talbot",
+      "Louis Daguerre"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q297",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur diesel ?",
+    "answers": [
+      "Gottlieb Daimler",
+      "Nicholas Otto",
+      "Karl Benz",
+      "Rudolf Diesel"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q298",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
+    "answers": [
+      "Igor Sikorsky",
+      "Paul Cornu",
+      "Juan de la Cierva",
+      "Arthur Young"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q299",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui a inventé le premier moteur diesel ?",
+    "answers": [
+      "Nicholas Otto",
+      "Gottlieb Daimler",
+      "Rudolf Diesel",
+      "Karl Benz"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q300",
+    "category": "Inventions",
+    "difficulty": "Moyen",
+    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
+    "answers": [
+      "Carl von Linde",
+      "James Harrison",
+      "Albert T. Marshall",
+      "Jacob Perkins"
+    ],
+    "correctIndex": 0
+  }
+]
