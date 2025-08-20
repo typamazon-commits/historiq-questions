@@ -1,0 +1,3902 @@
+[
+  {
+    "id": "q1",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
+    "answers": [
+      "Callanish",
+      "Carnac",
+      "Avebury",
+      "Stonehenge"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q2",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
+    "answers": [
+      "Antoine de Saint-Exupéry",
+      "Charles Lindbergh",
+      "Glenn Miller",
+      "Douglas Bader"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q3",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
+    "answers": [
+      "Sphère d'Oman",
+      "Sphère de Taman",
+      "Sphère de Betz",
+      "Sphère de Klerksdorp"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q4",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
+    "answers": [
+      "Maya",
+      "Olmèque",
+      "Nazca",
+      "Inca"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q5",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
+    "answers": [
+      "Sphère de Taman",
+      "Sphère de Klerksdorp",
+      "Sphère de Betz",
+      "Sphère d'Oman"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q6",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
+    "answers": [
+      "Sphère de Taman",
+      "Sphère d'Oman",
+      "Sphère de Betz",
+      "Sphère de Klerksdorp"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q7",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
+    "answers": [
+      "Tahiti",
+      "Fidji",
+      "Guam",
+      "Île de Pâques"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q8",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
+    "answers": [
+      "Maya",
+      "Nazca",
+      "Olmèque",
+      "Inca"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q9",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
+    "answers": [
+      "Sphère de Betz",
+      "Sphère de Taman",
+      "Sphère de Klerksdorp",
+      "Sphère d'Oman"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q10",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
+    "answers": [
+      "Ernest Shackleton",
+      "Fridtjof Nansen",
+      "Roald Amundsen",
+      "Umberto Nobile"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q11",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
+    "answers": [
+      "Lumières de Marfa",
+      "Aurores boréales",
+      "Feux de Saint-Elme",
+      "Lumières de Hessdalen"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q12",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
+    "answers": [
+      "Poenari",
+      "Corvin",
+      "Château de Bran",
+      "Peleș"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q13",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
+    "answers": [
+      "Guam",
+      "Tahiti",
+      "Fidji",
+      "Île de Pâques"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q14",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
+    "answers": [
+      "Sphère de Klerksdorp",
+      "Sphère de Taman",
+      "Sphère d'Oman",
+      "Sphère de Betz"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q15",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
+    "answers": [
+      "Flying Dutchman",
+      "Carroll A. Deering",
+      "Mary Celeste",
+      "Ourang Medan"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q16",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
+    "answers": [
+      "Lumières de Marfa",
+      "Aurores boréales",
+      "Feux de Saint-Elme",
+      "Lumières de Hessdalen"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q17",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
+    "answers": [
+      "Ourang Medan",
+      "Flying Dutchman",
+      "Carroll A. Deering",
+      "Mary Celeste"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q18",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
+    "answers": [
+      "Stonehenge",
+      "Callanish",
+      "Avebury",
+      "Carnac"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q19",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
+    "answers": [
+      "Livre de Kells",
+      "Codex Rohonczi",
+      "Codex Gigas",
+      "Manuscrit de Voynich"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q20",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
+    "answers": [
+      "Sphère de Klerksdorp",
+      "Sphère de Betz",
+      "Sphère de Taman",
+      "Sphère d'Oman"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q21",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
+    "answers": [
+      "Sphère de Betz",
+      "Sphère de Taman",
+      "Sphère d'Oman",
+      "Sphère de Klerksdorp"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q22",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
+    "answers": [
+      "Aurores boréales",
+      "Lumières de Marfa",
+      "Lumières de Hessdalen",
+      "Feux de Saint-Elme"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q23",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
+    "answers": [
+      "Flying Dutchman",
+      "Ourang Medan",
+      "Carroll A. Deering",
+      "Mary Celeste"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q24",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
+    "answers": [
+      "Sphère de Klerksdorp",
+      "Sphère d'Oman",
+      "Sphère de Taman",
+      "Sphère de Betz"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q25",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
+    "answers": [
+      "Ourang Medan",
+      "Mary Celeste",
+      "Carroll A. Deering",
+      "Flying Dutchman"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q26",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
+    "answers": [
+      "Sphère de Taman",
+      "Sphère d'Oman",
+      "Sphère de Klerksdorp",
+      "Sphère de Betz"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q27",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
+    "answers": [
+      "Aurores boréales",
+      "Lumières de Marfa",
+      "Lumières de Hessdalen",
+      "Feux de Saint-Elme"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q28",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
+    "answers": [
+      "Inca",
+      "Nazca",
+      "Olmèque",
+      "Maya"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q29",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
+    "answers": [
+      "Sphère d'Oman",
+      "Sphère de Taman",
+      "Sphère de Betz",
+      "Sphère de Klerksdorp"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q30",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
+    "answers": [
+      "Poenari",
+      "Peleș",
+      "Corvin",
+      "Château de Bran"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q31",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
+    "answers": [
+      "Tahiti",
+      "Fidji",
+      "Guam",
+      "Île de Pâques"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q32",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
+    "answers": [
+      "Carnac",
+      "Stonehenge",
+      "Callanish",
+      "Avebury"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q33",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
+    "answers": [
+      "Callanish",
+      "Carnac",
+      "Avebury",
+      "Stonehenge"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q34",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
+    "answers": [
+      "Peleș",
+      "Poenari",
+      "Château de Bran",
+      "Corvin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q35",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
+    "answers": [
+      "Sphère de Betz",
+      "Sphère d'Oman",
+      "Sphère de Klerksdorp",
+      "Sphère de Taman"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q36",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
+    "answers": [
+      "Carroll A. Deering",
+      "Mary Celeste",
+      "Flying Dutchman",
+      "Ourang Medan"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q37",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
+    "answers": [
+      "Douglas Bader",
+      "Charles Lindbergh",
+      "Glenn Miller",
+      "Antoine de Saint-Exupéry"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q38",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
+    "answers": [
+      "Fridtjof Nansen",
+      "Ernest Shackleton",
+      "Umberto Nobile",
+      "Roald Amundsen"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q39",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
+    "answers": [
+      "Lumières de Marfa",
+      "Feux de Saint-Elme",
+      "Aurores boréales",
+      "Lumières de Hessdalen"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q40",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
+    "answers": [
+      "Lumières de Marfa",
+      "Aurores boréales",
+      "Feux de Saint-Elme",
+      "Lumières de Hessdalen"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q41",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
+    "answers": [
+      "Carnac",
+      "Callanish",
+      "Stonehenge",
+      "Avebury"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q42",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
+    "answers": [
+      "Umberto Nobile",
+      "Fridtjof Nansen",
+      "Roald Amundsen",
+      "Ernest Shackleton"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q43",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
+    "answers": [
+      "Corvin",
+      "Château de Bran",
+      "Peleș",
+      "Poenari"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q44",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
+    "answers": [
+      "Lumières de Hessdalen",
+      "Lumières de Marfa",
+      "Aurores boréales",
+      "Feux de Saint-Elme"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q45",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
+    "answers": [
+      "Manuscrit de Voynich",
+      "Codex Gigas",
+      "Livre de Kells",
+      "Codex Rohonczi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q46",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
+    "answers": [
+      "Tahiti",
+      "Île de Pâques",
+      "Guam",
+      "Fidji"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q47",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
+    "answers": [
+      "Avebury",
+      "Stonehenge",
+      "Callanish",
+      "Carnac"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q48",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
+    "answers": [
+      "Umberto Nobile",
+      "Ernest Shackleton",
+      "Roald Amundsen",
+      "Fridtjof Nansen"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q49",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
+    "answers": [
+      "Glenn Miller",
+      "Antoine de Saint-Exupéry",
+      "Douglas Bader",
+      "Charles Lindbergh"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q50",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
+    "answers": [
+      "Feux de Saint-Elme",
+      "Lumières de Hessdalen",
+      "Aurores boréales",
+      "Lumières de Marfa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q51",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
+    "answers": [
+      "Château de Bran",
+      "Peleș",
+      "Poenari",
+      "Corvin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q52",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
+    "answers": [
+      "Nazca",
+      "Olmèque",
+      "Maya",
+      "Inca"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q53",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
+    "answers": [
+      "Sphère de Klerksdorp",
+      "Sphère de Taman",
+      "Sphère d'Oman",
+      "Sphère de Betz"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q54",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
+    "answers": [
+      "Fridtjof Nansen",
+      "Roald Amundsen",
+      "Umberto Nobile",
+      "Ernest Shackleton"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q55",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
+    "answers": [
+      "Île de Pâques",
+      "Fidji",
+      "Guam",
+      "Tahiti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q56",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
+    "answers": [
+      "Umberto Nobile",
+      "Fridtjof Nansen",
+      "Ernest Shackleton",
+      "Roald Amundsen"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q57",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
+    "answers": [
+      "Île de Pâques",
+      "Fidji",
+      "Guam",
+      "Tahiti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q58",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
+    "answers": [
+      "Château de Bran",
+      "Peleș",
+      "Poenari",
+      "Corvin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q59",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
+    "answers": [
+      "Lumières de Hessdalen",
+      "Lumières de Marfa",
+      "Aurores boréales",
+      "Feux de Saint-Elme"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q60",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
+    "answers": [
+      "Avebury",
+      "Callanish",
+      "Carnac",
+      "Stonehenge"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q61",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
+    "answers": [
+      "Poenari",
+      "Corvin",
+      "Château de Bran",
+      "Peleș"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q62",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
+    "answers": [
+      "Sphère de Klerksdorp",
+      "Sphère de Taman",
+      "Sphère d'Oman",
+      "Sphère de Betz"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q63",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
+    "answers": [
+      "Guam",
+      "Île de Pâques",
+      "Fidji",
+      "Tahiti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q64",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
+    "answers": [
+      "Roald Amundsen",
+      "Fridtjof Nansen",
+      "Ernest Shackleton",
+      "Umberto Nobile"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q65",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
+    "answers": [
+      "Carroll A. Deering",
+      "Flying Dutchman",
+      "Ourang Medan",
+      "Mary Celeste"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q66",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
+    "answers": [
+      "Carroll A. Deering",
+      "Flying Dutchman",
+      "Ourang Medan",
+      "Mary Celeste"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q67",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
+    "answers": [
+      "Tahiti",
+      "Guam",
+      "Île de Pâques",
+      "Fidji"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q68",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
+    "answers": [
+      "Château de Bran",
+      "Poenari",
+      "Corvin",
+      "Peleș"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q69",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
+    "answers": [
+      "Lumières de Marfa",
+      "Lumières de Hessdalen",
+      "Feux de Saint-Elme",
+      "Aurores boréales"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q70",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
+    "answers": [
+      "Charles Lindbergh",
+      "Douglas Bader",
+      "Antoine de Saint-Exupéry",
+      "Glenn Miller"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q71",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
+    "answers": [
+      "Avebury",
+      "Callanish",
+      "Stonehenge",
+      "Carnac"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q72",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
+    "answers": [
+      "Livre de Kells",
+      "Codex Gigas",
+      "Codex Rohonczi",
+      "Manuscrit de Voynich"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q73",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
+    "answers": [
+      "Codex Rohonczi",
+      "Livre de Kells",
+      "Manuscrit de Voynich",
+      "Codex Gigas"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q74",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
+    "answers": [
+      "Inca",
+      "Nazca",
+      "Maya",
+      "Olmèque"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q75",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
+    "answers": [
+      "Codex Rohonczi",
+      "Livre de Kells",
+      "Manuscrit de Voynich",
+      "Codex Gigas"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q76",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
+    "answers": [
+      "Guam",
+      "Île de Pâques",
+      "Tahiti",
+      "Fidji"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q77",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
+    "answers": [
+      "Stonehenge",
+      "Callanish",
+      "Carnac",
+      "Avebury"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q78",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
+    "answers": [
+      "Fridtjof Nansen",
+      "Ernest Shackleton",
+      "Umberto Nobile",
+      "Roald Amundsen"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q79",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
+    "answers": [
+      "Callanish",
+      "Avebury",
+      "Carnac",
+      "Stonehenge"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q80",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
+    "answers": [
+      "Carnac",
+      "Callanish",
+      "Avebury",
+      "Stonehenge"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q81",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
+    "answers": [
+      "Carnac",
+      "Avebury",
+      "Stonehenge",
+      "Callanish"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q82",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
+    "answers": [
+      "Douglas Bader",
+      "Charles Lindbergh",
+      "Glenn Miller",
+      "Antoine de Saint-Exupéry"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q83",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
+    "answers": [
+      "Feux de Saint-Elme",
+      "Lumières de Marfa",
+      "Lumières de Hessdalen",
+      "Aurores boréales"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q84",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
+    "answers": [
+      "Roald Amundsen",
+      "Fridtjof Nansen",
+      "Ernest Shackleton",
+      "Umberto Nobile"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q85",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
+    "answers": [
+      "Codex Gigas",
+      "Manuscrit de Voynich",
+      "Livre de Kells",
+      "Codex Rohonczi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q86",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
+    "answers": [
+      "Stonehenge",
+      "Carnac",
+      "Callanish",
+      "Avebury"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q87",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
+    "answers": [
+      "Sphère de Klerksdorp",
+      "Sphère de Taman",
+      "Sphère de Betz",
+      "Sphère d'Oman"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q88",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
+    "answers": [
+      "Manuscrit de Voynich",
+      "Codex Gigas",
+      "Codex Rohonczi",
+      "Livre de Kells"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q89",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
+    "answers": [
+      "Mary Celeste",
+      "Flying Dutchman",
+      "Carroll A. Deering",
+      "Ourang Medan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q90",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
+    "answers": [
+      "Charles Lindbergh",
+      "Douglas Bader",
+      "Glenn Miller",
+      "Antoine de Saint-Exupéry"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q91",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
+    "answers": [
+      "Charles Lindbergh",
+      "Antoine de Saint-Exupéry",
+      "Glenn Miller",
+      "Douglas Bader"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q92",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
+    "answers": [
+      "Douglas Bader",
+      "Glenn Miller",
+      "Charles Lindbergh",
+      "Antoine de Saint-Exupéry"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q93",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
+    "answers": [
+      "Guam",
+      "Île de Pâques",
+      "Tahiti",
+      "Fidji"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q94",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
+    "answers": [
+      "Avebury",
+      "Carnac",
+      "Stonehenge",
+      "Callanish"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q95",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
+    "answers": [
+      "Douglas Bader",
+      "Antoine de Saint-Exupéry",
+      "Glenn Miller",
+      "Charles Lindbergh"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q96",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
+    "answers": [
+      "Ourang Medan",
+      "Carroll A. Deering",
+      "Mary Celeste",
+      "Flying Dutchman"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q97",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
+    "answers": [
+      "Ourang Medan",
+      "Mary Celeste",
+      "Carroll A. Deering",
+      "Flying Dutchman"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q98",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
+    "answers": [
+      "Poenari",
+      "Corvin",
+      "Château de Bran",
+      "Peleș"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q99",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
+    "answers": [
+      "Livre de Kells",
+      "Codex Gigas",
+      "Manuscrit de Voynich",
+      "Codex Rohonczi"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q100",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
+    "answers": [
+      "Charles Lindbergh",
+      "Douglas Bader",
+      "Antoine de Saint-Exupéry",
+      "Glenn Miller"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q101",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
+    "answers": [
+      "Carroll A. Deering",
+      "Ourang Medan",
+      "Flying Dutchman",
+      "Mary Celeste"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q102",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
+    "answers": [
+      "Olmèque",
+      "Maya",
+      "Nazca",
+      "Inca"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q103",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
+    "answers": [
+      "Château de Bran",
+      "Corvin",
+      "Peleș",
+      "Poenari"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q104",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
+    "answers": [
+      "Nazca",
+      "Maya",
+      "Inca",
+      "Olmèque"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q105",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
+    "answers": [
+      "Codex Rohonczi",
+      "Livre de Kells",
+      "Manuscrit de Voynich",
+      "Codex Gigas"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q106",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
+    "answers": [
+      "Nazca",
+      "Maya",
+      "Olmèque",
+      "Inca"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q107",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
+    "answers": [
+      "Carnac",
+      "Avebury",
+      "Callanish",
+      "Stonehenge"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q108",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
+    "answers": [
+      "Stonehenge",
+      "Callanish",
+      "Carnac",
+      "Avebury"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q109",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
+    "answers": [
+      "Codex Gigas",
+      "Livre de Kells",
+      "Manuscrit de Voynich",
+      "Codex Rohonczi"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q110",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
+    "answers": [
+      "Stonehenge",
+      "Callanish",
+      "Avebury",
+      "Carnac"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q111",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
+    "answers": [
+      "Tahiti",
+      "Île de Pâques",
+      "Guam",
+      "Fidji"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q112",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
+    "answers": [
+      "Douglas Bader",
+      "Antoine de Saint-Exupéry",
+      "Glenn Miller",
+      "Charles Lindbergh"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q113",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
+    "answers": [
+      "Poenari",
+      "Peleș",
+      "Château de Bran",
+      "Corvin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q114",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
+    "answers": [
+      "Château de Bran",
+      "Peleș",
+      "Corvin",
+      "Poenari"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q115",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
+    "answers": [
+      "Ourang Medan",
+      "Carroll A. Deering",
+      "Flying Dutchman",
+      "Mary Celeste"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q116",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
+    "answers": [
+      "Carnac",
+      "Avebury",
+      "Callanish",
+      "Stonehenge"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q117",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
+    "answers": [
+      "Umberto Nobile",
+      "Ernest Shackleton",
+      "Fridtjof Nansen",
+      "Roald Amundsen"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q118",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
+    "answers": [
+      "Poenari",
+      "Château de Bran",
+      "Peleș",
+      "Corvin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q119",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
+    "answers": [
+      "Livre de Kells",
+      "Codex Gigas",
+      "Manuscrit de Voynich",
+      "Codex Rohonczi"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q120",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
+    "answers": [
+      "Château de Bran",
+      "Corvin",
+      "Peleș",
+      "Poenari"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q121",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
+    "answers": [
+      "Nazca",
+      "Inca",
+      "Maya",
+      "Olmèque"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q122",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
+    "answers": [
+      "Corvin",
+      "Peleș",
+      "Poenari",
+      "Château de Bran"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q123",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
+    "answers": [
+      "Lumières de Marfa",
+      "Aurores boréales",
+      "Feux de Saint-Elme",
+      "Lumières de Hessdalen"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q124",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
+    "answers": [
+      "Douglas Bader",
+      "Antoine de Saint-Exupéry",
+      "Glenn Miller",
+      "Charles Lindbergh"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q125",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
+    "answers": [
+      "Antoine de Saint-Exupéry",
+      "Charles Lindbergh",
+      "Glenn Miller",
+      "Douglas Bader"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q126",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
+    "answers": [
+      "Antoine de Saint-Exupéry",
+      "Glenn Miller",
+      "Charles Lindbergh",
+      "Douglas Bader"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q127",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
+    "answers": [
+      "Maya",
+      "Olmèque",
+      "Nazca",
+      "Inca"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q128",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
+    "answers": [
+      "Corvin",
+      "Poenari",
+      "Château de Bran",
+      "Peleș"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q129",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
+    "answers": [
+      "Fidji",
+      "Tahiti",
+      "Guam",
+      "Île de Pâques"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q130",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
+    "answers": [
+      "Aurores boréales",
+      "Lumières de Marfa",
+      "Feux de Saint-Elme",
+      "Lumières de Hessdalen"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q131",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
+    "answers": [
+      "Île de Pâques",
+      "Fidji",
+      "Guam",
+      "Tahiti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q132",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
+    "answers": [
+      "Fridtjof Nansen",
+      "Ernest Shackleton",
+      "Umberto Nobile",
+      "Roald Amundsen"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q133",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
+    "answers": [
+      "Mary Celeste",
+      "Ourang Medan",
+      "Flying Dutchman",
+      "Carroll A. Deering"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q134",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
+    "answers": [
+      "Callanish",
+      "Avebury",
+      "Carnac",
+      "Stonehenge"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q135",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
+    "answers": [
+      "Mary Celeste",
+      "Carroll A. Deering",
+      "Ourang Medan",
+      "Flying Dutchman"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q136",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
+    "answers": [
+      "Sphère de Betz",
+      "Sphère de Klerksdorp",
+      "Sphère de Taman",
+      "Sphère d'Oman"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q137",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
+    "answers": [
+      "Aurores boréales",
+      "Feux de Saint-Elme",
+      "Lumières de Marfa",
+      "Lumières de Hessdalen"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q138",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
+    "answers": [
+      "Maya",
+      "Nazca",
+      "Olmèque",
+      "Inca"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q139",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
+    "answers": [
+      "Île de Pâques",
+      "Tahiti",
+      "Guam",
+      "Fidji"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q140",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
+    "answers": [
+      "Charles Lindbergh",
+      "Douglas Bader",
+      "Glenn Miller",
+      "Antoine de Saint-Exupéry"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q141",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
+    "answers": [
+      "Codex Gigas",
+      "Livre de Kells",
+      "Codex Rohonczi",
+      "Manuscrit de Voynich"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q142",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
+    "answers": [
+      "Guam",
+      "Fidji",
+      "Tahiti",
+      "Île de Pâques"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q143",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
+    "answers": [
+      "Manuscrit de Voynich",
+      "Codex Gigas",
+      "Codex Rohonczi",
+      "Livre de Kells"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q144",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
+    "answers": [
+      "Callanish",
+      "Carnac",
+      "Avebury",
+      "Stonehenge"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q145",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
+    "answers": [
+      "Feux de Saint-Elme",
+      "Lumières de Hessdalen",
+      "Lumières de Marfa",
+      "Aurores boréales"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q146",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
+    "answers": [
+      "Carnac",
+      "Avebury",
+      "Callanish",
+      "Stonehenge"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q147",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
+    "answers": [
+      "Peleș",
+      "Château de Bran",
+      "Corvin",
+      "Poenari"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q148",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
+    "answers": [
+      "Mary Celeste",
+      "Flying Dutchman",
+      "Carroll A. Deering",
+      "Ourang Medan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q149",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
+    "answers": [
+      "Île de Pâques",
+      "Fidji",
+      "Tahiti",
+      "Guam"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q150",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
+    "answers": [
+      "Maya",
+      "Inca",
+      "Olmèque",
+      "Nazca"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q151",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
+    "answers": [
+      "Livre de Kells",
+      "Codex Rohonczi",
+      "Manuscrit de Voynich",
+      "Codex Gigas"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q152",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
+    "answers": [
+      "Ernest Shackleton",
+      "Umberto Nobile",
+      "Fridtjof Nansen",
+      "Roald Amundsen"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q153",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
+    "answers": [
+      "Codex Gigas",
+      "Codex Rohonczi",
+      "Manuscrit de Voynich",
+      "Livre de Kells"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q154",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
+    "answers": [
+      "Lumières de Marfa",
+      "Feux de Saint-Elme",
+      "Aurores boréales",
+      "Lumières de Hessdalen"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q155",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
+    "answers": [
+      "Carroll A. Deering",
+      "Mary Celeste",
+      "Flying Dutchman",
+      "Ourang Medan"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q156",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
+    "answers": [
+      "Sphère de Betz",
+      "Sphère de Taman",
+      "Sphère de Klerksdorp",
+      "Sphère d'Oman"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q157",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
+    "answers": [
+      "Inca",
+      "Nazca",
+      "Maya",
+      "Olmèque"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q158",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
+    "answers": [
+      "Aurores boréales",
+      "Lumières de Marfa",
+      "Feux de Saint-Elme",
+      "Lumières de Hessdalen"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q159",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
+    "answers": [
+      "Manuscrit de Voynich",
+      "Codex Gigas",
+      "Livre de Kells",
+      "Codex Rohonczi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q160",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
+    "answers": [
+      "Sphère d'Oman",
+      "Sphère de Klerksdorp",
+      "Sphère de Taman",
+      "Sphère de Betz"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q161",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
+    "answers": [
+      "Poenari",
+      "Château de Bran",
+      "Corvin",
+      "Peleș"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q162",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
+    "answers": [
+      "Fidji",
+      "Guam",
+      "Île de Pâques",
+      "Tahiti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q163",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
+    "answers": [
+      "Aurores boréales",
+      "Lumières de Marfa",
+      "Lumières de Hessdalen",
+      "Feux de Saint-Elme"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q164",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
+    "answers": [
+      "Umberto Nobile",
+      "Fridtjof Nansen",
+      "Roald Amundsen",
+      "Ernest Shackleton"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q165",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
+    "answers": [
+      "Tahiti",
+      "Île de Pâques",
+      "Fidji",
+      "Guam"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q166",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
+    "answers": [
+      "Glenn Miller",
+      "Antoine de Saint-Exupéry",
+      "Douglas Bader",
+      "Charles Lindbergh"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q167",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
+    "answers": [
+      "Peleș",
+      "Château de Bran",
+      "Poenari",
+      "Corvin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q168",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
+    "answers": [
+      "Fidji",
+      "Île de Pâques",
+      "Guam",
+      "Tahiti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q169",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
+    "answers": [
+      "Charles Lindbergh",
+      "Glenn Miller",
+      "Douglas Bader",
+      "Antoine de Saint-Exupéry"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q170",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
+    "answers": [
+      "Aurores boréales",
+      "Lumières de Marfa",
+      "Feux de Saint-Elme",
+      "Lumières de Hessdalen"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q171",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
+    "answers": [
+      "Inca",
+      "Nazca",
+      "Olmèque",
+      "Maya"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q172",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
+    "answers": [
+      "Lumières de Hessdalen",
+      "Feux de Saint-Elme",
+      "Lumières de Marfa",
+      "Aurores boréales"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q173",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
+    "answers": [
+      "Douglas Bader",
+      "Charles Lindbergh",
+      "Glenn Miller",
+      "Antoine de Saint-Exupéry"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q174",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
+    "answers": [
+      "Île de Pâques",
+      "Fidji",
+      "Guam",
+      "Tahiti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q175",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
+    "answers": [
+      "Manuscrit de Voynich",
+      "Livre de Kells",
+      "Codex Gigas",
+      "Codex Rohonczi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q176",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
+    "answers": [
+      "Île de Pâques",
+      "Guam",
+      "Fidji",
+      "Tahiti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q177",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
+    "answers": [
+      "Manuscrit de Voynich",
+      "Livre de Kells",
+      "Codex Gigas",
+      "Codex Rohonczi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q178",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
+    "answers": [
+      "Mary Celeste",
+      "Carroll A. Deering",
+      "Flying Dutchman",
+      "Ourang Medan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q179",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
+    "answers": [
+      "Flying Dutchman",
+      "Mary Celeste",
+      "Ourang Medan",
+      "Carroll A. Deering"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q180",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
+    "answers": [
+      "Lumières de Marfa",
+      "Aurores boréales",
+      "Lumières de Hessdalen",
+      "Feux de Saint-Elme"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q181",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
+    "answers": [
+      "Callanish",
+      "Avebury",
+      "Carnac",
+      "Stonehenge"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q182",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
+    "answers": [
+      "Codex Gigas",
+      "Livre de Kells",
+      "Codex Rohonczi",
+      "Manuscrit de Voynich"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q183",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
+    "answers": [
+      "Inca",
+      "Olmèque",
+      "Nazca",
+      "Maya"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q184",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
+    "answers": [
+      "Lumières de Hessdalen",
+      "Lumières de Marfa",
+      "Feux de Saint-Elme",
+      "Aurores boréales"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q185",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
+    "answers": [
+      "Douglas Bader",
+      "Antoine de Saint-Exupéry",
+      "Charles Lindbergh",
+      "Glenn Miller"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q186",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
+    "answers": [
+      "Olmèque",
+      "Maya",
+      "Nazca",
+      "Inca"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q187",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
+    "answers": [
+      "Manuscrit de Voynich",
+      "Codex Rohonczi",
+      "Codex Gigas",
+      "Livre de Kells"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q188",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
+    "answers": [
+      "Manuscrit de Voynich",
+      "Codex Rohonczi",
+      "Livre de Kells",
+      "Codex Gigas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q189",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
+    "answers": [
+      "Lumières de Hessdalen",
+      "Aurores boréales",
+      "Feux de Saint-Elme",
+      "Lumières de Marfa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q190",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
+    "answers": [
+      "Manuscrit de Voynich",
+      "Livre de Kells",
+      "Codex Gigas",
+      "Codex Rohonczi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q191",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
+    "answers": [
+      "Fidji",
+      "Île de Pâques",
+      "Guam",
+      "Tahiti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q192",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
+    "answers": [
+      "Tahiti",
+      "Guam",
+      "Fidji",
+      "Île de Pâques"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q193",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
+    "answers": [
+      "Fidji",
+      "Guam",
+      "Tahiti",
+      "Île de Pâques"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q194",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
+    "answers": [
+      "Sphère de Klerksdorp",
+      "Sphère de Betz",
+      "Sphère d'Oman",
+      "Sphère de Taman"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q195",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
+    "answers": [
+      "Manuscrit de Voynich",
+      "Codex Gigas",
+      "Livre de Kells",
+      "Codex Rohonczi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q196",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
+    "answers": [
+      "Fidji",
+      "Guam",
+      "Île de Pâques",
+      "Tahiti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q197",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
+    "answers": [
+      "Umberto Nobile",
+      "Ernest Shackleton",
+      "Fridtjof Nansen",
+      "Roald Amundsen"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q198",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
+    "answers": [
+      "Inca",
+      "Olmèque",
+      "Nazca",
+      "Maya"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q199",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
+    "answers": [
+      "Douglas Bader",
+      "Antoine de Saint-Exupéry",
+      "Glenn Miller",
+      "Charles Lindbergh"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q200",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
+    "answers": [
+      "Mary Celeste",
+      "Flying Dutchman",
+      "Carroll A. Deering",
+      "Ourang Medan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q201",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
+    "answers": [
+      "Poenari",
+      "Corvin",
+      "Peleș",
+      "Château de Bran"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q202",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
+    "answers": [
+      "Peleș",
+      "Poenari",
+      "Corvin",
+      "Château de Bran"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q203",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
+    "answers": [
+      "Sphère de Betz",
+      "Sphère de Taman",
+      "Sphère de Klerksdorp",
+      "Sphère d'Oman"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q204",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
+    "answers": [
+      "Ernest Shackleton",
+      "Fridtjof Nansen",
+      "Roald Amundsen",
+      "Umberto Nobile"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q205",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
+    "answers": [
+      "Livre de Kells",
+      "Codex Gigas",
+      "Codex Rohonczi",
+      "Manuscrit de Voynich"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q206",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
+    "answers": [
+      "Antoine de Saint-Exupéry",
+      "Douglas Bader",
+      "Charles Lindbergh",
+      "Glenn Miller"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q207",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
+    "answers": [
+      "Avebury",
+      "Callanish",
+      "Stonehenge",
+      "Carnac"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q208",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
+    "answers": [
+      "Maya",
+      "Olmèque",
+      "Nazca",
+      "Inca"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q209",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
+    "answers": [
+      "Manuscrit de Voynich",
+      "Livre de Kells",
+      "Codex Rohonczi",
+      "Codex Gigas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q210",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
+    "answers": [
+      "Sphère de Betz",
+      "Sphère de Klerksdorp",
+      "Sphère de Taman",
+      "Sphère d'Oman"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q211",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
+    "answers": [
+      "Livre de Kells",
+      "Manuscrit de Voynich",
+      "Codex Rohonczi",
+      "Codex Gigas"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q212",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
+    "answers": [
+      "Livre de Kells",
+      "Codex Gigas",
+      "Manuscrit de Voynich",
+      "Codex Rohonczi"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q213",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
+    "answers": [
+      "Avebury",
+      "Stonehenge",
+      "Carnac",
+      "Callanish"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q214",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
+    "answers": [
+      "Olmèque",
+      "Inca",
+      "Maya",
+      "Nazca"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q215",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
+    "answers": [
+      "Maya",
+      "Inca",
+      "Nazca",
+      "Olmèque"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q216",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
+    "answers": [
+      "Lumières de Hessdalen",
+      "Lumières de Marfa",
+      "Feux de Saint-Elme",
+      "Aurores boréales"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q217",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
+    "answers": [
+      "Sphère de Klerksdorp",
+      "Sphère de Betz",
+      "Sphère d'Oman",
+      "Sphère de Taman"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q218",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
+    "answers": [
+      "Sphère de Betz",
+      "Sphère d'Oman",
+      "Sphère de Klerksdorp",
+      "Sphère de Taman"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q219",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
+    "answers": [
+      "Corvin",
+      "Château de Bran",
+      "Poenari",
+      "Peleș"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q220",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
+    "answers": [
+      "Île de Pâques",
+      "Tahiti",
+      "Fidji",
+      "Guam"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q221",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
+    "answers": [
+      "Maya",
+      "Nazca",
+      "Olmèque",
+      "Inca"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q222",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
+    "answers": [
+      "Corvin",
+      "Peleș",
+      "Château de Bran",
+      "Poenari"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q223",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
+    "answers": [
+      "Olmèque",
+      "Maya",
+      "Inca",
+      "Nazca"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q224",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
+    "answers": [
+      "Château de Bran",
+      "Peleș",
+      "Corvin",
+      "Poenari"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q225",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
+    "answers": [
+      "Fidji",
+      "Guam",
+      "Tahiti",
+      "Île de Pâques"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q226",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
+    "answers": [
+      "Feux de Saint-Elme",
+      "Aurores boréales",
+      "Lumières de Hessdalen",
+      "Lumières de Marfa"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q227",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
+    "answers": [
+      "Charles Lindbergh",
+      "Douglas Bader",
+      "Glenn Miller",
+      "Antoine de Saint-Exupéry"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q228",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
+    "answers": [
+      "Carroll A. Deering",
+      "Flying Dutchman",
+      "Mary Celeste",
+      "Ourang Medan"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q229",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
+    "answers": [
+      "Carnac",
+      "Callanish",
+      "Stonehenge",
+      "Avebury"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q230",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
+    "answers": [
+      "Corvin",
+      "Peleș",
+      "Château de Bran",
+      "Poenari"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q231",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
+    "answers": [
+      "Codex Rohonczi",
+      "Codex Gigas",
+      "Livre de Kells",
+      "Manuscrit de Voynich"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q232",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
+    "answers": [
+      "Carroll A. Deering",
+      "Ourang Medan",
+      "Flying Dutchman",
+      "Mary Celeste"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q233",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
+    "answers": [
+      "Ernest Shackleton",
+      "Roald Amundsen",
+      "Fridtjof Nansen",
+      "Umberto Nobile"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q234",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
+    "answers": [
+      "Peleș",
+      "Corvin",
+      "Château de Bran",
+      "Poenari"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q235",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
+    "answers": [
+      "Tahiti",
+      "Île de Pâques",
+      "Fidji",
+      "Guam"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q236",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
+    "answers": [
+      "Douglas Bader",
+      "Glenn Miller",
+      "Antoine de Saint-Exupéry",
+      "Charles Lindbergh"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q237",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
+    "answers": [
+      "Sphère d'Oman",
+      "Sphère de Taman",
+      "Sphère de Klerksdorp",
+      "Sphère de Betz"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q238",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
+    "answers": [
+      "Maya",
+      "Nazca",
+      "Olmèque",
+      "Inca"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q239",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
+    "answers": [
+      "Manuscrit de Voynich",
+      "Codex Gigas",
+      "Livre de Kells",
+      "Codex Rohonczi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q240",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
+    "answers": [
+      "Charles Lindbergh",
+      "Antoine de Saint-Exupéry",
+      "Glenn Miller",
+      "Douglas Bader"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q241",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
+    "answers": [
+      "Lumières de Marfa",
+      "Aurores boréales",
+      "Lumières de Hessdalen",
+      "Feux de Saint-Elme"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q242",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
+    "answers": [
+      "Lumières de Hessdalen",
+      "Aurores boréales",
+      "Feux de Saint-Elme",
+      "Lumières de Marfa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q243",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
+    "answers": [
+      "Charles Lindbergh",
+      "Douglas Bader",
+      "Antoine de Saint-Exupéry",
+      "Glenn Miller"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q244",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
+    "answers": [
+      "Charles Lindbergh",
+      "Douglas Bader",
+      "Glenn Miller",
+      "Antoine de Saint-Exupéry"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q245",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
+    "answers": [
+      "Ernest Shackleton",
+      "Fridtjof Nansen",
+      "Umberto Nobile",
+      "Roald Amundsen"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q246",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
+    "answers": [
+      "Guam",
+      "Tahiti",
+      "Fidji",
+      "Île de Pâques"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q247",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
+    "answers": [
+      "Mary Celeste",
+      "Flying Dutchman",
+      "Carroll A. Deering",
+      "Ourang Medan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q248",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
+    "answers": [
+      "Sphère d'Oman",
+      "Sphère de Klerksdorp",
+      "Sphère de Betz",
+      "Sphère de Taman"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q249",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
+    "answers": [
+      "Tahiti",
+      "Fidji",
+      "Guam",
+      "Île de Pâques"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q250",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
+    "answers": [
+      "Olmèque",
+      "Maya",
+      "Inca",
+      "Nazca"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q251",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
+    "answers": [
+      "Nazca",
+      "Olmèque",
+      "Maya",
+      "Inca"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q252",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
+    "answers": [
+      "Lumières de Marfa",
+      "Lumières de Hessdalen",
+      "Aurores boréales",
+      "Feux de Saint-Elme"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q253",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
+    "answers": [
+      "Maya",
+      "Olmèque",
+      "Inca",
+      "Nazca"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q254",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
+    "answers": [
+      "Feux de Saint-Elme",
+      "Lumières de Hessdalen",
+      "Aurores boréales",
+      "Lumières de Marfa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q255",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
+    "answers": [
+      "Charles Lindbergh",
+      "Antoine de Saint-Exupéry",
+      "Douglas Bader",
+      "Glenn Miller"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q256",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
+    "answers": [
+      "Lumières de Marfa",
+      "Aurores boréales",
+      "Lumières de Hessdalen",
+      "Feux de Saint-Elme"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q257",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
+    "answers": [
+      "Inca",
+      "Nazca",
+      "Olmèque",
+      "Maya"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q258",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
+    "answers": [
+      "Peleș",
+      "Château de Bran",
+      "Corvin",
+      "Poenari"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q259",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
+    "answers": [
+      "Stonehenge",
+      "Carnac",
+      "Avebury",
+      "Callanish"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q260",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
+    "answers": [
+      "Mary Celeste",
+      "Ourang Medan",
+      "Carroll A. Deering",
+      "Flying Dutchman"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q261",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
+    "answers": [
+      "Inca",
+      "Nazca",
+      "Maya",
+      "Olmèque"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q262",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
+    "answers": [
+      "Tahiti",
+      "Guam",
+      "Île de Pâques",
+      "Fidji"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q263",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
+    "answers": [
+      "Château de Bran",
+      "Peleș",
+      "Poenari",
+      "Corvin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q264",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
+    "answers": [
+      "Île de Pâques",
+      "Tahiti",
+      "Guam",
+      "Fidji"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q265",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
+    "answers": [
+      "Lumières de Hessdalen",
+      "Feux de Saint-Elme",
+      "Lumières de Marfa",
+      "Aurores boréales"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q266",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
+    "answers": [
+      "Sphère de Klerksdorp",
+      "Sphère de Betz",
+      "Sphère d'Oman",
+      "Sphère de Taman"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q267",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
+    "answers": [
+      "Roald Amundsen",
+      "Umberto Nobile",
+      "Fridtjof Nansen",
+      "Ernest Shackleton"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q268",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
+    "answers": [
+      "Sphère de Taman",
+      "Sphère de Betz",
+      "Sphère d'Oman",
+      "Sphère de Klerksdorp"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q269",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
+    "answers": [
+      "Fridtjof Nansen",
+      "Umberto Nobile",
+      "Roald Amundsen",
+      "Ernest Shackleton"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q270",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
+    "answers": [
+      "Manuscrit de Voynich",
+      "Codex Gigas",
+      "Livre de Kells",
+      "Codex Rohonczi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q271",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
+    "answers": [
+      "Peleș",
+      "Château de Bran",
+      "Corvin",
+      "Poenari"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q272",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
+    "answers": [
+      "Roald Amundsen",
+      "Ernest Shackleton",
+      "Umberto Nobile",
+      "Fridtjof Nansen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q273",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
+    "answers": [
+      "Château de Bran",
+      "Corvin",
+      "Peleș",
+      "Poenari"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q274",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
+    "answers": [
+      "Sphère de Betz",
+      "Sphère d'Oman",
+      "Sphère de Taman",
+      "Sphère de Klerksdorp"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q275",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
+    "answers": [
+      "Ourang Medan",
+      "Flying Dutchman",
+      "Mary Celeste",
+      "Carroll A. Deering"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q276",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
+    "answers": [
+      "Sphère d'Oman",
+      "Sphère de Taman",
+      "Sphère de Klerksdorp",
+      "Sphère de Betz"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q277",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
+    "answers": [
+      "Antoine de Saint-Exupéry",
+      "Charles Lindbergh",
+      "Glenn Miller",
+      "Douglas Bader"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q278",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
+    "answers": [
+      "Roald Amundsen",
+      "Fridtjof Nansen",
+      "Ernest Shackleton",
+      "Umberto Nobile"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q279",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
+    "answers": [
+      "Mary Celeste",
+      "Flying Dutchman",
+      "Ourang Medan",
+      "Carroll A. Deering"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q280",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
+    "answers": [
+      "Île de Pâques",
+      "Tahiti",
+      "Guam",
+      "Fidji"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q281",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
+    "answers": [
+      "Ernest Shackleton",
+      "Roald Amundsen",
+      "Fridtjof Nansen",
+      "Umberto Nobile"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q282",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
+    "answers": [
+      "Livre de Kells",
+      "Manuscrit de Voynich",
+      "Codex Rohonczi",
+      "Codex Gigas"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q283",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
+    "answers": [
+      "Fidji",
+      "Tahiti",
+      "Guam",
+      "Île de Pâques"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q284",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
+    "answers": [
+      "Mary Celeste",
+      "Carroll A. Deering",
+      "Flying Dutchman",
+      "Ourang Medan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q285",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
+    "answers": [
+      "Château de Bran",
+      "Poenari",
+      "Peleș",
+      "Corvin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q286",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
+    "answers": [
+      "Codex Rohonczi",
+      "Livre de Kells",
+      "Codex Gigas",
+      "Manuscrit de Voynich"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q287",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
+    "answers": [
+      "Fridtjof Nansen",
+      "Ernest Shackleton",
+      "Roald Amundsen",
+      "Umberto Nobile"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q288",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
+    "answers": [
+      "Charles Lindbergh",
+      "Douglas Bader",
+      "Antoine de Saint-Exupéry",
+      "Glenn Miller"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q289",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
+    "answers": [
+      "Nazca",
+      "Olmèque",
+      "Inca",
+      "Maya"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q290",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
+    "answers": [
+      "Ourang Medan",
+      "Mary Celeste",
+      "Flying Dutchman",
+      "Carroll A. Deering"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q291",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
+    "answers": [
+      "Ernest Shackleton",
+      "Roald Amundsen",
+      "Umberto Nobile",
+      "Fridtjof Nansen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q292",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
+    "answers": [
+      "Avebury",
+      "Callanish",
+      "Carnac",
+      "Stonehenge"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q293",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
+    "answers": [
+      "Carroll A. Deering",
+      "Ourang Medan",
+      "Flying Dutchman",
+      "Mary Celeste"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q294",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
+    "answers": [
+      "Nazca",
+      "Olmèque",
+      "Maya",
+      "Inca"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q295",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
+    "answers": [
+      "Antoine de Saint-Exupéry",
+      "Douglas Bader",
+      "Glenn Miller",
+      "Charles Lindbergh"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q296",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
+    "answers": [
+      "Château de Bran",
+      "Poenari",
+      "Peleș",
+      "Corvin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q297",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
+    "answers": [
+      "Poenari",
+      "Château de Bran",
+      "Peleș",
+      "Corvin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q298",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
+    "answers": [
+      "Sphère de Taman",
+      "Sphère d'Oman",
+      "Sphère de Klerksdorp",
+      "Sphère de Betz"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q299",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
+    "answers": [
+      "Douglas Bader",
+      "Antoine de Saint-Exupéry",
+      "Glenn Miller",
+      "Charles Lindbergh"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q300",
+    "category": "Mystères",
+    "difficulty": "Moyen",
+    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
+    "answers": [
+      "Sphère de Betz",
+      "Sphère de Taman",
+      "Sphère d'Oman",
+      "Sphère de Klerksdorp"
+    ],
+    "correctIndex": 0
+  }
+]
