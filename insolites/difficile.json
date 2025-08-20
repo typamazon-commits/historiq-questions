@@ -1,3902 +1,3902 @@
 [
   {
     "id": "q1",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
+    "text": "Quel pays n'a pas d'armée officielle ?",
     "answers": [
-      "Alfred Vail",
-      "Samuel Morse",
-      "William Fothergill Cooke",
-      "Charles Wheatstone"
+      "Islande",
+      "Costa Rica",
+      "Vatican",
+      "Monaco"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "q2",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
+    "text": "Quel métal reste liquide à température ambiante ?",
     "answers": [
-      "Samuel Morse",
-      "Charles Wheatstone",
-      "William Fothergill Cooke",
-      "Alfred Vail"
+      "Mercure",
+      "Gallium",
+      "Plomb",
+      "Césium"
     ],
     "correctIndex": 0
   },
   {
     "id": "q3",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
+    "text": "Quel métal reste liquide à température ambiante ?",
     "answers": [
-      "Emile Berliner",
-      "Alexander Graham Bell",
-      "Charles Cros",
-      "Thomas Edison"
+      "Plomb",
+      "Gallium",
+      "Césium",
+      "Mercure"
     ],
     "correctIndex": 3
   },
   {
     "id": "q4",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
+    "text": "Quel animal peut survivre dans l'espace ?",
     "answers": [
-      "William Siemens",
-      "Andrew Carnegie",
-      "Henry Bessemer",
-      "Robert Mushet"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q5",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
-    "answers": [
-      "Antonie van Leeuwenhoek",
-      "Zacharias Janssen",
-      "Robert Hooke",
-      "Galileo Galilei"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q6",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "William Siemens",
-      "Henry Bessemer",
-      "Robert Mushet",
-      "Andrew Carnegie"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q7",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Willard Boyle",
-      "Russell Kirsch",
-      "George E. Smith",
-      "Steven Sasson"
+      "Fourmi",
+      "Araignée",
+      "Scarabée",
+      "Tardigrade"
     ],
     "correctIndex": 3
   },
   {
-    "id": "q8",
-    "category": "Inventions",
+    "id": "q5",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
+    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
     "answers": [
-      "William Fothergill Cooke",
-      "Charles Wheatstone",
-      "Samuel Morse",
-      "Alfred Vail"
+      "New Horizons",
+      "Pioneer 10",
+      "Hubble",
+      "Voyager 1"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q6",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel est le sport le plus pratiqué au monde ?",
+    "answers": [
+      "Tennis",
+      "Cricket",
+      "Football",
+      "Basketball"
     ],
     "correctIndex": 2
   },
   {
-    "id": "q9",
-    "category": "Inventions",
+    "id": "q7",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
+    "text": "Quel métal reste liquide à température ambiante ?",
     "answers": [
-      "Samuel Morse",
-      "William Fothergill Cooke",
-      "Charles Wheatstone",
-      "Alfred Vail"
+      "Gallium",
+      "Mercure",
+      "Plomb",
+      "Césium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q8",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel animal peut survivre dans l'espace ?",
+    "answers": [
+      "Araignée",
+      "Tardigrade",
+      "Scarabée",
+      "Fourmi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q9",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel métal reste liquide à température ambiante ?",
+    "answers": [
+      "Gallium",
+      "Plomb",
+      "Césium",
+      "Mercure"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q10",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel pays possède la plus longue côte maritime au monde ?",
+    "answers": [
+      "Canada",
+      "Indonésie",
+      "Australie",
+      "Russie"
     ],
     "correctIndex": 0
   },
   {
-    "id": "q10",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "Gabriel Lippmann",
-      "Sergey Prokudin-Gorsky",
-      "Louis Ducos du Hauron",
-      "James Clerk Maxwell"
-    ],
-    "correctIndex": 2
-  },
-  {
     "id": "q11",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
+    "text": "Quel pays n'a pas d'armée officielle ?",
     "answers": [
-      "Henri Coandă",
-      "Frank Whittle",
-      "Albert Fonó",
-      "Hans von Ohain"
+      "Costa Rica",
+      "Islande",
+      "Monaco",
+      "Vatican"
     ],
     "correctIndex": 1
   },
   {
     "id": "q12",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
+    "text": "Quel métal reste liquide à température ambiante ?",
     "answers": [
-      "Steven Sasson",
-      "Russell Kirsch",
-      "Willard Boyle",
-      "George E. Smith"
+      "Gallium",
+      "Mercure",
+      "Césium",
+      "Plomb"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q13",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel animal peut survivre dans l'espace ?",
+    "answers": [
+      "Tardigrade",
+      "Scarabée",
+      "Fourmi",
+      "Araignée"
     ],
     "correctIndex": 0
   },
   {
-    "id": "q13",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "Carl von Linde",
-      "Jacob Perkins",
-      "William Cullen",
-      "Clarence Birdseye"
-    ],
-    "correctIndex": 3
-  },
-  {
     "id": "q14",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
+    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
     "answers": [
-      "Antonie van Leeuwenhoek",
-      "Galileo Galilei",
-      "Robert Hooke",
-      "Zacharias Janssen"
+      "Drosera",
+      "Utricularia",
+      "Dionée",
+      "Nepenthes"
     ],
     "correctIndex": 3
   },
   {
     "id": "q15",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
+    "text": "Quel pays n'a pas d'armée officielle ?",
     "answers": [
-      "Louis Ducos du Hauron",
-      "Gabriel Lippmann",
-      "Sergey Prokudin-Gorsky",
-      "James Clerk Maxwell"
+      "Islande",
+      "Monaco",
+      "Costa Rica",
+      "Vatican"
     ],
     "correctIndex": 0
   },
   {
     "id": "q16",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
+    "text": "Quel pays possède la plus longue côte maritime au monde ?",
     "answers": [
-      "Steven Sasson",
-      "Willard Boyle",
-      "George E. Smith",
-      "Russell Kirsch"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q17",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Steven Sasson",
-      "George E. Smith",
-      "Russell Kirsch",
-      "Willard Boyle"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q18",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
-    "answers": [
-      "Auguste Perret",
-      "François Hennebique",
-      "Jean-Louis Lambot",
-      "Joseph Monier"
+      "Australie",
+      "Indonésie",
+      "Russie",
+      "Canada"
     ],
     "correctIndex": 3
   },
   {
-    "id": "q19",
-    "category": "Inventions",
+    "id": "q17",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
+    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
     "answers": [
-      "Robert Hooke",
-      "Zacharias Janssen",
-      "Antonie van Leeuwenhoek",
-      "Galileo Galilei"
+      "Antilope",
+      "Lion",
+      "Lévrier",
+      "Guépard"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
+  },
+  {
+    "id": "q18",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel pays possède la plus longue côte maritime au monde ?",
+    "answers": [
+      "Canada",
+      "Indonésie",
+      "Russie",
+      "Australie"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q19",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel pays possède la plus longue côte maritime au monde ?",
+    "answers": [
+      "Indonésie",
+      "Australie",
+      "Russie",
+      "Canada"
+    ],
+    "correctIndex": 3
   },
   {
     "id": "q20",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
+    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
     "answers": [
-      "Gabriel Lippmann",
-      "Louis Ducos du Hauron",
-      "Sergey Prokudin-Gorsky",
-      "James Clerk Maxwell"
+      "New Horizons",
+      "Voyager 1",
+      "Pioneer 10",
+      "Hubble"
     ],
     "correctIndex": 1
   },
   {
     "id": "q21",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
+    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
     "answers": [
-      "George E. Smith",
-      "Willard Boyle",
-      "Steven Sasson",
-      "Russell Kirsch"
+      "Voyager 1",
+      "New Horizons",
+      "Hubble",
+      "Pioneer 10"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "q22",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
+    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
     "answers": [
-      "Antonie van Leeuwenhoek",
-      "Robert Hooke",
-      "Zacharias Janssen",
-      "Galileo Galilei"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q23",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
-    "answers": [
-      "John Hopps",
-      "Paul Zoll",
-      "Rune Elmqvist",
-      "Wilson Greatbatch"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q24",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
-    "answers": [
-      "Alexander Graham Bell",
-      "Thomas Edison",
-      "Emile Berliner",
-      "Charles Cros"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q25",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
-    "answers": [
-      "Henri Coandă",
-      "Albert Fonó",
-      "Hans von Ohain",
-      "Frank Whittle"
+      "Pioneer 10",
+      "New Horizons",
+      "Hubble",
+      "Voyager 1"
     ],
     "correctIndex": 3
   },
   {
-    "id": "q26",
-    "category": "Inventions",
+    "id": "q23",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
+    "text": "Quel est l'aliment le plus calorique au monde ?",
     "answers": [
-      "Henri Coandă",
-      "Albert Fonó",
-      "Hans von Ohain",
-      "Frank Whittle"
+      "Huile",
+      "Beurre",
+      "Fromage",
+      "Chocolat"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q24",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel pays n'a pas d'armée officielle ?",
+    "answers": [
+      "Costa Rica",
+      "Vatican",
+      "Islande",
+      "Monaco"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q25",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel est le sport le plus pratiqué au monde ?",
+    "answers": [
+      "Football",
+      "Tennis",
+      "Basketball",
+      "Cricket"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q26",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
+    "answers": [
+      "Lévrier",
+      "Lion",
+      "Antilope",
+      "Guépard"
     ],
     "correctIndex": 3
   },
   {
     "id": "q27",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
+    "text": "Quel est l'aliment le plus calorique au monde ?",
     "answers": [
-      "François Hennebique",
-      "Auguste Perret",
-      "Joseph Monier",
-      "Jean-Louis Lambot"
+      "Beurre",
+      "Chocolat",
+      "Huile",
+      "Fromage"
     ],
     "correctIndex": 2
   },
   {
     "id": "q28",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
+    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
     "answers": [
-      "Alfred Vail",
-      "William Fothergill Cooke",
-      "Samuel Morse",
-      "Charles Wheatstone"
+      "Lévrier",
+      "Antilope",
+      "Guépard",
+      "Lion"
     ],
     "correctIndex": 2
   },
   {
     "id": "q29",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
+    "text": "Quel pays n'a pas d'armée officielle ?",
     "answers": [
-      "Russell Kirsch",
-      "Steven Sasson",
-      "Willard Boyle",
-      "George E. Smith"
+      "Islande",
+      "Costa Rica",
+      "Monaco",
+      "Vatican"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "q30",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
+    "text": "Quel métal reste liquide à température ambiante ?",
     "answers": [
-      "Andrew Carnegie",
-      "Henry Bessemer",
-      "William Siemens",
-      "Robert Mushet"
+      "Plomb",
+      "Césium",
+      "Mercure",
+      "Gallium"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "q31",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
+    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
     "answers": [
-      "Willard Boyle",
-      "Steven Sasson",
-      "Russell Kirsch",
-      "George E. Smith"
+      "Hubble",
+      "New Horizons",
+      "Voyager 1",
+      "Pioneer 10"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "q32",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
+    "text": "Quel animal pond les plus gros œufs ?",
     "answers": [
-      "Willard Boyle",
-      "George E. Smith",
-      "Russell Kirsch",
-      "Steven Sasson"
+      "Aigle",
+      "Tortue luth",
+      "Autruche",
+      "Manchot empereur"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "q33",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
+    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
     "answers": [
-      "Albert Fonó",
-      "Hans von Ohain",
-      "Henri Coandă",
-      "Frank Whittle"
+      "Pioneer 10",
+      "New Horizons",
+      "Hubble",
+      "Voyager 1"
     ],
     "correctIndex": 3
   },
   {
     "id": "q34",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
+    "text": "Quel est le sport le plus pratiqué au monde ?",
     "answers": [
-      "Sergey Prokudin-Gorsky",
-      "Louis Ducos du Hauron",
-      "Gabriel Lippmann",
-      "James Clerk Maxwell"
+      "Cricket",
+      "Basketball",
+      "Tennis",
+      "Football"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "q35",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
+    "text": "Quel métal reste liquide à température ambiante ?",
     "answers": [
-      "Clarence Birdseye",
-      "Jacob Perkins",
-      "William Cullen",
-      "Carl von Linde"
+      "Plomb",
+      "Gallium",
+      "Mercure",
+      "Césium"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "q36",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
+    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
     "answers": [
-      "Steven Sasson",
-      "Willard Boyle",
-      "George E. Smith",
-      "Russell Kirsch"
+      "Voyager 1",
+      "New Horizons",
+      "Hubble",
+      "Pioneer 10"
     ],
     "correctIndex": 0
   },
   {
     "id": "q37",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
+    "text": "Quel est l'aliment le plus calorique au monde ?",
     "answers": [
-      "Galileo Galilei",
-      "Antonie van Leeuwenhoek",
-      "Zacharias Janssen",
-      "Robert Hooke"
+      "Beurre",
+      "Huile",
+      "Chocolat",
+      "Fromage"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "q38",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
+    "text": "Quel animal pond les plus gros œufs ?",
     "answers": [
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Emile Berliner",
-      "Charles Cros"
+      "Manchot empereur",
+      "Autruche",
+      "Tortue luth",
+      "Aigle"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "q39",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
+    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
     "answers": [
-      "Robert Mushet",
-      "Andrew Carnegie",
-      "William Siemens",
-      "Henry Bessemer"
+      "Lévrier",
+      "Lion",
+      "Antilope",
+      "Guépard"
     ],
     "correctIndex": 3
   },
   {
     "id": "q40",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
+    "text": "Quel animal peut survivre dans l'espace ?",
     "answers": [
-      "Robert Mushet",
-      "Henry Bessemer",
-      "William Siemens",
-      "Andrew Carnegie"
+      "Tardigrade",
+      "Araignée",
+      "Fourmi",
+      "Scarabée"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "q41",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
+    "text": "Quel pays n'a pas d'armée officielle ?",
     "answers": [
-      "Antonie van Leeuwenhoek",
-      "Galileo Galilei",
-      "Robert Hooke",
-      "Zacharias Janssen"
+      "Islande",
+      "Costa Rica",
+      "Monaco",
+      "Vatican"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "q42",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
+    "text": "Quel est l'aliment le plus calorique au monde ?",
     "answers": [
-      "William Siemens",
-      "Andrew Carnegie",
-      "Henry Bessemer",
-      "Robert Mushet"
+      "Huile",
+      "Fromage",
+      "Chocolat",
+      "Beurre"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "q43",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
+    "text": "Quel animal peut survivre dans l'espace ?",
     "answers": [
-      "Wilson Greatbatch",
-      "John Hopps",
-      "Rune Elmqvist",
-      "Paul Zoll"
+      "Fourmi",
+      "Araignée",
+      "Tardigrade",
+      "Scarabée"
     ],
     "correctIndex": 2
   },
   {
     "id": "q44",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
+    "text": "Quel pays possède la plus longue côte maritime au monde ?",
     "answers": [
-      "Robert Mushet",
-      "Andrew Carnegie",
-      "Henry Bessemer",
-      "William Siemens"
+      "Indonésie",
+      "Russie",
+      "Canada",
+      "Australie"
     ],
     "correctIndex": 2
   },
   {
     "id": "q45",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
+    "text": "Quel est le sport le plus pratiqué au monde ?",
     "answers": [
-      "François Hennebique",
-      "Joseph Monier",
-      "Auguste Perret",
-      "Jean-Louis Lambot"
+      "Football",
+      "Basketball",
+      "Cricket",
+      "Tennis"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "q46",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
+    "text": "Quel animal peut survivre dans l'espace ?",
     "answers": [
-      "John Hopps",
-      "Rune Elmqvist",
-      "Paul Zoll",
-      "Wilson Greatbatch"
+      "Fourmi",
+      "Araignée",
+      "Scarabée",
+      "Tardigrade"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "q47",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
+    "text": "Quel métal reste liquide à température ambiante ?",
     "answers": [
-      "George E. Smith",
-      "Steven Sasson",
-      "Willard Boyle",
-      "Russell Kirsch"
+      "Gallium",
+      "Césium",
+      "Mercure",
+      "Plomb"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "q48",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
+    "text": "Quel métal reste liquide à température ambiante ?",
     "answers": [
-      "Antonie van Leeuwenhoek",
-      "Zacharias Janssen",
-      "Galileo Galilei",
-      "Robert Hooke"
+      "Plomb",
+      "Mercure",
+      "Gallium",
+      "Césium"
     ],
     "correctIndex": 1
   },
   {
     "id": "q49",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
+    "text": "Quel animal pond les plus gros œufs ?",
     "answers": [
-      "Wilson Greatbatch",
-      "John Hopps",
-      "Paul Zoll",
-      "Rune Elmqvist"
+      "Tortue luth",
+      "Manchot empereur",
+      "Autruche",
+      "Aigle"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "q50",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
+    "text": "Quel pays n'a pas d'armée officielle ?",
     "answers": [
-      "Jacob Perkins",
-      "William Cullen",
-      "Clarence Birdseye",
-      "Carl von Linde"
+      "Costa Rica",
+      "Monaco",
+      "Islande",
+      "Vatican"
     ],
     "correctIndex": 2
   },
   {
     "id": "q51",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
+    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
     "answers": [
-      "Rune Elmqvist",
-      "John Hopps",
-      "Paul Zoll",
-      "Wilson Greatbatch"
+      "Lion",
+      "Lévrier",
+      "Antilope",
+      "Guépard"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "q52",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
+    "text": "Quel est l'aliment le plus calorique au monde ?",
     "answers": [
-      "George E. Smith",
-      "Willard Boyle",
-      "Russell Kirsch",
-      "Steven Sasson"
+      "Beurre",
+      "Fromage",
+      "Chocolat",
+      "Huile"
     ],
     "correctIndex": 3
   },
   {
     "id": "q53",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
+    "text": "Quel est l'aliment le plus calorique au monde ?",
     "answers": [
-      "George E. Smith",
-      "Steven Sasson",
-      "Russell Kirsch",
-      "Willard Boyle"
+      "Huile",
+      "Chocolat",
+      "Beurre",
+      "Fromage"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "q54",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
+    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
     "answers": [
-      "Andrew Carnegie",
-      "Henry Bessemer",
-      "William Siemens",
-      "Robert Mushet"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q55",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
-    "answers": [
-      "Antonie van Leeuwenhoek",
-      "Galileo Galilei",
-      "Robert Hooke",
-      "Zacharias Janssen"
+      "Pioneer 10",
+      "New Horizons",
+      "Hubble",
+      "Voyager 1"
     ],
     "correctIndex": 3
   },
   {
-    "id": "q56",
-    "category": "Inventions",
+    "id": "q55",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
+    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
     "answers": [
-      "Charles Wheatstone",
-      "Samuel Morse",
-      "William Fothergill Cooke",
-      "Alfred Vail"
+      "Antilope",
+      "Lion",
+      "Guépard",
+      "Lévrier"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q56",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
+    "answers": [
+      "Dionée",
+      "Nepenthes",
+      "Utricularia",
+      "Drosera"
     ],
     "correctIndex": 1
   },
   {
     "id": "q57",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
+    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
     "answers": [
-      "Carl von Linde",
-      "William Cullen",
-      "Jacob Perkins",
-      "Clarence Birdseye"
+      "Hubble",
+      "Pioneer 10",
+      "New Horizons",
+      "Voyager 1"
     ],
     "correctIndex": 3
   },
   {
     "id": "q58",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
+    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
     "answers": [
-      "Charles Wheatstone",
-      "William Fothergill Cooke",
-      "Samuel Morse",
-      "Alfred Vail"
+      "Dionée",
+      "Drosera",
+      "Utricularia",
+      "Nepenthes"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "q59",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
+    "text": "Quel pays possède la plus longue côte maritime au monde ?",
     "answers": [
-      "Steven Sasson",
-      "George E. Smith",
-      "Willard Boyle",
-      "Russell Kirsch"
+      "Australie",
+      "Canada",
+      "Russie",
+      "Indonésie"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "q60",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
+    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
     "answers": [
-      "Charles Cros",
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Emile Berliner"
+      "New Horizons",
+      "Voyager 1",
+      "Hubble",
+      "Pioneer 10"
     ],
     "correctIndex": 1
   },
   {
     "id": "q61",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
+    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
     "answers": [
-      "Andrew Carnegie",
-      "Henry Bessemer",
-      "William Siemens",
-      "Robert Mushet"
+      "Pioneer 10",
+      "Voyager 1",
+      "Hubble",
+      "New Horizons"
     ],
     "correctIndex": 1
   },
   {
     "id": "q62",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
+    "text": "Quel pays possède la plus longue côte maritime au monde ?",
     "answers": [
-      "Auguste Perret",
-      "François Hennebique",
-      "Joseph Monier",
-      "Jean-Louis Lambot"
+      "Indonésie",
+      "Canada",
+      "Russie",
+      "Australie"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "q63",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
+    "text": "Quel pays n'a pas d'armée officielle ?",
     "answers": [
-      "James Clerk Maxwell",
-      "Louis Ducos du Hauron",
-      "Gabriel Lippmann",
-      "Sergey Prokudin-Gorsky"
+      "Costa Rica",
+      "Monaco",
+      "Islande",
+      "Vatican"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "q64",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
+    "text": "Quel animal peut survivre dans l'espace ?",
     "answers": [
-      "Jacob Perkins",
-      "Clarence Birdseye",
-      "William Cullen",
-      "Carl von Linde"
+      "Araignée",
+      "Scarabée",
+      "Tardigrade",
+      "Fourmi"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "q65",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
+    "text": "Quel métal reste liquide à température ambiante ?",
     "answers": [
-      "Russell Kirsch",
-      "George E. Smith",
-      "Willard Boyle",
-      "Steven Sasson"
+      "Césium",
+      "Gallium",
+      "Mercure",
+      "Plomb"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "q66",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
+    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
     "answers": [
-      "Robert Hooke",
-      "Antonie van Leeuwenhoek",
-      "Galileo Galilei",
-      "Zacharias Janssen"
+      "Dionée",
+      "Utricularia",
+      "Nepenthes",
+      "Drosera"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "q67",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
+    "text": "Quel animal pond les plus gros œufs ?",
     "answers": [
-      "Thomas Edison",
-      "Charles Cros",
-      "Alexander Graham Bell",
-      "Emile Berliner"
+      "Manchot empereur",
+      "Aigle",
+      "Tortue luth",
+      "Autruche"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "q68",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
+    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
     "answers": [
-      "James Clerk Maxwell",
-      "Gabriel Lippmann",
-      "Louis Ducos du Hauron",
-      "Sergey Prokudin-Gorsky"
+      "Pioneer 10",
+      "Hubble",
+      "New Horizons",
+      "Voyager 1"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "q69",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
+    "text": "Quel est le sport le plus pratiqué au monde ?",
     "answers": [
-      "Albert Fonó",
-      "Henri Coandă",
-      "Hans von Ohain",
-      "Frank Whittle"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q70",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "William Siemens",
-      "Andrew Carnegie",
-      "Henry Bessemer",
-      "Robert Mushet"
+      "Cricket",
+      "Tennis",
+      "Football",
+      "Basketball"
     ],
     "correctIndex": 2
   },
   {
-    "id": "q71",
-    "category": "Inventions",
+    "id": "q70",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
+    "text": "Quel animal pond les plus gros œufs ?",
     "answers": [
-      "Frank Whittle",
-      "Hans von Ohain",
-      "Henri Coandă",
-      "Albert Fonó"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q72",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
-    "answers": [
-      "Antonie van Leeuwenhoek",
-      "Robert Hooke",
-      "Galileo Galilei",
-      "Zacharias Janssen"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q73",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "Carl von Linde",
-      "Clarence Birdseye",
-      "Jacob Perkins",
-      "William Cullen"
+      "Aigle",
+      "Autruche",
+      "Tortue luth",
+      "Manchot empereur"
     ],
     "correctIndex": 1
   },
   {
-    "id": "q74",
-    "category": "Inventions",
+    "id": "q71",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
+    "text": "Quel animal peut survivre dans l'espace ?",
     "answers": [
-      "Rune Elmqvist",
-      "Wilson Greatbatch",
-      "John Hopps",
-      "Paul Zoll"
+      "Fourmi",
+      "Scarabée",
+      "Araignée",
+      "Tardigrade"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q72",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel pays n'a pas d'armée officielle ?",
+    "answers": [
+      "Islande",
+      "Costa Rica",
+      "Vatican",
+      "Monaco"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q73",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
+    "answers": [
+      "Drosera",
+      "Dionée",
+      "Nepenthes",
+      "Utricularia"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q74",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel pays possède la plus longue côte maritime au monde ?",
+    "answers": [
+      "Canada",
+      "Indonésie",
+      "Russie",
+      "Australie"
     ],
     "correctIndex": 0
   },
   {
     "id": "q75",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
+    "text": "Quel métal reste liquide à température ambiante ?",
     "answers": [
-      "Galileo Galilei",
-      "Antonie van Leeuwenhoek",
-      "Robert Hooke",
-      "Zacharias Janssen"
+      "Gallium",
+      "Césium",
+      "Plomb",
+      "Mercure"
     ],
     "correctIndex": 3
   },
   {
     "id": "q76",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
+    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
     "answers": [
-      "Joseph Monier",
-      "François Hennebique",
-      "Jean-Louis Lambot",
-      "Auguste Perret"
+      "Hubble",
+      "Pioneer 10",
+      "New Horizons",
+      "Voyager 1"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "q77",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
+    "text": "Quel est l'aliment le plus calorique au monde ?",
     "answers": [
-      "Antonie van Leeuwenhoek",
-      "Galileo Galilei",
-      "Zacharias Janssen",
-      "Robert Hooke"
+      "Beurre",
+      "Fromage",
+      "Chocolat",
+      "Huile"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "q78",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
+    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
     "answers": [
-      "Louis Ducos du Hauron",
-      "James Clerk Maxwell",
-      "Sergey Prokudin-Gorsky",
-      "Gabriel Lippmann"
+      "Guépard",
+      "Lévrier",
+      "Antilope",
+      "Lion"
     ],
     "correctIndex": 0
   },
   {
     "id": "q79",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
+    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
     "answers": [
-      "Antonie van Leeuwenhoek",
-      "Robert Hooke",
-      "Zacharias Janssen",
-      "Galileo Galilei"
+      "Pioneer 10",
+      "Hubble",
+      "Voyager 1",
+      "New Horizons"
     ],
     "correctIndex": 2
   },
   {
     "id": "q80",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
+    "text": "Quel est l'aliment le plus calorique au monde ?",
     "answers": [
-      "James Clerk Maxwell",
-      "Sergey Prokudin-Gorsky",
-      "Gabriel Lippmann",
-      "Louis Ducos du Hauron"
+      "Fromage",
+      "Chocolat",
+      "Beurre",
+      "Huile"
     ],
     "correctIndex": 3
   },
   {
     "id": "q81",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
+    "text": "Quel métal reste liquide à température ambiante ?",
     "answers": [
-      "Thomas Edison",
-      "Emile Berliner",
-      "Charles Cros",
-      "Alexander Graham Bell"
+      "Gallium",
+      "Plomb",
+      "Mercure",
+      "Césium"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "q82",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
+    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
     "answers": [
-      "George E. Smith",
-      "Willard Boyle",
-      "Steven Sasson",
-      "Russell Kirsch"
+      "Guépard",
+      "Lévrier",
+      "Antilope",
+      "Lion"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "q83",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
+    "text": "Quel animal pond les plus gros œufs ?",
     "answers": [
-      "Russell Kirsch",
-      "George E. Smith",
-      "Steven Sasson",
-      "Willard Boyle"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q84",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "Jacob Perkins",
-      "William Cullen",
-      "Clarence Birdseye",
-      "Carl von Linde"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q85",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "Robert Mushet",
-      "William Siemens",
-      "Andrew Carnegie",
-      "Henry Bessemer"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q86",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "Louis Ducos du Hauron",
-      "Sergey Prokudin-Gorsky",
-      "James Clerk Maxwell",
-      "Gabriel Lippmann"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q87",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "Clarence Birdseye",
-      "William Cullen",
-      "Jacob Perkins",
-      "Carl von Linde"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q88",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "Andrew Carnegie",
-      "Robert Mushet",
-      "Henry Bessemer",
-      "William Siemens"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q89",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
-    "answers": [
-      "Charles Cros",
-      "Alexander Graham Bell",
-      "Emile Berliner",
-      "Thomas Edison"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q90",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
-    "answers": [
-      "Rune Elmqvist",
-      "John Hopps",
-      "Wilson Greatbatch",
-      "Paul Zoll"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q91",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
-    "answers": [
-      "François Hennebique",
-      "Joseph Monier",
-      "Auguste Perret",
-      "Jean-Louis Lambot"
+      "Tortue luth",
+      "Autruche",
+      "Aigle",
+      "Manchot empereur"
     ],
     "correctIndex": 1
   },
   {
-    "id": "q92",
-    "category": "Inventions",
+    "id": "q84",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
+    "text": "Quel est le sport le plus pratiqué au monde ?",
     "answers": [
-      "Wilson Greatbatch",
-      "Paul Zoll",
-      "Rune Elmqvist",
-      "John Hopps"
+      "Football",
+      "Tennis",
+      "Basketball",
+      "Cricket"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q85",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
+    "answers": [
+      "Lion",
+      "Antilope",
+      "Guépard",
+      "Lévrier"
     ],
     "correctIndex": 2
   },
   {
-    "id": "q93",
-    "category": "Inventions",
+    "id": "q86",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
+    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
     "answers": [
-      "Sergey Prokudin-Gorsky",
-      "Louis Ducos du Hauron",
-      "Gabriel Lippmann",
-      "James Clerk Maxwell"
+      "Antilope",
+      "Lévrier",
+      "Lion",
+      "Guépard"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q87",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
+    "answers": [
+      "Utricularia",
+      "Dionée",
+      "Drosera",
+      "Nepenthes"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q88",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel animal peut survivre dans l'espace ?",
+    "answers": [
+      "Fourmi",
+      "Araignée",
+      "Scarabée",
+      "Tardigrade"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q89",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel animal pond les plus gros œufs ?",
+    "answers": [
+      "Manchot empereur",
+      "Autruche",
+      "Tortue luth",
+      "Aigle"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q90",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
+    "answers": [
+      "Dionée",
+      "Drosera",
+      "Nepenthes",
+      "Utricularia"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q91",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel est l'aliment le plus calorique au monde ?",
+    "answers": [
+      "Huile",
+      "Beurre",
+      "Chocolat",
+      "Fromage"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q92",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel métal reste liquide à température ambiante ?",
+    "answers": [
+      "Plomb",
+      "Gallium",
+      "Césium",
+      "Mercure"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q93",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
+    "answers": [
+      "Lion",
+      "Guépard",
+      "Lévrier",
+      "Antilope"
     ],
     "correctIndex": 1
   },
   {
     "id": "q94",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
+    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
     "answers": [
-      "Henri Coandă",
-      "Frank Whittle",
-      "Albert Fonó",
-      "Hans von Ohain"
+      "Voyager 1",
+      "Hubble",
+      "New Horizons",
+      "Pioneer 10"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "q95",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
+    "text": "Quel pays n'a pas d'armée officielle ?",
     "answers": [
-      "George E. Smith",
-      "Russell Kirsch",
-      "Steven Sasson",
-      "Willard Boyle"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q96",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
-    "answers": [
-      "Charles Cros",
-      "Thomas Edison",
-      "Emile Berliner",
-      "Alexander Graham Bell"
+      "Monaco",
+      "Islande",
+      "Costa Rica",
+      "Vatican"
     ],
     "correctIndex": 1
   },
   {
-    "id": "q97",
-    "category": "Inventions",
+    "id": "q96",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
+    "text": "Quel animal peut survivre dans l'espace ?",
     "answers": [
-      "Thomas Edison",
-      "Charles Cros",
-      "Alexander Graham Bell",
-      "Emile Berliner"
+      "Fourmi",
+      "Araignée",
+      "Tardigrade",
+      "Scarabée"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
+  },
+  {
+    "id": "q97",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
+    "answers": [
+      "Drosera",
+      "Utricularia",
+      "Dionée",
+      "Nepenthes"
+    ],
+    "correctIndex": 3
   },
   {
     "id": "q98",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
+    "text": "Quel est l'aliment le plus calorique au monde ?",
     "answers": [
-      "Henri Coandă",
-      "Hans von Ohain",
-      "Frank Whittle",
-      "Albert Fonó"
+      "Huile",
+      "Beurre",
+      "Chocolat",
+      "Fromage"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "q99",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
+    "text": "Quel métal reste liquide à température ambiante ?",
     "answers": [
-      "William Fothergill Cooke",
-      "Alfred Vail",
-      "Samuel Morse",
-      "Charles Wheatstone"
+      "Mercure",
+      "Gallium",
+      "Césium",
+      "Plomb"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "q100",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
+    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
     "answers": [
-      "William Fothergill Cooke",
-      "Alfred Vail",
-      "Samuel Morse",
-      "Charles Wheatstone"
+      "Voyager 1",
+      "Hubble",
+      "New Horizons",
+      "Pioneer 10"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "q101",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
+    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
     "answers": [
-      "Steven Sasson",
-      "George E. Smith",
-      "Willard Boyle",
-      "Russell Kirsch"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q102",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Steven Sasson",
-      "Russell Kirsch",
-      "Willard Boyle",
-      "George E. Smith"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q103",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Steven Sasson",
-      "George E. Smith",
-      "Willard Boyle",
-      "Russell Kirsch"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q104",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
-    "answers": [
-      "Albert Fonó",
-      "Hans von Ohain",
-      "Frank Whittle",
-      "Henri Coandă"
+      "New Horizons",
+      "Hubble",
+      "Voyager 1",
+      "Pioneer 10"
     ],
     "correctIndex": 2
   },
   {
-    "id": "q105",
-    "category": "Inventions",
+    "id": "q102",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
+    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
     "answers": [
-      "Charles Cros",
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Emile Berliner"
+      "Lévrier",
+      "Antilope",
+      "Lion",
+      "Guépard"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q103",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
+    "answers": [
+      "Drosera",
+      "Dionée",
+      "Nepenthes",
+      "Utricularia"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q104",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel animal peut survivre dans l'espace ?",
+    "answers": [
+      "Scarabée",
+      "Tardigrade",
+      "Fourmi",
+      "Araignée"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q105",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel animal pond les plus gros œufs ?",
+    "answers": [
+      "Manchot empereur",
+      "Autruche",
+      "Tortue luth",
+      "Aigle"
     ],
     "correctIndex": 1
   },
   {
     "id": "q106",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
+    "text": "Quel est l'aliment le plus calorique au monde ?",
     "answers": [
-      "Gabriel Lippmann",
-      "Louis Ducos du Hauron",
-      "James Clerk Maxwell",
-      "Sergey Prokudin-Gorsky"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q107",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "William Siemens",
-      "Henry Bessemer",
-      "Robert Mushet",
-      "Andrew Carnegie"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q108",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
-    "answers": [
-      "Charles Wheatstone",
-      "William Fothergill Cooke",
-      "Alfred Vail",
-      "Samuel Morse"
+      "Chocolat",
+      "Beurre",
+      "Fromage",
+      "Huile"
     ],
     "correctIndex": 3
   },
   {
-    "id": "q109",
-    "category": "Inventions",
+    "id": "q107",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
+    "text": "Quel animal pond les plus gros œufs ?",
     "answers": [
-      "Charles Cros",
-      "Thomas Edison",
-      "Emile Berliner",
-      "Alexander Graham Bell"
+      "Aigle",
+      "Manchot empereur",
+      "Tortue luth",
+      "Autruche"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
+  },
+  {
+    "id": "q108",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
+    "answers": [
+      "Lion",
+      "Lévrier",
+      "Guépard",
+      "Antilope"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q109",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
+    "answers": [
+      "Utricularia",
+      "Dionée",
+      "Nepenthes",
+      "Drosera"
+    ],
+    "correctIndex": 2
   },
   {
     "id": "q110",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
+    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
     "answers": [
-      "Charles Cros",
-      "Thomas Edison",
-      "Emile Berliner",
-      "Alexander Graham Bell"
+      "Voyager 1",
+      "New Horizons",
+      "Pioneer 10",
+      "Hubble"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "q111",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
+    "text": "Quel métal reste liquide à température ambiante ?",
     "answers": [
-      "William Fothergill Cooke",
-      "Samuel Morse",
-      "Alfred Vail",
-      "Charles Wheatstone"
+      "Césium",
+      "Gallium",
+      "Mercure",
+      "Plomb"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "q112",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
+    "text": "Quel métal reste liquide à température ambiante ?",
     "answers": [
-      "Joseph Monier",
-      "Auguste Perret",
-      "Jean-Louis Lambot",
-      "François Hennebique"
+      "Mercure",
+      "Gallium",
+      "Plomb",
+      "Césium"
     ],
     "correctIndex": 0
   },
   {
     "id": "q113",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
+    "text": "Quel pays n'a pas d'armée officielle ?",
     "answers": [
-      "Alexander Graham Bell",
-      "Charles Cros",
-      "Emile Berliner",
-      "Thomas Edison"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q114",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "Louis Ducos du Hauron",
-      "Sergey Prokudin-Gorsky",
-      "James Clerk Maxwell",
-      "Gabriel Lippmann"
+      "Islande",
+      "Monaco",
+      "Costa Rica",
+      "Vatican"
     ],
     "correctIndex": 0
   },
   {
-    "id": "q115",
-    "category": "Inventions",
+    "id": "q114",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
+    "text": "Quel animal peut survivre dans l'espace ?",
     "answers": [
-      "Willard Boyle",
-      "Steven Sasson",
-      "George E. Smith",
-      "Russell Kirsch"
+      "Fourmi",
+      "Tardigrade",
+      "Araignée",
+      "Scarabée"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q115",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel est l'aliment le plus calorique au monde ?",
+    "answers": [
+      "Beurre",
+      "Huile",
+      "Fromage",
+      "Chocolat"
     ],
     "correctIndex": 1
   },
   {
     "id": "q116",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
+    "text": "Quel animal peut survivre dans l'espace ?",
     "answers": [
-      "William Cullen",
-      "Clarence Birdseye",
-      "Jacob Perkins",
-      "Carl von Linde"
+      "Tardigrade",
+      "Fourmi",
+      "Scarabée",
+      "Araignée"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q117",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel métal reste liquide à température ambiante ?",
+    "answers": [
+      "Gallium",
+      "Mercure",
+      "Plomb",
+      "Césium"
     ],
     "correctIndex": 1
   },
   {
-    "id": "q117",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "Gabriel Lippmann",
-      "James Clerk Maxwell",
-      "Sergey Prokudin-Gorsky",
-      "Louis Ducos du Hauron"
-    ],
-    "correctIndex": 3
-  },
-  {
     "id": "q118",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
+    "text": "Quel est le sport le plus pratiqué au monde ?",
     "answers": [
-      "Sergey Prokudin-Gorsky",
-      "Gabriel Lippmann",
-      "Louis Ducos du Hauron",
-      "James Clerk Maxwell"
+      "Tennis",
+      "Cricket",
+      "Football",
+      "Basketball"
     ],
     "correctIndex": 2
   },
   {
     "id": "q119",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
+    "text": "Quel pays possède la plus longue côte maritime au monde ?",
     "answers": [
-      "James Clerk Maxwell",
-      "Gabriel Lippmann",
-      "Louis Ducos du Hauron",
-      "Sergey Prokudin-Gorsky"
+      "Australie",
+      "Russie",
+      "Indonésie",
+      "Canada"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "q120",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
+    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
     "answers": [
-      "Auguste Perret",
-      "Jean-Louis Lambot",
-      "François Hennebique",
-      "Joseph Monier"
+      "Lion",
+      "Guépard",
+      "Lévrier",
+      "Antilope"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "q121",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
+    "text": "Quel est le sport le plus pratiqué au monde ?",
     "answers": [
-      "Andrew Carnegie",
-      "Robert Mushet",
-      "Henry Bessemer",
-      "William Siemens"
+      "Cricket",
+      "Basketball",
+      "Tennis",
+      "Football"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "q122",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
+    "text": "Quel pays possède la plus longue côte maritime au monde ?",
     "answers": [
-      "Samuel Morse",
-      "Alfred Vail",
-      "William Fothergill Cooke",
-      "Charles Wheatstone"
+      "Indonésie",
+      "Canada",
+      "Russie",
+      "Australie"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "q123",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
+    "text": "Quel pays n'a pas d'armée officielle ?",
     "answers": [
-      "Hans von Ohain",
-      "Albert Fonó",
-      "Frank Whittle",
-      "Henri Coandă"
+      "Monaco",
+      "Islande",
+      "Costa Rica",
+      "Vatican"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "q124",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
+    "text": "Quel animal pond les plus gros œufs ?",
     "answers": [
-      "Clarence Birdseye",
-      "William Cullen",
-      "Carl von Linde",
-      "Jacob Perkins"
+      "Manchot empereur",
+      "Tortue luth",
+      "Aigle",
+      "Autruche"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "q125",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
+    "text": "Quel pays n'a pas d'armée officielle ?",
     "answers": [
-      "Robert Hooke",
-      "Galileo Galilei",
-      "Zacharias Janssen",
-      "Antonie van Leeuwenhoek"
+      "Vatican",
+      "Costa Rica",
+      "Monaco",
+      "Islande"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "q126",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
+    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
     "answers": [
-      "Jean-Louis Lambot",
-      "François Hennebique",
-      "Joseph Monier",
-      "Auguste Perret"
+      "Pioneer 10",
+      "Hubble",
+      "New Horizons",
+      "Voyager 1"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "q127",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
+    "text": "Quel animal pond les plus gros œufs ?",
     "answers": [
-      "Russell Kirsch",
-      "George E. Smith",
-      "Willard Boyle",
-      "Steven Sasson"
+      "Autruche",
+      "Manchot empereur",
+      "Tortue luth",
+      "Aigle"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "q128",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
+    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
     "answers": [
-      "Sergey Prokudin-Gorsky",
-      "James Clerk Maxwell",
-      "Gabriel Lippmann",
-      "Louis Ducos du Hauron"
+      "Drosera",
+      "Nepenthes",
+      "Utricularia",
+      "Dionée"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q129",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel pays possède la plus longue côte maritime au monde ?",
+    "answers": [
+      "Australie",
+      "Russie",
+      "Indonésie",
+      "Canada"
     ],
     "correctIndex": 3
   },
   {
-    "id": "q129",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "Clarence Birdseye",
-      "Jacob Perkins",
-      "William Cullen",
-      "Carl von Linde"
-    ],
-    "correctIndex": 0
-  },
-  {
     "id": "q130",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
+    "text": "Quel pays n'a pas d'armée officielle ?",
     "answers": [
-      "Rune Elmqvist",
-      "John Hopps",
-      "Paul Zoll",
-      "Wilson Greatbatch"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q131",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
-    "answers": [
-      "Emile Berliner",
-      "Alexander Graham Bell",
-      "Thomas Edison",
-      "Charles Cros"
+      "Vatican",
+      "Monaco",
+      "Islande",
+      "Costa Rica"
     ],
     "correctIndex": 2
   },
   {
-    "id": "q132",
-    "category": "Inventions",
+    "id": "q131",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
+    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
     "answers": [
-      "Joseph Monier",
-      "Jean-Louis Lambot",
-      "François Hennebique",
-      "Auguste Perret"
+      "Lion",
+      "Antilope",
+      "Lévrier",
+      "Guépard"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q132",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel pays possède la plus longue côte maritime au monde ?",
+    "answers": [
+      "Canada",
+      "Russie",
+      "Indonésie",
+      "Australie"
     ],
     "correctIndex": 0
   },
   {
     "id": "q133",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
+    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
     "answers": [
-      "Paul Zoll",
-      "Wilson Greatbatch",
-      "Rune Elmqvist",
-      "John Hopps"
+      "Drosera",
+      "Nepenthes",
+      "Utricularia",
+      "Dionée"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "q134",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
+    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
     "answers": [
-      "Robert Mushet",
-      "William Siemens",
-      "Andrew Carnegie",
-      "Henry Bessemer"
+      "Voyager 1",
+      "Pioneer 10",
+      "New Horizons",
+      "Hubble"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q135",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel animal pond les plus gros œufs ?",
+    "answers": [
+      "Manchot empereur",
+      "Tortue luth",
+      "Aigle",
+      "Autruche"
     ],
     "correctIndex": 3
   },
   {
-    "id": "q135",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
-    "answers": [
-      "Alfred Vail",
-      "William Fothergill Cooke",
-      "Samuel Morse",
-      "Charles Wheatstone"
-    ],
-    "correctIndex": 2
-  },
-  {
     "id": "q136",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
+    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
     "answers": [
-      "Charles Wheatstone",
-      "Alfred Vail",
-      "William Fothergill Cooke",
-      "Samuel Morse"
+      "Lion",
+      "Antilope",
+      "Lévrier",
+      "Guépard"
     ],
     "correctIndex": 3
   },
   {
     "id": "q137",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
+    "text": "Quel pays possède la plus longue côte maritime au monde ?",
     "answers": [
-      "Charles Cros",
-      "Emile Berliner",
-      "Alexander Graham Bell",
-      "Thomas Edison"
+      "Russie",
+      "Indonésie",
+      "Canada",
+      "Australie"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "q138",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
+    "text": "Quel est le sport le plus pratiqué au monde ?",
     "answers": [
-      "Jacob Perkins",
-      "William Cullen",
-      "Carl von Linde",
-      "Clarence Birdseye"
+      "Basketball",
+      "Tennis",
+      "Football",
+      "Cricket"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "q139",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
+    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
     "answers": [
-      "Albert Fonó",
-      "Hans von Ohain",
-      "Henri Coandă",
-      "Frank Whittle"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q140",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Russell Kirsch",
-      "Steven Sasson",
-      "Willard Boyle",
-      "George E. Smith"
+      "Drosera",
+      "Nepenthes",
+      "Dionée",
+      "Utricularia"
     ],
     "correctIndex": 1
   },
   {
-    "id": "q141",
-    "category": "Inventions",
+    "id": "q140",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
+    "text": "Quel animal pond les plus gros œufs ?",
     "answers": [
-      "Zacharias Janssen",
-      "Robert Hooke",
-      "Galileo Galilei",
-      "Antonie van Leeuwenhoek"
+      "Manchot empereur",
+      "Aigle",
+      "Tortue luth",
+      "Autruche"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
+  },
+  {
+    "id": "q141",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel est l'aliment le plus calorique au monde ?",
+    "answers": [
+      "Chocolat",
+      "Fromage",
+      "Beurre",
+      "Huile"
+    ],
+    "correctIndex": 3
   },
   {
     "id": "q142",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
+    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
     "answers": [
-      "Clarence Birdseye",
-      "Jacob Perkins",
-      "Carl von Linde",
-      "William Cullen"
+      "Voyager 1",
+      "Pioneer 10",
+      "Hubble",
+      "New Horizons"
     ],
     "correctIndex": 0
   },
   {
     "id": "q143",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
+    "text": "Quel est l'aliment le plus calorique au monde ?",
     "answers": [
-      "Steven Sasson",
-      "George E. Smith",
-      "Willard Boyle",
-      "Russell Kirsch"
+      "Beurre",
+      "Huile",
+      "Chocolat",
+      "Fromage"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "q144",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
+    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
     "answers": [
-      "Emile Berliner",
-      "Charles Cros",
-      "Alexander Graham Bell",
-      "Thomas Edison"
+      "Pioneer 10",
+      "Hubble",
+      "New Horizons",
+      "Voyager 1"
     ],
     "correctIndex": 3
   },
   {
     "id": "q145",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
+    "text": "Quel pays n'a pas d'armée officielle ?",
     "answers": [
-      "Samuel Morse",
-      "Charles Wheatstone",
-      "William Fothergill Cooke",
-      "Alfred Vail"
+      "Islande",
+      "Monaco",
+      "Costa Rica",
+      "Vatican"
     ],
     "correctIndex": 0
   },
   {
     "id": "q146",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
+    "text": "Quel animal pond les plus gros œufs ?",
     "answers": [
-      "Andrew Carnegie",
-      "Henry Bessemer",
-      "Robert Mushet",
-      "William Siemens"
+      "Tortue luth",
+      "Autruche",
+      "Aigle",
+      "Manchot empereur"
     ],
     "correctIndex": 1
   },
   {
     "id": "q147",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
+    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
     "answers": [
-      "Thomas Edison",
-      "Emile Berliner",
-      "Charles Cros",
-      "Alexander Graham Bell"
+      "Dionée",
+      "Drosera",
+      "Utricularia",
+      "Nepenthes"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "q148",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
+    "text": "Quel métal reste liquide à température ambiante ?",
     "answers": [
-      "Louis Ducos du Hauron",
-      "Sergey Prokudin-Gorsky",
-      "James Clerk Maxwell",
-      "Gabriel Lippmann"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q149",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "Gabriel Lippmann",
-      "Louis Ducos du Hauron",
-      "Sergey Prokudin-Gorsky",
-      "James Clerk Maxwell"
+      "Plomb",
+      "Mercure",
+      "Gallium",
+      "Césium"
     ],
     "correctIndex": 1
   },
   {
-    "id": "q150",
-    "category": "Inventions",
+    "id": "q149",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
+    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
     "answers": [
-      "Robert Mushet",
-      "William Siemens",
-      "Henry Bessemer",
-      "Andrew Carnegie"
+      "Nepenthes",
+      "Utricularia",
+      "Dionée",
+      "Drosera"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
+  },
+  {
+    "id": "q150",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel animal peut survivre dans l'espace ?",
+    "answers": [
+      "Scarabée",
+      "Tardigrade",
+      "Araignée",
+      "Fourmi"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "q151",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
+    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
     "answers": [
-      "Charles Wheatstone",
-      "Alfred Vail",
-      "William Fothergill Cooke",
-      "Samuel Morse"
+      "Pioneer 10",
+      "New Horizons",
+      "Hubble",
+      "Voyager 1"
     ],
     "correctIndex": 3
   },
   {
     "id": "q152",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
+    "text": "Quel est l'aliment le plus calorique au monde ?",
     "answers": [
-      "Paul Zoll",
-      "Rune Elmqvist",
-      "John Hopps",
-      "Wilson Greatbatch"
+      "Fromage",
+      "Chocolat",
+      "Huile",
+      "Beurre"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "q153",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
+    "text": "Quel animal pond les plus gros œufs ?",
     "answers": [
-      "Robert Hooke",
-      "Zacharias Janssen",
-      "Antonie van Leeuwenhoek",
-      "Galileo Galilei"
+      "Manchot empereur",
+      "Autruche",
+      "Aigle",
+      "Tortue luth"
     ],
     "correctIndex": 1
   },
   {
     "id": "q154",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
+    "text": "Quel pays n'a pas d'armée officielle ?",
     "answers": [
-      "Sergey Prokudin-Gorsky",
-      "Gabriel Lippmann",
-      "Louis Ducos du Hauron",
-      "James Clerk Maxwell"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q155",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
-    "answers": [
-      "Joseph Monier",
-      "Auguste Perret",
-      "François Hennebique",
-      "Jean-Louis Lambot"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q156",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "Jacob Perkins",
-      "Clarence Birdseye",
-      "William Cullen",
-      "Carl von Linde"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q157",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "Carl von Linde",
-      "William Cullen",
-      "Jacob Perkins",
-      "Clarence Birdseye"
+      "Costa Rica",
+      "Vatican",
+      "Monaco",
+      "Islande"
     ],
     "correctIndex": 3
   },
   {
-    "id": "q158",
-    "category": "Inventions",
+    "id": "q155",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
+    "text": "Quel pays possède la plus longue côte maritime au monde ?",
     "answers": [
-      "William Siemens",
-      "Henry Bessemer",
-      "Andrew Carnegie",
-      "Robert Mushet"
+      "Australie",
+      "Indonésie",
+      "Russie",
+      "Canada"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
+  },
+  {
+    "id": "q156",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
+    "answers": [
+      "Lion",
+      "Antilope",
+      "Lévrier",
+      "Guépard"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q157",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
+    "answers": [
+      "Utricularia",
+      "Dionée",
+      "Nepenthes",
+      "Drosera"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q158",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel pays possède la plus longue côte maritime au monde ?",
+    "answers": [
+      "Indonésie",
+      "Russie",
+      "Canada",
+      "Australie"
+    ],
+    "correctIndex": 2
   },
   {
     "id": "q159",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
+    "text": "Quel animal pond les plus gros œufs ?",
     "answers": [
-      "Zacharias Janssen",
-      "Robert Hooke",
-      "Antonie van Leeuwenhoek",
-      "Galileo Galilei"
+      "Autruche",
+      "Manchot empereur",
+      "Tortue luth",
+      "Aigle"
     ],
     "correctIndex": 0
   },
   {
     "id": "q160",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
+    "text": "Quel est l'aliment le plus calorique au monde ?",
     "answers": [
-      "Carl von Linde",
-      "William Cullen",
-      "Jacob Perkins",
-      "Clarence Birdseye"
+      "Huile",
+      "Fromage",
+      "Chocolat",
+      "Beurre"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "q161",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
+    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
     "answers": [
-      "Albert Fonó",
-      "Hans von Ohain",
-      "Frank Whittle",
-      "Henri Coandă"
+      "Guépard",
+      "Antilope",
+      "Lion",
+      "Lévrier"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "q162",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
+    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
     "answers": [
-      "Andrew Carnegie",
-      "William Siemens",
-      "Robert Mushet",
-      "Henry Bessemer"
+      "Guépard",
+      "Lion",
+      "Lévrier",
+      "Antilope"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "q163",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
+    "text": "Quel métal reste liquide à température ambiante ?",
     "answers": [
-      "Alexander Graham Bell",
-      "Thomas Edison",
-      "Charles Cros",
-      "Emile Berliner"
+      "Césium",
+      "Mercure",
+      "Gallium",
+      "Plomb"
     ],
     "correctIndex": 1
   },
   {
     "id": "q164",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
+    "text": "Quel est l'aliment le plus calorique au monde ?",
     "answers": [
-      "Charles Cros",
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Emile Berliner"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q165",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "Andrew Carnegie",
-      "William Siemens",
-      "Henry Bessemer",
-      "Robert Mushet"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q166",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "James Clerk Maxwell",
-      "Gabriel Lippmann",
-      "Sergey Prokudin-Gorsky",
-      "Louis Ducos du Hauron"
+      "Chocolat",
+      "Beurre",
+      "Fromage",
+      "Huile"
     ],
     "correctIndex": 3
   },
   {
-    "id": "q167",
-    "category": "Inventions",
+    "id": "q165",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
+    "text": "Quel métal reste liquide à température ambiante ?",
     "answers": [
-      "Samuel Morse",
-      "Charles Wheatstone",
-      "William Fothergill Cooke",
-      "Alfred Vail"
+      "Gallium",
+      "Césium",
+      "Plomb",
+      "Mercure"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q166",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
+    "answers": [
+      "New Horizons",
+      "Hubble",
+      "Voyager 1",
+      "Pioneer 10"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q167",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
+    "answers": [
+      "Voyager 1",
+      "New Horizons",
+      "Pioneer 10",
+      "Hubble"
     ],
     "correctIndex": 0
   },
   {
     "id": "q168",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
+    "text": "Quel animal peut survivre dans l'espace ?",
     "answers": [
-      "Zacharias Janssen",
-      "Galileo Galilei",
-      "Robert Hooke",
-      "Antonie van Leeuwenhoek"
+      "Tardigrade",
+      "Fourmi",
+      "Scarabée",
+      "Araignée"
     ],
     "correctIndex": 0
   },
   {
     "id": "q169",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
+    "text": "Quel est le sport le plus pratiqué au monde ?",
     "answers": [
-      "Zacharias Janssen",
-      "Galileo Galilei",
-      "Antonie van Leeuwenhoek",
-      "Robert Hooke"
+      "Football",
+      "Cricket",
+      "Basketball",
+      "Tennis"
     ],
     "correctIndex": 0
   },
   {
     "id": "q170",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
+    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
     "answers": [
-      "Clarence Birdseye",
-      "Jacob Perkins",
-      "William Cullen",
-      "Carl von Linde"
+      "Lévrier",
+      "Lion",
+      "Guépard",
+      "Antilope"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "q171",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
+    "text": "Quel animal pond les plus gros œufs ?",
     "answers": [
-      "Frank Whittle",
-      "Albert Fonó",
-      "Hans von Ohain",
-      "Henri Coandă"
+      "Autruche",
+      "Tortue luth",
+      "Aigle",
+      "Manchot empereur"
     ],
     "correctIndex": 0
   },
   {
     "id": "q172",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
+    "text": "Quel métal reste liquide à température ambiante ?",
     "answers": [
-      "George E. Smith",
-      "Willard Boyle",
-      "Steven Sasson",
-      "Russell Kirsch"
+      "Plomb",
+      "Césium",
+      "Gallium",
+      "Mercure"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "q173",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
+    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
     "answers": [
-      "Wilson Greatbatch",
-      "Paul Zoll",
-      "Rune Elmqvist",
-      "John Hopps"
+      "Antilope",
+      "Guépard",
+      "Lévrier",
+      "Lion"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "q174",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
+    "text": "Quel est l'aliment le plus calorique au monde ?",
     "answers": [
-      "Auguste Perret",
-      "Joseph Monier",
-      "Jean-Louis Lambot",
-      "François Hennebique"
+      "Chocolat",
+      "Huile",
+      "Beurre",
+      "Fromage"
     ],
     "correctIndex": 1
   },
   {
     "id": "q175",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
+    "text": "Quel est l'aliment le plus calorique au monde ?",
     "answers": [
-      "Carl von Linde",
-      "William Cullen",
-      "Jacob Perkins",
-      "Clarence Birdseye"
+      "Beurre",
+      "Huile",
+      "Chocolat",
+      "Fromage"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "q176",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
+    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
     "answers": [
-      "Wilson Greatbatch",
-      "John Hopps",
-      "Rune Elmqvist",
-      "Paul Zoll"
+      "Utricularia",
+      "Drosera",
+      "Nepenthes",
+      "Dionée"
     ],
     "correctIndex": 2
   },
   {
     "id": "q177",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
+    "text": "Quel est l'aliment le plus calorique au monde ?",
     "answers": [
-      "Alfred Vail",
-      "William Fothergill Cooke",
-      "Charles Wheatstone",
-      "Samuel Morse"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q178",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Steven Sasson",
-      "George E. Smith",
-      "Willard Boyle",
-      "Russell Kirsch"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q179",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
-    "answers": [
-      "Jean-Louis Lambot",
-      "Joseph Monier",
-      "Auguste Perret",
-      "François Hennebique"
+      "Chocolat",
+      "Huile",
+      "Beurre",
+      "Fromage"
     ],
     "correctIndex": 1
   },
   {
-    "id": "q180",
-    "category": "Inventions",
+    "id": "q178",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
+    "text": "Quel est l'aliment le plus calorique au monde ?",
     "answers": [
-      "Auguste Perret",
-      "François Hennebique",
-      "Jean-Louis Lambot",
-      "Joseph Monier"
+      "Fromage",
+      "Huile",
+      "Chocolat",
+      "Beurre"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "id": "q181",
-    "category": "Inventions",
+    "id": "q179",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
+    "text": "Quel est l'aliment le plus calorique au monde ?",
     "answers": [
-      "John Hopps",
-      "Paul Zoll",
-      "Rune Elmqvist",
-      "Wilson Greatbatch"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q182",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "Henry Bessemer",
-      "William Siemens",
-      "Robert Mushet",
-      "Andrew Carnegie"
+      "Huile",
+      "Beurre",
+      "Chocolat",
+      "Fromage"
     ],
     "correctIndex": 0
   },
   {
-    "id": "q183",
-    "category": "Inventions",
+    "id": "q180",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
+    "text": "Quel est l'aliment le plus calorique au monde ?",
     "answers": [
-      "John Hopps",
-      "Paul Zoll",
-      "Wilson Greatbatch",
-      "Rune Elmqvist"
+      "Huile",
+      "Fromage",
+      "Chocolat",
+      "Beurre"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q181",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel animal peut survivre dans l'espace ?",
+    "answers": [
+      "Scarabée",
+      "Tardigrade",
+      "Fourmi",
+      "Araignée"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q182",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel métal reste liquide à température ambiante ?",
+    "answers": [
+      "Plomb",
+      "Gallium",
+      "Césium",
+      "Mercure"
     ],
     "correctIndex": 3
+  },
+  {
+    "id": "q183",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel animal pond les plus gros œufs ?",
+    "answers": [
+      "Autruche",
+      "Tortue luth",
+      "Aigle",
+      "Manchot empereur"
+    ],
+    "correctIndex": 0
   },
   {
     "id": "q184",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
+    "text": "Quel est le sport le plus pratiqué au monde ?",
     "answers": [
-      "William Fothergill Cooke",
-      "Alfred Vail",
-      "Charles Wheatstone",
-      "Samuel Morse"
+      "Tennis",
+      "Football",
+      "Cricket",
+      "Basketball"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "q185",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
+    "text": "Quel animal pond les plus gros œufs ?",
     "answers": [
-      "Steven Sasson",
-      "Willard Boyle",
-      "Russell Kirsch",
-      "George E. Smith"
+      "Autruche",
+      "Manchot empereur",
+      "Tortue luth",
+      "Aigle"
     ],
     "correctIndex": 0
   },
   {
     "id": "q186",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
+    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
     "answers": [
-      "John Hopps",
-      "Rune Elmqvist",
-      "Paul Zoll",
-      "Wilson Greatbatch"
+      "Lévrier",
+      "Antilope",
+      "Lion",
+      "Guépard"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "q187",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
+    "text": "Quel métal reste liquide à température ambiante ?",
     "answers": [
-      "Joseph Monier",
-      "Auguste Perret",
-      "François Hennebique",
-      "Jean-Louis Lambot"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q188",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "Sergey Prokudin-Gorsky",
-      "Gabriel Lippmann",
-      "James Clerk Maxwell",
-      "Louis Ducos du Hauron"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q189",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
-    "answers": [
-      "Galileo Galilei",
-      "Antonie van Leeuwenhoek",
-      "Robert Hooke",
-      "Zacharias Janssen"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q190",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "George E. Smith",
-      "Steven Sasson",
-      "Russell Kirsch",
-      "Willard Boyle"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q191",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
-    "answers": [
-      "Robert Hooke",
-      "Antonie van Leeuwenhoek",
-      "Galileo Galilei",
-      "Zacharias Janssen"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q192",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "Henry Bessemer",
-      "Robert Mushet",
-      "Andrew Carnegie",
-      "William Siemens"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q193",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "Jacob Perkins",
-      "William Cullen",
-      "Carl von Linde",
-      "Clarence Birdseye"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q194",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
-    "answers": [
-      "Hans von Ohain",
-      "Henri Coandă",
-      "Frank Whittle",
-      "Albert Fonó"
+      "Gallium",
+      "Plomb",
+      "Mercure",
+      "Césium"
     ],
     "correctIndex": 2
   },
   {
-    "id": "q195",
-    "category": "Inventions",
+    "id": "q188",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
+    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
     "answers": [
-      "Zacharias Janssen",
-      "Robert Hooke",
-      "Antonie van Leeuwenhoek",
-      "Galileo Galilei"
+      "Lévrier",
+      "Guépard",
+      "Lion",
+      "Antilope"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q189",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
+    "answers": [
+      "Lévrier",
+      "Guépard",
+      "Lion",
+      "Antilope"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q190",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel animal peut survivre dans l'espace ?",
+    "answers": [
+      "Scarabée",
+      "Araignée",
+      "Tardigrade",
+      "Fourmi"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q191",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel pays possède la plus longue côte maritime au monde ?",
+    "answers": [
+      "Indonésie",
+      "Russie",
+      "Canada",
+      "Australie"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q192",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel métal reste liquide à température ambiante ?",
+    "answers": [
+      "Plomb",
+      "Mercure",
+      "Gallium",
+      "Césium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q193",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel pays possède la plus longue côte maritime au monde ?",
+    "answers": [
+      "Canada",
+      "Indonésie",
+      "Russie",
+      "Australie"
     ],
     "correctIndex": 0
   },
   {
-    "id": "q196",
-    "category": "Inventions",
+    "id": "q194",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
+    "text": "Quel pays possède la plus longue côte maritime au monde ?",
     "answers": [
-      "Emile Berliner",
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Charles Cros"
+      "Canada",
+      "Russie",
+      "Australie",
+      "Indonésie"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
+  },
+  {
+    "id": "q195",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
+    "answers": [
+      "Hubble",
+      "Pioneer 10",
+      "New Horizons",
+      "Voyager 1"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q196",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel animal peut survivre dans l'espace ?",
+    "answers": [
+      "Tardigrade",
+      "Araignée",
+      "Scarabée",
+      "Fourmi"
+    ],
+    "correctIndex": 0
   },
   {
     "id": "q197",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
+    "text": "Quel métal reste liquide à température ambiante ?",
     "answers": [
-      "Hans von Ohain",
-      "Frank Whittle",
-      "Henri Coandă",
-      "Albert Fonó"
+      "Plomb",
+      "Gallium",
+      "Césium",
+      "Mercure"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "q198",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
+    "text": "Quel métal reste liquide à température ambiante ?",
     "answers": [
-      "William Siemens",
-      "Henry Bessemer",
-      "Andrew Carnegie",
-      "Robert Mushet"
+      "Césium",
+      "Mercure",
+      "Gallium",
+      "Plomb"
     ],
     "correctIndex": 1
   },
   {
     "id": "q199",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
+    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
     "answers": [
-      "Paul Zoll",
-      "John Hopps",
-      "Rune Elmqvist",
-      "Wilson Greatbatch"
+      "Dionée",
+      "Drosera",
+      "Utricularia",
+      "Nepenthes"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "q200",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
+    "text": "Quel métal reste liquide à température ambiante ?",
     "answers": [
-      "Jean-Louis Lambot",
-      "Joseph Monier",
-      "Auguste Perret",
-      "François Hennebique"
+      "Césium",
+      "Mercure",
+      "Gallium",
+      "Plomb"
     ],
     "correctIndex": 1
   },
   {
     "id": "q201",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
+    "text": "Quel métal reste liquide à température ambiante ?",
     "answers": [
-      "Russell Kirsch",
-      "George E. Smith",
-      "Steven Sasson",
-      "Willard Boyle"
+      "Césium",
+      "Gallium",
+      "Mercure",
+      "Plomb"
     ],
     "correctIndex": 2
   },
   {
     "id": "q202",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
+    "text": "Quel métal reste liquide à température ambiante ?",
     "answers": [
-      "William Siemens",
-      "Henry Bessemer",
-      "Robert Mushet",
-      "Andrew Carnegie"
+      "Césium",
+      "Plomb",
+      "Mercure",
+      "Gallium"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "q203",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
+    "text": "Quel métal reste liquide à température ambiante ?",
     "answers": [
-      "Alfred Vail",
-      "William Fothergill Cooke",
-      "Charles Wheatstone",
-      "Samuel Morse"
+      "Césium",
+      "Mercure",
+      "Plomb",
+      "Gallium"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "q204",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
+    "text": "Quel métal reste liquide à température ambiante ?",
     "answers": [
-      "Paul Zoll",
-      "Rune Elmqvist",
-      "Wilson Greatbatch",
-      "John Hopps"
+      "Gallium",
+      "Césium",
+      "Mercure",
+      "Plomb"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "q205",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
+    "text": "Quel animal peut survivre dans l'espace ?",
     "answers": [
-      "Willard Boyle",
-      "Steven Sasson",
-      "Russell Kirsch",
-      "George E. Smith"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q206",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "Carl von Linde",
-      "William Cullen",
-      "Clarence Birdseye",
-      "Jacob Perkins"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q207",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
-    "answers": [
-      "François Hennebique",
-      "Auguste Perret",
-      "Joseph Monier",
-      "Jean-Louis Lambot"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q208",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
-    "answers": [
-      "Emile Berliner",
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Charles Cros"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q209",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "Louis Ducos du Hauron",
-      "Sergey Prokudin-Gorsky",
-      "Gabriel Lippmann",
-      "James Clerk Maxwell"
+      "Tardigrade",
+      "Araignée",
+      "Scarabée",
+      "Fourmi"
     ],
     "correctIndex": 0
   },
   {
-    "id": "q210",
-    "category": "Inventions",
+    "id": "q206",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
+    "text": "Quel est l'aliment le plus calorique au monde ?",
     "answers": [
-      "Carl von Linde",
-      "Jacob Perkins",
-      "William Cullen",
-      "Clarence Birdseye"
+      "Beurre",
+      "Huile",
+      "Fromage",
+      "Chocolat"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
+  },
+  {
+    "id": "q207",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
+    "answers": [
+      "Lion",
+      "Guépard",
+      "Antilope",
+      "Lévrier"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q208",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel animal peut survivre dans l'espace ?",
+    "answers": [
+      "Tardigrade",
+      "Fourmi",
+      "Scarabée",
+      "Araignée"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q209",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel pays n'a pas d'armée officielle ?",
+    "answers": [
+      "Monaco",
+      "Islande",
+      "Costa Rica",
+      "Vatican"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q210",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel est l'aliment le plus calorique au monde ?",
+    "answers": [
+      "Fromage",
+      "Beurre",
+      "Huile",
+      "Chocolat"
+    ],
+    "correctIndex": 2
   },
   {
     "id": "q211",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
+    "text": "Quel est l'aliment le plus calorique au monde ?",
     "answers": [
-      "Emile Berliner",
-      "Charles Cros",
-      "Alexander Graham Bell",
-      "Thomas Edison"
+      "Chocolat",
+      "Huile",
+      "Fromage",
+      "Beurre"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "q212",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
+    "text": "Quel animal peut survivre dans l'espace ?",
     "answers": [
-      "Charles Wheatstone",
-      "William Fothergill Cooke",
-      "Samuel Morse",
-      "Alfred Vail"
+      "Scarabée",
+      "Tardigrade",
+      "Fourmi",
+      "Araignée"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "q213",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
+    "text": "Quel pays n'a pas d'armée officielle ?",
     "answers": [
-      "Galileo Galilei",
-      "Robert Hooke",
-      "Zacharias Janssen",
-      "Antonie van Leeuwenhoek"
+      "Islande",
+      "Vatican",
+      "Monaco",
+      "Costa Rica"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "q214",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
+    "text": "Quel métal reste liquide à température ambiante ?",
     "answers": [
-      "Willard Boyle",
-      "Russell Kirsch",
-      "Steven Sasson",
-      "George E. Smith"
+      "Césium",
+      "Mercure",
+      "Plomb",
+      "Gallium"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "q215",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
+    "text": "Quel animal pond les plus gros œufs ?",
     "answers": [
-      "Joseph Monier",
-      "Auguste Perret",
-      "François Hennebique",
-      "Jean-Louis Lambot"
+      "Autruche",
+      "Manchot empereur",
+      "Aigle",
+      "Tortue luth"
     ],
     "correctIndex": 0
   },
   {
     "id": "q216",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
+    "text": "Quel est l'aliment le plus calorique au monde ?",
     "answers": [
-      "Henry Bessemer",
-      "Andrew Carnegie",
-      "Robert Mushet",
-      "William Siemens"
+      "Chocolat",
+      "Huile",
+      "Fromage",
+      "Beurre"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "q217",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
+    "text": "Quel animal pond les plus gros œufs ?",
     "answers": [
-      "Charles Cros",
-      "Alexander Graham Bell",
-      "Emile Berliner",
-      "Thomas Edison"
+      "Tortue luth",
+      "Aigle",
+      "Manchot empereur",
+      "Autruche"
     ],
     "correctIndex": 3
   },
   {
     "id": "q218",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
+    "text": "Quel animal pond les plus gros œufs ?",
     "answers": [
-      "Emile Berliner",
-      "Thomas Edison",
-      "Charles Cros",
-      "Alexander Graham Bell"
+      "Aigle",
+      "Autruche",
+      "Manchot empereur",
+      "Tortue luth"
     ],
     "correctIndex": 1
   },
   {
     "id": "q219",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
+    "text": "Quel métal reste liquide à température ambiante ?",
     "answers": [
-      "Henry Bessemer",
-      "Andrew Carnegie",
-      "Robert Mushet",
-      "William Siemens"
+      "Plomb",
+      "Gallium",
+      "Mercure",
+      "Césium"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "q220",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
+    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
     "answers": [
-      "Emile Berliner",
-      "Thomas Edison",
-      "Charles Cros",
-      "Alexander Graham Bell"
+      "Utricularia",
+      "Nepenthes",
+      "Drosera",
+      "Dionée"
     ],
     "correctIndex": 1
   },
   {
     "id": "q221",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
+    "text": "Quel animal peut survivre dans l'espace ?",
     "answers": [
-      "Louis Ducos du Hauron",
-      "Gabriel Lippmann",
-      "Sergey Prokudin-Gorsky",
-      "James Clerk Maxwell"
+      "Fourmi",
+      "Tardigrade",
+      "Scarabée",
+      "Araignée"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "q222",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
+    "text": "Quel pays n'a pas d'armée officielle ?",
     "answers": [
-      "Henry Bessemer",
-      "Robert Mushet",
-      "William Siemens",
-      "Andrew Carnegie"
+      "Monaco",
+      "Costa Rica",
+      "Vatican",
+      "Islande"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "q223",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
+    "text": "Quel métal reste liquide à température ambiante ?",
     "answers": [
-      "Steven Sasson",
-      "George E. Smith",
-      "Russell Kirsch",
-      "Willard Boyle"
+      "Mercure",
+      "Césium",
+      "Gallium",
+      "Plomb"
     ],
     "correctIndex": 0
   },
   {
     "id": "q224",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
+    "text": "Quel animal peut survivre dans l'espace ?",
     "answers": [
-      "Thomas Edison",
-      "Emile Berliner",
-      "Alexander Graham Bell",
-      "Charles Cros"
+      "Araignée",
+      "Tardigrade",
+      "Scarabée",
+      "Fourmi"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "q225",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
+    "text": "Quel est le sport le plus pratiqué au monde ?",
     "answers": [
-      "Henry Bessemer",
-      "William Siemens",
-      "Andrew Carnegie",
-      "Robert Mushet"
+      "Football",
+      "Cricket",
+      "Basketball",
+      "Tennis"
     ],
     "correctIndex": 0
   },
   {
     "id": "q226",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
+    "text": "Quel est l'aliment le plus calorique au monde ?",
     "answers": [
-      "Louis Ducos du Hauron",
-      "James Clerk Maxwell",
-      "Sergey Prokudin-Gorsky",
-      "Gabriel Lippmann"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q227",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Russell Kirsch",
-      "Willard Boyle",
-      "Steven Sasson",
-      "George E. Smith"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q228",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
-    "answers": [
-      "Charles Wheatstone",
-      "William Fothergill Cooke",
-      "Alfred Vail",
-      "Samuel Morse"
+      "Fromage",
+      "Beurre",
+      "Chocolat",
+      "Huile"
     ],
     "correctIndex": 3
   },
   {
-    "id": "q229",
-    "category": "Inventions",
+    "id": "q227",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
+    "text": "Quel animal pond les plus gros œufs ?",
     "answers": [
-      "Jacob Perkins",
-      "Carl von Linde",
-      "Clarence Birdseye",
-      "William Cullen"
+      "Autruche",
+      "Tortue luth",
+      "Aigle",
+      "Manchot empereur"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q228",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
+    "answers": [
+      "Pioneer 10",
+      "New Horizons",
+      "Voyager 1",
+      "Hubble"
     ],
     "correctIndex": 2
   },
   {
-    "id": "q230",
-    "category": "Inventions",
+    "id": "q229",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
+    "text": "Quel est le sport le plus pratiqué au monde ?",
     "answers": [
-      "Wilson Greatbatch",
-      "Rune Elmqvist",
-      "Paul Zoll",
-      "John Hopps"
+      "Tennis",
+      "Basketball",
+      "Cricket",
+      "Football"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q230",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel est l'aliment le plus calorique au monde ?",
+    "answers": [
+      "Beurre",
+      "Chocolat",
+      "Huile",
+      "Fromage"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q231",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel animal peut survivre dans l'espace ?",
+    "answers": [
+      "Fourmi",
+      "Tardigrade",
+      "Araignée",
+      "Scarabée"
     ],
     "correctIndex": 1
   },
   {
-    "id": "q231",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
-    "answers": [
-      "Alexander Graham Bell",
-      "Emile Berliner",
-      "Charles Cros",
-      "Thomas Edison"
-    ],
-    "correctIndex": 3
-  },
-  {
     "id": "q232",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
+    "text": "Quel animal peut survivre dans l'espace ?",
     "answers": [
-      "Antonie van Leeuwenhoek",
-      "Galileo Galilei",
-      "Robert Hooke",
-      "Zacharias Janssen"
+      "Araignée",
+      "Tardigrade",
+      "Fourmi",
+      "Scarabée"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "q233",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
+    "text": "Quel animal pond les plus gros œufs ?",
     "answers": [
-      "Steven Sasson",
-      "Russell Kirsch",
-      "George E. Smith",
-      "Willard Boyle"
+      "Aigle",
+      "Manchot empereur",
+      "Autruche",
+      "Tortue luth"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "q234",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
+    "text": "Quel animal pond les plus gros œufs ?",
     "answers": [
-      "Steven Sasson",
-      "George E. Smith",
-      "Willard Boyle",
-      "Russell Kirsch"
+      "Manchot empereur",
+      "Tortue luth",
+      "Aigle",
+      "Autruche"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "q235",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
+    "text": "Quel est le sport le plus pratiqué au monde ?",
     "answers": [
-      "Frank Whittle",
-      "Albert Fonó",
-      "Henri Coandă",
-      "Hans von Ohain"
+      "Football",
+      "Cricket",
+      "Tennis",
+      "Basketball"
     ],
     "correctIndex": 0
   },
   {
     "id": "q236",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
+    "text": "Quel métal reste liquide à température ambiante ?",
     "answers": [
-      "Auguste Perret",
-      "Joseph Monier",
-      "Jean-Louis Lambot",
-      "François Hennebique"
+      "Plomb",
+      "Mercure",
+      "Gallium",
+      "Césium"
     ],
     "correctIndex": 1
   },
   {
     "id": "q237",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
+    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
     "answers": [
-      "Thomas Edison",
-      "Charles Cros",
-      "Alexander Graham Bell",
-      "Emile Berliner"
+      "Lion",
+      "Antilope",
+      "Lévrier",
+      "Guépard"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "q238",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
+    "text": "Quel est le sport le plus pratiqué au monde ?",
     "answers": [
-      "Russell Kirsch",
-      "Steven Sasson",
-      "Willard Boyle",
-      "George E. Smith"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q239",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
-    "answers": [
-      "John Hopps",
-      "Paul Zoll",
-      "Wilson Greatbatch",
-      "Rune Elmqvist"
+      "Cricket",
+      "Tennis",
+      "Basketball",
+      "Football"
     ],
     "correctIndex": 3
   },
   {
-    "id": "q240",
-    "category": "Inventions",
+    "id": "q239",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
+    "text": "Quel pays n'a pas d'armée officielle ?",
     "answers": [
-      "Carl von Linde",
-      "Jacob Perkins",
-      "Clarence Birdseye",
-      "William Cullen"
+      "Vatican",
+      "Monaco",
+      "Islande",
+      "Costa Rica"
     ],
     "correctIndex": 2
   },
   {
-    "id": "q241",
-    "category": "Inventions",
+    "id": "q240",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
+    "text": "Quel est l'aliment le plus calorique au monde ?",
     "answers": [
-      "Clarence Birdseye",
-      "Carl von Linde",
-      "William Cullen",
-      "Jacob Perkins"
+      "Chocolat",
+      "Beurre",
+      "Fromage",
+      "Huile"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q241",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel pays possède la plus longue côte maritime au monde ?",
+    "answers": [
+      "Australie",
+      "Indonésie",
+      "Canada",
+      "Russie"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q242",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel pays n'a pas d'armée officielle ?",
+    "answers": [
+      "Costa Rica",
+      "Vatican",
+      "Islande",
+      "Monaco"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q243",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel est l'aliment le plus calorique au monde ?",
+    "answers": [
+      "Fromage",
+      "Beurre",
+      "Chocolat",
+      "Huile"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q244",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel est l'aliment le plus calorique au monde ?",
+    "answers": [
+      "Chocolat",
+      "Beurre",
+      "Huile",
+      "Fromage"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q245",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel métal reste liquide à température ambiante ?",
+    "answers": [
+      "Mercure",
+      "Gallium",
+      "Césium",
+      "Plomb"
     ],
     "correctIndex": 0
   },
   {
-    "id": "q242",
-    "category": "Inventions",
+    "id": "q246",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
+    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
     "answers": [
-      "William Cullen",
-      "Carl von Linde",
-      "Jacob Perkins",
-      "Clarence Birdseye"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q243",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
-    "answers": [
-      "Charles Wheatstone",
-      "Samuel Morse",
-      "William Fothergill Cooke",
-      "Alfred Vail"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q244",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "Jacob Perkins",
-      "Clarence Birdseye",
-      "Carl von Linde",
-      "William Cullen"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q245",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "William Cullen",
-      "Carl von Linde",
-      "Clarence Birdseye",
-      "Jacob Perkins"
+      "Pioneer 10",
+      "New Horizons",
+      "Voyager 1",
+      "Hubble"
     ],
     "correctIndex": 2
   },
   {
-    "id": "q246",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "Carl von Linde",
-      "William Cullen",
-      "Jacob Perkins",
-      "Clarence Birdseye"
-    ],
-    "correctIndex": 3
-  },
-  {
     "id": "q247",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
+    "text": "Quel est le sport le plus pratiqué au monde ?",
     "answers": [
-      "Andrew Carnegie",
-      "Robert Mushet",
-      "Henry Bessemer",
-      "William Siemens"
+      "Tennis",
+      "Basketball",
+      "Football",
+      "Cricket"
     ],
     "correctIndex": 2
   },
   {
     "id": "q248",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
+    "text": "Quel est le sport le plus pratiqué au monde ?",
     "answers": [
-      "Joseph Monier",
-      "François Hennebique",
-      "Jean-Louis Lambot",
-      "Auguste Perret"
+      "Football",
+      "Tennis",
+      "Basketball",
+      "Cricket"
     ],
     "correctIndex": 0
   },
   {
     "id": "q249",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
+    "text": "Quel métal reste liquide à température ambiante ?",
     "answers": [
-      "Andrew Carnegie",
-      "Robert Mushet",
-      "Henry Bessemer",
-      "William Siemens"
+      "Gallium",
+      "Mercure",
+      "Césium",
+      "Plomb"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "q250",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
+    "text": "Quel est l'aliment le plus calorique au monde ?",
     "answers": [
-      "Hans von Ohain",
-      "Albert Fonó",
-      "Henri Coandă",
-      "Frank Whittle"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q251",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "Andrew Carnegie",
-      "Robert Mushet",
-      "Henry Bessemer",
-      "William Siemens"
+      "Chocolat",
+      "Fromage",
+      "Huile",
+      "Beurre"
     ],
     "correctIndex": 2
   },
   {
-    "id": "q252",
-    "category": "Inventions",
+    "id": "q251",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
+    "text": "Quel animal peut survivre dans l'espace ?",
     "answers": [
-      "Charles Cros",
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Emile Berliner"
+      "Tardigrade",
+      "Fourmi",
+      "Scarabée",
+      "Araignée"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q252",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel pays n'a pas d'armée officielle ?",
+    "answers": [
+      "Monaco",
+      "Islande",
+      "Costa Rica",
+      "Vatican"
     ],
     "correctIndex": 1
   },
   {
     "id": "q253",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
+    "text": "Quel pays n'a pas d'armée officielle ?",
     "answers": [
-      "Charles Cros",
-      "Emile Berliner",
-      "Thomas Edison",
-      "Alexander Graham Bell"
+      "Islande",
+      "Monaco",
+      "Costa Rica",
+      "Vatican"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "q254",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
+    "text": "Quel est le sport le plus pratiqué au monde ?",
     "answers": [
-      "Sergey Prokudin-Gorsky",
-      "Gabriel Lippmann",
-      "Louis Ducos du Hauron",
-      "James Clerk Maxwell"
+      "Tennis",
+      "Cricket",
+      "Basketball",
+      "Football"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "q255",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
+    "text": "Quel animal peut survivre dans l'espace ?",
     "answers": [
-      "James Clerk Maxwell",
-      "Gabriel Lippmann",
-      "Louis Ducos du Hauron",
-      "Sergey Prokudin-Gorsky"
+      "Fourmi",
+      "Tardigrade",
+      "Scarabée",
+      "Araignée"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "q256",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
+    "text": "Quel pays possède la plus longue côte maritime au monde ?",
     "answers": [
-      "Frank Whittle",
-      "Albert Fonó",
-      "Hans von Ohain",
-      "Henri Coandă"
+      "Russie",
+      "Australie",
+      "Canada",
+      "Indonésie"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "q257",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
+    "text": "Quel métal reste liquide à température ambiante ?",
     "answers": [
-      "Russell Kirsch",
-      "George E. Smith",
-      "Steven Sasson",
-      "Willard Boyle"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q258",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
-    "answers": [
-      "François Hennebique",
-      "Joseph Monier",
-      "Auguste Perret",
-      "Jean-Louis Lambot"
+      "Plomb",
+      "Mercure",
+      "Gallium",
+      "Césium"
     ],
     "correctIndex": 1
   },
   {
-    "id": "q259",
-    "category": "Inventions",
+    "id": "q258",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
+    "text": "Quel métal reste liquide à température ambiante ?",
     "answers": [
-      "Wilson Greatbatch",
-      "Paul Zoll",
-      "Rune Elmqvist",
-      "John Hopps"
+      "Plomb",
+      "Gallium",
+      "Césium",
+      "Mercure"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "id": "q260",
-    "category": "Inventions",
+    "id": "q259",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
+    "text": "Quel pays possède la plus longue côte maritime au monde ?",
     "answers": [
-      "Steven Sasson",
-      "George E. Smith",
-      "Willard Boyle",
-      "Russell Kirsch"
+      "Canada",
+      "Indonésie",
+      "Australie",
+      "Russie"
     ],
     "correctIndex": 0
   },
   {
-    "id": "q261",
-    "category": "Inventions",
+    "id": "q260",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
+    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
     "answers": [
-      "Sergey Prokudin-Gorsky",
-      "Gabriel Lippmann",
-      "Louis Ducos du Hauron",
-      "James Clerk Maxwell"
+      "Utricularia",
+      "Drosera",
+      "Nepenthes",
+      "Dionée"
     ],
     "correctIndex": 2
   },
   {
-    "id": "q262",
-    "category": "Inventions",
+    "id": "q261",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
+    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
     "answers": [
-      "Henri Coandă",
-      "Frank Whittle",
-      "Hans von Ohain",
-      "Albert Fonó"
+      "New Horizons",
+      "Pioneer 10",
+      "Hubble",
+      "Voyager 1"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q262",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel est l'aliment le plus calorique au monde ?",
+    "answers": [
+      "Fromage",
+      "Chocolat",
+      "Huile",
+      "Beurre"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q263",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
+    "answers": [
+      "Guépard",
+      "Antilope",
+      "Lévrier",
+      "Lion"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q264",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
+    "answers": [
+      "Antilope",
+      "Guépard",
+      "Lévrier",
+      "Lion"
     ],
     "correctIndex": 1
   },
   {
-    "id": "q263",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
-    "answers": [
-      "Charles Wheatstone",
-      "Alfred Vail",
-      "William Fothergill Cooke",
-      "Samuel Morse"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q264",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
-    "answers": [
-      "Hans von Ohain",
-      "Henri Coandă",
-      "Albert Fonó",
-      "Frank Whittle"
-    ],
-    "correctIndex": 3
-  },
-  {
     "id": "q265",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
+    "text": "Quel animal peut survivre dans l'espace ?",
     "answers": [
-      "Gabriel Lippmann",
-      "James Clerk Maxwell",
-      "Louis Ducos du Hauron",
-      "Sergey Prokudin-Gorsky"
+      "Scarabée",
+      "Fourmi",
+      "Tardigrade",
+      "Araignée"
     ],
     "correctIndex": 2
   },
   {
     "id": "q266",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
+    "text": "Quel est le sport le plus pratiqué au monde ?",
     "answers": [
-      "Clarence Birdseye",
-      "Carl von Linde",
-      "Jacob Perkins",
-      "William Cullen"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q267",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "Louis Ducos du Hauron",
-      "Gabriel Lippmann",
-      "Sergey Prokudin-Gorsky",
-      "James Clerk Maxwell"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q268",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "William Cullen",
-      "Clarence Birdseye",
-      "Jacob Perkins",
-      "Carl von Linde"
+      "Basketball",
+      "Football",
+      "Cricket",
+      "Tennis"
     ],
     "correctIndex": 1
   },
   {
-    "id": "q269",
-    "category": "Inventions",
+    "id": "q267",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
+    "text": "Quel est le sport le plus pratiqué au monde ?",
     "answers": [
-      "Alexander Graham Bell",
-      "Emile Berliner",
-      "Charles Cros",
-      "Thomas Edison"
+      "Tennis",
+      "Cricket",
+      "Basketball",
+      "Football"
     ],
     "correctIndex": 3
   },
   {
-    "id": "q270",
-    "category": "Inventions",
+    "id": "q268",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
+    "text": "Quel est l'aliment le plus calorique au monde ?",
     "answers": [
-      "Albert Fonó",
-      "Hans von Ohain",
-      "Henri Coandă",
-      "Frank Whittle"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q271",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
-    "answers": [
-      "François Hennebique",
-      "Jean-Louis Lambot",
-      "Auguste Perret",
-      "Joseph Monier"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q272",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "Carl von Linde",
-      "William Cullen",
-      "Clarence Birdseye",
-      "Jacob Perkins"
+      "Fromage",
+      "Beurre",
+      "Huile",
+      "Chocolat"
     ],
     "correctIndex": 2
   },
   {
-    "id": "q273",
-    "category": "Inventions",
+    "id": "q269",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
+    "text": "Quel animal peut survivre dans l'espace ?",
     "answers": [
-      "William Siemens",
-      "Robert Mushet",
-      "Andrew Carnegie",
-      "Henry Bessemer"
+      "Fourmi",
+      "Araignée",
+      "Tardigrade",
+      "Scarabée"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
-    "id": "q274",
-    "category": "Inventions",
+    "id": "q270",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
+    "text": "Quel animal peut survivre dans l'espace ?",
     "answers": [
-      "Jean-Louis Lambot",
-      "Joseph Monier",
-      "François Hennebique",
-      "Auguste Perret"
+      "Fourmi",
+      "Araignée",
+      "Tardigrade",
+      "Scarabée"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q271",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel métal reste liquide à température ambiante ?",
+    "answers": [
+      "Mercure",
+      "Césium",
+      "Gallium",
+      "Plomb"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q272",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel est l'aliment le plus calorique au monde ?",
+    "answers": [
+      "Chocolat",
+      "Huile",
+      "Beurre",
+      "Fromage"
     ],
     "correctIndex": 1
   },
   {
-    "id": "q275",
-    "category": "Inventions",
+    "id": "q273",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
+    "text": "Quel pays n'a pas d'armée officielle ?",
     "answers": [
-      "Galileo Galilei",
-      "Robert Hooke",
-      "Antonie van Leeuwenhoek",
-      "Zacharias Janssen"
+      "Islande",
+      "Monaco",
+      "Costa Rica",
+      "Vatican"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q274",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel est l'aliment le plus calorique au monde ?",
+    "answers": [
+      "Chocolat",
+      "Fromage",
+      "Beurre",
+      "Huile"
     ],
     "correctIndex": 3
+  },
+  {
+    "id": "q275",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
+    "answers": [
+      "Nepenthes",
+      "Dionée",
+      "Utricularia",
+      "Drosera"
+    ],
+    "correctIndex": 0
   },
   {
     "id": "q276",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
+    "text": "Quel est le sport le plus pratiqué au monde ?",
     "answers": [
-      "Auguste Perret",
-      "François Hennebique",
-      "Jean-Louis Lambot",
-      "Joseph Monier"
+      "Cricket",
+      "Basketball",
+      "Football",
+      "Tennis"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "q277",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
+    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
     "answers": [
-      "Carl von Linde",
-      "Jacob Perkins",
-      "Clarence Birdseye",
-      "William Cullen"
+      "Hubble",
+      "New Horizons",
+      "Voyager 1",
+      "Pioneer 10"
     ],
     "correctIndex": 2
   },
   {
     "id": "q278",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
+    "text": "Quel pays n'a pas d'armée officielle ?",
     "answers": [
-      "Joseph Monier",
-      "François Hennebique",
-      "Jean-Louis Lambot",
-      "Auguste Perret"
+      "Islande",
+      "Vatican",
+      "Costa Rica",
+      "Monaco"
     ],
     "correctIndex": 0
   },
   {
     "id": "q279",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
+    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
     "answers": [
-      "Paul Zoll",
-      "John Hopps",
-      "Rune Elmqvist",
-      "Wilson Greatbatch"
+      "Lion",
+      "Antilope",
+      "Guépard",
+      "Lévrier"
     ],
     "correctIndex": 2
   },
   {
     "id": "q280",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
+    "text": "Quel est l'aliment le plus calorique au monde ?",
     "answers": [
-      "Willard Boyle",
-      "George E. Smith",
-      "Russell Kirsch",
-      "Steven Sasson"
+      "Chocolat",
+      "Beurre",
+      "Fromage",
+      "Huile"
     ],
     "correctIndex": 3
   },
   {
     "id": "q281",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
+    "text": "Quel métal reste liquide à température ambiante ?",
     "answers": [
-      "Robert Hooke",
-      "Zacharias Janssen",
-      "Galileo Galilei",
-      "Antonie van Leeuwenhoek"
+      "Gallium",
+      "Mercure",
+      "Plomb",
+      "Césium"
     ],
     "correctIndex": 1
   },
   {
     "id": "q282",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
+    "text": "Quel animal peut survivre dans l'espace ?",
     "answers": [
-      "Willard Boyle",
-      "Russell Kirsch",
-      "George E. Smith",
-      "Steven Sasson"
+      "Tardigrade",
+      "Araignée",
+      "Fourmi",
+      "Scarabée"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "q283",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
+    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
     "answers": [
-      "Alexander Graham Bell",
-      "Thomas Edison",
-      "Emile Berliner",
-      "Charles Cros"
+      "Pioneer 10",
+      "Voyager 1",
+      "New Horizons",
+      "Hubble"
     ],
     "correctIndex": 1
   },
   {
     "id": "q284",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
+    "text": "Quel métal reste liquide à température ambiante ?",
     "answers": [
-      "Robert Mushet",
-      "Henry Bessemer",
-      "William Siemens",
-      "Andrew Carnegie"
+      "Mercure",
+      "Plomb",
+      "Césium",
+      "Gallium"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q285",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel animal pond les plus gros œufs ?",
+    "answers": [
+      "Aigle",
+      "Autruche",
+      "Manchot empereur",
+      "Tortue luth"
     ],
     "correctIndex": 1
   },
   {
-    "id": "q285",
-    "category": "Inventions",
+    "id": "q286",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
+    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
     "answers": [
-      "Charles Wheatstone",
-      "William Fothergill Cooke",
-      "Samuel Morse",
-      "Alfred Vail"
+      "New Horizons",
+      "Pioneer 10",
+      "Voyager 1",
+      "Hubble"
     ],
     "correctIndex": 2
   },
   {
-    "id": "q286",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
-    "answers": [
-      "Charles Cros",
-      "Thomas Edison",
-      "Emile Berliner",
-      "Alexander Graham Bell"
-    ],
-    "correctIndex": 1
-  },
-  {
     "id": "q287",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
+    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
     "answers": [
-      "John Hopps",
-      "Wilson Greatbatch",
-      "Rune Elmqvist",
-      "Paul Zoll"
+      "Lion",
+      "Lévrier",
+      "Guépard",
+      "Antilope"
     ],
     "correctIndex": 2
   },
   {
     "id": "q288",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
+    "text": "Quel pays n'a pas d'armée officielle ?",
     "answers": [
-      "William Cullen",
-      "Jacob Perkins",
-      "Carl von Linde",
-      "Clarence Birdseye"
+      "Vatican",
+      "Islande",
+      "Monaco",
+      "Costa Rica"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "q289",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
+    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
     "answers": [
-      "Louis Ducos du Hauron",
-      "Sergey Prokudin-Gorsky",
-      "James Clerk Maxwell",
-      "Gabriel Lippmann"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q290",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "Andrew Carnegie",
-      "William Siemens",
-      "Robert Mushet",
-      "Henry Bessemer"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q291",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Russell Kirsch",
-      "Steven Sasson",
-      "Willard Boyle",
-      "George E. Smith"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q292",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "Sergey Prokudin-Gorsky",
-      "Louis Ducos du Hauron",
-      "Gabriel Lippmann",
-      "James Clerk Maxwell"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q293",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
-    "answers": [
-      "Alfred Vail",
-      "Samuel Morse",
-      "William Fothergill Cooke",
-      "Charles Wheatstone"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q294",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
-    "answers": [
-      "Henri Coandă",
-      "Albert Fonó",
-      "Frank Whittle",
-      "Hans von Ohain"
+      "Drosera",
+      "Dionée",
+      "Nepenthes",
+      "Utricularia"
     ],
     "correctIndex": 2
   },
   {
-    "id": "q295",
-    "category": "Inventions",
+    "id": "q290",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
+    "text": "Quel animal peut survivre dans l'espace ?",
     "answers": [
-      "Willard Boyle",
-      "Steven Sasson",
-      "George E. Smith",
-      "Russell Kirsch"
+      "Fourmi",
+      "Tardigrade",
+      "Scarabée",
+      "Araignée"
     ],
     "correctIndex": 1
   },
   {
-    "id": "q296",
-    "category": "Inventions",
+    "id": "q291",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
+    "text": "Quel pays n'a pas d'armée officielle ?",
     "answers": [
-      "Galileo Galilei",
-      "Antonie van Leeuwenhoek",
-      "Robert Hooke",
-      "Zacharias Janssen"
+      "Islande",
+      "Costa Rica",
+      "Monaco",
+      "Vatican"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q292",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel pays possède la plus longue côte maritime au monde ?",
+    "answers": [
+      "Canada",
+      "Indonésie",
+      "Russie",
+      "Australie"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q293",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel animal pond les plus gros œufs ?",
+    "answers": [
+      "Autruche",
+      "Manchot empereur",
+      "Aigle",
+      "Tortue luth"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q294",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel est le sport le plus pratiqué au monde ?",
+    "answers": [
+      "Tennis",
+      "Football",
+      "Basketball",
+      "Cricket"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q295",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel métal reste liquide à température ambiante ?",
+    "answers": [
+      "Césium",
+      "Gallium",
+      "Plomb",
+      "Mercure"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q296",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel est l'aliment le plus calorique au monde ?",
+    "answers": [
+      "Beurre",
+      "Fromage",
+      "Chocolat",
+      "Huile"
     ],
     "correctIndex": 3
   },
   {
     "id": "q297",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
+    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
     "answers": [
-      "Antonie van Leeuwenhoek",
-      "Robert Hooke",
-      "Galileo Galilei",
-      "Zacharias Janssen"
+      "Nepenthes",
+      "Dionée",
+      "Utricularia",
+      "Drosera"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q298",
+    "category": "Insolites",
+    "difficulty": "Difficile",
+    "text": "Quel animal peut survivre dans l'espace ?",
+    "answers": [
+      "Scarabée",
+      "Fourmi",
+      "Araignée",
+      "Tardigrade"
     ],
     "correctIndex": 3
   },
   {
-    "id": "q298",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Russell Kirsch",
-      "Steven Sasson",
-      "Willard Boyle",
-      "George E. Smith"
-    ],
-    "correctIndex": 1
-  },
-  {
     "id": "q299",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
+    "text": "Quel est l'aliment le plus calorique au monde ?",
     "answers": [
-      "Henri Coandă",
-      "Frank Whittle",
-      "Hans von Ohain",
-      "Albert Fonó"
+      "Chocolat",
+      "Beurre",
+      "Fromage",
+      "Huile"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "q300",
-    "category": "Inventions",
+    "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
+    "text": "Quel animal pond les plus gros œufs ?",
     "answers": [
-      "Charles Wheatstone",
-      "Samuel Morse",
-      "William Fothergill Cooke",
-      "Alfred Vail"
+      "Manchot empereur",
+      "Tortue luth",
+      "Aigle",
+      "Autruche"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   }
 ]
