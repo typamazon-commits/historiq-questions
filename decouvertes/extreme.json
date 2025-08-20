@@ -1,0 +1,3902 @@
+[
+  {
+    "id": "q1",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert le pôle Nord géographique ?",
+    "answers": [
+      "Robert Peary",
+      "Roald Amundsen",
+      "Fridtjof Nansen",
+      "Frederick Cook"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q2",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
+    "answers": [
+      "Ernest Shackleton",
+      "Robert Falcon Scott",
+      "Douglas Mawson",
+      "Roald Amundsen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q3",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
+    "answers": [
+      "Henry Hudson",
+      "Roald Amundsen",
+      "James Clark Ross",
+      "Willem Barentsz"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q4",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert la baie de San Francisco ?",
+    "answers": [
+      "Juan Rodríguez Cabrillo",
+      "Gaspar de Portolá",
+      "Sebastián Vizcaíno",
+      "Francisco de Ulloa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q5",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert la baie de San Francisco ?",
+    "answers": [
+      "Francisco de Ulloa",
+      "Sebastián Vizcaíno",
+      "Juan Rodríguez Cabrillo",
+      "Gaspar de Portolá"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q6",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'archipel Juan Fernández ?",
+    "answers": [
+      "William Dampier",
+      "Francis Drake",
+      "Juan Fernández",
+      "Pedro Sarmiento de Gamboa"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q7",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert la baie de San Francisco ?",
+    "answers": [
+      "Gaspar de Portolá",
+      "Juan Rodríguez Cabrillo",
+      "Sebastián Vizcaíno",
+      "Francisco de Ulloa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q8",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
+    "answers": [
+      "Roald Amundsen",
+      "Robert Falcon Scott",
+      "Ernest Shackleton",
+      "Douglas Mawson"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q9",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'île de Pâques en 1722 ?",
+    "answers": [
+      "James Cook",
+      "Pedro Fernandes de Queirós",
+      "Jacob Roggeveen",
+      "Abel Tasman"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q10",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
+    "answers": [
+      "Ibn Battuta",
+      "Ma Huan",
+      "Zheng He",
+      "Wang Dayuan"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q11",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
+    "answers": [
+      "Willem Barentsz",
+      "Roald Amundsen",
+      "Henry Hudson",
+      "James Clark Ross"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q12",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
+    "answers": [
+      "Vitous Béring",
+      "Alexei Chirikov",
+      "Mikhail Gvozdev",
+      "Ivan Kruzenshtern"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q13",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert la baie de San Francisco ?",
+    "answers": [
+      "Juan Rodríguez Cabrillo",
+      "Francisco de Ulloa",
+      "Sebastián Vizcaíno",
+      "Gaspar de Portolá"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q14",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
+    "answers": [
+      "Willem Barentsz",
+      "Henry Hudson",
+      "Roald Amundsen",
+      "James Clark Ross"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q15",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'île de Pâques en 1722 ?",
+    "answers": [
+      "James Cook",
+      "Pedro Fernandes de Queirós",
+      "Jacob Roggeveen",
+      "Abel Tasman"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q16",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
+    "answers": [
+      "Wang Dayuan",
+      "Ma Huan",
+      "Zheng He",
+      "Ibn Battuta"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q17",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
+    "answers": [
+      "Ernest Shackleton",
+      "Robert Falcon Scott",
+      "Douglas Mawson",
+      "Roald Amundsen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q18",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
+    "answers": [
+      "Ivan Kruzenshtern",
+      "Vitous Béring",
+      "Alexei Chirikov",
+      "Mikhail Gvozdev"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q19",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
+    "answers": [
+      "Henry Morton Stanley",
+      "John Hanning Speke",
+      "David Livingstone",
+      "Richard Francis Burton"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q20",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert le pôle Nord géographique ?",
+    "answers": [
+      "Fridtjof Nansen",
+      "Frederick Cook",
+      "Robert Peary",
+      "Roald Amundsen"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q21",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
+    "answers": [
+      "Zheng He",
+      "Ibn Battuta",
+      "Al-Masudi",
+      "Ahmad ibn Majid"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q22",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'île de Pâques en 1722 ?",
+    "answers": [
+      "Jacob Roggeveen",
+      "Pedro Fernandes de Queirós",
+      "James Cook",
+      "Abel Tasman"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q23",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
+    "answers": [
+      "Vitous Béring",
+      "Alexei Chirikov",
+      "Ivan Kruzenshtern",
+      "Mikhail Gvozdev"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q24",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'île de Pâques en 1722 ?",
+    "answers": [
+      "James Cook",
+      "Pedro Fernandes de Queirós",
+      "Jacob Roggeveen",
+      "Abel Tasman"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q25",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'archipel Juan Fernández ?",
+    "answers": [
+      "Pedro Sarmiento de Gamboa",
+      "Francis Drake",
+      "Juan Fernández",
+      "William Dampier"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q26",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
+    "answers": [
+      "Vitous Béring",
+      "Mikhail Gvozdev",
+      "Alexei Chirikov",
+      "Ivan Kruzenshtern"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q27",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'île de Pâques en 1722 ?",
+    "answers": [
+      "Jacob Roggeveen",
+      "James Cook",
+      "Abel Tasman",
+      "Pedro Fernandes de Queirós"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q28",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
+    "answers": [
+      "Al-Masudi",
+      "Zheng He",
+      "Ahmad ibn Majid",
+      "Ibn Battuta"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q29",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
+    "answers": [
+      "Ernest Shackleton",
+      "Roald Amundsen",
+      "Robert Falcon Scott",
+      "Douglas Mawson"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q30",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
+    "answers": [
+      "Alexei Chirikov",
+      "Vitous Béring",
+      "Mikhail Gvozdev",
+      "Ivan Kruzenshtern"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q31",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
+    "answers": [
+      "Henry Morton Stanley",
+      "David Livingstone",
+      "John Hanning Speke",
+      "Richard Francis Burton"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q32",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
+    "answers": [
+      "Ahmad ibn Majid",
+      "Al-Masudi",
+      "Zheng He",
+      "Ibn Battuta"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q33",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
+    "answers": [
+      "Wang Dayuan",
+      "Ibn Battuta",
+      "Ma Huan",
+      "Zheng He"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q34",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
+    "answers": [
+      "Roald Amundsen",
+      "Ernest Shackleton",
+      "Robert Falcon Scott",
+      "Douglas Mawson"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q35",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
+    "answers": [
+      "Zheng He",
+      "Wang Dayuan",
+      "Ma Huan",
+      "Ibn Battuta"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q36",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
+    "answers": [
+      "Willem Barentsz",
+      "Henry Hudson",
+      "James Clark Ross",
+      "Roald Amundsen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q37",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
+    "answers": [
+      "Douglas Mawson",
+      "Robert Falcon Scott",
+      "Roald Amundsen",
+      "Ernest Shackleton"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q38",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
+    "answers": [
+      "James Clark Ross",
+      "Willem Barentsz",
+      "Roald Amundsen",
+      "Henry Hudson"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q39",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
+    "answers": [
+      "Ibn Battuta",
+      "Wang Dayuan",
+      "Ma Huan",
+      "Zheng He"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q40",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
+    "answers": [
+      "Roald Amundsen",
+      "Willem Barentsz",
+      "Henry Hudson",
+      "James Clark Ross"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q41",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'archipel Juan Fernández ?",
+    "answers": [
+      "Francis Drake",
+      "Juan Fernández",
+      "William Dampier",
+      "Pedro Sarmiento de Gamboa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q42",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
+    "answers": [
+      "Ibn Battuta",
+      "Zheng He",
+      "Ma Huan",
+      "Wang Dayuan"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q43",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert le pôle Nord géographique ?",
+    "answers": [
+      "Fridtjof Nansen",
+      "Roald Amundsen",
+      "Frederick Cook",
+      "Robert Peary"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q44",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
+    "answers": [
+      "Mikhail Gvozdev",
+      "Ivan Kruzenshtern",
+      "Vitous Béring",
+      "Alexei Chirikov"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q45",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'île de Pâques en 1722 ?",
+    "answers": [
+      "James Cook",
+      "Pedro Fernandes de Queirós",
+      "Jacob Roggeveen",
+      "Abel Tasman"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q46",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'île de Pâques en 1722 ?",
+    "answers": [
+      "James Cook",
+      "Jacob Roggeveen",
+      "Pedro Fernandes de Queirós",
+      "Abel Tasman"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q47",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert le pôle Nord géographique ?",
+    "answers": [
+      "Roald Amundsen",
+      "Frederick Cook",
+      "Robert Peary",
+      "Fridtjof Nansen"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q48",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
+    "answers": [
+      "Henry Hudson",
+      "Willem Barentsz",
+      "Roald Amundsen",
+      "James Clark Ross"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q49",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
+    "answers": [
+      "Alexei Chirikov",
+      "Vitous Béring",
+      "Ivan Kruzenshtern",
+      "Mikhail Gvozdev"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q50",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'archipel Juan Fernández ?",
+    "answers": [
+      "Pedro Sarmiento de Gamboa",
+      "Juan Fernández",
+      "William Dampier",
+      "Francis Drake"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q51",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'archipel Juan Fernández ?",
+    "answers": [
+      "Pedro Sarmiento de Gamboa",
+      "Francis Drake",
+      "Juan Fernández",
+      "William Dampier"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q52",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert le pôle Nord géographique ?",
+    "answers": [
+      "Frederick Cook",
+      "Roald Amundsen",
+      "Robert Peary",
+      "Fridtjof Nansen"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q53",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
+    "answers": [
+      "Richard Francis Burton",
+      "Henry Morton Stanley",
+      "John Hanning Speke",
+      "David Livingstone"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q54",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert la baie de San Francisco ?",
+    "answers": [
+      "Sebastián Vizcaíno",
+      "Gaspar de Portolá",
+      "Juan Rodríguez Cabrillo",
+      "Francisco de Ulloa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q55",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
+    "answers": [
+      "David Livingstone",
+      "John Hanning Speke",
+      "Henry Morton Stanley",
+      "Richard Francis Burton"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q56",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'île de Pâques en 1722 ?",
+    "answers": [
+      "James Cook",
+      "Jacob Roggeveen",
+      "Abel Tasman",
+      "Pedro Fernandes de Queirós"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q57",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
+    "answers": [
+      "Zheng He",
+      "Al-Masudi",
+      "Ahmad ibn Majid",
+      "Ibn Battuta"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q58",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
+    "answers": [
+      "Willem Barentsz",
+      "James Clark Ross",
+      "Roald Amundsen",
+      "Henry Hudson"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q59",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
+    "answers": [
+      "Wang Dayuan",
+      "Ma Huan",
+      "Zheng He",
+      "Ibn Battuta"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q60",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
+    "answers": [
+      "Ibn Battuta",
+      "Zheng He",
+      "Al-Masudi",
+      "Ahmad ibn Majid"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q61",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert la baie de San Francisco ?",
+    "answers": [
+      "Gaspar de Portolá",
+      "Juan Rodríguez Cabrillo",
+      "Sebastián Vizcaíno",
+      "Francisco de Ulloa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q62",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert la baie de San Francisco ?",
+    "answers": [
+      "Juan Rodríguez Cabrillo",
+      "Francisco de Ulloa",
+      "Sebastián Vizcaíno",
+      "Gaspar de Portolá"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q63",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
+    "answers": [
+      "Ibn Battuta",
+      "Ahmad ibn Majid",
+      "Al-Masudi",
+      "Zheng He"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q64",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
+    "answers": [
+      "Robert Falcon Scott",
+      "Roald Amundsen",
+      "Douglas Mawson",
+      "Ernest Shackleton"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q65",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'île de Pâques en 1722 ?",
+    "answers": [
+      "Abel Tasman",
+      "Jacob Roggeveen",
+      "Pedro Fernandes de Queirós",
+      "James Cook"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q66",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
+    "answers": [
+      "Zheng He",
+      "Ma Huan",
+      "Ibn Battuta",
+      "Wang Dayuan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q67",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert le pôle Nord géographique ?",
+    "answers": [
+      "Roald Amundsen",
+      "Robert Peary",
+      "Frederick Cook",
+      "Fridtjof Nansen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q68",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
+    "answers": [
+      "Richard Francis Burton",
+      "Henry Morton Stanley",
+      "David Livingstone",
+      "John Hanning Speke"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q69",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
+    "answers": [
+      "Alexei Chirikov",
+      "Vitous Béring",
+      "Ivan Kruzenshtern",
+      "Mikhail Gvozdev"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q70",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert la baie de San Francisco ?",
+    "answers": [
+      "Sebastián Vizcaíno",
+      "Francisco de Ulloa",
+      "Juan Rodríguez Cabrillo",
+      "Gaspar de Portolá"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q71",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert la baie de San Francisco ?",
+    "answers": [
+      "Francisco de Ulloa",
+      "Juan Rodríguez Cabrillo",
+      "Gaspar de Portolá",
+      "Sebastián Vizcaíno"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q72",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
+    "answers": [
+      "Henry Morton Stanley",
+      "Richard Francis Burton",
+      "John Hanning Speke",
+      "David Livingstone"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q73",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'archipel Juan Fernández ?",
+    "answers": [
+      "Francis Drake",
+      "Pedro Sarmiento de Gamboa",
+      "Juan Fernández",
+      "William Dampier"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q74",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
+    "answers": [
+      "Mikhail Gvozdev",
+      "Ivan Kruzenshtern",
+      "Alexei Chirikov",
+      "Vitous Béring"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q75",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
+    "answers": [
+      "Ma Huan",
+      "Wang Dayuan",
+      "Ibn Battuta",
+      "Zheng He"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q76",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
+    "answers": [
+      "Ivan Kruzenshtern",
+      "Alexei Chirikov",
+      "Mikhail Gvozdev",
+      "Vitous Béring"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q77",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert la baie de San Francisco ?",
+    "answers": [
+      "Sebastián Vizcaíno",
+      "Juan Rodríguez Cabrillo",
+      "Gaspar de Portolá",
+      "Francisco de Ulloa"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q78",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
+    "answers": [
+      "Henry Morton Stanley",
+      "Richard Francis Burton",
+      "David Livingstone",
+      "John Hanning Speke"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q79",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
+    "answers": [
+      "Henry Morton Stanley",
+      "David Livingstone",
+      "Richard Francis Burton",
+      "John Hanning Speke"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q80",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
+    "answers": [
+      "Willem Barentsz",
+      "Henry Hudson",
+      "James Clark Ross",
+      "Roald Amundsen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q81",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
+    "answers": [
+      "Richard Francis Burton",
+      "John Hanning Speke",
+      "David Livingstone",
+      "Henry Morton Stanley"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q82",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
+    "answers": [
+      "John Hanning Speke",
+      "Henry Morton Stanley",
+      "Richard Francis Burton",
+      "David Livingstone"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q83",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
+    "answers": [
+      "Willem Barentsz",
+      "Henry Hudson",
+      "James Clark Ross",
+      "Roald Amundsen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q84",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
+    "answers": [
+      "Willem Barentsz",
+      "James Clark Ross",
+      "Henry Hudson",
+      "Roald Amundsen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q85",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert la baie de San Francisco ?",
+    "answers": [
+      "Juan Rodríguez Cabrillo",
+      "Sebastián Vizcaíno",
+      "Francisco de Ulloa",
+      "Gaspar de Portolá"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q86",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert le pôle Nord géographique ?",
+    "answers": [
+      "Roald Amundsen",
+      "Robert Peary",
+      "Fridtjof Nansen",
+      "Frederick Cook"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q87",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
+    "answers": [
+      "Willem Barentsz",
+      "Roald Amundsen",
+      "Henry Hudson",
+      "James Clark Ross"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q88",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
+    "answers": [
+      "Henry Hudson",
+      "Willem Barentsz",
+      "James Clark Ross",
+      "Roald Amundsen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q89",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert la baie de San Francisco ?",
+    "answers": [
+      "Sebastián Vizcaíno",
+      "Francisco de Ulloa",
+      "Juan Rodríguez Cabrillo",
+      "Gaspar de Portolá"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q90",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'archipel Juan Fernández ?",
+    "answers": [
+      "William Dampier",
+      "Juan Fernández",
+      "Francis Drake",
+      "Pedro Sarmiento de Gamboa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q91",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
+    "answers": [
+      "Henry Morton Stanley",
+      "Richard Francis Burton",
+      "John Hanning Speke",
+      "David Livingstone"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q92",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
+    "answers": [
+      "Douglas Mawson",
+      "Ernest Shackleton",
+      "Roald Amundsen",
+      "Robert Falcon Scott"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q93",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert le pôle Nord géographique ?",
+    "answers": [
+      "Robert Peary",
+      "Roald Amundsen",
+      "Fridtjof Nansen",
+      "Frederick Cook"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q94",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'île de Pâques en 1722 ?",
+    "answers": [
+      "Jacob Roggeveen",
+      "Abel Tasman",
+      "James Cook",
+      "Pedro Fernandes de Queirós"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q95",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'île de Pâques en 1722 ?",
+    "answers": [
+      "Jacob Roggeveen",
+      "James Cook",
+      "Abel Tasman",
+      "Pedro Fernandes de Queirós"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q96",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert le pôle Nord géographique ?",
+    "answers": [
+      "Fridtjof Nansen",
+      "Roald Amundsen",
+      "Frederick Cook",
+      "Robert Peary"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q97",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
+    "answers": [
+      "Vitous Béring",
+      "Alexei Chirikov",
+      "Mikhail Gvozdev",
+      "Ivan Kruzenshtern"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q98",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
+    "answers": [
+      "Zheng He",
+      "Ma Huan",
+      "Ibn Battuta",
+      "Wang Dayuan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q99",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert la baie de San Francisco ?",
+    "answers": [
+      "Juan Rodríguez Cabrillo",
+      "Gaspar de Portolá",
+      "Sebastián Vizcaíno",
+      "Francisco de Ulloa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q100",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
+    "answers": [
+      "Zheng He",
+      "Al-Masudi",
+      "Ibn Battuta",
+      "Ahmad ibn Majid"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q101",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
+    "answers": [
+      "Ahmad ibn Majid",
+      "Al-Masudi",
+      "Ibn Battuta",
+      "Zheng He"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q102",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'archipel Juan Fernández ?",
+    "answers": [
+      "Francis Drake",
+      "William Dampier",
+      "Pedro Sarmiento de Gamboa",
+      "Juan Fernández"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q103",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert la baie de San Francisco ?",
+    "answers": [
+      "Gaspar de Portolá",
+      "Francisco de Ulloa",
+      "Sebastián Vizcaíno",
+      "Juan Rodríguez Cabrillo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q104",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert la baie de San Francisco ?",
+    "answers": [
+      "Francisco de Ulloa",
+      "Sebastián Vizcaíno",
+      "Juan Rodríguez Cabrillo",
+      "Gaspar de Portolá"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q105",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
+    "answers": [
+      "Roald Amundsen",
+      "Willem Barentsz",
+      "James Clark Ross",
+      "Henry Hudson"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q106",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert le pôle Nord géographique ?",
+    "answers": [
+      "Fridtjof Nansen",
+      "Roald Amundsen",
+      "Robert Peary",
+      "Frederick Cook"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q107",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
+    "answers": [
+      "Robert Falcon Scott",
+      "Douglas Mawson",
+      "Ernest Shackleton",
+      "Roald Amundsen"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q108",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert la baie de San Francisco ?",
+    "answers": [
+      "Juan Rodríguez Cabrillo",
+      "Gaspar de Portolá",
+      "Francisco de Ulloa",
+      "Sebastián Vizcaíno"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q109",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
+    "answers": [
+      "Richard Francis Burton",
+      "David Livingstone",
+      "John Hanning Speke",
+      "Henry Morton Stanley"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q110",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
+    "answers": [
+      "Ivan Kruzenshtern",
+      "Alexei Chirikov",
+      "Mikhail Gvozdev",
+      "Vitous Béring"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q111",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
+    "answers": [
+      "Ahmad ibn Majid",
+      "Al-Masudi",
+      "Ibn Battuta",
+      "Zheng He"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q112",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
+    "answers": [
+      "Douglas Mawson",
+      "Ernest Shackleton",
+      "Robert Falcon Scott",
+      "Roald Amundsen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q113",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert la baie de San Francisco ?",
+    "answers": [
+      "Gaspar de Portolá",
+      "Francisco de Ulloa",
+      "Sebastián Vizcaíno",
+      "Juan Rodríguez Cabrillo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q114",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
+    "answers": [
+      "Ernest Shackleton",
+      "Roald Amundsen",
+      "Robert Falcon Scott",
+      "Douglas Mawson"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q115",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert la baie de San Francisco ?",
+    "answers": [
+      "Francisco de Ulloa",
+      "Sebastián Vizcaíno",
+      "Juan Rodríguez Cabrillo",
+      "Gaspar de Portolá"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q116",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
+    "answers": [
+      "Henry Hudson",
+      "James Clark Ross",
+      "Willem Barentsz",
+      "Roald Amundsen"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q117",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
+    "answers": [
+      "Roald Amundsen",
+      "Willem Barentsz",
+      "James Clark Ross",
+      "Henry Hudson"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q118",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
+    "answers": [
+      "Vitous Béring",
+      "Alexei Chirikov",
+      "Mikhail Gvozdev",
+      "Ivan Kruzenshtern"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q119",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
+    "answers": [
+      "Douglas Mawson",
+      "Robert Falcon Scott",
+      "Ernest Shackleton",
+      "Roald Amundsen"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q120",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
+    "answers": [
+      "Willem Barentsz",
+      "Roald Amundsen",
+      "James Clark Ross",
+      "Henry Hudson"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q121",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
+    "answers": [
+      "Zheng He",
+      "Al-Masudi",
+      "Ibn Battuta",
+      "Ahmad ibn Majid"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q122",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'île de Pâques en 1722 ?",
+    "answers": [
+      "Jacob Roggeveen",
+      "James Cook",
+      "Pedro Fernandes de Queirós",
+      "Abel Tasman"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q123",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
+    "answers": [
+      "Robert Falcon Scott",
+      "Ernest Shackleton",
+      "Roald Amundsen",
+      "Douglas Mawson"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q124",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'île de Pâques en 1722 ?",
+    "answers": [
+      "James Cook",
+      "Abel Tasman",
+      "Pedro Fernandes de Queirós",
+      "Jacob Roggeveen"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q125",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'archipel Juan Fernández ?",
+    "answers": [
+      "Francis Drake",
+      "William Dampier",
+      "Pedro Sarmiento de Gamboa",
+      "Juan Fernández"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q126",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
+    "answers": [
+      "Ahmad ibn Majid",
+      "Ibn Battuta",
+      "Al-Masudi",
+      "Zheng He"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q127",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
+    "answers": [
+      "James Clark Ross",
+      "Willem Barentsz",
+      "Roald Amundsen",
+      "Henry Hudson"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q128",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'archipel Juan Fernández ?",
+    "answers": [
+      "Pedro Sarmiento de Gamboa",
+      "William Dampier",
+      "Francis Drake",
+      "Juan Fernández"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q129",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
+    "answers": [
+      "Wang Dayuan",
+      "Ma Huan",
+      "Zheng He",
+      "Ibn Battuta"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q130",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
+    "answers": [
+      "Zheng He",
+      "Ahmad ibn Majid",
+      "Ibn Battuta",
+      "Al-Masudi"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q131",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
+    "answers": [
+      "Henry Morton Stanley",
+      "Richard Francis Burton",
+      "David Livingstone",
+      "John Hanning Speke"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q132",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'archipel Juan Fernández ?",
+    "answers": [
+      "William Dampier",
+      "Juan Fernández",
+      "Francis Drake",
+      "Pedro Sarmiento de Gamboa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q133",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
+    "answers": [
+      "Vitous Béring",
+      "Ivan Kruzenshtern",
+      "Alexei Chirikov",
+      "Mikhail Gvozdev"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q134",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
+    "answers": [
+      "Mikhail Gvozdev",
+      "Ivan Kruzenshtern",
+      "Vitous Béring",
+      "Alexei Chirikov"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q135",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'archipel Juan Fernández ?",
+    "answers": [
+      "Pedro Sarmiento de Gamboa",
+      "William Dampier",
+      "Francis Drake",
+      "Juan Fernández"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q136",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
+    "answers": [
+      "Zheng He",
+      "Al-Masudi",
+      "Ibn Battuta",
+      "Ahmad ibn Majid"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q137",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
+    "answers": [
+      "David Livingstone",
+      "Richard Francis Burton",
+      "John Hanning Speke",
+      "Henry Morton Stanley"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q138",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
+    "answers": [
+      "Richard Francis Burton",
+      "David Livingstone",
+      "Henry Morton Stanley",
+      "John Hanning Speke"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q139",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
+    "answers": [
+      "Ernest Shackleton",
+      "Roald Amundsen",
+      "Robert Falcon Scott",
+      "Douglas Mawson"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q140",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
+    "answers": [
+      "James Clark Ross",
+      "Roald Amundsen",
+      "Willem Barentsz",
+      "Henry Hudson"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q141",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert le pôle Nord géographique ?",
+    "answers": [
+      "Fridtjof Nansen",
+      "Roald Amundsen",
+      "Robert Peary",
+      "Frederick Cook"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q142",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
+    "answers": [
+      "John Hanning Speke",
+      "Richard Francis Burton",
+      "Henry Morton Stanley",
+      "David Livingstone"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q143",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
+    "answers": [
+      "Al-Masudi",
+      "Ibn Battuta",
+      "Zheng He",
+      "Ahmad ibn Majid"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q144",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
+    "answers": [
+      "James Clark Ross",
+      "Willem Barentsz",
+      "Henry Hudson",
+      "Roald Amundsen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q145",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
+    "answers": [
+      "Alexei Chirikov",
+      "Vitous Béring",
+      "Ivan Kruzenshtern",
+      "Mikhail Gvozdev"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q146",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
+    "answers": [
+      "Ivan Kruzenshtern",
+      "Mikhail Gvozdev",
+      "Vitous Béring",
+      "Alexei Chirikov"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q147",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert la baie de San Francisco ?",
+    "answers": [
+      "Sebastián Vizcaíno",
+      "Juan Rodríguez Cabrillo",
+      "Francisco de Ulloa",
+      "Gaspar de Portolá"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q148",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
+    "answers": [
+      "John Hanning Speke",
+      "Richard Francis Burton",
+      "David Livingstone",
+      "Henry Morton Stanley"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q149",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
+    "answers": [
+      "Vitous Béring",
+      "Mikhail Gvozdev",
+      "Alexei Chirikov",
+      "Ivan Kruzenshtern"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q150",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
+    "answers": [
+      "Zheng He",
+      "Ahmad ibn Majid",
+      "Al-Masudi",
+      "Ibn Battuta"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q151",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
+    "answers": [
+      "Ahmad ibn Majid",
+      "Zheng He",
+      "Ibn Battuta",
+      "Al-Masudi"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q152",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
+    "answers": [
+      "Ma Huan",
+      "Wang Dayuan",
+      "Ibn Battuta",
+      "Zheng He"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q153",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
+    "answers": [
+      "Al-Masudi",
+      "Zheng He",
+      "Ahmad ibn Majid",
+      "Ibn Battuta"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q154",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
+    "answers": [
+      "David Livingstone",
+      "Henry Morton Stanley",
+      "Richard Francis Burton",
+      "John Hanning Speke"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q155",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'île de Pâques en 1722 ?",
+    "answers": [
+      "Pedro Fernandes de Queirós",
+      "James Cook",
+      "Jacob Roggeveen",
+      "Abel Tasman"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q156",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
+    "answers": [
+      "Ivan Kruzenshtern",
+      "Mikhail Gvozdev",
+      "Vitous Béring",
+      "Alexei Chirikov"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q157",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
+    "answers": [
+      "Ahmad ibn Majid",
+      "Al-Masudi",
+      "Zheng He",
+      "Ibn Battuta"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q158",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
+    "answers": [
+      "Roald Amundsen",
+      "Robert Falcon Scott",
+      "Douglas Mawson",
+      "Ernest Shackleton"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q159",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
+    "answers": [
+      "Willem Barentsz",
+      "James Clark Ross",
+      "Henry Hudson",
+      "Roald Amundsen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q160",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'archipel Juan Fernández ?",
+    "answers": [
+      "William Dampier",
+      "Pedro Sarmiento de Gamboa",
+      "Juan Fernández",
+      "Francis Drake"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q161",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert la baie de San Francisco ?",
+    "answers": [
+      "Francisco de Ulloa",
+      "Juan Rodríguez Cabrillo",
+      "Sebastián Vizcaíno",
+      "Gaspar de Portolá"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q162",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
+    "answers": [
+      "Ibn Battuta",
+      "Zheng He",
+      "Al-Masudi",
+      "Ahmad ibn Majid"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q163",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'archipel Juan Fernández ?",
+    "answers": [
+      "Pedro Sarmiento de Gamboa",
+      "Francis Drake",
+      "Juan Fernández",
+      "William Dampier"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q164",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
+    "answers": [
+      "Willem Barentsz",
+      "James Clark Ross",
+      "Roald Amundsen",
+      "Henry Hudson"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q165",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
+    "answers": [
+      "Douglas Mawson",
+      "Ernest Shackleton",
+      "Roald Amundsen",
+      "Robert Falcon Scott"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q166",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'archipel Juan Fernández ?",
+    "answers": [
+      "Francis Drake",
+      "William Dampier",
+      "Juan Fernández",
+      "Pedro Sarmiento de Gamboa"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q167",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
+    "answers": [
+      "Mikhail Gvozdev",
+      "Ivan Kruzenshtern",
+      "Alexei Chirikov",
+      "Vitous Béring"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q168",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
+    "answers": [
+      "Zheng He",
+      "Ibn Battuta",
+      "Al-Masudi",
+      "Ahmad ibn Majid"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q169",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert la baie de San Francisco ?",
+    "answers": [
+      "Gaspar de Portolá",
+      "Francisco de Ulloa",
+      "Juan Rodríguez Cabrillo",
+      "Sebastián Vizcaíno"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q170",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
+    "answers": [
+      "Zheng He",
+      "Al-Masudi",
+      "Ahmad ibn Majid",
+      "Ibn Battuta"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q171",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert la baie de San Francisco ?",
+    "answers": [
+      "Francisco de Ulloa",
+      "Gaspar de Portolá",
+      "Juan Rodríguez Cabrillo",
+      "Sebastián Vizcaíno"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q172",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert le pôle Nord géographique ?",
+    "answers": [
+      "Frederick Cook",
+      "Fridtjof Nansen",
+      "Roald Amundsen",
+      "Robert Peary"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q173",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'archipel Juan Fernández ?",
+    "answers": [
+      "Pedro Sarmiento de Gamboa",
+      "Francis Drake",
+      "Juan Fernández",
+      "William Dampier"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q174",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert la baie de San Francisco ?",
+    "answers": [
+      "Francisco de Ulloa",
+      "Sebastián Vizcaíno",
+      "Juan Rodríguez Cabrillo",
+      "Gaspar de Portolá"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q175",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert le pôle Nord géographique ?",
+    "answers": [
+      "Roald Amundsen",
+      "Frederick Cook",
+      "Robert Peary",
+      "Fridtjof Nansen"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q176",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
+    "answers": [
+      "Ernest Shackleton",
+      "Robert Falcon Scott",
+      "Roald Amundsen",
+      "Douglas Mawson"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q177",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
+    "answers": [
+      "Al-Masudi",
+      "Ahmad ibn Majid",
+      "Zheng He",
+      "Ibn Battuta"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q178",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
+    "answers": [
+      "Wang Dayuan",
+      "Ibn Battuta",
+      "Ma Huan",
+      "Zheng He"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q179",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
+    "answers": [
+      "Alexei Chirikov",
+      "Mikhail Gvozdev",
+      "Vitous Béring",
+      "Ivan Kruzenshtern"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q180",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
+    "answers": [
+      "Ahmad ibn Majid",
+      "Zheng He",
+      "Ibn Battuta",
+      "Al-Masudi"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q181",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
+    "answers": [
+      "Wang Dayuan",
+      "Ibn Battuta",
+      "Zheng He",
+      "Ma Huan"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q182",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'île de Pâques en 1722 ?",
+    "answers": [
+      "James Cook",
+      "Abel Tasman",
+      "Jacob Roggeveen",
+      "Pedro Fernandes de Queirós"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q183",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
+    "answers": [
+      "Wang Dayuan",
+      "Zheng He",
+      "Ma Huan",
+      "Ibn Battuta"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q184",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
+    "answers": [
+      "James Clark Ross",
+      "Henry Hudson",
+      "Roald Amundsen",
+      "Willem Barentsz"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q185",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert le pôle Nord géographique ?",
+    "answers": [
+      "Fridtjof Nansen",
+      "Robert Peary",
+      "Roald Amundsen",
+      "Frederick Cook"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q186",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
+    "answers": [
+      "Robert Falcon Scott",
+      "Ernest Shackleton",
+      "Roald Amundsen",
+      "Douglas Mawson"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q187",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'archipel Juan Fernández ?",
+    "answers": [
+      "Francis Drake",
+      "Pedro Sarmiento de Gamboa",
+      "Juan Fernández",
+      "William Dampier"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q188",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert le pôle Nord géographique ?",
+    "answers": [
+      "Frederick Cook",
+      "Roald Amundsen",
+      "Robert Peary",
+      "Fridtjof Nansen"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q189",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
+    "answers": [
+      "Ma Huan",
+      "Wang Dayuan",
+      "Ibn Battuta",
+      "Zheng He"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q190",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
+    "answers": [
+      "Robert Falcon Scott",
+      "Roald Amundsen",
+      "Ernest Shackleton",
+      "Douglas Mawson"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q191",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'île de Pâques en 1722 ?",
+    "answers": [
+      "Jacob Roggeveen",
+      "James Cook",
+      "Pedro Fernandes de Queirós",
+      "Abel Tasman"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q192",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
+    "answers": [
+      "Roald Amundsen",
+      "Ernest Shackleton",
+      "Robert Falcon Scott",
+      "Douglas Mawson"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q193",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert le pôle Nord géographique ?",
+    "answers": [
+      "Frederick Cook",
+      "Roald Amundsen",
+      "Robert Peary",
+      "Fridtjof Nansen"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q194",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
+    "answers": [
+      "Ivan Kruzenshtern",
+      "Mikhail Gvozdev",
+      "Vitous Béring",
+      "Alexei Chirikov"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q195",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
+    "answers": [
+      "John Hanning Speke",
+      "David Livingstone",
+      "Richard Francis Burton",
+      "Henry Morton Stanley"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q196",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
+    "answers": [
+      "Richard Francis Burton",
+      "John Hanning Speke",
+      "Henry Morton Stanley",
+      "David Livingstone"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q197",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
+    "answers": [
+      "Roald Amundsen",
+      "Douglas Mawson",
+      "Ernest Shackleton",
+      "Robert Falcon Scott"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q198",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'île de Pâques en 1722 ?",
+    "answers": [
+      "Pedro Fernandes de Queirós",
+      "James Cook",
+      "Jacob Roggeveen",
+      "Abel Tasman"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q199",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
+    "answers": [
+      "Richard Francis Burton",
+      "John Hanning Speke",
+      "Henry Morton Stanley",
+      "David Livingstone"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q200",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert la baie de San Francisco ?",
+    "answers": [
+      "Francisco de Ulloa",
+      "Juan Rodríguez Cabrillo",
+      "Gaspar de Portolá",
+      "Sebastián Vizcaíno"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q201",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
+    "answers": [
+      "David Livingstone",
+      "John Hanning Speke",
+      "Henry Morton Stanley",
+      "Richard Francis Burton"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q202",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'île de Pâques en 1722 ?",
+    "answers": [
+      "Pedro Fernandes de Queirós",
+      "Abel Tasman",
+      "James Cook",
+      "Jacob Roggeveen"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q203",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
+    "answers": [
+      "James Clark Ross",
+      "Willem Barentsz",
+      "Henry Hudson",
+      "Roald Amundsen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q204",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
+    "answers": [
+      "Zheng He",
+      "Ibn Battuta",
+      "Al-Masudi",
+      "Ahmad ibn Majid"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q205",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert le pôle Nord géographique ?",
+    "answers": [
+      "Fridtjof Nansen",
+      "Frederick Cook",
+      "Roald Amundsen",
+      "Robert Peary"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q206",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
+    "answers": [
+      "Henry Morton Stanley",
+      "David Livingstone",
+      "Richard Francis Burton",
+      "John Hanning Speke"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q207",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
+    "answers": [
+      "Roald Amundsen",
+      "Robert Falcon Scott",
+      "Douglas Mawson",
+      "Ernest Shackleton"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q208",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert le pôle Nord géographique ?",
+    "answers": [
+      "Fridtjof Nansen",
+      "Roald Amundsen",
+      "Robert Peary",
+      "Frederick Cook"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q209",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
+    "answers": [
+      "Henry Morton Stanley",
+      "John Hanning Speke",
+      "Richard Francis Burton",
+      "David Livingstone"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q210",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
+    "answers": [
+      "Ibn Battuta",
+      "Wang Dayuan",
+      "Zheng He",
+      "Ma Huan"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q211",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
+    "answers": [
+      "Roald Amundsen",
+      "James Clark Ross",
+      "Henry Hudson",
+      "Willem Barentsz"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q212",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
+    "answers": [
+      "Henry Hudson",
+      "Roald Amundsen",
+      "James Clark Ross",
+      "Willem Barentsz"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q213",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'archipel Juan Fernández ?",
+    "answers": [
+      "Juan Fernández",
+      "William Dampier",
+      "Pedro Sarmiento de Gamboa",
+      "Francis Drake"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q214",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert le pôle Nord géographique ?",
+    "answers": [
+      "Roald Amundsen",
+      "Robert Peary",
+      "Fridtjof Nansen",
+      "Frederick Cook"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q215",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
+    "answers": [
+      "Ibn Battuta",
+      "Al-Masudi",
+      "Ahmad ibn Majid",
+      "Zheng He"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q216",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'île de Pâques en 1722 ?",
+    "answers": [
+      "Pedro Fernandes de Queirós",
+      "Abel Tasman",
+      "James Cook",
+      "Jacob Roggeveen"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q217",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
+    "answers": [
+      "Ernest Shackleton",
+      "Robert Falcon Scott",
+      "Roald Amundsen",
+      "Douglas Mawson"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q218",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
+    "answers": [
+      "Roald Amundsen",
+      "Henry Hudson",
+      "James Clark Ross",
+      "Willem Barentsz"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q219",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
+    "answers": [
+      "Ma Huan",
+      "Zheng He",
+      "Wang Dayuan",
+      "Ibn Battuta"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q220",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
+    "answers": [
+      "John Hanning Speke",
+      "Richard Francis Burton",
+      "David Livingstone",
+      "Henry Morton Stanley"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q221",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
+    "answers": [
+      "Ahmad ibn Majid",
+      "Ibn Battuta",
+      "Al-Masudi",
+      "Zheng He"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q222",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
+    "answers": [
+      "James Clark Ross",
+      "Henry Hudson",
+      "Willem Barentsz",
+      "Roald Amundsen"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q223",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'archipel Juan Fernández ?",
+    "answers": [
+      "Juan Fernández",
+      "Pedro Sarmiento de Gamboa",
+      "Francis Drake",
+      "William Dampier"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q224",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert le pôle Nord géographique ?",
+    "answers": [
+      "Roald Amundsen",
+      "Frederick Cook",
+      "Fridtjof Nansen",
+      "Robert Peary"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q225",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
+    "answers": [
+      "Ma Huan",
+      "Wang Dayuan",
+      "Ibn Battuta",
+      "Zheng He"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q226",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'île de Pâques en 1722 ?",
+    "answers": [
+      "Pedro Fernandes de Queirós",
+      "Abel Tasman",
+      "Jacob Roggeveen",
+      "James Cook"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q227",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
+    "answers": [
+      "Ibn Battuta",
+      "Ahmad ibn Majid",
+      "Al-Masudi",
+      "Zheng He"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q228",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'archipel Juan Fernández ?",
+    "answers": [
+      "Pedro Sarmiento de Gamboa",
+      "Juan Fernández",
+      "William Dampier",
+      "Francis Drake"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q229",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
+    "answers": [
+      "Ahmad ibn Majid",
+      "Al-Masudi",
+      "Ibn Battuta",
+      "Zheng He"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q230",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
+    "answers": [
+      "Willem Barentsz",
+      "James Clark Ross",
+      "Roald Amundsen",
+      "Henry Hudson"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q231",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'archipel Juan Fernández ?",
+    "answers": [
+      "Pedro Sarmiento de Gamboa",
+      "Francis Drake",
+      "William Dampier",
+      "Juan Fernández"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q232",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
+    "answers": [
+      "Roald Amundsen",
+      "Robert Falcon Scott",
+      "Douglas Mawson",
+      "Ernest Shackleton"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q233",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
+    "answers": [
+      "Al-Masudi",
+      "Zheng He",
+      "Ahmad ibn Majid",
+      "Ibn Battuta"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q234",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
+    "answers": [
+      "Ma Huan",
+      "Wang Dayuan",
+      "Zheng He",
+      "Ibn Battuta"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q235",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'archipel Juan Fernández ?",
+    "answers": [
+      "Juan Fernández",
+      "Pedro Sarmiento de Gamboa",
+      "Francis Drake",
+      "William Dampier"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q236",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
+    "answers": [
+      "Roald Amundsen",
+      "Robert Falcon Scott",
+      "Douglas Mawson",
+      "Ernest Shackleton"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q237",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
+    "answers": [
+      "Douglas Mawson",
+      "Ernest Shackleton",
+      "Robert Falcon Scott",
+      "Roald Amundsen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q238",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
+    "answers": [
+      "Roald Amundsen",
+      "Douglas Mawson",
+      "Robert Falcon Scott",
+      "Ernest Shackleton"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q239",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'archipel Juan Fernández ?",
+    "answers": [
+      "Francis Drake",
+      "Juan Fernández",
+      "Pedro Sarmiento de Gamboa",
+      "William Dampier"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q240",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
+    "answers": [
+      "Zheng He",
+      "Al-Masudi",
+      "Ahmad ibn Majid",
+      "Ibn Battuta"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q241",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert le pôle Nord géographique ?",
+    "answers": [
+      "Fridtjof Nansen",
+      "Roald Amundsen",
+      "Frederick Cook",
+      "Robert Peary"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q242",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
+    "answers": [
+      "Roald Amundsen",
+      "Henry Hudson",
+      "James Clark Ross",
+      "Willem Barentsz"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q243",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
+    "answers": [
+      "Willem Barentsz",
+      "Roald Amundsen",
+      "James Clark Ross",
+      "Henry Hudson"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q244",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'archipel Juan Fernández ?",
+    "answers": [
+      "Juan Fernández",
+      "William Dampier",
+      "Francis Drake",
+      "Pedro Sarmiento de Gamboa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q245",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
+    "answers": [
+      "Alexei Chirikov",
+      "Vitous Béring",
+      "Mikhail Gvozdev",
+      "Ivan Kruzenshtern"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q246",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'archipel Juan Fernández ?",
+    "answers": [
+      "William Dampier",
+      "Juan Fernández",
+      "Pedro Sarmiento de Gamboa",
+      "Francis Drake"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q247",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'archipel Juan Fernández ?",
+    "answers": [
+      "Pedro Sarmiento de Gamboa",
+      "Francis Drake",
+      "Juan Fernández",
+      "William Dampier"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q248",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
+    "answers": [
+      "Ahmad ibn Majid",
+      "Zheng He",
+      "Ibn Battuta",
+      "Al-Masudi"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q249",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
+    "answers": [
+      "Douglas Mawson",
+      "Robert Falcon Scott",
+      "Ernest Shackleton",
+      "Roald Amundsen"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q250",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
+    "answers": [
+      "David Livingstone",
+      "John Hanning Speke",
+      "Henry Morton Stanley",
+      "Richard Francis Burton"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q251",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
+    "answers": [
+      "Al-Masudi",
+      "Ahmad ibn Majid",
+      "Ibn Battuta",
+      "Zheng He"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q252",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'île de Pâques en 1722 ?",
+    "answers": [
+      "James Cook",
+      "Jacob Roggeveen",
+      "Abel Tasman",
+      "Pedro Fernandes de Queirós"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q253",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert le pôle Nord géographique ?",
+    "answers": [
+      "Frederick Cook",
+      "Roald Amundsen",
+      "Fridtjof Nansen",
+      "Robert Peary"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q254",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
+    "answers": [
+      "Mikhail Gvozdev",
+      "Vitous Béring",
+      "Alexei Chirikov",
+      "Ivan Kruzenshtern"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q255",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
+    "answers": [
+      "John Hanning Speke",
+      "Richard Francis Burton",
+      "Henry Morton Stanley",
+      "David Livingstone"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q256",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
+    "answers": [
+      "Ibn Battuta",
+      "Al-Masudi",
+      "Ahmad ibn Majid",
+      "Zheng He"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q257",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
+    "answers": [
+      "Roald Amundsen",
+      "Henry Hudson",
+      "Willem Barentsz",
+      "James Clark Ross"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q258",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
+    "answers": [
+      "Ernest Shackleton",
+      "Robert Falcon Scott",
+      "Douglas Mawson",
+      "Roald Amundsen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q259",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
+    "answers": [
+      "Al-Masudi",
+      "Ibn Battuta",
+      "Ahmad ibn Majid",
+      "Zheng He"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q260",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
+    "answers": [
+      "Vitous Béring",
+      "Mikhail Gvozdev",
+      "Ivan Kruzenshtern",
+      "Alexei Chirikov"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q261",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
+    "answers": [
+      "Ibn Battuta",
+      "Zheng He",
+      "Ahmad ibn Majid",
+      "Al-Masudi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q262",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'île de Pâques en 1722 ?",
+    "answers": [
+      "Jacob Roggeveen",
+      "Abel Tasman",
+      "James Cook",
+      "Pedro Fernandes de Queirós"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q263",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
+    "answers": [
+      "Roald Amundsen",
+      "Willem Barentsz",
+      "Henry Hudson",
+      "James Clark Ross"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q264",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
+    "answers": [
+      "Robert Falcon Scott",
+      "Douglas Mawson",
+      "Ernest Shackleton",
+      "Roald Amundsen"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q265",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
+    "answers": [
+      "Vitous Béring",
+      "Ivan Kruzenshtern",
+      "Alexei Chirikov",
+      "Mikhail Gvozdev"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q266",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'île de Pâques en 1722 ?",
+    "answers": [
+      "Abel Tasman",
+      "Jacob Roggeveen",
+      "Pedro Fernandes de Queirós",
+      "James Cook"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q267",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'archipel Juan Fernández ?",
+    "answers": [
+      "Pedro Sarmiento de Gamboa",
+      "William Dampier",
+      "Francis Drake",
+      "Juan Fernández"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q268",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'archipel Juan Fernández ?",
+    "answers": [
+      "Juan Fernández",
+      "Pedro Sarmiento de Gamboa",
+      "Francis Drake",
+      "William Dampier"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q269",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
+    "answers": [
+      "Willem Barentsz",
+      "James Clark Ross",
+      "Roald Amundsen",
+      "Henry Hudson"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q270",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
+    "answers": [
+      "David Livingstone",
+      "Henry Morton Stanley",
+      "Richard Francis Burton",
+      "John Hanning Speke"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q271",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert le pôle Nord géographique ?",
+    "answers": [
+      "Robert Peary",
+      "Frederick Cook",
+      "Fridtjof Nansen",
+      "Roald Amundsen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q272",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
+    "answers": [
+      "Zheng He",
+      "Ibn Battuta",
+      "Ma Huan",
+      "Wang Dayuan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q273",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
+    "answers": [
+      "Robert Falcon Scott",
+      "Ernest Shackleton",
+      "Douglas Mawson",
+      "Roald Amundsen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q274",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
+    "answers": [
+      "Ibn Battuta",
+      "Wang Dayuan",
+      "Ma Huan",
+      "Zheng He"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q275",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
+    "answers": [
+      "Alexei Chirikov",
+      "Vitous Béring",
+      "Ivan Kruzenshtern",
+      "Mikhail Gvozdev"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q276",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert la baie de San Francisco ?",
+    "answers": [
+      "Sebastián Vizcaíno",
+      "Gaspar de Portolá",
+      "Juan Rodríguez Cabrillo",
+      "Francisco de Ulloa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q277",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
+    "answers": [
+      "Roald Amundsen",
+      "Willem Barentsz",
+      "Henry Hudson",
+      "James Clark Ross"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q278",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
+    "answers": [
+      "Willem Barentsz",
+      "Roald Amundsen",
+      "James Clark Ross",
+      "Henry Hudson"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q279",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert la baie de San Francisco ?",
+    "answers": [
+      "Gaspar de Portolá",
+      "Sebastián Vizcaíno",
+      "Juan Rodríguez Cabrillo",
+      "Francisco de Ulloa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q280",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
+    "answers": [
+      "Richard Francis Burton",
+      "John Hanning Speke",
+      "Henry Morton Stanley",
+      "David Livingstone"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q281",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
+    "answers": [
+      "Zheng He",
+      "Ahmad ibn Majid",
+      "Al-Masudi",
+      "Ibn Battuta"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q282",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
+    "answers": [
+      "Ahmad ibn Majid",
+      "Zheng He",
+      "Al-Masudi",
+      "Ibn Battuta"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q283",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert le pôle Nord géographique ?",
+    "answers": [
+      "Robert Peary",
+      "Roald Amundsen",
+      "Frederick Cook",
+      "Fridtjof Nansen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q284",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
+    "answers": [
+      "Richard Francis Burton",
+      "Henry Morton Stanley",
+      "John Hanning Speke",
+      "David Livingstone"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q285",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'île de Pâques en 1722 ?",
+    "answers": [
+      "Jacob Roggeveen",
+      "Abel Tasman",
+      "Pedro Fernandes de Queirós",
+      "James Cook"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q286",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
+    "answers": [
+      "Henry Hudson",
+      "James Clark Ross",
+      "Roald Amundsen",
+      "Willem Barentsz"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q287",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
+    "answers": [
+      "Henry Morton Stanley",
+      "John Hanning Speke",
+      "David Livingstone",
+      "Richard Francis Burton"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q288",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
+    "answers": [
+      "John Hanning Speke",
+      "David Livingstone",
+      "Richard Francis Burton",
+      "Henry Morton Stanley"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q289",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
+    "answers": [
+      "Ivan Kruzenshtern",
+      "Alexei Chirikov",
+      "Vitous Béring",
+      "Mikhail Gvozdev"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q290",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
+    "answers": [
+      "Zheng He",
+      "Ibn Battuta",
+      "Ma Huan",
+      "Wang Dayuan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q291",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert la baie de San Francisco ?",
+    "answers": [
+      "Sebastián Vizcaíno",
+      "Francisco de Ulloa",
+      "Juan Rodríguez Cabrillo",
+      "Gaspar de Portolá"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q292",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
+    "answers": [
+      "Ibn Battuta",
+      "Wang Dayuan",
+      "Zheng He",
+      "Ma Huan"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q293",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
+    "answers": [
+      "Ahmad ibn Majid",
+      "Zheng He",
+      "Al-Masudi",
+      "Ibn Battuta"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q294",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
+    "answers": [
+      "John Hanning Speke",
+      "Richard Francis Burton",
+      "Henry Morton Stanley",
+      "David Livingstone"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q295",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert l'archipel Juan Fernández ?",
+    "answers": [
+      "Pedro Sarmiento de Gamboa",
+      "Juan Fernández",
+      "Francis Drake",
+      "William Dampier"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q296",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert la baie de San Francisco ?",
+    "answers": [
+      "Gaspar de Portolá",
+      "Juan Rodríguez Cabrillo",
+      "Sebastián Vizcaíno",
+      "Francisco de Ulloa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q297",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
+    "answers": [
+      "Richard Francis Burton",
+      "David Livingstone",
+      "Henry Morton Stanley",
+      "John Hanning Speke"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q298",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
+    "answers": [
+      "Henry Hudson",
+      "Roald Amundsen",
+      "Willem Barentsz",
+      "James Clark Ross"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q299",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
+    "answers": [
+      "Richard Francis Burton",
+      "John Hanning Speke",
+      "David Livingstone",
+      "Henry Morton Stanley"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q300",
+    "category": "Découvertes",
+    "difficulty": "Extrême",
+    "text": "Qui a découvert le pôle Nord géographique ?",
+    "answers": [
+      "Roald Amundsen",
+      "Frederick Cook",
+      "Robert Peary",
+      "Fridtjof Nansen"
+    ],
+    "correctIndex": 2
+  }
+]
