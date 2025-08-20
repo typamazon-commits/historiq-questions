@@ -1,0 +1,3902 @@
+[
+  {
+    "id": "q1",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la planète Uranus en 1781 ?",
+    "answers": [
+      "William Herschel",
+      "Galilée",
+      "Charles Messier",
+      "Giovanni Cassini"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q2",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
+    "answers": [
+      "Alhazen",
+      "Al-Sufi",
+      "Al-Tusi",
+      "Al-Battani"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q3",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
+    "answers": [
+      "Joseph Priestley",
+      "Robert Boyle",
+      "Carl Scheele",
+      "Antoine Lavoisier"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q4",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
+    "answers": [
+      "Vasco de Gama",
+      "Diogo Cão",
+      "Fernand de Magellan",
+      "Bartolomeu Dias"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q5",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la vitamine C en 1928 ?",
+    "answers": [
+      "Albert Szent-Györgyi",
+      "Frederick Hopkins",
+      "Casimir Funk",
+      "Linus Pauling"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q6",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
+    "answers": [
+      "Al-Battani",
+      "Alhazen",
+      "Al-Tusi",
+      "Al-Sufi"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q7",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
+    "answers": [
+      "Al-Tusi",
+      "Al-Sufi",
+      "Al-Battani",
+      "Alhazen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q8",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
+    "answers": [
+      "Henri le Navigateur",
+      "Vasco de Gama",
+      "Bartolomeu Dias",
+      "Magellan"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q9",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
+    "answers": [
+      "Alhazen",
+      "Al-Battani",
+      "Al-Tusi",
+      "Al-Sufi"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q10",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la vitamine C en 1928 ?",
+    "answers": [
+      "Frederick Hopkins",
+      "Albert Szent-Györgyi",
+      "Linus Pauling",
+      "Casimir Funk"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q11",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
+    "answers": [
+      "Magellan",
+      "Bartolomeu Dias",
+      "Vasco de Gama",
+      "Henri le Navigateur"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q12",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
+    "answers": [
+      "Antoine Lavoisier",
+      "Robert Boyle",
+      "Joseph Priestley",
+      "Carl Scheele"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q13",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
+    "answers": [
+      "Robert Boyle",
+      "Antoine Lavoisier",
+      "Carl Scheele",
+      "Joseph Priestley"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q14",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
+    "answers": [
+      "Vasco de Gama",
+      "Bartolomeu Dias",
+      "Fernand de Magellan",
+      "Diogo Cão"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q15",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
+    "answers": [
+      "Bartolomeu Dias",
+      "Diogo Cão",
+      "Fernand de Magellan",
+      "Vasco de Gama"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q16",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la planète Uranus en 1781 ?",
+    "answers": [
+      "William Herschel",
+      "Galilée",
+      "Charles Messier",
+      "Giovanni Cassini"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q17",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la planète Uranus en 1781 ?",
+    "answers": [
+      "Charles Messier",
+      "William Herschel",
+      "Giovanni Cassini",
+      "Galilée"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q18",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la planète Uranus en 1781 ?",
+    "answers": [
+      "Galilée",
+      "Giovanni Cassini",
+      "William Herschel",
+      "Charles Messier"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q19",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
+    "answers": [
+      "Bougainville",
+      "Samuel de Champlain",
+      "Jean-François de La Pérouse",
+      "Jacques Cartier"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q20",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
+    "answers": [
+      "Bartolomeu Dias",
+      "Vasco de Gama",
+      "Magellan",
+      "Henri le Navigateur"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q21",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la planète Uranus en 1781 ?",
+    "answers": [
+      "Giovanni Cassini",
+      "William Herschel",
+      "Galilée",
+      "Charles Messier"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q22",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
+    "answers": [
+      "Jacques Cartier",
+      "Jean-François de La Pérouse",
+      "Samuel de Champlain",
+      "Bougainville"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q23",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la vitamine C en 1928 ?",
+    "answers": [
+      "Albert Szent-Györgyi",
+      "Casimir Funk",
+      "Frederick Hopkins",
+      "Linus Pauling"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q24",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
+    "answers": [
+      "Bartolomeu Dias",
+      "Vasco de Gama",
+      "Henri le Navigateur",
+      "Magellan"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q25",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la planète Uranus en 1781 ?",
+    "answers": [
+      "Giovanni Cassini",
+      "Galilée",
+      "Charles Messier",
+      "William Herschel"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q26",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
+    "answers": [
+      "Bougainville",
+      "Jean-François de La Pérouse",
+      "Samuel de Champlain",
+      "Jacques Cartier"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q27",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
+    "answers": [
+      "Alhazen",
+      "Al-Battani",
+      "Al-Tusi",
+      "Al-Sufi"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q28",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
+    "answers": [
+      "Dorothy Hodgkin",
+      "Frederick Sanger",
+      "Albert Szent-Györgyi",
+      "Hans Krebs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q29",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
+    "answers": [
+      "Pizarro",
+      "Magellan",
+      "Balboa",
+      "Elcano"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q30",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
+    "answers": [
+      "Robert Boyle",
+      "Carl Scheele",
+      "Antoine Lavoisier",
+      "Joseph Priestley"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q31",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
+    "answers": [
+      "Vasco de Gama",
+      "Magellan",
+      "Henri le Navigateur",
+      "Bartolomeu Dias"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q32",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
+    "answers": [
+      "Balboa",
+      "Magellan",
+      "Elcano",
+      "Pizarro"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q33",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
+    "answers": [
+      "Howard Florey",
+      "Alexander Fleming",
+      "Selman Waksman",
+      "Gerhard Domagk"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q34",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
+    "answers": [
+      "Al-Sufi",
+      "Alhazen",
+      "Al-Tusi",
+      "Al-Battani"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q35",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
+    "answers": [
+      "Bougainville",
+      "Jean-François de La Pérouse",
+      "Samuel de Champlain",
+      "Jacques Cartier"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q36",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
+    "answers": [
+      "Hans Krebs",
+      "Frederick Sanger",
+      "Albert Szent-Györgyi",
+      "Dorothy Hodgkin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q37",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
+    "answers": [
+      "Frederick Sanger",
+      "Albert Szent-Györgyi",
+      "Hans Krebs",
+      "Dorothy Hodgkin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q38",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
+    "answers": [
+      "Vasco de Gama",
+      "Bartolomeu Dias",
+      "Fernand de Magellan",
+      "Diogo Cão"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q39",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
+    "answers": [
+      "Magellan",
+      "Pizarro",
+      "Balboa",
+      "Elcano"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q40",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
+    "answers": [
+      "Henri le Navigateur",
+      "Magellan",
+      "Vasco de Gama",
+      "Bartolomeu Dias"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q41",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la planète Uranus en 1781 ?",
+    "answers": [
+      "Charles Messier",
+      "Giovanni Cassini",
+      "William Herschel",
+      "Galilée"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q42",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la planète Uranus en 1781 ?",
+    "answers": [
+      "William Herschel",
+      "Galilée",
+      "Giovanni Cassini",
+      "Charles Messier"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q43",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
+    "answers": [
+      "Fernand de Magellan",
+      "Diogo Cão",
+      "Bartolomeu Dias",
+      "Vasco de Gama"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q44",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
+    "answers": [
+      "Diogo Cão",
+      "Vasco de Gama",
+      "Bartolomeu Dias",
+      "Fernand de Magellan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q45",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la planète Uranus en 1781 ?",
+    "answers": [
+      "Charles Messier",
+      "Galilée",
+      "William Herschel",
+      "Giovanni Cassini"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q46",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
+    "answers": [
+      "Vasco de Gama",
+      "Bartolomeu Dias",
+      "Magellan",
+      "Henri le Navigateur"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q47",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
+    "answers": [
+      "Robert Boyle",
+      "Carl Scheele",
+      "Joseph Priestley",
+      "Antoine Lavoisier"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q48",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
+    "answers": [
+      "Bougainville",
+      "Jean-François de La Pérouse",
+      "Samuel de Champlain",
+      "Jacques Cartier"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q49",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
+    "answers": [
+      "Pizarro",
+      "Magellan",
+      "Balboa",
+      "Elcano"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q50",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la vitamine C en 1928 ?",
+    "answers": [
+      "Casimir Funk",
+      "Frederick Hopkins",
+      "Albert Szent-Györgyi",
+      "Linus Pauling"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q51",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
+    "answers": [
+      "Magellan",
+      "Balboa",
+      "Elcano",
+      "Pizarro"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q52",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
+    "answers": [
+      "Al-Battani",
+      "Al-Tusi",
+      "Al-Sufi",
+      "Alhazen"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q53",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
+    "answers": [
+      "Antoine Lavoisier",
+      "Joseph Priestley",
+      "Robert Boyle",
+      "Carl Scheele"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q54",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
+    "answers": [
+      "Balboa",
+      "Magellan",
+      "Elcano",
+      "Pizarro"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q55",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
+    "answers": [
+      "Frederick Sanger",
+      "Hans Krebs",
+      "Dorothy Hodgkin",
+      "Albert Szent-Györgyi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q56",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
+    "answers": [
+      "Fernand de Magellan",
+      "Diogo Cão",
+      "Vasco de Gama",
+      "Bartolomeu Dias"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q57",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
+    "answers": [
+      "Al-Tusi",
+      "Al-Battani",
+      "Alhazen",
+      "Al-Sufi"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q58",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
+    "answers": [
+      "Dorothy Hodgkin",
+      "Frederick Sanger",
+      "Hans Krebs",
+      "Albert Szent-Györgyi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q59",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
+    "answers": [
+      "Joseph Priestley",
+      "Robert Boyle",
+      "Antoine Lavoisier",
+      "Carl Scheele"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q60",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
+    "answers": [
+      "Diogo Cão",
+      "Fernand de Magellan",
+      "Vasco de Gama",
+      "Bartolomeu Dias"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q61",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la planète Uranus en 1781 ?",
+    "answers": [
+      "Charles Messier",
+      "Galilée",
+      "William Herschel",
+      "Giovanni Cassini"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q62",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
+    "answers": [
+      "Selman Waksman",
+      "Howard Florey",
+      "Gerhard Domagk",
+      "Alexander Fleming"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q63",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
+    "answers": [
+      "Al-Tusi",
+      "Al-Sufi",
+      "Al-Battani",
+      "Alhazen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q64",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
+    "answers": [
+      "Bartolomeu Dias",
+      "Diogo Cão",
+      "Vasco de Gama",
+      "Fernand de Magellan"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q65",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
+    "answers": [
+      "Bartolomeu Dias",
+      "Vasco de Gama",
+      "Fernand de Magellan",
+      "Diogo Cão"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q66",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
+    "answers": [
+      "Bougainville",
+      "Jacques Cartier",
+      "Jean-François de La Pérouse",
+      "Samuel de Champlain"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q67",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
+    "answers": [
+      "Henri le Navigateur",
+      "Vasco de Gama",
+      "Magellan",
+      "Bartolomeu Dias"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q68",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la vitamine C en 1928 ?",
+    "answers": [
+      "Linus Pauling",
+      "Casimir Funk",
+      "Frederick Hopkins",
+      "Albert Szent-Györgyi"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q69",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
+    "answers": [
+      "Fernand de Magellan",
+      "Diogo Cão",
+      "Vasco de Gama",
+      "Bartolomeu Dias"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q70",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
+    "answers": [
+      "Al-Tusi",
+      "Alhazen",
+      "Al-Sufi",
+      "Al-Battani"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q71",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
+    "answers": [
+      "Bougainville",
+      "Jacques Cartier",
+      "Jean-François de La Pérouse",
+      "Samuel de Champlain"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q72",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
+    "answers": [
+      "Bartolomeu Dias",
+      "Henri le Navigateur",
+      "Vasco de Gama",
+      "Magellan"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q73",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la planète Uranus en 1781 ?",
+    "answers": [
+      "Giovanni Cassini",
+      "William Herschel",
+      "Charles Messier",
+      "Galilée"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q74",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
+    "answers": [
+      "Joseph Priestley",
+      "Robert Boyle",
+      "Carl Scheele",
+      "Antoine Lavoisier"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q75",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
+    "answers": [
+      "Frederick Sanger",
+      "Albert Szent-Györgyi",
+      "Hans Krebs",
+      "Dorothy Hodgkin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q76",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
+    "answers": [
+      "Bartolomeu Dias",
+      "Vasco de Gama",
+      "Fernand de Magellan",
+      "Diogo Cão"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q77",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la vitamine C en 1928 ?",
+    "answers": [
+      "Frederick Hopkins",
+      "Albert Szent-Györgyi",
+      "Linus Pauling",
+      "Casimir Funk"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q78",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
+    "answers": [
+      "Vasco de Gama",
+      "Fernand de Magellan",
+      "Diogo Cão",
+      "Bartolomeu Dias"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q79",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
+    "answers": [
+      "Pizarro",
+      "Magellan",
+      "Balboa",
+      "Elcano"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q80",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
+    "answers": [
+      "Samuel de Champlain",
+      "Jean-François de La Pérouse",
+      "Bougainville",
+      "Jacques Cartier"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q81",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
+    "answers": [
+      "Bougainville",
+      "Jean-François de La Pérouse",
+      "Samuel de Champlain",
+      "Jacques Cartier"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q82",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
+    "answers": [
+      "Al-Tusi",
+      "Al-Sufi",
+      "Alhazen",
+      "Al-Battani"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q83",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
+    "answers": [
+      "Frederick Sanger",
+      "Dorothy Hodgkin",
+      "Hans Krebs",
+      "Albert Szent-Györgyi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q84",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
+    "answers": [
+      "Magellan",
+      "Elcano",
+      "Balboa",
+      "Pizarro"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q85",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la vitamine C en 1928 ?",
+    "answers": [
+      "Frederick Hopkins",
+      "Albert Szent-Györgyi",
+      "Casimir Funk",
+      "Linus Pauling"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q86",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
+    "answers": [
+      "Jean-François de La Pérouse",
+      "Samuel de Champlain",
+      "Bougainville",
+      "Jacques Cartier"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q87",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la planète Uranus en 1781 ?",
+    "answers": [
+      "William Herschel",
+      "Galilée",
+      "Giovanni Cassini",
+      "Charles Messier"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q88",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
+    "answers": [
+      "Vasco de Gama",
+      "Henri le Navigateur",
+      "Bartolomeu Dias",
+      "Magellan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q89",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
+    "answers": [
+      "Henri le Navigateur",
+      "Vasco de Gama",
+      "Bartolomeu Dias",
+      "Magellan"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q90",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
+    "answers": [
+      "Robert Boyle",
+      "Joseph Priestley",
+      "Antoine Lavoisier",
+      "Carl Scheele"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q91",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
+    "answers": [
+      "Robert Boyle",
+      "Antoine Lavoisier",
+      "Carl Scheele",
+      "Joseph Priestley"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q92",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
+    "answers": [
+      "Diogo Cão",
+      "Vasco de Gama",
+      "Bartolomeu Dias",
+      "Fernand de Magellan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q93",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
+    "answers": [
+      "Magellan",
+      "Pizarro",
+      "Elcano",
+      "Balboa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q94",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
+    "answers": [
+      "Dorothy Hodgkin",
+      "Hans Krebs",
+      "Albert Szent-Györgyi",
+      "Frederick Sanger"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q95",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la vitamine C en 1928 ?",
+    "answers": [
+      "Albert Szent-Györgyi",
+      "Frederick Hopkins",
+      "Linus Pauling",
+      "Casimir Funk"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q96",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
+    "answers": [
+      "Samuel de Champlain",
+      "Jacques Cartier",
+      "Jean-François de La Pérouse",
+      "Bougainville"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q97",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
+    "answers": [
+      "Fernand de Magellan",
+      "Bartolomeu Dias",
+      "Diogo Cão",
+      "Vasco de Gama"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q98",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la planète Uranus en 1781 ?",
+    "answers": [
+      "William Herschel",
+      "Charles Messier",
+      "Galilée",
+      "Giovanni Cassini"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q99",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
+    "answers": [
+      "Robert Boyle",
+      "Joseph Priestley",
+      "Antoine Lavoisier",
+      "Carl Scheele"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q100",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
+    "answers": [
+      "Al-Sufi",
+      "Al-Tusi",
+      "Alhazen",
+      "Al-Battani"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q101",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la planète Uranus en 1781 ?",
+    "answers": [
+      "Galilée",
+      "William Herschel",
+      "Charles Messier",
+      "Giovanni Cassini"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q102",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la planète Uranus en 1781 ?",
+    "answers": [
+      "Galilée",
+      "Giovanni Cassini",
+      "William Herschel",
+      "Charles Messier"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q103",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
+    "answers": [
+      "Balboa",
+      "Elcano",
+      "Magellan",
+      "Pizarro"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q104",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
+    "answers": [
+      "Magellan",
+      "Vasco de Gama",
+      "Henri le Navigateur",
+      "Bartolomeu Dias"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q105",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
+    "answers": [
+      "Carl Scheele",
+      "Robert Boyle",
+      "Antoine Lavoisier",
+      "Joseph Priestley"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q106",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
+    "answers": [
+      "Gerhard Domagk",
+      "Alexander Fleming",
+      "Howard Florey",
+      "Selman Waksman"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q107",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la vitamine C en 1928 ?",
+    "answers": [
+      "Linus Pauling",
+      "Albert Szent-Györgyi",
+      "Casimir Funk",
+      "Frederick Hopkins"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q108",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
+    "answers": [
+      "Howard Florey",
+      "Gerhard Domagk",
+      "Alexander Fleming",
+      "Selman Waksman"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q109",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la planète Uranus en 1781 ?",
+    "answers": [
+      "Charles Messier",
+      "Galilée",
+      "William Herschel",
+      "Giovanni Cassini"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q110",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
+    "answers": [
+      "Carl Scheele",
+      "Robert Boyle",
+      "Joseph Priestley",
+      "Antoine Lavoisier"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q111",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
+    "answers": [
+      "Al-Tusi",
+      "Alhazen",
+      "Al-Sufi",
+      "Al-Battani"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q112",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
+    "answers": [
+      "Selman Waksman",
+      "Howard Florey",
+      "Gerhard Domagk",
+      "Alexander Fleming"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q113",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
+    "answers": [
+      "Albert Szent-Györgyi",
+      "Dorothy Hodgkin",
+      "Frederick Sanger",
+      "Hans Krebs"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q114",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la vitamine C en 1928 ?",
+    "answers": [
+      "Casimir Funk",
+      "Linus Pauling",
+      "Albert Szent-Györgyi",
+      "Frederick Hopkins"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q115",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
+    "answers": [
+      "Albert Szent-Györgyi",
+      "Hans Krebs",
+      "Dorothy Hodgkin",
+      "Frederick Sanger"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q116",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la vitamine C en 1928 ?",
+    "answers": [
+      "Linus Pauling",
+      "Casimir Funk",
+      "Frederick Hopkins",
+      "Albert Szent-Györgyi"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q117",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
+    "answers": [
+      "Alexander Fleming",
+      "Howard Florey",
+      "Gerhard Domagk",
+      "Selman Waksman"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q118",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
+    "answers": [
+      "Antoine Lavoisier",
+      "Carl Scheele",
+      "Robert Boyle",
+      "Joseph Priestley"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q119",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
+    "answers": [
+      "Bartolomeu Dias",
+      "Vasco de Gama",
+      "Magellan",
+      "Henri le Navigateur"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q120",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
+    "answers": [
+      "Alhazen",
+      "Al-Sufi",
+      "Al-Battani",
+      "Al-Tusi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q121",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
+    "answers": [
+      "Bougainville",
+      "Jean-François de La Pérouse",
+      "Samuel de Champlain",
+      "Jacques Cartier"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q122",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
+    "answers": [
+      "Gerhard Domagk",
+      "Selman Waksman",
+      "Howard Florey",
+      "Alexander Fleming"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q123",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
+    "answers": [
+      "Diogo Cão",
+      "Fernand de Magellan",
+      "Vasco de Gama",
+      "Bartolomeu Dias"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q124",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
+    "answers": [
+      "Henri le Navigateur",
+      "Magellan",
+      "Bartolomeu Dias",
+      "Vasco de Gama"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q125",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la planète Uranus en 1781 ?",
+    "answers": [
+      "Charles Messier",
+      "Giovanni Cassini",
+      "Galilée",
+      "William Herschel"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q126",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
+    "answers": [
+      "Carl Scheele",
+      "Joseph Priestley",
+      "Antoine Lavoisier",
+      "Robert Boyle"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q127",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
+    "answers": [
+      "Albert Szent-Györgyi",
+      "Dorothy Hodgkin",
+      "Hans Krebs",
+      "Frederick Sanger"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q128",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
+    "answers": [
+      "Joseph Priestley",
+      "Robert Boyle",
+      "Antoine Lavoisier",
+      "Carl Scheele"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q129",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
+    "answers": [
+      "Hans Krebs",
+      "Albert Szent-Györgyi",
+      "Frederick Sanger",
+      "Dorothy Hodgkin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q130",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
+    "answers": [
+      "Robert Boyle",
+      "Antoine Lavoisier",
+      "Carl Scheele",
+      "Joseph Priestley"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q131",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
+    "answers": [
+      "Gerhard Domagk",
+      "Howard Florey",
+      "Alexander Fleming",
+      "Selman Waksman"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q132",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
+    "answers": [
+      "Balboa",
+      "Pizarro",
+      "Elcano",
+      "Magellan"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q133",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la planète Uranus en 1781 ?",
+    "answers": [
+      "Galilée",
+      "Charles Messier",
+      "William Herschel",
+      "Giovanni Cassini"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q134",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
+    "answers": [
+      "Pizarro",
+      "Balboa",
+      "Elcano",
+      "Magellan"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q135",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
+    "answers": [
+      "Bartolomeu Dias",
+      "Diogo Cão",
+      "Fernand de Magellan",
+      "Vasco de Gama"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q136",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
+    "answers": [
+      "Elcano",
+      "Magellan",
+      "Pizarro",
+      "Balboa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q137",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la planète Uranus en 1781 ?",
+    "answers": [
+      "Charles Messier",
+      "Giovanni Cassini",
+      "William Herschel",
+      "Galilée"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q138",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
+    "answers": [
+      "Vasco de Gama",
+      "Magellan",
+      "Henri le Navigateur",
+      "Bartolomeu Dias"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q139",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
+    "answers": [
+      "Bougainville",
+      "Jean-François de La Pérouse",
+      "Samuel de Champlain",
+      "Jacques Cartier"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q140",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
+    "answers": [
+      "Diogo Cão",
+      "Fernand de Magellan",
+      "Vasco de Gama",
+      "Bartolomeu Dias"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q141",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
+    "answers": [
+      "Al-Sufi",
+      "Alhazen",
+      "Al-Battani",
+      "Al-Tusi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q142",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
+    "answers": [
+      "Magellan",
+      "Bartolomeu Dias",
+      "Henri le Navigateur",
+      "Vasco de Gama"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q143",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
+    "answers": [
+      "Carl Scheele",
+      "Antoine Lavoisier",
+      "Joseph Priestley",
+      "Robert Boyle"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q144",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
+    "answers": [
+      "Al-Tusi",
+      "Al-Battani",
+      "Al-Sufi",
+      "Alhazen"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q145",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
+    "answers": [
+      "Diogo Cão",
+      "Vasco de Gama",
+      "Fernand de Magellan",
+      "Bartolomeu Dias"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q146",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
+    "answers": [
+      "Samuel de Champlain",
+      "Jean-François de La Pérouse",
+      "Jacques Cartier",
+      "Bougainville"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q147",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
+    "answers": [
+      "Elcano",
+      "Magellan",
+      "Pizarro",
+      "Balboa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q148",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
+    "answers": [
+      "Al-Tusi",
+      "Al-Sufi",
+      "Al-Battani",
+      "Alhazen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q149",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la planète Uranus en 1781 ?",
+    "answers": [
+      "Giovanni Cassini",
+      "Galilée",
+      "Charles Messier",
+      "William Herschel"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q150",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la planète Uranus en 1781 ?",
+    "answers": [
+      "Galilée",
+      "William Herschel",
+      "Charles Messier",
+      "Giovanni Cassini"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q151",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la vitamine C en 1928 ?",
+    "answers": [
+      "Casimir Funk",
+      "Albert Szent-Györgyi",
+      "Linus Pauling",
+      "Frederick Hopkins"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q152",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
+    "answers": [
+      "Howard Florey",
+      "Gerhard Domagk",
+      "Selman Waksman",
+      "Alexander Fleming"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q153",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
+    "answers": [
+      "Magellan",
+      "Elcano",
+      "Balboa",
+      "Pizarro"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q154",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la vitamine C en 1928 ?",
+    "answers": [
+      "Casimir Funk",
+      "Albert Szent-Györgyi",
+      "Frederick Hopkins",
+      "Linus Pauling"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q155",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
+    "answers": [
+      "Jacques Cartier",
+      "Bougainville",
+      "Samuel de Champlain",
+      "Jean-François de La Pérouse"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q156",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
+    "answers": [
+      "Selman Waksman",
+      "Gerhard Domagk",
+      "Howard Florey",
+      "Alexander Fleming"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q157",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la vitamine C en 1928 ?",
+    "answers": [
+      "Casimir Funk",
+      "Frederick Hopkins",
+      "Albert Szent-Györgyi",
+      "Linus Pauling"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q158",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la vitamine C en 1928 ?",
+    "answers": [
+      "Casimir Funk",
+      "Linus Pauling",
+      "Albert Szent-Györgyi",
+      "Frederick Hopkins"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q159",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
+    "answers": [
+      "Fernand de Magellan",
+      "Diogo Cão",
+      "Vasco de Gama",
+      "Bartolomeu Dias"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q160",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
+    "answers": [
+      "Pizarro",
+      "Magellan",
+      "Elcano",
+      "Balboa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q161",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la planète Uranus en 1781 ?",
+    "answers": [
+      "Giovanni Cassini",
+      "Charles Messier",
+      "Galilée",
+      "William Herschel"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q162",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la planète Uranus en 1781 ?",
+    "answers": [
+      "William Herschel",
+      "Charles Messier",
+      "Giovanni Cassini",
+      "Galilée"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q163",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
+    "answers": [
+      "Elcano",
+      "Balboa",
+      "Pizarro",
+      "Magellan"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q164",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la planète Uranus en 1781 ?",
+    "answers": [
+      "Charles Messier",
+      "Galilée",
+      "Giovanni Cassini",
+      "William Herschel"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q165",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
+    "answers": [
+      "Dorothy Hodgkin",
+      "Frederick Sanger",
+      "Hans Krebs",
+      "Albert Szent-Györgyi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q166",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
+    "answers": [
+      "Magellan",
+      "Henri le Navigateur",
+      "Bartolomeu Dias",
+      "Vasco de Gama"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q167",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
+    "answers": [
+      "Bartolomeu Dias",
+      "Henri le Navigateur",
+      "Vasco de Gama",
+      "Magellan"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q168",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
+    "answers": [
+      "Elcano",
+      "Pizarro",
+      "Balboa",
+      "Magellan"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q169",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
+    "answers": [
+      "Elcano",
+      "Balboa",
+      "Pizarro",
+      "Magellan"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q170",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
+    "answers": [
+      "Selman Waksman",
+      "Howard Florey",
+      "Alexander Fleming",
+      "Gerhard Domagk"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q171",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
+    "answers": [
+      "Selman Waksman",
+      "Alexander Fleming",
+      "Howard Florey",
+      "Gerhard Domagk"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q172",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
+    "answers": [
+      "Bougainville",
+      "Jacques Cartier",
+      "Jean-François de La Pérouse",
+      "Samuel de Champlain"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q173",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
+    "answers": [
+      "Hans Krebs",
+      "Albert Szent-Györgyi",
+      "Frederick Sanger",
+      "Dorothy Hodgkin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q174",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
+    "answers": [
+      "Selman Waksman",
+      "Gerhard Domagk",
+      "Alexander Fleming",
+      "Howard Florey"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q175",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
+    "answers": [
+      "Al-Tusi",
+      "Al-Sufi",
+      "Alhazen",
+      "Al-Battani"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q176",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
+    "answers": [
+      "Vasco de Gama",
+      "Magellan",
+      "Bartolomeu Dias",
+      "Henri le Navigateur"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q177",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
+    "answers": [
+      "Hans Krebs",
+      "Frederick Sanger",
+      "Dorothy Hodgkin",
+      "Albert Szent-Györgyi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q178",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la planète Uranus en 1781 ?",
+    "answers": [
+      "Charles Messier",
+      "William Herschel",
+      "Galilée",
+      "Giovanni Cassini"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q179",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
+    "answers": [
+      "Antoine Lavoisier",
+      "Joseph Priestley",
+      "Carl Scheele",
+      "Robert Boyle"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q180",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
+    "answers": [
+      "Elcano",
+      "Magellan",
+      "Pizarro",
+      "Balboa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q181",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
+    "answers": [
+      "Hans Krebs",
+      "Dorothy Hodgkin",
+      "Albert Szent-Györgyi",
+      "Frederick Sanger"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q182",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
+    "answers": [
+      "Samuel de Champlain",
+      "Jacques Cartier",
+      "Bougainville",
+      "Jean-François de La Pérouse"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q183",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la vitamine C en 1928 ?",
+    "answers": [
+      "Casimir Funk",
+      "Frederick Hopkins",
+      "Linus Pauling",
+      "Albert Szent-Györgyi"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q184",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
+    "answers": [
+      "Selman Waksman",
+      "Howard Florey",
+      "Alexander Fleming",
+      "Gerhard Domagk"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q185",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
+    "answers": [
+      "Hans Krebs",
+      "Dorothy Hodgkin",
+      "Albert Szent-Györgyi",
+      "Frederick Sanger"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q186",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
+    "answers": [
+      "Hans Krebs",
+      "Albert Szent-Györgyi",
+      "Dorothy Hodgkin",
+      "Frederick Sanger"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q187",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la planète Uranus en 1781 ?",
+    "answers": [
+      "Giovanni Cassini",
+      "Charles Messier",
+      "William Herschel",
+      "Galilée"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q188",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
+    "answers": [
+      "Alhazen",
+      "Al-Battani",
+      "Al-Tusi",
+      "Al-Sufi"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q189",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
+    "answers": [
+      "Al-Sufi",
+      "Al-Tusi",
+      "Al-Battani",
+      "Alhazen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q190",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
+    "answers": [
+      "Al-Tusi",
+      "Al-Battani",
+      "Alhazen",
+      "Al-Sufi"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q191",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
+    "answers": [
+      "Magellan",
+      "Balboa",
+      "Elcano",
+      "Pizarro"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q192",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
+    "answers": [
+      "Al-Sufi",
+      "Al-Battani",
+      "Al-Tusi",
+      "Alhazen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q193",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
+    "answers": [
+      "Robert Boyle",
+      "Carl Scheele",
+      "Antoine Lavoisier",
+      "Joseph Priestley"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q194",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
+    "answers": [
+      "Jean-François de La Pérouse",
+      "Samuel de Champlain",
+      "Bougainville",
+      "Jacques Cartier"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q195",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
+    "answers": [
+      "Jean-François de La Pérouse",
+      "Samuel de Champlain",
+      "Jacques Cartier",
+      "Bougainville"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q196",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
+    "answers": [
+      "Magellan",
+      "Vasco de Gama",
+      "Henri le Navigateur",
+      "Bartolomeu Dias"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q197",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la vitamine C en 1928 ?",
+    "answers": [
+      "Frederick Hopkins",
+      "Albert Szent-Györgyi",
+      "Linus Pauling",
+      "Casimir Funk"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q198",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
+    "answers": [
+      "Jacques Cartier",
+      "Bougainville",
+      "Samuel de Champlain",
+      "Jean-François de La Pérouse"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q199",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
+    "answers": [
+      "Diogo Cão",
+      "Bartolomeu Dias",
+      "Vasco de Gama",
+      "Fernand de Magellan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q200",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
+    "answers": [
+      "Jacques Cartier",
+      "Bougainville",
+      "Samuel de Champlain",
+      "Jean-François de La Pérouse"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q201",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
+    "answers": [
+      "Hans Krebs",
+      "Albert Szent-Györgyi",
+      "Dorothy Hodgkin",
+      "Frederick Sanger"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q202",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
+    "answers": [
+      "Joseph Priestley",
+      "Robert Boyle",
+      "Antoine Lavoisier",
+      "Carl Scheele"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q203",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
+    "answers": [
+      "Magellan",
+      "Bartolomeu Dias",
+      "Vasco de Gama",
+      "Henri le Navigateur"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q204",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
+    "answers": [
+      "Dorothy Hodgkin",
+      "Albert Szent-Györgyi",
+      "Hans Krebs",
+      "Frederick Sanger"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q205",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
+    "answers": [
+      "Al-Sufi",
+      "Al-Battani",
+      "Alhazen",
+      "Al-Tusi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q206",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
+    "answers": [
+      "Alhazen",
+      "Al-Tusi",
+      "Al-Battani",
+      "Al-Sufi"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q207",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
+    "answers": [
+      "Balboa",
+      "Magellan",
+      "Pizarro",
+      "Elcano"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q208",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
+    "answers": [
+      "Carl Scheele",
+      "Joseph Priestley",
+      "Antoine Lavoisier",
+      "Robert Boyle"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q209",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
+    "answers": [
+      "Carl Scheele",
+      "Joseph Priestley",
+      "Antoine Lavoisier",
+      "Robert Boyle"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q210",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
+    "answers": [
+      "Gerhard Domagk",
+      "Alexander Fleming",
+      "Selman Waksman",
+      "Howard Florey"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q211",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la vitamine C en 1928 ?",
+    "answers": [
+      "Albert Szent-Györgyi",
+      "Linus Pauling",
+      "Frederick Hopkins",
+      "Casimir Funk"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q212",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
+    "answers": [
+      "Dorothy Hodgkin",
+      "Hans Krebs",
+      "Albert Szent-Györgyi",
+      "Frederick Sanger"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q213",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
+    "answers": [
+      "Albert Szent-Györgyi",
+      "Frederick Sanger",
+      "Dorothy Hodgkin",
+      "Hans Krebs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q214",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la planète Uranus en 1781 ?",
+    "answers": [
+      "Giovanni Cassini",
+      "Galilée",
+      "William Herschel",
+      "Charles Messier"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q215",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
+    "answers": [
+      "Albert Szent-Györgyi",
+      "Hans Krebs",
+      "Dorothy Hodgkin",
+      "Frederick Sanger"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q216",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la vitamine C en 1928 ?",
+    "answers": [
+      "Casimir Funk",
+      "Albert Szent-Györgyi",
+      "Frederick Hopkins",
+      "Linus Pauling"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q217",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
+    "answers": [
+      "Howard Florey",
+      "Selman Waksman",
+      "Gerhard Domagk",
+      "Alexander Fleming"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q218",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
+    "answers": [
+      "Hans Krebs",
+      "Frederick Sanger",
+      "Dorothy Hodgkin",
+      "Albert Szent-Györgyi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q219",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la vitamine C en 1928 ?",
+    "answers": [
+      "Casimir Funk",
+      "Linus Pauling",
+      "Frederick Hopkins",
+      "Albert Szent-Györgyi"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q220",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
+    "answers": [
+      "Alexander Fleming",
+      "Howard Florey",
+      "Gerhard Domagk",
+      "Selman Waksman"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q221",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la planète Uranus en 1781 ?",
+    "answers": [
+      "Galilée",
+      "William Herschel",
+      "Charles Messier",
+      "Giovanni Cassini"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q222",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
+    "answers": [
+      "Magellan",
+      "Bartolomeu Dias",
+      "Henri le Navigateur",
+      "Vasco de Gama"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q223",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
+    "answers": [
+      "Carl Scheele",
+      "Antoine Lavoisier",
+      "Robert Boyle",
+      "Joseph Priestley"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q224",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
+    "answers": [
+      "Bartolomeu Dias",
+      "Vasco de Gama",
+      "Fernand de Magellan",
+      "Diogo Cão"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q225",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
+    "answers": [
+      "Al-Tusi",
+      "Alhazen",
+      "Al-Battani",
+      "Al-Sufi"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q226",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la planète Uranus en 1781 ?",
+    "answers": [
+      "Charles Messier",
+      "Giovanni Cassini",
+      "Galilée",
+      "William Herschel"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q227",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
+    "answers": [
+      "Gerhard Domagk",
+      "Alexander Fleming",
+      "Howard Florey",
+      "Selman Waksman"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q228",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
+    "answers": [
+      "Albert Szent-Györgyi",
+      "Frederick Sanger",
+      "Hans Krebs",
+      "Dorothy Hodgkin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q229",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
+    "answers": [
+      "Elcano",
+      "Balboa",
+      "Magellan",
+      "Pizarro"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q230",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
+    "answers": [
+      "Selman Waksman",
+      "Alexander Fleming",
+      "Gerhard Domagk",
+      "Howard Florey"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q231",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
+    "answers": [
+      "Vasco de Gama",
+      "Magellan",
+      "Bartolomeu Dias",
+      "Henri le Navigateur"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q232",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
+    "answers": [
+      "Bartolomeu Dias",
+      "Henri le Navigateur",
+      "Vasco de Gama",
+      "Magellan"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q233",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
+    "answers": [
+      "Bougainville",
+      "Jean-François de La Pérouse",
+      "Jacques Cartier",
+      "Samuel de Champlain"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q234",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
+    "answers": [
+      "Alexander Fleming",
+      "Howard Florey",
+      "Selman Waksman",
+      "Gerhard Domagk"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q235",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
+    "answers": [
+      "Robert Boyle",
+      "Joseph Priestley",
+      "Antoine Lavoisier",
+      "Carl Scheele"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q236",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
+    "answers": [
+      "Frederick Sanger",
+      "Hans Krebs",
+      "Dorothy Hodgkin",
+      "Albert Szent-Györgyi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q237",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
+    "answers": [
+      "Jean-François de La Pérouse",
+      "Jacques Cartier",
+      "Bougainville",
+      "Samuel de Champlain"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q238",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
+    "answers": [
+      "Howard Florey",
+      "Alexander Fleming",
+      "Selman Waksman",
+      "Gerhard Domagk"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q239",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
+    "answers": [
+      "Joseph Priestley",
+      "Carl Scheele",
+      "Robert Boyle",
+      "Antoine Lavoisier"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q240",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
+    "answers": [
+      "Al-Tusi",
+      "Al-Sufi",
+      "Al-Battani",
+      "Alhazen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q241",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
+    "answers": [
+      "Magellan",
+      "Bartolomeu Dias",
+      "Henri le Navigateur",
+      "Vasco de Gama"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q242",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
+    "answers": [
+      "Joseph Priestley",
+      "Robert Boyle",
+      "Antoine Lavoisier",
+      "Carl Scheele"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q243",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
+    "answers": [
+      "Carl Scheele",
+      "Joseph Priestley",
+      "Antoine Lavoisier",
+      "Robert Boyle"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q244",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
+    "answers": [
+      "Gerhard Domagk",
+      "Selman Waksman",
+      "Alexander Fleming",
+      "Howard Florey"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q245",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
+    "answers": [
+      "Alexander Fleming",
+      "Gerhard Domagk",
+      "Selman Waksman",
+      "Howard Florey"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q246",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
+    "answers": [
+      "Magellan",
+      "Elcano",
+      "Balboa",
+      "Pizarro"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q247",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
+    "answers": [
+      "Gerhard Domagk",
+      "Selman Waksman",
+      "Howard Florey",
+      "Alexander Fleming"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q248",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
+    "answers": [
+      "Vasco de Gama",
+      "Bartolomeu Dias",
+      "Diogo Cão",
+      "Fernand de Magellan"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q249",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
+    "answers": [
+      "Vasco de Gama",
+      "Diogo Cão",
+      "Fernand de Magellan",
+      "Bartolomeu Dias"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q250",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
+    "answers": [
+      "Carl Scheele",
+      "Robert Boyle",
+      "Antoine Lavoisier",
+      "Joseph Priestley"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q251",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
+    "answers": [
+      "Samuel de Champlain",
+      "Bougainville",
+      "Jacques Cartier",
+      "Jean-François de La Pérouse"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q252",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la vitamine C en 1928 ?",
+    "answers": [
+      "Linus Pauling",
+      "Frederick Hopkins",
+      "Albert Szent-Györgyi",
+      "Casimir Funk"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q253",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
+    "answers": [
+      "Elcano",
+      "Balboa",
+      "Pizarro",
+      "Magellan"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q254",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
+    "answers": [
+      "Magellan",
+      "Bartolomeu Dias",
+      "Henri le Navigateur",
+      "Vasco de Gama"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q255",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la vitamine C en 1928 ?",
+    "answers": [
+      "Casimir Funk",
+      "Frederick Hopkins",
+      "Linus Pauling",
+      "Albert Szent-Györgyi"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q256",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
+    "answers": [
+      "Bougainville",
+      "Samuel de Champlain",
+      "Jean-François de La Pérouse",
+      "Jacques Cartier"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q257",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
+    "answers": [
+      "Selman Waksman",
+      "Alexander Fleming",
+      "Howard Florey",
+      "Gerhard Domagk"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q258",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la vitamine C en 1928 ?",
+    "answers": [
+      "Albert Szent-Györgyi",
+      "Linus Pauling",
+      "Casimir Funk",
+      "Frederick Hopkins"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q259",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
+    "answers": [
+      "Albert Szent-Györgyi",
+      "Dorothy Hodgkin",
+      "Frederick Sanger",
+      "Hans Krebs"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q260",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la planète Uranus en 1781 ?",
+    "answers": [
+      "William Herschel",
+      "Charles Messier",
+      "Galilée",
+      "Giovanni Cassini"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q261",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la vitamine C en 1928 ?",
+    "answers": [
+      "Linus Pauling",
+      "Albert Szent-Györgyi",
+      "Casimir Funk",
+      "Frederick Hopkins"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q262",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
+    "answers": [
+      "Robert Boyle",
+      "Carl Scheele",
+      "Antoine Lavoisier",
+      "Joseph Priestley"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q263",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
+    "answers": [
+      "Bartolomeu Dias",
+      "Diogo Cão",
+      "Fernand de Magellan",
+      "Vasco de Gama"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q264",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
+    "answers": [
+      "Bartolomeu Dias",
+      "Vasco de Gama",
+      "Magellan",
+      "Henri le Navigateur"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q265",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la planète Uranus en 1781 ?",
+    "answers": [
+      "Giovanni Cassini",
+      "Galilée",
+      "William Herschel",
+      "Charles Messier"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q266",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
+    "answers": [
+      "Gerhard Domagk",
+      "Alexander Fleming",
+      "Selman Waksman",
+      "Howard Florey"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q267",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
+    "answers": [
+      "Carl Scheele",
+      "Joseph Priestley",
+      "Antoine Lavoisier",
+      "Robert Boyle"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q268",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
+    "answers": [
+      "Frederick Sanger",
+      "Dorothy Hodgkin",
+      "Hans Krebs",
+      "Albert Szent-Györgyi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q269",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
+    "answers": [
+      "Howard Florey",
+      "Alexander Fleming",
+      "Selman Waksman",
+      "Gerhard Domagk"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q270",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
+    "answers": [
+      "Dorothy Hodgkin",
+      "Frederick Sanger",
+      "Hans Krebs",
+      "Albert Szent-Györgyi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q271",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
+    "answers": [
+      "Magellan",
+      "Pizarro",
+      "Balboa",
+      "Elcano"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q272",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
+    "answers": [
+      "Jean-François de La Pérouse",
+      "Jacques Cartier",
+      "Bougainville",
+      "Samuel de Champlain"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q273",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la planète Uranus en 1781 ?",
+    "answers": [
+      "Giovanni Cassini",
+      "Galilée",
+      "William Herschel",
+      "Charles Messier"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q274",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
+    "answers": [
+      "Alhazen",
+      "Al-Tusi",
+      "Al-Battani",
+      "Al-Sufi"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q275",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
+    "answers": [
+      "Carl Scheele",
+      "Joseph Priestley",
+      "Antoine Lavoisier",
+      "Robert Boyle"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q276",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
+    "answers": [
+      "Al-Battani",
+      "Al-Sufi",
+      "Alhazen",
+      "Al-Tusi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q277",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
+    "answers": [
+      "Bartolomeu Dias",
+      "Diogo Cão",
+      "Fernand de Magellan",
+      "Vasco de Gama"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q278",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
+    "answers": [
+      "Magellan",
+      "Pizarro",
+      "Balboa",
+      "Elcano"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q279",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
+    "answers": [
+      "Albert Szent-Györgyi",
+      "Dorothy Hodgkin",
+      "Hans Krebs",
+      "Frederick Sanger"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q280",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
+    "answers": [
+      "Carl Scheele",
+      "Robert Boyle",
+      "Joseph Priestley",
+      "Antoine Lavoisier"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q281",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la planète Uranus en 1781 ?",
+    "answers": [
+      "Giovanni Cassini",
+      "Galilée",
+      "Charles Messier",
+      "William Herschel"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q282",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
+    "answers": [
+      "Samuel de Champlain",
+      "Bougainville",
+      "Jacques Cartier",
+      "Jean-François de La Pérouse"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q283",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la planète Uranus en 1781 ?",
+    "answers": [
+      "Charles Messier",
+      "Galilée",
+      "William Herschel",
+      "Giovanni Cassini"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q284",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
+    "answers": [
+      "Jacques Cartier",
+      "Bougainville",
+      "Jean-François de La Pérouse",
+      "Samuel de Champlain"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q285",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
+    "answers": [
+      "Fernand de Magellan",
+      "Diogo Cão",
+      "Vasco de Gama",
+      "Bartolomeu Dias"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q286",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la vitamine C en 1928 ?",
+    "answers": [
+      "Linus Pauling",
+      "Albert Szent-Györgyi",
+      "Casimir Funk",
+      "Frederick Hopkins"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q287",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
+    "answers": [
+      "Dorothy Hodgkin",
+      "Albert Szent-Györgyi",
+      "Hans Krebs",
+      "Frederick Sanger"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q288",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
+    "answers": [
+      "Henri le Navigateur",
+      "Bartolomeu Dias",
+      "Magellan",
+      "Vasco de Gama"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q289",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
+    "answers": [
+      "Al-Battani",
+      "Al-Sufi",
+      "Al-Tusi",
+      "Alhazen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q290",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
+    "answers": [
+      "Pizarro",
+      "Magellan",
+      "Balboa",
+      "Elcano"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q291",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la vitamine C en 1928 ?",
+    "answers": [
+      "Frederick Hopkins",
+      "Linus Pauling",
+      "Casimir Funk",
+      "Albert Szent-Györgyi"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q292",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
+    "answers": [
+      "Gerhard Domagk",
+      "Alexander Fleming",
+      "Howard Florey",
+      "Selman Waksman"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q293",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la vitamine C en 1928 ?",
+    "answers": [
+      "Casimir Funk",
+      "Albert Szent-Györgyi",
+      "Linus Pauling",
+      "Frederick Hopkins"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q294",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
+    "answers": [
+      "Bougainville",
+      "Jean-François de La Pérouse",
+      "Jacques Cartier",
+      "Samuel de Champlain"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q295",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
+    "answers": [
+      "Bartolomeu Dias",
+      "Vasco de Gama",
+      "Fernand de Magellan",
+      "Diogo Cão"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q296",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
+    "answers": [
+      "Antoine Lavoisier",
+      "Joseph Priestley",
+      "Carl Scheele",
+      "Robert Boyle"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q297",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
+    "answers": [
+      "Al-Sufi",
+      "Alhazen",
+      "Al-Battani",
+      "Al-Tusi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q298",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
+    "answers": [
+      "Al-Battani",
+      "Al-Sufi",
+      "Alhazen",
+      "Al-Tusi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q299",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Qui a découvert la planète Uranus en 1781 ?",
+    "answers": [
+      "Galilée",
+      "Charles Messier",
+      "William Herschel",
+      "Giovanni Cassini"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q300",
+    "category": "Découvertes",
+    "difficulty": "Difficile",
+    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
+    "answers": [
+      "Bougainville",
+      "Jacques Cartier",
+      "Jean-François de La Pérouse",
+      "Samuel de Champlain"
+    ],
+    "correctIndex": 2
+  }
+]
