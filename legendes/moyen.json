@@ -1,0 +1,3902 @@
+[
+  {
+    "id": "q1",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle ville légendaire serait faite d'or pur ?",
+    "answers": [
+      "Ophir",
+      "El Dorado",
+      "Atlantide",
+      "Shambhala"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q2",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros est connu pour avoir tué Méduse ?",
+    "answers": [
+      "Persée",
+      "Thésée",
+      "Héraclès",
+      "Bellérophon"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q3",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle cité engloutie est recherchée par les explorateurs ?",
+    "answers": [
+      "Shambhala",
+      "El Dorado",
+      "Atlantide",
+      "Ys"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q4",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel est le nom de l'épée brisée de Narsil reforgée en Andúril ?",
+    "answers": [
+      "Andúril",
+      "Glamdring",
+      "Orcrist",
+      "Sting"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q5",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel cheval ailé naît du sang de Méduse ?",
+    "answers": [
+      "Pégase",
+      "Sleipnir",
+      "Arion",
+      "Hippogriffe"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q6",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui a capturé Cerbère lors de ses travaux ?",
+    "answers": [
+      "Héraclès",
+      "Persée",
+      "Thésée",
+      "Jason"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q7",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Dans la légende arthurienne, qui élève Lancelot ?",
+    "answers": [
+      "Guenièvre",
+      "Morgane",
+      "La Dame du Lac",
+      "Merlin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q8",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel est le nom de l'épée brisée de Narsil reforgée en Andúril ?",
+    "answers": [
+      "Glamdring",
+      "Andúril",
+      "Orcrist",
+      "Sting"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q9",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle ville légendaire serait faite d'or pur ?",
+    "answers": [
+      "Ophir",
+      "Shambhala",
+      "Atlantide",
+      "El Dorado"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q10",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle cité engloutie est recherchée par les explorateurs ?",
+    "answers": [
+      "Shambhala",
+      "Ys",
+      "El Dorado",
+      "Atlantide"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q11",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Dans la légende arthurienne, qui élève Lancelot ?",
+    "answers": [
+      "Morgane",
+      "Merlin",
+      "Guenièvre",
+      "La Dame du Lac"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q12",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle cité engloutie est recherchée par les explorateurs ?",
+    "answers": [
+      "Shambhala",
+      "Atlantide",
+      "El Dorado",
+      "Ys"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q13",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle ville légendaire serait faite d'or pur ?",
+    "answers": [
+      "Shambhala",
+      "El Dorado",
+      "Atlantide",
+      "Ophir"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q14",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Dans la légende arthurienne, qui élève Lancelot ?",
+    "answers": [
+      "Merlin",
+      "La Dame du Lac",
+      "Morgane",
+      "Guenièvre"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q15",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui a capturé Cerbère lors de ses travaux ?",
+    "answers": [
+      "Héraclès",
+      "Jason",
+      "Persée",
+      "Thésée"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q16",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel est le nom de l'épée brisée de Narsil reforgée en Andúril ?",
+    "answers": [
+      "Glamdring",
+      "Sting",
+      "Orcrist",
+      "Andúril"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q17",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros est connu pour avoir tué Méduse ?",
+    "answers": [
+      "Héraclès",
+      "Thésée",
+      "Persée",
+      "Bellérophon"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q18",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros est connu pour avoir tué Méduse ?",
+    "answers": [
+      "Bellérophon",
+      "Thésée",
+      "Persée",
+      "Héraclès"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q19",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel est le nom de l'épée brisée de Narsil reforgée en Andúril ?",
+    "answers": [
+      "Andúril",
+      "Orcrist",
+      "Glamdring",
+      "Sting"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q20",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle cité engloutie est recherchée par les explorateurs ?",
+    "answers": [
+      "Atlantide",
+      "Ys",
+      "El Dorado",
+      "Shambhala"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q21",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros est connu pour avoir tué Méduse ?",
+    "answers": [
+      "Héraclès",
+      "Persée",
+      "Thésée",
+      "Bellérophon"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q22",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel est le nom de l'épée brisée de Narsil reforgée en Andúril ?",
+    "answers": [
+      "Andúril",
+      "Orcrist",
+      "Glamdring",
+      "Sting"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q23",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui a capturé Cerbère lors de ses travaux ?",
+    "answers": [
+      "Héraclès",
+      "Thésée",
+      "Persée",
+      "Jason"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q24",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui est la déesse nordique de l'amour et de la guerre ?",
+    "answers": [
+      "Sif",
+      "Hel",
+      "Frigg",
+      "Freyja"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q25",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel cheval ailé naît du sang de Méduse ?",
+    "answers": [
+      "Hippogriffe",
+      "Sleipnir",
+      "Arion",
+      "Pégase"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q26",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Dans la légende arthurienne, qui élève Lancelot ?",
+    "answers": [
+      "Guenièvre",
+      "La Dame du Lac",
+      "Merlin",
+      "Morgane"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q27",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel monstre marin est mentionné dans les légendes nordiques ?",
+    "answers": [
+      "Hydre",
+      "Siren",
+      "Kraken",
+      "Leviathan"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q28",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle ville légendaire serait faite d'or pur ?",
+    "answers": [
+      "El Dorado",
+      "Atlantide",
+      "Shambhala",
+      "Ophir"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q29",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Dans la légende arthurienne, qui élève Lancelot ?",
+    "answers": [
+      "Guenièvre",
+      "Morgane",
+      "Merlin",
+      "La Dame du Lac"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q30",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle cité engloutie est recherchée par les explorateurs ?",
+    "answers": [
+      "El Dorado",
+      "Shambhala",
+      "Atlantide",
+      "Ys"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q31",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel est le nom de l'épée brisée de Narsil reforgée en Andúril ?",
+    "answers": [
+      "Andúril",
+      "Orcrist",
+      "Sting",
+      "Glamdring"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q32",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui est la déesse nordique de l'amour et de la guerre ?",
+    "answers": [
+      "Frigg",
+      "Freyja",
+      "Sif",
+      "Hel"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q33",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui est la déesse nordique de l'amour et de la guerre ?",
+    "answers": [
+      "Sif",
+      "Freyja",
+      "Hel",
+      "Frigg"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q34",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros grec a navigué avec les Argonautes ?",
+    "answers": [
+      "Achille",
+      "Persée",
+      "Jason",
+      "Héraclès"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q35",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros est connu pour avoir tué Méduse ?",
+    "answers": [
+      "Persée",
+      "Thésée",
+      "Bellérophon",
+      "Héraclès"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q36",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel est le nom de l'épée brisée de Narsil reforgée en Andúril ?",
+    "answers": [
+      "Orcrist",
+      "Glamdring",
+      "Andúril",
+      "Sting"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q37",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel monstre marin est mentionné dans les légendes nordiques ?",
+    "answers": [
+      "Siren",
+      "Kraken",
+      "Leviathan",
+      "Hydre"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q38",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Dans la légende arthurienne, qui élève Lancelot ?",
+    "answers": [
+      "La Dame du Lac",
+      "Morgane",
+      "Merlin",
+      "Guenièvre"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q39",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui a capturé Cerbère lors de ses travaux ?",
+    "answers": [
+      "Thésée",
+      "Jason",
+      "Héraclès",
+      "Persée"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q40",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Dans la légende arthurienne, qui élève Lancelot ?",
+    "answers": [
+      "Merlin",
+      "Guenièvre",
+      "La Dame du Lac",
+      "Morgane"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q41",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Dans la légende arthurienne, qui élève Lancelot ?",
+    "answers": [
+      "La Dame du Lac",
+      "Merlin",
+      "Morgane",
+      "Guenièvre"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q42",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros grec a navigué avec les Argonautes ?",
+    "answers": [
+      "Persée",
+      "Jason",
+      "Achille",
+      "Héraclès"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q43",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui a capturé Cerbère lors de ses travaux ?",
+    "answers": [
+      "Jason",
+      "Persée",
+      "Thésée",
+      "Héraclès"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q44",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Dans la légende arthurienne, qui élève Lancelot ?",
+    "answers": [
+      "Merlin",
+      "Guenièvre",
+      "La Dame du Lac",
+      "Morgane"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q45",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Dans la légende arthurienne, qui élève Lancelot ?",
+    "answers": [
+      "Morgane",
+      "La Dame du Lac",
+      "Guenièvre",
+      "Merlin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q46",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros est connu pour avoir tué Méduse ?",
+    "answers": [
+      "Persée",
+      "Bellérophon",
+      "Thésée",
+      "Héraclès"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q47",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Dans la légende arthurienne, qui élève Lancelot ?",
+    "answers": [
+      "Guenièvre",
+      "La Dame du Lac",
+      "Morgane",
+      "Merlin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q48",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui est la déesse nordique de l'amour et de la guerre ?",
+    "answers": [
+      "Sif",
+      "Freyja",
+      "Hel",
+      "Frigg"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q49",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle ville légendaire serait faite d'or pur ?",
+    "answers": [
+      "El Dorado",
+      "Shambhala",
+      "Ophir",
+      "Atlantide"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q50",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Dans la légende arthurienne, qui élève Lancelot ?",
+    "answers": [
+      "Guenièvre",
+      "Merlin",
+      "Morgane",
+      "La Dame du Lac"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q51",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui a capturé Cerbère lors de ses travaux ?",
+    "answers": [
+      "Persée",
+      "Thésée",
+      "Héraclès",
+      "Jason"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q52",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel monstre marin est mentionné dans les légendes nordiques ?",
+    "answers": [
+      "Leviathan",
+      "Siren",
+      "Hydre",
+      "Kraken"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q53",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros grec a navigué avec les Argonautes ?",
+    "answers": [
+      "Héraclès",
+      "Persée",
+      "Achille",
+      "Jason"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q54",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel monstre marin est mentionné dans les légendes nordiques ?",
+    "answers": [
+      "Hydre",
+      "Siren",
+      "Leviathan",
+      "Kraken"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q55",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel est le nom de l'épée brisée de Narsil reforgée en Andúril ?",
+    "answers": [
+      "Orcrist",
+      "Glamdring",
+      "Sting",
+      "Andúril"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q56",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui est la déesse nordique de l'amour et de la guerre ?",
+    "answers": [
+      "Frigg",
+      "Hel",
+      "Freyja",
+      "Sif"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q57",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel cheval ailé naît du sang de Méduse ?",
+    "answers": [
+      "Sleipnir",
+      "Pégase",
+      "Arion",
+      "Hippogriffe"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q58",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros grec a navigué avec les Argonautes ?",
+    "answers": [
+      "Persée",
+      "Jason",
+      "Achille",
+      "Héraclès"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q59",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros est connu pour avoir tué Méduse ?",
+    "answers": [
+      "Thésée",
+      "Héraclès",
+      "Persée",
+      "Bellérophon"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q60",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros est connu pour avoir tué Méduse ?",
+    "answers": [
+      "Héraclès",
+      "Bellérophon",
+      "Thésée",
+      "Persée"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q61",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros est connu pour avoir tué Méduse ?",
+    "answers": [
+      "Héraclès",
+      "Persée",
+      "Bellérophon",
+      "Thésée"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q62",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle cité engloutie est recherchée par les explorateurs ?",
+    "answers": [
+      "Shambhala",
+      "Atlantide",
+      "Ys",
+      "El Dorado"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q63",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel cheval ailé naît du sang de Méduse ?",
+    "answers": [
+      "Sleipnir",
+      "Hippogriffe",
+      "Pégase",
+      "Arion"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q64",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel monstre marin est mentionné dans les légendes nordiques ?",
+    "answers": [
+      "Hydre",
+      "Leviathan",
+      "Siren",
+      "Kraken"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q65",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui a capturé Cerbère lors de ses travaux ?",
+    "answers": [
+      "Jason",
+      "Thésée",
+      "Héraclès",
+      "Persée"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q66",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros grec a navigué avec les Argonautes ?",
+    "answers": [
+      "Achille",
+      "Héraclès",
+      "Jason",
+      "Persée"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q67",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle cité engloutie est recherchée par les explorateurs ?",
+    "answers": [
+      "Ys",
+      "Shambhala",
+      "Atlantide",
+      "El Dorado"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q68",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui est la déesse nordique de l'amour et de la guerre ?",
+    "answers": [
+      "Sif",
+      "Hel",
+      "Frigg",
+      "Freyja"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q69",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel est le nom de l'épée brisée de Narsil reforgée en Andúril ?",
+    "answers": [
+      "Glamdring",
+      "Andúril",
+      "Sting",
+      "Orcrist"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q70",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel est le nom de l'épée brisée de Narsil reforgée en Andúril ?",
+    "answers": [
+      "Sting",
+      "Glamdring",
+      "Orcrist",
+      "Andúril"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q71",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel cheval ailé naît du sang de Méduse ?",
+    "answers": [
+      "Arion",
+      "Sleipnir",
+      "Hippogriffe",
+      "Pégase"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q72",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel cheval ailé naît du sang de Méduse ?",
+    "answers": [
+      "Hippogriffe",
+      "Arion",
+      "Sleipnir",
+      "Pégase"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q73",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle cité engloutie est recherchée par les explorateurs ?",
+    "answers": [
+      "El Dorado",
+      "Atlantide",
+      "Shambhala",
+      "Ys"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q74",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui a capturé Cerbère lors de ses travaux ?",
+    "answers": [
+      "Héraclès",
+      "Jason",
+      "Thésée",
+      "Persée"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q75",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui a capturé Cerbère lors de ses travaux ?",
+    "answers": [
+      "Jason",
+      "Thésée",
+      "Persée",
+      "Héraclès"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q76",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel est le nom de l'épée brisée de Narsil reforgée en Andúril ?",
+    "answers": [
+      "Sting",
+      "Andúril",
+      "Orcrist",
+      "Glamdring"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q77",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle ville légendaire serait faite d'or pur ?",
+    "answers": [
+      "El Dorado",
+      "Shambhala",
+      "Atlantide",
+      "Ophir"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q78",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui a capturé Cerbère lors de ses travaux ?",
+    "answers": [
+      "Persée",
+      "Jason",
+      "Thésée",
+      "Héraclès"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q79",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel est le nom de l'épée brisée de Narsil reforgée en Andúril ?",
+    "answers": [
+      "Orcrist",
+      "Sting",
+      "Glamdring",
+      "Andúril"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q80",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel monstre marin est mentionné dans les légendes nordiques ?",
+    "answers": [
+      "Siren",
+      "Kraken",
+      "Leviathan",
+      "Hydre"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q81",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Dans la légende arthurienne, qui élève Lancelot ?",
+    "answers": [
+      "La Dame du Lac",
+      "Morgane",
+      "Merlin",
+      "Guenièvre"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q82",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros grec a navigué avec les Argonautes ?",
+    "answers": [
+      "Persée",
+      "Jason",
+      "Achille",
+      "Héraclès"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q83",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros grec a navigué avec les Argonautes ?",
+    "answers": [
+      "Persée",
+      "Achille",
+      "Héraclès",
+      "Jason"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q84",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle ville légendaire serait faite d'or pur ?",
+    "answers": [
+      "Shambhala",
+      "El Dorado",
+      "Ophir",
+      "Atlantide"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q85",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui a capturé Cerbère lors de ses travaux ?",
+    "answers": [
+      "Thésée",
+      "Héraclès",
+      "Persée",
+      "Jason"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q86",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui est la déesse nordique de l'amour et de la guerre ?",
+    "answers": [
+      "Frigg",
+      "Hel",
+      "Sif",
+      "Freyja"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q87",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Dans la légende arthurienne, qui élève Lancelot ?",
+    "answers": [
+      "Merlin",
+      "Morgane",
+      "La Dame du Lac",
+      "Guenièvre"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q88",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel est le nom de l'épée brisée de Narsil reforgée en Andúril ?",
+    "answers": [
+      "Sting",
+      "Andúril",
+      "Orcrist",
+      "Glamdring"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q89",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel cheval ailé naît du sang de Méduse ?",
+    "answers": [
+      "Hippogriffe",
+      "Sleipnir",
+      "Pégase",
+      "Arion"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q90",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle cité engloutie est recherchée par les explorateurs ?",
+    "answers": [
+      "Atlantide",
+      "Shambhala",
+      "Ys",
+      "El Dorado"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q91",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros est connu pour avoir tué Méduse ?",
+    "answers": [
+      "Persée",
+      "Thésée",
+      "Héraclès",
+      "Bellérophon"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q92",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel monstre marin est mentionné dans les légendes nordiques ?",
+    "answers": [
+      "Hydre",
+      "Kraken",
+      "Siren",
+      "Leviathan"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q93",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui a capturé Cerbère lors de ses travaux ?",
+    "answers": [
+      "Jason",
+      "Héraclès",
+      "Persée",
+      "Thésée"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q94",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel cheval ailé naît du sang de Méduse ?",
+    "answers": [
+      "Sleipnir",
+      "Hippogriffe",
+      "Pégase",
+      "Arion"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q95",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Dans la légende arthurienne, qui élève Lancelot ?",
+    "answers": [
+      "Guenièvre",
+      "Merlin",
+      "Morgane",
+      "La Dame du Lac"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q96",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros grec a navigué avec les Argonautes ?",
+    "answers": [
+      "Héraclès",
+      "Persée",
+      "Jason",
+      "Achille"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q97",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel cheval ailé naît du sang de Méduse ?",
+    "answers": [
+      "Sleipnir",
+      "Pégase",
+      "Arion",
+      "Hippogriffe"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q98",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel monstre marin est mentionné dans les légendes nordiques ?",
+    "answers": [
+      "Siren",
+      "Leviathan",
+      "Kraken",
+      "Hydre"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q99",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui est la déesse nordique de l'amour et de la guerre ?",
+    "answers": [
+      "Hel",
+      "Sif",
+      "Frigg",
+      "Freyja"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q100",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel monstre marin est mentionné dans les légendes nordiques ?",
+    "answers": [
+      "Siren",
+      "Kraken",
+      "Leviathan",
+      "Hydre"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q101",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui a capturé Cerbère lors de ses travaux ?",
+    "answers": [
+      "Persée",
+      "Thésée",
+      "Héraclès",
+      "Jason"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q102",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel monstre marin est mentionné dans les légendes nordiques ?",
+    "answers": [
+      "Hydre",
+      "Siren",
+      "Leviathan",
+      "Kraken"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q103",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle ville légendaire serait faite d'or pur ?",
+    "answers": [
+      "Ophir",
+      "Shambhala",
+      "El Dorado",
+      "Atlantide"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q104",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros grec a navigué avec les Argonautes ?",
+    "answers": [
+      "Persée",
+      "Jason",
+      "Achille",
+      "Héraclès"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q105",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle ville légendaire serait faite d'or pur ?",
+    "answers": [
+      "Shambhala",
+      "Atlantide",
+      "Ophir",
+      "El Dorado"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q106",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel monstre marin est mentionné dans les légendes nordiques ?",
+    "answers": [
+      "Hydre",
+      "Siren",
+      "Leviathan",
+      "Kraken"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q107",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel est le nom de l'épée brisée de Narsil reforgée en Andúril ?",
+    "answers": [
+      "Glamdring",
+      "Sting",
+      "Orcrist",
+      "Andúril"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q108",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle ville légendaire serait faite d'or pur ?",
+    "answers": [
+      "Shambhala",
+      "Ophir",
+      "El Dorado",
+      "Atlantide"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q109",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Dans la légende arthurienne, qui élève Lancelot ?",
+    "answers": [
+      "Guenièvre",
+      "Merlin",
+      "La Dame du Lac",
+      "Morgane"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q110",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros grec a navigué avec les Argonautes ?",
+    "answers": [
+      "Jason",
+      "Persée",
+      "Héraclès",
+      "Achille"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q111",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel monstre marin est mentionné dans les légendes nordiques ?",
+    "answers": [
+      "Siren",
+      "Hydre",
+      "Leviathan",
+      "Kraken"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q112",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle ville légendaire serait faite d'or pur ?",
+    "answers": [
+      "El Dorado",
+      "Atlantide",
+      "Shambhala",
+      "Ophir"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q113",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros grec a navigué avec les Argonautes ?",
+    "answers": [
+      "Jason",
+      "Persée",
+      "Héraclès",
+      "Achille"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q114",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros grec a navigué avec les Argonautes ?",
+    "answers": [
+      "Jason",
+      "Persée",
+      "Héraclès",
+      "Achille"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q115",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui a capturé Cerbère lors de ses travaux ?",
+    "answers": [
+      "Thésée",
+      "Héraclès",
+      "Jason",
+      "Persée"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q116",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui est la déesse nordique de l'amour et de la guerre ?",
+    "answers": [
+      "Hel",
+      "Freyja",
+      "Frigg",
+      "Sif"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q117",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Dans la légende arthurienne, qui élève Lancelot ?",
+    "answers": [
+      "Merlin",
+      "Morgane",
+      "La Dame du Lac",
+      "Guenièvre"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q118",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel est le nom de l'épée brisée de Narsil reforgée en Andúril ?",
+    "answers": [
+      "Orcrist",
+      "Glamdring",
+      "Andúril",
+      "Sting"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q119",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel cheval ailé naît du sang de Méduse ?",
+    "answers": [
+      "Pégase",
+      "Arion",
+      "Sleipnir",
+      "Hippogriffe"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q120",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros grec a navigué avec les Argonautes ?",
+    "answers": [
+      "Héraclès",
+      "Achille",
+      "Jason",
+      "Persée"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q121",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle cité engloutie est recherchée par les explorateurs ?",
+    "answers": [
+      "Shambhala",
+      "Atlantide",
+      "El Dorado",
+      "Ys"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q122",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel est le nom de l'épée brisée de Narsil reforgée en Andúril ?",
+    "answers": [
+      "Orcrist",
+      "Sting",
+      "Glamdring",
+      "Andúril"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q123",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel cheval ailé naît du sang de Méduse ?",
+    "answers": [
+      "Hippogriffe",
+      "Sleipnir",
+      "Arion",
+      "Pégase"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q124",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel est le nom de l'épée brisée de Narsil reforgée en Andúril ?",
+    "answers": [
+      "Orcrist",
+      "Andúril",
+      "Glamdring",
+      "Sting"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q125",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros grec a navigué avec les Argonautes ?",
+    "answers": [
+      "Héraclès",
+      "Achille",
+      "Persée",
+      "Jason"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q126",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui est la déesse nordique de l'amour et de la guerre ?",
+    "answers": [
+      "Sif",
+      "Hel",
+      "Frigg",
+      "Freyja"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q127",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle ville légendaire serait faite d'or pur ?",
+    "answers": [
+      "Ophir",
+      "Atlantide",
+      "El Dorado",
+      "Shambhala"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q128",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Dans la légende arthurienne, qui élève Lancelot ?",
+    "answers": [
+      "Morgane",
+      "Guenièvre",
+      "La Dame du Lac",
+      "Merlin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q129",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle cité engloutie est recherchée par les explorateurs ?",
+    "answers": [
+      "Shambhala",
+      "El Dorado",
+      "Ys",
+      "Atlantide"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q130",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros est connu pour avoir tué Méduse ?",
+    "answers": [
+      "Thésée",
+      "Persée",
+      "Héraclès",
+      "Bellérophon"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q131",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel est le nom de l'épée brisée de Narsil reforgée en Andúril ?",
+    "answers": [
+      "Andúril",
+      "Orcrist",
+      "Glamdring",
+      "Sting"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q132",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Dans la légende arthurienne, qui élève Lancelot ?",
+    "answers": [
+      "Guenièvre",
+      "Merlin",
+      "Morgane",
+      "La Dame du Lac"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q133",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros est connu pour avoir tué Méduse ?",
+    "answers": [
+      "Héraclès",
+      "Bellérophon",
+      "Persée",
+      "Thésée"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q134",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle cité engloutie est recherchée par les explorateurs ?",
+    "answers": [
+      "Ys",
+      "Shambhala",
+      "Atlantide",
+      "El Dorado"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q135",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Dans la légende arthurienne, qui élève Lancelot ?",
+    "answers": [
+      "Guenièvre",
+      "La Dame du Lac",
+      "Morgane",
+      "Merlin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q136",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel est le nom de l'épée brisée de Narsil reforgée en Andúril ?",
+    "answers": [
+      "Sting",
+      "Orcrist",
+      "Andúril",
+      "Glamdring"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q137",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui a capturé Cerbère lors de ses travaux ?",
+    "answers": [
+      "Persée",
+      "Thésée",
+      "Jason",
+      "Héraclès"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q138",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui est la déesse nordique de l'amour et de la guerre ?",
+    "answers": [
+      "Freyja",
+      "Frigg",
+      "Hel",
+      "Sif"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q139",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Dans la légende arthurienne, qui élève Lancelot ?",
+    "answers": [
+      "Merlin",
+      "Guenièvre",
+      "Morgane",
+      "La Dame du Lac"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q140",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel monstre marin est mentionné dans les légendes nordiques ?",
+    "answers": [
+      "Leviathan",
+      "Kraken",
+      "Hydre",
+      "Siren"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q141",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel est le nom de l'épée brisée de Narsil reforgée en Andúril ?",
+    "answers": [
+      "Andúril",
+      "Orcrist",
+      "Sting",
+      "Glamdring"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q142",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui est la déesse nordique de l'amour et de la guerre ?",
+    "answers": [
+      "Frigg",
+      "Hel",
+      "Freyja",
+      "Sif"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q143",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Dans la légende arthurienne, qui élève Lancelot ?",
+    "answers": [
+      "La Dame du Lac",
+      "Merlin",
+      "Guenièvre",
+      "Morgane"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q144",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle ville légendaire serait faite d'or pur ?",
+    "answers": [
+      "El Dorado",
+      "Ophir",
+      "Atlantide",
+      "Shambhala"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q145",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle cité engloutie est recherchée par les explorateurs ?",
+    "answers": [
+      "Atlantide",
+      "Ys",
+      "El Dorado",
+      "Shambhala"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q146",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel est le nom de l'épée brisée de Narsil reforgée en Andúril ?",
+    "answers": [
+      "Andúril",
+      "Orcrist",
+      "Sting",
+      "Glamdring"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q147",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel est le nom de l'épée brisée de Narsil reforgée en Andúril ?",
+    "answers": [
+      "Orcrist",
+      "Sting",
+      "Glamdring",
+      "Andúril"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q148",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel cheval ailé naît du sang de Méduse ?",
+    "answers": [
+      "Hippogriffe",
+      "Sleipnir",
+      "Pégase",
+      "Arion"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q149",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel monstre marin est mentionné dans les légendes nordiques ?",
+    "answers": [
+      "Leviathan",
+      "Kraken",
+      "Hydre",
+      "Siren"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q150",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui est la déesse nordique de l'amour et de la guerre ?",
+    "answers": [
+      "Frigg",
+      "Freyja",
+      "Hel",
+      "Sif"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q151",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui est la déesse nordique de l'amour et de la guerre ?",
+    "answers": [
+      "Hel",
+      "Sif",
+      "Frigg",
+      "Freyja"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q152",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros est connu pour avoir tué Méduse ?",
+    "answers": [
+      "Bellérophon",
+      "Thésée",
+      "Héraclès",
+      "Persée"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q153",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel cheval ailé naît du sang de Méduse ?",
+    "answers": [
+      "Pégase",
+      "Hippogriffe",
+      "Sleipnir",
+      "Arion"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q154",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Dans la légende arthurienne, qui élève Lancelot ?",
+    "answers": [
+      "Merlin",
+      "Guenièvre",
+      "Morgane",
+      "La Dame du Lac"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q155",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel est le nom de l'épée brisée de Narsil reforgée en Andúril ?",
+    "answers": [
+      "Andúril",
+      "Sting",
+      "Glamdring",
+      "Orcrist"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q156",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros grec a navigué avec les Argonautes ?",
+    "answers": [
+      "Achille",
+      "Héraclès",
+      "Jason",
+      "Persée"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q157",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros grec a navigué avec les Argonautes ?",
+    "answers": [
+      "Persée",
+      "Jason",
+      "Achille",
+      "Héraclès"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q158",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros grec a navigué avec les Argonautes ?",
+    "answers": [
+      "Persée",
+      "Héraclès",
+      "Jason",
+      "Achille"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q159",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros grec a navigué avec les Argonautes ?",
+    "answers": [
+      "Jason",
+      "Persée",
+      "Achille",
+      "Héraclès"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q160",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui est la déesse nordique de l'amour et de la guerre ?",
+    "answers": [
+      "Hel",
+      "Freyja",
+      "Frigg",
+      "Sif"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q161",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Dans la légende arthurienne, qui élève Lancelot ?",
+    "answers": [
+      "La Dame du Lac",
+      "Merlin",
+      "Guenièvre",
+      "Morgane"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q162",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle ville légendaire serait faite d'or pur ?",
+    "answers": [
+      "Shambhala",
+      "Atlantide",
+      "El Dorado",
+      "Ophir"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q163",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui est la déesse nordique de l'amour et de la guerre ?",
+    "answers": [
+      "Sif",
+      "Hel",
+      "Freyja",
+      "Frigg"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q164",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui est la déesse nordique de l'amour et de la guerre ?",
+    "answers": [
+      "Sif",
+      "Freyja",
+      "Hel",
+      "Frigg"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q165",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros grec a navigué avec les Argonautes ?",
+    "answers": [
+      "Héraclès",
+      "Achille",
+      "Jason",
+      "Persée"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q166",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle ville légendaire serait faite d'or pur ?",
+    "answers": [
+      "Ophir",
+      "Atlantide",
+      "El Dorado",
+      "Shambhala"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q167",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Dans la légende arthurienne, qui élève Lancelot ?",
+    "answers": [
+      "Morgane",
+      "La Dame du Lac",
+      "Guenièvre",
+      "Merlin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q168",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros grec a navigué avec les Argonautes ?",
+    "answers": [
+      "Jason",
+      "Héraclès",
+      "Persée",
+      "Achille"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q169",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Dans la légende arthurienne, qui élève Lancelot ?",
+    "answers": [
+      "Morgane",
+      "La Dame du Lac",
+      "Guenièvre",
+      "Merlin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q170",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Dans la légende arthurienne, qui élève Lancelot ?",
+    "answers": [
+      "La Dame du Lac",
+      "Guenièvre",
+      "Merlin",
+      "Morgane"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q171",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel monstre marin est mentionné dans les légendes nordiques ?",
+    "answers": [
+      "Siren",
+      "Leviathan",
+      "Kraken",
+      "Hydre"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q172",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui est la déesse nordique de l'amour et de la guerre ?",
+    "answers": [
+      "Frigg",
+      "Freyja",
+      "Sif",
+      "Hel"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q173",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui est la déesse nordique de l'amour et de la guerre ?",
+    "answers": [
+      "Frigg",
+      "Freyja",
+      "Sif",
+      "Hel"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q174",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel cheval ailé naît du sang de Méduse ?",
+    "answers": [
+      "Sleipnir",
+      "Pégase",
+      "Hippogriffe",
+      "Arion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q175",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros grec a navigué avec les Argonautes ?",
+    "answers": [
+      "Persée",
+      "Achille",
+      "Jason",
+      "Héraclès"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q176",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle ville légendaire serait faite d'or pur ?",
+    "answers": [
+      "Ophir",
+      "Shambhala",
+      "Atlantide",
+      "El Dorado"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q177",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel cheval ailé naît du sang de Méduse ?",
+    "answers": [
+      "Sleipnir",
+      "Arion",
+      "Hippogriffe",
+      "Pégase"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q178",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle cité engloutie est recherchée par les explorateurs ?",
+    "answers": [
+      "Ys",
+      "El Dorado",
+      "Shambhala",
+      "Atlantide"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q179",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros est connu pour avoir tué Méduse ?",
+    "answers": [
+      "Persée",
+      "Thésée",
+      "Héraclès",
+      "Bellérophon"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q180",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel cheval ailé naît du sang de Méduse ?",
+    "answers": [
+      "Arion",
+      "Hippogriffe",
+      "Sleipnir",
+      "Pégase"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q181",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle ville légendaire serait faite d'or pur ?",
+    "answers": [
+      "Shambhala",
+      "Ophir",
+      "El Dorado",
+      "Atlantide"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q182",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle cité engloutie est recherchée par les explorateurs ?",
+    "answers": [
+      "Shambhala",
+      "Ys",
+      "Atlantide",
+      "El Dorado"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q183",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel est le nom de l'épée brisée de Narsil reforgée en Andúril ?",
+    "answers": [
+      "Sting",
+      "Andúril",
+      "Orcrist",
+      "Glamdring"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q184",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel monstre marin est mentionné dans les légendes nordiques ?",
+    "answers": [
+      "Hydre",
+      "Leviathan",
+      "Kraken",
+      "Siren"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q185",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros est connu pour avoir tué Méduse ?",
+    "answers": [
+      "Persée",
+      "Héraclès",
+      "Thésée",
+      "Bellérophon"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q186",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle ville légendaire serait faite d'or pur ?",
+    "answers": [
+      "Shambhala",
+      "Ophir",
+      "Atlantide",
+      "El Dorado"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q187",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle cité engloutie est recherchée par les explorateurs ?",
+    "answers": [
+      "El Dorado",
+      "Ys",
+      "Atlantide",
+      "Shambhala"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q188",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros grec a navigué avec les Argonautes ?",
+    "answers": [
+      "Jason",
+      "Persée",
+      "Héraclès",
+      "Achille"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q189",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel est le nom de l'épée brisée de Narsil reforgée en Andúril ?",
+    "answers": [
+      "Orcrist",
+      "Andúril",
+      "Sting",
+      "Glamdring"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q190",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle ville légendaire serait faite d'or pur ?",
+    "answers": [
+      "El Dorado",
+      "Shambhala",
+      "Atlantide",
+      "Ophir"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q191",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros est connu pour avoir tué Méduse ?",
+    "answers": [
+      "Héraclès",
+      "Bellérophon",
+      "Persée",
+      "Thésée"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q192",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui est la déesse nordique de l'amour et de la guerre ?",
+    "answers": [
+      "Sif",
+      "Frigg",
+      "Freyja",
+      "Hel"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q193",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel cheval ailé naît du sang de Méduse ?",
+    "answers": [
+      "Hippogriffe",
+      "Pégase",
+      "Arion",
+      "Sleipnir"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q194",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui est la déesse nordique de l'amour et de la guerre ?",
+    "answers": [
+      "Hel",
+      "Freyja",
+      "Frigg",
+      "Sif"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q195",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel est le nom de l'épée brisée de Narsil reforgée en Andúril ?",
+    "answers": [
+      "Andúril",
+      "Sting",
+      "Orcrist",
+      "Glamdring"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q196",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel est le nom de l'épée brisée de Narsil reforgée en Andúril ?",
+    "answers": [
+      "Glamdring",
+      "Orcrist",
+      "Sting",
+      "Andúril"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q197",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel est le nom de l'épée brisée de Narsil reforgée en Andúril ?",
+    "answers": [
+      "Glamdring",
+      "Andúril",
+      "Sting",
+      "Orcrist"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q198",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel monstre marin est mentionné dans les légendes nordiques ?",
+    "answers": [
+      "Hydre",
+      "Kraken",
+      "Leviathan",
+      "Siren"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q199",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros grec a navigué avec les Argonautes ?",
+    "answers": [
+      "Persée",
+      "Jason",
+      "Achille",
+      "Héraclès"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q200",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel monstre marin est mentionné dans les légendes nordiques ?",
+    "answers": [
+      "Leviathan",
+      "Kraken",
+      "Siren",
+      "Hydre"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q201",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle ville légendaire serait faite d'or pur ?",
+    "answers": [
+      "Ophir",
+      "Shambhala",
+      "El Dorado",
+      "Atlantide"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q202",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui est la déesse nordique de l'amour et de la guerre ?",
+    "answers": [
+      "Hel",
+      "Freyja",
+      "Frigg",
+      "Sif"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q203",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle ville légendaire serait faite d'or pur ?",
+    "answers": [
+      "Ophir",
+      "El Dorado",
+      "Atlantide",
+      "Shambhala"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q204",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel monstre marin est mentionné dans les légendes nordiques ?",
+    "answers": [
+      "Leviathan",
+      "Hydre",
+      "Siren",
+      "Kraken"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q205",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel cheval ailé naît du sang de Méduse ?",
+    "answers": [
+      "Sleipnir",
+      "Pégase",
+      "Hippogriffe",
+      "Arion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q206",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros grec a navigué avec les Argonautes ?",
+    "answers": [
+      "Héraclès",
+      "Achille",
+      "Persée",
+      "Jason"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q207",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros est connu pour avoir tué Méduse ?",
+    "answers": [
+      "Bellérophon",
+      "Persée",
+      "Thésée",
+      "Héraclès"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q208",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros est connu pour avoir tué Méduse ?",
+    "answers": [
+      "Thésée",
+      "Bellérophon",
+      "Persée",
+      "Héraclès"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q209",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui a capturé Cerbère lors de ses travaux ?",
+    "answers": [
+      "Persée",
+      "Jason",
+      "Héraclès",
+      "Thésée"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q210",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle cité engloutie est recherchée par les explorateurs ?",
+    "answers": [
+      "El Dorado",
+      "Atlantide",
+      "Ys",
+      "Shambhala"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q211",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros est connu pour avoir tué Méduse ?",
+    "answers": [
+      "Bellérophon",
+      "Thésée",
+      "Héraclès",
+      "Persée"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q212",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle cité engloutie est recherchée par les explorateurs ?",
+    "answers": [
+      "Ys",
+      "Shambhala",
+      "El Dorado",
+      "Atlantide"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q213",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Dans la légende arthurienne, qui élève Lancelot ?",
+    "answers": [
+      "Morgane",
+      "La Dame du Lac",
+      "Guenièvre",
+      "Merlin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q214",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle cité engloutie est recherchée par les explorateurs ?",
+    "answers": [
+      "Ys",
+      "El Dorado",
+      "Atlantide",
+      "Shambhala"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q215",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Dans la légende arthurienne, qui élève Lancelot ?",
+    "answers": [
+      "Guenièvre",
+      "Merlin",
+      "Morgane",
+      "La Dame du Lac"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q216",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel cheval ailé naît du sang de Méduse ?",
+    "answers": [
+      "Sleipnir",
+      "Pégase",
+      "Hippogriffe",
+      "Arion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q217",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel est le nom de l'épée brisée de Narsil reforgée en Andúril ?",
+    "answers": [
+      "Sting",
+      "Glamdring",
+      "Andúril",
+      "Orcrist"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q218",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui est la déesse nordique de l'amour et de la guerre ?",
+    "answers": [
+      "Hel",
+      "Sif",
+      "Freyja",
+      "Frigg"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q219",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui est la déesse nordique de l'amour et de la guerre ?",
+    "answers": [
+      "Freyja",
+      "Sif",
+      "Frigg",
+      "Hel"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q220",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui a capturé Cerbère lors de ses travaux ?",
+    "answers": [
+      "Thésée",
+      "Persée",
+      "Héraclès",
+      "Jason"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q221",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle ville légendaire serait faite d'or pur ?",
+    "answers": [
+      "Ophir",
+      "Atlantide",
+      "Shambhala",
+      "El Dorado"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q222",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui est la déesse nordique de l'amour et de la guerre ?",
+    "answers": [
+      "Freyja",
+      "Sif",
+      "Frigg",
+      "Hel"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q223",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle ville légendaire serait faite d'or pur ?",
+    "answers": [
+      "Atlantide",
+      "Ophir",
+      "Shambhala",
+      "El Dorado"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q224",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel monstre marin est mentionné dans les légendes nordiques ?",
+    "answers": [
+      "Hydre",
+      "Kraken",
+      "Siren",
+      "Leviathan"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q225",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Dans la légende arthurienne, qui élève Lancelot ?",
+    "answers": [
+      "La Dame du Lac",
+      "Merlin",
+      "Morgane",
+      "Guenièvre"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q226",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Dans la légende arthurienne, qui élève Lancelot ?",
+    "answers": [
+      "Morgane",
+      "La Dame du Lac",
+      "Guenièvre",
+      "Merlin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q227",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel monstre marin est mentionné dans les légendes nordiques ?",
+    "answers": [
+      "Hydre",
+      "Kraken",
+      "Leviathan",
+      "Siren"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q228",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel monstre marin est mentionné dans les légendes nordiques ?",
+    "answers": [
+      "Leviathan",
+      "Siren",
+      "Kraken",
+      "Hydre"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q229",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui est la déesse nordique de l'amour et de la guerre ?",
+    "answers": [
+      "Sif",
+      "Frigg",
+      "Hel",
+      "Freyja"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q230",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle ville légendaire serait faite d'or pur ?",
+    "answers": [
+      "Shambhala",
+      "Atlantide",
+      "El Dorado",
+      "Ophir"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q231",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle cité engloutie est recherchée par les explorateurs ?",
+    "answers": [
+      "Ys",
+      "Atlantide",
+      "Shambhala",
+      "El Dorado"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q232",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel cheval ailé naît du sang de Méduse ?",
+    "answers": [
+      "Arion",
+      "Hippogriffe",
+      "Pégase",
+      "Sleipnir"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q233",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros grec a navigué avec les Argonautes ?",
+    "answers": [
+      "Héraclès",
+      "Jason",
+      "Persée",
+      "Achille"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q234",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui a capturé Cerbère lors de ses travaux ?",
+    "answers": [
+      "Héraclès",
+      "Thésée",
+      "Persée",
+      "Jason"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q235",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui a capturé Cerbère lors de ses travaux ?",
+    "answers": [
+      "Thésée",
+      "Persée",
+      "Jason",
+      "Héraclès"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q236",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui a capturé Cerbère lors de ses travaux ?",
+    "answers": [
+      "Thésée",
+      "Persée",
+      "Héraclès",
+      "Jason"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q237",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros est connu pour avoir tué Méduse ?",
+    "answers": [
+      "Bellérophon",
+      "Persée",
+      "Thésée",
+      "Héraclès"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q238",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle cité engloutie est recherchée par les explorateurs ?",
+    "answers": [
+      "Atlantide",
+      "Shambhala",
+      "Ys",
+      "El Dorado"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q239",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Dans la légende arthurienne, qui élève Lancelot ?",
+    "answers": [
+      "Morgane",
+      "Merlin",
+      "Guenièvre",
+      "La Dame du Lac"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q240",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui est la déesse nordique de l'amour et de la guerre ?",
+    "answers": [
+      "Freyja",
+      "Sif",
+      "Frigg",
+      "Hel"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q241",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle cité engloutie est recherchée par les explorateurs ?",
+    "answers": [
+      "Ys",
+      "El Dorado",
+      "Atlantide",
+      "Shambhala"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q242",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel cheval ailé naît du sang de Méduse ?",
+    "answers": [
+      "Sleipnir",
+      "Arion",
+      "Pégase",
+      "Hippogriffe"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q243",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Dans la légende arthurienne, qui élève Lancelot ?",
+    "answers": [
+      "Morgane",
+      "Merlin",
+      "Guenièvre",
+      "La Dame du Lac"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q244",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui a capturé Cerbère lors de ses travaux ?",
+    "answers": [
+      "Thésée",
+      "Persée",
+      "Héraclès",
+      "Jason"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q245",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle ville légendaire serait faite d'or pur ?",
+    "answers": [
+      "El Dorado",
+      "Ophir",
+      "Shambhala",
+      "Atlantide"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q246",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle cité engloutie est recherchée par les explorateurs ?",
+    "answers": [
+      "Atlantide",
+      "Ys",
+      "Shambhala",
+      "El Dorado"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q247",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Dans la légende arthurienne, qui élève Lancelot ?",
+    "answers": [
+      "Morgane",
+      "La Dame du Lac",
+      "Merlin",
+      "Guenièvre"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q248",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Dans la légende arthurienne, qui élève Lancelot ?",
+    "answers": [
+      "Morgane",
+      "La Dame du Lac",
+      "Merlin",
+      "Guenièvre"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q249",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel est le nom de l'épée brisée de Narsil reforgée en Andúril ?",
+    "answers": [
+      "Sting",
+      "Glamdring",
+      "Andúril",
+      "Orcrist"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q250",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros est connu pour avoir tué Méduse ?",
+    "answers": [
+      "Héraclès",
+      "Bellérophon",
+      "Persée",
+      "Thésée"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q251",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros grec a navigué avec les Argonautes ?",
+    "answers": [
+      "Jason",
+      "Persée",
+      "Héraclès",
+      "Achille"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q252",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui a capturé Cerbère lors de ses travaux ?",
+    "answers": [
+      "Héraclès",
+      "Jason",
+      "Thésée",
+      "Persée"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q253",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel cheval ailé naît du sang de Méduse ?",
+    "answers": [
+      "Sleipnir",
+      "Arion",
+      "Hippogriffe",
+      "Pégase"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q254",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel monstre marin est mentionné dans les légendes nordiques ?",
+    "answers": [
+      "Hydre",
+      "Siren",
+      "Leviathan",
+      "Kraken"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q255",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros grec a navigué avec les Argonautes ?",
+    "answers": [
+      "Achille",
+      "Héraclès",
+      "Jason",
+      "Persée"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q256",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui est la déesse nordique de l'amour et de la guerre ?",
+    "answers": [
+      "Hel",
+      "Sif",
+      "Frigg",
+      "Freyja"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q257",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui est la déesse nordique de l'amour et de la guerre ?",
+    "answers": [
+      "Frigg",
+      "Hel",
+      "Sif",
+      "Freyja"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q258",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui a capturé Cerbère lors de ses travaux ?",
+    "answers": [
+      "Héraclès",
+      "Jason",
+      "Thésée",
+      "Persée"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q259",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle ville légendaire serait faite d'or pur ?",
+    "answers": [
+      "Shambhala",
+      "El Dorado",
+      "Atlantide",
+      "Ophir"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q260",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel cheval ailé naît du sang de Méduse ?",
+    "answers": [
+      "Pégase",
+      "Hippogriffe",
+      "Arion",
+      "Sleipnir"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q261",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros est connu pour avoir tué Méduse ?",
+    "answers": [
+      "Persée",
+      "Héraclès",
+      "Bellérophon",
+      "Thésée"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q262",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Dans la légende arthurienne, qui élève Lancelot ?",
+    "answers": [
+      "La Dame du Lac",
+      "Morgane",
+      "Guenièvre",
+      "Merlin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q263",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle ville légendaire serait faite d'or pur ?",
+    "answers": [
+      "Shambhala",
+      "Atlantide",
+      "Ophir",
+      "El Dorado"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q264",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel cheval ailé naît du sang de Méduse ?",
+    "answers": [
+      "Arion",
+      "Sleipnir",
+      "Pégase",
+      "Hippogriffe"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q265",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel monstre marin est mentionné dans les légendes nordiques ?",
+    "answers": [
+      "Leviathan",
+      "Kraken",
+      "Hydre",
+      "Siren"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q266",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle ville légendaire serait faite d'or pur ?",
+    "answers": [
+      "Shambhala",
+      "Ophir",
+      "Atlantide",
+      "El Dorado"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q267",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle cité engloutie est recherchée par les explorateurs ?",
+    "answers": [
+      "El Dorado",
+      "Atlantide",
+      "Ys",
+      "Shambhala"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q268",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros grec a navigué avec les Argonautes ?",
+    "answers": [
+      "Persée",
+      "Héraclès",
+      "Jason",
+      "Achille"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q269",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui est la déesse nordique de l'amour et de la guerre ?",
+    "answers": [
+      "Hel",
+      "Frigg",
+      "Freyja",
+      "Sif"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q270",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui a capturé Cerbère lors de ses travaux ?",
+    "answers": [
+      "Héraclès",
+      "Persée",
+      "Thésée",
+      "Jason"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q271",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros est connu pour avoir tué Méduse ?",
+    "answers": [
+      "Bellérophon",
+      "Persée",
+      "Héraclès",
+      "Thésée"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q272",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui est la déesse nordique de l'amour et de la guerre ?",
+    "answers": [
+      "Freyja",
+      "Sif",
+      "Hel",
+      "Frigg"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q273",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros grec a navigué avec les Argonautes ?",
+    "answers": [
+      "Persée",
+      "Achille",
+      "Jason",
+      "Héraclès"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q274",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle cité engloutie est recherchée par les explorateurs ?",
+    "answers": [
+      "Atlantide",
+      "El Dorado",
+      "Shambhala",
+      "Ys"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q275",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui est la déesse nordique de l'amour et de la guerre ?",
+    "answers": [
+      "Sif",
+      "Hel",
+      "Frigg",
+      "Freyja"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q276",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros grec a navigué avec les Argonautes ?",
+    "answers": [
+      "Jason",
+      "Héraclès",
+      "Achille",
+      "Persée"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q277",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle cité engloutie est recherchée par les explorateurs ?",
+    "answers": [
+      "Atlantide",
+      "Ys",
+      "El Dorado",
+      "Shambhala"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q278",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros grec a navigué avec les Argonautes ?",
+    "answers": [
+      "Héraclès",
+      "Jason",
+      "Persée",
+      "Achille"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q279",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle cité engloutie est recherchée par les explorateurs ?",
+    "answers": [
+      "Shambhala",
+      "El Dorado",
+      "Atlantide",
+      "Ys"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q280",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui est la déesse nordique de l'amour et de la guerre ?",
+    "answers": [
+      "Sif",
+      "Freyja",
+      "Hel",
+      "Frigg"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q281",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel est le nom de l'épée brisée de Narsil reforgée en Andúril ?",
+    "answers": [
+      "Glamdring",
+      "Andúril",
+      "Sting",
+      "Orcrist"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q282",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle cité engloutie est recherchée par les explorateurs ?",
+    "answers": [
+      "Ys",
+      "Shambhala",
+      "Atlantide",
+      "El Dorado"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q283",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel est le nom de l'épée brisée de Narsil reforgée en Andúril ?",
+    "answers": [
+      "Glamdring",
+      "Orcrist",
+      "Andúril",
+      "Sting"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q284",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros grec a navigué avec les Argonautes ?",
+    "answers": [
+      "Héraclès",
+      "Persée",
+      "Jason",
+      "Achille"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q285",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle ville légendaire serait faite d'or pur ?",
+    "answers": [
+      "Atlantide",
+      "Shambhala",
+      "Ophir",
+      "El Dorado"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q286",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel cheval ailé naît du sang de Méduse ?",
+    "answers": [
+      "Hippogriffe",
+      "Sleipnir",
+      "Arion",
+      "Pégase"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q287",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel héros est connu pour avoir tué Méduse ?",
+    "answers": [
+      "Persée",
+      "Thésée",
+      "Héraclès",
+      "Bellérophon"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q288",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle ville légendaire serait faite d'or pur ?",
+    "answers": [
+      "Shambhala",
+      "Ophir",
+      "Atlantide",
+      "El Dorado"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q289",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel monstre marin est mentionné dans les légendes nordiques ?",
+    "answers": [
+      "Kraken",
+      "Siren",
+      "Hydre",
+      "Leviathan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q290",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel cheval ailé naît du sang de Méduse ?",
+    "answers": [
+      "Hippogriffe",
+      "Sleipnir",
+      "Pégase",
+      "Arion"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q291",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel est le nom de l'épée brisée de Narsil reforgée en Andúril ?",
+    "answers": [
+      "Orcrist",
+      "Sting",
+      "Glamdring",
+      "Andúril"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q292",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle cité engloutie est recherchée par les explorateurs ?",
+    "answers": [
+      "Atlantide",
+      "El Dorado",
+      "Shambhala",
+      "Ys"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q293",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel est le nom de l'épée brisée de Narsil reforgée en Andúril ?",
+    "answers": [
+      "Glamdring",
+      "Andúril",
+      "Orcrist",
+      "Sting"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q294",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Dans la légende arthurienne, qui élève Lancelot ?",
+    "answers": [
+      "Morgane",
+      "La Dame du Lac",
+      "Guenièvre",
+      "Merlin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q295",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel cheval ailé naît du sang de Méduse ?",
+    "answers": [
+      "Pégase",
+      "Sleipnir",
+      "Arion",
+      "Hippogriffe"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q296",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quel cheval ailé naît du sang de Méduse ?",
+    "answers": [
+      "Sleipnir",
+      "Pégase",
+      "Arion",
+      "Hippogriffe"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q297",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Qui est la déesse nordique de l'amour et de la guerre ?",
+    "answers": [
+      "Sif",
+      "Hel",
+      "Frigg",
+      "Freyja"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q298",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle cité engloutie est recherchée par les explorateurs ?",
+    "answers": [
+      "El Dorado",
+      "Atlantide",
+      "Shambhala",
+      "Ys"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q299",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle cité engloutie est recherchée par les explorateurs ?",
+    "answers": [
+      "Atlantide",
+      "Shambhala",
+      "Ys",
+      "El Dorado"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q300",
+    "category": "Légendes",
+    "difficulty": "Moyen",
+    "text": "Quelle ville légendaire serait faite d'or pur ?",
+    "answers": [
+      "Shambhala",
+      "Ophir",
+      "Atlantide",
+      "El Dorado"
+    ],
+    "correctIndex": 3
+  }
+]
