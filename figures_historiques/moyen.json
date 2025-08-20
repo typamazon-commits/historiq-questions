@@ -1,0 +1,3902 @@
+[
+  {
+    "id": "q1",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était la première femme à obtenir un prix Nobel ?",
+    "answers": [
+      "Marie Curie",
+      "Dorothy Hodgkin",
+      "Irène Joliot-Curie",
+      "Rosalind Franklin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q2",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était la première femme à obtenir un prix Nobel ?",
+    "answers": [
+      "Dorothy Hodgkin",
+      "Rosalind Franklin",
+      "Irène Joliot-Curie",
+      "Marie Curie"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q3",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a dirigé l'Union soviétique pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Nikita Khrouchtchev",
+      "Joseph Staline",
+      "Leon Trotski",
+      "Vladimir Lénine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q4",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a découvert la pénicilline ?",
+    "answers": [
+      "Louis Pasteur",
+      "Howard Florey",
+      "Joseph Lister",
+      "Alexander Fleming"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q5",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel chef militaire carthaginois a traversé les Alpes avec des éléphants ?",
+    "answers": [
+      "Hannon",
+      "Hannibal Barca",
+      "Mago Barca",
+      "Hasdrubal"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q6",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel roi d'Angleterre a eu six épouses ?",
+    "answers": [
+      "Jacques Ier",
+      "Charles II",
+      "Henri VIII",
+      "Édouard VI"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q7",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier chancelier de l'Allemagne unifiée en 1871 ?",
+    "answers": [
+      "Adolf Hitler",
+      "Otto von Bismarck",
+      "Wilhelm I",
+      "Theobald von Bethmann-Hollweg"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q8",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a dirigé l'Union soviétique pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Nikita Khrouchtchev",
+      "Vladimir Lénine",
+      "Leon Trotski",
+      "Joseph Staline"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q9",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été l'empereur du Japon pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Akihito",
+      "Taisho",
+      "Hirohito",
+      "Meiji"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q10",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été l'empereur du Japon pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Taisho",
+      "Hirohito",
+      "Meiji",
+      "Akihito"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q11",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier chancelier de l'Allemagne unifiée en 1871 ?",
+    "answers": [
+      "Theobald von Bethmann-Hollweg",
+      "Wilhelm I",
+      "Otto von Bismarck",
+      "Adolf Hitler"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q12",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel roi d'Angleterre a eu six épouses ?",
+    "answers": [
+      "Charles II",
+      "Édouard VI",
+      "Henri VIII",
+      "Jacques Ier"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q13",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier chancelier de l'Allemagne unifiée en 1871 ?",
+    "answers": [
+      "Theobald von Bethmann-Hollweg",
+      "Adolf Hitler",
+      "Wilhelm I",
+      "Otto von Bismarck"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q14",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur portugais a contourné l'Afrique pour atteindre l'Inde ?",
+    "answers": [
+      "Vasco de Gama",
+      "Pedro Álvares Cabral",
+      "Bartolomeu Dias",
+      "Fernand de Magellan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q15",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était la première femme à obtenir un prix Nobel ?",
+    "answers": [
+      "Rosalind Franklin",
+      "Marie Curie",
+      "Dorothy Hodgkin",
+      "Irène Joliot-Curie"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q16",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel chef militaire carthaginois a traversé les Alpes avec des éléphants ?",
+    "answers": [
+      "Hannibal Barca",
+      "Hannon",
+      "Mago Barca",
+      "Hasdrubal"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q17",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était le dirigeant chinois pendant la Longue Marche ?",
+    "answers": [
+      "Mao Zedong",
+      "Deng Xiaoping",
+      "Sun Yat-sen",
+      "Zhou Enlai"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q18",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a dirigé l'Union soviétique pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Nikita Khrouchtchev",
+      "Vladimir Lénine",
+      "Joseph Staline",
+      "Leon Trotski"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q19",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier président de la Cinquième République française ?",
+    "answers": [
+      "René Coty",
+      "Charles de Gaulle",
+      "François Mitterrand",
+      "Georges Pompidou"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q20",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était la première femme à obtenir un prix Nobel ?",
+    "answers": [
+      "Rosalind Franklin",
+      "Dorothy Hodgkin",
+      "Marie Curie",
+      "Irène Joliot-Curie"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q21",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier chancelier de l'Allemagne unifiée en 1871 ?",
+    "answers": [
+      "Otto von Bismarck",
+      "Theobald von Bethmann-Hollweg",
+      "Adolf Hitler",
+      "Wilhelm I"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q22",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était le dirigeant chinois pendant la Longue Marche ?",
+    "answers": [
+      "Sun Yat-sen",
+      "Zhou Enlai",
+      "Mao Zedong",
+      "Deng Xiaoping"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q23",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel roi d'Angleterre a eu six épouses ?",
+    "answers": [
+      "Jacques Ier",
+      "Henri VIII",
+      "Charles II",
+      "Édouard VI"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q24",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était le dirigeant chinois pendant la Longue Marche ?",
+    "answers": [
+      "Deng Xiaoping",
+      "Mao Zedong",
+      "Zhou Enlai",
+      "Sun Yat-sen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q25",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a dirigé l'Union soviétique pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Joseph Staline",
+      "Nikita Khrouchtchev",
+      "Vladimir Lénine",
+      "Leon Trotski"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q26",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier président de la Cinquième République française ?",
+    "answers": [
+      "Charles de Gaulle",
+      "François Mitterrand",
+      "René Coty",
+      "Georges Pompidou"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q27",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a découvert la pénicilline ?",
+    "answers": [
+      "Alexander Fleming",
+      "Howard Florey",
+      "Joseph Lister",
+      "Louis Pasteur"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q28",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été l'empereur du Japon pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Taisho",
+      "Akihito",
+      "Meiji",
+      "Hirohito"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q29",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a découvert la pénicilline ?",
+    "answers": [
+      "Alexander Fleming",
+      "Howard Florey",
+      "Joseph Lister",
+      "Louis Pasteur"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q30",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel roi d'Angleterre a eu six épouses ?",
+    "answers": [
+      "Charles II",
+      "Henri VIII",
+      "Édouard VI",
+      "Jacques Ier"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q31",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était la première femme à obtenir un prix Nobel ?",
+    "answers": [
+      "Marie Curie",
+      "Rosalind Franklin",
+      "Irène Joliot-Curie",
+      "Dorothy Hodgkin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q32",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel chef militaire carthaginois a traversé les Alpes avec des éléphants ?",
+    "answers": [
+      "Hannibal Barca",
+      "Hasdrubal",
+      "Hannon",
+      "Mago Barca"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q33",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier chancelier de l'Allemagne unifiée en 1871 ?",
+    "answers": [
+      "Theobald von Bethmann-Hollweg",
+      "Wilhelm I",
+      "Adolf Hitler",
+      "Otto von Bismarck"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q34",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel roi d'Angleterre a eu six épouses ?",
+    "answers": [
+      "Henri VIII",
+      "Édouard VI",
+      "Jacques Ier",
+      "Charles II"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q35",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur portugais a contourné l'Afrique pour atteindre l'Inde ?",
+    "answers": [
+      "Vasco de Gama",
+      "Bartolomeu Dias",
+      "Pedro Álvares Cabral",
+      "Fernand de Magellan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q36",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été l'empereur du Japon pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Akihito",
+      "Taisho",
+      "Meiji",
+      "Hirohito"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q37",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur portugais a contourné l'Afrique pour atteindre l'Inde ?",
+    "answers": [
+      "Bartolomeu Dias",
+      "Fernand de Magellan",
+      "Vasco de Gama",
+      "Pedro Álvares Cabral"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q38",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel chef militaire carthaginois a traversé les Alpes avec des éléphants ?",
+    "answers": [
+      "Hannibal Barca",
+      "Hannon",
+      "Hasdrubal",
+      "Mago Barca"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q39",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été l'empereur du Japon pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Akihito",
+      "Taisho",
+      "Meiji",
+      "Hirohito"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q40",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier chancelier de l'Allemagne unifiée en 1871 ?",
+    "answers": [
+      "Otto von Bismarck",
+      "Theobald von Bethmann-Hollweg",
+      "Adolf Hitler",
+      "Wilhelm I"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q41",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel chef militaire carthaginois a traversé les Alpes avec des éléphants ?",
+    "answers": [
+      "Mago Barca",
+      "Hannon",
+      "Hannibal Barca",
+      "Hasdrubal"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q42",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel roi d'Angleterre a eu six épouses ?",
+    "answers": [
+      "Henri VIII",
+      "Jacques Ier",
+      "Charles II",
+      "Édouard VI"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q43",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier chancelier de l'Allemagne unifiée en 1871 ?",
+    "answers": [
+      "Otto von Bismarck",
+      "Adolf Hitler",
+      "Theobald von Bethmann-Hollweg",
+      "Wilhelm I"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q44",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier chancelier de l'Allemagne unifiée en 1871 ?",
+    "answers": [
+      "Otto von Bismarck",
+      "Theobald von Bethmann-Hollweg",
+      "Adolf Hitler",
+      "Wilhelm I"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q45",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été l'empereur du Japon pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Hirohito",
+      "Meiji",
+      "Akihito",
+      "Taisho"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q46",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur portugais a contourné l'Afrique pour atteindre l'Inde ?",
+    "answers": [
+      "Pedro Álvares Cabral",
+      "Fernand de Magellan",
+      "Bartolomeu Dias",
+      "Vasco de Gama"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q47",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a découvert la pénicilline ?",
+    "answers": [
+      "Joseph Lister",
+      "Howard Florey",
+      "Louis Pasteur",
+      "Alexander Fleming"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q48",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a dirigé l'Union soviétique pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Nikita Khrouchtchev",
+      "Leon Trotski",
+      "Vladimir Lénine",
+      "Joseph Staline"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q49",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier chancelier de l'Allemagne unifiée en 1871 ?",
+    "answers": [
+      "Otto von Bismarck",
+      "Adolf Hitler",
+      "Theobald von Bethmann-Hollweg",
+      "Wilhelm I"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q50",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était la première femme à obtenir un prix Nobel ?",
+    "answers": [
+      "Irène Joliot-Curie",
+      "Marie Curie",
+      "Dorothy Hodgkin",
+      "Rosalind Franklin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q51",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier chancelier de l'Allemagne unifiée en 1871 ?",
+    "answers": [
+      "Theobald von Bethmann-Hollweg",
+      "Otto von Bismarck",
+      "Wilhelm I",
+      "Adolf Hitler"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q52",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été l'empereur du Japon pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Hirohito",
+      "Meiji",
+      "Taisho",
+      "Akihito"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q53",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été l'empereur du Japon pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Meiji",
+      "Akihito",
+      "Taisho",
+      "Hirohito"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q54",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était la première femme à obtenir un prix Nobel ?",
+    "answers": [
+      "Irène Joliot-Curie",
+      "Marie Curie",
+      "Dorothy Hodgkin",
+      "Rosalind Franklin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q55",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier chancelier de l'Allemagne unifiée en 1871 ?",
+    "answers": [
+      "Theobald von Bethmann-Hollweg",
+      "Wilhelm I",
+      "Otto von Bismarck",
+      "Adolf Hitler"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q56",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était le dirigeant chinois pendant la Longue Marche ?",
+    "answers": [
+      "Sun Yat-sen",
+      "Deng Xiaoping",
+      "Mao Zedong",
+      "Zhou Enlai"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q57",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier président de la Cinquième République française ?",
+    "answers": [
+      "Charles de Gaulle",
+      "Georges Pompidou",
+      "René Coty",
+      "François Mitterrand"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q58",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a dirigé l'Union soviétique pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Leon Trotski",
+      "Nikita Khrouchtchev",
+      "Vladimir Lénine",
+      "Joseph Staline"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q59",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été l'empereur du Japon pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Hirohito",
+      "Taisho",
+      "Akihito",
+      "Meiji"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q60",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a dirigé l'Union soviétique pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Joseph Staline",
+      "Vladimir Lénine",
+      "Leon Trotski",
+      "Nikita Khrouchtchev"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q61",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel chef militaire carthaginois a traversé les Alpes avec des éléphants ?",
+    "answers": [
+      "Hannon",
+      "Hannibal Barca",
+      "Hasdrubal",
+      "Mago Barca"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q62",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel chef militaire carthaginois a traversé les Alpes avec des éléphants ?",
+    "answers": [
+      "Hasdrubal",
+      "Hannibal Barca",
+      "Mago Barca",
+      "Hannon"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q63",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a découvert la pénicilline ?",
+    "answers": [
+      "Joseph Lister",
+      "Alexander Fleming",
+      "Howard Florey",
+      "Louis Pasteur"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q64",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier président de la Cinquième République française ?",
+    "answers": [
+      "Charles de Gaulle",
+      "Georges Pompidou",
+      "François Mitterrand",
+      "René Coty"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q65",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était le dirigeant chinois pendant la Longue Marche ?",
+    "answers": [
+      "Mao Zedong",
+      "Deng Xiaoping",
+      "Sun Yat-sen",
+      "Zhou Enlai"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q66",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a découvert la pénicilline ?",
+    "answers": [
+      "Alexander Fleming",
+      "Joseph Lister",
+      "Louis Pasteur",
+      "Howard Florey"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q67",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a découvert la pénicilline ?",
+    "answers": [
+      "Joseph Lister",
+      "Howard Florey",
+      "Louis Pasteur",
+      "Alexander Fleming"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q68",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier président de la Cinquième République française ?",
+    "answers": [
+      "René Coty",
+      "Georges Pompidou",
+      "Charles de Gaulle",
+      "François Mitterrand"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q69",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était la première femme à obtenir un prix Nobel ?",
+    "answers": [
+      "Dorothy Hodgkin",
+      "Irène Joliot-Curie",
+      "Rosalind Franklin",
+      "Marie Curie"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q70",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel roi d'Angleterre a eu six épouses ?",
+    "answers": [
+      "Charles II",
+      "Édouard VI",
+      "Henri VIII",
+      "Jacques Ier"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q71",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier chancelier de l'Allemagne unifiée en 1871 ?",
+    "answers": [
+      "Theobald von Bethmann-Hollweg",
+      "Adolf Hitler",
+      "Wilhelm I",
+      "Otto von Bismarck"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q72",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier chancelier de l'Allemagne unifiée en 1871 ?",
+    "answers": [
+      "Adolf Hitler",
+      "Wilhelm I",
+      "Otto von Bismarck",
+      "Theobald von Bethmann-Hollweg"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q73",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été l'empereur du Japon pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Akihito",
+      "Taisho",
+      "Meiji",
+      "Hirohito"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q74",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était le dirigeant chinois pendant la Longue Marche ?",
+    "answers": [
+      "Sun Yat-sen",
+      "Deng Xiaoping",
+      "Mao Zedong",
+      "Zhou Enlai"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q75",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a découvert la pénicilline ?",
+    "answers": [
+      "Howard Florey",
+      "Alexander Fleming",
+      "Joseph Lister",
+      "Louis Pasteur"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q76",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était la première femme à obtenir un prix Nobel ?",
+    "answers": [
+      "Dorothy Hodgkin",
+      "Irène Joliot-Curie",
+      "Marie Curie",
+      "Rosalind Franklin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q77",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a dirigé l'Union soviétique pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Nikita Khrouchtchev",
+      "Vladimir Lénine",
+      "Leon Trotski",
+      "Joseph Staline"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q78",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été l'empereur du Japon pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Akihito",
+      "Taisho",
+      "Meiji",
+      "Hirohito"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q79",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier président de la Cinquième République française ?",
+    "answers": [
+      "Charles de Gaulle",
+      "René Coty",
+      "Georges Pompidou",
+      "François Mitterrand"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q80",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier chancelier de l'Allemagne unifiée en 1871 ?",
+    "answers": [
+      "Theobald von Bethmann-Hollweg",
+      "Adolf Hitler",
+      "Wilhelm I",
+      "Otto von Bismarck"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q81",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était le dirigeant chinois pendant la Longue Marche ?",
+    "answers": [
+      "Sun Yat-sen",
+      "Deng Xiaoping",
+      "Zhou Enlai",
+      "Mao Zedong"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q82",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a dirigé l'Union soviétique pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Nikita Khrouchtchev",
+      "Vladimir Lénine",
+      "Leon Trotski",
+      "Joseph Staline"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q83",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur portugais a contourné l'Afrique pour atteindre l'Inde ?",
+    "answers": [
+      "Fernand de Magellan",
+      "Bartolomeu Dias",
+      "Vasco de Gama",
+      "Pedro Álvares Cabral"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q84",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel chef militaire carthaginois a traversé les Alpes avec des éléphants ?",
+    "answers": [
+      "Mago Barca",
+      "Hannon",
+      "Hannibal Barca",
+      "Hasdrubal"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q85",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a découvert la pénicilline ?",
+    "answers": [
+      "Howard Florey",
+      "Louis Pasteur",
+      "Alexander Fleming",
+      "Joseph Lister"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q86",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier président de la Cinquième République française ?",
+    "answers": [
+      "Georges Pompidou",
+      "François Mitterrand",
+      "Charles de Gaulle",
+      "René Coty"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q87",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel chef militaire carthaginois a traversé les Alpes avec des éléphants ?",
+    "answers": [
+      "Hannon",
+      "Mago Barca",
+      "Hannibal Barca",
+      "Hasdrubal"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q88",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été l'empereur du Japon pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Akihito",
+      "Hirohito",
+      "Taisho",
+      "Meiji"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q89",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier chancelier de l'Allemagne unifiée en 1871 ?",
+    "answers": [
+      "Otto von Bismarck",
+      "Adolf Hitler",
+      "Wilhelm I",
+      "Theobald von Bethmann-Hollweg"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q90",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était la première femme à obtenir un prix Nobel ?",
+    "answers": [
+      "Marie Curie",
+      "Rosalind Franklin",
+      "Dorothy Hodgkin",
+      "Irène Joliot-Curie"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q91",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a découvert la pénicilline ?",
+    "answers": [
+      "Alexander Fleming",
+      "Louis Pasteur",
+      "Joseph Lister",
+      "Howard Florey"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q92",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel chef militaire carthaginois a traversé les Alpes avec des éléphants ?",
+    "answers": [
+      "Hannon",
+      "Hannibal Barca",
+      "Mago Barca",
+      "Hasdrubal"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q93",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur portugais a contourné l'Afrique pour atteindre l'Inde ?",
+    "answers": [
+      "Fernand de Magellan",
+      "Pedro Álvares Cabral",
+      "Vasco de Gama",
+      "Bartolomeu Dias"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q94",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur portugais a contourné l'Afrique pour atteindre l'Inde ?",
+    "answers": [
+      "Bartolomeu Dias",
+      "Fernand de Magellan",
+      "Pedro Álvares Cabral",
+      "Vasco de Gama"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q95",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a dirigé l'Union soviétique pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Leon Trotski",
+      "Nikita Khrouchtchev",
+      "Vladimir Lénine",
+      "Joseph Staline"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q96",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était la première femme à obtenir un prix Nobel ?",
+    "answers": [
+      "Marie Curie",
+      "Dorothy Hodgkin",
+      "Rosalind Franklin",
+      "Irène Joliot-Curie"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q97",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel chef militaire carthaginois a traversé les Alpes avec des éléphants ?",
+    "answers": [
+      "Mago Barca",
+      "Hasdrubal",
+      "Hannon",
+      "Hannibal Barca"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q98",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur portugais a contourné l'Afrique pour atteindre l'Inde ?",
+    "answers": [
+      "Bartolomeu Dias",
+      "Vasco de Gama",
+      "Pedro Álvares Cabral",
+      "Fernand de Magellan"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q99",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a dirigé l'Union soviétique pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Vladimir Lénine",
+      "Leon Trotski",
+      "Nikita Khrouchtchev",
+      "Joseph Staline"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q100",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur portugais a contourné l'Afrique pour atteindre l'Inde ?",
+    "answers": [
+      "Pedro Álvares Cabral",
+      "Fernand de Magellan",
+      "Vasco de Gama",
+      "Bartolomeu Dias"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q101",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel chef militaire carthaginois a traversé les Alpes avec des éléphants ?",
+    "answers": [
+      "Hannibal Barca",
+      "Mago Barca",
+      "Hannon",
+      "Hasdrubal"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q102",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier chancelier de l'Allemagne unifiée en 1871 ?",
+    "answers": [
+      "Adolf Hitler",
+      "Theobald von Bethmann-Hollweg",
+      "Wilhelm I",
+      "Otto von Bismarck"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q103",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a dirigé l'Union soviétique pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Nikita Khrouchtchev",
+      "Joseph Staline",
+      "Leon Trotski",
+      "Vladimir Lénine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q104",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était la première femme à obtenir un prix Nobel ?",
+    "answers": [
+      "Dorothy Hodgkin",
+      "Marie Curie",
+      "Rosalind Franklin",
+      "Irène Joliot-Curie"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q105",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel roi d'Angleterre a eu six épouses ?",
+    "answers": [
+      "Charles II",
+      "Édouard VI",
+      "Jacques Ier",
+      "Henri VIII"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q106",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a découvert la pénicilline ?",
+    "answers": [
+      "Joseph Lister",
+      "Alexander Fleming",
+      "Howard Florey",
+      "Louis Pasteur"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q107",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel chef militaire carthaginois a traversé les Alpes avec des éléphants ?",
+    "answers": [
+      "Hasdrubal",
+      "Mago Barca",
+      "Hannon",
+      "Hannibal Barca"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q108",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a découvert la pénicilline ?",
+    "answers": [
+      "Joseph Lister",
+      "Howard Florey",
+      "Louis Pasteur",
+      "Alexander Fleming"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q109",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier chancelier de l'Allemagne unifiée en 1871 ?",
+    "answers": [
+      "Otto von Bismarck",
+      "Wilhelm I",
+      "Adolf Hitler",
+      "Theobald von Bethmann-Hollweg"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q110",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel roi d'Angleterre a eu six épouses ?",
+    "answers": [
+      "Henri VIII",
+      "Charles II",
+      "Jacques Ier",
+      "Édouard VI"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q111",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur portugais a contourné l'Afrique pour atteindre l'Inde ?",
+    "answers": [
+      "Fernand de Magellan",
+      "Vasco de Gama",
+      "Pedro Álvares Cabral",
+      "Bartolomeu Dias"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q112",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier président de la Cinquième République française ?",
+    "answers": [
+      "François Mitterrand",
+      "Charles de Gaulle",
+      "Georges Pompidou",
+      "René Coty"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q113",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier chancelier de l'Allemagne unifiée en 1871 ?",
+    "answers": [
+      "Wilhelm I",
+      "Theobald von Bethmann-Hollweg",
+      "Otto von Bismarck",
+      "Adolf Hitler"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q114",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur portugais a contourné l'Afrique pour atteindre l'Inde ?",
+    "answers": [
+      "Vasco de Gama",
+      "Bartolomeu Dias",
+      "Fernand de Magellan",
+      "Pedro Álvares Cabral"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q115",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel roi d'Angleterre a eu six épouses ?",
+    "answers": [
+      "Henri VIII",
+      "Jacques Ier",
+      "Charles II",
+      "Édouard VI"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q116",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel roi d'Angleterre a eu six épouses ?",
+    "answers": [
+      "Henri VIII",
+      "Charles II",
+      "Édouard VI",
+      "Jacques Ier"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q117",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur portugais a contourné l'Afrique pour atteindre l'Inde ?",
+    "answers": [
+      "Vasco de Gama",
+      "Pedro Álvares Cabral",
+      "Bartolomeu Dias",
+      "Fernand de Magellan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q118",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel roi d'Angleterre a eu six épouses ?",
+    "answers": [
+      "Édouard VI",
+      "Jacques Ier",
+      "Henri VIII",
+      "Charles II"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q119",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur portugais a contourné l'Afrique pour atteindre l'Inde ?",
+    "answers": [
+      "Fernand de Magellan",
+      "Vasco de Gama",
+      "Pedro Álvares Cabral",
+      "Bartolomeu Dias"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q120",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier président de la Cinquième République française ?",
+    "answers": [
+      "Charles de Gaulle",
+      "René Coty",
+      "François Mitterrand",
+      "Georges Pompidou"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q121",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel roi d'Angleterre a eu six épouses ?",
+    "answers": [
+      "Charles II",
+      "Jacques Ier",
+      "Henri VIII",
+      "Édouard VI"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q122",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était le dirigeant chinois pendant la Longue Marche ?",
+    "answers": [
+      "Deng Xiaoping",
+      "Mao Zedong",
+      "Sun Yat-sen",
+      "Zhou Enlai"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q123",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur portugais a contourné l'Afrique pour atteindre l'Inde ?",
+    "answers": [
+      "Vasco de Gama",
+      "Pedro Álvares Cabral",
+      "Fernand de Magellan",
+      "Bartolomeu Dias"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q124",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier président de la Cinquième République française ?",
+    "answers": [
+      "François Mitterrand",
+      "René Coty",
+      "Charles de Gaulle",
+      "Georges Pompidou"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q125",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été l'empereur du Japon pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Taisho",
+      "Hirohito",
+      "Meiji",
+      "Akihito"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q126",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur portugais a contourné l'Afrique pour atteindre l'Inde ?",
+    "answers": [
+      "Vasco de Gama",
+      "Fernand de Magellan",
+      "Pedro Álvares Cabral",
+      "Bartolomeu Dias"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q127",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier président de la Cinquième République française ?",
+    "answers": [
+      "François Mitterrand",
+      "Georges Pompidou",
+      "René Coty",
+      "Charles de Gaulle"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q128",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a découvert la pénicilline ?",
+    "answers": [
+      "Alexander Fleming",
+      "Joseph Lister",
+      "Howard Florey",
+      "Louis Pasteur"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q129",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel chef militaire carthaginois a traversé les Alpes avec des éléphants ?",
+    "answers": [
+      "Hannibal Barca",
+      "Mago Barca",
+      "Hasdrubal",
+      "Hannon"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q130",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier chancelier de l'Allemagne unifiée en 1871 ?",
+    "answers": [
+      "Otto von Bismarck",
+      "Theobald von Bethmann-Hollweg",
+      "Wilhelm I",
+      "Adolf Hitler"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q131",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a découvert la pénicilline ?",
+    "answers": [
+      "Louis Pasteur",
+      "Howard Florey",
+      "Alexander Fleming",
+      "Joseph Lister"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q132",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été l'empereur du Japon pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Taisho",
+      "Hirohito",
+      "Meiji",
+      "Akihito"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q133",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel roi d'Angleterre a eu six épouses ?",
+    "answers": [
+      "Henri VIII",
+      "Jacques Ier",
+      "Édouard VI",
+      "Charles II"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q134",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier chancelier de l'Allemagne unifiée en 1871 ?",
+    "answers": [
+      "Otto von Bismarck",
+      "Theobald von Bethmann-Hollweg",
+      "Adolf Hitler",
+      "Wilhelm I"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q135",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel roi d'Angleterre a eu six épouses ?",
+    "answers": [
+      "Jacques Ier",
+      "Charles II",
+      "Édouard VI",
+      "Henri VIII"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q136",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été l'empereur du Japon pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Meiji",
+      "Hirohito",
+      "Taisho",
+      "Akihito"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q137",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel chef militaire carthaginois a traversé les Alpes avec des éléphants ?",
+    "answers": [
+      "Mago Barca",
+      "Hannibal Barca",
+      "Hannon",
+      "Hasdrubal"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q138",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était la première femme à obtenir un prix Nobel ?",
+    "answers": [
+      "Marie Curie",
+      "Irène Joliot-Curie",
+      "Dorothy Hodgkin",
+      "Rosalind Franklin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q139",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était la première femme à obtenir un prix Nobel ?",
+    "answers": [
+      "Rosalind Franklin",
+      "Dorothy Hodgkin",
+      "Marie Curie",
+      "Irène Joliot-Curie"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q140",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était la première femme à obtenir un prix Nobel ?",
+    "answers": [
+      "Irène Joliot-Curie",
+      "Rosalind Franklin",
+      "Dorothy Hodgkin",
+      "Marie Curie"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q141",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a découvert la pénicilline ?",
+    "answers": [
+      "Alexander Fleming",
+      "Howard Florey",
+      "Louis Pasteur",
+      "Joseph Lister"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q142",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier président de la Cinquième République française ?",
+    "answers": [
+      "Georges Pompidou",
+      "René Coty",
+      "François Mitterrand",
+      "Charles de Gaulle"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q143",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était le dirigeant chinois pendant la Longue Marche ?",
+    "answers": [
+      "Sun Yat-sen",
+      "Mao Zedong",
+      "Zhou Enlai",
+      "Deng Xiaoping"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q144",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été l'empereur du Japon pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Taisho",
+      "Akihito",
+      "Meiji",
+      "Hirohito"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q145",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier chancelier de l'Allemagne unifiée en 1871 ?",
+    "answers": [
+      "Adolf Hitler",
+      "Otto von Bismarck",
+      "Wilhelm I",
+      "Theobald von Bethmann-Hollweg"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q146",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a découvert la pénicilline ?",
+    "answers": [
+      "Alexander Fleming",
+      "Joseph Lister",
+      "Howard Florey",
+      "Louis Pasteur"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q147",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était la première femme à obtenir un prix Nobel ?",
+    "answers": [
+      "Dorothy Hodgkin",
+      "Irène Joliot-Curie",
+      "Rosalind Franklin",
+      "Marie Curie"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q148",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel roi d'Angleterre a eu six épouses ?",
+    "answers": [
+      "Jacques Ier",
+      "Édouard VI",
+      "Henri VIII",
+      "Charles II"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q149",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel roi d'Angleterre a eu six épouses ?",
+    "answers": [
+      "Jacques Ier",
+      "Édouard VI",
+      "Henri VIII",
+      "Charles II"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q150",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a dirigé l'Union soviétique pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Nikita Khrouchtchev",
+      "Leon Trotski",
+      "Joseph Staline",
+      "Vladimir Lénine"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q151",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel chef militaire carthaginois a traversé les Alpes avec des éléphants ?",
+    "answers": [
+      "Mago Barca",
+      "Hannon",
+      "Hasdrubal",
+      "Hannibal Barca"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q152",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était la première femme à obtenir un prix Nobel ?",
+    "answers": [
+      "Dorothy Hodgkin",
+      "Irène Joliot-Curie",
+      "Rosalind Franklin",
+      "Marie Curie"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q153",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel roi d'Angleterre a eu six épouses ?",
+    "answers": [
+      "Henri VIII",
+      "Charles II",
+      "Édouard VI",
+      "Jacques Ier"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q154",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel chef militaire carthaginois a traversé les Alpes avec des éléphants ?",
+    "answers": [
+      "Hannon",
+      "Hannibal Barca",
+      "Mago Barca",
+      "Hasdrubal"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q155",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel roi d'Angleterre a eu six épouses ?",
+    "answers": [
+      "Charles II",
+      "Henri VIII",
+      "Jacques Ier",
+      "Édouard VI"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q156",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier chancelier de l'Allemagne unifiée en 1871 ?",
+    "answers": [
+      "Wilhelm I",
+      "Theobald von Bethmann-Hollweg",
+      "Adolf Hitler",
+      "Otto von Bismarck"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q157",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était la première femme à obtenir un prix Nobel ?",
+    "answers": [
+      "Rosalind Franklin",
+      "Marie Curie",
+      "Dorothy Hodgkin",
+      "Irène Joliot-Curie"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q158",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a dirigé l'Union soviétique pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Joseph Staline",
+      "Vladimir Lénine",
+      "Nikita Khrouchtchev",
+      "Leon Trotski"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q159",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel chef militaire carthaginois a traversé les Alpes avec des éléphants ?",
+    "answers": [
+      "Hannon",
+      "Hasdrubal",
+      "Hannibal Barca",
+      "Mago Barca"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q160",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel chef militaire carthaginois a traversé les Alpes avec des éléphants ?",
+    "answers": [
+      "Mago Barca",
+      "Hannibal Barca",
+      "Hannon",
+      "Hasdrubal"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q161",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier président de la Cinquième République française ?",
+    "answers": [
+      "François Mitterrand",
+      "Georges Pompidou",
+      "Charles de Gaulle",
+      "René Coty"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q162",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a découvert la pénicilline ?",
+    "answers": [
+      "Howard Florey",
+      "Louis Pasteur",
+      "Joseph Lister",
+      "Alexander Fleming"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q163",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été l'empereur du Japon pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Hirohito",
+      "Meiji",
+      "Akihito",
+      "Taisho"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q164",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier chancelier de l'Allemagne unifiée en 1871 ?",
+    "answers": [
+      "Theobald von Bethmann-Hollweg",
+      "Otto von Bismarck",
+      "Wilhelm I",
+      "Adolf Hitler"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q165",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été l'empereur du Japon pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Taisho",
+      "Meiji",
+      "Akihito",
+      "Hirohito"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q166",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était la première femme à obtenir un prix Nobel ?",
+    "answers": [
+      "Dorothy Hodgkin",
+      "Marie Curie",
+      "Irène Joliot-Curie",
+      "Rosalind Franklin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q167",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était la première femme à obtenir un prix Nobel ?",
+    "answers": [
+      "Dorothy Hodgkin",
+      "Marie Curie",
+      "Rosalind Franklin",
+      "Irène Joliot-Curie"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q168",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur portugais a contourné l'Afrique pour atteindre l'Inde ?",
+    "answers": [
+      "Vasco de Gama",
+      "Bartolomeu Dias",
+      "Pedro Álvares Cabral",
+      "Fernand de Magellan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q169",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a découvert la pénicilline ?",
+    "answers": [
+      "Joseph Lister",
+      "Howard Florey",
+      "Louis Pasteur",
+      "Alexander Fleming"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q170",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel chef militaire carthaginois a traversé les Alpes avec des éléphants ?",
+    "answers": [
+      "Hannibal Barca",
+      "Mago Barca",
+      "Hannon",
+      "Hasdrubal"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q171",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était le dirigeant chinois pendant la Longue Marche ?",
+    "answers": [
+      "Sun Yat-sen",
+      "Mao Zedong",
+      "Zhou Enlai",
+      "Deng Xiaoping"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q172",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était le dirigeant chinois pendant la Longue Marche ?",
+    "answers": [
+      "Sun Yat-sen",
+      "Zhou Enlai",
+      "Deng Xiaoping",
+      "Mao Zedong"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q173",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était le dirigeant chinois pendant la Longue Marche ?",
+    "answers": [
+      "Deng Xiaoping",
+      "Sun Yat-sen",
+      "Zhou Enlai",
+      "Mao Zedong"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q174",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était la première femme à obtenir un prix Nobel ?",
+    "answers": [
+      "Dorothy Hodgkin",
+      "Rosalind Franklin",
+      "Irène Joliot-Curie",
+      "Marie Curie"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q175",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a dirigé l'Union soviétique pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Joseph Staline",
+      "Leon Trotski",
+      "Nikita Khrouchtchev",
+      "Vladimir Lénine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q176",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a découvert la pénicilline ?",
+    "answers": [
+      "Louis Pasteur",
+      "Howard Florey",
+      "Alexander Fleming",
+      "Joseph Lister"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q177",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était le dirigeant chinois pendant la Longue Marche ?",
+    "answers": [
+      "Deng Xiaoping",
+      "Mao Zedong",
+      "Sun Yat-sen",
+      "Zhou Enlai"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q178",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel chef militaire carthaginois a traversé les Alpes avec des éléphants ?",
+    "answers": [
+      "Mago Barca",
+      "Hannon",
+      "Hasdrubal",
+      "Hannibal Barca"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q179",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était la première femme à obtenir un prix Nobel ?",
+    "answers": [
+      "Dorothy Hodgkin",
+      "Irène Joliot-Curie",
+      "Rosalind Franklin",
+      "Marie Curie"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q180",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été l'empereur du Japon pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Akihito",
+      "Taisho",
+      "Hirohito",
+      "Meiji"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q181",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a découvert la pénicilline ?",
+    "answers": [
+      "Joseph Lister",
+      "Louis Pasteur",
+      "Howard Florey",
+      "Alexander Fleming"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q182",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel roi d'Angleterre a eu six épouses ?",
+    "answers": [
+      "Henri VIII",
+      "Charles II",
+      "Édouard VI",
+      "Jacques Ier"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q183",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur portugais a contourné l'Afrique pour atteindre l'Inde ?",
+    "answers": [
+      "Vasco de Gama",
+      "Bartolomeu Dias",
+      "Pedro Álvares Cabral",
+      "Fernand de Magellan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q184",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel roi d'Angleterre a eu six épouses ?",
+    "answers": [
+      "Henri VIII",
+      "Charles II",
+      "Édouard VI",
+      "Jacques Ier"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q185",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel chef militaire carthaginois a traversé les Alpes avec des éléphants ?",
+    "answers": [
+      "Hannon",
+      "Hasdrubal",
+      "Mago Barca",
+      "Hannibal Barca"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q186",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel roi d'Angleterre a eu six épouses ?",
+    "answers": [
+      "Jacques Ier",
+      "Henri VIII",
+      "Charles II",
+      "Édouard VI"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q187",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel chef militaire carthaginois a traversé les Alpes avec des éléphants ?",
+    "answers": [
+      "Hasdrubal",
+      "Mago Barca",
+      "Hannon",
+      "Hannibal Barca"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q188",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était le dirigeant chinois pendant la Longue Marche ?",
+    "answers": [
+      "Zhou Enlai",
+      "Deng Xiaoping",
+      "Mao Zedong",
+      "Sun Yat-sen"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q189",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a découvert la pénicilline ?",
+    "answers": [
+      "Howard Florey",
+      "Alexander Fleming",
+      "Louis Pasteur",
+      "Joseph Lister"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q190",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été l'empereur du Japon pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Akihito",
+      "Hirohito",
+      "Meiji",
+      "Taisho"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q191",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a dirigé l'Union soviétique pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Leon Trotski",
+      "Vladimir Lénine",
+      "Joseph Staline",
+      "Nikita Khrouchtchev"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q192",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel chef militaire carthaginois a traversé les Alpes avec des éléphants ?",
+    "answers": [
+      "Hasdrubal",
+      "Mago Barca",
+      "Hannon",
+      "Hannibal Barca"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q193",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a découvert la pénicilline ?",
+    "answers": [
+      "Howard Florey",
+      "Louis Pasteur",
+      "Alexander Fleming",
+      "Joseph Lister"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q194",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier chancelier de l'Allemagne unifiée en 1871 ?",
+    "answers": [
+      "Theobald von Bethmann-Hollweg",
+      "Otto von Bismarck",
+      "Wilhelm I",
+      "Adolf Hitler"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q195",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était la première femme à obtenir un prix Nobel ?",
+    "answers": [
+      "Marie Curie",
+      "Rosalind Franklin",
+      "Irène Joliot-Curie",
+      "Dorothy Hodgkin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q196",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a dirigé l'Union soviétique pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Vladimir Lénine",
+      "Joseph Staline",
+      "Nikita Khrouchtchev",
+      "Leon Trotski"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q197",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur portugais a contourné l'Afrique pour atteindre l'Inde ?",
+    "answers": [
+      "Vasco de Gama",
+      "Fernand de Magellan",
+      "Bartolomeu Dias",
+      "Pedro Álvares Cabral"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q198",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été l'empereur du Japon pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Akihito",
+      "Hirohito",
+      "Meiji",
+      "Taisho"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q199",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était la première femme à obtenir un prix Nobel ?",
+    "answers": [
+      "Dorothy Hodgkin",
+      "Marie Curie",
+      "Irène Joliot-Curie",
+      "Rosalind Franklin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q200",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été l'empereur du Japon pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Akihito",
+      "Taisho",
+      "Hirohito",
+      "Meiji"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q201",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été l'empereur du Japon pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Meiji",
+      "Akihito",
+      "Hirohito",
+      "Taisho"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q202",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur portugais a contourné l'Afrique pour atteindre l'Inde ?",
+    "answers": [
+      "Fernand de Magellan",
+      "Bartolomeu Dias",
+      "Pedro Álvares Cabral",
+      "Vasco de Gama"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q203",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier président de la Cinquième République française ?",
+    "answers": [
+      "François Mitterrand",
+      "Charles de Gaulle",
+      "René Coty",
+      "Georges Pompidou"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q204",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier chancelier de l'Allemagne unifiée en 1871 ?",
+    "answers": [
+      "Theobald von Bethmann-Hollweg",
+      "Adolf Hitler",
+      "Wilhelm I",
+      "Otto von Bismarck"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q205",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier président de la Cinquième République française ?",
+    "answers": [
+      "Charles de Gaulle",
+      "François Mitterrand",
+      "Georges Pompidou",
+      "René Coty"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q206",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier chancelier de l'Allemagne unifiée en 1871 ?",
+    "answers": [
+      "Otto von Bismarck",
+      "Wilhelm I",
+      "Adolf Hitler",
+      "Theobald von Bethmann-Hollweg"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q207",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel roi d'Angleterre a eu six épouses ?",
+    "answers": [
+      "Jacques Ier",
+      "Charles II",
+      "Édouard VI",
+      "Henri VIII"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q208",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel roi d'Angleterre a eu six épouses ?",
+    "answers": [
+      "Henri VIII",
+      "Jacques Ier",
+      "Charles II",
+      "Édouard VI"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q209",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur portugais a contourné l'Afrique pour atteindre l'Inde ?",
+    "answers": [
+      "Vasco de Gama",
+      "Pedro Álvares Cabral",
+      "Bartolomeu Dias",
+      "Fernand de Magellan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q210",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel roi d'Angleterre a eu six épouses ?",
+    "answers": [
+      "Henri VIII",
+      "Charles II",
+      "Édouard VI",
+      "Jacques Ier"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q211",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel chef militaire carthaginois a traversé les Alpes avec des éléphants ?",
+    "answers": [
+      "Hannon",
+      "Hasdrubal",
+      "Hannibal Barca",
+      "Mago Barca"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q212",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a dirigé l'Union soviétique pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Nikita Khrouchtchev",
+      "Vladimir Lénine",
+      "Joseph Staline",
+      "Leon Trotski"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q213",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel roi d'Angleterre a eu six épouses ?",
+    "answers": [
+      "Édouard VI",
+      "Charles II",
+      "Henri VIII",
+      "Jacques Ier"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q214",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier chancelier de l'Allemagne unifiée en 1871 ?",
+    "answers": [
+      "Adolf Hitler",
+      "Otto von Bismarck",
+      "Wilhelm I",
+      "Theobald von Bethmann-Hollweg"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q215",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur portugais a contourné l'Afrique pour atteindre l'Inde ?",
+    "answers": [
+      "Pedro Álvares Cabral",
+      "Vasco de Gama",
+      "Bartolomeu Dias",
+      "Fernand de Magellan"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q216",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a découvert la pénicilline ?",
+    "answers": [
+      "Joseph Lister",
+      "Alexander Fleming",
+      "Howard Florey",
+      "Louis Pasteur"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q217",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été l'empereur du Japon pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Hirohito",
+      "Meiji",
+      "Taisho",
+      "Akihito"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q218",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel roi d'Angleterre a eu six épouses ?",
+    "answers": [
+      "Henri VIII",
+      "Jacques Ier",
+      "Édouard VI",
+      "Charles II"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q219",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier chancelier de l'Allemagne unifiée en 1871 ?",
+    "answers": [
+      "Adolf Hitler",
+      "Theobald von Bethmann-Hollweg",
+      "Otto von Bismarck",
+      "Wilhelm I"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q220",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier président de la Cinquième République française ?",
+    "answers": [
+      "Georges Pompidou",
+      "François Mitterrand",
+      "Charles de Gaulle",
+      "René Coty"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q221",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a dirigé l'Union soviétique pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Joseph Staline",
+      "Leon Trotski",
+      "Vladimir Lénine",
+      "Nikita Khrouchtchev"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q222",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a dirigé l'Union soviétique pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Nikita Khrouchtchev",
+      "Leon Trotski",
+      "Vladimir Lénine",
+      "Joseph Staline"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q223",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel roi d'Angleterre a eu six épouses ?",
+    "answers": [
+      "Jacques Ier",
+      "Charles II",
+      "Henri VIII",
+      "Édouard VI"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q224",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a dirigé l'Union soviétique pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Nikita Khrouchtchev",
+      "Vladimir Lénine",
+      "Joseph Staline",
+      "Leon Trotski"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q225",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était la première femme à obtenir un prix Nobel ?",
+    "answers": [
+      "Irène Joliot-Curie",
+      "Dorothy Hodgkin",
+      "Rosalind Franklin",
+      "Marie Curie"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q226",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était le dirigeant chinois pendant la Longue Marche ?",
+    "answers": [
+      "Zhou Enlai",
+      "Sun Yat-sen",
+      "Mao Zedong",
+      "Deng Xiaoping"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q227",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier président de la Cinquième République française ?",
+    "answers": [
+      "Georges Pompidou",
+      "François Mitterrand",
+      "René Coty",
+      "Charles de Gaulle"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q228",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a découvert la pénicilline ?",
+    "answers": [
+      "Alexander Fleming",
+      "Louis Pasteur",
+      "Howard Florey",
+      "Joseph Lister"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q229",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier chancelier de l'Allemagne unifiée en 1871 ?",
+    "answers": [
+      "Otto von Bismarck",
+      "Adolf Hitler",
+      "Theobald von Bethmann-Hollweg",
+      "Wilhelm I"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q230",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel chef militaire carthaginois a traversé les Alpes avec des éléphants ?",
+    "answers": [
+      "Mago Barca",
+      "Hasdrubal",
+      "Hannon",
+      "Hannibal Barca"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q231",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été l'empereur du Japon pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Meiji",
+      "Hirohito",
+      "Akihito",
+      "Taisho"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q232",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été l'empereur du Japon pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Meiji",
+      "Hirohito",
+      "Taisho",
+      "Akihito"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q233",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était le dirigeant chinois pendant la Longue Marche ?",
+    "answers": [
+      "Sun Yat-sen",
+      "Deng Xiaoping",
+      "Zhou Enlai",
+      "Mao Zedong"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q234",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été l'empereur du Japon pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Meiji",
+      "Hirohito",
+      "Taisho",
+      "Akihito"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q235",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur portugais a contourné l'Afrique pour atteindre l'Inde ?",
+    "answers": [
+      "Bartolomeu Dias",
+      "Pedro Álvares Cabral",
+      "Fernand de Magellan",
+      "Vasco de Gama"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q236",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été l'empereur du Japon pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Meiji",
+      "Akihito",
+      "Hirohito",
+      "Taisho"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q237",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel chef militaire carthaginois a traversé les Alpes avec des éléphants ?",
+    "answers": [
+      "Hannon",
+      "Hannibal Barca",
+      "Hasdrubal",
+      "Mago Barca"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q238",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur portugais a contourné l'Afrique pour atteindre l'Inde ?",
+    "answers": [
+      "Fernand de Magellan",
+      "Vasco de Gama",
+      "Pedro Álvares Cabral",
+      "Bartolomeu Dias"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q239",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a dirigé l'Union soviétique pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Vladimir Lénine",
+      "Nikita Khrouchtchev",
+      "Joseph Staline",
+      "Leon Trotski"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q240",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était la première femme à obtenir un prix Nobel ?",
+    "answers": [
+      "Irène Joliot-Curie",
+      "Marie Curie",
+      "Rosalind Franklin",
+      "Dorothy Hodgkin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q241",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été l'empereur du Japon pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Hirohito",
+      "Meiji",
+      "Taisho",
+      "Akihito"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q242",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a découvert la pénicilline ?",
+    "answers": [
+      "Louis Pasteur",
+      "Joseph Lister",
+      "Howard Florey",
+      "Alexander Fleming"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q243",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel roi d'Angleterre a eu six épouses ?",
+    "answers": [
+      "Édouard VI",
+      "Henri VIII",
+      "Charles II",
+      "Jacques Ier"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q244",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur portugais a contourné l'Afrique pour atteindre l'Inde ?",
+    "answers": [
+      "Fernand de Magellan",
+      "Vasco de Gama",
+      "Bartolomeu Dias",
+      "Pedro Álvares Cabral"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q245",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur portugais a contourné l'Afrique pour atteindre l'Inde ?",
+    "answers": [
+      "Bartolomeu Dias",
+      "Vasco de Gama",
+      "Fernand de Magellan",
+      "Pedro Álvares Cabral"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q246",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était le dirigeant chinois pendant la Longue Marche ?",
+    "answers": [
+      "Zhou Enlai",
+      "Sun Yat-sen",
+      "Deng Xiaoping",
+      "Mao Zedong"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q247",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier chancelier de l'Allemagne unifiée en 1871 ?",
+    "answers": [
+      "Adolf Hitler",
+      "Otto von Bismarck",
+      "Wilhelm I",
+      "Theobald von Bethmann-Hollweg"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q248",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier président de la Cinquième République française ?",
+    "answers": [
+      "Georges Pompidou",
+      "François Mitterrand",
+      "Charles de Gaulle",
+      "René Coty"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q249",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a dirigé l'Union soviétique pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Joseph Staline",
+      "Nikita Khrouchtchev",
+      "Leon Trotski",
+      "Vladimir Lénine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q250",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a dirigé l'Union soviétique pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Joseph Staline",
+      "Leon Trotski",
+      "Nikita Khrouchtchev",
+      "Vladimir Lénine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q251",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a dirigé l'Union soviétique pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Leon Trotski",
+      "Vladimir Lénine",
+      "Joseph Staline",
+      "Nikita Khrouchtchev"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q252",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a dirigé l'Union soviétique pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Leon Trotski",
+      "Vladimir Lénine",
+      "Nikita Khrouchtchev",
+      "Joseph Staline"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q253",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été l'empereur du Japon pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Akihito",
+      "Taisho",
+      "Hirohito",
+      "Meiji"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q254",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier président de la Cinquième République française ?",
+    "answers": [
+      "Georges Pompidou",
+      "François Mitterrand",
+      "Charles de Gaulle",
+      "René Coty"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q255",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur portugais a contourné l'Afrique pour atteindre l'Inde ?",
+    "answers": [
+      "Bartolomeu Dias",
+      "Pedro Álvares Cabral",
+      "Fernand de Magellan",
+      "Vasco de Gama"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q256",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel chef militaire carthaginois a traversé les Alpes avec des éléphants ?",
+    "answers": [
+      "Hannibal Barca",
+      "Mago Barca",
+      "Hasdrubal",
+      "Hannon"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q257",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel roi d'Angleterre a eu six épouses ?",
+    "answers": [
+      "Édouard VI",
+      "Henri VIII",
+      "Charles II",
+      "Jacques Ier"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q258",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a découvert la pénicilline ?",
+    "answers": [
+      "Joseph Lister",
+      "Howard Florey",
+      "Louis Pasteur",
+      "Alexander Fleming"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q259",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier chancelier de l'Allemagne unifiée en 1871 ?",
+    "answers": [
+      "Adolf Hitler",
+      "Wilhelm I",
+      "Theobald von Bethmann-Hollweg",
+      "Otto von Bismarck"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q260",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier président de la Cinquième République française ?",
+    "answers": [
+      "Georges Pompidou",
+      "René Coty",
+      "Charles de Gaulle",
+      "François Mitterrand"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q261",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a dirigé l'Union soviétique pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Joseph Staline",
+      "Vladimir Lénine",
+      "Nikita Khrouchtchev",
+      "Leon Trotski"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q262",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était la première femme à obtenir un prix Nobel ?",
+    "answers": [
+      "Marie Curie",
+      "Dorothy Hodgkin",
+      "Rosalind Franklin",
+      "Irène Joliot-Curie"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q263",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel chef militaire carthaginois a traversé les Alpes avec des éléphants ?",
+    "answers": [
+      "Mago Barca",
+      "Hannon",
+      "Hasdrubal",
+      "Hannibal Barca"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q264",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier chancelier de l'Allemagne unifiée en 1871 ?",
+    "answers": [
+      "Wilhelm I",
+      "Adolf Hitler",
+      "Otto von Bismarck",
+      "Theobald von Bethmann-Hollweg"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q265",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier chancelier de l'Allemagne unifiée en 1871 ?",
+    "answers": [
+      "Theobald von Bethmann-Hollweg",
+      "Wilhelm I",
+      "Adolf Hitler",
+      "Otto von Bismarck"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q266",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a dirigé l'Union soviétique pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Joseph Staline",
+      "Leon Trotski",
+      "Vladimir Lénine",
+      "Nikita Khrouchtchev"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q267",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier chancelier de l'Allemagne unifiée en 1871 ?",
+    "answers": [
+      "Theobald von Bethmann-Hollweg",
+      "Wilhelm I",
+      "Otto von Bismarck",
+      "Adolf Hitler"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q268",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a découvert la pénicilline ?",
+    "answers": [
+      "Louis Pasteur",
+      "Alexander Fleming",
+      "Howard Florey",
+      "Joseph Lister"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q269",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier président de la Cinquième République française ?",
+    "answers": [
+      "René Coty",
+      "Charles de Gaulle",
+      "Georges Pompidou",
+      "François Mitterrand"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q270",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel roi d'Angleterre a eu six épouses ?",
+    "answers": [
+      "Jacques Ier",
+      "Édouard VI",
+      "Charles II",
+      "Henri VIII"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q271",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était le dirigeant chinois pendant la Longue Marche ?",
+    "answers": [
+      "Sun Yat-sen",
+      "Deng Xiaoping",
+      "Mao Zedong",
+      "Zhou Enlai"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q272",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était le dirigeant chinois pendant la Longue Marche ?",
+    "answers": [
+      "Sun Yat-sen",
+      "Deng Xiaoping",
+      "Zhou Enlai",
+      "Mao Zedong"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q273",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier président de la Cinquième République française ?",
+    "answers": [
+      "Georges Pompidou",
+      "François Mitterrand",
+      "Charles de Gaulle",
+      "René Coty"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q274",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a découvert la pénicilline ?",
+    "answers": [
+      "Louis Pasteur",
+      "Howard Florey",
+      "Alexander Fleming",
+      "Joseph Lister"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q275",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était le dirigeant chinois pendant la Longue Marche ?",
+    "answers": [
+      "Zhou Enlai",
+      "Deng Xiaoping",
+      "Mao Zedong",
+      "Sun Yat-sen"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q276",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a découvert la pénicilline ?",
+    "answers": [
+      "Joseph Lister",
+      "Howard Florey",
+      "Alexander Fleming",
+      "Louis Pasteur"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q277",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier chancelier de l'Allemagne unifiée en 1871 ?",
+    "answers": [
+      "Theobald von Bethmann-Hollweg",
+      "Wilhelm I",
+      "Otto von Bismarck",
+      "Adolf Hitler"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q278",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel roi d'Angleterre a eu six épouses ?",
+    "answers": [
+      "Charles II",
+      "Édouard VI",
+      "Henri VIII",
+      "Jacques Ier"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q279",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a découvert la pénicilline ?",
+    "answers": [
+      "Joseph Lister",
+      "Howard Florey",
+      "Alexander Fleming",
+      "Louis Pasteur"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q280",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier chancelier de l'Allemagne unifiée en 1871 ?",
+    "answers": [
+      "Otto von Bismarck",
+      "Wilhelm I",
+      "Theobald von Bethmann-Hollweg",
+      "Adolf Hitler"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q281",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier chancelier de l'Allemagne unifiée en 1871 ?",
+    "answers": [
+      "Wilhelm I",
+      "Otto von Bismarck",
+      "Theobald von Bethmann-Hollweg",
+      "Adolf Hitler"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q282",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier chancelier de l'Allemagne unifiée en 1871 ?",
+    "answers": [
+      "Theobald von Bethmann-Hollweg",
+      "Otto von Bismarck",
+      "Adolf Hitler",
+      "Wilhelm I"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q283",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur portugais a contourné l'Afrique pour atteindre l'Inde ?",
+    "answers": [
+      "Fernand de Magellan",
+      "Pedro Álvares Cabral",
+      "Vasco de Gama",
+      "Bartolomeu Dias"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q284",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel roi d'Angleterre a eu six épouses ?",
+    "answers": [
+      "Charles II",
+      "Henri VIII",
+      "Édouard VI",
+      "Jacques Ier"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q285",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel chef militaire carthaginois a traversé les Alpes avec des éléphants ?",
+    "answers": [
+      "Hannibal Barca",
+      "Hasdrubal",
+      "Hannon",
+      "Mago Barca"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q286",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel chef militaire carthaginois a traversé les Alpes avec des éléphants ?",
+    "answers": [
+      "Hannon",
+      "Mago Barca",
+      "Hasdrubal",
+      "Hannibal Barca"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q287",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a dirigé l'Union soviétique pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Leon Trotski",
+      "Nikita Khrouchtchev",
+      "Joseph Staline",
+      "Vladimir Lénine"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q288",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été l'empereur du Japon pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Taisho",
+      "Hirohito",
+      "Akihito",
+      "Meiji"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q289",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a dirigé l'Union soviétique pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Leon Trotski",
+      "Joseph Staline",
+      "Nikita Khrouchtchev",
+      "Vladimir Lénine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q290",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier président de la Cinquième République française ?",
+    "answers": [
+      "Charles de Gaulle",
+      "Georges Pompidou",
+      "René Coty",
+      "François Mitterrand"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q291",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a dirigé l'Union soviétique pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Leon Trotski",
+      "Nikita Khrouchtchev",
+      "Vladimir Lénine",
+      "Joseph Staline"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q292",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Quel chef militaire carthaginois a traversé les Alpes avec des éléphants ?",
+    "answers": [
+      "Hasdrubal",
+      "Hannibal Barca",
+      "Mago Barca",
+      "Hannon"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q293",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a dirigé l'Union soviétique pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Leon Trotski",
+      "Nikita Khrouchtchev",
+      "Joseph Staline",
+      "Vladimir Lénine"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q294",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a découvert la pénicilline ?",
+    "answers": [
+      "Howard Florey",
+      "Louis Pasteur",
+      "Joseph Lister",
+      "Alexander Fleming"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q295",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été l'empereur du Japon pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Taisho",
+      "Hirohito",
+      "Meiji",
+      "Akihito"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q296",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier chancelier de l'Allemagne unifiée en 1871 ?",
+    "answers": [
+      "Theobald von Bethmann-Hollweg",
+      "Wilhelm I",
+      "Otto von Bismarck",
+      "Adolf Hitler"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q297",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui était le dirigeant chinois pendant la Longue Marche ?",
+    "answers": [
+      "Mao Zedong",
+      "Deng Xiaoping",
+      "Zhou Enlai",
+      "Sun Yat-sen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q298",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a découvert la pénicilline ?",
+    "answers": [
+      "Howard Florey",
+      "Joseph Lister",
+      "Louis Pasteur",
+      "Alexander Fleming"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q299",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a dirigé l'Union soviétique pendant la Seconde Guerre mondiale ?",
+    "answers": [
+      "Joseph Staline",
+      "Vladimir Lénine",
+      "Nikita Khrouchtchev",
+      "Leon Trotski"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q300",
+    "category": "Figures historiques",
+    "difficulty": "Moyen",
+    "text": "Qui a été le premier président de la Cinquième République française ?",
+    "answers": [
+      "René Coty",
+      "François Mitterrand",
+      "Georges Pompidou",
+      "Charles de Gaulle"
+    ],
+    "correctIndex": 3
+  }
+]
