@@ -29,25 +29,25 @@
     "id": "q3",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle bataille a mis fin à la deuxième guerre punique ?",
+    "text": "Sous quel empereur romain le Colisée fut-il inauguré en 80 apr. J.-C. ?",
     "answers": [
-      "Bataille de Cannes",
-      "Bataille du Trasimène",
-      "Bataille de Pydna",
-      "Bataille de Zama"
+      "Titus",
+      "Néron",
+      "Trajan",
+      "Domitien"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "q4",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Qui a fondé l'école stoïcienne ?",
+    "text": "Quel philosophe stoïcien fut conseiller de Néron avant d’être contraint au suicide ?",
     "answers": [
-      "Zénon de Citium",
-      "Épicure",
-      "Diogène",
-      "Aristote"
+      "Sénèque",
+      "Épictète",
+      "Marc Aurèle",
+      "Cicéron"
     ],
     "correctIndex": 0
   },
@@ -55,92 +55,92 @@
     "id": "q5",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel stratège athénien a été exilé après la bataille de Syracuse ?",
+    "text": "Quelle cité antique était dirigée par un système de deux rois simultanément ?",
     "answers": [
-      "Nicias",
-      "Alcibiade",
-      "Périclès",
-      "Démosthène"
+      "Athènes",
+      "Sparte",
+      "Thèbes",
+      "Corinthe"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "q6",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel roi spartiate est célèbre pour la bataille des Thermopyles ?",
+    "text": "Quelle reine d’Égypte fut la dernière de la dynastie ptolémaïque ?",
     "answers": [
-      "Démarate",
-      "Cléomène III",
-      "Agis IV",
-      "Léonidas Ier"
+      "Arsinoé II",
+      "Cléopâtre VII",
+      "Bérénice IV",
+      "Néfertari"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "q7",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel stratège athénien a été exilé après la bataille de Syracuse ?",
+    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
     "answers": [
-      "Démosthène",
-      "Périclès",
-      "Nicias",
-      "Alcibiade"
+      "Hamilcar Barca",
+      "Hannibal",
+      "Hasdrubal",
+      "Magon"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "q8",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel stratège athénien a été exilé après la bataille de Syracuse ?",
+    "text": "Quel historien romain écrivit 'Ab Urbe Condita' ?",
     "answers": [
-      "Démosthène",
-      "Périclès",
-      "Alcibiade",
-      "Nicias"
+      "Tacite",
+      "Salluste",
+      "Tite-Live",
+      "Suétone"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "q9",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle bataille a mis fin à la deuxième guerre punique ?",
+    "text": "Quel était le nom de la ligue formée par Athènes au Ve siècle av. J.-C. ?",
     "answers": [
-      "Bataille de Pydna",
-      "Bataille de Cannes",
-      "Bataille de Zama",
-      "Bataille du Trasimène"
+      "Ligue béotienne",
+      "Ligue achéenne",
+      "Ligue ionienne",
+      "Ligue de Délos"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "q10",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
+    "text": "Qui fut le premier empereur de la dynastie flavienne ?",
     "answers": [
-      "Empire sassanide",
-      "Empire parthe",
-      "Empire séleucide",
-      "Empire achéménide"
+      "Titus",
+      "Domitien",
+      "Vespasien",
+      "Nerva"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "q11",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
+    "text": "Quel royaume antique avait pour capitale Persépolis ?",
     "answers": [
-      "Strabon",
-      "Tite-Live",
-      "Hérodote",
-      "Plutarque"
+      "Empire parthe",
+      "Empire séleucide",
+      "Empire sassanide",
+      "Empire achéménide"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "q12",
@@ -148,23 +148,23 @@
     "difficulty": "Difficile",
     "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
     "answers": [
-      "Strabon",
       "Plutarque",
       "Tite-Live",
-      "Hérodote"
+      "Hérodote",
+      "Strabon"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "q13",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel historien grec est considéré comme le 'père de l'histoire' ?",
+    "text": "Sous quel empereur romain le Colisée fut-il inauguré en 80 apr. J.-C. ?",
     "answers": [
-      "Hérodote",
-      "Xénophon",
-      "Thucydide",
-      "Polybe"
+      "Titus",
+      "Néron",
+      "Trajan",
+      "Domitien"
     ],
     "correctIndex": 0
   },
@@ -172,25 +172,25 @@
     "id": "q14",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel général romain a été surnommé 'l'Africain' ?",
+    "text": "Quel philosophe stoïcien fut conseiller de Néron avant d’être contraint au suicide ?",
     "answers": [
-      "Sylla",
-      "Trajan",
-      "Scipion",
-      "Marius"
+      "Sénèque",
+      "Épictète",
+      "Marc Aurèle",
+      "Cicéron"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "q15",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel général romain a été surnommé 'l'Africain' ?",
+    "text": "Quelle cité antique était dirigée par un système de deux rois simultanément ?",
     "answers": [
-      "Marius",
-      "Scipion",
-      "Trajan",
-      "Sylla"
+      "Athènes",
+      "Sparte",
+      "Thèbes",
+      "Corinthe"
     ],
     "correctIndex": 1
   },
@@ -198,25 +198,25 @@
     "id": "q16",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel philosophe grec a été le maître de Platon ?",
+    "text": "Quelle reine d’Égypte fut la dernière de la dynastie ptolémaïque ?",
     "answers": [
-      "Anaxagore",
-      "Héraclite",
-      "Socrate",
-      "Parménide"
+      "Arsinoé II",
+      "Cléopâtre VII",
+      "Bérénice IV",
+      "Néfertari"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "q17",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel historien grec est considéré comme le 'père de l'histoire' ?",
+    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
     "answers": [
-      "Xénophon",
-      "Hérodote",
-      "Thucydide",
-      "Polybe"
+      "Hamilcar Barca",
+      "Hannibal",
+      "Hasdrubal",
+      "Magon"
     ],
     "correctIndex": 1
   },
@@ -224,168 +224,168 @@
     "id": "q18",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
+    "text": "Quel historien romain écrivit 'Ab Urbe Condita' ?",
     "answers": [
-      "Empire sassanide",
-      "Empire parthe",
-      "Empire séleucide",
-      "Empire achéménide"
+      "Tacite",
+      "Salluste",
+      "Tite-Live",
+      "Suétone"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "q19",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle bataille a mis fin à la deuxième guerre punique ?",
+    "text": "Quel était le nom de la ligue formée par Athènes au Ve siècle av. J.-C. ?",
     "answers": [
-      "Bataille de Pydna",
-      "Bataille de Zama",
-      "Bataille du Trasimène",
-      "Bataille de Cannes"
+      "Ligue béotienne",
+      "Ligue achéenne",
+      "Ligue ionienne",
+      "Ligue de Délos"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "q20",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
+    "text": "Qui fut le premier empereur de la dynastie flavienne ?",
     "answers": [
-      "Empire sassanide",
-      "Empire séleucide",
-      "Empire parthe",
-      "Empire achéménide"
+      "Titus",
+      "Domitien",
+      "Vespasien",
+      "Nerva"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "q21",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle bataille a mis fin à la deuxième guerre punique ?",
+    "text": "Quel royaume antique avait pour capitale Persépolis ?",
     "answers": [
-      "Bataille de Pydna",
-      "Bataille du Trasimène",
-      "Bataille de Zama",
-      "Bataille de Cannes"
+      "Empire parthe",
+      "Empire séleucide",
+      "Empire sassanide",
+      "Empire achéménide"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "q22",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel stratège athénien a été exilé après la bataille de Syracuse ?",
+    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
     "answers": [
-      "Alcibiade",
-      "Nicias",
-      "Démosthène",
-      "Périclès"
+      "Plutarque",
+      "Tite-Live",
+      "Hérodote",
+      "Strabon"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "q23",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel philosophe grec a été le maître de Platon ?",
+    "text": "Sous quel empereur romain le Colisée fut-il inauguré en 80 apr. J.-C. ?",
     "answers": [
-      "Héraclite",
-      "Parménide",
-      "Anaxagore",
-      "Socrate"
+      "Titus",
+      "Néron",
+      "Trajan",
+      "Domitien"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "q24",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel philosophe grec a été le maître de Platon ?",
+    "text": "Quel philosophe stoïcien fut conseiller de Néron avant d’être contraint au suicide ?",
     "answers": [
-      "Anaxagore",
-      "Socrate",
-      "Héraclite",
-      "Parménide"
+      "Sénèque",
+      "Épictète",
+      "Marc Aurèle",
+      "Cicéron"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "q25",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel historien grec est considéré comme le 'père de l'histoire' ?",
+    "text": "Quelle cité antique était dirigée par un système de deux rois simultanément ?",
     "answers": [
-      "Hérodote",
-      "Xénophon",
-      "Thucydide",
-      "Polybe"
+      "Athènes",
+      "Sparte",
+      "Thèbes",
+      "Corinthe"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "q26",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle bataille a mis fin à la deuxième guerre punique ?",
+    "text": "Quelle reine d’Égypte fut la dernière de la dynastie ptolémaïque ?",
     "answers": [
-      "Bataille de Zama",
-      "Bataille de Cannes",
-      "Bataille de Pydna",
-      "Bataille du Trasimène"
+      "Arsinoé II",
+      "Cléopâtre VII",
+      "Bérénice IV",
+      "Néfertari"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "q27",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle bataille a mis fin à la deuxième guerre punique ?",
+    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
     "answers": [
-      "Bataille de Zama",
-      "Bataille de Pydna",
-      "Bataille de Cannes",
-      "Bataille du Trasimène"
+      "Hamilcar Barca",
+      "Hannibal",
+      "Hasdrubal",
+      "Magon"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "q28",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
+    "text": "Quel historien romain écrivit 'Ab Urbe Condita' ?",
     "answers": [
-      "Empire achéménide",
-      "Empire parthe",
-      "Empire séleucide",
-      "Empire sassanide"
+      "Tacite",
+      "Salluste",
+      "Tite-Live",
+      "Suétone"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "q29",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle bataille a mis fin à la deuxième guerre punique ?",
+    "text": "Quel était le nom de la ligue formée par Athènes au Ve siècle av. J.-C. ?",
     "answers": [
-      "Bataille de Pydna",
-      "Bataille de Zama",
-      "Bataille de Cannes",
-      "Bataille du Trasimène"
+      "Ligue béotienne",
+      "Ligue achéenne",
+      "Ligue ionienne",
+      "Ligue de Délos"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "q30",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel était le nom originel de la ville de Constantinople ?",
+    "text": "Qui fut le premier empereur de la dynastie flavienne ?",
     "answers": [
-      "Antioche",
-      "Pergame",
-      "Byzance",
-      "Troie"
+      "Titus",
+      "Domitien",
+      "Vespasien",
+      "Nerva"
     ],
     "correctIndex": 2
   },
@@ -395,101 +395,101 @@
     "difficulty": "Difficile",
     "text": "Quel royaume antique avait pour capitale Persépolis ?",
     "answers": [
-      "Empire sassanide",
-      "Empire achéménide",
+      "Empire parthe",
       "Empire séleucide",
-      "Empire parthe"
+      "Empire sassanide",
+      "Empire achéménide"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "q32",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel philosophe grec a été le maître de Platon ?",
-    "answers": [
-      "Socrate",
-      "Héraclite",
-      "Anaxagore",
-      "Parménide"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q33",
     "category": "Antiquité",
     "difficulty": "Difficile",
     "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
     "answers": [
       "Plutarque",
       "Tite-Live",
-      "Strabon",
-      "Hérodote"
+      "Hérodote",
+      "Strabon"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
+  },
+  {
+    "id": "q33",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Sous quel empereur romain le Colisée fut-il inauguré en 80 apr. J.-C. ?",
+    "answers": [
+      "Titus",
+      "Néron",
+      "Trajan",
+      "Domitien"
+    ],
+    "correctIndex": 0
   },
   {
     "id": "q34",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Qui a fondé l'école stoïcienne ?",
+    "text": "Quel philosophe stoïcien fut conseiller de Néron avant d’être contraint au suicide ?",
     "answers": [
-      "Aristote",
-      "Épicure",
-      "Zénon de Citium",
-      "Diogène"
+      "Sénèque",
+      "Épictète",
+      "Marc Aurèle",
+      "Cicéron"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "q35",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
+    "text": "Quelle cité antique était dirigée par un système de deux rois simultanément ?",
     "answers": [
-      "Empire achéménide",
-      "Empire parthe",
-      "Empire sassanide",
-      "Empire séleucide"
+      "Athènes",
+      "Sparte",
+      "Thèbes",
+      "Corinthe"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "q36",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel était le nom originel de la ville de Constantinople ?",
+    "text": "Quelle reine d’Égypte fut la dernière de la dynastie ptolémaïque ?",
     "answers": [
-      "Byzance",
-      "Pergame",
-      "Antioche",
-      "Troie"
+      "Arsinoé II",
+      "Cléopâtre VII",
+      "Bérénice IV",
+      "Néfertari"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "q37",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Qui a fondé l'école stoïcienne ?",
+    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
     "answers": [
-      "Diogène",
-      "Aristote",
-      "Épicure",
-      "Zénon de Citium"
+      "Hamilcar Barca",
+      "Hannibal",
+      "Hasdrubal",
+      "Magon"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "q38",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel général romain a été surnommé 'l'Africain' ?",
+    "text": "Quel historien romain écrivit 'Ab Urbe Condita' ?",
     "answers": [
-      "Trajan",
-      "Sylla",
-      "Scipion",
-      "Marius"
+      "Tacite",
+      "Salluste",
+      "Tite-Live",
+      "Suétone"
     ],
     "correctIndex": 2
   },
@@ -497,25 +497,25 @@
     "id": "q39",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
+    "text": "Quel était le nom de la ligue formée par Athènes au Ve siècle av. J.-C. ?",
     "answers": [
-      "Empire achéménide",
-      "Empire parthe",
-      "Empire séleucide",
-      "Empire sassanide"
+      "Ligue béotienne",
+      "Ligue achéenne",
+      "Ligue ionienne",
+      "Ligue de Délos"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "q40",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
+    "text": "Qui fut le premier empereur de la dynastie flavienne ?",
     "answers": [
-      "Tite-Live",
-      "Strabon",
-      "Hérodote",
-      "Plutarque"
+      "Titus",
+      "Domitien",
+      "Vespasien",
+      "Nerva"
     ],
     "correctIndex": 2
   },
@@ -523,77 +523,77 @@
     "id": "q41",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel historien grec est considéré comme le 'père de l'histoire' ?",
+    "text": "Quel royaume antique avait pour capitale Persépolis ?",
     "answers": [
-      "Xénophon",
-      "Hérodote",
-      "Thucydide",
-      "Polybe"
+      "Empire parthe",
+      "Empire séleucide",
+      "Empire sassanide",
+      "Empire achéménide"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "q42",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Qui a fondé l'école stoïcienne ?",
+    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
     "answers": [
-      "Diogène",
-      "Zénon de Citium",
-      "Aristote",
-      "Épicure"
+      "Plutarque",
+      "Tite-Live",
+      "Hérodote",
+      "Strabon"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "q43",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel était le nom originel de la ville de Constantinople ?",
+    "text": "Sous quel empereur romain le Colisée fut-il inauguré en 80 apr. J.-C. ?",
     "answers": [
-      "Pergame",
-      "Byzance",
-      "Antioche",
-      "Troie"
+      "Titus",
+      "Néron",
+      "Trajan",
+      "Domitien"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "q44",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle bataille a mis fin à la deuxième guerre punique ?",
+    "text": "Quel philosophe stoïcien fut conseiller de Néron avant d’être contraint au suicide ?",
     "answers": [
-      "Bataille du Trasimène",
-      "Bataille de Cannes",
-      "Bataille de Pydna",
-      "Bataille de Zama"
+      "Sénèque",
+      "Épictète",
+      "Marc Aurèle",
+      "Cicéron"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "q45",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Qui a fondé l'école stoïcienne ?",
+    "text": "Quelle cité antique était dirigée par un système de deux rois simultanément ?",
     "answers": [
-      "Diogène",
-      "Épicure",
-      "Aristote",
-      "Zénon de Citium"
+      "Athènes",
+      "Sparte",
+      "Thèbes",
+      "Corinthe"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "q46",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
+    "text": "Quelle reine d’Égypte fut la dernière de la dynastie ptolémaïque ?",
     "answers": [
-      "Empire parthe",
-      "Empire achéménide",
-      "Empire sassanide",
-      "Empire séleucide"
+      "Arsinoé II",
+      "Cléopâtre VII",
+      "Bérénice IV",
+      "Néfertari"
     ],
     "correctIndex": 1
   },
@@ -601,25 +601,25 @@
     "id": "q47",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel stratège athénien a été exilé après la bataille de Syracuse ?",
+    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
     "answers": [
-      "Démosthène",
-      "Périclès",
-      "Alcibiade",
-      "Nicias"
+      "Hamilcar Barca",
+      "Hannibal",
+      "Hasdrubal",
+      "Magon"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "q48",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel stratège athénien a été exilé après la bataille de Syracuse ?",
+    "text": "Quel historien romain écrivit 'Ab Urbe Condita' ?",
     "answers": [
-      "Alcibiade",
-      "Démosthène",
-      "Nicias",
-      "Périclès"
+      "Tacite",
+      "Salluste",
+      "Tite-Live",
+      "Suétone"
     ],
     "correctIndex": 2
   },
@@ -627,12 +627,12 @@
     "id": "q49",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
+    "text": "Quel était le nom de la ligue formée par Athènes au Ve siècle av. J.-C. ?",
     "answers": [
-      "Plutarque",
-      "Strabon",
-      "Tite-Live",
-      "Hérodote"
+      "Ligue béotienne",
+      "Ligue achéenne",
+      "Ligue ionienne",
+      "Ligue de Délos"
     ],
     "correctIndex": 3
   },
@@ -640,38 +640,38 @@
     "id": "q50",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel était le nom originel de la ville de Constantinople ?",
+    "text": "Qui fut le premier empereur de la dynastie flavienne ?",
     "answers": [
-      "Troie",
-      "Antioche",
-      "Pergame",
-      "Byzance"
+      "Titus",
+      "Domitien",
+      "Vespasien",
+      "Nerva"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "q51",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel était le nom originel de la ville de Constantinople ?",
+    "text": "Quel royaume antique avait pour capitale Persépolis ?",
     "answers": [
-      "Byzance",
-      "Troie",
-      "Antioche",
-      "Pergame"
+      "Empire parthe",
+      "Empire séleucide",
+      "Empire sassanide",
+      "Empire achéménide"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "q52",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
+    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
     "answers": [
-      "Empire sassanide",
-      "Empire séleucide",
-      "Empire achéménide",
-      "Empire parthe"
+      "Plutarque",
+      "Tite-Live",
+      "Hérodote",
+      "Strabon"
     ],
     "correctIndex": 2
   },
@@ -679,12 +679,12 @@
     "id": "q53",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel était le nom originel de la ville de Constantinople ?",
+    "text": "Sous quel empereur romain le Colisée fut-il inauguré en 80 apr. J.-C. ?",
     "answers": [
-      "Byzance",
-      "Pergame",
-      "Troie",
-      "Antioche"
+      "Titus",
+      "Néron",
+      "Trajan",
+      "Domitien"
     ],
     "correctIndex": 0
   },
@@ -692,92 +692,92 @@
     "id": "q54",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel était le nom originel de la ville de Constantinople ?",
+    "text": "Quel philosophe stoïcien fut conseiller de Néron avant d’être contraint au suicide ?",
     "answers": [
-      "Antioche",
-      "Byzance",
-      "Pergame",
-      "Troie"
+      "Sénèque",
+      "Épictète",
+      "Marc Aurèle",
+      "Cicéron"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "q55",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel philosophe grec a été le maître de Platon ?",
+    "text": "Quelle cité antique était dirigée par un système de deux rois simultanément ?",
     "answers": [
-      "Socrate",
-      "Héraclite",
-      "Parménide",
-      "Anaxagore"
+      "Athènes",
+      "Sparte",
+      "Thèbes",
+      "Corinthe"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "q56",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel philosophe grec a été le maître de Platon ?",
+    "text": "Quelle reine d’Égypte fut la dernière de la dynastie ptolémaïque ?",
     "answers": [
-      "Socrate",
-      "Parménide",
-      "Anaxagore",
-      "Héraclite"
+      "Arsinoé II",
+      "Cléopâtre VII",
+      "Bérénice IV",
+      "Néfertari"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "q57",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel général romain a été surnommé 'l'Africain' ?",
+    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
     "answers": [
-      "Scipion",
-      "Sylla",
-      "Marius",
-      "Trajan"
+      "Hamilcar Barca",
+      "Hannibal",
+      "Hasdrubal",
+      "Magon"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "q58",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle bataille a mis fin à la deuxième guerre punique ?",
+    "text": "Quel historien romain écrivit 'Ab Urbe Condita' ?",
     "answers": [
-      "Bataille de Cannes",
-      "Bataille de Zama",
-      "Bataille de Pydna",
-      "Bataille du Trasimène"
+      "Tacite",
+      "Salluste",
+      "Tite-Live",
+      "Suétone"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "q59",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel philosophe grec a été le maître de Platon ?",
+    "text": "Quel était le nom de la ligue formée par Athènes au Ve siècle av. J.-C. ?",
     "answers": [
-      "Héraclite",
-      "Socrate",
-      "Anaxagore",
-      "Parménide"
+      "Ligue béotienne",
+      "Ligue achéenne",
+      "Ligue ionienne",
+      "Ligue de Délos"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "q60",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel roi spartiate est célèbre pour la bataille des Thermopyles ?",
+    "text": "Qui fut le premier empereur de la dynastie flavienne ?",
     "answers": [
-      "Cléomène III",
-      "Démarate",
-      "Agis IV",
-      "Léonidas Ier"
+      "Titus",
+      "Domitien",
+      "Vespasien",
+      "Nerva"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "q61",
@@ -786,22 +786,22 @@
     "text": "Quel royaume antique avait pour capitale Persépolis ?",
     "answers": [
       "Empire parthe",
-      "Empire achéménide",
       "Empire séleucide",
-      "Empire sassanide"
+      "Empire sassanide",
+      "Empire achéménide"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "q62",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel philosophe grec a été le maître de Platon ?",
+    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
     "answers": [
-      "Parménide",
-      "Héraclite",
-      "Socrate",
-      "Anaxagore"
+      "Plutarque",
+      "Tite-Live",
+      "Hérodote",
+      "Strabon"
     ],
     "correctIndex": 2
   },
@@ -809,25 +809,25 @@
     "id": "q63",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
+    "text": "Sous quel empereur romain le Colisée fut-il inauguré en 80 apr. J.-C. ?",
     "answers": [
-      "Plutarque",
-      "Tite-Live",
-      "Hérodote",
-      "Strabon"
+      "Titus",
+      "Néron",
+      "Trajan",
+      "Domitien"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "q64",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
+    "text": "Quel philosophe stoïcien fut conseiller de Néron avant d’être contraint au suicide ?",
     "answers": [
-      "Hérodote",
-      "Plutarque",
-      "Tite-Live",
-      "Strabon"
+      "Sénèque",
+      "Épictète",
+      "Marc Aurèle",
+      "Cicéron"
     ],
     "correctIndex": 0
   },
@@ -835,25 +835,25 @@
     "id": "q65",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel général romain a été surnommé 'l'Africain' ?",
+    "text": "Quelle cité antique était dirigée par un système de deux rois simultanément ?",
     "answers": [
-      "Marius",
-      "Sylla",
-      "Scipion",
-      "Trajan"
+      "Athènes",
+      "Sparte",
+      "Thèbes",
+      "Corinthe"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "q66",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel philosophe grec a été le maître de Platon ?",
+    "text": "Quelle reine d’Égypte fut la dernière de la dynastie ptolémaïque ?",
     "answers": [
-      "Anaxagore",
-      "Socrate",
-      "Héraclite",
-      "Parménide"
+      "Arsinoé II",
+      "Cléopâtre VII",
+      "Bérénice IV",
+      "Néfertari"
     ],
     "correctIndex": 1
   },
@@ -861,12 +861,12 @@
     "id": "q67",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel stratège athénien a été exilé après la bataille de Syracuse ?",
+    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
     "answers": [
-      "Alcibiade",
-      "Nicias",
-      "Démosthène",
-      "Périclès"
+      "Hamilcar Barca",
+      "Hannibal",
+      "Hasdrubal",
+      "Magon"
     ],
     "correctIndex": 1
   },
@@ -874,12 +874,12 @@
     "id": "q68",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel roi spartiate est célèbre pour la bataille des Thermopyles ?",
+    "text": "Quel historien romain écrivit 'Ab Urbe Condita' ?",
     "answers": [
-      "Cléomène III",
-      "Démarate",
-      "Léonidas Ier",
-      "Agis IV"
+      "Tacite",
+      "Salluste",
+      "Tite-Live",
+      "Suétone"
     ],
     "correctIndex": 2
   },
@@ -887,12 +887,12 @@
     "id": "q69",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel historien grec est considéré comme le 'père de l'histoire' ?",
+    "text": "Quel était le nom de la ligue formée par Athènes au Ve siècle av. J.-C. ?",
     "answers": [
-      "Xénophon",
-      "Polybe",
-      "Thucydide",
-      "Hérodote"
+      "Ligue béotienne",
+      "Ligue achéenne",
+      "Ligue ionienne",
+      "Ligue de Délos"
     ],
     "correctIndex": 3
   },
@@ -900,51 +900,51 @@
     "id": "q70",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle bataille a mis fin à la deuxième guerre punique ?",
+    "text": "Qui fut le premier empereur de la dynastie flavienne ?",
     "answers": [
-      "Bataille de Zama",
-      "Bataille du Trasimène",
-      "Bataille de Pydna",
-      "Bataille de Cannes"
+      "Titus",
+      "Domitien",
+      "Vespasien",
+      "Nerva"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "q71",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel historien grec est considéré comme le 'père de l'histoire' ?",
+    "text": "Quel royaume antique avait pour capitale Persépolis ?",
     "answers": [
-      "Xénophon",
-      "Hérodote",
-      "Polybe",
-      "Thucydide"
+      "Empire parthe",
+      "Empire séleucide",
+      "Empire sassanide",
+      "Empire achéménide"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "q72",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel roi spartiate est célèbre pour la bataille des Thermopyles ?",
+    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
     "answers": [
-      "Agis IV",
-      "Cléomène III",
-      "Démarate",
-      "Léonidas Ier"
+      "Plutarque",
+      "Tite-Live",
+      "Hérodote",
+      "Strabon"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "q73",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel historien grec est considéré comme le 'père de l'histoire' ?",
+    "text": "Sous quel empereur romain le Colisée fut-il inauguré en 80 apr. J.-C. ?",
     "answers": [
-      "Hérodote",
-      "Thucydide",
-      "Xénophon",
-      "Polybe"
+      "Titus",
+      "Néron",
+      "Trajan",
+      "Domitien"
     ],
     "correctIndex": 0
   },
@@ -952,90 +952,90 @@
     "id": "q74",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle bataille a mis fin à la deuxième guerre punique ?",
+    "text": "Quel philosophe stoïcien fut conseiller de Néron avant d’être contraint au suicide ?",
     "answers": [
-      "Bataille de Pydna",
-      "Bataille de Zama",
-      "Bataille de Cannes",
-      "Bataille du Trasimène"
+      "Sénèque",
+      "Épictète",
+      "Marc Aurèle",
+      "Cicéron"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "q75",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Qui a fondé l'école stoïcienne ?",
+    "text": "Quelle cité antique était dirigée par un système de deux rois simultanément ?",
     "answers": [
-      "Épicure",
-      "Aristote",
-      "Zénon de Citium",
-      "Diogène"
+      "Athènes",
+      "Sparte",
+      "Thèbes",
+      "Corinthe"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "q76",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel historien grec est considéré comme le 'père de l'histoire' ?",
+    "text": "Quelle reine d’Égypte fut la dernière de la dynastie ptolémaïque ?",
     "answers": [
-      "Thucydide",
-      "Polybe",
-      "Hérodote",
-      "Xénophon"
+      "Arsinoé II",
+      "Cléopâtre VII",
+      "Bérénice IV",
+      "Néfertari"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "q77",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle bataille a mis fin à la deuxième guerre punique ?",
+    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
     "answers": [
-      "Bataille de Zama",
-      "Bataille de Pydna",
-      "Bataille du Trasimène",
-      "Bataille de Cannes"
+      "Hamilcar Barca",
+      "Hannibal",
+      "Hasdrubal",
+      "Magon"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "q78",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Qui a fondé l'école stoïcienne ?",
+    "text": "Quel historien romain écrivit 'Ab Urbe Condita' ?",
     "answers": [
-      "Diogène",
-      "Aristote",
-      "Épicure",
-      "Zénon de Citium"
+      "Tacite",
+      "Salluste",
+      "Tite-Live",
+      "Suétone"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "q79",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel stratège athénien a été exilé après la bataille de Syracuse ?",
+    "text": "Quel était le nom de la ligue formée par Athènes au Ve siècle av. J.-C. ?",
     "answers": [
-      "Périclès",
-      "Démosthène",
-      "Nicias",
-      "Alcibiade"
+      "Ligue béotienne",
+      "Ligue achéenne",
+      "Ligue ionienne",
+      "Ligue de Délos"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "q80",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle bataille a mis fin à la deuxième guerre punique ?",
+    "text": "Qui fut le premier empereur de la dynastie flavienne ?",
     "answers": [
-      "Bataille de Pydna",
-      "Bataille du Trasimène",
-      "Bataille de Zama",
-      "Bataille de Cannes"
+      "Titus",
+      "Domitien",
+      "Vespasien",
+      "Nerva"
     ],
     "correctIndex": 2
   },
@@ -1043,25 +1043,25 @@
     "id": "q81",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel philosophe grec a été le maître de Platon ?",
+    "text": "Quel royaume antique avait pour capitale Persépolis ?",
     "answers": [
-      "Anaxagore",
-      "Socrate",
-      "Parménide",
-      "Héraclite"
+      "Empire parthe",
+      "Empire séleucide",
+      "Empire sassanide",
+      "Empire achéménide"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "q82",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Qui a fondé l'école stoïcienne ?",
+    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
     "answers": [
-      "Diogène",
-      "Épicure",
-      "Zénon de Citium",
-      "Aristote"
+      "Plutarque",
+      "Tite-Live",
+      "Hérodote",
+      "Strabon"
     ],
     "correctIndex": 2
   },
@@ -1069,116 +1069,116 @@
     "id": "q83",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Qui a fondé l'école stoïcienne ?",
+    "text": "Sous quel empereur romain le Colisée fut-il inauguré en 80 apr. J.-C. ?",
     "answers": [
-      "Aristote",
-      "Diogène",
-      "Épicure",
-      "Zénon de Citium"
+      "Titus",
+      "Néron",
+      "Trajan",
+      "Domitien"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "q84",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
+    "text": "Quel philosophe stoïcien fut conseiller de Néron avant d’être contraint au suicide ?",
     "answers": [
-      "Empire sassanide",
-      "Empire séleucide",
-      "Empire parthe",
-      "Empire achéménide"
+      "Sénèque",
+      "Épictète",
+      "Marc Aurèle",
+      "Cicéron"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "q85",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
+    "text": "Quelle cité antique était dirigée par un système de deux rois simultanément ?",
     "answers": [
-      "Empire parthe",
-      "Empire sassanide",
-      "Empire achéménide",
-      "Empire séleucide"
+      "Athènes",
+      "Sparte",
+      "Thèbes",
+      "Corinthe"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "q86",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
+    "text": "Quelle reine d’Égypte fut la dernière de la dynastie ptolémaïque ?",
     "answers": [
-      "Strabon",
-      "Tite-Live",
-      "Hérodote",
-      "Plutarque"
+      "Arsinoé II",
+      "Cléopâtre VII",
+      "Bérénice IV",
+      "Néfertari"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "q87",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
+    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
     "answers": [
-      "Empire achéménide",
-      "Empire sassanide",
-      "Empire séleucide",
-      "Empire parthe"
+      "Hamilcar Barca",
+      "Hannibal",
+      "Hasdrubal",
+      "Magon"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "q88",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel historien grec est considéré comme le 'père de l'histoire' ?",
+    "text": "Quel historien romain écrivit 'Ab Urbe Condita' ?",
     "answers": [
-      "Hérodote",
-      "Polybe",
-      "Thucydide",
-      "Xénophon"
+      "Tacite",
+      "Salluste",
+      "Tite-Live",
+      "Suétone"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "q89",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Qui a fondé l'école stoïcienne ?",
+    "text": "Quel était le nom de la ligue formée par Athènes au Ve siècle av. J.-C. ?",
     "answers": [
-      "Zénon de Citium",
-      "Épicure",
-      "Diogène",
-      "Aristote"
+      "Ligue béotienne",
+      "Ligue achéenne",
+      "Ligue ionienne",
+      "Ligue de Délos"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "q90",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel était le nom originel de la ville de Constantinople ?",
+    "text": "Qui fut le premier empereur de la dynastie flavienne ?",
     "answers": [
-      "Pergame",
-      "Antioche",
-      "Troie",
-      "Byzance"
+      "Titus",
+      "Domitien",
+      "Vespasien",
+      "Nerva"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "q91",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel stratège athénien a été exilé après la bataille de Syracuse ?",
+    "text": "Quel royaume antique avait pour capitale Persépolis ?",
     "answers": [
-      "Démosthène",
-      "Périclès",
-      "Alcibiade",
-      "Nicias"
+      "Empire parthe",
+      "Empire séleucide",
+      "Empire sassanide",
+      "Empire achéménide"
     ],
     "correctIndex": 3
   },
@@ -1189,48 +1189,48 @@
     "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
     "answers": [
       "Plutarque",
-      "Hérodote",
       "Tite-Live",
+      "Hérodote",
       "Strabon"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "q93",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel général romain a été surnommé 'l'Africain' ?",
+    "text": "Sous quel empereur romain le Colisée fut-il inauguré en 80 apr. J.-C. ?",
     "answers": [
-      "Marius",
+      "Titus",
+      "Néron",
       "Trajan",
-      "Sylla",
-      "Scipion"
+      "Domitien"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "q94",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
+    "text": "Quel philosophe stoïcien fut conseiller de Néron avant d’être contraint au suicide ?",
     "answers": [
-      "Strabon",
-      "Hérodote",
-      "Plutarque",
-      "Tite-Live"
+      "Sénèque",
+      "Épictète",
+      "Marc Aurèle",
+      "Cicéron"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "q95",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Qui a fondé l'école stoïcienne ?",
+    "text": "Quelle cité antique était dirigée par un système de deux rois simultanément ?",
     "answers": [
-      "Aristote",
-      "Zénon de Citium",
-      "Diogène",
-      "Épicure"
+      "Athènes",
+      "Sparte",
+      "Thèbes",
+      "Corinthe"
     ],
     "correctIndex": 1
   },
@@ -1238,25 +1238,25 @@
     "id": "q96",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel philosophe grec a été le maître de Platon ?",
+    "text": "Quelle reine d’Égypte fut la dernière de la dynastie ptolémaïque ?",
     "answers": [
-      "Parménide",
-      "Héraclite",
-      "Anaxagore",
-      "Socrate"
+      "Arsinoé II",
+      "Cléopâtre VII",
+      "Bérénice IV",
+      "Néfertari"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "q97",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
+    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
     "answers": [
-      "Empire séleucide",
-      "Empire achéménide",
-      "Empire parthe",
-      "Empire sassanide"
+      "Hamilcar Barca",
+      "Hannibal",
+      "Hasdrubal",
+      "Magon"
     ],
     "correctIndex": 1
   },
@@ -1264,51 +1264,51 @@
     "id": "q98",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel stratège athénien a été exilé après la bataille de Syracuse ?",
+    "text": "Quel historien romain écrivit 'Ab Urbe Condita' ?",
     "answers": [
-      "Démosthène",
-      "Nicias",
-      "Périclès",
-      "Alcibiade"
+      "Tacite",
+      "Salluste",
+      "Tite-Live",
+      "Suétone"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "q99",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel général romain a été surnommé 'l'Africain' ?",
+    "text": "Quel était le nom de la ligue formée par Athènes au Ve siècle av. J.-C. ?",
     "answers": [
-      "Scipion",
-      "Marius",
-      "Trajan",
-      "Sylla"
+      "Ligue béotienne",
+      "Ligue achéenne",
+      "Ligue ionienne",
+      "Ligue de Délos"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "q100",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel était le nom originel de la ville de Constantinople ?",
+    "text": "Qui fut le premier empereur de la dynastie flavienne ?",
     "answers": [
-      "Byzance",
-      "Antioche",
-      "Troie",
-      "Pergame"
+      "Titus",
+      "Domitien",
+      "Vespasien",
+      "Nerva"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "q101",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel roi spartiate est célèbre pour la bataille des Thermopyles ?",
+    "text": "Quel royaume antique avait pour capitale Persépolis ?",
     "answers": [
-      "Démarate",
-      "Cléomène III",
-      "Agis IV",
-      "Léonidas Ier"
+      "Empire parthe",
+      "Empire séleucide",
+      "Empire sassanide",
+      "Empire achéménide"
     ],
     "correctIndex": 3
   },
@@ -1316,64 +1316,64 @@
     "id": "q102",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle bataille a mis fin à la deuxième guerre punique ?",
+    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
     "answers": [
-      "Bataille du Trasimène",
-      "Bataille de Cannes",
-      "Bataille de Pydna",
-      "Bataille de Zama"
+      "Plutarque",
+      "Tite-Live",
+      "Hérodote",
+      "Strabon"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "q103",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Qui a fondé l'école stoïcienne ?",
+    "text": "Sous quel empereur romain le Colisée fut-il inauguré en 80 apr. J.-C. ?",
     "answers": [
-      "Diogène",
-      "Aristote",
-      "Épicure",
-      "Zénon de Citium"
+      "Titus",
+      "Néron",
+      "Trajan",
+      "Domitien"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "q104",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel roi spartiate est célèbre pour la bataille des Thermopyles ?",
+    "text": "Quel philosophe stoïcien fut conseiller de Néron avant d’être contraint au suicide ?",
     "answers": [
-      "Démarate",
-      "Cléomène III",
-      "Léonidas Ier",
-      "Agis IV"
+      "Sénèque",
+      "Épictète",
+      "Marc Aurèle",
+      "Cicéron"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "q105",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel philosophe grec a été le maître de Platon ?",
+    "text": "Quelle cité antique était dirigée par un système de deux rois simultanément ?",
     "answers": [
-      "Socrate",
-      "Parménide",
-      "Héraclite",
-      "Anaxagore"
+      "Athènes",
+      "Sparte",
+      "Thèbes",
+      "Corinthe"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "q106",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel historien grec est considéré comme le 'père de l'histoire' ?",
+    "text": "Quelle reine d’Égypte fut la dernière de la dynastie ptolémaïque ?",
     "answers": [
-      "Thucydide",
-      "Hérodote",
-      "Xénophon",
-      "Polybe"
+      "Arsinoé II",
+      "Cléopâtre VII",
+      "Bérénice IV",
+      "Néfertari"
     ],
     "correctIndex": 1
   },
@@ -1381,25 +1381,25 @@
     "id": "q107",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel historien grec est considéré comme le 'père de l'histoire' ?",
+    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
     "answers": [
-      "Hérodote",
-      "Xénophon",
-      "Thucydide",
-      "Polybe"
+      "Hamilcar Barca",
+      "Hannibal",
+      "Hasdrubal",
+      "Magon"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "q108",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel historien grec est considéré comme le 'père de l'histoire' ?",
+    "text": "Quel historien romain écrivit 'Ab Urbe Condita' ?",
     "answers": [
-      "Polybe",
-      "Xénophon",
-      "Hérodote",
-      "Thucydide"
+      "Tacite",
+      "Salluste",
+      "Tite-Live",
+      "Suétone"
     ],
     "correctIndex": 2
   },
@@ -1407,27 +1407,27 @@
     "id": "q109",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel philosophe grec a été le maître de Platon ?",
+    "text": "Quel était le nom de la ligue formée par Athènes au Ve siècle av. J.-C. ?",
     "answers": [
-      "Héraclite",
-      "Socrate",
-      "Anaxagore",
-      "Parménide"
+      "Ligue béotienne",
+      "Ligue achéenne",
+      "Ligue ionienne",
+      "Ligue de Délos"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "q110",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel historien grec est considéré comme le 'père de l'histoire' ?",
+    "text": "Qui fut le premier empereur de la dynastie flavienne ?",
     "answers": [
-      "Hérodote",
-      "Polybe",
-      "Xénophon",
-      "Thucydide"
+      "Titus",
+      "Domitien",
+      "Vespasien",
+      "Nerva"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "q111",
@@ -1435,36 +1435,36 @@
     "difficulty": "Difficile",
     "text": "Quel royaume antique avait pour capitale Persépolis ?",
     "answers": [
-      "Empire sassanide",
-      "Empire achéménide",
+      "Empire parthe",
       "Empire séleucide",
-      "Empire parthe"
+      "Empire sassanide",
+      "Empire achéménide"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "q112",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel philosophe grec a été le maître de Platon ?",
+    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
     "answers": [
-      "Héraclite",
-      "Anaxagore",
-      "Parménide",
-      "Socrate"
+      "Plutarque",
+      "Tite-Live",
+      "Hérodote",
+      "Strabon"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "q113",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle bataille a mis fin à la deuxième guerre punique ?",
+    "text": "Sous quel empereur romain le Colisée fut-il inauguré en 80 apr. J.-C. ?",
     "answers": [
-      "Bataille de Zama",
-      "Bataille du Trasimène",
-      "Bataille de Cannes",
-      "Bataille de Pydna"
+      "Titus",
+      "Néron",
+      "Trajan",
+      "Domitien"
     ],
     "correctIndex": 0
   },
@@ -1472,90 +1472,90 @@
     "id": "q114",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Qui a fondé l'école stoïcienne ?",
+    "text": "Quel philosophe stoïcien fut conseiller de Néron avant d’être contraint au suicide ?",
     "answers": [
-      "Aristote",
-      "Diogène",
-      "Zénon de Citium",
-      "Épicure"
+      "Sénèque",
+      "Épictète",
+      "Marc Aurèle",
+      "Cicéron"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "q115",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel roi spartiate est célèbre pour la bataille des Thermopyles ?",
+    "text": "Quelle cité antique était dirigée par un système de deux rois simultanément ?",
     "answers": [
-      "Agis IV",
-      "Cléomène III",
-      "Léonidas Ier",
-      "Démarate"
+      "Athènes",
+      "Sparte",
+      "Thèbes",
+      "Corinthe"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "q116",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel roi spartiate est célèbre pour la bataille des Thermopyles ?",
+    "text": "Quelle reine d’Égypte fut la dernière de la dynastie ptolémaïque ?",
     "answers": [
-      "Léonidas Ier",
-      "Cléomène III",
-      "Agis IV",
-      "Démarate"
+      "Arsinoé II",
+      "Cléopâtre VII",
+      "Bérénice IV",
+      "Néfertari"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "q117",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel historien grec est considéré comme le 'père de l'histoire' ?",
+    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
     "answers": [
-      "Hérodote",
-      "Xénophon",
-      "Polybe",
-      "Thucydide"
+      "Hamilcar Barca",
+      "Hannibal",
+      "Hasdrubal",
+      "Magon"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "q118",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel philosophe grec a été le maître de Platon ?",
+    "text": "Quel historien romain écrivit 'Ab Urbe Condita' ?",
     "answers": [
-      "Anaxagore",
-      "Parménide",
-      "Héraclite",
-      "Socrate"
+      "Tacite",
+      "Salluste",
+      "Tite-Live",
+      "Suétone"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "q119",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle bataille a mis fin à la deuxième guerre punique ?",
+    "text": "Quel était le nom de la ligue formée par Athènes au Ve siècle av. J.-C. ?",
     "answers": [
-      "Bataille de Pydna",
-      "Bataille de Cannes",
-      "Bataille de Zama",
-      "Bataille du Trasimène"
+      "Ligue béotienne",
+      "Ligue achéenne",
+      "Ligue ionienne",
+      "Ligue de Délos"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "q120",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle bataille a mis fin à la deuxième guerre punique ?",
+    "text": "Qui fut le premier empereur de la dynastie flavienne ?",
     "answers": [
-      "Bataille de Cannes",
-      "Bataille de Pydna",
-      "Bataille de Zama",
-      "Bataille du Trasimène"
+      "Titus",
+      "Domitien",
+      "Vespasien",
+      "Nerva"
     ],
     "correctIndex": 2
   },
@@ -1563,12 +1563,12 @@
     "id": "q121",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel était le nom originel de la ville de Constantinople ?",
+    "text": "Quel royaume antique avait pour capitale Persépolis ?",
     "answers": [
-      "Troie",
-      "Antioche",
-      "Pergame",
-      "Byzance"
+      "Empire parthe",
+      "Empire séleucide",
+      "Empire sassanide",
+      "Empire achéménide"
     ],
     "correctIndex": 3
   },
@@ -1576,12 +1576,12 @@
     "id": "q122",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel historien grec est considéré comme le 'père de l'histoire' ?",
+    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
     "answers": [
-      "Xénophon",
-      "Polybe",
+      "Plutarque",
+      "Tite-Live",
       "Hérodote",
-      "Thucydide"
+      "Strabon"
     ],
     "correctIndex": 2
   },
@@ -1589,38 +1589,38 @@
     "id": "q123",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel philosophe grec a été le maître de Platon ?",
+    "text": "Sous quel empereur romain le Colisée fut-il inauguré en 80 apr. J.-C. ?",
     "answers": [
-      "Anaxagore",
-      "Héraclite",
-      "Parménide",
-      "Socrate"
+      "Titus",
+      "Néron",
+      "Trajan",
+      "Domitien"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "q124",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel historien grec est considéré comme le 'père de l'histoire' ?",
+    "text": "Quel philosophe stoïcien fut conseiller de Néron avant d’être contraint au suicide ?",
     "answers": [
-      "Xénophon",
-      "Hérodote",
-      "Polybe",
-      "Thucydide"
+      "Sénèque",
+      "Épictète",
+      "Marc Aurèle",
+      "Cicéron"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "q125",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Qui a fondé l'école stoïcienne ?",
+    "text": "Quelle cité antique était dirigée par un système de deux rois simultanément ?",
     "answers": [
-      "Aristote",
-      "Zénon de Citium",
-      "Diogène",
-      "Épicure"
+      "Athènes",
+      "Sparte",
+      "Thèbes",
+      "Corinthe"
     ],
     "correctIndex": 1
   },
@@ -1628,25 +1628,25 @@
     "id": "q126",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel historien grec est considéré comme le 'père de l'histoire' ?",
+    "text": "Quelle reine d’Égypte fut la dernière de la dynastie ptolémaïque ?",
     "answers": [
-      "Polybe",
-      "Xénophon",
-      "Hérodote",
-      "Thucydide"
+      "Arsinoé II",
+      "Cléopâtre VII",
+      "Bérénice IV",
+      "Néfertari"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "q127",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel roi spartiate est célèbre pour la bataille des Thermopyles ?",
+    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
     "answers": [
-      "Agis IV",
-      "Léonidas Ier",
-      "Cléomène III",
-      "Démarate"
+      "Hamilcar Barca",
+      "Hannibal",
+      "Hasdrubal",
+      "Magon"
     ],
     "correctIndex": 1
   },
@@ -1654,12 +1654,12 @@
     "id": "q128",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel roi spartiate est célèbre pour la bataille des Thermopyles ?",
+    "text": "Quel historien romain écrivit 'Ab Urbe Condita' ?",
     "answers": [
-      "Agis IV",
-      "Démarate",
-      "Léonidas Ier",
-      "Cléomène III"
+      "Tacite",
+      "Salluste",
+      "Tite-Live",
+      "Suétone"
     ],
     "correctIndex": 2
   },
@@ -1667,12 +1667,12 @@
     "id": "q129",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel général romain a été surnommé 'l'Africain' ?",
+    "text": "Quel était le nom de la ligue formée par Athènes au Ve siècle av. J.-C. ?",
     "answers": [
-      "Sylla",
-      "Marius",
-      "Trajan",
-      "Scipion"
+      "Ligue béotienne",
+      "Ligue achéenne",
+      "Ligue ionienne",
+      "Ligue de Délos"
     ],
     "correctIndex": 3
   },
@@ -1680,14 +1680,14 @@
     "id": "q130",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
+    "text": "Qui fut le premier empereur de la dynastie flavienne ?",
     "answers": [
-      "Hérodote",
-      "Plutarque",
-      "Tite-Live",
-      "Strabon"
+      "Titus",
+      "Domitien",
+      "Vespasien",
+      "Nerva"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "q131",
@@ -1695,119 +1695,15 @@
     "difficulty": "Difficile",
     "text": "Quel royaume antique avait pour capitale Persépolis ?",
     "answers": [
-      "Empire achéménide",
-      "Empire séleucide",
-      "Empire sassanide",
-      "Empire parthe"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q132",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui a fondé l'école stoïcienne ?",
-    "answers": [
-      "Diogène",
-      "Épicure",
-      "Zénon de Citium",
-      "Aristote"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q133",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel était le nom originel de la ville de Constantinople ?",
-    "answers": [
-      "Troie",
-      "Byzance",
-      "Pergame",
-      "Antioche"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q134",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel roi spartiate est célèbre pour la bataille des Thermopyles ?",
-    "answers": [
-      "Léonidas Ier",
-      "Cléomène III",
-      "Démarate",
-      "Agis IV"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q135",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel historien grec est considéré comme le 'père de l'histoire' ?",
-    "answers": [
-      "Xénophon",
-      "Polybe",
-      "Hérodote",
-      "Thucydide"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q136",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
-    "answers": [
-      "Empire achéménide",
-      "Empire séleucide",
-      "Empire sassanide",
-      "Empire parthe"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q137",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
-    "answers": [
       "Empire parthe",
-      "Empire sassanide",
       "Empire séleucide",
+      "Empire sassanide",
       "Empire achéménide"
     ],
     "correctIndex": 3
   },
   {
-    "id": "q138",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quelle bataille a mis fin à la deuxième guerre punique ?",
-    "answers": [
-      "Bataille de Cannes",
-      "Bataille de Zama",
-      "Bataille du Trasimène",
-      "Bataille de Pydna"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q139",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel historien grec est considéré comme le 'père de l'histoire' ?",
-    "answers": [
-      "Thucydide",
-      "Xénophon",
-      "Polybe",
-      "Hérodote"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q140",
+    "id": "q132",
     "category": "Antiquité",
     "difficulty": "Difficile",
     "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
@@ -1820,15 +1716,119 @@
     "correctIndex": 2
   },
   {
+    "id": "q133",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Sous quel empereur romain le Colisée fut-il inauguré en 80 apr. J.-C. ?",
+    "answers": [
+      "Titus",
+      "Néron",
+      "Trajan",
+      "Domitien"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q134",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel philosophe stoïcien fut conseiller de Néron avant d’être contraint au suicide ?",
+    "answers": [
+      "Sénèque",
+      "Épictète",
+      "Marc Aurèle",
+      "Cicéron"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q135",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle cité antique était dirigée par un système de deux rois simultanément ?",
+    "answers": [
+      "Athènes",
+      "Sparte",
+      "Thèbes",
+      "Corinthe"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q136",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle reine d’Égypte fut la dernière de la dynastie ptolémaïque ?",
+    "answers": [
+      "Arsinoé II",
+      "Cléopâtre VII",
+      "Bérénice IV",
+      "Néfertari"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q137",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
+    "answers": [
+      "Hamilcar Barca",
+      "Hannibal",
+      "Hasdrubal",
+      "Magon"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q138",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel historien romain écrivit 'Ab Urbe Condita' ?",
+    "answers": [
+      "Tacite",
+      "Salluste",
+      "Tite-Live",
+      "Suétone"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q139",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel était le nom de la ligue formée par Athènes au Ve siècle av. J.-C. ?",
+    "answers": [
+      "Ligue béotienne",
+      "Ligue achéenne",
+      "Ligue ionienne",
+      "Ligue de Délos"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q140",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Qui fut le premier empereur de la dynastie flavienne ?",
+    "answers": [
+      "Titus",
+      "Domitien",
+      "Vespasien",
+      "Nerva"
+    ],
+    "correctIndex": 2
+  },
+  {
     "id": "q141",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel philosophe grec a été le maître de Platon ?",
+    "text": "Quel royaume antique avait pour capitale Persépolis ?",
     "answers": [
-      "Anaxagore",
-      "Parménide",
-      "Héraclite",
-      "Socrate"
+      "Empire parthe",
+      "Empire séleucide",
+      "Empire sassanide",
+      "Empire achéménide"
     ],
     "correctIndex": 3
   },
@@ -1836,51 +1836,51 @@
     "id": "q142",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle bataille a mis fin à la deuxième guerre punique ?",
+    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
     "answers": [
-      "Bataille de Zama",
-      "Bataille de Cannes",
-      "Bataille de Pydna",
-      "Bataille du Trasimène"
+      "Plutarque",
+      "Tite-Live",
+      "Hérodote",
+      "Strabon"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "q143",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
+    "text": "Sous quel empereur romain le Colisée fut-il inauguré en 80 apr. J.-C. ?",
     "answers": [
-      "Strabon",
-      "Tite-Live",
-      "Hérodote",
-      "Plutarque"
+      "Titus",
+      "Néron",
+      "Trajan",
+      "Domitien"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "q144",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
+    "text": "Quel philosophe stoïcien fut conseiller de Néron avant d’être contraint au suicide ?",
     "answers": [
-      "Empire séleucide",
-      "Empire parthe",
-      "Empire sassanide",
-      "Empire achéménide"
+      "Sénèque",
+      "Épictète",
+      "Marc Aurèle",
+      "Cicéron"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "q145",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel philosophe grec a été le maître de Platon ?",
+    "text": "Quelle cité antique était dirigée par un système de deux rois simultanément ?",
     "answers": [
-      "Parménide",
-      "Socrate",
-      "Anaxagore",
-      "Héraclite"
+      "Athènes",
+      "Sparte",
+      "Thèbes",
+      "Corinthe"
     ],
     "correctIndex": 1
   },
@@ -1888,64 +1888,64 @@
     "id": "q146",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
+    "text": "Quelle reine d’Égypte fut la dernière de la dynastie ptolémaïque ?",
     "answers": [
-      "Strabon",
-      "Tite-Live",
-      "Hérodote",
-      "Plutarque"
+      "Arsinoé II",
+      "Cléopâtre VII",
+      "Bérénice IV",
+      "Néfertari"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "q147",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel historien grec est considéré comme le 'père de l'histoire' ?",
+    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
     "answers": [
-      "Polybe",
-      "Thucydide",
-      "Hérodote",
-      "Xénophon"
+      "Hamilcar Barca",
+      "Hannibal",
+      "Hasdrubal",
+      "Magon"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "q148",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
+    "text": "Quel historien romain écrivit 'Ab Urbe Condita' ?",
     "answers": [
-      "Plutarque",
+      "Tacite",
+      "Salluste",
       "Tite-Live",
-      "Strabon",
-      "Hérodote"
+      "Suétone"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "q149",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel historien grec est considéré comme le 'père de l'histoire' ?",
+    "text": "Quel était le nom de la ligue formée par Athènes au Ve siècle av. J.-C. ?",
     "answers": [
-      "Hérodote",
-      "Xénophon",
-      "Thucydide",
-      "Polybe"
+      "Ligue béotienne",
+      "Ligue achéenne",
+      "Ligue ionienne",
+      "Ligue de Délos"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "q150",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
+    "text": "Qui fut le premier empereur de la dynastie flavienne ?",
     "answers": [
-      "Strabon",
-      "Tite-Live",
-      "Hérodote",
-      "Plutarque"
+      "Titus",
+      "Domitien",
+      "Vespasien",
+      "Nerva"
     ],
     "correctIndex": 2
   },
@@ -1953,12 +1953,12 @@
     "id": "q151",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel stratège athénien a été exilé après la bataille de Syracuse ?",
+    "text": "Quel royaume antique avait pour capitale Persépolis ?",
     "answers": [
-      "Démosthène",
-      "Alcibiade",
-      "Périclès",
-      "Nicias"
+      "Empire parthe",
+      "Empire séleucide",
+      "Empire sassanide",
+      "Empire achéménide"
     ],
     "correctIndex": 3
   },
@@ -1966,12 +1966,12 @@
     "id": "q152",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel était le nom originel de la ville de Constantinople ?",
+    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
     "answers": [
-      "Antioche",
-      "Troie",
-      "Byzance",
-      "Pergame"
+      "Plutarque",
+      "Tite-Live",
+      "Hérodote",
+      "Strabon"
     ],
     "correctIndex": 2
   },
@@ -1979,77 +1979,77 @@
     "id": "q153",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel historien grec est considéré comme le 'père de l'histoire' ?",
+    "text": "Sous quel empereur romain le Colisée fut-il inauguré en 80 apr. J.-C. ?",
     "answers": [
-      "Thucydide",
-      "Xénophon",
-      "Hérodote",
-      "Polybe"
+      "Titus",
+      "Néron",
+      "Trajan",
+      "Domitien"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "q154",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
+    "text": "Quel philosophe stoïcien fut conseiller de Néron avant d’être contraint au suicide ?",
     "answers": [
-      "Plutarque",
-      "Tite-Live",
-      "Strabon",
-      "Hérodote"
+      "Sénèque",
+      "Épictète",
+      "Marc Aurèle",
+      "Cicéron"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "q155",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel philosophe grec a été le maître de Platon ?",
+    "text": "Quelle cité antique était dirigée par un système de deux rois simultanément ?",
     "answers": [
-      "Anaxagore",
-      "Parménide",
-      "Socrate",
-      "Héraclite"
+      "Athènes",
+      "Sparte",
+      "Thèbes",
+      "Corinthe"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "q156",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
+    "text": "Quelle reine d’Égypte fut la dernière de la dynastie ptolémaïque ?",
     "answers": [
-      "Empire achéménide",
-      "Empire séleucide",
-      "Empire parthe",
-      "Empire sassanide"
+      "Arsinoé II",
+      "Cléopâtre VII",
+      "Bérénice IV",
+      "Néfertari"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "q157",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
+    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
     "answers": [
-      "Empire achéménide",
-      "Empire parthe",
-      "Empire séleucide",
-      "Empire sassanide"
+      "Hamilcar Barca",
+      "Hannibal",
+      "Hasdrubal",
+      "Magon"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "q158",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel historien grec est considéré comme le 'père de l'histoire' ?",
+    "text": "Quel historien romain écrivit 'Ab Urbe Condita' ?",
     "answers": [
-      "Polybe",
-      "Thucydide",
-      "Hérodote",
-      "Xénophon"
+      "Tacite",
+      "Salluste",
+      "Tite-Live",
+      "Suétone"
     ],
     "correctIndex": 2
   },
@@ -2057,27 +2057,27 @@
     "id": "q159",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel général romain a été surnommé 'l'Africain' ?",
+    "text": "Quel était le nom de la ligue formée par Athènes au Ve siècle av. J.-C. ?",
     "answers": [
-      "Scipion",
-      "Marius",
-      "Sylla",
-      "Trajan"
+      "Ligue béotienne",
+      "Ligue achéenne",
+      "Ligue ionienne",
+      "Ligue de Délos"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "q160",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
+    "text": "Qui fut le premier empereur de la dynastie flavienne ?",
     "answers": [
-      "Empire parthe",
-      "Empire achéménide",
-      "Empire séleucide",
-      "Empire sassanide"
+      "Titus",
+      "Domitien",
+      "Vespasien",
+      "Nerva"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "q161",
@@ -2086,11 +2086,11 @@
     "text": "Quel royaume antique avait pour capitale Persépolis ?",
     "answers": [
       "Empire parthe",
-      "Empire achéménide",
+      "Empire séleucide",
       "Empire sassanide",
-      "Empire séleucide"
+      "Empire achéménide"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "q162",
@@ -2098,10 +2098,10 @@
     "difficulty": "Difficile",
     "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
     "answers": [
+      "Plutarque",
       "Tite-Live",
-      "Strabon",
       "Hérodote",
-      "Plutarque"
+      "Strabon"
     ],
     "correctIndex": 2
   },
@@ -2109,38 +2109,38 @@
     "id": "q163",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Qui a fondé l'école stoïcienne ?",
+    "text": "Sous quel empereur romain le Colisée fut-il inauguré en 80 apr. J.-C. ?",
     "answers": [
-      "Épicure",
-      "Zénon de Citium",
-      "Aristote",
-      "Diogène"
+      "Titus",
+      "Néron",
+      "Trajan",
+      "Domitien"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "q164",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel général romain a été surnommé 'l'Africain' ?",
+    "text": "Quel philosophe stoïcien fut conseiller de Néron avant d’être contraint au suicide ?",
     "answers": [
-      "Trajan",
-      "Marius",
-      "Sylla",
-      "Scipion"
+      "Sénèque",
+      "Épictète",
+      "Marc Aurèle",
+      "Cicéron"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "q165",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel stratège athénien a été exilé après la bataille de Syracuse ?",
+    "text": "Quelle cité antique était dirigée par un système de deux rois simultanément ?",
     "answers": [
-      "Périclès",
-      "Nicias",
-      "Alcibiade",
-      "Démosthène"
+      "Athènes",
+      "Sparte",
+      "Thèbes",
+      "Corinthe"
     ],
     "correctIndex": 1
   },
@@ -2148,25 +2148,25 @@
     "id": "q166",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel roi spartiate est célèbre pour la bataille des Thermopyles ?",
+    "text": "Quelle reine d’Égypte fut la dernière de la dynastie ptolémaïque ?",
     "answers": [
-      "Démarate",
-      "Cléomène III",
-      "Léonidas Ier",
-      "Agis IV"
+      "Arsinoé II",
+      "Cléopâtre VII",
+      "Bérénice IV",
+      "Néfertari"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "q167",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel était le nom originel de la ville de Constantinople ?",
+    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
     "answers": [
-      "Pergame",
-      "Byzance",
-      "Troie",
-      "Antioche"
+      "Hamilcar Barca",
+      "Hannibal",
+      "Hasdrubal",
+      "Magon"
     ],
     "correctIndex": 1
   },
@@ -2174,25 +2174,25 @@
     "id": "q168",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel roi spartiate est célèbre pour la bataille des Thermopyles ?",
+    "text": "Quel historien romain écrivit 'Ab Urbe Condita' ?",
     "answers": [
-      "Léonidas Ier",
-      "Cléomène III",
-      "Démarate",
-      "Agis IV"
+      "Tacite",
+      "Salluste",
+      "Tite-Live",
+      "Suétone"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "q169",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle bataille a mis fin à la deuxième guerre punique ?",
+    "text": "Quel était le nom de la ligue formée par Athènes au Ve siècle av. J.-C. ?",
     "answers": [
-      "Bataille de Cannes",
-      "Bataille de Pydna",
-      "Bataille du Trasimène",
-      "Bataille de Zama"
+      "Ligue béotienne",
+      "Ligue achéenne",
+      "Ligue ionienne",
+      "Ligue de Délos"
     ],
     "correctIndex": 3
   },
@@ -2200,77 +2200,77 @@
     "id": "q170",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel était le nom originel de la ville de Constantinople ?",
+    "text": "Qui fut le premier empereur de la dynastie flavienne ?",
     "answers": [
-      "Byzance",
-      "Pergame",
-      "Troie",
-      "Antioche"
+      "Titus",
+      "Domitien",
+      "Vespasien",
+      "Nerva"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "q171",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel philosophe grec a été le maître de Platon ?",
+    "text": "Quel royaume antique avait pour capitale Persépolis ?",
     "answers": [
-      "Anaxagore",
-      "Socrate",
-      "Héraclite",
-      "Parménide"
+      "Empire parthe",
+      "Empire séleucide",
+      "Empire sassanide",
+      "Empire achéménide"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "q172",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle bataille a mis fin à la deuxième guerre punique ?",
+    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
     "answers": [
-      "Bataille de Zama",
-      "Bataille de Pydna",
-      "Bataille de Cannes",
-      "Bataille du Trasimène"
+      "Plutarque",
+      "Tite-Live",
+      "Hérodote",
+      "Strabon"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "q173",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
+    "text": "Sous quel empereur romain le Colisée fut-il inauguré en 80 apr. J.-C. ?",
     "answers": [
-      "Empire sassanide",
-      "Empire séleucide",
-      "Empire achéménide",
-      "Empire parthe"
+      "Titus",
+      "Néron",
+      "Trajan",
+      "Domitien"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "q174",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel général romain a été surnommé 'l'Africain' ?",
+    "text": "Quel philosophe stoïcien fut conseiller de Néron avant d’être contraint au suicide ?",
     "answers": [
-      "Sylla",
-      "Scipion",
-      "Trajan",
-      "Marius"
+      "Sénèque",
+      "Épictète",
+      "Marc Aurèle",
+      "Cicéron"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "q175",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
+    "text": "Quelle cité antique était dirigée par un système de deux rois simultanément ?",
     "answers": [
-      "Plutarque",
-      "Hérodote",
-      "Tite-Live",
-      "Strabon"
+      "Athènes",
+      "Sparte",
+      "Thèbes",
+      "Corinthe"
     ],
     "correctIndex": 1
   },
@@ -2278,129 +2278,129 @@
     "id": "q176",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel général romain a été surnommé 'l'Africain' ?",
+    "text": "Quelle reine d’Égypte fut la dernière de la dynastie ptolémaïque ?",
     "answers": [
-      "Sylla",
-      "Marius",
-      "Trajan",
-      "Scipion"
+      "Arsinoé II",
+      "Cléopâtre VII",
+      "Bérénice IV",
+      "Néfertari"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "q177",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel philosophe grec a été le maître de Platon ?",
+    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
     "answers": [
-      "Héraclite",
-      "Anaxagore",
-      "Parménide",
-      "Socrate"
+      "Hamilcar Barca",
+      "Hannibal",
+      "Hasdrubal",
+      "Magon"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "q178",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel roi spartiate est célèbre pour la bataille des Thermopyles ?",
+    "text": "Quel historien romain écrivit 'Ab Urbe Condita' ?",
     "answers": [
-      "Léonidas Ier",
-      "Agis IV",
-      "Cléomène III",
-      "Démarate"
+      "Tacite",
+      "Salluste",
+      "Tite-Live",
+      "Suétone"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "q179",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel était le nom originel de la ville de Constantinople ?",
+    "text": "Quel était le nom de la ligue formée par Athènes au Ve siècle av. J.-C. ?",
     "answers": [
-      "Byzance",
-      "Antioche",
-      "Pergame",
-      "Troie"
+      "Ligue béotienne",
+      "Ligue achéenne",
+      "Ligue ionienne",
+      "Ligue de Délos"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "q180",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
+    "text": "Qui fut le premier empereur de la dynastie flavienne ?",
     "answers": [
-      "Hérodote",
-      "Strabon",
-      "Tite-Live",
-      "Plutarque"
+      "Titus",
+      "Domitien",
+      "Vespasien",
+      "Nerva"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "q181",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel historien grec est considéré comme le 'père de l'histoire' ?",
+    "text": "Quel royaume antique avait pour capitale Persépolis ?",
     "answers": [
-      "Xénophon",
-      "Hérodote",
-      "Thucydide",
-      "Polybe"
+      "Empire parthe",
+      "Empire séleucide",
+      "Empire sassanide",
+      "Empire achéménide"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "q182",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
+    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
     "answers": [
-      "Empire séleucide",
-      "Empire achéménide",
-      "Empire parthe",
-      "Empire sassanide"
+      "Plutarque",
+      "Tite-Live",
+      "Hérodote",
+      "Strabon"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "q183",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle bataille a mis fin à la deuxième guerre punique ?",
+    "text": "Sous quel empereur romain le Colisée fut-il inauguré en 80 apr. J.-C. ?",
     "answers": [
-      "Bataille de Cannes",
-      "Bataille de Zama",
-      "Bataille du Trasimène",
-      "Bataille de Pydna"
+      "Titus",
+      "Néron",
+      "Trajan",
+      "Domitien"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "q184",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel roi spartiate est célèbre pour la bataille des Thermopyles ?",
+    "text": "Quel philosophe stoïcien fut conseiller de Néron avant d’être contraint au suicide ?",
     "answers": [
-      "Agis IV",
-      "Léonidas Ier",
-      "Démarate",
-      "Cléomène III"
+      "Sénèque",
+      "Épictète",
+      "Marc Aurèle",
+      "Cicéron"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "q185",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel était le nom originel de la ville de Constantinople ?",
+    "text": "Quelle cité antique était dirigée par un système de deux rois simultanément ?",
     "answers": [
-      "Antioche",
-      "Byzance",
-      "Pergame",
-      "Troie"
+      "Athènes",
+      "Sparte",
+      "Thèbes",
+      "Corinthe"
     ],
     "correctIndex": 1
   },
@@ -2408,64 +2408,64 @@
     "id": "q186",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel était le nom originel de la ville de Constantinople ?",
+    "text": "Quelle reine d’Égypte fut la dernière de la dynastie ptolémaïque ?",
     "answers": [
-      "Pergame",
-      "Troie",
-      "Antioche",
-      "Byzance"
+      "Arsinoé II",
+      "Cléopâtre VII",
+      "Bérénice IV",
+      "Néfertari"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "q187",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
+    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
     "answers": [
-      "Strabon",
-      "Plutarque",
-      "Hérodote",
-      "Tite-Live"
+      "Hamilcar Barca",
+      "Hannibal",
+      "Hasdrubal",
+      "Magon"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "q188",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel historien grec est considéré comme le 'père de l'histoire' ?",
+    "text": "Quel historien romain écrivit 'Ab Urbe Condita' ?",
     "answers": [
-      "Thucydide",
-      "Polybe",
-      "Xénophon",
-      "Hérodote"
+      "Tacite",
+      "Salluste",
+      "Tite-Live",
+      "Suétone"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "q189",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel général romain a été surnommé 'l'Africain' ?",
+    "text": "Quel était le nom de la ligue formée par Athènes au Ve siècle av. J.-C. ?",
     "answers": [
-      "Scipion",
-      "Trajan",
-      "Sylla",
-      "Marius"
+      "Ligue béotienne",
+      "Ligue achéenne",
+      "Ligue ionienne",
+      "Ligue de Délos"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "q190",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Qui a fondé l'école stoïcienne ?",
+    "text": "Qui fut le premier empereur de la dynastie flavienne ?",
     "answers": [
-      "Diogène",
-      "Épicure",
-      "Zénon de Citium",
-      "Aristote"
+      "Titus",
+      "Domitien",
+      "Vespasien",
+      "Nerva"
     ],
     "correctIndex": 2
   },
@@ -2473,25 +2473,25 @@
     "id": "q191",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel stratège athénien a été exilé après la bataille de Syracuse ?",
+    "text": "Quel royaume antique avait pour capitale Persépolis ?",
     "answers": [
-      "Périclès",
-      "Démosthène",
-      "Nicias",
-      "Alcibiade"
+      "Empire parthe",
+      "Empire séleucide",
+      "Empire sassanide",
+      "Empire achéménide"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "q192",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel historien grec est considéré comme le 'père de l'histoire' ?",
+    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
     "answers": [
-      "Xénophon",
-      "Thucydide",
+      "Plutarque",
+      "Tite-Live",
       "Hérodote",
-      "Polybe"
+      "Strabon"
     ],
     "correctIndex": 2
   },
@@ -2499,38 +2499,38 @@
     "id": "q193",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle bataille a mis fin à la deuxième guerre punique ?",
+    "text": "Sous quel empereur romain le Colisée fut-il inauguré en 80 apr. J.-C. ?",
     "answers": [
-      "Bataille de Cannes",
-      "Bataille de Pydna",
-      "Bataille de Zama",
-      "Bataille du Trasimène"
+      "Titus",
+      "Néron",
+      "Trajan",
+      "Domitien"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "q194",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
+    "text": "Quel philosophe stoïcien fut conseiller de Néron avant d’être contraint au suicide ?",
     "answers": [
-      "Empire sassanide",
-      "Empire séleucide",
-      "Empire achéménide",
-      "Empire parthe"
+      "Sénèque",
+      "Épictète",
+      "Marc Aurèle",
+      "Cicéron"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "q195",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel était le nom originel de la ville de Constantinople ?",
+    "text": "Quelle cité antique était dirigée par un système de deux rois simultanément ?",
     "answers": [
-      "Troie",
-      "Byzance",
-      "Antioche",
-      "Pergame"
+      "Athènes",
+      "Sparte",
+      "Thèbes",
+      "Corinthe"
     ],
     "correctIndex": 1
   },
@@ -2538,12 +2538,12 @@
     "id": "q196",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel général romain a été surnommé 'l'Africain' ?",
+    "text": "Quelle reine d’Égypte fut la dernière de la dynastie ptolémaïque ?",
     "answers": [
-      "Marius",
-      "Scipion",
-      "Sylla",
-      "Trajan"
+      "Arsinoé II",
+      "Cléopâtre VII",
+      "Bérénice IV",
+      "Néfertari"
     ],
     "correctIndex": 1
   },
@@ -2551,1352 +2551,52 @@
     "id": "q197",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel roi spartiate est célèbre pour la bataille des Thermopyles ?",
+    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
     "answers": [
-      "Démarate",
-      "Agis IV",
-      "Léonidas Ier",
-      "Cléomène III"
+      "Hamilcar Barca",
+      "Hannibal",
+      "Hasdrubal",
+      "Magon"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "q198",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel stratège athénien a été exilé après la bataille de Syracuse ?",
+    "text": "Quel historien romain écrivit 'Ab Urbe Condita' ?",
     "answers": [
-      "Alcibiade",
-      "Démosthène",
-      "Périclès",
-      "Nicias"
+      "Tacite",
+      "Salluste",
+      "Tite-Live",
+      "Suétone"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "q199",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel stratège athénien a été exilé après la bataille de Syracuse ?",
+    "text": "Quel était le nom de la ligue formée par Athènes au Ve siècle av. J.-C. ?",
     "answers": [
-      "Nicias",
-      "Démosthène",
-      "Alcibiade",
-      "Périclès"
+      "Ligue béotienne",
+      "Ligue achéenne",
+      "Ligue ionienne",
+      "Ligue de Délos"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "q200",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel était le nom originel de la ville de Constantinople ?",
+    "text": "Qui fut le premier empereur de la dynastie flavienne ?",
     "answers": [
-      "Byzance",
-      "Antioche",
-      "Troie",
-      "Pergame"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q201",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel était le nom originel de la ville de Constantinople ?",
-    "answers": [
-      "Antioche",
-      "Byzance",
-      "Pergame",
-      "Troie"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q202",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel général romain a été surnommé 'l'Africain' ?",
-    "answers": [
-      "Trajan",
-      "Sylla",
-      "Marius",
-      "Scipion"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q203",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quelle bataille a mis fin à la deuxième guerre punique ?",
-    "answers": [
-      "Bataille de Pydna",
-      "Bataille de Zama",
-      "Bataille de Cannes",
-      "Bataille du Trasimène"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q204",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel stratège athénien a été exilé après la bataille de Syracuse ?",
-    "answers": [
-      "Périclès",
-      "Nicias",
-      "Alcibiade",
-      "Démosthène"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q205",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel philosophe grec a été le maître de Platon ?",
-    "answers": [
-      "Parménide",
-      "Socrate",
-      "Héraclite",
-      "Anaxagore"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q206",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel roi spartiate est célèbre pour la bataille des Thermopyles ?",
-    "answers": [
-      "Agis IV",
-      "Démarate",
-      "Cléomène III",
-      "Léonidas Ier"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q207",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
-    "answers": [
-      "Strabon",
-      "Hérodote",
-      "Tite-Live",
-      "Plutarque"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q208",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel stratège athénien a été exilé après la bataille de Syracuse ?",
-    "answers": [
-      "Alcibiade",
-      "Nicias",
-      "Périclès",
-      "Démosthène"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q209",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel historien grec est considéré comme le 'père de l'histoire' ?",
-    "answers": [
-      "Polybe",
-      "Hérodote",
-      "Xénophon",
-      "Thucydide"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q210",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quelle bataille a mis fin à la deuxième guerre punique ?",
-    "answers": [
-      "Bataille du Trasimène",
-      "Bataille de Zama",
-      "Bataille de Cannes",
-      "Bataille de Pydna"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q211",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quelle bataille a mis fin à la deuxième guerre punique ?",
-    "answers": [
-      "Bataille de Zama",
-      "Bataille de Pydna",
-      "Bataille du Trasimène",
-      "Bataille de Cannes"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q212",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel stratège athénien a été exilé après la bataille de Syracuse ?",
-    "answers": [
-      "Alcibiade",
-      "Démosthène",
-      "Périclès",
-      "Nicias"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q213",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
-    "answers": [
-      "Plutarque",
-      "Strabon",
-      "Hérodote",
-      "Tite-Live"
+      "Titus",
+      "Domitien",
+      "Vespasien",
+      "Nerva"
     ],
     "correctIndex": 2
-  },
-  {
-    "id": "q214",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel était le nom originel de la ville de Constantinople ?",
-    "answers": [
-      "Antioche",
-      "Pergame",
-      "Byzance",
-      "Troie"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q215",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel général romain a été surnommé 'l'Africain' ?",
-    "answers": [
-      "Scipion",
-      "Trajan",
-      "Sylla",
-      "Marius"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q216",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
-    "answers": [
-      "Empire séleucide",
-      "Empire sassanide",
-      "Empire achéménide",
-      "Empire parthe"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q217",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel stratège athénien a été exilé après la bataille de Syracuse ?",
-    "answers": [
-      "Nicias",
-      "Démosthène",
-      "Alcibiade",
-      "Périclès"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q218",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui a fondé l'école stoïcienne ?",
-    "answers": [
-      "Diogène",
-      "Épicure",
-      "Aristote",
-      "Zénon de Citium"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q219",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui a fondé l'école stoïcienne ?",
-    "answers": [
-      "Zénon de Citium",
-      "Diogène",
-      "Aristote",
-      "Épicure"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q220",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quelle bataille a mis fin à la deuxième guerre punique ?",
-    "answers": [
-      "Bataille du Trasimène",
-      "Bataille de Cannes",
-      "Bataille de Pydna",
-      "Bataille de Zama"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q221",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui a fondé l'école stoïcienne ?",
-    "answers": [
-      "Zénon de Citium",
-      "Épicure",
-      "Aristote",
-      "Diogène"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q222",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel philosophe grec a été le maître de Platon ?",
-    "answers": [
-      "Héraclite",
-      "Anaxagore",
-      "Parménide",
-      "Socrate"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q223",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel historien grec est considéré comme le 'père de l'histoire' ?",
-    "answers": [
-      "Thucydide",
-      "Hérodote",
-      "Polybe",
-      "Xénophon"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q224",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
-    "answers": [
-      "Empire séleucide",
-      "Empire sassanide",
-      "Empire parthe",
-      "Empire achéménide"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q225",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel roi spartiate est célèbre pour la bataille des Thermopyles ?",
-    "answers": [
-      "Cléomène III",
-      "Léonidas Ier",
-      "Démarate",
-      "Agis IV"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q226",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel philosophe grec a été le maître de Platon ?",
-    "answers": [
-      "Parménide",
-      "Socrate",
-      "Héraclite",
-      "Anaxagore"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q227",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel historien grec est considéré comme le 'père de l'histoire' ?",
-    "answers": [
-      "Thucydide",
-      "Hérodote",
-      "Xénophon",
-      "Polybe"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q228",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel stratège athénien a été exilé après la bataille de Syracuse ?",
-    "answers": [
-      "Périclès",
-      "Démosthène",
-      "Alcibiade",
-      "Nicias"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q229",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel philosophe grec a été le maître de Platon ?",
-    "answers": [
-      "Anaxagore",
-      "Parménide",
-      "Héraclite",
-      "Socrate"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q230",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel philosophe grec a été le maître de Platon ?",
-    "answers": [
-      "Parménide",
-      "Socrate",
-      "Anaxagore",
-      "Héraclite"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q231",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
-    "answers": [
-      "Empire sassanide",
-      "Empire achéménide",
-      "Empire parthe",
-      "Empire séleucide"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q232",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quelle bataille a mis fin à la deuxième guerre punique ?",
-    "answers": [
-      "Bataille de Pydna",
-      "Bataille du Trasimène",
-      "Bataille de Cannes",
-      "Bataille de Zama"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q233",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quelle bataille a mis fin à la deuxième guerre punique ?",
-    "answers": [
-      "Bataille de Zama",
-      "Bataille de Cannes",
-      "Bataille de Pydna",
-      "Bataille du Trasimène"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q234",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel historien grec est considéré comme le 'père de l'histoire' ?",
-    "answers": [
-      "Polybe",
-      "Hérodote",
-      "Thucydide",
-      "Xénophon"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q235",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quelle bataille a mis fin à la deuxième guerre punique ?",
-    "answers": [
-      "Bataille de Cannes",
-      "Bataille de Pydna",
-      "Bataille de Zama",
-      "Bataille du Trasimène"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q236",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel roi spartiate est célèbre pour la bataille des Thermopyles ?",
-    "answers": [
-      "Léonidas Ier",
-      "Cléomène III",
-      "Agis IV",
-      "Démarate"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q237",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel historien grec est considéré comme le 'père de l'histoire' ?",
-    "answers": [
-      "Thucydide",
-      "Polybe",
-      "Hérodote",
-      "Xénophon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q238",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quelle bataille a mis fin à la deuxième guerre punique ?",
-    "answers": [
-      "Bataille du Trasimène",
-      "Bataille de Zama",
-      "Bataille de Cannes",
-      "Bataille de Pydna"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q239",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel roi spartiate est célèbre pour la bataille des Thermopyles ?",
-    "answers": [
-      "Démarate",
-      "Cléomène III",
-      "Léonidas Ier",
-      "Agis IV"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q240",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel roi spartiate est célèbre pour la bataille des Thermopyles ?",
-    "answers": [
-      "Cléomène III",
-      "Démarate",
-      "Léonidas Ier",
-      "Agis IV"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q241",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel général romain a été surnommé 'l'Africain' ?",
-    "answers": [
-      "Trajan",
-      "Scipion",
-      "Sylla",
-      "Marius"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q242",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel stratège athénien a été exilé après la bataille de Syracuse ?",
-    "answers": [
-      "Périclès",
-      "Alcibiade",
-      "Nicias",
-      "Démosthène"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q243",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui a fondé l'école stoïcienne ?",
-    "answers": [
-      "Épicure",
-      "Zénon de Citium",
-      "Diogène",
-      "Aristote"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q244",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel historien grec est considéré comme le 'père de l'histoire' ?",
-    "answers": [
-      "Hérodote",
-      "Thucydide",
-      "Xénophon",
-      "Polybe"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q245",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel stratège athénien a été exilé après la bataille de Syracuse ?",
-    "answers": [
-      "Démosthène",
-      "Périclès",
-      "Nicias",
-      "Alcibiade"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q246",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel général romain a été surnommé 'l'Africain' ?",
-    "answers": [
-      "Scipion",
-      "Sylla",
-      "Marius",
-      "Trajan"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q247",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
-    "answers": [
-      "Empire parthe",
-      "Empire achéménide",
-      "Empire sassanide",
-      "Empire séleucide"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q248",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel stratège athénien a été exilé après la bataille de Syracuse ?",
-    "answers": [
-      "Alcibiade",
-      "Nicias",
-      "Périclès",
-      "Démosthène"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q249",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quelle bataille a mis fin à la deuxième guerre punique ?",
-    "answers": [
-      "Bataille du Trasimène",
-      "Bataille de Cannes",
-      "Bataille de Pydna",
-      "Bataille de Zama"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q250",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel était le nom originel de la ville de Constantinople ?",
-    "answers": [
-      "Pergame",
-      "Antioche",
-      "Byzance",
-      "Troie"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q251",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel général romain a été surnommé 'l'Africain' ?",
-    "answers": [
-      "Trajan",
-      "Scipion",
-      "Marius",
-      "Sylla"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q252",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel philosophe grec a été le maître de Platon ?",
-    "answers": [
-      "Socrate",
-      "Parménide",
-      "Anaxagore",
-      "Héraclite"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q253",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
-    "answers": [
-      "Tite-Live",
-      "Plutarque",
-      "Strabon",
-      "Hérodote"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q254",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quelle bataille a mis fin à la deuxième guerre punique ?",
-    "answers": [
-      "Bataille de Cannes",
-      "Bataille du Trasimène",
-      "Bataille de Pydna",
-      "Bataille de Zama"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q255",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quelle bataille a mis fin à la deuxième guerre punique ?",
-    "answers": [
-      "Bataille de Pydna",
-      "Bataille du Trasimène",
-      "Bataille de Zama",
-      "Bataille de Cannes"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q256",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
-    "answers": [
-      "Strabon",
-      "Hérodote",
-      "Tite-Live",
-      "Plutarque"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q257",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel roi spartiate est célèbre pour la bataille des Thermopyles ?",
-    "answers": [
-      "Léonidas Ier",
-      "Cléomène III",
-      "Démarate",
-      "Agis IV"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q258",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quelle bataille a mis fin à la deuxième guerre punique ?",
-    "answers": [
-      "Bataille de Pydna",
-      "Bataille de Zama",
-      "Bataille du Trasimène",
-      "Bataille de Cannes"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q259",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quelle bataille a mis fin à la deuxième guerre punique ?",
-    "answers": [
-      "Bataille du Trasimène",
-      "Bataille de Zama",
-      "Bataille de Cannes",
-      "Bataille de Pydna"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q260",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel roi spartiate est célèbre pour la bataille des Thermopyles ?",
-    "answers": [
-      "Démarate",
-      "Agis IV",
-      "Léonidas Ier",
-      "Cléomène III"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q261",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel était le nom originel de la ville de Constantinople ?",
-    "answers": [
-      "Byzance",
-      "Pergame",
-      "Troie",
-      "Antioche"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q262",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel philosophe grec a été le maître de Platon ?",
-    "answers": [
-      "Anaxagore",
-      "Socrate",
-      "Héraclite",
-      "Parménide"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q263",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
-    "answers": [
-      "Empire achéménide",
-      "Empire séleucide",
-      "Empire sassanide",
-      "Empire parthe"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q264",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel général romain a été surnommé 'l'Africain' ?",
-    "answers": [
-      "Trajan",
-      "Marius",
-      "Scipion",
-      "Sylla"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q265",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel historien grec est considéré comme le 'père de l'histoire' ?",
-    "answers": [
-      "Polybe",
-      "Hérodote",
-      "Thucydide",
-      "Xénophon"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q266",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel philosophe grec a été le maître de Platon ?",
-    "answers": [
-      "Socrate",
-      "Parménide",
-      "Anaxagore",
-      "Héraclite"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q267",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel philosophe grec a été le maître de Platon ?",
-    "answers": [
-      "Socrate",
-      "Parménide",
-      "Héraclite",
-      "Anaxagore"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q268",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
-    "answers": [
-      "Strabon",
-      "Tite-Live",
-      "Hérodote",
-      "Plutarque"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q269",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel stratège athénien a été exilé après la bataille de Syracuse ?",
-    "answers": [
-      "Alcibiade",
-      "Nicias",
-      "Périclès",
-      "Démosthène"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q270",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
-    "answers": [
-      "Strabon",
-      "Tite-Live",
-      "Hérodote",
-      "Plutarque"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q271",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel stratège athénien a été exilé après la bataille de Syracuse ?",
-    "answers": [
-      "Nicias",
-      "Alcibiade",
-      "Démosthène",
-      "Périclès"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q272",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel philosophe grec a été le maître de Platon ?",
-    "answers": [
-      "Parménide",
-      "Anaxagore",
-      "Héraclite",
-      "Socrate"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q273",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui a fondé l'école stoïcienne ?",
-    "answers": [
-      "Épicure",
-      "Diogène",
-      "Zénon de Citium",
-      "Aristote"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q274",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel historien grec est considéré comme le 'père de l'histoire' ?",
-    "answers": [
-      "Hérodote",
-      "Xénophon",
-      "Thucydide",
-      "Polybe"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q275",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel général romain a été surnommé 'l'Africain' ?",
-    "answers": [
-      "Marius",
-      "Sylla",
-      "Scipion",
-      "Trajan"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q276",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel philosophe grec a été le maître de Platon ?",
-    "answers": [
-      "Socrate",
-      "Parménide",
-      "Anaxagore",
-      "Héraclite"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q277",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel était le nom originel de la ville de Constantinople ?",
-    "answers": [
-      "Pergame",
-      "Antioche",
-      "Troie",
-      "Byzance"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q278",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel général romain a été surnommé 'l'Africain' ?",
-    "answers": [
-      "Trajan",
-      "Sylla",
-      "Scipion",
-      "Marius"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q279",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui a fondé l'école stoïcienne ?",
-    "answers": [
-      "Diogène",
-      "Zénon de Citium",
-      "Aristote",
-      "Épicure"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q280",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel roi spartiate est célèbre pour la bataille des Thermopyles ?",
-    "answers": [
-      "Démarate",
-      "Agis IV",
-      "Léonidas Ier",
-      "Cléomène III"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q281",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel stratège athénien a été exilé après la bataille de Syracuse ?",
-    "answers": [
-      "Alcibiade",
-      "Démosthène",
-      "Périclès",
-      "Nicias"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q282",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quelle bataille a mis fin à la deuxième guerre punique ?",
-    "answers": [
-      "Bataille de Cannes",
-      "Bataille de Pydna",
-      "Bataille de Zama",
-      "Bataille du Trasimène"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q283",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel était le nom originel de la ville de Constantinople ?",
-    "answers": [
-      "Byzance",
-      "Antioche",
-      "Troie",
-      "Pergame"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q284",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel roi spartiate est célèbre pour la bataille des Thermopyles ?",
-    "answers": [
-      "Cléomène III",
-      "Agis IV",
-      "Léonidas Ier",
-      "Démarate"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q285",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel général romain a été surnommé 'l'Africain' ?",
-    "answers": [
-      "Trajan",
-      "Scipion",
-      "Marius",
-      "Sylla"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q286",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
-    "answers": [
-      "Empire sassanide",
-      "Empire parthe",
-      "Empire séleucide",
-      "Empire achéménide"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q287",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quelle bataille a mis fin à la deuxième guerre punique ?",
-    "answers": [
-      "Bataille de Zama",
-      "Bataille du Trasimène",
-      "Bataille de Pydna",
-      "Bataille de Cannes"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q288",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel historien grec est considéré comme le 'père de l'histoire' ?",
-    "answers": [
-      "Xénophon",
-      "Polybe",
-      "Thucydide",
-      "Hérodote"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q289",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui a fondé l'école stoïcienne ?",
-    "answers": [
-      "Épicure",
-      "Zénon de Citium",
-      "Diogène",
-      "Aristote"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q290",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quelle bataille a mis fin à la deuxième guerre punique ?",
-    "answers": [
-      "Bataille du Trasimène",
-      "Bataille de Pydna",
-      "Bataille de Cannes",
-      "Bataille de Zama"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q291",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel roi spartiate est célèbre pour la bataille des Thermopyles ?",
-    "answers": [
-      "Agis IV",
-      "Cléomène III",
-      "Léonidas Ier",
-      "Démarate"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q292",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel historien grec est considéré comme le 'père de l'histoire' ?",
-    "answers": [
-      "Hérodote",
-      "Thucydide",
-      "Xénophon",
-      "Polybe"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q293",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel historien grec est considéré comme le 'père de l'histoire' ?",
-    "answers": [
-      "Hérodote",
-      "Polybe",
-      "Thucydide",
-      "Xénophon"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q294",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
-    "answers": [
-      "Hérodote",
-      "Plutarque",
-      "Tite-Live",
-      "Strabon"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q295",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel général romain a été surnommé 'l'Africain' ?",
-    "answers": [
-      "Trajan",
-      "Sylla",
-      "Scipion",
-      "Marius"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q296",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel général romain a été surnommé 'l'Africain' ?",
-    "answers": [
-      "Sylla",
-      "Scipion",
-      "Trajan",
-      "Marius"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q297",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
-    "answers": [
-      "Empire parthe",
-      "Empire sassanide",
-      "Empire achéménide",
-      "Empire séleucide"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q298",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
-    "answers": [
-      "Hérodote",
-      "Strabon",
-      "Plutarque",
-      "Tite-Live"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q299",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel général romain a été surnommé 'l'Africain' ?",
-    "answers": [
-      "Trajan",
-      "Scipion",
-      "Sylla",
-      "Marius"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q300",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel philosophe grec a été le maître de Platon ?",
-    "answers": [
-      "Socrate",
-      "Parménide",
-      "Anaxagore",
-      "Héraclite"
-    ],
-    "correctIndex": 0
   }
 ]
