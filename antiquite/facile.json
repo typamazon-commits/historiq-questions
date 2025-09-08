@@ -1,3902 +1,2602 @@
 [
   {
-    "id": "q1",
+    "id": "qAF1",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est associé(e) à la mer ?",
+    "text": "Quel peuple antique a construit les pyramides de Gizeh ?",
     "answers": [
-      "Héra",
-      "Némésis",
-      "Poséidon",
-      "Hécate"
+      "Les Romains",
+      "Les Grecs",
+      "Les Égyptiens",
+      "Les Perses"
     ],
     "correctIndex": 2
   },
   {
-    "id": "q2",
+    "id": "qAF2",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Qui était le premier empereur de Rome ?",
+    "text": "Quel héros grec tua le Minotaure dans le labyrinthe de Crète ?",
     "answers": [
-      "Caligula",
-      "Néron",
-      "César",
-      "Auguste"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q3",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom de la guerre entre Sparte et Athènes ?",
-    "answers": [
-      "Guerre des Gaules",
-      "Guerre Médique",
-      "Guerre Civile Romaine",
-      "Guerre du Péloponnèse"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q4",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) au tonnerre et au ciel ?",
-    "answers": [
-      "Héra",
-      "Hécate",
-      "Zeus",
-      "Némésis"
+      "Achille",
+      "Héraclès",
+      "Thésée",
+      "Jason"
     ],
     "correctIndex": 2
   },
   {
-    "id": "q5",
+    "id": "qAF3",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Qui était le premier empereur de Rome ?",
+    "text": "Quel est le nom de la colline sacrée où fut fondée Rome selon la tradition ?",
     "answers": [
-      "Auguste",
-      "Caligula",
-      "Néron",
-      "César"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q6",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom de la guerre entre Sparte et Athènes ?",
-    "answers": [
-      "Guerre Civile Romaine",
-      "Guerre Médique",
-      "Guerre du Péloponnèse",
-      "Guerre des Gaules"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q7",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel roi macédonien a conquis l’Empire perse ?",
-    "answers": [
-      "Philippe II",
-      "Cyrus le Grand",
-      "Alexandre le Grand",
-      "Darius III"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q8",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui a dirigé l’armée d’Hannibal contre Rome ?",
-    "answers": [
-      "Philippe V",
-      "Hannibal Barca",
-      "Scipion",
-      "Pyrrhus"
+      "Capitole",
+      "Palatin",
+      "Quirinal",
+      "Aventin"
     ],
     "correctIndex": 1
   },
   {
-    "id": "q9",
+    "id": "qAF4",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Qui était le premier empereur de Rome ?",
+    "text": "Comment s’appelait le dieu principal du panthéon grec ?",
     "answers": [
+      "Zeus",
+      "Hadès",
+      "Arès",
+      "Hermès"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF5",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel empereur romain fit construire un grand mur de défense au nord de la Bretagne ?",
+    "answers": [
+      "Trajan",
       "Auguste",
-      "Caligula",
-      "César",
+      "Hadrien",
       "Néron"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "id": "q10",
+    "id": "qAF6",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Qui a dirigé l’armée d’Hannibal contre Rome ?",
+    "text": "Quel poète grec est l’auteur de l’Iliade et de l’Odyssée ?",
     "answers": [
-      "Philippe V",
-      "Pyrrhus",
-      "Scipion",
-      "Hannibal Barca"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q11",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel roi macédonien a conquis l’Empire perse ?",
-    "answers": [
-      "Cyrus le Grand",
-      "Philippe II",
-      "Alexandre le Grand",
-      "Darius III"
+      "Sophocle",
+      "Eschyle",
+      "Homère",
+      "Hésiode"
     ],
     "correctIndex": 2
   },
   {
-    "id": "q12",
+    "id": "qAF7",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Quel est le nom de la guerre entre Sparte et Athènes ?",
-    "answers": [
-      "Guerre Civile Romaine",
-      "Guerre des Gaules",
-      "Guerre Médique",
-      "Guerre du Péloponnèse"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q13",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom de la guerre entre Sparte et Athènes ?",
-    "answers": [
-      "Guerre du Péloponnèse",
-      "Guerre Médique",
-      "Guerre des Gaules",
-      "Guerre Civile Romaine"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q14",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel roi macédonien a conquis l’Empire perse ?",
-    "answers": [
-      "Cyrus le Grand",
-      "Alexandre le Grand",
-      "Darius III",
-      "Philippe II"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q15",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) au tonnerre et au ciel ?",
-    "answers": [
-      "Hécate",
-      "Némésis",
-      "Zeus",
-      "Héra"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q16",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui était le premier empereur de Rome ?",
-    "answers": [
-      "Caligula",
-      "Néron",
-      "Auguste",
-      "César"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q17",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel philosophe grec a enseigné Alexandre le Grand ?",
-    "answers": [
-      "Pythagore",
-      "Socrate",
-      "Platon",
-      "Aristote"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q18",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle cité antique est célèbre pour ses Jeux Olympiques ?",
+    "text": "Quelle cité-État grecque est connue pour son armée disciplinée et sa vie austère ?",
     "answers": [
       "Athènes",
       "Sparte",
-      "Rome",
-      "Olympie"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q19",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est associé(e) à la mer ?",
-    "answers": [
-      "Héra",
-      "Hécate",
-      "Poséidon",
-      "Némésis"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q20",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique a construit les pyramides de Gizeh ?",
-    "answers": [
-      "Maya",
-      "Inca",
-      "Égyptienne",
-      "Sumérienne"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q21",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom de la guerre entre Sparte et Athènes ?",
-    "answers": [
-      "Guerre du Péloponnèse",
-      "Guerre des Gaules",
-      "Guerre Civile Romaine",
-      "Guerre Médique"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q22",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) au tonnerre et au ciel ?",
-    "answers": [
-      "Hécate",
-      "Zeus",
-      "Némésis",
-      "Héra"
+      "Corinthe",
+      "Delphes"
     ],
     "correctIndex": 1
   },
   {
-    "id": "q23",
+    "id": "qAF8",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Qui a dirigé l’armée d’Hannibal contre Rome ?",
+    "text": "Quel est le nom du fleuve qui traverse l’Égypte ?",
     "answers": [
-      "Scipion",
-      "Philippe V",
-      "Hannibal Barca",
-      "Pyrrhus"
+      "Euphrate",
+      "Nil",
+      "Tigre",
+      "Jourdain"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF9",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Qui était la reine d’Égypte célèbre pour son alliance avec César et Marc Antoine ?",
+    "answers": [
+      "Néfertiti",
+      "Cléopâtre",
+      "Hatchepsout",
+      "Bérénice"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF10",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique utilisait l’alphabet cunéiforme ?",
+    "answers": [
+      "Égyptiens",
+      "Phéniciens",
+      "Sumériens",
+      "Celtes"
     ],
     "correctIndex": 2
   },
   {
-    "id": "q24",
+    "id": "qAF11",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Quel roi macédonien a conquis l’Empire perse ?",
+    "text": "Quel est le nom de l’édifice romain utilisé pour les combats de gladiateurs à Rome ?",
     "answers": [
-      "Cyrus le Grand",
+      "Panthéon",
+      "Colisée",
+      "Circus Maximus",
+      "Forum"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF12",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel roi de Macédoine fut le père d’Alexandre le Grand ?",
+    "answers": [
       "Philippe II",
-      "Alexandre le Grand",
-      "Darius III"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q25",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui a dirigé l’armée d’Hannibal contre Rome ?",
-    "answers": [
-      "Pyrrhus",
-      "Scipion",
-      "Hannibal Barca",
-      "Philippe V"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q26",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique a construit les pyramides de Gizeh ?",
-    "answers": [
-      "Maya",
-      "Sumérienne",
-      "Inca",
-      "Égyptienne"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q27",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel roi macédonien a conquis l’Empire perse ?",
-    "answers": [
-      "Alexandre le Grand",
-      "Philippe II",
-      "Darius III",
-      "Cyrus le Grand"
+      "Cassandre",
+      "Antigone",
+      "Perdiccas"
     ],
     "correctIndex": 0
   },
   {
-    "id": "q28",
+    "id": "qAF13",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Quelle cité antique est célèbre pour ses Jeux Olympiques ?",
+    "text": "Quel animal est associé à la déesse égyptienne Bastet ?",
     "answers": [
-      "Rome",
-      "Sparte",
-      "Athènes",
-      "Olympie"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q29",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est associé(e) à la mer ?",
-    "answers": [
-      "Némésis",
-      "Poséidon",
-      "Héra",
-      "Hécate"
+      "Chien",
+      "Chat",
+      "Faucon",
+      "Crocodile"
     ],
     "correctIndex": 1
   },
   {
-    "id": "q30",
+    "id": "qAF14",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Quelle civilisation antique a construit les pyramides de Gizeh ?",
+    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
     "answers": [
-      "Égyptienne",
-      "Maya",
-      "Inca",
-      "Sumérienne"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q31",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui a dirigé l’armée d’Hannibal contre Rome ?",
-    "answers": [
-      "Hannibal Barca",
-      "Scipion",
-      "Pyrrhus",
-      "Philippe V"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q32",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom de la guerre entre Sparte et Athènes ?",
-    "answers": [
-      "Guerre Médique",
-      "Guerre du Péloponnèse",
-      "Guerre des Gaules",
-      "Guerre Civile Romaine"
+      "Hamilcar",
+      "Hannibal",
+      "Hasdrubal",
+      "Magon"
     ],
     "correctIndex": 1
   },
   {
-    "id": "q33",
+    "id": "qAF15",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est associé(e) à la mer ?",
+    "text": "Quelle mer borde la Grèce antique ?",
     "answers": [
-      "Hécate",
-      "Némésis",
-      "Héra",
-      "Poséidon"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q34",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est associé(e) à la mer ?",
-    "answers": [
-      "Héra",
-      "Hécate",
-      "Némésis",
-      "Poséidon"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q35",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel philosophe grec a enseigné Alexandre le Grand ?",
-    "answers": [
-      "Pythagore",
-      "Socrate",
-      "Aristote",
-      "Platon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q36",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom de la guerre entre Sparte et Athènes ?",
-    "answers": [
-      "Guerre des Gaules",
-      "Guerre du Péloponnèse",
-      "Guerre Civile Romaine",
-      "Guerre Médique"
+      "Mer Caspienne",
+      "Mer Égée",
+      "Mer Baltique",
+      "Mer Noire"
     ],
     "correctIndex": 1
   },
   {
-    "id": "q37",
+    "id": "qAF16",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Dans la mythologie romaine, qui est l'équivalent de Zeus ?",
-    "answers": [
-      "Apollon",
-      "Mercure",
-      "Mars",
-      "Jupiter"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q38",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique a construit les pyramides de Gizeh ?",
-    "answers": [
-      "Sumérienne",
-      "Égyptienne",
-      "Inca",
-      "Maya"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q39",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel philosophe grec a enseigné Alexandre le Grand ?",
-    "answers": [
-      "Aristote",
-      "Socrate",
-      "Pythagore",
-      "Platon"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q40",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie romaine, qui est l'équivalent de Zeus ?",
-    "answers": [
-      "Mercure",
-      "Apollon",
-      "Mars",
-      "Jupiter"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q41",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel roi macédonien a conquis l’Empire perse ?",
-    "answers": [
-      "Darius III",
-      "Philippe II",
-      "Cyrus le Grand",
-      "Alexandre le Grand"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q42",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est associé(e) à la mer ?",
-    "answers": [
-      "Poséidon",
-      "Héra",
-      "Hécate",
-      "Némésis"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q43",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom de la guerre entre Sparte et Athènes ?",
-    "answers": [
-      "Guerre du Péloponnèse",
-      "Guerre Civile Romaine",
-      "Guerre des Gaules",
-      "Guerre Médique"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q44",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui était le premier empereur de Rome ?",
+    "text": "Quel empereur romain a instauré la Pax Romana ?",
     "answers": [
       "César",
-      "Caligula",
+      "Auguste",
       "Néron",
-      "Auguste"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q45",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui a dirigé l’armée d’Hannibal contre Rome ?",
-    "answers": [
-      "Hannibal Barca",
-      "Philippe V",
-      "Scipion",
-      "Pyrrhus"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q46",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est associé(e) à la mer ?",
-    "answers": [
-      "Héra",
-      "Poséidon",
-      "Hécate",
-      "Némésis"
+      "Trajan"
     ],
     "correctIndex": 1
   },
   {
-    "id": "q47",
+    "id": "qAF17",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Quelle cité antique est célèbre pour ses Jeux Olympiques ?",
+    "text": "Comment s’appelait la guerre opposant Athènes et Sparte ?",
     "answers": [
-      "Olympie",
-      "Sparte",
-      "Rome",
-      "Athènes"
+      "Guerres médiques",
+      "Guerre du Péloponnèse",
+      "Guerres puniques",
+      "Guerre des Gaules"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "id": "q48",
+    "id": "qAF18",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Quel roi macédonien a conquis l’Empire perse ?",
-    "answers": [
-      "Cyrus le Grand",
-      "Darius III",
-      "Alexandre le Grand",
-      "Philippe II"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q49",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) au tonnerre et au ciel ?",
-    "answers": [
-      "Zeus",
-      "Hécate",
-      "Némésis",
-      "Héra"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q50",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle cité antique est célèbre pour ses Jeux Olympiques ?",
-    "answers": [
-      "Olympie",
-      "Sparte",
-      "Rome",
-      "Athènes"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q51",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie romaine, qui est l'équivalent de Zeus ?",
+    "text": "Qui est le dieu romain de la guerre ?",
     "answers": [
       "Jupiter",
-      "Apollon",
       "Mars",
-      "Mercure"
+      "Apollon",
+      "Neptune"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "id": "q52",
+    "id": "qAF19",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Quel roi macédonien a conquis l’Empire perse ?",
+    "text": "Quel est le nom latin de la ville ensevelie par l’éruption du Vésuve en 79 ?",
     "answers": [
-      "Darius III",
-      "Philippe II",
-      "Alexandre le Grand",
-      "Cyrus le Grand"
+      "Herculanum",
+      "Ostie",
+      "Pompéi",
+      "Capoue"
     ],
     "correctIndex": 2
   },
   {
-    "id": "q53",
+    "id": "qAF20",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Qui a dirigé l’armée d’Hannibal contre Rome ?",
+    "text": "Quel philosophe grec fut le maître d’Alexandre le Grand ?",
     "answers": [
-      "Philippe V",
-      "Pyrrhus",
-      "Hannibal Barca",
-      "Scipion"
+      "Platon",
+      "Aristote",
+      "Socrate",
+      "Épicure"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
-    "id": "q54",
+    "id": "qAF21",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Qui a dirigé l’armée d’Hannibal contre Rome ?",
+    "text": "Quel roi babylonien est connu pour son code de lois gravé sur une stèle ?",
     "answers": [
-      "Hannibal Barca",
-      "Philippe V",
-      "Scipion",
-      "Pyrrhus"
+      "Nabuchodonosor",
+      "Hammurabi",
+      "Sargon",
+      "Assurbanipal"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF22",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle civilisation antique a bâti Machu Picchu ?",
+    "answers": [
+      "Incas",
+      "Aztèques",
+      "Mayas",
+      "Olmèques"
     ],
     "correctIndex": 0
   },
   {
-    "id": "q55",
+    "id": "qAF23",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Quel philosophe grec a enseigné Alexandre le Grand ?",
+    "text": "Quel objet servait de support à l’écriture en Mésopotamie ?",
+    "answers": [
+      "Papyrus",
+      "Tablettes d’argile",
+      "Parchemin",
+      "Papier"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF24",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique est associé à Stonehenge ?",
+    "answers": [
+      "Celtes",
+      "Grecs",
+      "Romains",
+      "Étrusques"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF25",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel grand philosophe grec a fondé l’Académie à Athènes ?",
+    "answers": [
+      "Platon",
+      "Aristote",
+      "Socrate",
+      "Zénon"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF26",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom de la déesse grecque de la sagesse ?",
+    "answers": [
+      "Aphrodite",
+      "Artémis",
+      "Athéna",
+      "Héra"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "qAF27",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Qui a fondé la ville de Rome selon la légende ?",
+    "answers": [
+      "Énée",
+      "Romulus",
+      "Rémus",
+      "César"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF28",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle est la capitale de l’Empire perse achéménide sous Darius Ier ?",
+    "answers": [
+      "Suse",
+      "Persépolis",
+      "Babylone",
+      "Ecbatane"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF29",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle est la langue utilisée par Homère dans ses épopées ?",
+    "answers": [
+      "Grec ancien",
+      "Latin",
+      "Araméen",
+      "Égyptien"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF30",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel fleuve traverse Rome ?",
+    "answers": [
+      "Nil",
+      "Danube",
+      "Tibre",
+      "Pô"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "qAF31",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel métal était particulièrement utilisé par les Hittites ?",
+    "answers": [
+      "Fer",
+      "Cuivre",
+      "Or",
+      "Argent"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF32",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Qui est le dieu grec de la mer ?",
+    "answers": [
+      "Hadès",
+      "Poséidon",
+      "Hermès",
+      "Apollon"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF33",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle cité antique est célèbre pour son oracle d’Apollon ?",
+    "answers": [
+      "Delphes",
+      "Olympie",
+      "Corinthe",
+      "Mycènes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF34",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Qui fut assassiné aux Ides de mars en 44 av. J.-C. ?",
+    "answers": [
+      "Cicéron",
+      "Pompée",
+      "Jules César",
+      "Brutus"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "qAF35",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom latin de la Méditerranée, « notre mer » ?",
+    "answers": [
+      "Mare Internum",
+      "Mare Nostrum",
+      "Mare Magnum",
+      "Mare Romanum"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF36",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel monument égyptien servait de tombe aux pharaons du Nouvel Empire ?",
+    "answers": [
+      "Pyramides",
+      "Obélisques",
+      "Vallée des Rois",
+      "Temples"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "qAF37",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle ville antique est associée aux Jeux olympiques ?",
+    "answers": [
+      "Olympie",
+      "Athènes",
+      "Delphes",
+      "Corinthe"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF38",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel héros grec est connu pour ses douze travaux ?",
+    "answers": [
+      "Ulysse",
+      "Héraclès",
+      "Persée",
+      "Achille"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF39",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Qui est le dieu égyptien à tête de faucon ?",
+    "answers": [
+      "Rê",
+      "Seth",
+      "Horus",
+      "Anubis"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "qAF40",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom de l’écriture des anciens Égyptiens ?",
+    "answers": [
+      "Hiéroglyphes",
+      "Alphabet grec",
+      "Alphabet phénicien",
+      "Cunéiforme"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF41",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom de la guerre menée par César en Gaule ?",
+    "answers": [
+      "Guerre de Troie",
+      "Guerre des Gaules",
+      "Guerre punique",
+      "Guerre du Péloponnèse"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF42",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel métal précieux symbolisait la richesse de Crésus, roi de Lydie ?",
+    "answers": [
+      "Fer",
+      "Or",
+      "Argent",
+      "Étain"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF43",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Qui est le dieu grec des enfers ?",
+    "answers": [
+      "Zeus",
+      "Hadès",
+      "Arès",
+      "Hermès"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF44",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom de la première civilisation urbaine en Mésopotamie ?",
+    "answers": [
+      "Akkadiens",
+      "Sumériens",
+      "Babyloniens",
+      "Assyriens"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF45",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel philosophe grec est célèbre pour la méthode de la dialectique, maître de Platon ?",
     "answers": [
       "Socrate",
-      "Pythagore",
       "Aristote",
-      "Platon"
+      "Épicure",
+      "Pythagore"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF46",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel grand conquérant macédonien créa un immense empire jusqu’en Inde ?",
+    "answers": [
+      "Philippe II",
+      "Alexandre le Grand",
+      "César",
+      "Pompée"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF47",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple est à l’origine de l’alphabet qui inspira le grec et le latin ?",
+    "answers": [
+      "Égyptiens",
+      "Phéniciens",
+      "Celtes",
+      "Perses"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF48",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du temple grec dédié à Athéna à Athènes ?",
+    "answers": [
+      "Parthénon",
+      "Panthéon",
+      "Érechthéion",
+      "Temple de Zeus"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF49",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel animal est sacré pour les Égyptiens et souvent momifié ?",
+    "answers": [
+      "Chien",
+      "Chat",
+      "Bœuf",
+      "Crocodile"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF50",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Qui est le dieu grec du soleil ?",
+    "answers": [
+      "Apollon",
+      "Zeus",
+      "Hermès",
+      "Arès"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF51",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel dieu grec est le messager des dieux ?",
+    "answers": [
+      "Hermès",
+      "Apollon",
+      "Arès",
+      "Poséidon"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF52",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel roi de Macédoine est célèbre pour avoir conquis la Grèce après la bataille de Chéronée ?",
+    "answers": [
+      "Alexandre le Grand",
+      "Philippe II",
+      "Cassandre",
+      "Antigone"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF53",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle écriture était utilisée en Mésopotamie ?",
+    "answers": [
+      "Hiéroglyphes",
+      "Cunéiforme",
+      "Alphabet latin",
+      "Alphabet grec"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF54",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel dieu égyptien avait une tête de chacal ?",
+    "answers": [
+      "Seth",
+      "Horus",
+      "Anubis",
+      "Rê"
     ],
     "correctIndex": 2
   },
   {
-    "id": "q56",
+    "id": "qAF55",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) au tonnerre et au ciel ?",
+    "text": "Quelle était la langue officielle de l’Empire romain ?",
     "answers": [
-      "Némésis",
+      "Grec",
+      "Latin",
+      "Égyptien",
+      "Araméen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF56",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle déesse grecque est associée à l’amour et à la beauté ?",
+    "answers": [
       "Héra",
-      "Hécate",
+      "Aphrodite",
+      "Athéna",
+      "Déméter"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF57",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom de la guerre qui opposa Rome à Carthage ?",
+    "answers": [
+      "Guerres puniques",
+      "Guerre du Péloponnèse",
+      "Guerre des Gaules",
+      "Guerres médiques"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF58",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Qui était le roi de l’Olympe dans la mythologie grecque ?",
+    "answers": [
+      "Arès",
+      "Zeus",
+      "Apollon",
+      "Hermès"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF59",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du temple de tous les dieux à Rome ?",
+    "answers": [
+      "Colisée",
+      "Circus Maximus",
+      "Panthéon",
+      "Forum Romain"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "qAF60",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel héros grec participa à la guerre de Troie et tua Hector ?",
+    "answers": [
+      "Achille",
+      "Ulysse",
+      "Ménélas",
+      "Agamemnon"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF61",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle cité grecque est connue comme le berceau de la démocratie ?",
+    "answers": [
+      "Sparte",
+      "Athènes",
+      "Delphes",
+      "Corinthe"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF62",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel roi de Babylone fit construire les célèbres jardins suspendus ?",
+    "answers": [
+      "Hammurabi",
+      "Sargon",
+      "Nabuchodonosor II",
+      "Assurbanipal"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "qAF63",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel dieu grec est associé à la musique et à la lumière ?",
+    "answers": [
+      "Hermès",
+      "Apollon",
+      "Dionysos",
+      "Arès"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF64",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel grand général romain fut assassiné en 44 av. J.-C. ?",
+    "answers": [
+      "Pompée",
+      "Cicéron",
+      "Jules César",
+      "Marc Antoine"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "qAF65",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel monument grec servait à accueillir les assemblées politiques à Athènes ?",
+    "answers": [
+      "Agora",
+      "Stoa",
+      "Acropole",
+      "Théâtre"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF66",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel dieu romain correspond à Zeus chez les Grecs ?",
+    "answers": [
+      "Jupiter",
+      "Mars",
+      "Mercure",
+      "Saturne"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF67",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel pharaon fit construire le grand temple d’Abou Simbel ?",
+    "answers": [
+      "Ramsès II",
+      "Toutânkhamon",
+      "Akhenaton",
+      "Cléopâtre"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF68",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle est la capitale de la Crète minoenne ?",
+    "answers": [
+      "Knossos",
+      "Mycènes",
+      "Athènes",
+      "Sparte"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF69",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle divinité grecque est déesse de la chasse ?",
+    "answers": [
+      "Athéna",
+      "Artémis",
+      "Héra",
+      "Aphrodite"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF70",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel empereur romain est célèbre pour avoir incendié Rome selon la légende ?",
+    "answers": [
+      "Néron",
+      "Auguste",
+      "Trajan",
+      "Claude"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF71",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom de la déesse romaine de l’amour ?",
+    "answers": [
+      "Vénus",
+      "Minerve",
+      "Junon",
+      "Diane"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF72",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel roi légendaire a donné son nom aux lois de Sparte ?",
+    "answers": [
+      "Lycurgue",
+      "Solon",
+      "Dracon",
+      "Périclès"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF73",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du cheval géant utilisé pour entrer dans Troie ?",
+    "answers": [
+      "Cheval d’Achille",
+      "Cheval de Troie",
+      "Cheval de Zeus",
+      "Cheval d’Hector"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF74",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel dieu grec est représenté avec un trident ?",
+    "answers": [
+      "Arès",
+      "Hermès",
+      "Poséidon",
       "Zeus"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
-    "id": "q57",
+    "id": "qAF75",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est associé(e) à la mer ?",
+    "text": "Quel roi est associé à l’épopée de Gilgamesh ?",
     "answers": [
-      "Héra",
-      "Poséidon",
-      "Hécate",
-      "Némésis"
+      "Sargon",
+      "Gilgamesh",
+      "Hammurabi",
+      "Assur"
     ],
     "correctIndex": 1
   },
   {
-    "id": "q58",
+    "id": "qAF76",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Quel est le nom de la guerre entre Sparte et Athènes ?",
+    "text": "Quelle cité antique fut ensevelie avec Pompéi en 79 ?",
     "answers": [
-      "Guerre Civile Romaine",
-      "Guerre Médique",
-      "Guerre du Péloponnèse",
-      "Guerre des Gaules"
+      "Capoue",
+      "Ostie",
+      "Herculanum",
+      "Tarse"
     ],
     "correctIndex": 2
   },
   {
-    "id": "q59",
+    "id": "qAF77",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Quelle civilisation antique a construit les pyramides de Gizeh ?",
+    "text": "Quel peuple antique inventa la démocratie directe ?",
     "answers": [
-      "Sumérienne",
-      "Maya",
-      "Égyptienne",
-      "Inca"
+      "Romain",
+      "Grec (Athènes)",
+      "Égyptien",
+      "Phénicien"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
-    "id": "q60",
+    "id": "qAF78",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est associé(e) à la mer ?",
+    "text": "Quelle divinité grecque est déesse de l’agriculture ?",
     "answers": [
-      "Némésis",
-      "Hécate",
-      "Poséidon",
-      "Héra"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q61",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) au tonnerre et au ciel ?",
-    "answers": [
+      "Déméter",
       "Héra",
-      "Hécate",
-      "Zeus",
-      "Némésis"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q62",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique a construit les pyramides de Gizeh ?",
-    "answers": [
-      "Maya",
-      "Inca",
-      "Égyptienne",
-      "Sumérienne"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q63",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui était le premier empereur de Rome ?",
-    "answers": [
-      "Auguste",
-      "Néron",
-      "César",
-      "Caligula"
+      "Athéna",
+      "Aphrodite"
     ],
     "correctIndex": 0
   },
   {
-    "id": "q64",
+    "id": "qAF79",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Qui a dirigé l’armée d’Hannibal contre Rome ?",
+    "text": "Quelle est la capitale actuelle construite sur l’ancienne Byzance ?",
     "answers": [
-      "Philippe V",
-      "Pyrrhus",
-      "Scipion",
-      "Hannibal Barca"
+      "Athènes",
+      "Rome",
+      "Istanbul",
+      "Alexandrie"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
-    "id": "q65",
+    "id": "qAF80",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Quel philosophe grec a enseigné Alexandre le Grand ?",
+    "text": "Quelle est la colline la plus sacrée d’Athènes ?",
     "answers": [
-      "Platon",
-      "Pythagore",
+      "Palatin",
+      "Acropole",
+      "Capitole",
+      "Aventin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF81",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Qui est le dieu égyptien du soleil ?",
+    "answers": [
+      "Seth",
+      "Anubis",
+      "Rê",
+      "Osiris"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "qAF82",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du théâtre en plein air utilisé en Grèce antique ?",
+    "answers": [
+      "Odeon",
+      "Amphithéâtre",
+      "Théâtre",
+      "Stade"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "qAF83",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel héros grec imagina le stratagème du cheval de Troie ?",
+    "answers": [
+      "Achille",
+      "Ulysse",
+      "Ajax",
+      "Ménélas"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF84",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle est la langue des premiers chrétiens ?",
+    "answers": [
+      "Grec",
+      "Latin",
+      "Araméen",
+      "Copte"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "qAF85",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle ville fut la capitale de l’Empire assyrien ?",
+    "answers": [
+      "Babylone",
+      "Ninive",
+      "Ur",
+      "Akkad"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF86",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom de la montagne où les dieux grecs résidaient ?",
+    "answers": [
+      "Olympe",
+      "Parnasse",
+      "Éta",
+      "Ida"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF87",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Qui était le dieu romain de la mer ?",
+    "answers": [
+      "Pluton",
+      "Neptune",
+      "Jupiter",
+      "Saturne"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF88",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel roi égyptien est célèbre pour son masque funéraire en or ?",
+    "answers": [
+      "Ramsès II",
+      "Toutânkhamon",
+      "Khéops",
+      "Akhenaton"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF89",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple est à l’origine de l’alphabet qui inspira le grec ?",
+    "answers": [
+      "Sumériens",
+      "Phéniciens",
+      "Égyptiens",
+      "Perses"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF90",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel dieu grec est le dieu de la guerre ?",
+    "answers": [
+      "Hermès",
+      "Arès",
+      "Poséidon",
+      "Dionysos"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF91",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom de l’édifice en escalier construit par les Babyloniens pour leurs dieux ?",
+    "answers": [
+      "Pyramide",
+      "Ziggourat",
+      "Obélisque",
+      "Temple"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF92",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel philosophe grec a enseigné à Platon ?",
+    "answers": [
+      "Aristote",
       "Socrate",
-      "Aristote"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q66",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique a construit les pyramides de Gizeh ?",
-    "answers": [
-      "Inca",
-      "Maya",
-      "Sumérienne",
-      "Égyptienne"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q67",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) au tonnerre et au ciel ?",
-    "answers": [
-      "Zeus",
-      "Héra",
-      "Hécate",
-      "Némésis"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q68",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) au tonnerre et au ciel ?",
-    "answers": [
-      "Zeus",
-      "Héra",
-      "Hécate",
-      "Némésis"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q69",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom de la guerre entre Sparte et Athènes ?",
-    "answers": [
-      "Guerre des Gaules",
-      "Guerre Civile Romaine",
-      "Guerre du Péloponnèse",
-      "Guerre Médique"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q70",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique a construit les pyramides de Gizeh ?",
-    "answers": [
-      "Égyptienne",
-      "Sumérienne",
-      "Inca",
-      "Maya"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q71",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui était le premier empereur de Rome ?",
-    "answers": [
-      "Auguste",
-      "Néron",
-      "César",
-      "Caligula"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q72",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel roi macédonien a conquis l’Empire perse ?",
-    "answers": [
-      "Philippe II",
-      "Cyrus le Grand",
-      "Darius III",
-      "Alexandre le Grand"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q73",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui a dirigé l’armée d’Hannibal contre Rome ?",
-    "answers": [
-      "Philippe V",
-      "Hannibal Barca",
-      "Scipion",
-      "Pyrrhus"
+      "Épicure",
+      "Zénon"
     ],
     "correctIndex": 1
   },
   {
-    "id": "q74",
+    "id": "qAF93",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Quelle cité antique est célèbre pour ses Jeux Olympiques ?",
+    "text": "Quelle cité fut le centre de la civilisation minoenne ?",
     "answers": [
+      "Knossos",
+      "Mycènes",
       "Athènes",
-      "Rome",
-      "Sparte",
-      "Olympie"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q75",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique a construit les pyramides de Gizeh ?",
-    "answers": [
-      "Maya",
-      "Sumérienne",
-      "Égyptienne",
-      "Inca"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q76",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est associé(e) à la mer ?",
-    "answers": [
-      "Poséidon",
-      "Héra",
-      "Némésis",
-      "Hécate"
+      "Delphes"
     ],
     "correctIndex": 0
   },
   {
-    "id": "q77",
+    "id": "qAF94",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est associé(e) à la mer ?",
+    "text": "Quel est le nom de la période de paix instaurée par Auguste ?",
     "answers": [
-      "Hécate",
-      "Héra",
-      "Poséidon",
-      "Némésis"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q78",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique a construit les pyramides de Gizeh ?",
-    "answers": [
-      "Égyptienne",
-      "Sumérienne",
-      "Maya",
-      "Inca"
+      "Pax Romana",
+      "Pax Deorum",
+      "Pax Hellenica",
+      "Pax Aeterna"
     ],
     "correctIndex": 0
   },
   {
-    "id": "q79",
+    "id": "qAF95",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Quelle cité antique est célèbre pour ses Jeux Olympiques ?",
+    "text": "Quel est le nom du héros grec qui participa au voyage des Argonautes et conquit la Toison d’or ?",
     "answers": [
-      "Sparte",
+      "Thésée",
+      "Jason",
+      "Héraclès",
+      "Achille"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF96",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique vénérait Marduk comme dieu principal ?",
+    "answers": [
+      "Babyloniens",
+      "Sumériens",
+      "Assyriens",
+      "Perses"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF97",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom de la déesse égyptienne de la maternité et de la magie ?",
+    "answers": [
+      "Nout",
+      "Isis",
+      "Sekhmet",
+      "Hathor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF98",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du grand sanctuaire grec dédié à Zeus, où se tenaient les Jeux olympiques ?",
+    "answers": [
+      "Delphes",
       "Olympie",
-      "Athènes",
-      "Rome"
+      "Éleusis",
+      "Corinthe"
     ],
     "correctIndex": 1
   },
   {
-    "id": "q80",
+    "id": "qAF99",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Quel est le nom de la guerre entre Sparte et Athènes ?",
+    "text": "Quel dieu grec est associé au vin et aux fêtes ?",
     "answers": [
-      "Guerre Médique",
-      "Guerre du Péloponnèse",
-      "Guerre des Gaules",
-      "Guerre Civile Romaine"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q81",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom de la guerre entre Sparte et Athènes ?",
-    "answers": [
-      "Guerre Médique",
-      "Guerre du Péloponnèse",
-      "Guerre des Gaules",
-      "Guerre Civile Romaine"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q82",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique a construit les pyramides de Gizeh ?",
-    "answers": [
-      "Égyptienne",
-      "Sumérienne",
-      "Maya",
-      "Inca"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q83",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom de la guerre entre Sparte et Athènes ?",
-    "answers": [
-      "Guerre du Péloponnèse",
-      "Guerre Civile Romaine",
-      "Guerre des Gaules",
-      "Guerre Médique"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q84",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel roi macédonien a conquis l’Empire perse ?",
-    "answers": [
-      "Alexandre le Grand",
-      "Cyrus le Grand",
-      "Darius III",
-      "Philippe II"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q85",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui était le premier empereur de Rome ?",
-    "answers": [
-      "César",
-      "Auguste",
-      "Caligula",
-      "Néron"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q86",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie romaine, qui est l'équivalent de Zeus ?",
-    "answers": [
+      "Dionysos",
       "Apollon",
-      "Jupiter",
-      "Mercure",
-      "Mars"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q87",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie romaine, qui est l'équivalent de Zeus ?",
-    "answers": [
-      "Apollon",
-      "Jupiter",
-      "Mercure",
-      "Mars"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q88",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique a construit les pyramides de Gizeh ?",
-    "answers": [
-      "Sumérienne",
-      "Égyptienne",
-      "Maya",
-      "Inca"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q89",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom de la guerre entre Sparte et Athènes ?",
-    "answers": [
-      "Guerre Médique",
-      "Guerre du Péloponnèse",
-      "Guerre Civile Romaine",
-      "Guerre des Gaules"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q90",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est associé(e) à la mer ?",
-    "answers": [
-      "Némésis",
-      "Héra",
-      "Poséidon",
-      "Hécate"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q91",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom de la guerre entre Sparte et Athènes ?",
-    "answers": [
-      "Guerre Civile Romaine",
-      "Guerre des Gaules",
-      "Guerre Médique",
-      "Guerre du Péloponnèse"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q92",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui a dirigé l’armée d’Hannibal contre Rome ?",
-    "answers": [
-      "Pyrrhus",
-      "Philippe V",
-      "Hannibal Barca",
-      "Scipion"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q93",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle cité antique est célèbre pour ses Jeux Olympiques ?",
-    "answers": [
-      "Rome",
-      "Sparte",
-      "Olympie",
-      "Athènes"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q94",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui était le premier empereur de Rome ?",
-    "answers": [
-      "Caligula",
-      "Néron",
-      "Auguste",
-      "César"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q95",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel roi macédonien a conquis l’Empire perse ?",
-    "answers": [
-      "Cyrus le Grand",
-      "Darius III",
-      "Alexandre le Grand",
-      "Philippe II"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q96",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique a construit les pyramides de Gizeh ?",
-    "answers": [
-      "Égyptienne",
-      "Inca",
-      "Maya",
-      "Sumérienne"
+      "Hermès",
+      "Arès"
     ],
     "correctIndex": 0
   },
   {
-    "id": "q97",
+    "id": "qAF100",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Quelle cité antique est célèbre pour ses Jeux Olympiques ?",
+    "text": "Quel est le nom de l’empereur romain qui a divisé l’Empire en Orient et Occident ?",
     "answers": [
-      "Olympie",
-      "Athènes",
-      "Rome",
+      "Dioclétien",
+      "Auguste",
+      "Trajan",
+      "Constantin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF101",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu égyptien des morts et de la momification ?",
+    "answers": [
+      "Horus",
+      "Osiris",
+      "Anubis",
+      "Seth"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "qAF102",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel héros grec est connu pour son long voyage de retour après la guerre de Troie ?",
+    "answers": [
+      "Achille",
+      "Ulysse",
+      "Jason",
+      "Persée"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF103",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom latin de la mer qui entoure l’Italie et la Grèce ?",
+    "answers": [
+      "Mare Magnum",
+      "Mare Nostrum",
+      "Mare Internum",
+      "Mare Orientale"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF104",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle cité antique est célèbre pour son phare, l’une des Sept Merveilles du monde ?",
+    "answers": [
+      "Babylone",
+      "Rhodes",
+      "Alexandrie",
       "Sparte"
     ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q98",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie romaine, qui est l'équivalent de Zeus ?",
-    "answers": [
-      "Mercure",
-      "Mars",
-      "Apollon",
-      "Jupiter"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q99",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui a dirigé l’armée d’Hannibal contre Rome ?",
-    "answers": [
-      "Pyrrhus",
-      "Philippe V",
-      "Scipion",
-      "Hannibal Barca"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q100",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui était le premier empereur de Rome ?",
-    "answers": [
-      "César",
-      "Néron",
-      "Auguste",
-      "Caligula"
-    ],
     "correctIndex": 2
   },
   {
-    "id": "q101",
+    "id": "qAF105",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Qui était le premier empereur de Rome ?",
+    "text": "Quel dieu grec est représenté avec des ailes aux pieds ?",
     "answers": [
-      "Caligula",
-      "Néron",
-      "César",
-      "Auguste"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q102",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui a dirigé l’armée d’Hannibal contre Rome ?",
-    "answers": [
-      "Philippe V",
-      "Hannibal Barca",
-      "Scipion",
-      "Pyrrhus"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q103",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie romaine, qui est l'équivalent de Zeus ?",
-    "answers": [
-      "Mars",
-      "Jupiter",
-      "Mercure",
+      "Arès",
+      "Hermès",
+      "Dionysos",
       "Apollon"
     ],
     "correctIndex": 1
   },
   {
-    "id": "q104",
+    "id": "qAF106",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Quel est le nom de la guerre entre Sparte et Athènes ?",
+    "text": "Quel général romain conquit la Gaule au Ier siècle av. J.-C. ?",
     "answers": [
-      "Guerre Médique",
-      "Guerre des Gaules",
-      "Guerre du Péloponnèse",
-      "Guerre Civile Romaine"
+      "Pompée",
+      "Jules César",
+      "Crassus",
+      "Auguste"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
-    "id": "q105",
+    "id": "qAF107",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Dans la mythologie romaine, qui est l'équivalent de Zeus ?",
+    "text": "Quelle est la capitale actuelle bâtie sur l’ancienne cité de Babylone ?",
     "answers": [
-      "Mars",
-      "Mercure",
-      "Apollon",
-      "Jupiter"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q106",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) au tonnerre et au ciel ?",
-    "answers": [
-      "Zeus",
-      "Héra",
-      "Hécate",
-      "Némésis"
+      "Bagdad",
+      "Damas",
+      "Le Caire",
+      "Téhéran"
     ],
     "correctIndex": 0
   },
   {
-    "id": "q107",
+    "id": "qAF108",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Quelle cité antique est célèbre pour ses Jeux Olympiques ?",
+    "text": "Quel est le nom de la femme de Zeus dans la mythologie grecque ?",
     "answers": [
-      "Sparte",
-      "Athènes",
-      "Olympie",
-      "Rome"
+      "Héra",
+      "Aphrodite",
+      "Athéna",
+      "Artémis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF109",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom de l’empereur romain qui a déplacé la capitale à Byzance ?",
+    "answers": [
+      "Néron",
+      "Auguste",
+      "Constantin",
+      "Trajan"
     ],
     "correctIndex": 2
   },
   {
-    "id": "q108",
+    "id": "qAF110",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Qui a dirigé l’armée d’Hannibal contre Rome ?",
+    "text": "Quelle ville antique est célèbre pour son colosse, une statue gigantesque en bronze ?",
     "answers": [
-      "Pyrrhus",
-      "Hannibal Barca",
-      "Philippe V",
-      "Scipion"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q109",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui a dirigé l’armée d’Hannibal contre Rome ?",
-    "answers": [
-      "Scipion",
-      "Philippe V",
-      "Pyrrhus",
-      "Hannibal Barca"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q110",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle cité antique est célèbre pour ses Jeux Olympiques ?",
-    "answers": [
-      "Rome",
+      "Rhodes",
       "Olympie",
-      "Athènes",
-      "Sparte"
+      "Sparte",
+      "Delphes"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "id": "q111",
+    "id": "qAF111",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Quel roi macédonien a conquis l’Empire perse ?",
+    "text": "Quel est le nom du dieu grec des forges et du feu ?",
     "answers": [
-      "Philippe II",
-      "Alexandre le Grand",
-      "Cyrus le Grand",
-      "Darius III"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q112",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie romaine, qui est l'équivalent de Zeus ?",
-    "answers": [
-      "Mars",
-      "Jupiter",
-      "Mercure",
+      "Hermès",
+      "Arès",
+      "Héphaïstos",
       "Apollon"
     ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q113",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle cité antique est célèbre pour ses Jeux Olympiques ?",
-    "answers": [
-      "Athènes",
-      "Olympie",
-      "Rome",
-      "Sparte"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q114",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom de la guerre entre Sparte et Athènes ?",
-    "answers": [
-      "Guerre Civile Romaine",
-      "Guerre des Gaules",
-      "Guerre du Péloponnèse",
-      "Guerre Médique"
-    ],
     "correctIndex": 2
   },
   {
-    "id": "q115",
+    "id": "qAF112",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Qui a dirigé l’armée d’Hannibal contre Rome ?",
+    "text": "Quel roi romain est associé à la fondation des institutions religieuses de Rome ?",
     "answers": [
-      "Hannibal Barca",
-      "Philippe V",
-      "Pyrrhus",
-      "Scipion"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q116",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui a dirigé l’armée d’Hannibal contre Rome ?",
-    "answers": [
-      "Philippe V",
-      "Pyrrhus",
-      "Scipion",
-      "Hannibal Barca"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q117",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui était le premier empereur de Rome ?",
-    "answers": [
-      "César",
-      "Auguste",
-      "Néron",
-      "Caligula"
+      "Romulus",
+      "Numa Pompilius",
+      "Tullus Hostilius",
+      "Tarquinius"
     ],
     "correctIndex": 1
   },
   {
-    "id": "q118",
+    "id": "qAF113",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Quel philosophe grec a enseigné Alexandre le Grand ?",
+    "text": "Quelle cité grecque fut détruite par Rome en 146 av. J.-C. ?",
     "answers": [
-      "Aristote",
-      "Platon",
-      "Socrate",
-      "Pythagore"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q119",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom de la guerre entre Sparte et Athènes ?",
-    "answers": [
-      "Guerre Médique",
-      "Guerre du Péloponnèse",
-      "Guerre Civile Romaine",
-      "Guerre des Gaules"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q120",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est associé(e) à la mer ?",
-    "answers": [
-      "Hécate",
-      "Némésis",
-      "Héra",
-      "Poséidon"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q121",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est associé(e) à la mer ?",
-    "answers": [
-      "Hécate",
-      "Héra",
-      "Poséidon",
-      "Némésis"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q122",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui était le premier empereur de Rome ?",
-    "answers": [
-      "Caligula",
-      "Néron",
-      "César",
-      "Auguste"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q123",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) au tonnerre et au ciel ?",
-    "answers": [
-      "Hécate",
-      "Némésis",
-      "Zeus",
-      "Héra"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q124",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel philosophe grec a enseigné Alexandre le Grand ?",
-    "answers": [
-      "Socrate",
-      "Platon",
-      "Aristote",
-      "Pythagore"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q125",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui a dirigé l’armée d’Hannibal contre Rome ?",
-    "answers": [
-      "Pyrrhus",
-      "Hannibal Barca",
-      "Scipion",
-      "Philippe V"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q126",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique a construit les pyramides de Gizeh ?",
-    "answers": [
-      "Inca",
-      "Égyptienne",
-      "Sumérienne",
-      "Maya"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q127",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui était le premier empereur de Rome ?",
-    "answers": [
-      "César",
-      "Caligula",
-      "Néron",
-      "Auguste"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q128",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) au tonnerre et au ciel ?",
-    "answers": [
-      "Hécate",
-      "Zeus",
-      "Némésis",
-      "Héra"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q129",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique a construit les pyramides de Gizeh ?",
-    "answers": [
-      "Maya",
-      "Égyptienne",
-      "Inca",
-      "Sumérienne"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q130",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel philosophe grec a enseigné Alexandre le Grand ?",
-    "answers": [
-      "Platon",
-      "Socrate",
-      "Aristote",
-      "Pythagore"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q131",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique a construit les pyramides de Gizeh ?",
-    "answers": [
-      "Maya",
-      "Inca",
-      "Égyptienne",
-      "Sumérienne"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q132",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui était le premier empereur de Rome ?",
-    "answers": [
-      "César",
-      "Auguste",
-      "Caligula",
-      "Néron"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q133",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui était le premier empereur de Rome ?",
-    "answers": [
-      "Caligula",
-      "César",
-      "Auguste",
-      "Néron"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q134",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie romaine, qui est l'équivalent de Zeus ?",
-    "answers": [
-      "Mars",
-      "Apollon",
-      "Mercure",
-      "Jupiter"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q135",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle cité antique est célèbre pour ses Jeux Olympiques ?",
-    "answers": [
-      "Olympie",
-      "Rome",
-      "Sparte",
-      "Athènes"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q136",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui était le premier empereur de Rome ?",
-    "answers": [
-      "Auguste",
-      "César",
-      "Néron",
-      "Caligula"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q137",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui était le premier empereur de Rome ?",
-    "answers": [
-      "Caligula",
-      "Néron",
-      "Auguste",
-      "César"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q138",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle cité antique est célèbre pour ses Jeux Olympiques ?",
-    "answers": [
-      "Rome",
-      "Athènes",
-      "Olympie",
+      "Delphes",
+      "Carthage",
+      "Corinthe",
       "Sparte"
     ],
     "correctIndex": 2
   },
   {
-    "id": "q139",
+    "id": "qAF114",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Qui était le premier empereur de Rome ?",
+    "text": "Quelle est la déesse égyptienne de la justice représentée avec une plume ?",
     "answers": [
+      "Isis",
+      "Maât",
+      "Sekhmet",
+      "Nout"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF115",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du grand marché central dans une cité grecque ?",
+    "answers": [
+      "Acropole",
+      "Agora",
+      "Forum",
+      "Stoa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF116",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel roi de Lydie était célèbre pour sa richesse fabuleuse ?",
+    "answers": [
+      "Crésus",
+      "Gygès",
+      "Alyatte",
+      "Sadyatte"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF117",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu romain du temps et des semailles ?",
+    "answers": [
+      "Janus",
+      "Saturne",
+      "Neptune",
+      "Pluton"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF118",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel empereur romain est connu pour avoir construit un immense forum et une colonne en son honneur ?",
+    "answers": [
+      "Trajan",
       "Néron",
-      "César",
-      "Auguste",
-      "Caligula"
+      "Caligula",
+      "Commode"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "id": "q140",
+    "id": "qAF119",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Quel roi macédonien a conquis l’Empire perse ?",
+    "text": "Quelle grande bibliothèque de l’Antiquité fut située en Égypte ?",
     "answers": [
-      "Darius III",
-      "Alexandre le Grand",
-      "Philippe II",
-      "Cyrus le Grand"
+      "Bibliothèque d’Alexandrie",
+      "Bibliothèque de Pergame",
+      "Bibliothèque de Ninive",
+      "Bibliothèque de Rome"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF120",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu grec des enfers ?",
+    "answers": [
+      "Hadès",
+      "Zeus",
+      "Hermès",
+      "Arès"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF121",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel héros mythologique tua la Méduse ?",
+    "answers": [
+      "Thésée",
+      "Persée",
+      "Achille",
+      "Héraclès"
     ],
     "correctIndex": 1
   },
   {
-    "id": "q141",
+    "id": "qAF122",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Quelle cité antique est célèbre pour ses Jeux Olympiques ?",
+    "text": "Quel est le nom de la femme d’Osiris dans la mythologie égyptienne ?",
     "answers": [
-      "Athènes",
-      "Sparte",
-      "Olympie",
-      "Rome"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q142",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom de la guerre entre Sparte et Athènes ?",
-    "answers": [
-      "Guerre Civile Romaine",
-      "Guerre du Péloponnèse",
-      "Guerre des Gaules",
-      "Guerre Médique"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q143",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie romaine, qui est l'équivalent de Zeus ?",
-    "answers": [
-      "Apollon",
-      "Mars",
-      "Jupiter",
-      "Mercure"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q144",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui a dirigé l’armée d’Hannibal contre Rome ?",
-    "answers": [
-      "Hannibal Barca",
-      "Scipion",
-      "Philippe V",
-      "Pyrrhus"
+      "Isis",
+      "Nout",
+      "Hathor",
+      "Sekhmet"
     ],
     "correctIndex": 0
   },
   {
-    "id": "q145",
+    "id": "qAF123",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Quelle civilisation antique a construit les pyramides de Gizeh ?",
+    "text": "Quelle est la langue principale des textes sacrés hindous de l’Antiquité ?",
     "answers": [
-      "Égyptienne",
-      "Inca",
-      "Maya",
-      "Sumérienne"
+      "Sanskrit",
+      "Pali",
+      "Latin",
+      "Araméen"
     ],
     "correctIndex": 0
   },
   {
-    "id": "q146",
+    "id": "qAF124",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Qui a dirigé l’armée d’Hannibal contre Rome ?",
+    "text": "Quel est le nom du roi grec qui affronta les Perses à la bataille de Marathon ?",
     "answers": [
-      "Pyrrhus",
-      "Scipion",
-      "Philippe V",
-      "Hannibal Barca"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q147",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique a construit les pyramides de Gizeh ?",
-    "answers": [
-      "Égyptienne",
-      "Inca",
-      "Maya",
-      "Sumérienne"
+      "Miltiade",
+      "Thémistocle",
+      "Léonidas",
+      "Périclès"
     ],
     "correctIndex": 0
   },
   {
-    "id": "q148",
+    "id": "qAF125",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Dans la mythologie romaine, qui est l'équivalent de Zeus ?",
+    "text": "Quelle était la principale arme des hoplites grecs ?",
     "answers": [
-      "Apollon",
-      "Mars",
-      "Jupiter",
-      "Mercure"
+      "Épée",
+      "Sarisse",
+      "Lance",
+      "Arc"
     ],
     "correctIndex": 2
   },
   {
-    "id": "q149",
+    "id": "qAF126",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Quel philosophe grec a enseigné Alexandre le Grand ?",
+    "text": "Quel est le nom de la grande voie romaine reliant Rome à Brindisi ?",
     "answers": [
-      "Platon",
-      "Pythagore",
-      "Socrate",
-      "Aristote"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q150",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie romaine, qui est l'équivalent de Zeus ?",
-    "answers": [
-      "Apollon",
-      "Mars",
-      "Jupiter",
-      "Mercure"
+      "Via Flaminia",
+      "Via Claudia",
+      "Via Appia",
+      "Via Augusta"
     ],
     "correctIndex": 2
   },
   {
-    "id": "q151",
+    "id": "qAF127",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Quel philosophe grec a enseigné Alexandre le Grand ?",
+    "text": "Quelle déesse grecque est associée à la sagesse et à la guerre stratégique ?",
     "answers": [
-      "Socrate",
-      "Pythagore",
-      "Aristote",
-      "Platon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q152",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle cité antique est célèbre pour ses Jeux Olympiques ?",
-    "answers": [
-      "Sparte",
-      "Athènes",
-      "Rome",
-      "Olympie"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q153",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) au tonnerre et au ciel ?",
-    "answers": [
-      "Héra",
-      "Hécate",
-      "Zeus",
-      "Némésis"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q154",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) au tonnerre et au ciel ?",
-    "answers": [
-      "Zeus",
-      "Hécate",
-      "Némésis",
+      "Athéna",
+      "Artémis",
+      "Aphrodite",
       "Héra"
     ],
     "correctIndex": 0
   },
   {
-    "id": "q155",
+    "id": "qAF128",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Quel philosophe grec a enseigné Alexandre le Grand ?",
+    "text": "Quel roi perse attaqua la Grèce en 480 av. J.-C. ?",
     "answers": [
-      "Socrate",
-      "Pythagore",
-      "Aristote",
-      "Platon"
+      "Cyrus II",
+      "Darius Ier",
+      "Xerxès Ier",
+      "Artaxerxès"
     ],
     "correctIndex": 2
   },
   {
-    "id": "q156",
+    "id": "qAF129",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Quel philosophe grec a enseigné Alexandre le Grand ?",
+    "text": "Quelle est la capitale mythique de l’Atlantide selon Platon ?",
     "answers": [
-      "Pythagore",
-      "Platon",
-      "Socrate",
-      "Aristote"
+      "Babylone",
+      "Carthage",
+      "Atlantide",
+      "Troie"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
-    "id": "q157",
+    "id": "qAF130",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Quel roi macédonien a conquis l’Empire perse ?",
+    "text": "Quel est le nom du général spartiate qui mena la résistance aux Thermopyles ?",
     "answers": [
-      "Darius III",
-      "Philippe II",
-      "Cyrus le Grand",
-      "Alexandre le Grand"
+      "Pausanias",
+      "Lysandre",
+      "Léonidas",
+      "Agis"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
-    "id": "q158",
+    "id": "qAF131",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est associé(e) à la mer ?",
+    "text": "Quel est le nom de la région mythologique où résident les héros après leur mort ?",
     "answers": [
-      "Héra",
-      "Poséidon",
-      "Némésis",
-      "Hécate"
+      "Tartare",
+      "Élysée",
+      "Hadès",
+      "Olympe"
     ],
     "correctIndex": 1
   },
   {
-    "id": "q159",
+    "id": "qAF132",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Qui a dirigé l’armée d’Hannibal contre Rome ?",
+    "text": "Quel est le nom du grand port de Carthage détruit par Rome ?",
     "answers": [
-      "Philippe V",
-      "Pyrrhus",
-      "Hannibal Barca",
-      "Scipion"
+      "Utique",
+      "Leptis Magna",
+      "Carthage",
+      "Byrsa"
     ],
     "correctIndex": 2
   },
   {
-    "id": "q160",
+    "id": "qAF133",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est associé(e) à la mer ?",
+    "text": "Quelle est la déesse romaine de la sagesse, équivalente d’Athéna ?",
     "answers": [
-      "Némésis",
-      "Hécate",
-      "Héra",
-      "Poséidon"
+      "Minerve",
+      "Junon",
+      "Vénus",
+      "Diane"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
-    "id": "q161",
+    "id": "qAF134",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Quel roi macédonien a conquis l’Empire perse ?",
+    "text": "Quel est le nom du dieu grec du vin et des fêtes ?",
     "answers": [
-      "Cyrus le Grand",
-      "Darius III",
-      "Philippe II",
-      "Alexandre le Grand"
+      "Apollon",
+      "Dionysos",
+      "Arès",
+      "Hermès"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "id": "q162",
+    "id": "qAF135",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Quelle cité antique est célèbre pour ses Jeux Olympiques ?",
+    "text": "Quelle cité antique fut la rivale de Rome lors des guerres puniques ?",
     "answers": [
       "Sparte",
-      "Olympie",
-      "Rome",
-      "Athènes"
+      "Carthage",
+      "Athènes",
+      "Corinthe"
     ],
     "correctIndex": 1
   },
   {
-    "id": "q163",
+    "id": "qAF136",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) au tonnerre et au ciel ?",
+    "text": "Quel est le nom de la grande pyramide construite par le pharaon Khéops ?",
     "answers": [
-      "Hécate",
-      "Némésis",
-      "Héra",
+      "Pyramide de Djoser",
+      "Pyramide de Khéphren",
+      "Pyramide de Khéops",
+      "Pyramide de Mykérinos"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "qAF137",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu grec du commerce et des voyageurs ?",
+    "answers": [
+      "Hermès",
+      "Apollon",
+      "Poséidon",
+      "Arès"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF138",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle grande victoire grecque mit fin aux guerres médiques en 479 av. J.-C. ?",
+    "answers": [
+      "Salamine",
+      "Platées",
+      "Marathon",
+      "Mycale"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF139",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle cité grecque était célèbre pour son oracle d’Apollon ?",
+    "answers": [
+      "Olympie",
+      "Delphes",
+      "Athènes",
+      "Éphèse"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF140",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu romain des enfers ?",
+    "answers": [
+      "Pluton",
+      "Neptune",
+      "Jupiter",
+      "Saturne"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF141",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel empereur romain fit construire le Colisée ?",
+    "answers": [
+      "Néron",
+      "Titus",
+      "Vespasien",
+      "Trajan"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "qAF142",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom de la reine d’Égypte célèbre pour son buste à Berlin ?",
+    "answers": [
+      "Cléopâtre",
+      "Hatchepsout",
+      "Néfertiti",
+      "Bérénice"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "qAF143",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle est la monnaie utilisée par les Romains ?",
+    "answers": [
+      "Drachme",
+      "Denier",
+      "Sesterce",
+      "Solidus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF144",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle cité grecque organisa les premiers Jeux olympiques ?",
+    "answers": [
+      "Athènes",
+      "Olympie",
+      "Corinthe",
+      "Sparte"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF145",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du roi qui mena les Hébreux hors d’Égypte selon la Bible ?",
+    "answers": [
+      "Abraham",
+      "Moïse",
+      "David",
+      "Salomon"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF146",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu romain de la guerre ?",
+    "answers": [
+      "Mars",
+      "Neptune",
+      "Pluton",
+      "Apollon"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF147",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel empereur romain fit construire un mur en Bretagne du Nord ?",
+    "answers": [
+      "Auguste",
+      "Trajan",
+      "Hadrien",
+      "Claude"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "qAF148",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu grec du ciel et du tonnerre ?",
+    "answers": [
+      "Zeus",
+      "Arès",
+      "Hermès",
+      "Poséidon"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF149",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel général carthaginois affronta Rome lors de la deuxième guerre punique ?",
+    "answers": [
+      "Hannibal",
+      "Hamilcar",
+      "Hasdrubal",
+      "Magon"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF150",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom de la déesse grecque de la beauté et de l’amour ?",
+    "answers": [
+      "Artémis",
+      "Athéna",
+      "Aphrodite",
+      "Héra"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "qAF151",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom de l’empereur romain qui a officialisé le christianisme ?",
+    "answers": [
+      "Néron",
+      "Constantin",
+      "Trajan",
+      "Dioclétien"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF152",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle cité grecque était réputée pour son art oratoire et ses philosophes ?",
+    "answers": [
+      "Athènes",
+      "Sparte",
+      "Olympie",
+      "Delphes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF153",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu romain du ciel et de la foudre ?",
+    "answers": [
+      "Neptune",
+      "Mars",
+      "Jupiter",
+      "Pluton"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "qAF154",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu grec du sommeil ?",
+    "answers": [
+      "Morphée",
+      "Hypnos",
+      "Thanatos",
+      "Phobos"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF155",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle ville fut fondée selon la légende par Romulus ?",
+    "answers": [
+      "Athènes",
+      "Sparte",
+      "Rome",
+      "Carthage"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "qAF156",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom de la déesse égyptienne de l’amour et de la musique ?",
+    "answers": [
+      "Sekhmet",
+      "Hathor",
+      "Isis",
+      "Maât"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF157",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom de l’empereur romain qui a divisé l’Empire en tétrarchie ?",
+    "answers": [
+      "Dioclétien",
+      "Auguste",
+      "Hadrien",
+      "Trajan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF158",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom de l’île où naquit Zeus selon la mythologie ?",
+    "answers": [
+      "Crète",
+      "Délos",
+      "Chypre",
+      "Rhodes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF159",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du général grec vainqueur de Salamine ?",
+    "answers": [
+      "Miltiade",
+      "Thémistocle",
+      "Léonidas",
+      "Périclès"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF160",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle est la langue principale de la philosophie et de la science en Grèce antique ?",
+    "answers": [
+      "Latin",
+      "Grec ancien",
+      "Araméen",
+      "Hittite"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF161",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom de l’empereur romain qui régna lors de l’éruption du Vésuve en 79 ?",
+    "answers": [
+      "Néron",
+      "Titus",
+      "Vespasien",
+      "Trajan"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF162",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle déesse romaine correspond à Artémis chez les Grecs ?",
+    "answers": [
+      "Junon",
+      "Diane",
+      "Minerve",
+      "Vénus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF163",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom de la région antique où vivaient les Hébreux ?",
+    "answers": [
+      "Mésopotamie",
+      "Palestine",
+      "Égypte",
+      "Phénicie"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF164",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu grec du temps, souvent représenté avec une faux ?",
+    "answers": [
+      "Chronos",
+      "Hypnos",
+      "Kairos",
+      "Éros"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF165",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle ville fut détruite par les Grecs pendant la guerre de Troie ?",
+    "answers": [
+      "Troie",
+      "Sparte",
+      "Carthage",
+      "Athènes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF166",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom de la déesse romaine de la chasse ?",
+    "answers": [
+      "Vénus",
+      "Diane",
+      "Minerve",
+      "Junon"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF167",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel philosophe grec est connu pour avoir enseigné en se promenant (péripatéticien) ?",
+    "answers": [
+      "Platon",
+      "Aristote",
+      "Socrate",
+      "Épicure"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF168",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu romain des commencements et des portes ?",
+    "answers": [
+      "Saturne",
+      "Janus",
+      "Jupiter",
+      "Pluton"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF169",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel roi grec mena la résistance contre les Perses aux Thermopyles ?",
+    "answers": [
+      "Léonidas",
+      "Thémistocle",
+      "Périclès",
+      "Miltiade"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF170",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom de la ville antique de Mésopotamie où se trouvait la tour de Babel ?",
+    "answers": [
+      "Ur",
+      "Babylone",
+      "Ninive",
+      "Akkad"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF171",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu grec des arts, de la lumière et de la musique ?",
+    "answers": [
+      "Arès",
+      "Apollon",
+      "Hermès",
       "Zeus"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "id": "q164",
+    "id": "qAF172",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Qui a dirigé l’armée d’Hannibal contre Rome ?",
+    "text": "Quelle est la capitale de l’Empire assyrien ?",
     "answers": [
-      "Hannibal Barca",
-      "Scipion",
-      "Philippe V",
-      "Pyrrhus"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q165",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique a construit les pyramides de Gizeh ?",
-    "answers": [
-      "Inca",
-      "Égyptienne",
-      "Maya",
-      "Sumérienne"
+      "Ur",
+      "Ninive",
+      "Babylone",
+      "Uruk"
     ],
     "correctIndex": 1
   },
   {
-    "id": "q166",
+    "id": "qAF173",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Quel roi macédonien a conquis l’Empire perse ?",
+    "text": "Quel est le nom de l’empereur romain qui fit construire le Panthéon actuel ?",
     "answers": [
-      "Alexandre le Grand",
-      "Darius III",
-      "Philippe II",
-      "Cyrus le Grand"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q167",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel roi macédonien a conquis l’Empire perse ?",
-    "answers": [
-      "Cyrus le Grand",
-      "Alexandre le Grand",
-      "Philippe II",
-      "Darius III"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q168",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est associé(e) à la mer ?",
-    "answers": [
-      "Héra",
-      "Hécate",
-      "Némésis",
-      "Poséidon"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q169",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel philosophe grec a enseigné Alexandre le Grand ?",
-    "answers": [
-      "Aristote",
-      "Platon",
-      "Socrate",
-      "Pythagore"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q170",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel philosophe grec a enseigné Alexandre le Grand ?",
-    "answers": [
-      "Pythagore",
-      "Socrate",
-      "Platon",
-      "Aristote"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q171",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui était le premier empereur de Rome ?",
-    "answers": [
-      "César",
-      "Caligula",
       "Auguste",
+      "Hadrien",
+      "Trajan",
       "Néron"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF174",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom de la déesse grecque de la victoire, souvent représentée avec des ailes ?",
+    "answers": [
+      "Némésis",
+      "Niké",
+      "Athéna",
+      "Héra"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAF175",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du roi biblique qui fit construire le temple de Jérusalem ?",
+    "answers": [
+      "Saül",
+      "David",
+      "Salomon",
+      "Josias"
     ],
     "correctIndex": 2
   },
   {
-    "id": "q172",
+    "id": "qAF176",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Dans la mythologie romaine, qui est l'équivalent de Zeus ?",
+    "text": "Quelle cité antique est célèbre pour son théâtre d’Épidaure ?",
     "answers": [
-      "Jupiter",
-      "Mars",
-      "Mercure",
+      "Athènes",
+      "Sparte",
+      "Épidaure",
+      "Corinthe"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "qAF177",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu grec de l’amour ?",
+    "answers": [
+      "Éros",
+      "Hermès",
+      "Dionysos",
       "Apollon"
     ],
     "correctIndex": 0
   },
   {
-    "id": "q173",
+    "id": "qAF178",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Quel est le nom de la guerre entre Sparte et Athènes ?",
+    "text": "Quel est le nom de la déesse romaine protectrice du foyer ?",
     "answers": [
-      "Guerre des Gaules",
-      "Guerre Civile Romaine",
-      "Guerre du Péloponnèse",
-      "Guerre Médique"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q174",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui a dirigé l’armée d’Hannibal contre Rome ?",
-    "answers": [
-      "Scipion",
-      "Hannibal Barca",
-      "Pyrrhus",
-      "Philippe V"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q175",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel philosophe grec a enseigné Alexandre le Grand ?",
-    "answers": [
-      "Aristote",
-      "Platon",
-      "Socrate",
-      "Pythagore"
+      "Vesta",
+      "Diane",
+      "Minerve",
+      "Junon"
     ],
     "correctIndex": 0
   },
   {
-    "id": "q176",
+    "id": "qAF179",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est associé(e) à la mer ?",
+    "text": "Quel est le nom du roi de Macédoine père d’Alexandre le Grand ?",
     "answers": [
-      "Héra",
-      "Némésis",
-      "Hécate",
-      "Poséidon"
+      "Philippe II",
+      "Cassandre",
+      "Antigone",
+      "Perdiccas"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
-    "id": "q177",
+    "id": "qAF180",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Qui était le premier empereur de Rome ?",
+    "text": "Quel est le nom de la déesse égyptienne de la maternité et de la magie ?",
     "answers": [
-      "César",
-      "Auguste",
-      "Caligula",
-      "Néron"
+      "Isis",
+      "Nout",
+      "Hathor",
+      "Sekhmet"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "id": "q178",
+    "id": "qAF181",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Quel philosophe grec a enseigné Alexandre le Grand ?",
+    "text": "Quelle cité fut le centre de la civilisation mycénienne ?",
     "answers": [
-      "Platon",
-      "Pythagore",
-      "Socrate",
-      "Aristote"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q179",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle cité antique est célèbre pour ses Jeux Olympiques ?",
-    "answers": [
+      "Knossos",
+      "Mycènes",
       "Athènes",
-      "Rome",
-      "Olympie",
-      "Sparte"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q180",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie romaine, qui est l'équivalent de Zeus ?",
-    "answers": [
-      "Mercure",
-      "Apollon",
-      "Mars",
-      "Jupiter"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q181",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle cité antique est célèbre pour ses Jeux Olympiques ?",
-    "answers": [
-      "Olympie",
-      "Sparte",
-      "Rome",
-      "Athènes"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q182",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui était le premier empereur de Rome ?",
-    "answers": [
-      "César",
-      "Caligula",
-      "Néron",
-      "Auguste"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q183",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie romaine, qui est l'équivalent de Zeus ?",
-    "answers": [
-      "Jupiter",
-      "Mercure",
-      "Mars",
-      "Apollon"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q184",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie romaine, qui est l'équivalent de Zeus ?",
-    "answers": [
-      "Apollon",
-      "Mars",
-      "Mercure",
-      "Jupiter"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q185",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie romaine, qui est l'équivalent de Zeus ?",
-    "answers": [
-      "Jupiter",
-      "Mercure",
-      "Apollon",
-      "Mars"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q186",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie romaine, qui est l'équivalent de Zeus ?",
-    "answers": [
-      "Apollon",
-      "Jupiter",
-      "Mercure",
-      "Mars"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q187",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique a construit les pyramides de Gizeh ?",
-    "answers": [
-      "Égyptienne",
-      "Inca",
-      "Maya",
-      "Sumérienne"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q188",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel roi macédonien a conquis l’Empire perse ?",
-    "answers": [
-      "Alexandre le Grand",
-      "Cyrus le Grand",
-      "Philippe II",
-      "Darius III"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q189",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel philosophe grec a enseigné Alexandre le Grand ?",
-    "answers": [
-      "Socrate",
-      "Pythagore",
-      "Platon",
-      "Aristote"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q190",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie romaine, qui est l'équivalent de Zeus ?",
-    "answers": [
-      "Jupiter",
-      "Apollon",
-      "Mars",
-      "Mercure"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q191",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui a dirigé l’armée d’Hannibal contre Rome ?",
-    "answers": [
-      "Scipion",
-      "Pyrrhus",
-      "Hannibal Barca",
-      "Philippe V"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q192",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique a construit les pyramides de Gizeh ?",
-    "answers": [
-      "Maya",
-      "Sumérienne",
-      "Inca",
-      "Égyptienne"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q193",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est associé(e) à la mer ?",
-    "answers": [
-      "Poséidon",
-      "Héra",
-      "Hécate",
-      "Némésis"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q194",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel roi macédonien a conquis l’Empire perse ?",
-    "answers": [
-      "Alexandre le Grand",
-      "Cyrus le Grand",
-      "Darius III",
-      "Philippe II"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q195",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel philosophe grec a enseigné Alexandre le Grand ?",
-    "answers": [
-      "Platon",
-      "Aristote",
-      "Socrate",
-      "Pythagore"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q196",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie romaine, qui est l'équivalent de Zeus ?",
-    "answers": [
-      "Jupiter",
-      "Mercure",
-      "Apollon",
-      "Mars"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q197",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui était le premier empereur de Rome ?",
-    "answers": [
-      "Néron",
-      "César",
-      "Caligula",
-      "Auguste"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q198",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique a construit les pyramides de Gizeh ?",
-    "answers": [
-      "Sumérienne",
-      "Inca",
-      "Maya",
-      "Égyptienne"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q199",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique a construit les pyramides de Gizeh ?",
-    "answers": [
-      "Sumérienne",
-      "Inca",
-      "Égyptienne",
-      "Maya"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q200",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel roi macédonien a conquis l’Empire perse ?",
-    "answers": [
-      "Darius III",
-      "Alexandre le Grand",
-      "Philippe II",
-      "Cyrus le Grand"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q201",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui était le premier empereur de Rome ?",
-    "answers": [
-      "César",
-      "Auguste",
-      "Caligula",
-      "Néron"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q202",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel philosophe grec a enseigné Alexandre le Grand ?",
-    "answers": [
-      "Socrate",
-      "Pythagore",
-      "Aristote",
-      "Platon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q203",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie romaine, qui est l'équivalent de Zeus ?",
-    "answers": [
-      "Apollon",
-      "Mars",
-      "Mercure",
-      "Jupiter"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q204",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom de la guerre entre Sparte et Athènes ?",
-    "answers": [
-      "Guerre des Gaules",
-      "Guerre du Péloponnèse",
-      "Guerre Civile Romaine",
-      "Guerre Médique"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q205",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie romaine, qui est l'équivalent de Zeus ?",
-    "answers": [
-      "Mercure",
-      "Apollon",
-      "Mars",
-      "Jupiter"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q206",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique a construit les pyramides de Gizeh ?",
-    "answers": [
-      "Maya",
-      "Égyptienne",
-      "Sumérienne",
-      "Inca"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q207",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel philosophe grec a enseigné Alexandre le Grand ?",
-    "answers": [
-      "Pythagore",
-      "Aristote",
-      "Socrate",
-      "Platon"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q208",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui a dirigé l’armée d’Hannibal contre Rome ?",
-    "answers": [
-      "Hannibal Barca",
-      "Scipion",
-      "Philippe V",
-      "Pyrrhus"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q209",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel philosophe grec a enseigné Alexandre le Grand ?",
-    "answers": [
-      "Socrate",
-      "Pythagore",
-      "Aristote",
-      "Platon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q210",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui a dirigé l’armée d’Hannibal contre Rome ?",
-    "answers": [
-      "Hannibal Barca",
-      "Scipion",
-      "Philippe V",
-      "Pyrrhus"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q211",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) au tonnerre et au ciel ?",
-    "answers": [
-      "Héra",
-      "Hécate",
-      "Zeus",
-      "Némésis"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q212",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie romaine, qui est l'équivalent de Zeus ?",
-    "answers": [
-      "Apollon",
-      "Jupiter",
-      "Mercure",
-      "Mars"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q213",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom de la guerre entre Sparte et Athènes ?",
-    "answers": [
-      "Guerre Civile Romaine",
-      "Guerre du Péloponnèse",
-      "Guerre Médique",
-      "Guerre des Gaules"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q214",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel roi macédonien a conquis l’Empire perse ?",
-    "answers": [
-      "Alexandre le Grand",
-      "Philippe II",
-      "Darius III",
-      "Cyrus le Grand"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q215",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est associé(e) à la mer ?",
-    "answers": [
-      "Hécate",
-      "Poséidon",
-      "Némésis",
-      "Héra"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q216",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle cité antique est célèbre pour ses Jeux Olympiques ?",
-    "answers": [
-      "Olympie",
-      "Athènes",
-      "Sparte",
-      "Rome"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q217",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique a construit les pyramides de Gizeh ?",
-    "answers": [
-      "Maya",
-      "Sumérienne",
-      "Égyptienne",
-      "Inca"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q218",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie romaine, qui est l'équivalent de Zeus ?",
-    "answers": [
-      "Jupiter",
-      "Mars",
-      "Apollon",
-      "Mercure"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q219",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel philosophe grec a enseigné Alexandre le Grand ?",
-    "answers": [
-      "Pythagore",
-      "Aristote",
-      "Socrate",
-      "Platon"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q220",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle cité antique est célèbre pour ses Jeux Olympiques ?",
-    "answers": [
-      "Rome",
-      "Sparte",
-      "Olympie",
-      "Athènes"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q221",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom de la guerre entre Sparte et Athènes ?",
-    "answers": [
-      "Guerre Civile Romaine",
-      "Guerre du Péloponnèse",
-      "Guerre Médique",
-      "Guerre des Gaules"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q222",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui était le premier empereur de Rome ?",
-    "answers": [
-      "César",
-      "Auguste",
-      "Caligula",
-      "Néron"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q223",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel philosophe grec a enseigné Alexandre le Grand ?",
-    "answers": [
-      "Aristote",
-      "Socrate",
-      "Pythagore",
-      "Platon"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q224",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom de la guerre entre Sparte et Athènes ?",
-    "answers": [
-      "Guerre du Péloponnèse",
-      "Guerre Civile Romaine",
-      "Guerre des Gaules",
-      "Guerre Médique"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q225",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel philosophe grec a enseigné Alexandre le Grand ?",
-    "answers": [
-      "Socrate",
-      "Aristote",
-      "Pythagore",
-      "Platon"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q226",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique a construit les pyramides de Gizeh ?",
-    "answers": [
-      "Égyptienne",
-      "Maya",
-      "Sumérienne",
-      "Inca"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q227",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom de la guerre entre Sparte et Athènes ?",
-    "answers": [
-      "Guerre Médique",
-      "Guerre Civile Romaine",
-      "Guerre du Péloponnèse",
-      "Guerre des Gaules"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q228",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est associé(e) à la mer ?",
-    "answers": [
-      "Némésis",
-      "Poséidon",
-      "Hécate",
-      "Héra"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q229",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel philosophe grec a enseigné Alexandre le Grand ?",
-    "answers": [
-      "Platon",
-      "Socrate",
-      "Pythagore",
-      "Aristote"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q230",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui a dirigé l’armée d’Hannibal contre Rome ?",
-    "answers": [
-      "Pyrrhus",
-      "Hannibal Barca",
-      "Scipion",
-      "Philippe V"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q231",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel philosophe grec a enseigné Alexandre le Grand ?",
-    "answers": [
-      "Aristote",
-      "Platon",
-      "Pythagore",
-      "Socrate"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q232",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel roi macédonien a conquis l’Empire perse ?",
-    "answers": [
-      "Darius III",
-      "Cyrus le Grand",
-      "Alexandre le Grand",
-      "Philippe II"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q233",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui a dirigé l’armée d’Hannibal contre Rome ?",
-    "answers": [
-      "Hannibal Barca",
-      "Scipion",
-      "Philippe V",
-      "Pyrrhus"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q234",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) au tonnerre et au ciel ?",
-    "answers": [
-      "Némésis",
-      "Héra",
-      "Zeus",
-      "Hécate"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q235",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel roi macédonien a conquis l’Empire perse ?",
-    "answers": [
-      "Darius III",
-      "Philippe II",
-      "Alexandre le Grand",
-      "Cyrus le Grand"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q236",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom de la guerre entre Sparte et Athènes ?",
-    "answers": [
-      "Guerre du Péloponnèse",
-      "Guerre Civile Romaine",
-      "Guerre Médique",
-      "Guerre des Gaules"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q237",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom de la guerre entre Sparte et Athènes ?",
-    "answers": [
-      "Guerre du Péloponnèse",
-      "Guerre Civile Romaine",
-      "Guerre Médique",
-      "Guerre des Gaules"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q238",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui était le premier empereur de Rome ?",
-    "answers": [
-      "César",
-      "Caligula",
-      "Néron",
-      "Auguste"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q239",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui était le premier empereur de Rome ?",
-    "answers": [
-      "Néron",
-      "Auguste",
-      "César",
-      "Caligula"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q240",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel philosophe grec a enseigné Alexandre le Grand ?",
-    "answers": [
-      "Aristote",
-      "Platon",
-      "Socrate",
-      "Pythagore"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q241",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel philosophe grec a enseigné Alexandre le Grand ?",
-    "answers": [
-      "Aristote",
-      "Socrate",
-      "Pythagore",
-      "Platon"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q242",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est associé(e) à la mer ?",
-    "answers": [
-      "Poséidon",
-      "Némésis",
-      "Hécate",
-      "Héra"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q243",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) au tonnerre et au ciel ?",
-    "answers": [
-      "Hécate",
-      "Némésis",
-      "Zeus",
-      "Héra"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q244",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est associé(e) à la mer ?",
-    "answers": [
-      "Hécate",
-      "Poséidon",
-      "Némésis",
-      "Héra"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q245",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel roi macédonien a conquis l’Empire perse ?",
-    "answers": [
-      "Philippe II",
-      "Alexandre le Grand",
-      "Darius III",
-      "Cyrus le Grand"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q246",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle cité antique est célèbre pour ses Jeux Olympiques ?",
-    "answers": [
-      "Athènes",
-      "Rome",
-      "Olympie",
-      "Sparte"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q247",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom de la guerre entre Sparte et Athènes ?",
-    "answers": [
-      "Guerre Médique",
-      "Guerre des Gaules",
-      "Guerre Civile Romaine",
-      "Guerre du Péloponnèse"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q248",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui était le premier empereur de Rome ?",
-    "answers": [
-      "Auguste",
-      "Caligula",
-      "César",
-      "Néron"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q249",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui a dirigé l’armée d’Hannibal contre Rome ?",
-    "answers": [
-      "Scipion",
-      "Philippe V",
-      "Pyrrhus",
-      "Hannibal Barca"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q250",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel philosophe grec a enseigné Alexandre le Grand ?",
-    "answers": [
-      "Platon",
-      "Pythagore",
-      "Aristote",
-      "Socrate"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q251",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) au tonnerre et au ciel ?",
-    "answers": [
-      "Hécate",
-      "Zeus",
-      "Héra",
-      "Némésis"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q252",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie romaine, qui est l'équivalent de Zeus ?",
-    "answers": [
-      "Mars",
-      "Mercure",
-      "Jupiter",
-      "Apollon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q253",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique a construit les pyramides de Gizeh ?",
-    "answers": [
-      "Maya",
-      "Sumérienne",
-      "Inca",
-      "Égyptienne"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q254",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel roi macédonien a conquis l’Empire perse ?",
-    "answers": [
-      "Cyrus le Grand",
-      "Darius III",
-      "Alexandre le Grand",
-      "Philippe II"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q255",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est associé(e) à la mer ?",
-    "answers": [
-      "Némésis",
-      "Hécate",
-      "Poséidon",
-      "Héra"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q256",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel philosophe grec a enseigné Alexandre le Grand ?",
-    "answers": [
-      "Aristote",
-      "Pythagore",
-      "Platon",
-      "Socrate"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q257",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie romaine, qui est l'équivalent de Zeus ?",
-    "answers": [
-      "Apollon",
-      "Mars",
-      "Jupiter",
-      "Mercure"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q258",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel philosophe grec a enseigné Alexandre le Grand ?",
-    "answers": [
-      "Socrate",
-      "Platon",
-      "Pythagore",
-      "Aristote"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q259",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est associé(e) à la mer ?",
-    "answers": [
-      "Hécate",
-      "Poséidon",
-      "Némésis",
-      "Héra"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q260",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui a dirigé l’armée d’Hannibal contre Rome ?",
-    "answers": [
-      "Hannibal Barca",
-      "Philippe V",
-      "Scipion",
-      "Pyrrhus"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q261",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui était le premier empereur de Rome ?",
-    "answers": [
-      "Néron",
-      "César",
-      "Auguste",
-      "Caligula"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q262",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui était le premier empereur de Rome ?",
-    "answers": [
-      "César",
-      "Auguste",
-      "Néron",
-      "Caligula"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q263",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel roi macédonien a conquis l’Empire perse ?",
-    "answers": [
-      "Alexandre le Grand",
-      "Philippe II",
-      "Cyrus le Grand",
-      "Darius III"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q264",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) au tonnerre et au ciel ?",
-    "answers": [
-      "Hécate",
-      "Némésis",
-      "Héra",
-      "Zeus"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q265",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel roi macédonien a conquis l’Empire perse ?",
-    "answers": [
-      "Cyrus le Grand",
-      "Philippe II",
-      "Darius III",
-      "Alexandre le Grand"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q266",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie romaine, qui est l'équivalent de Zeus ?",
-    "answers": [
-      "Mars",
-      "Mercure",
-      "Apollon",
-      "Jupiter"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q267",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui était le premier empereur de Rome ?",
-    "answers": [
-      "César",
-      "Caligula",
-      "Néron",
-      "Auguste"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q268",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique a construit les pyramides de Gizeh ?",
-    "answers": [
-      "Égyptienne",
-      "Sumérienne",
-      "Inca",
-      "Maya"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q269",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie romaine, qui est l'équivalent de Zeus ?",
-    "answers": [
-      "Apollon",
-      "Jupiter",
-      "Mars",
-      "Mercure"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q270",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique a construit les pyramides de Gizeh ?",
-    "answers": [
-      "Sumérienne",
-      "Inca",
-      "Égyptienne",
-      "Maya"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q271",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui a dirigé l’armée d’Hannibal contre Rome ?",
-    "answers": [
-      "Philippe V",
-      "Pyrrhus",
-      "Hannibal Barca",
-      "Scipion"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q272",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom de la guerre entre Sparte et Athènes ?",
-    "answers": [
-      "Guerre du Péloponnèse",
-      "Guerre Médique",
-      "Guerre des Gaules",
-      "Guerre Civile Romaine"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q273",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique a construit les pyramides de Gizeh ?",
-    "answers": [
-      "Maya",
-      "Sumérienne",
-      "Égyptienne",
-      "Inca"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q274",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle cité antique est célèbre pour ses Jeux Olympiques ?",
-    "answers": [
-      "Rome",
-      "Sparte",
-      "Olympie",
-      "Athènes"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q275",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique a construit les pyramides de Gizeh ?",
-    "answers": [
-      "Maya",
-      "Sumérienne",
-      "Inca",
-      "Égyptienne"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q276",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom de la guerre entre Sparte et Athènes ?",
-    "answers": [
-      "Guerre des Gaules",
-      "Guerre Médique",
-      "Guerre du Péloponnèse",
-      "Guerre Civile Romaine"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q277",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) au tonnerre et au ciel ?",
-    "answers": [
-      "Héra",
-      "Némésis",
-      "Zeus",
-      "Hécate"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q278",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel philosophe grec a enseigné Alexandre le Grand ?",
-    "answers": [
-      "Platon",
-      "Socrate",
-      "Pythagore",
-      "Aristote"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q279",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel roi macédonien a conquis l’Empire perse ?",
-    "answers": [
-      "Alexandre le Grand",
-      "Philippe II",
-      "Darius III",
-      "Cyrus le Grand"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q280",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est associé(e) à la mer ?",
-    "answers": [
-      "Poséidon",
-      "Hécate",
-      "Héra",
-      "Némésis"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q281",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel roi macédonien a conquis l’Empire perse ?",
-    "answers": [
-      "Philippe II",
-      "Alexandre le Grand",
-      "Cyrus le Grand",
-      "Darius III"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q282",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est associé(e) à la mer ?",
-    "answers": [
-      "Hécate",
-      "Némésis",
-      "Poséidon",
-      "Héra"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q283",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui a dirigé l’armée d’Hannibal contre Rome ?",
-    "answers": [
-      "Scipion",
-      "Pyrrhus",
-      "Philippe V",
-      "Hannibal Barca"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q284",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) au tonnerre et au ciel ?",
-    "answers": [
-      "Zeus",
-      "Némésis",
-      "Héra",
-      "Hécate"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q285",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est associé(e) à la mer ?",
-    "answers": [
-      "Héra",
-      "Hécate",
-      "Poséidon",
-      "Némésis"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q286",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui a dirigé l’armée d’Hannibal contre Rome ?",
-    "answers": [
-      "Hannibal Barca",
-      "Pyrrhus",
-      "Scipion",
-      "Philippe V"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q287",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel roi macédonien a conquis l’Empire perse ?",
-    "answers": [
-      "Darius III",
-      "Alexandre le Grand",
-      "Cyrus le Grand",
-      "Philippe II"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q288",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel philosophe grec a enseigné Alexandre le Grand ?",
-    "answers": [
-      "Aristote",
-      "Platon",
-      "Socrate",
-      "Pythagore"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q289",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle cité antique est célèbre pour ses Jeux Olympiques ?",
-    "answers": [
-      "Athènes",
-      "Rome",
-      "Sparte",
       "Olympie"
     ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q290",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui était le premier empereur de Rome ?",
-    "answers": [
-      "Caligula",
-      "Auguste",
-      "César",
-      "Néron"
-    ],
     "correctIndex": 1
   },
   {
-    "id": "q291",
+    "id": "qAF182",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Quel est le nom de la guerre entre Sparte et Athènes ?",
+    "text": "Quel est le nom du dieu romain de la mer ?",
     "answers": [
-      "Guerre des Gaules",
-      "Guerre Médique",
-      "Guerre du Péloponnèse",
-      "Guerre Civile Romaine"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q292",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie romaine, qui est l'équivalent de Zeus ?",
-    "answers": [
-      "Apollon",
-      "Mercure",
-      "Mars",
-      "Jupiter"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q293",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est associé(e) à la mer ?",
-    "answers": [
-      "Héra",
-      "Hécate",
-      "Poséidon",
-      "Némésis"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q294",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) au tonnerre et au ciel ?",
-    "answers": [
-      "Héra",
-      "Zeus",
-      "Némésis",
-      "Hécate"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q295",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel roi macédonien a conquis l’Empire perse ?",
-    "answers": [
-      "Cyrus le Grand",
-      "Darius III",
-      "Alexandre le Grand",
-      "Philippe II"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q296",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel roi macédonien a conquis l’Empire perse ?",
-    "answers": [
-      "Darius III",
-      "Cyrus le Grand",
-      "Alexandre le Grand",
-      "Philippe II"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q297",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique a construit les pyramides de Gizeh ?",
-    "answers": [
-      "Inca",
-      "Sumérienne",
-      "Égyptienne",
-      "Maya"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q298",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique a construit les pyramides de Gizeh ?",
-    "answers": [
-      "Égyptienne",
-      "Sumérienne",
-      "Maya",
-      "Inca"
+      "Neptune",
+      "Jupiter",
+      "Pluton",
+      "Saturne"
     ],
     "correctIndex": 0
   },
   {
-    "id": "q299",
+    "id": "qAF183",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Dans la mythologie grecque, qui est le dieu ou la déesse associé(e) au tonnerre et au ciel ?",
+    "text": "Quel est le nom de la déesse grecque de la sagesse ?",
     "answers": [
-      "Hécate",
-      "Zeus",
-      "Némésis",
+      "Aphrodite",
+      "Athéna",
+      "Artémis",
       "Héra"
     ],
     "correctIndex": 1
   },
   {
-    "id": "q300",
+    "id": "qAF184",
     "category": "Antiquité",
     "difficulty": "Facile",
-    "text": "Qui était le premier empereur de Rome ?",
+    "text": "Quelle est la cité antique où se trouvait le sanctuaire d’Apollon à Delphes ?",
     "answers": [
-      "Auguste",
-      "Caligula",
-      "César",
-      "Néron"
+      "Delphes",
+      "Olympie",
+      "Athènes",
+      "Sparte"
     ],
     "correctIndex": 0
+  },
+  {
+    "id": "qAF185",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu grec des voleurs et messager des dieux ?",
+    "answers": [
+      "Hermès",
+      "Apollon",
+      "Arès",
+      "Poséidon"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF186",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle est la mer qui borde l’Égypte au nord ?",
+    "answers": [
+      "Mer Égée",
+      "Mer Noire",
+      "Mer Méditerranée",
+      "Mer Rouge"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "qAF187",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom de l’empereur romain célèbre pour ses campagnes en Dacie ?",
+    "answers": [
+      "Trajan",
+      "Auguste",
+      "Néron",
+      "Claude"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF188",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom de la première écriture égyptienne ?",
+    "answers": [
+      "Hiéroglyphes",
+      "Alphabet phénicien",
+      "Cunéiforme",
+      "Latin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF189",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du roi de Juda vainqueur de Goliath ?",
+    "answers": [
+      "Salomon",
+      "Saül",
+      "David",
+      "Josias"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "qAF190",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom de la déesse grecque de l’amour et de la beauté ?",
+    "answers": [
+      "Artémis",
+      "Athéna",
+      "Aphrodite",
+      "Héra"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "qAF191",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu romain des enfers ?",
+    "answers": [
+      "Pluton",
+      "Neptune",
+      "Jupiter",
+      "Mars"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF192",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle est la capitale de l’Empire perse achéménide sous Darius Ier ?",
+    "answers": [
+      "Babylone",
+      "Suse",
+      "Persépolis",
+      "Ecbatane"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "qAF193",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu grec du vin ?",
+    "answers": [
+      "Arès",
+      "Apollon",
+      "Dionysos",
+      "Hermès"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "qAF194",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle cité romaine fut détruite par l’éruption du Vésuve en 79 ?",
+    "answers": [
+      "Capoue",
+      "Ostie",
+      "Pompéi",
+      "Carthage"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "qAF195",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom de la déesse grecque de la chasse ?",
+    "answers": [
+      "Artémis",
+      "Athéna",
+      "Aphrodite",
+      "Héra"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF196",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom de l’empereur romain successeur de César et fondateur du Principat ?",
+    "answers": [
+      "Néron",
+      "Trajan",
+      "Auguste",
+      "Caligula"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "qAF197",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du héros grec qui tua le Minotaure ?",
+    "answers": [
+      "Héraclès",
+      "Jason",
+      "Thésée",
+      "Achille"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "qAF198",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle est la cité antique connue pour son colosse, une des sept merveilles ?",
+    "answers": [
+      "Rhodes",
+      "Athènes",
+      "Olympie",
+      "Corinthe"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF199",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du fleuve qui traverse l’Égypte ?",
+    "answers": [
+      "Nil",
+      "Euphrate",
+      "Tigre",
+      "Jourdain"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAF200",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu grec des mers ?",
+    "answers": [
+      "Arès",
+      "Hermès",
+      "Poséidon",
+      "Zeus"
+    ],
+    "correctIndex": 2
   }
 ]
