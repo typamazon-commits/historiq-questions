@@ -1,3902 +1,1638 @@
 [
   {
-    "id": "q1",
+    "id": "qAM1",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code d'Hammurabi",
-      "Code de Justinien",
-      "Code de Théodose",
-      "Code de Napoléon"
-    ],
-    "correctIndex": 0
+    "text": "Quelle bataille de 480 av. J.-C. opposa les Grecs à l’armée perse de Xerxès dans un défilé étroit ?",
+    "answers": ["Marathon", "Salamine", "Platées", "Thermopyles"],
+    "correctIndex": 3
   },
   {
-    "id": "q2",
+    "id": "qAM2",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel pharaon est connu pour avoir tenté une révolution religieuse en Égypte ?",
-    "answers": [
-      "Akhenaton",
-      "Ramsès II",
-      "Thoutmôsis III",
-      "Toutânkhamon"
-    ],
-    "correctIndex": 0
+    "text": "Quel pharaon a instauré le culte exclusif du dieu Aton ?",
+    "answers": ["Ramsès II", "Akhenaton", "Toutânkhamon", "Khéops"],
+    "correctIndex": 1
   },
   {
-    "id": "q3",
+    "id": "qAM3",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel pharaon est connu pour avoir tenté une révolution religieuse en Égypte ?",
-    "answers": [
-      "Akhenaton",
-      "Ramsès II",
-      "Toutânkhamon",
-      "Thoutmôsis III"
-    ],
+    "text": "Quelle institution politique romaine était composée d’anciens magistrats ?",
+    "answers": ["Le Sénat", "Les Comices", "Le Tribunat", "Le Consulat"],
     "correctIndex": 0
   },
   {
-    "id": "q4",
+    "id": "qAM4",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel mathématicien grec est célèbre pour son théorème sur les triangles rectangles ?",
-    "answers": [
-      "Euclide",
-      "Pythagore",
-      "Archimède",
-      "Thalès"
-    ],
+    "text": "Quelle cité grecque dirigeait la Ligue de Délos au Ve siècle av. J.-C. ?",
+    "answers": ["Sparte", "Athènes", "Corinthe", "Thèbes"],
     "correctIndex": 1
   },
   {
-    "id": "q5",
+    "id": "qAM5",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui a écrit 'La République' ?",
-    "answers": [
-      "Socrate",
-      "Aristote",
-      "Platon",
-      "Héraclite"
-    ],
+    "text": "Quel roi perse est vaincu par Alexandre le Grand à Issos en 333 av. J.-C. ?",
+    "answers": ["Cyrus II", "Xerxès Ier", "Darius III", "Artaxerxès II"],
     "correctIndex": 2
   },
+
   {
-    "id": "q6",
+    "id": "qAM6",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code de Napoléon",
-      "Code d'Hammurabi",
-      "Code de Théodose",
-      "Code de Justinien"
-    ],
+    "text": "Quel historien grec est surnommé le « père de l’Histoire » ?",
+    "answers": ["Thucydide", "Hérodote", "Xénophon", "Polybe"],
     "correctIndex": 1
-  },
-  {
-    "id": "q7",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Qui était le chef de la ligue achéenne au IIIe siècle av. J.-C. ?",
-    "answers": [
-      "Alcibiade",
-      "Périclès",
-      "Démosthène",
-      "Aratos de Sicyone"
-    ],
-    "correctIndex": 3
   },
   {
-    "id": "q8",
+    "id": "qAM7",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui était le chef de la ligue achéenne au IIIe siècle av. J.-C. ?",
-    "answers": [
-      "Aratos de Sicyone",
-      "Périclès",
-      "Alcibiade",
-      "Démosthène"
-    ],
-    "correctIndex": 0
+    "text": "Quel empereur romain instaura la tétrarchie à la fin du IIIe siècle ?",
+    "answers": ["Constantin", "Dioclétien", "Hadrien", "Claude"],
+    "correctIndex": 1
   },
   {
-    "id": "q9",
+    "id": "qAM8",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui a écrit 'La République' ?",
-    "answers": [
-      "Socrate",
-      "Aristote",
-      "Héraclite",
-      "Platon"
-    ],
-    "correctIndex": 3
+    "text": "Quel philosophe grec a fondé l’école du Lycée à Athènes ?",
+    "answers": ["Platon", "Socrate", "Aristote", "Épicure"],
+    "correctIndex": 2
   },
   {
-    "id": "q10",
+    "id": "qAM9",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code d'Hammurabi",
-      "Code de Napoléon",
-      "Code de Théodose",
-      "Code de Justinien"
-    ],
-    "correctIndex": 0
+    "text": "Quelle guerre opposa Rome et Carthage sur plus d’un siècle ?",
+    "answers": ["Guerre sociale", "Guerres puniques", "Guerres civiles", "Guerres médiques"],
+    "correctIndex": 1
   },
   {
-    "id": "q11",
+    "id": "qAM10",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui était le chef de la ligue achéenne au IIIe siècle av. J.-C. ?",
-    "answers": [
-      "Démosthène",
-      "Aratos de Sicyone",
-      "Périclès",
-      "Alcibiade"
-    ],
+    "text": "Quel empereur romain fonda le Principat ?",
+    "answers": ["Jules César", "Auguste", "Tibère", "Caligula"],
     "correctIndex": 1
   },
+
   {
-    "id": "q12",
+    "id": "qAM11",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel mathématicien grec est célèbre pour son théorème sur les triangles rectangles ?",
-    "answers": [
-      "Pythagore",
-      "Thalès",
-      "Archimède",
-      "Euclide"
-    ],
-    "correctIndex": 0
+    "text": "Quelle bataille navale de 480 av. J.-C. assura la victoire grecque contre les Perses ?",
+    "answers": ["Mycale", "Salamine", "Platées", "Artémision"],
+    "correctIndex": 1
   },
   {
-    "id": "q13",
+    "id": "qAM12",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Pompéi",
-      "Athènes",
-      "Carthage",
-      "Babylone"
-    ],
-    "correctIndex": 0
+    "text": "Quel général romain forma le premier triumvirat avec Pompée et Crassus ?",
+    "answers": ["Cicéron", "Jules César", "Marc Antoine", "Octave"],
+    "correctIndex": 1
   },
   {
-    "id": "q14",
+    "id": "qAM13",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui a fondé la dynastie des Han en Chine ?",
-    "answers": [
-      "Qin Shi Huang",
-      "Wu Zetian",
-      "Liu Bang",
-      "Sun Tzu"
-    ],
+    "text": "Quel roi macédonien fut assassiné en 336 av. J.-C. ?",
+    "answers": ["Antigone", "Cassandre", "Philippe II", "Perdiccas"],
     "correctIndex": 2
   },
   {
-    "id": "q15",
+    "id": "qAM14",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Babylone",
-      "Athènes",
-      "Pompéi",
-      "Carthage"
-    ],
-    "correctIndex": 2
+    "text": "Quelle réforme de Clisthène posa les bases de la démocratie athénienne ?",
+    "answers": ["Ostracisme", "Répartition en dèmes", "Tyrannie", "Suffrage censitaire"],
+    "correctIndex": 1
   },
   {
-    "id": "q16",
+    "id": "qAM15",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui a fondé la dynastie des Han en Chine ?",
-    "answers": [
-      "Sun Tzu",
-      "Liu Bang",
-      "Wu Zetian",
-      "Qin Shi Huang"
-    ],
+    "text": "Quel auteur latin est l’auteur de l’Énéide ?",
+    "answers": ["Ovide", "Virgile", "Horace", "Tite-Live"],
     "correctIndex": 1
   },
+
   {
-    "id": "q17",
+    "id": "qAM16",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel mathématicien grec est célèbre pour son théorème sur les triangles rectangles ?",
-    "answers": [
-      "Thalès",
-      "Archimède",
-      "Pythagore",
-      "Euclide"
-    ],
+    "text": "Quelle cité grecque domina la Grèce après la bataille de Leuctres ?",
+    "answers": ["Athènes", "Sparte", "Thèbes", "Corinthe"],
     "correctIndex": 2
   },
   {
-    "id": "q18",
+    "id": "qAM17",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui a fondé la dynastie des Han en Chine ?",
-    "answers": [
-      "Wu Zetian",
-      "Qin Shi Huang",
-      "Liu Bang",
-      "Sun Tzu"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain légalisa le christianisme par l’édit de Milan ?",
+    "answers": ["Dioclétien", "Constantin", "Théodose", "Trajan"],
+    "correctIndex": 1
   },
   {
-    "id": "q19",
+    "id": "qAM18",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel général romain a vaincu Vercingétorix à Alésia ?",
-    "answers": [
-      "Crassus",
-      "Scipion l'Africain",
-      "Pompée",
-      "Jules César"
-    ],
-    "correctIndex": 3
+    "text": "Quel peuple ancien a fondé la ville de Massalia (Marseille) ?",
+    "answers": ["Romains", "Celtes", "Grecs", "Phéniciens"],
+    "correctIndex": 2
   },
   {
-    "id": "q20",
+    "id": "qAM19",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Pompéi",
-      "Babylone",
-      "Carthage",
-      "Athènes"
-    ],
-    "correctIndex": 0
+    "text": "Quel empereur romain fut assassiné aux Ides de mars ?",
+    "answers": ["Auguste", "Jules César", "Tibère", "Néron"],
+    "correctIndex": 1
   },
   {
-    "id": "q21",
+    "id": "qAM20",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Carthage",
-      "Pompéi",
-      "Athènes",
-      "Babylone"
-    ],
+    "text": "Quel site religieux grec était dédié à Apollon et à son oracle ?",
+    "answers": ["Olympie", "Delphes", "Délos", "Éleusis"],
     "correctIndex": 1
   },
+
   {
-    "id": "q22",
+    "id": "qAM21",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui était le chef de la ligue achéenne au IIIe siècle av. J.-C. ?",
-    "answers": [
-      "Périclès",
-      "Alcibiade",
-      "Démosthène",
-      "Aratos de Sicyone"
-    ],
-    "correctIndex": 3
+    "text": "Quelle bataille mit fin aux guerres médiques en 479 av. J.-C. ?",
+    "answers": ["Marathon", "Salamine", "Platées", "Mycale"],
+    "correctIndex": 2
   },
   {
-    "id": "q23",
+    "id": "qAM22",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui était le chef de la ligue achéenne au IIIe siècle av. J.-C. ?",
-    "answers": [
-      "Alcibiade",
-      "Démosthène",
-      "Périclès",
-      "Aratos de Sicyone"
-    ],
-    "correctIndex": 3
+    "text": "Quel philosophe grec est le maître de Platon ?",
+    "answers": ["Aristote", "Socrate", "Épicure", "Zénon"],
+    "correctIndex": 1
   },
   {
-    "id": "q24",
+    "id": "qAM23",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel mathématicien grec est célèbre pour son théorème sur les triangles rectangles ?",
-    "answers": [
-      "Euclide",
-      "Archimède",
-      "Pythagore",
-      "Thalès"
-    ],
+    "text": "Quelle institution romaine protégeait les plébéiens ?",
+    "answers": ["Le Sénat", "Le Consulat", "Le Tribunat", "La Censure"],
     "correctIndex": 2
   },
   {
-    "id": "q25",
+    "id": "qAM24",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui a fondé la dynastie des Han en Chine ?",
-    "answers": [
-      "Qin Shi Huang",
-      "Wu Zetian",
-      "Liu Bang",
-      "Sun Tzu"
-    ],
-    "correctIndex": 2
+    "text": "Quel roi babylonien est connu pour son célèbre code de lois ?",
+    "answers": ["Sargon", "Hammurabi", "Nabuchodonosor II", "Assurbanipal"],
+    "correctIndex": 1
   },
   {
-    "id": "q26",
+    "id": "qAM25",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Pompéi",
-      "Babylone",
-      "Carthage",
-      "Athènes"
-    ],
-    "correctIndex": 0
+    "text": "Quelle bataille opposa Hannibal aux Romains en 216 av. J.-C. ?",
+    "answers": ["Zama", "Trébie", "Cannes", "Métauros"],
+    "correctIndex": 2
   },
+
   {
-    "id": "q27",
+    "id": "qAM26",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel roi perse a affronté Alexandre le Grand ?",
-    "answers": [
-      "Cyrus le Grand",
-      "Darius III",
-      "Darius Ier",
-      "Xerxès Ier"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain construisit le mur en Bretagne du Nord ?",
+    "answers": ["Claude", "Trajan", "Hadrien", "Domitien"],
+    "correctIndex": 2
   },
   {
-    "id": "q28",
+    "id": "qAM27",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui a fondé la dynastie des Han en Chine ?",
-    "answers": [
-      "Wu Zetian",
-      "Liu Bang",
-      "Qin Shi Huang",
-      "Sun Tzu"
-    ],
+    "text": "Quel historien grec a raconté la guerre du Péloponnèse ?",
+    "answers": ["Hérodote", "Thucydide", "Xénophon", "Polybe"],
     "correctIndex": 1
   },
   {
-    "id": "q29",
+    "id": "qAM28",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui était le chef de la ligue achéenne au IIIe siècle av. J.-C. ?",
-    "answers": [
-      "Démosthène",
-      "Alcibiade",
-      "Aratos de Sicyone",
-      "Périclès"
-    ],
-    "correctIndex": 2
+    "text": "Quelle réforme romaine mit fin aux conflits entre patriciens et plébéiens ?",
+    "answers": ["Lois des Douze Tables", "Réformes de Sylla", "Édit de Caracalla", "Tétrarchie"],
+    "correctIndex": 0
   },
   {
-    "id": "q30",
+    "id": "qAM29",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel roi perse a affronté Alexandre le Grand ?",
-    "answers": [
-      "Xerxès Ier",
-      "Darius Ier",
-      "Cyrus le Grand",
-      "Darius III"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain régna lors de l’éruption du Vésuve en 79 ?",
+    "answers": ["Vespasien", "Titus", "Domitien", "Néron"],
+    "correctIndex": 1
   },
   {
-    "id": "q31",
+    "id": "qAM30",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel roi perse a affronté Alexandre le Grand ?",
-    "answers": [
-      "Cyrus le Grand",
-      "Darius III",
-      "Xerxès Ier",
-      "Darius Ier"
-    ],
-    "correctIndex": 1
+    "text": "Quelle cité grecque était l’ennemie principale d’Athènes durant la guerre du Péloponnèse ?",
+    "answers": ["Corinthe", "Thèbes", "Sparte", "Argos"],
+    "correctIndex": 2
   },
+
   {
-    "id": "q32",
+    "id": "qAM31",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel roi perse a affronté Alexandre le Grand ?",
-    "answers": [
-      "Darius III",
-      "Xerxès Ier",
-      "Darius Ier",
-      "Cyrus le Grand"
-    ],
-    "correctIndex": 0
+    "text": "Quel empereur romain fit assassiner Sénèque ?",
+    "answers": ["Claude", "Néron", "Caligula", "Domitien"],
+    "correctIndex": 1
   },
   {
-    "id": "q33",
+    "id": "qAM32",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Athènes",
-      "Carthage",
-      "Babylone",
-      "Pompéi"
-    ],
-    "correctIndex": 3
+    "text": "Quelle civilisation est associée à la ville de Persépolis ?",
+    "answers": ["Assyrienne", "Babylonienne", "Perse", "Hittite"],
+    "correctIndex": 2
   },
   {
-    "id": "q34",
+    "id": "qAM33",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui a écrit 'La République' ?",
-    "answers": [
-      "Héraclite",
-      "Aristote",
-      "Platon",
-      "Socrate"
-    ],
+    "text": "Quel empereur romain accorda la citoyenneté romaine à tous les hommes libres ?",
+    "answers": ["Auguste", "Trajan", "Caracalla", "Dioclétien"],
     "correctIndex": 2
   },
   {
-    "id": "q35",
+    "id": "qAM34",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui était le chef de la ligue achéenne au IIIe siècle av. J.-C. ?",
-    "answers": [
-      "Alcibiade",
-      "Aratos de Sicyone",
-      "Périclès",
-      "Démosthène"
-    ],
+    "text": "Quel dieu grec était vénéré dans les mystères d’Éleusis ?",
+    "answers": ["Apollon", "Déméter", "Athéna", "Artémis"],
     "correctIndex": 1
   },
   {
-    "id": "q36",
+    "id": "qAM35",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel roi perse a affronté Alexandre le Grand ?",
-    "answers": [
-      "Darius Ier",
-      "Darius III",
-      "Xerxès Ier",
-      "Cyrus le Grand"
-    ],
+    "text": "Quel empereur romain est connu pour sa philosophie stoïcienne ?",
+    "answers": ["Hadrien", "Marc Aurèle", "Trajan", "Titus"],
     "correctIndex": 1
   },
+
   {
-    "id": "q37",
+    "id": "qAM36",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Carthage",
-      "Athènes",
-      "Pompéi",
-      "Babylone"
-    ],
+    "text": "Quelle bataille opposa Alexandre le Grand à Darius III en 331 av. J.-C. ?",
+    "answers": ["Issos", "Granicus", "Gaugamèles", "Hydaspe"],
     "correctIndex": 2
   },
   {
-    "id": "q38",
+    "id": "qAM37",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel général romain a vaincu Vercingétorix à Alésia ?",
-    "answers": [
-      "Pompée",
-      "Crassus",
-      "Scipion l'Africain",
-      "Jules César"
-    ],
-    "correctIndex": 3
+    "text": "Quel peuple antique est associé aux ziggourats ?",
+    "answers": ["Égyptiens", "Sumériens", "Grecs", "Romains"],
+    "correctIndex": 1
   },
   {
-    "id": "q39",
+    "id": "qAM38",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel général romain a vaincu Vercingétorix à Alésia ?",
-    "answers": [
-      "Scipion l'Africain",
-      "Crassus",
-      "Pompée",
-      "Jules César"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain fit construire le Panthéon actuel ?",
+    "answers": ["Auguste", "Hadrien", "Trajan", "Domitien"],
+    "correctIndex": 1
   },
   {
-    "id": "q40",
+    "id": "qAM39",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle est la plus ancienne des Sept Merveilles du monde antique ?",
-    "answers": [
-      "Phare d'Alexandrie",
-      "Pyramide de Khéops",
-      "Colosse de Rhodes",
-      "Jardins suspendus de Babylone"
-    ],
-    "correctIndex": 1
+    "text": "Quelle cité antique était la capitale de l’Empire assyrien ?",
+    "answers": ["Babylone", "Ur", "Ninive", "Lagash"],
+    "correctIndex": 2
   },
   {
-    "id": "q41",
+    "id": "qAM40",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel roi perse a affronté Alexandre le Grand ?",
-    "answers": [
-      "Xerxès Ier",
-      "Darius III",
-      "Cyrus le Grand",
-      "Darius Ier"
-    ],
-    "correctIndex": 1
+    "text": "Quel philosophe grec fonda l’école du Jardin ?",
+    "answers": ["Platon", "Aristote", "Épicure", "Zénon"],
+    "correctIndex": 2
   },
+
   {
-    "id": "q42",
+    "id": "qAM41",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Pompéi",
-      "Babylone",
-      "Athènes",
-      "Carthage"
-    ],
-    "correctIndex": 0
+    "text": "Quelle réforme romaine fixa les lois par écrit au Ve siècle av. J.-C. ?",
+    "answers": ["Lois licinio-sextiennes", "Lois des Douze Tables", "Réformes de Marius", "Édit de Milan"],
+    "correctIndex": 1
   },
   {
-    "id": "q43",
+    "id": "qAM42",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Pompéi",
-      "Athènes",
-      "Carthage",
-      "Babylone"
-    ],
+    "text": "Quel empereur romain est connu pour avoir détruit Jérusalem en 70 ?",
+    "answers": ["Titus", "Néron", "Domitien", "Trajan"],
     "correctIndex": 0
   },
   {
-    "id": "q44",
+    "id": "qAM43",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui était le chef de la ligue achéenne au IIIe siècle av. J.-C. ?",
-    "answers": [
-      "Périclès",
-      "Démosthène",
-      "Aratos de Sicyone",
-      "Alcibiade"
-    ],
-    "correctIndex": 2
+    "text": "Quel général grec remporta la bataille de Marathon ?",
+    "answers": ["Léonidas", "Miltiade", "Thémistocle", "Périclès"],
+    "correctIndex": 1
   },
   {
-    "id": "q45",
+    "id": "qAM44",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel roi perse a affronté Alexandre le Grand ?",
-    "answers": [
-      "Darius Ier",
-      "Cyrus le Grand",
-      "Darius III",
-      "Xerxès Ier"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain fut surnommé « le Bon Empereur » pour son règne paisible ?",
+    "answers": ["Trajan", "Antonin le Pieux", "Hadrien", "Marc Aurèle"],
+    "correctIndex": 1
   },
   {
-    "id": "q46",
+    "id": "qAM45",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle est la plus ancienne des Sept Merveilles du monde antique ?",
-    "answers": [
-      "Pyramide de Khéops",
-      "Colosse de Rhodes",
-      "Jardins suspendus de Babylone",
-      "Phare d'Alexandrie"
-    ],
+    "text": "Quelle civilisation antique est associée au roi Crésus ?",
+    "answers": ["Lydienne", "Perse", "Grecque", "Phénicienne"],
     "correctIndex": 0
   },
+
   {
-    "id": "q47",
+    "id": "qAM46",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel pharaon est connu pour avoir tenté une révolution religieuse en Égypte ?",
-    "answers": [
-      "Ramsès II",
-      "Akhenaton",
-      "Thoutmôsis III",
-      "Toutânkhamon"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain lança de vastes persécutions contre les chrétiens ?",
+    "answers": ["Dioclétien", "Constantin", "Trajan", "Tibère"],
+    "correctIndex": 0
   },
   {
-    "id": "q48",
+    "id": "qAM47",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel mathématicien grec est célèbre pour son théorème sur les triangles rectangles ?",
-    "answers": [
-      "Euclide",
-      "Pythagore",
-      "Archimède",
-      "Thalès"
-    ],
+    "text": "Quelle bataille mit fin à la seconde guerre punique ?",
+    "answers": ["Cannes", "Zama", "Trébie", "Métauros"],
     "correctIndex": 1
   },
   {
-    "id": "q49",
+    "id": "qAM48",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel mathématicien grec est célèbre pour son théorème sur les triangles rectangles ?",
-    "answers": [
-      "Pythagore",
-      "Archimède",
-      "Thalès",
-      "Euclide"
-    ],
-    "correctIndex": 0
+    "text": "Quel empereur romain est associé à la colonne de Rome retraçant ses victoires ?",
+    "answers": ["Auguste", "Trajan", "Hadrien", "Titus"],
+    "correctIndex": 1
   },
   {
-    "id": "q50",
+    "id": "qAM49",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui a écrit 'La République' ?",
-    "answers": [
-      "Platon",
-      "Héraclite",
-      "Socrate",
-      "Aristote"
-    ],
-    "correctIndex": 0
+    "text": "Quelle cité grecque était gouvernée par des rois appelés diarches ?",
+    "answers": ["Athènes", "Corinthe", "Sparte", "Thèbes"],
+    "correctIndex": 2
   },
   {
-    "id": "q51",
+    "id": "qAM50",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Babylone",
-      "Carthage",
-      "Pompéi",
-      "Athènes"
-    ],
+    "text": "Quel peuple antique est à l’origine de l’écriture alphabétique ?",
+    "answers": ["Sumériens", "Égyptiens", "Phéniciens", "Grecs"],
     "correctIndex": 2
-  },
+  }
   {
-    "id": "q52",
+    "id": "qAM51",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui a écrit 'La République' ?",
-    "answers": [
-      "Socrate",
-      "Héraclite",
-      "Platon",
-      "Aristote"
-    ],
+    "text": "Quel général grec dirigea la flotte athénienne lors de la bataille de Salamine ?",
+    "answers": ["Miltiade", "Périclès", "Thémistocle", "Lysandre"],
     "correctIndex": 2
   },
   {
-    "id": "q53",
+    "id": "qAM52",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel pharaon est connu pour avoir tenté une révolution religieuse en Égypte ?",
-    "answers": [
-      "Ramsès II",
-      "Toutânkhamon",
-      "Akhenaton",
-      "Thoutmôsis III"
-    ],
-    "correctIndex": 2
+    "text": "Quelle dynastie romaine succéda à la dynastie julio-claudienne ?",
+    "answers": ["Antonins", "Flaviens", "Séveriens", "Tétrarchie"],
+    "correctIndex": 1
   },
   {
-    "id": "q54",
+    "id": "qAM53",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Pompéi",
-      "Babylone",
-      "Athènes",
-      "Carthage"
-    ],
-    "correctIndex": 0
+    "text": "Quel site égyptien abritait les tombes des pharaons du Nouvel Empire ?",
+    "answers": ["Gizeh", "Saqqarah", "Abydos", "Vallée des Rois"],
+    "correctIndex": 3
   },
   {
-    "id": "q55",
+    "id": "qAM54",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle est la plus ancienne des Sept Merveilles du monde antique ?",
-    "answers": [
-      "Jardins suspendus de Babylone",
-      "Colosse de Rhodes",
-      "Pyramide de Khéops",
-      "Phare d'Alexandrie"
-    ],
+    "text": "Quelle réforme militaire romaine est attribuée à Marius ?",
+    "answers": ["Légion manipulaire", "Armée de citoyens-propriétaires", "Professionnalisation de l’armée", "Création de la cavalerie"],
     "correctIndex": 2
   },
   {
-    "id": "q56",
+    "id": "qAM55",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui a fondé la dynastie des Han en Chine ?",
-    "answers": [
-      "Liu Bang",
-      "Sun Tzu",
-      "Qin Shi Huang",
-      "Wu Zetian"
-    ],
-    "correctIndex": 0
+    "text": "Quelle cité grecque était à la tête de la Ligue du Péloponnèse ?",
+    "answers": ["Athènes", "Corinthe", "Sparte", "Argos"],
+    "correctIndex": 2
   },
+
   {
-    "id": "q57",
+    "id": "qAM56",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Pompéi",
-      "Athènes",
-      "Carthage",
-      "Babylone"
-    ],
-    "correctIndex": 0
+    "text": "Quel empereur romain est le fondateur de la dynastie flavienne ?",
+    "answers": ["Titus", "Vespasien", "Domitien", "Claude"],
+    "correctIndex": 1
   },
   {
-    "id": "q58",
+    "id": "qAM57",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui a fondé la dynastie des Han en Chine ?",
-    "answers": [
-      "Qin Shi Huang",
-      "Sun Tzu",
-      "Liu Bang",
-      "Wu Zetian"
-    ],
+    "text": "Quel peuple d’Anatolie est célèbre pour son empire centré sur Hattusa ?",
+    "answers": ["Phrygiens", "Lydiens", "Hittites", "Assyriens"],
     "correctIndex": 2
   },
   {
-    "id": "q59",
+    "id": "qAM58",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel pharaon est connu pour avoir tenté une révolution religieuse en Égypte ?",
-    "answers": [
-      "Ramsès II",
-      "Toutânkhamon",
-      "Thoutmôsis III",
-      "Akhenaton"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain fut le fils adoptif de Nerva ?",
+    "answers": ["Hadrien", "Trajan", "Antonin le Pieux", "Marc Aurèle"],
+    "correctIndex": 1
   },
   {
-    "id": "q60",
+    "id": "qAM59",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel général romain a vaincu Vercingétorix à Alésia ?",
-    "answers": [
-      "Jules César",
-      "Scipion l'Africain",
-      "Crassus",
-      "Pompée"
-    ],
-    "correctIndex": 0
+    "text": "Quelle ville grecque fut détruite par Alexandre le Grand en 332 av. J.-C. ?",
+    "answers": ["Gaza", "Sidon", "Tyr", "Babylone"],
+    "correctIndex": 2
   },
   {
-    "id": "q61",
+    "id": "qAM60",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel mathématicien grec est célèbre pour son théorème sur les triangles rectangles ?",
-    "answers": [
-      "Archimède",
-      "Pythagore",
-      "Thalès",
-      "Euclide"
-    ],
+    "text": "Quel texte fondateur de Rome raconte l’origine mythique de la cité ?",
+    "answers": ["Annales", "Énéide", "Histoires", "Guerre des Gaules"],
     "correctIndex": 1
   },
+
   {
-    "id": "q62",
+    "id": "qAM61",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui était le chef de la ligue achéenne au IIIe siècle av. J.-C. ?",
-    "answers": [
-      "Démosthène",
-      "Alcibiade",
-      "Aratos de Sicyone",
-      "Périclès"
-    ],
-    "correctIndex": 2
+    "text": "Quel roi spartiate mourut aux Thermopyles en 480 av. J.-C. ?",
+    "answers": ["Agésilas", "Léonidas", "Cléomène", "Pausanias"],
+    "correctIndex": 1
   },
   {
-    "id": "q63",
+    "id": "qAM62",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui était le chef de la ligue achéenne au IIIe siècle av. J.-C. ?",
-    "answers": [
-      "Aratos de Sicyone",
-      "Alcibiade",
-      "Démosthène",
-      "Périclès"
-    ],
+    "text": "Quel fleuve constituait une frontière naturelle de l’Empire romain au nord ?",
+    "answers": ["Rhin", "Nil", "Tigre", "Pô"],
     "correctIndex": 0
   },
   {
-    "id": "q64",
+    "id": "qAM63",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel général romain a vaincu Vercingétorix à Alésia ?",
-    "answers": [
-      "Crassus",
-      "Jules César",
-      "Scipion l'Africain",
-      "Pompée"
-    ],
+    "text": "Quelle ville fut la capitale de l’Empire achéménide sous Darius Ier ?",
+    "answers": ["Babylone", "Suse", "Persépolis", "Ecbatane"],
     "correctIndex": 1
   },
   {
-    "id": "q65",
+    "id": "qAM64",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel mathématicien grec est célèbre pour son théorème sur les triangles rectangles ?",
-    "answers": [
-      "Pythagore",
-      "Thalès",
-      "Euclide",
-      "Archimède"
-    ],
+    "text": "Quel philosophe grec fonda le stoïcisme ?",
+    "answers": ["Zénon de Citium", "Sénèque", "Platon", "Aristote"],
     "correctIndex": 0
   },
   {
-    "id": "q66",
+    "id": "qAM65",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel général romain a vaincu Vercingétorix à Alésia ?",
-    "answers": [
-      "Jules César",
-      "Pompée",
-      "Scipion l'Africain",
-      "Crassus"
-    ],
-    "correctIndex": 0
+    "text": "Quelle bataille opposa César à Pompée en 48 av. J.-C. ?",
+    "answers": ["Actium", "Pharsale", "Zama", "Modène"],
+    "correctIndex": 1
   },
+
   {
-    "id": "q67",
+    "id": "qAM66",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Pompéi",
-      "Babylone",
-      "Carthage",
-      "Athènes"
-    ],
-    "correctIndex": 0
+    "text": "Quel empereur romain fut surnommé « Caligula » durant son règne ?",
+    "answers": ["Tibère", "Claude", "Caius", "Néron"],
+    "correctIndex": 2
   },
   {
-    "id": "q68",
+    "id": "qAM67",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code de Justinien",
-      "Code d'Hammurabi",
-      "Code de Napoléon",
-      "Code de Théodose"
-    ],
+    "text": "Quelle civilisation antique utilisait l’écriture cunéiforme ?",
+    "answers": ["Égyptienne", "Sumérienne", "Grecque", "Phénicienne"],
     "correctIndex": 1
   },
   {
-    "id": "q69",
+    "id": "qAM68",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel pharaon est connu pour avoir tenté une révolution religieuse en Égypte ?",
-    "answers": [
-      "Akhenaton",
-      "Ramsès II",
-      "Toutânkhamon",
-      "Thoutmôsis III"
-    ],
-    "correctIndex": 0
+    "text": "Quel empereur romain est connu pour avoir déplacé la capitale à Byzance ?",
+    "answers": ["Dioclétien", "Constantin", "Théodose", "Hadrien"],
+    "correctIndex": 1
   },
   {
-    "id": "q70",
+    "id": "qAM69",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code de Napoléon",
-      "Code de Justinien",
-      "Code d'Hammurabi",
-      "Code de Théodose"
-    ],
-    "correctIndex": 2
+    "text": "Quel peuple affronta Rome lors de la guerre sociale (91–88 av. J.-C.) ?",
+    "answers": ["Gaulois", "Alliés italiques", "Carthaginois", "Grecs"],
+    "correctIndex": 1
   },
   {
-    "id": "q71",
+    "id": "qAM70",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle est la plus ancienne des Sept Merveilles du monde antique ?",
-    "answers": [
-      "Jardins suspendus de Babylone",
-      "Phare d'Alexandrie",
-      "Colosse de Rhodes",
-      "Pyramide de Khéops"
-    ],
-    "correctIndex": 3
+    "text": "Quelle cité grecque fut le principal centre commercial de la mer Égée ?",
+    "answers": ["Corinthe", "Sparte", "Delphes", "Argos"],
+    "correctIndex": 0
   },
+
   {
-    "id": "q72",
+    "id": "qAM71",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel pharaon est connu pour avoir tenté une révolution religieuse en Égypte ?",
-    "answers": [
-      "Thoutmôsis III",
-      "Akhenaton",
-      "Toutânkhamon",
-      "Ramsès II"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain succéda à Trajan ?",
+    "answers": ["Antonin le Pieux", "Marc Aurèle", "Hadrien", "Nerva"],
+    "correctIndex": 2
   },
   {
-    "id": "q73",
+    "id": "qAM72",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel pharaon est connu pour avoir tenté une révolution religieuse en Égypte ?",
-    "answers": [
-      "Toutânkhamon",
-      "Thoutmôsis III",
-      "Ramsès II",
-      "Akhenaton"
-    ],
-    "correctIndex": 3
+    "text": "Quel site antique est célèbre pour sa bibliothèque rivale d’Alexandrie ?",
+    "answers": ["Pergame", "Athènes", "Antioche", "Éphèse"],
+    "correctIndex": 0
   },
   {
-    "id": "q74",
+    "id": "qAM73",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code de Théodose",
-      "Code de Napoléon",
-      "Code d'Hammurabi",
-      "Code de Justinien"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain fit construire les thermes les plus vastes de Rome ?",
+    "answers": ["Caracalla", "Auguste", "Trajan", "Néron"],
+    "correctIndex": 0
   },
   {
-    "id": "q75",
+    "id": "qAM74",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code de Théodose",
-      "Code d'Hammurabi",
-      "Code de Napoléon",
-      "Code de Justinien"
-    ],
-    "correctIndex": 1
+    "text": "Quelle bataille mit fin à la domination athénienne pendant la guerre du Péloponnèse ?",
+    "answers": ["Aigos Potamoi", "Salamine", "Leuctres", "Mantinée"],
+    "correctIndex": 0
   },
   {
-    "id": "q76",
+    "id": "qAM75",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui était le chef de la ligue achéenne au IIIe siècle av. J.-C. ?",
-    "answers": [
-      "Démosthène",
-      "Périclès",
-      "Alcibiade",
-      "Aratos de Sicyone"
-    ],
-    "correctIndex": 3
+    "text": "Quel roi perse fonda l’Empire achéménide ?",
+    "answers": ["Darius Ier", "Xerxès Ier", "Cyrus II", "Artaxerxès"],
+    "correctIndex": 2
   },
+
   {
-    "id": "q77",
+    "id": "qAM76",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel roi perse a affronté Alexandre le Grand ?",
-    "answers": [
-      "Xerxès Ier",
-      "Darius Ier",
-      "Cyrus le Grand",
-      "Darius III"
-    ],
-    "correctIndex": 3
+    "text": "Quel peuple est associé à la cité antique de Carthage ?",
+    "answers": ["Grecs", "Romains", "Phéniciens", "Étrusques"],
+    "correctIndex": 2
   },
   {
-    "id": "q78",
+    "id": "qAM77",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel pharaon est connu pour avoir tenté une révolution religieuse en Égypte ?",
-    "answers": [
-      "Akhenaton",
-      "Toutânkhamon",
-      "Thoutmôsis III",
-      "Ramsès II"
-    ],
+    "text": "Quel empereur romain fut contraint d’abdiquer en 305 ?",
+    "answers": ["Dioclétien", "Constantin", "Galère", "Maxence"],
     "correctIndex": 0
   },
   {
-    "id": "q79",
+    "id": "qAM78",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel roi perse a affronté Alexandre le Grand ?",
-    "answers": [
-      "Darius Ier",
-      "Darius III",
-      "Xerxès Ier",
-      "Cyrus le Grand"
-    ],
-    "correctIndex": 1
+    "text": "Quelle cité grecque contrôlait l’isthme reliant le Péloponnèse au continent ?",
+    "answers": ["Corinthe", "Argos", "Mégare", "Athènes"],
+    "correctIndex": 0
   },
   {
-    "id": "q80",
+    "id": "qAM79",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel roi perse a affronté Alexandre le Grand ?",
-    "answers": [
-      "Darius III",
-      "Xerxès Ier",
-      "Darius Ier",
-      "Cyrus le Grand"
-    ],
-    "correctIndex": 0
+    "text": "Quel général romain vainquit Vercingétorix à Alésia ?",
+    "answers": ["Pompée", "Jules César", "Crassus", "Auguste"],
+    "correctIndex": 1
   },
   {
-    "id": "q81",
+    "id": "qAM80",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Carthage",
-      "Babylone",
-      "Athènes",
-      "Pompéi"
-    ],
-    "correctIndex": 3
+    "text": "Quelle divinité grecque était honorée lors des jeux olympiques antiques ?",
+    "answers": ["Apollon", "Athéna", "Zeus", "Héra"],
+    "correctIndex": 2
   },
+
   {
-    "id": "q82",
+    "id": "qAM81",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Pompéi",
-      "Carthage",
-      "Babylone",
-      "Athènes"
-    ],
-    "correctIndex": 0
+    "text": "Quel empereur romain institua l’édit de Caracalla ?",
+    "answers": ["Septime Sévère", "Caracalla", "Dioclétien", "Constantin"],
+    "correctIndex": 1
   },
   {
-    "id": "q83",
+    "id": "qAM82",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel général romain a vaincu Vercingétorix à Alésia ?",
-    "answers": [
-      "Crassus",
-      "Scipion l'Africain",
-      "Jules César",
-      "Pompée"
-    ],
-    "correctIndex": 2
+    "text": "Quel site grec est considéré comme le centre du monde selon la mythologie ?",
+    "answers": ["Delphes", "Délos", "Olympie", "Athènes"],
+    "correctIndex": 0
   },
   {
-    "id": "q84",
+    "id": "qAM83",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel pharaon est connu pour avoir tenté une révolution religieuse en Égypte ?",
-    "answers": [
-      "Ramsès II",
-      "Akhenaton",
-      "Toutânkhamon",
-      "Thoutmôsis III"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain fut le dernier de la dynastie des Antonins ?",
+    "answers": ["Commode", "Marc Aurèle", "Hadrien", "Antonin le Pieux"],
+    "correctIndex": 0
   },
   {
-    "id": "q85",
+    "id": "qAM84",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui a fondé la dynastie des Han en Chine ?",
-    "answers": [
-      "Wu Zetian",
-      "Liu Bang",
-      "Qin Shi Huang",
-      "Sun Tzu"
-    ],
+    "text": "Quelle cité grecque était réputée pour son école philosophique néoplatonicienne ?",
+    "answers": ["Athènes", "Alexandrie", "Pergame", "Milet"],
     "correctIndex": 1
   },
   {
-    "id": "q86",
+    "id": "qAM85",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel pharaon est connu pour avoir tenté une révolution religieuse en Égypte ?",
-    "answers": [
-      "Ramsès II",
-      "Akhenaton",
-      "Toutânkhamon",
-      "Thoutmôsis III"
-    ],
+    "text": "Quel empereur romain mit fin officiellement aux persécutions chrétiennes ?",
+    "answers": ["Dioclétien", "Galère", "Constantin", "Théodose"],
     "correctIndex": 1
   },
+
   {
-    "id": "q87",
+    "id": "qAM86",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code de Napoléon",
-      "Code de Justinien",
-      "Code de Théodose",
-      "Code d'Hammurabi"
-    ],
-    "correctIndex": 3
+    "text": "Quel peuple celte affronta César en Gaule ?",
+    "answers": ["Ibères", "Helvètes", "Gaulois", "Bretons"],
+    "correctIndex": 2
   },
   {
-    "id": "q88",
+    "id": "qAM87",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui a écrit 'La République' ?",
-    "answers": [
-      "Héraclite",
-      "Socrate",
-      "Aristote",
-      "Platon"
-    ],
+    "text": "Quelle ville devint la capitale de l’Empire romain d’Orient ?",
+    "answers": ["Rome", "Antioche", "Alexandrie", "Constantinople"],
     "correctIndex": 3
   },
   {
-    "id": "q89",
+    "id": "qAM88",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel pharaon est connu pour avoir tenté une révolution religieuse en Égypte ?",
-    "answers": [
-      "Toutânkhamon",
-      "Thoutmôsis III",
-      "Akhenaton",
-      "Ramsès II"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain est connu pour avoir écrit des « Pensées pour moi-même » ?",
+    "answers": ["Sénèque", "Marc Aurèle", "Épictète", "Hadrien"],
+    "correctIndex": 1
   },
   {
-    "id": "q90",
+    "id": "qAM89",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Babylone",
-      "Athènes",
-      "Carthage",
-      "Pompéi"
-    ],
-    "correctIndex": 3
+    "text": "Quelle cité grecque fonda la colonie de Syracuse en Sicile ?",
+    "answers": ["Corinthe", "Athènes", "Milet", "Sparte"],
+    "correctIndex": 0
   },
   {
-    "id": "q91",
+    "id": "qAM90",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel mathématicien grec est célèbre pour son théorème sur les triangles rectangles ?",
-    "answers": [
-      "Archimède",
-      "Pythagore",
-      "Euclide",
-      "Thalès"
-    ],
+    "text": "Quel empereur romain fut assassiné en 192 après J.-C. ?",
+    "answers": ["Domitien", "Commode", "Caracalla", "Élagabal"],
     "correctIndex": 1
   },
+
   {
-    "id": "q92",
+    "id": "qAM91",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code de Justinien",
-      "Code de Napoléon",
-      "Code de Théodose",
-      "Code d'Hammurabi"
-    ],
-    "correctIndex": 3
+    "text": "Quel site antique est associé au colosse, l’une des sept merveilles ?",
+    "answers": ["Olympie", "Alexandrie", "Rhodes", "Babylone"],
+    "correctIndex": 2
   },
   {
-    "id": "q93",
+    "id": "qAM92",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Athènes",
-      "Carthage",
-      "Pompéi",
-      "Babylone"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain introduisit le culte du Soleil invaincu ?",
+    "answers": ["Aurélien", "Dioclétien", "Caracalla", "Constantin"],
+    "correctIndex": 0
   },
   {
-    "id": "q94",
+    "id": "qAM93",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code d'Hammurabi",
-      "Code de Théodose",
-      "Code de Napoléon",
-      "Code de Justinien"
-    ],
+    "text": "Quelle cité grecque était célèbre pour son école médicale ?",
+    "answers": ["Cos", "Éphèse", "Samos", "Milet"],
     "correctIndex": 0
   },
   {
-    "id": "q95",
+    "id": "qAM94",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel général romain a vaincu Vercingétorix à Alésia ?",
-    "answers": [
-      "Pompée",
-      "Scipion l'Africain",
-      "Crassus",
-      "Jules César"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain mit fin à la crise du IIIe siècle par des réformes ?",
+    "answers": ["Aurélien", "Dioclétien", "Constantin", "Probus"],
+    "correctIndex": 1
   },
   {
-    "id": "q96",
+    "id": "qAM95",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel roi perse a affronté Alexandre le Grand ?",
-    "answers": [
-      "Xerxès Ier",
-      "Darius Ier",
-      "Darius III",
-      "Cyrus le Grand"
-    ],
-    "correctIndex": 2
+    "text": "Quelle cité grecque fut la patrie d’Hippocrate ?",
+    "answers": ["Cos", "Cnide", "Athènes", "Delphes"],
+    "correctIndex": 0
   },
+
   {
-    "id": "q97",
+    "id": "qAM96",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel mathématicien grec est célèbre pour son théorème sur les triangles rectangles ?",
-    "answers": [
-      "Thalès",
-      "Archimède",
-      "Pythagore",
-      "Euclide"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain fut vaincu par Constantin au pont Milvius ?",
+    "answers": ["Licinius", "Maxence", "Galère", "Sévéros"],
+    "correctIndex": 1
   },
   {
-    "id": "q98",
+    "id": "qAM97",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui a fondé la dynastie des Han en Chine ?",
-    "answers": [
-      "Liu Bang",
-      "Qin Shi Huang",
-      "Sun Tzu",
-      "Wu Zetian"
-    ],
+    "text": "Quelle civilisation antique est associée à la ville de Ninive ?",
+    "answers": ["Assyrienne", "Babylonienne", "Perse", "Hittite"],
     "correctIndex": 0
   },
   {
-    "id": "q99",
+    "id": "qAM98",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel mathématicien grec est célèbre pour son théorème sur les triangles rectangles ?",
-    "answers": [
-      "Archimède",
-      "Thalès",
-      "Pythagore",
-      "Euclide"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain interdit les sacrifices païens à la fin du IVe siècle ?",
+    "answers": ["Constantin", "Théodose Ier", "Valentinien", "Gratien"],
+    "correctIndex": 1
   },
   {
-    "id": "q100",
+    "id": "qAM99",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code d'Hammurabi",
-      "Code de Napoléon",
-      "Code de Théodose",
-      "Code de Justinien"
-    ],
+    "text": "Quelle cité grecque était gouvernée par une oligarchie commerciale ?",
+    "answers": ["Corinthe", "Sparte", "Athènes", "Thèbes"],
     "correctIndex": 0
   },
   {
-    "id": "q101",
+    "id": "qAM100",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel général romain a vaincu Vercingétorix à Alésia ?",
-    "answers": [
-      "Jules César",
-      "Scipion l'Africain",
-      "Pompée",
-      "Crassus"
-    ],
-    "correctIndex": 0
-  },
+    "text": "Quel peuple antique est associé à la ville de Palmyre ?",
+    "answers": ["Romains", "Arabes syriens", "Perses", "Grecs"],
+    "correctIndex": 1
+  }
   {
-    "id": "q102",
+    "id": "qAM101",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code de Justinien",
-      "Code de Théodose",
-      "Code d'Hammurabi",
-      "Code de Napoléon"
-    ],
+    "text": "Quel général grec vainquit les Perses à la bataille de Platées en 479 av. J.-C. ?",
+    "answers": ["Thémistocle", "Miltiade", "Pausanias", "Léonidas"],
     "correctIndex": 2
   },
   {
-    "id": "q103",
+    "id": "qAM102",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code de Théodose",
-      "Code d'Hammurabi",
-      "Code de Napoléon",
-      "Code de Justinien"
-    ],
+    "text": "Quel empereur romain fonda la dynastie des Sévères ?",
+    "answers": ["Caracalla", "Septime Sévère", "Commode", "Aurélien"],
     "correctIndex": 1
   },
   {
-    "id": "q104",
+    "id": "qAM103",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle est la plus ancienne des Sept Merveilles du monde antique ?",
-    "answers": [
-      "Phare d'Alexandrie",
-      "Pyramide de Khéops",
-      "Jardins suspendus de Babylone",
-      "Colosse de Rhodes"
-    ],
+    "text": "Quelle cité grecque était célèbre pour son port du Pirée ?",
+    "answers": ["Corinthe", "Athènes", "Mégare", "Éphèse"],
     "correctIndex": 1
   },
   {
-    "id": "q105",
+    "id": "qAM104",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui a fondé la dynastie des Han en Chine ?",
-    "answers": [
-      "Qin Shi Huang",
-      "Sun Tzu",
-      "Wu Zetian",
-      "Liu Bang"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain fut surnommé « l’Africain » après ses victoires ?",
+    "answers": ["Septime Sévère", "Trajan", "Hadrien", "Caracalla"],
+    "correctIndex": 0
   },
   {
-    "id": "q106",
+    "id": "qAM105",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel mathématicien grec est célèbre pour son théorème sur les triangles rectangles ?",
-    "answers": [
-      "Thalès",
-      "Archimède",
-      "Pythagore",
-      "Euclide"
-    ],
-    "correctIndex": 2
+    "text": "Quelle cité grecque était dirigée par un tyran nommé Polycrate au VIe siècle av. J.-C. ?",
+    "answers": ["Milet", "Samos", "Chios", "Rhodes"],
+    "correctIndex": 1
   },
+
   {
-    "id": "q107",
+    "id": "qAM106",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui a fondé la dynastie des Han en Chine ?",
-    "answers": [
-      "Wu Zetian",
-      "Liu Bang",
-      "Qin Shi Huang",
-      "Sun Tzu"
-    ],
+    "text": "Quel empereur romain est connu pour avoir fait construire le forum le plus vaste de Rome ?",
+    "answers": ["Auguste", "Trajan", "Hadrien", "Domitien"],
     "correctIndex": 1
   },
   {
-    "id": "q108",
+    "id": "qAM107",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel pharaon est connu pour avoir tenté une révolution religieuse en Égypte ?",
-    "answers": [
-      "Akhenaton",
-      "Ramsès II",
-      "Thoutmôsis III",
-      "Toutânkhamon"
-    ],
-    "correctIndex": 0
+    "text": "Quel royaume hellénistique fut fondé par Séleucos Ier ?",
+    "answers": ["Royaume lagide", "Royaume de Pergame", "Empire séleucide", "Royaume de Macédoine"],
+    "correctIndex": 2
   },
   {
-    "id": "q109",
+    "id": "qAM108",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Pompéi",
-      "Carthage",
-      "Athènes",
-      "Babylone"
-    ],
-    "correctIndex": 0
+    "text": "Quel empereur romain fut assassiné par la garde prétorienne en 41 ?",
+    "answers": ["Tibère", "Caligula", "Claude", "Néron"],
+    "correctIndex": 1
   },
   {
-    "id": "q110",
+    "id": "qAM109",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel pharaon est connu pour avoir tenté une révolution religieuse en Égypte ?",
-    "answers": [
-      "Toutânkhamon",
-      "Thoutmôsis III",
-      "Ramsès II",
-      "Akhenaton"
-    ],
-    "correctIndex": 3
+    "text": "Quelle civilisation antique est associée au roi Nabuchodonosor II ?",
+    "answers": ["Assyrienne", "Babylonienne", "Perse", "Hittite"],
+    "correctIndex": 1
   },
   {
-    "id": "q111",
+    "id": "qAM110",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle est la plus ancienne des Sept Merveilles du monde antique ?",
-    "answers": [
-      "Pyramide de Khéops",
-      "Jardins suspendus de Babylone",
-      "Colosse de Rhodes",
-      "Phare d'Alexandrie"
-    ],
-    "correctIndex": 0
+    "text": "Quel philosophe grec enseigna à Alexandre le Grand ?",
+    "answers": ["Platon", "Socrate", "Aristote", "Épicure"],
+    "correctIndex": 2
   },
+
   {
-    "id": "q112",
+    "id": "qAM111",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Pompéi",
-      "Babylone",
-      "Athènes",
-      "Carthage"
-    ],
+    "text": "Quelle bataille navale mit fin à la puissance de Carthage en 202 av. J.-C. ?",
+    "answers": ["Zama", "Cannes", "Actium", "Mylae"],
     "correctIndex": 0
   },
   {
-    "id": "q113",
+    "id": "qAM112",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Pompéi",
-      "Athènes",
-      "Carthage",
-      "Babylone"
-    ],
+    "text": "Quel empereur romain régna lors de la conquête de la Dacie ?",
+    "answers": ["Trajan", "Domitien", "Hadrien", "Nerva"],
     "correctIndex": 0
   },
   {
-    "id": "q114",
+    "id": "qAM113",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle est la plus ancienne des Sept Merveilles du monde antique ?",
-    "answers": [
-      "Colosse de Rhodes",
-      "Pyramide de Khéops",
-      "Jardins suspendus de Babylone",
-      "Phare d'Alexandrie"
-    ],
-    "correctIndex": 1
+    "text": "Quelle cité grecque était la patrie du mathématicien Pythagore ?",
+    "answers": ["Samos", "Milet", "Cos", "Cnide"],
+    "correctIndex": 0
   },
   {
-    "id": "q115",
+    "id": "qAM114",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code de Napoléon",
-      "Code d'Hammurabi",
-      "Code de Théodose",
-      "Code de Justinien"
-    ],
+    "text": "Quel empereur romain est connu pour avoir tenté de restaurer le paganisme au IVe siècle ?",
+    "answers": ["Théodose", "Julien", "Valentinien", "Gratien"],
     "correctIndex": 1
   },
   {
-    "id": "q116",
+    "id": "qAM115",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel roi perse a affronté Alexandre le Grand ?",
-    "answers": [
-      "Cyrus le Grand",
-      "Darius Ier",
-      "Xerxès Ier",
-      "Darius III"
-    ],
-    "correctIndex": 3
+    "text": "Quelle cité antique fut la capitale du royaume lagide ?",
+    "answers": ["Thèbes", "Memphis", "Alexandrie", "Ptolémaïs"],
+    "correctIndex": 2
   },
+
   {
-    "id": "q117",
+    "id": "qAM116",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui était le chef de la ligue achéenne au IIIe siècle av. J.-C. ?",
-    "answers": [
-      "Alcibiade",
-      "Aratos de Sicyone",
-      "Périclès",
-      "Démosthène"
-    ],
+    "text": "Quel empereur romain mit fin à la dynastie des Julio-Claudiens ?",
+    "answers": ["Claude", "Néron", "Galba", "Vespasien"],
     "correctIndex": 1
   },
   {
-    "id": "q118",
+    "id": "qAM117",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle est la plus ancienne des Sept Merveilles du monde antique ?",
-    "answers": [
-      "Pyramide de Khéops",
-      "Phare d'Alexandrie",
-      "Colosse de Rhodes",
-      "Jardins suspendus de Babylone"
-    ],
-    "correctIndex": 0
+    "text": "Quelle bataille opposa Octave à Marc Antoine et Cléopâtre ?",
+    "answers": ["Pharsale", "Actium", "Zama", "Modène"],
+    "correctIndex": 1
   },
   {
-    "id": "q119",
+    "id": "qAM118",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle est la plus ancienne des Sept Merveilles du monde antique ?",
-    "answers": [
-      "Jardins suspendus de Babylone",
-      "Phare d'Alexandrie",
-      "Colosse de Rhodes",
-      "Pyramide de Khéops"
-    ],
-    "correctIndex": 3
+    "text": "Quelle civilisation antique est associée aux bas-reliefs de Ninive ?",
+    "answers": ["Babylonienne", "Assyrienne", "Perse", "Hittite"],
+    "correctIndex": 1
   },
   {
-    "id": "q120",
+    "id": "qAM119",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code d'Hammurabi",
-      "Code de Justinien",
-      "Code de Théodose",
-      "Code de Napoléon"
-    ],
-    "correctIndex": 0
+    "text": "Quel empereur romain fut proclamé après l’« année des quatre empereurs » ?",
+    "answers": ["Titus", "Vespasien", "Domitien", "Nerva"],
+    "correctIndex": 1
   },
   {
-    "id": "q121",
+    "id": "qAM120",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Pompéi",
-      "Athènes",
-      "Carthage",
-      "Babylone"
-    ],
-    "correctIndex": 0
+    "text": "Quelle cité grecque était célèbre pour son temple d’Artémis, une des sept merveilles ?",
+    "answers": ["Samos", "Éphèse", "Milet", "Halicarnasse"],
+    "correctIndex": 1
   },
+
   {
-    "id": "q122",
+    "id": "qAM121",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle est la plus ancienne des Sept Merveilles du monde antique ?",
-    "answers": [
-      "Phare d'Alexandrie",
-      "Pyramide de Khéops",
-      "Colosse de Rhodes",
-      "Jardins suspendus de Babylone"
-    ],
+    "text": "Quel empereur romain fut le premier à être divinisé de son vivant ?",
+    "answers": ["Auguste", "Caligula", "Claude", "Néron"],
     "correctIndex": 1
   },
   {
-    "id": "q123",
+    "id": "qAM122",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code de Théodose",
-      "Code de Napoléon",
-      "Code d'Hammurabi",
-      "Code de Justinien"
-    ],
-    "correctIndex": 2
+    "text": "Quelle civilisation antique est associée aux lois de Dracon ?",
+    "answers": ["Athénienne", "Spartiate", "Thébane", "Corinthienne"],
+    "correctIndex": 0
   },
   {
-    "id": "q124",
+    "id": "qAM123",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui était le chef de la ligue achéenne au IIIe siècle av. J.-C. ?",
-    "answers": [
-      "Périclès",
-      "Aratos de Sicyone",
-      "Alcibiade",
-      "Démosthène"
-    ],
+    "text": "Quel empereur romain réorganisa les provinces en diocèses ?",
+    "answers": ["Constantin", "Dioclétien", "Théodose", "Aurélien"],
     "correctIndex": 1
   },
   {
-    "id": "q125",
+    "id": "qAM124",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui était le chef de la ligue achéenne au IIIe siècle av. J.-C. ?",
-    "answers": [
-      "Démosthène",
-      "Alcibiade",
-      "Périclès",
-      "Aratos de Sicyone"
-    ],
-    "correctIndex": 3
+    "text": "Quelle cité grecque est associée à l’école philosophique des cyniques ?",
+    "answers": ["Athènes", "Sinope", "Corinthe", "Mégare"],
+    "correctIndex": 1
   },
   {
-    "id": "q126",
+    "id": "qAM125",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel mathématicien grec est célèbre pour son théorème sur les triangles rectangles ?",
-    "answers": [
-      "Euclide",
-      "Thalès",
-      "Archimède",
-      "Pythagore"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain est connu pour avoir fait construire le mausolée d’Hadrien ?",
+    "answers": ["Hadrien", "Trajan", "Antonin le Pieux", "Marc Aurèle"],
+    "correctIndex": 0
   },
+
   {
-    "id": "q127",
+    "id": "qAM126",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Pompéi",
-      "Athènes",
-      "Babylone",
-      "Carthage"
-    ],
-    "correctIndex": 0
+    "text": "Quelle bataille opposa les Romains aux Samnites dans l’Italie antique ?",
+    "answers": ["Héraclée", "Fourches Caudines", "Cannes", "Sentinum"],
+    "correctIndex": 1
   },
   {
-    "id": "q128",
+    "id": "qAM127",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui a fondé la dynastie des Han en Chine ?",
-    "answers": [
-      "Sun Tzu",
-      "Qin Shi Huang",
-      "Wu Zetian",
-      "Liu Bang"
-    ],
-    "correctIndex": 3
+    "text": "Quelle civilisation antique est associée au roi Midas ?",
+    "answers": ["Lydienne", "Phrygienne", "Perse", "Hittite"],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAM128",
+    "category": "Antiquité",
+    "difficulty": "Moyen",
+    "text": "Quel empereur romain rétablit l’unité de l’Empire après la crise du IIIe siècle ?",
+    "answers": ["Aurélien", "Dioclétien", "Constantin", "Probus"],
+    "correctIndex": 0
   },
   {
-    "id": "q129",
+    "id": "qAM129",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui a écrit 'La République' ?",
-    "answers": [
-      "Platon",
-      "Socrate",
-      "Héraclite",
-      "Aristote"
-    ],
+    "text": "Quelle cité grecque était la patrie d’Hérodote ?",
+    "answers": ["Halicarnasse", "Milet", "Éphèse", "Cnide"],
     "correctIndex": 0
   },
   {
-    "id": "q130",
+    "id": "qAM130",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui était le chef de la ligue achéenne au IIIe siècle av. J.-C. ?",
-    "answers": [
-      "Aratos de Sicyone",
-      "Alcibiade",
-      "Périclès",
-      "Démosthène"
-    ],
+    "text": "Quel empereur romain institua le culte impérial à grande échelle ?",
+    "answers": ["Auguste", "Tibère", "Claude", "Néron"],
     "correctIndex": 0
   },
+
   {
-    "id": "q131",
+    "id": "qAM131",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui a fondé la dynastie des Han en Chine ?",
-    "answers": [
-      "Sun Tzu",
-      "Qin Shi Huang",
-      "Liu Bang",
-      "Wu Zetian"
-    ],
+    "text": "Quelle civilisation antique est associée aux tablettes de Mari ?",
+    "answers": ["Babylonienne", "Sumérienne", "Syrienne", "Assyrienne"],
     "correctIndex": 2
   },
   {
-    "id": "q132",
+    "id": "qAM132",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui était le chef de la ligue achéenne au IIIe siècle av. J.-C. ?",
-    "answers": [
-      "Aratos de Sicyone",
-      "Périclès",
-      "Alcibiade",
-      "Démosthène"
-    ],
+    "text": "Quel empereur romain fit construire la Via Traiana ?",
+    "answers": ["Trajan", "Auguste", "Hadrien", "Claude"],
     "correctIndex": 0
   },
   {
-    "id": "q133",
+    "id": "qAM133",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui a fondé la dynastie des Han en Chine ?",
-    "answers": [
-      "Qin Shi Huang",
-      "Wu Zetian",
-      "Sun Tzu",
-      "Liu Bang"
-    ],
-    "correctIndex": 3
+    "text": "Quelle cité grecque était réputée pour son sanctuaire d’Asclépios ?",
+    "answers": ["Épidaure", "Cos", "Pergame", "Delphes"],
+    "correctIndex": 0
   },
   {
-    "id": "q134",
+    "id": "qAM134",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui était le chef de la ligue achéenne au IIIe siècle av. J.-C. ?",
-    "answers": [
-      "Démosthène",
-      "Périclès",
-      "Aratos de Sicyone",
-      "Alcibiade"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain est associé à la dynastie dite des Antonins ?",
+    "answers": ["Nerva", "Trajan", "Marc Aurèle", "Commode"],
+    "correctIndex": 1
   },
   {
-    "id": "q135",
+    "id": "qAM135",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code de Justinien",
-      "Code de Napoléon",
-      "Code d'Hammurabi",
-      "Code de Théodose"
-    ],
-    "correctIndex": 2
+    "text": "Quelle cité grecque est associée au législateur Solon ?",
+    "answers": ["Athènes", "Mégare", "Corinthe", "Sparte"],
+    "correctIndex": 0
   },
+
   {
-    "id": "q136",
+    "id": "qAM136",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel mathématicien grec est célèbre pour son théorème sur les triangles rectangles ?",
-    "answers": [
-      "Thalès",
-      "Archimède",
-      "Euclide",
-      "Pythagore"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain fut proclamé par ses légions en Bretagne ?",
+    "answers": ["Claude", "Vespasien", "Constantin", "Hadrien"],
+    "correctIndex": 2
   },
   {
-    "id": "q137",
+    "id": "qAM137",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel général romain a vaincu Vercingétorix à Alésia ?",
-    "answers": [
-      "Crassus",
-      "Jules César",
-      "Pompée",
-      "Scipion l'Africain"
-    ],
-    "correctIndex": 1
+    "text": "Quelle civilisation antique est associée à la cité de Carchemish ?",
+    "answers": ["Hittite", "Assyrienne", "Perse", "Babylonienne"],
+    "correctIndex": 0
   },
   {
-    "id": "q138",
+    "id": "qAM138",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel roi perse a affronté Alexandre le Grand ?",
-    "answers": [
-      "Xerxès Ier",
-      "Darius Ier",
-      "Cyrus le Grand",
-      "Darius III"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain est connu pour avoir promulgué le Code théodosien ?",
+    "answers": ["Théodose II", "Théodose Ier", "Constantin", "Valentinien"],
+    "correctIndex": 0
   },
   {
-    "id": "q139",
+    "id": "qAM139",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Babylone",
-      "Pompéi",
-      "Athènes",
-      "Carthage"
-    ],
-    "correctIndex": 1
+    "text": "Quelle cité grecque fut la capitale de la Macédoine antique ?",
+    "answers": ["Pella", "Thessalonique", "Amphipolis", "Vergina"],
+    "correctIndex": 0
   },
   {
-    "id": "q140",
+    "id": "qAM140",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel pharaon est connu pour avoir tenté une révolution religieuse en Égypte ?",
-    "answers": [
-      "Thoutmôsis III",
-      "Akhenaton",
-      "Ramsès II",
-      "Toutânkhamon"
-    ],
+    "text": "Quel empereur romain mit fin aux jeux de gladiateurs ?",
+    "answers": ["Constantin", "Honorius", "Théodose Ier", "Valentinien"],
     "correctIndex": 1
   },
+
   {
-    "id": "q141",
+    "id": "qAM141",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code de Théodose",
-      "Code de Napoléon",
-      "Code d'Hammurabi",
-      "Code de Justinien"
-    ],
-    "correctIndex": 2
+    "text": "Quelle civilisation antique est associée aux tumulus de Gordion ?",
+    "answers": ["Phrygienne", "Lydienne", "Hittite", "Perse"],
+    "correctIndex": 0
   },
   {
-    "id": "q142",
+    "id": "qAM142",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel roi perse a affronté Alexandre le Grand ?",
-    "answers": [
-      "Xerxès Ier",
-      "Darius Ier",
-      "Cyrus le Grand",
-      "Darius III"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain introduisit le calendrier julien ?",
+    "answers": ["Auguste", "Jules César", "Tibère", "Claude"],
+    "correctIndex": 1
   },
   {
-    "id": "q143",
+    "id": "qAM143",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui a écrit 'La République' ?",
-    "answers": [
-      "Héraclite",
-      "Platon",
-      "Socrate",
-      "Aristote"
-    ],
+    "text": "Quelle cité grecque est associée à l’oracle de Dodone ?",
+    "answers": ["Delphes", "Dodone", "Olympie", "Épidaure"],
     "correctIndex": 1
   },
   {
-    "id": "q144",
+    "id": "qAM144",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code de Théodose",
-      "Code de Napoléon",
-      "Code d'Hammurabi",
-      "Code de Justinien"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain est connu pour avoir interdit les Jeux olympiques antiques ?",
+    "answers": ["Théodose Ier", "Constantin", "Gratien", "Valentinien"],
+    "correctIndex": 0
   },
   {
-    "id": "q145",
+    "id": "qAM145",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Babylone",
-      "Pompéi",
-      "Carthage",
-      "Athènes"
-    ],
+    "text": "Quelle cité grecque est associée au poète Homère selon la tradition ?",
+    "answers": ["Smyrne", "Chios", "Ithaque", "Milet"],
     "correctIndex": 1
   },
+
   {
-    "id": "q146",
+    "id": "qAM146",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code de Napoléon",
-      "Code de Justinien",
-      "Code d'Hammurabi",
-      "Code de Théodose"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain fit ériger l’arc triomphal après la prise de Jérusalem ?",
+    "answers": ["Vespasien", "Titus", "Domitien", "Trajan"],
+    "correctIndex": 1
   },
   {
-    "id": "q147",
+    "id": "qAM147",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel mathématicien grec est célèbre pour son théorème sur les triangles rectangles ?",
-    "answers": [
-      "Archimède",
-      "Thalès",
-      "Euclide",
-      "Pythagore"
-    ],
-    "correctIndex": 3
+    "text": "Quelle civilisation antique est associée au palais de Knossos ?",
+    "answers": ["Mycénienne", "Minoenne", "Cycladique", "Hellénistique"],
+    "correctIndex": 1
   },
   {
-    "id": "q148",
+    "id": "qAM148",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code d'Hammurabi",
-      "Code de Napoléon",
-      "Code de Justinien",
-      "Code de Théodose"
-    ],
+    "text": "Quel empereur romain fit transférer les cendres de Trajan à Rome ?",
+    "answers": ["Hadrien", "Antonin le Pieux", "Marc Aurèle", "Nerva"],
     "correctIndex": 0
   },
   {
-    "id": "q149",
+    "id": "qAM149",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui a fondé la dynastie des Han en Chine ?",
-    "answers": [
-      "Liu Bang",
-      "Qin Shi Huang",
-      "Wu Zetian",
-      "Sun Tzu"
-    ],
+    "text": "Quelle cité grecque est associée au philosophe Diogène le Cynique ?",
+    "answers": ["Sinope", "Athènes", "Corinthe", "Thèbes"],
     "correctIndex": 0
   },
   {
-    "id": "q150",
+    "id": "qAM150",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel mathématicien grec est célèbre pour son théorème sur les triangles rectangles ?",
-    "answers": [
-      "Euclide",
-      "Pythagore",
-      "Thalès",
-      "Archimède"
-    ],
+    "text": "Quelle civilisation antique est associée à la ville de Hattusa ?",
+    "answers": ["Assyrienne", "Hittite", "Perse", "Phrygienne"],
     "correctIndex": 1
+  }
+  {
+    "id": "qAM151",
+    "category": "Antiquité",
+    "difficulty": "Moyen",
+    "text": "Quel général romain fut surnommé « Africanus » après sa victoire sur Hannibal ?",
+    "answers": ["Pompée", "Scipion", "César", "Marius"],
+    "correctIndex": 1
   },
   {
-    "id": "q151",
+    "id": "qAM152",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Carthage",
-      "Pompéi",
-      "Athènes",
-      "Babylone"
-    ],
+    "text": "Quelle cité grecque était célèbre pour son sanctuaire panhellénique de Zeus ?",
+    "answers": ["Delphes", "Olympie", "Délos", "Corinthe"],
     "correctIndex": 1
   },
   {
-    "id": "q152",
+    "id": "qAM153",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui a fondé la dynastie des Han en Chine ?",
-    "answers": [
-      "Wu Zetian",
-      "Liu Bang",
-      "Qin Shi Huang",
-      "Sun Tzu"
-    ],
+    "text": "Quel empereur romain fonda la colonie d’Aelia Capitolina sur Jérusalem ?",
+    "answers": ["Trajan", "Hadrien", "Titus", "Domitien"],
     "correctIndex": 1
   },
   {
-    "id": "q153",
+    "id": "qAM154",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui a écrit 'La République' ?",
-    "answers": [
-      "Platon",
-      "Socrate",
-      "Héraclite",
-      "Aristote"
-    ],
-    "correctIndex": 0
+    "text": "Quelle civilisation antique est associée au palais de Phaistos ?",
+    "answers": ["Mycénienne", "Minoenne", "Cycladique", "Hellénistique"],
+    "correctIndex": 1
   },
   {
-    "id": "q154",
+    "id": "qAM155",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel général romain a vaincu Vercingétorix à Alésia ?",
-    "answers": [
-      "Scipion l'Africain",
-      "Pompée",
-      "Jules César",
-      "Crassus"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain fit ériger la colonne racontant ses campagnes daciques ?",
+    "answers": ["Trajan", "Hadrien", "Marc Aurèle", "Domitien"],
+    "correctIndex": 0
   },
+
   {
-    "id": "q155",
+    "id": "qAM156",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel pharaon est connu pour avoir tenté une révolution religieuse en Égypte ?",
-    "answers": [
-      "Thoutmôsis III",
-      "Ramsès II",
-      "Toutânkhamon",
-      "Akhenaton"
-    ],
-    "correctIndex": 3
+    "text": "Quelle cité grecque était gouvernée par un système oligarchique strict fondé sur l’éducation militaire ?",
+    "answers": ["Athènes", "Sparte", "Corinthe", "Argos"],
+    "correctIndex": 1
   },
   {
-    "id": "q156",
+    "id": "qAM157",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui a fondé la dynastie des Han en Chine ?",
-    "answers": [
-      "Wu Zetian",
-      "Sun Tzu",
-      "Liu Bang",
-      "Qin Shi Huang"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain transféra la capitale impériale à Nicomédie ?",
+    "answers": ["Constantin", "Dioclétien", "Galère", "Maximien"],
+    "correctIndex": 1
   },
   {
-    "id": "q157",
+    "id": "qAM158",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel roi perse a affronté Alexandre le Grand ?",
-    "answers": [
-      "Xerxès Ier",
-      "Darius Ier",
-      "Darius III",
-      "Cyrus le Grand"
-    ],
-    "correctIndex": 2
+    "text": "Quelle cité antique était la capitale du royaume de Numidie ?",
+    "answers": ["Cirta", "Utique", "Carthage", "Leptis Magna"],
+    "correctIndex": 0
   },
   {
-    "id": "q158",
+    "id": "qAM159",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel général romain a vaincu Vercingétorix à Alésia ?",
-    "answers": [
-      "Scipion l'Africain",
-      "Pompée",
-      "Jules César",
-      "Crassus"
-    ],
-    "correctIndex": 2
+    "text": "Quel philosophe grec est l’auteur du « Banquet » ?",
+    "answers": ["Platon", "Aristote", "Xénophon", "Épicure"],
+    "correctIndex": 0
   },
   {
-    "id": "q159",
+    "id": "qAM160",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel général romain a vaincu Vercingétorix à Alésia ?",
-    "answers": [
-      "Crassus",
-      "Jules César",
-      "Scipion l'Africain",
-      "Pompée"
-    ],
-    "correctIndex": 1
+    "text": "Quelle bataille opposa Rome à Pyrrhus d’Épire en Italie ?",
+    "answers": ["Héraclée", "Sentinum", "Cannes", "Zama"],
+    "correctIndex": 0
   },
+
   {
-    "id": "q160",
+    "id": "qAM161",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Athènes",
-      "Pompéi",
-      "Carthage",
-      "Babylone"
-    ],
+    "text": "Quel empereur romain fut le premier empereur chrétien ?",
+    "answers": ["Théodose Ier", "Constantin", "Galère", "Valentinien"],
     "correctIndex": 1
   },
   {
-    "id": "q161",
+    "id": "qAM162",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel général romain a vaincu Vercingétorix à Alésia ?",
-    "answers": [
-      "Scipion l'Africain",
-      "Pompée",
-      "Crassus",
-      "Jules César"
-    ],
-    "correctIndex": 3
+    "text": "Quelle civilisation antique est associée au site de Mycènes ?",
+    "answers": ["Minoenne", "Mycénienne", "Hellénistique", "Cycladique"],
+    "correctIndex": 1
   },
   {
-    "id": "q162",
+    "id": "qAM163",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel mathématicien grec est célèbre pour son théorème sur les triangles rectangles ?",
-    "answers": [
-      "Archimède",
-      "Euclide",
-      "Pythagore",
-      "Thalès"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain fit construire le Colisée de Rome ?",
+    "answers": ["Vespasien", "Titus", "Domitien", "Claude"],
+    "correctIndex": 0
   },
   {
-    "id": "q163",
+    "id": "qAM164",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui a fondé la dynastie des Han en Chine ?",
-    "answers": [
-      "Liu Bang",
-      "Wu Zetian",
-      "Sun Tzu",
-      "Qin Shi Huang"
-    ],
+    "text": "Quelle cité grecque était réputée pour son école de rhétorique en Asie Mineure ?",
+    "answers": ["Pergame", "Milet", "Éphèse", "Sardes"],
     "correctIndex": 0
   },
   {
-    "id": "q164",
+    "id": "qAM165",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel mathématicien grec est célèbre pour son théorème sur les triangles rectangles ?",
-    "answers": [
-      "Euclide",
-      "Pythagore",
-      "Thalès",
-      "Archimède"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain mit fin à la dynastie des Sévères ?",
+    "answers": ["Caracalla", "Élagabal", "Alexandre Sévère", "Maximin le Thrace"],
+    "correctIndex": 2
   },
+
   {
-    "id": "q165",
+    "id": "qAM166",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Pompéi",
-      "Babylone",
-      "Athènes",
-      "Carthage"
-    ],
-    "correctIndex": 0
+    "text": "Quelle cité grecque est associée au législateur Lycurgue ?",
+    "answers": ["Athènes", "Thèbes", "Sparte", "Argos"],
+    "correctIndex": 2
   },
   {
-    "id": "q166",
+    "id": "qAM167",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui était le chef de la ligue achéenne au IIIe siècle av. J.-C. ?",
-    "answers": [
-      "Aratos de Sicyone",
-      "Périclès",
-      "Démosthène",
-      "Alcibiade"
-    ],
+    "text": "Quel empereur romain fit construire la Villa d’Hadrien à Tivoli ?",
+    "answers": ["Hadrien", "Trajan", "Antonin le Pieux", "Marc Aurèle"],
     "correctIndex": 0
   },
   {
-    "id": "q167",
+    "id": "qAM168",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel pharaon est connu pour avoir tenté une révolution religieuse en Égypte ?",
-    "answers": [
-      "Akhenaton",
-      "Thoutmôsis III",
-      "Toutânkhamon",
-      "Ramsès II"
-    ],
-    "correctIndex": 0
+    "text": "Quelle civilisation antique est associée au site d’Ougarit ?",
+    "answers": ["Phénicienne", "Cananéenne", "Assyrienne", "Hittite"],
+    "correctIndex": 1
   },
   {
-    "id": "q168",
+    "id": "qAM169",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code d'Hammurabi",
-      "Code de Napoléon",
-      "Code de Justinien",
-      "Code de Théodose"
-    ],
+    "text": "Quel empereur romain fut vaincu par les Goths à Andrinople en 378 ?",
+    "answers": ["Valens", "Valentinien Ier", "Théodose Ier", "Gratien"],
     "correctIndex": 0
   },
   {
-    "id": "q169",
+    "id": "qAM170",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui a écrit 'La République' ?",
-    "answers": [
-      "Platon",
-      "Héraclite",
-      "Aristote",
-      "Socrate"
-    ],
-    "correctIndex": 0
+    "text": "Quelle cité grecque était célèbre pour son port de Rhodes ?",
+    "answers": ["Cnide", "Rhodes", "Cos", "Samos"],
+    "correctIndex": 1
   },
+
   {
-    "id": "q170",
+    "id": "qAM171",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel mathématicien grec est célèbre pour son théorème sur les triangles rectangles ?",
-    "answers": [
-      "Archimède",
-      "Thalès",
-      "Pythagore",
-      "Euclide"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain promulgua l’édit de Thessalonique ?",
+    "answers": ["Constantin", "Théodose Ier", "Gratien", "Valentinien II"],
+    "correctIndex": 1
   },
   {
-    "id": "q171",
+    "id": "qAM172",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel général romain a vaincu Vercingétorix à Alésia ?",
-    "answers": [
-      "Pompée",
-      "Jules César",
-      "Crassus",
-      "Scipion l'Africain"
-    ],
+    "text": "Quelle civilisation antique est associée à la ville de Byblos ?",
+    "answers": ["Égyptienne", "Phénicienne", "Assyrienne", "Cananéenne"],
     "correctIndex": 1
   },
   {
-    "id": "q172",
+    "id": "qAM173",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui était le chef de la ligue achéenne au IIIe siècle av. J.-C. ?",
-    "answers": [
-      "Périclès",
-      "Aratos de Sicyone",
-      "Alcibiade",
-      "Démosthène"
-    ],
+    "text": "Quel général romain vainquit Spartacus ?",
+    "answers": ["Pompée", "Crassus", "César", "Sylla"],
     "correctIndex": 1
   },
   {
-    "id": "q173",
+    "id": "qAM174",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Carthage",
-      "Babylone",
-      "Pompéi",
-      "Athènes"
-    ],
-    "correctIndex": 2
+    "text": "Quelle cité grecque était réputée pour son oracle de Zeus ?",
+    "answers": ["Dodone", "Delphes", "Olympie", "Épidaure"],
+    "correctIndex": 0
   },
   {
-    "id": "q174",
+    "id": "qAM175",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Carthage",
-      "Athènes",
-      "Babylone",
-      "Pompéi"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain régna lors du sac de Rome par les Wisigoths en 410 ?",
+    "answers": ["Honorius", "Arcadius", "Théodose II", "Valentinien III"],
+    "correctIndex": 0
   },
+
   {
-    "id": "q175",
+    "id": "qAM176",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle est la plus ancienne des Sept Merveilles du monde antique ?",
-    "answers": [
-      "Colosse de Rhodes",
-      "Pyramide de Khéops",
-      "Jardins suspendus de Babylone",
-      "Phare d'Alexandrie"
-    ],
+    "text": "Quelle civilisation antique est associée au site de Tarse ?",
+    "answers": ["Grecque", "Cilicienne", "Perse", "Phénicienne"],
     "correctIndex": 1
   },
   {
-    "id": "q176",
+    "id": "qAM177",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel pharaon est connu pour avoir tenté une révolution religieuse en Égypte ?",
-    "answers": [
-      "Thoutmôsis III",
-      "Akhenaton",
-      "Ramsès II",
-      "Toutânkhamon"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain est connu pour avoir fait ériger l’arc de Bénévent ?",
+    "answers": ["Trajan", "Hadrien", "Marc Aurèle", "Septime Sévère"],
+    "correctIndex": 0
   },
   {
-    "id": "q177",
+    "id": "qAM178",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Carthage",
-      "Athènes",
-      "Babylone",
-      "Pompéi"
-    ],
-    "correctIndex": 3
+    "text": "Quelle cité grecque est associée au philosophe Anaxagore ?",
+    "answers": ["Clazomènes", "Milet", "Éphèse", "Samos"],
+    "correctIndex": 0
   },
   {
-    "id": "q178",
+    "id": "qAM179",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Carthage",
-      "Pompéi",
-      "Babylone",
-      "Athènes"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain divisa l’Empire entre Orient et Occident à sa mort ?",
+    "answers": ["Dioclétien", "Constantin", "Théodose Ier", "Valentinien Ier"],
+    "correctIndex": 2
   },
   {
-    "id": "q179",
+    "id": "qAM180",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle est la plus ancienne des Sept Merveilles du monde antique ?",
-    "answers": [
-      "Jardins suspendus de Babylone",
-      "Colosse de Rhodes",
-      "Pyramide de Khéops",
-      "Phare d'Alexandrie"
-    ],
+    "text": "Quelle civilisation antique est associée au site de Teotihuacan ?",
+    "answers": ["Maya", "Aztèque", "Teotihuacaine", "Olmèque"],
     "correctIndex": 2
   },
+
   {
-    "id": "q180",
+    "id": "qAM181",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Pompéi",
-      "Carthage",
-      "Babylone",
-      "Athènes"
-    ],
+    "text": "Quel empereur romain fit édifier le temple de Vénus et de Rome ?",
+    "answers": ["Hadrien", "Trajan", "Antonin le Pieux", "Marc Aurèle"],
     "correctIndex": 0
   },
   {
-    "id": "q181",
+    "id": "qAM182",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel roi perse a affronté Alexandre le Grand ?",
-    "answers": [
-      "Xerxès Ier",
-      "Cyrus le Grand",
-      "Darius Ier",
-      "Darius III"
-    ],
-    "correctIndex": 3
+    "text": "Quelle cité grecque était la patrie d’Archimède ?",
+    "answers": ["Syracuse", "Tarente", "Athènes", "Milet"],
+    "correctIndex": 0
   },
   {
-    "id": "q182",
+    "id": "qAM183",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle est la plus ancienne des Sept Merveilles du monde antique ?",
-    "answers": [
-      "Colosse de Rhodes",
-      "Phare d'Alexandrie",
-      "Jardins suspendus de Babylone",
-      "Pyramide de Khéops"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain fit assassiner son frère Geta ?",
+    "answers": ["Caracalla", "Commode", "Élagabal", "Maximin"],
+    "correctIndex": 0
   },
   {
-    "id": "q183",
+    "id": "qAM184",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel roi perse a affronté Alexandre le Grand ?",
-    "answers": [
-      "Darius Ier",
-      "Cyrus le Grand",
-      "Xerxès Ier",
-      "Darius III"
-    ],
-    "correctIndex": 3
+    "text": "Quelle civilisation antique est associée aux tombes étrusques de Tarquinia ?",
+    "answers": ["Latine", "Étrusque", "Sabine", "Samnite"],
+    "correctIndex": 1
   },
   {
-    "id": "q184",
+    "id": "qAM185",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle est la plus ancienne des Sept Merveilles du monde antique ?",
-    "answers": [
-      "Pyramide de Khéops",
-      "Colosse de Rhodes",
-      "Jardins suspendus de Babylone",
-      "Phare d'Alexandrie"
-    ],
-    "correctIndex": 0
+    "text": "Quel empereur romain mit en place le dominat impérial ?",
+    "answers": ["Aurélien", "Dioclétien", "Constantin", "Probus"],
+    "correctIndex": 1
   },
+
   {
-    "id": "q185",
+    "id": "qAM186",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code de Justinien",
-      "Code de Théodose",
-      "Code d'Hammurabi",
-      "Code de Napoléon"
-    ],
-    "correctIndex": 2
+    "text": "Quelle cité grecque est associée au sculpteur Phidias ?",
+    "answers": ["Athènes", "Olympie", "Argos", "Corinthe"],
+    "correctIndex": 0
   },
   {
-    "id": "q186",
+    "id": "qAM187",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel général romain a vaincu Vercingétorix à Alésia ?",
-    "answers": [
-      "Pompée",
-      "Scipion l'Africain",
-      "Crassus",
-      "Jules César"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain est connu pour avoir restauré le mur d’Hadrien ?",
+    "answers": ["Septime Sévère", "Caracalla", "Claude", "Trajan"],
+    "correctIndex": 0
   },
   {
-    "id": "q187",
+    "id": "qAM188",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code de Justinien",
-      "Code de Napoléon",
-      "Code d'Hammurabi",
-      "Code de Théodose"
-    ],
-    "correctIndex": 2
+    "text": "Quelle civilisation antique est associée au royaume de Saba ?",
+    "answers": ["Nabatéenne", "Sabéenne", "Phénicienne", "Éthiopienne"],
+    "correctIndex": 1
   },
   {
-    "id": "q188",
+    "id": "qAM189",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel roi perse a affronté Alexandre le Grand ?",
-    "answers": [
-      "Cyrus le Grand",
-      "Darius III",
-      "Xerxès Ier",
-      "Darius Ier"
-    ],
+    "text": "Quel empereur romain interdit définitivement les cultes païens ?",
+    "answers": ["Constantin", "Théodose Ier", "Gratien", "Honorius"],
     "correctIndex": 1
   },
   {
-    "id": "q189",
+    "id": "qAM190",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Pompéi",
-      "Babylone",
-      "Carthage",
-      "Athènes"
-    ],
+    "text": "Quelle cité grecque est associée à la bataille de Mantinée (362 av. J.-C.) ?",
+    "answers": ["Thèbes", "Sparte", "Athènes", "Argos"],
     "correctIndex": 0
   },
+
   {
-    "id": "q190",
+    "id": "qAM191",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel général romain a vaincu Vercingétorix à Alésia ?",
-    "answers": [
-      "Scipion l'Africain",
-      "Crassus",
-      "Jules César",
-      "Pompée"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q191",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel roi perse a affronté Alexandre le Grand ?",
-    "answers": [
-      "Darius III",
-      "Darius Ier",
-      "Xerxès Ier",
-      "Cyrus le Grand"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q192",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code de Théodose",
-      "Code de Napoléon",
-      "Code d'Hammurabi",
-      "Code de Justinien"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q193",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Qui était le chef de la ligue achéenne au IIIe siècle av. J.-C. ?",
-    "answers": [
-      "Alcibiade",
-      "Aratos de Sicyone",
-      "Démosthène",
-      "Périclès"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q194",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel général romain a vaincu Vercingétorix à Alésia ?",
-    "answers": [
-      "Crassus",
-      "Pompée",
-      "Scipion l'Africain",
-      "Jules César"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q195",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel général romain a vaincu Vercingétorix à Alésia ?",
-    "answers": [
-      "Pompée",
-      "Scipion l'Africain",
-      "Jules César",
-      "Crassus"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q196",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quelle est la plus ancienne des Sept Merveilles du monde antique ?",
-    "answers": [
-      "Colosse de Rhodes",
-      "Pyramide de Khéops",
-      "Phare d'Alexandrie",
-      "Jardins suspendus de Babylone"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q197",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code de Théodose",
-      "Code de Justinien",
-      "Code d'Hammurabi",
-      "Code de Napoléon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q198",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code d'Hammurabi",
-      "Code de Théodose",
-      "Code de Justinien",
-      "Code de Napoléon"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q199",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel pharaon est connu pour avoir tenté une révolution religieuse en Égypte ?",
-    "answers": [
-      "Akhenaton",
-      "Ramsès II",
-      "Thoutmôsis III",
-      "Toutânkhamon"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q200",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel mathématicien grec est célèbre pour son théorème sur les triangles rectangles ?",
-    "answers": [
-      "Thalès",
-      "Pythagore",
-      "Archimède",
-      "Euclide"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q201",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel mathématicien grec est célèbre pour son théorème sur les triangles rectangles ?",
-    "answers": [
-      "Thalès",
-      "Pythagore",
-      "Archimède",
-      "Euclide"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q202",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel pharaon est connu pour avoir tenté une révolution religieuse en Égypte ?",
-    "answers": [
-      "Akhenaton",
-      "Ramsès II",
-      "Thoutmôsis III",
-      "Toutânkhamon"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q203",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quelle est la plus ancienne des Sept Merveilles du monde antique ?",
-    "answers": [
-      "Colosse de Rhodes",
-      "Phare d'Alexandrie",
-      "Pyramide de Khéops",
-      "Jardins suspendus de Babylone"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q204",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Qui a fondé la dynastie des Han en Chine ?",
-    "answers": [
-      "Wu Zetian",
-      "Liu Bang",
-      "Qin Shi Huang",
-      "Sun Tzu"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q205",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Qui a écrit 'La République' ?",
-    "answers": [
-      "Héraclite",
-      "Platon",
-      "Socrate",
-      "Aristote"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q206",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code de Justinien",
-      "Code de Napoléon",
-      "Code de Théodose",
-      "Code d'Hammurabi"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q207",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quelle est la plus ancienne des Sept Merveilles du monde antique ?",
-    "answers": [
-      "Pyramide de Khéops",
-      "Phare d'Alexandrie",
-      "Jardins suspendus de Babylone",
-      "Colosse de Rhodes"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q208",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel général romain a vaincu Vercingétorix à Alésia ?",
-    "answers": [
-      "Scipion l'Africain",
-      "Pompée",
-      "Jules César",
-      "Crassus"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q209",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code d'Hammurabi",
-      "Code de Justinien",
-      "Code de Napoléon",
-      "Code de Théodose"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q210",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Carthage",
-      "Athènes",
-      "Babylone",
-      "Pompéi"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q211",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel pharaon est connu pour avoir tenté une révolution religieuse en Égypte ?",
-    "answers": [
-      "Akhenaton",
-      "Ramsès II",
-      "Thoutmôsis III",
-      "Toutânkhamon"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q212",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel roi perse a affronté Alexandre le Grand ?",
-    "answers": [
-      "Xerxès Ier",
-      "Darius Ier",
-      "Darius III",
-      "Cyrus le Grand"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q213",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Qui a fondé la dynastie des Han en Chine ?",
-    "answers": [
-      "Qin Shi Huang",
-      "Sun Tzu",
-      "Wu Zetian",
-      "Liu Bang"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q214",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code de Justinien",
-      "Code de Napoléon",
-      "Code de Théodose",
-      "Code d'Hammurabi"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q215",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel général romain a vaincu Vercingétorix à Alésia ?",
-    "answers": [
-      "Scipion l'Africain",
-      "Jules César",
-      "Crassus",
-      "Pompée"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q216",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Qui a fondé la dynastie des Han en Chine ?",
-    "answers": [
-      "Qin Shi Huang",
-      "Wu Zetian",
-      "Sun Tzu",
-      "Liu Bang"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q217",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Pompéi",
-      "Babylone",
-      "Carthage",
-      "Athènes"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q218",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Qui a écrit 'La République' ?",
-    "answers": [
-      "Socrate",
-      "Platon",
-      "Héraclite",
-      "Aristote"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q219",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Qui a écrit 'La République' ?",
-    "answers": [
-      "Héraclite",
-      "Aristote",
-      "Socrate",
-      "Platon"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q220",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Babylone",
-      "Athènes",
-      "Carthage",
-      "Pompéi"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q221",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Qui a écrit 'La République' ?",
-    "answers": [
-      "Socrate",
-      "Aristote",
-      "Héraclite",
-      "Platon"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q222",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Qui a fondé la dynastie des Han en Chine ?",
-    "answers": [
-      "Qin Shi Huang",
-      "Liu Bang",
-      "Sun Tzu",
-      "Wu Zetian"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q223",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Qui a écrit 'La République' ?",
-    "answers": [
-      "Socrate",
-      "Aristote",
-      "Platon",
-      "Héraclite"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q224",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code d'Hammurabi",
-      "Code de Théodose",
-      "Code de Napoléon",
-      "Code de Justinien"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q225",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel pharaon est connu pour avoir tenté une révolution religieuse en Égypte ?",
-    "answers": [
-      "Thoutmôsis III",
-      "Toutânkhamon",
-      "Ramsès II",
-      "Akhenaton"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q226",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel mathématicien grec est célèbre pour son théorème sur les triangles rectangles ?",
-    "answers": [
-      "Archimède",
-      "Thalès",
-      "Pythagore",
-      "Euclide"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q227",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Qui a écrit 'La République' ?",
-    "answers": [
-      "Héraclite",
-      "Socrate",
-      "Aristote",
-      "Platon"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q228",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code d'Hammurabi",
-      "Code de Napoléon",
-      "Code de Justinien",
-      "Code de Théodose"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q229",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quelle est la plus ancienne des Sept Merveilles du monde antique ?",
-    "answers": [
-      "Pyramide de Khéops",
-      "Colosse de Rhodes",
-      "Phare d'Alexandrie",
-      "Jardins suspendus de Babylone"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q230",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel roi perse a affronté Alexandre le Grand ?",
-    "answers": [
-      "Darius III",
-      "Xerxès Ier",
-      "Darius Ier",
-      "Cyrus le Grand"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q231",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel mathématicien grec est célèbre pour son théorème sur les triangles rectangles ?",
-    "answers": [
-      "Pythagore",
-      "Euclide",
-      "Thalès",
-      "Archimède"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q232",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel mathématicien grec est célèbre pour son théorème sur les triangles rectangles ?",
-    "answers": [
-      "Euclide",
-      "Archimède",
-      "Thalès",
-      "Pythagore"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q233",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Pompéi",
-      "Babylone",
-      "Athènes",
-      "Carthage"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q234",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Qui a écrit 'La République' ?",
-    "answers": [
-      "Aristote",
-      "Socrate",
-      "Héraclite",
-      "Platon"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q235",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel général romain a vaincu Vercingétorix à Alésia ?",
-    "answers": [
-      "Jules César",
-      "Crassus",
-      "Pompée",
-      "Scipion l'Africain"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q236",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Carthage",
-      "Athènes",
-      "Babylone",
-      "Pompéi"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q237",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Qui a fondé la dynastie des Han en Chine ?",
-    "answers": [
-      "Wu Zetian",
-      "Qin Shi Huang",
-      "Sun Tzu",
-      "Liu Bang"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q238",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quelle est la plus ancienne des Sept Merveilles du monde antique ?",
-    "answers": [
-      "Phare d'Alexandrie",
-      "Jardins suspendus de Babylone",
-      "Pyramide de Khéops",
-      "Colosse de Rhodes"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q239",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Qui a écrit 'La République' ?",
-    "answers": [
-      "Héraclite",
-      "Platon",
-      "Socrate",
-      "Aristote"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q240",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Qui a fondé la dynastie des Han en Chine ?",
-    "answers": [
-      "Sun Tzu",
-      "Wu Zetian",
-      "Qin Shi Huang",
-      "Liu Bang"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q241",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel roi perse a affronté Alexandre le Grand ?",
-    "answers": [
-      "Darius III",
-      "Darius Ier",
-      "Cyrus le Grand",
-      "Xerxès Ier"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q242",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Qui a écrit 'La République' ?",
-    "answers": [
-      "Héraclite",
-      "Socrate",
-      "Platon",
-      "Aristote"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q243",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quelle est la plus ancienne des Sept Merveilles du monde antique ?",
-    "answers": [
-      "Jardins suspendus de Babylone",
-      "Colosse de Rhodes",
-      "Phare d'Alexandrie",
-      "Pyramide de Khéops"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q244",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code de Justinien",
-      "Code de Napoléon",
-      "Code d'Hammurabi",
-      "Code de Théodose"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q245",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code d'Hammurabi",
-      "Code de Napoléon",
-      "Code de Justinien",
-      "Code de Théodose"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q246",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code d'Hammurabi",
-      "Code de Théodose",
-      "Code de Napoléon",
-      "Code de Justinien"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q247",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code de Napoléon",
-      "Code de Justinien",
-      "Code de Théodose",
-      "Code d'Hammurabi"
-    ],
+    "text": "Quel empereur romain est connu pour avoir fait édifier le temple de Baalbek ?",
+    "answers": ["Auguste", "Hadrien", "Caracalla", "Septime Sévère"],
     "correctIndex": 3
   },
   {
-    "id": "q248",
+    "id": "qAM192",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel pharaon est connu pour avoir tenté une révolution religieuse en Égypte ?",
-    "answers": [
-      "Akhenaton",
-      "Toutânkhamon",
-      "Ramsès II",
-      "Thoutmôsis III"
-    ],
+    "text": "Quelle civilisation antique est associée au site de Petra ?",
+    "answers": ["Nabatéenne", "Araméenne", "Phénicienne", "Assyrienne"],
     "correctIndex": 0
-  },
-  {
-    "id": "q249",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quelle est la plus ancienne des Sept Merveilles du monde antique ?",
-    "answers": [
-      "Phare d'Alexandrie",
-      "Colosse de Rhodes",
-      "Jardins suspendus de Babylone",
-      "Pyramide de Khéops"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q250",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Carthage",
-      "Babylone",
-      "Pompéi",
-      "Athènes"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q251",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quelle est la plus ancienne des Sept Merveilles du monde antique ?",
-    "answers": [
-      "Colosse de Rhodes",
-      "Phare d'Alexandrie",
-      "Jardins suspendus de Babylone",
-      "Pyramide de Khéops"
-    ],
-    "correctIndex": 3
   },
   {
-    "id": "q252",
+    "id": "qAM193",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle est la plus ancienne des Sept Merveilles du monde antique ?",
-    "answers": [
-      "Phare d'Alexandrie",
-      "Colosse de Rhodes",
-      "Jardins suspendus de Babylone",
-      "Pyramide de Khéops"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q253",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Qui a fondé la dynastie des Han en Chine ?",
-    "answers": [
-      "Sun Tzu",
-      "Liu Bang",
-      "Qin Shi Huang",
-      "Wu Zetian"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q254",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel pharaon est connu pour avoir tenté une révolution religieuse en Égypte ?",
-    "answers": [
-      "Ramsès II",
-      "Akhenaton",
-      "Toutânkhamon",
-      "Thoutmôsis III"
-    ],
+    "text": "Quel empereur romain mit fin au principat en instaurant un pouvoir absolu ?",
+    "answers": ["Aurélien", "Dioclétien", "Constantin", "Maximien"],
     "correctIndex": 1
-  },
-  {
-    "id": "q255",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Qui a fondé la dynastie des Han en Chine ?",
-    "answers": [
-      "Wu Zetian",
-      "Qin Shi Huang",
-      "Liu Bang",
-      "Sun Tzu"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q256",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Qui était le chef de la ligue achéenne au IIIe siècle av. J.-C. ?",
-    "answers": [
-      "Aratos de Sicyone",
-      "Périclès",
-      "Démosthène",
-      "Alcibiade"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q257",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quelle est la plus ancienne des Sept Merveilles du monde antique ?",
-    "answers": [
-      "Colosse de Rhodes",
-      "Phare d'Alexandrie",
-      "Jardins suspendus de Babylone",
-      "Pyramide de Khéops"
-    ],
-    "correctIndex": 3
   },
   {
-    "id": "q258",
+    "id": "qAM194",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel roi perse a affronté Alexandre le Grand ?",
-    "answers": [
-      "Darius III",
-      "Xerxès Ier",
-      "Cyrus le Grand",
-      "Darius Ier"
-    ],
+    "text": "Quelle cité grecque était associée à l’école mégarique de philosophie ?",
+    "answers": ["Mégare", "Athènes", "Corinthe", "Thèbes"],
     "correctIndex": 0
-  },
-  {
-    "id": "q259",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel pharaon est connu pour avoir tenté une révolution religieuse en Égypte ?",
-    "answers": [
-      "Thoutmôsis III",
-      "Akhenaton",
-      "Ramsès II",
-      "Toutânkhamon"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q260",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code de Napoléon",
-      "Code d'Hammurabi",
-      "Code de Théodose",
-      "Code de Justinien"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q261",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel pharaon est connu pour avoir tenté une révolution religieuse en Égypte ?",
-    "answers": [
-      "Toutânkhamon",
-      "Ramsès II",
-      "Thoutmôsis III",
-      "Akhenaton"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q262",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel pharaon est connu pour avoir tenté une révolution religieuse en Égypte ?",
-    "answers": [
-      "Toutânkhamon",
-      "Akhenaton",
-      "Ramsès II",
-      "Thoutmôsis III"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q263",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Qui a fondé la dynastie des Han en Chine ?",
-    "answers": [
-      "Sun Tzu",
-      "Wu Zetian",
-      "Qin Shi Huang",
-      "Liu Bang"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q264",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel général romain a vaincu Vercingétorix à Alésia ?",
-    "answers": [
-      "Crassus",
-      "Jules César",
-      "Scipion l'Africain",
-      "Pompée"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q265",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel roi perse a affronté Alexandre le Grand ?",
-    "answers": [
-      "Cyrus le Grand",
-      "Darius Ier",
-      "Darius III",
-      "Xerxès Ier"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q266",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel mathématicien grec est célèbre pour son théorème sur les triangles rectangles ?",
-    "answers": [
-      "Euclide",
-      "Archimède",
-      "Pythagore",
-      "Thalès"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q267",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel pharaon est connu pour avoir tenté une révolution religieuse en Égypte ?",
-    "answers": [
-      "Thoutmôsis III",
-      "Akhenaton",
-      "Ramsès II",
-      "Toutânkhamon"
-    ],
-    "correctIndex": 1
   },
   {
-    "id": "q268",
+    "id": "qAM195",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel mathématicien grec est célèbre pour son théorème sur les triangles rectangles ?",
-    "answers": [
-      "Pythagore",
-      "Archimède",
-      "Euclide",
-      "Thalès"
-    ],
+    "text": "Quel empereur romain est connu pour avoir instauré le culte de Sol Invictus ?",
+    "answers": ["Aurélien", "Dioclétien", "Caracalla", "Constantin"],
     "correctIndex": 0
-  },
-  {
-    "id": "q269",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code de Théodose",
-      "Code de Justinien",
-      "Code d'Hammurabi",
-      "Code de Napoléon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q270",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel roi perse a affronté Alexandre le Grand ?",
-    "answers": [
-      "Xerxès Ier",
-      "Darius Ier",
-      "Darius III",
-      "Cyrus le Grand"
-    ],
-    "correctIndex": 2
   },
+
   {
-    "id": "q271",
+    "id": "qAM196",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Pompéi",
-      "Babylone",
-      "Athènes",
-      "Carthage"
-    ],
+    "text": "Quelle civilisation antique est associée au site de Hatra ?",
+    "answers": ["Parthe", "Perse", "Assyrienne", "Sassanide"],
     "correctIndex": 0
-  },
-  {
-    "id": "q272",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Babylone",
-      "Pompéi",
-      "Carthage",
-      "Athènes"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q273",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel pharaon est connu pour avoir tenté une révolution religieuse en Égypte ?",
-    "answers": [
-      "Ramsès II",
-      "Thoutmôsis III",
-      "Akhenaton",
-      "Toutânkhamon"
-    ],
-    "correctIndex": 2
   },
   {
-    "id": "q274",
+    "id": "qAM197",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel pharaon est connu pour avoir tenté une révolution religieuse en Égypte ?",
-    "answers": [
-      "Akhenaton",
-      "Toutânkhamon",
-      "Ramsès II",
-      "Thoutmôsis III"
-    ],
+    "text": "Quel empereur romain est mort assassiné par ses soldats en 235 ?",
+    "answers": ["Alexandre Sévère", "Maximin le Thrace", "Caracalla", "Élagabal"],
     "correctIndex": 0
-  },
-  {
-    "id": "q275",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel pharaon est connu pour avoir tenté une révolution religieuse en Égypte ?",
-    "answers": [
-      "Ramsès II",
-      "Toutânkhamon",
-      "Akhenaton",
-      "Thoutmôsis III"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q276",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel roi perse a affronté Alexandre le Grand ?",
-    "answers": [
-      "Darius Ier",
-      "Xerxès Ier",
-      "Cyrus le Grand",
-      "Darius III"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q277",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quelle cité antique a été détruite par l'éruption du Vésuve en 79 apr. J.-C. ?",
-    "answers": [
-      "Athènes",
-      "Carthage",
-      "Babylone",
-      "Pompéi"
-    ],
-    "correctIndex": 3
   },
   {
-    "id": "q278",
+    "id": "qAM198",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel pharaon est connu pour avoir tenté une révolution religieuse en Égypte ?",
-    "answers": [
-      "Akhenaton",
-      "Toutânkhamon",
-      "Ramsès II",
-      "Thoutmôsis III"
-    ],
+    "text": "Quelle cité grecque est associée au philosophe Héraclite ?",
+    "answers": ["Éphèse", "Milet", "Samos", "Colophon"],
     "correctIndex": 0
-  },
-  {
-    "id": "q279",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel pharaon est connu pour avoir tenté une révolution religieuse en Égypte ?",
-    "answers": [
-      "Thoutmôsis III",
-      "Akhenaton",
-      "Toutânkhamon",
-      "Ramsès II"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q280",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Qui était le chef de la ligue achéenne au IIIe siècle av. J.-C. ?",
-    "answers": [
-      "Démosthène",
-      "Périclès",
-      "Aratos de Sicyone",
-      "Alcibiade"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q281",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quelle est la plus ancienne des Sept Merveilles du monde antique ?",
-    "answers": [
-      "Phare d'Alexandrie",
-      "Jardins suspendus de Babylone",
-      "Pyramide de Khéops",
-      "Colosse de Rhodes"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q282",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Qui a fondé la dynastie des Han en Chine ?",
-    "answers": [
-      "Qin Shi Huang",
-      "Liu Bang",
-      "Wu Zetian",
-      "Sun Tzu"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q283",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Qui était le chef de la ligue achéenne au IIIe siècle av. J.-C. ?",
-    "answers": [
-      "Démosthène",
-      "Aratos de Sicyone",
-      "Alcibiade",
-      "Périclès"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q284",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Qui a fondé la dynastie des Han en Chine ?",
-    "answers": [
-      "Wu Zetian",
-      "Liu Bang",
-      "Qin Shi Huang",
-      "Sun Tzu"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q285",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code de Napoléon",
-      "Code d'Hammurabi",
-      "Code de Théodose",
-      "Code de Justinien"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q286",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Qui a fondé la dynastie des Han en Chine ?",
-    "answers": [
-      "Sun Tzu",
-      "Wu Zetian",
-      "Liu Bang",
-      "Qin Shi Huang"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q287",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel roi perse a affronté Alexandre le Grand ?",
-    "answers": [
-      "Darius Ier",
-      "Cyrus le Grand",
-      "Darius III",
-      "Xerxès Ier"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q288",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel pharaon est connu pour avoir tenté une révolution religieuse en Égypte ?",
-    "answers": [
-      "Ramsès II",
-      "Akhenaton",
-      "Thoutmôsis III",
-      "Toutânkhamon"
-    ],
-    "correctIndex": 1
   },
   {
-    "id": "q289",
+    "id": "qAM199",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Qui était le chef de la ligue achéenne au IIIe siècle av. J.-C. ?",
-    "answers": [
-      "Aratos de Sicyone",
-      "Périclès",
-      "Alcibiade",
-      "Démosthène"
-    ],
+    "text": "Quel empereur romain est connu pour avoir organisé les Jeux séculaires de 17 av. J.-C. ?",
+    "answers": ["Auguste", "Tibère", "Claude", "Domitien"],
     "correctIndex": 0
-  },
-  {
-    "id": "q290",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Qui a écrit 'La République' ?",
-    "answers": [
-      "Aristote",
-      "Socrate",
-      "Héraclite",
-      "Platon"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q291",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel pharaon est connu pour avoir tenté une révolution religieuse en Égypte ?",
-    "answers": [
-      "Toutânkhamon",
-      "Akhenaton",
-      "Thoutmôsis III",
-      "Ramsès II"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q292",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel pharaon est connu pour avoir tenté une révolution religieuse en Égypte ?",
-    "answers": [
-      "Ramsès II",
-      "Toutânkhamon",
-      "Akhenaton",
-      "Thoutmôsis III"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q293",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel mathématicien grec est célèbre pour son théorème sur les triangles rectangles ?",
-    "answers": [
-      "Euclide",
-      "Thalès",
-      "Pythagore",
-      "Archimède"
-    ],
-    "correctIndex": 2
   },
   {
-    "id": "q294",
+    "id": "qAM200",
     "category": "Antiquité",
     "difficulty": "Moyen",
-    "text": "Quel général romain a vaincu Vercingétorix à Alésia ?",
-    "answers": [
-      "Pompée",
-      "Scipion l'Africain",
-      "Crassus",
-      "Jules César"
-    ],
+    "text": "Quelle civilisation antique est associée à la ville de Suse ?",
+    "answers": ["Babylonienne", "Perse", "Assyrienne", "Élamite"],
     "correctIndex": 3
-  },
-  {
-    "id": "q295",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel pharaon est connu pour avoir tenté une révolution religieuse en Égypte ?",
-    "answers": [
-      "Toutânkhamon",
-      "Akhenaton",
-      "Ramsès II",
-      "Thoutmôsis III"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q296",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code de Justinien",
-      "Code de Théodose",
-      "Code d'Hammurabi",
-      "Code de Napoléon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q297",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Quel est le nom du célèbre code de lois babylonien ?",
-    "answers": [
-      "Code de Justinien",
-      "Code d'Hammurabi",
-      "Code de Napoléon",
-      "Code de Théodose"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q298",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Qui était le chef de la ligue achéenne au IIIe siècle av. J.-C. ?",
-    "answers": [
-      "Alcibiade",
-      "Démosthène",
-      "Aratos de Sicyone",
-      "Périclès"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q299",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Qui a écrit 'La République' ?",
-    "answers": [
-      "Aristote",
-      "Héraclite",
-      "Platon",
-      "Socrate"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q300",
-    "category": "Antiquité",
-    "difficulty": "Moyen",
-    "text": "Qui était le chef de la ligue achéenne au IIIe siècle av. J.-C. ?",
-    "answers": [
-      "Aratos de Sicyone",
-      "Démosthène",
-      "Périclès",
-      "Alcibiade"
-    ],
-    "correctIndex": 0
   }
 ]
