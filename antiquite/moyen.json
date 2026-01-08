@@ -4,7 +4,11 @@
     "category": "Antiquité",
     "difficulty": "Moyen",
     "text": "Quelle bataille de 480 av. J.-C. opposa les Grecs à l’armée perse de Xerxès dans un défilé étroit ?",
-    "answers": ["Marathon", "Salamine", "Platées", "Thermopyles"],
+    "answers": ["Marathon",
+    "Salamine", 
+    "Platées", 
+    "Thermopyles"
+    ],
     "correctIndex": 3
   },
   {
