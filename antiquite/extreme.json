@@ -1,3902 +1,1602 @@
 [
   {
-    "id": "q1",
+    "id": "qAX1",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel royaume antique est à l'origine de l'alphabet phénicien ?",
-    "answers": [
-      "Phénicie",
-      "Babylone",
-      "Sumér",
-      "Hittites"
-    ],
+    "text": "Quel magistrat romain présidait traditionnellement les comices centuriates lors de l’élection des consuls ?",
+    "answers": ["Le préteur urbain", "Le consul sortant", "Le tribun de la plèbe", "Le censeur"],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAX2",
+    "category": "Antiquité",
+    "difficulty": "Extrême",
+    "text": "Quelle cité ionienne fut le centre principal de la ligue ionienne à l’époque archaïque ?",
+    "answers": ["Milet", "Éphèse", "Priène", "Myonte"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAX3",
+    "category": "Antiquité",
+    "difficulty": "Extrême",
+    "text": "Quel traité de 188 av. J.-C. mit fin à la guerre entre Rome et Antiochos III ?",
+    "answers": ["Traité d’Apamée", "Traité de Magnésie", "Traité de Pergame", "Traité de Sardes"],
     "correctIndex": 0
   },
   {
-    "id": "q2",
+    "id": "qAX4",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "Le Livre des Morts",
-      "L'Épopée de Gilgamesh",
-      "L'Iliade",
-      "Les Métamorphoses"
-    ],
+    "text": "Quel stratège athénien institua la rémunération des jurés (misthos) au Ve siècle av. J.-C. ?",
+    "answers": ["Cimon", "Périclès", "Nicias", "Thémistocle"],
     "correctIndex": 1
   },
   {
-    "id": "q3",
+    "id": "qAX5",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "L'Iliade",
-      "Les Métamorphoses",
-      "L'Épopée de Gilgamesh",
-      "Le Livre des Morts"
-    ],
-    "correctIndex": 2
+    "text": "Quelle cité hellénistique fut fondée par Séleucos Ier sur l’Oronte ?",
+    "answers": ["Apamée", "Antioche", "Laodicée", "Séleucie de Piérie"],
+    "correctIndex": 1
   },
   {
-    "id": "q4",
+    "id": "qAX6",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel royaume antique est à l'origine de l'alphabet phénicien ?",
-    "answers": [
-      "Babylone",
-      "Hittites",
-      "Sumér",
-      "Phénicie"
-    ],
-    "correctIndex": 3
+    "text": "Quel roi numide succéda à Massinissa après sa mort en 148 av. J.-C. ?",
+    "answers": ["Jugurtha", "Micipsa", "Gauda", "Adherbal"],
+    "correctIndex": 1
   },
   {
-    "id": "q5",
+    "id": "qAX7",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel peuple antique a inventé la roue ?",
-    "answers": [
-      "Égyptiens",
-      "Hittites",
-      "Perses",
-      "Sumériens"
-    ],
+    "text": "Quelle charge religieuse romaine était détenue à vie par les vestales ?",
+    "answers": ["Pontifex minor", "Flaminica", "Sacerdos", "Vestal"],
     "correctIndex": 3
   },
   {
-    "id": "q6",
+    "id": "qAX8",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Pepi II",
-      "Séthi Ier",
-      "Thoutmôsis III",
-      "Ramsès II"
-    ],
-    "correctIndex": 0
+    "text": "Quelle bataille navale de 256 av. J.-C. opposa Rome et Carthage au large de la Sicile ?",
+    "answers": ["Mylae", "Drépane", "Ecnome", "Lilybée"],
+    "correctIndex": 2
   },
   {
-    "id": "q7",
+    "id": "qAX9",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "L'Iliade",
-      "Les Métamorphoses",
-      "L'Épopée de Gilgamesh",
-      "Le Livre des Morts"
-    ],
-    "correctIndex": 2
+    "text": "Quel philosophe grec dirigea l’Académie après la mort de Platon ?",
+    "answers": ["Aristote", "Speusippe", "Xénocrate", "Crantor"],
+    "correctIndex": 1
   },
   {
-    "id": "q8",
+    "id": "qAX10",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi hittite a signé le plus ancien traité de paix connu avec Ramsès II ?",
-    "answers": [
-      "Hattousili III",
-      "Muwatalli II",
-      "Tudhaliya IV",
-      "Suppiluliuma Ier"
-    ],
+    "text": "Quelle cité fut la capitale de la satrapie perse de Lydie ?",
+    "answers": ["Sardes", "Éphèse", "Milet", "Pergame"],
     "correctIndex": 0
   },
   {
-    "id": "q9",
+    "id": "qAX11",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a fait construire le mur d'Hadrien ?",
-    "answers": [
-      "Commode",
-      "Trajan",
-      "Hadrien",
-      "Nerva"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain abolit la distinction juridique entre citoyens romains et pérégrins en 212 ?",
+    "answers": ["Septime Sévère", "Caracalla", "Élagabal", "Alexandre Sévère"],
+    "correctIndex": 1
   },
   {
-    "id": "q10",
+    "id": "qAX12",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "Le Livre des Morts",
-      "Les Métamorphoses",
-      "L'Iliade",
-      "L'Épopée de Gilgamesh"
-    ],
-    "correctIndex": 3
+    "text": "Quelle cité grecque contrôlait l’amphictyonie de Delphes au IVe siècle av. J.-C. ?",
+    "answers": ["Athènes", "Thèbes", "Sparte", "Phocide"],
+    "correctIndex": 1
   },
   {
-    "id": "q11",
+    "id": "qAX13",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quelle cité antique de Mésopotamie est célèbre pour ses ziggourats ?",
-    "answers": [
-      "Babylone",
-      "Ur",
-      "Lagash",
-      "Nippur"
-    ],
+    "text": "Quel général romain remporta la bataille de Zama en 202 av. J.-C. ?",
+    "answers": ["Fabius Maximus", "Scipion l’Africain", "Marcellus", "Caton l’Ancien"],
     "correctIndex": 1
   },
   {
-    "id": "q12",
+    "id": "qAX14",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi assyrien a fondé la célèbre bibliothèque de Ninive ?",
-    "answers": [
-      "Shalmaneser V",
-      "Sennachérib",
-      "Assurbanipal",
-      "Tiglath-Phalasar III"
-    ],
+    "text": "Quel auteur grec est la principale source sur les guerres médiques ?",
+    "answers": ["Thucydide", "Xénophon", "Hérodote", "Polybe"],
     "correctIndex": 2
   },
   {
-    "id": "q13",
+    "id": "qAX15",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Thoutmôsis III",
-      "Ramsès II",
-      "Séthi Ier",
-      "Pepi II"
-    ],
-    "correctIndex": 3
+    "text": "Quelle cité fut la capitale de l’Empire parthe à son apogée ?",
+    "answers": ["Ctésiphon", "Séleucie", "Ecbatane", "Suse"],
+    "correctIndex": 0
   },
   {
-    "id": "q14",
+    "id": "qAX16",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel peuple antique a inventé la roue ?",
-    "answers": [
-      "Égyptiens",
-      "Sumériens",
-      "Hittites",
-      "Perses"
-    ],
+    "text": "Quel magistrat romain était chargé du ravitaillement en blé de Rome (annone) ?",
+    "answers": ["Le questeur", "Le préfet de l’annone", "Le censeur", "Le tribun militaire"],
     "correctIndex": 1
   },
   {
-    "id": "q15",
+    "id": "qAX17",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quelle cité antique de Mésopotamie est célèbre pour ses ziggourats ?",
-    "answers": [
-      "Nippur",
-      "Ur",
-      "Babylone",
-      "Lagash"
-    ],
+    "text": "Quelle cité grecque fonda la colonie de Massalia ?",
+    "answers": ["Corinthe", "Phocée", "Milet", "Rhodes"],
     "correctIndex": 1
   },
   {
-    "id": "q16",
+    "id": "qAX18",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel peuple antique a inventé la roue ?",
-    "answers": [
-      "Hittites",
-      "Sumériens",
-      "Égyptiens",
-      "Perses"
-    ],
+    "text": "Quel empereur romain instaura la tétrarchie à la fin du IIIe siècle ?",
+    "answers": ["Aurélien", "Dioclétien", "Probus", "Constantin"],
     "correctIndex": 1
   },
   {
-    "id": "q17",
+    "id": "qAX19",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel philosophe présocratique a affirmé que 'tout est changement' ?",
-    "answers": [
-      "Parménide",
-      "Démocrite",
-      "Héraclite",
-      "Zénon d'Élée"
-    ],
+    "text": "Quelle bataille de 168 av. J.-C. mit fin à la puissance macédonienne ?",
+    "answers": ["Chéronée", "Cynoscephales", "Pydna", "Ipsos"],
     "correctIndex": 2
   },
   {
-    "id": "q18",
+    "id": "qAX20",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel peuple antique a inventé la roue ?",
-    "answers": [
-      "Sumériens",
-      "Perses",
-      "Hittites",
-      "Égyptiens"
-    ],
-    "correctIndex": 0
+    "text": "Quel dieu mésopotamien était associé à la justice et au soleil à Babylone ?",
+    "answers": ["Marduk", "Shamash", "Enlil", "Nergal"],
+    "correctIndex": 1
   },
   {
-    "id": "q19",
+    "id": "qAX21",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Thoutmôsis III",
-      "Séthi Ier",
-      "Pepi II",
-      "Ramsès II"
-    ],
+    "text": "Quelle cité grecque était la capitale de la Béotie ?",
+    "answers": ["Platées", "Orchomène", "Thèbes", "Tanagra"],
     "correctIndex": 2
   },
   {
-    "id": "q20",
+    "id": "qAX22",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi hittite a signé le plus ancien traité de paix connu avec Ramsès II ?",
-    "answers": [
-      "Suppiluliuma Ier",
-      "Muwatalli II",
-      "Hattousili III",
-      "Tudhaliya IV"
-    ],
-    "correctIndex": 2
+    "text": "Quel auteur latin rédigea les « Annales » couvrant les débuts de l’Empire romain ?",
+    "answers": ["Suétone", "Tacite", "Tite-Live", "Salluste"],
+    "correctIndex": 1
   },
   {
-    "id": "q21",
+    "id": "qAX23",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel peuple antique a inventé la roue ?",
-    "answers": [
-      "Sumériens",
-      "Hittites",
-      "Perses",
-      "Égyptiens"
-    ],
-    "correctIndex": 0
+    "text": "Quelle cité fut la capitale du royaume de Pergame sous les Attalides ?",
+    "answers": ["Smyrne", "Éphèse", "Pergame", "Milet"],
+    "correctIndex": 2
   },
   {
-    "id": "q22",
+    "id": "qAX24",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi assyrien a fondé la célèbre bibliothèque de Ninive ?",
-    "answers": [
-      "Tiglath-Phalasar III",
-      "Sennachérib",
-      "Assurbanipal",
-      "Shalmaneser V"
-    ],
-    "correctIndex": 2
+    "text": "Quel peuple antique est à l’origine de l’alphabet ougaritique ?",
+    "answers": ["Phéniciens", "Cananéens", "Hittites", "Araméens"],
+    "correctIndex": 1
   },
   {
-    "id": "q23",
+    "id": "qAX25",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel royaume antique est à l'origine de l'alphabet phénicien ?",
-    "answers": [
-      "Hittites",
-      "Phénicie",
-      "Babylone",
-      "Sumér"
-    ],
+    "text": "Quelle bataille de 394 av. J.-C. vit Sparte affronter une coalition grecque en Asie Mineure ?",
+    "answers": ["Coronée", "Cnide", "Némée", "Leuctres"],
     "correctIndex": 1
   },
   {
-    "id": "q24",
+    "id": "qAX26",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi assyrien a fondé la célèbre bibliothèque de Ninive ?",
-    "answers": [
-      "Sennachérib",
-      "Tiglath-Phalasar III",
-      "Shalmaneser V",
-      "Assurbanipal"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain promulgua l’édit de Milan en 313 ?",
+    "answers": ["Dioclétien", "Galère", "Constantin", "Licinius"],
+    "correctIndex": 2
   },
   {
-    "id": "q25",
+    "id": "qAX27",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel peuple antique a inventé la roue ?",
-    "answers": [
-      "Perses",
-      "Sumériens",
-      "Hittites",
-      "Égyptiens"
-    ],
-    "correctIndex": 1
+    "text": "Quelle cité grecque contrôlait le sanctuaire d’Éleusis ?",
+    "answers": ["Athènes", "Mégare", "Corinthe", "Thèbes"],
+    "correctIndex": 0
   },
   {
-    "id": "q26",
+    "id": "qAX28",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Séthi Ier",
-      "Thoutmôsis III",
-      "Pepi II",
-      "Ramsès II"
-    ],
+    "text": "Quel roi perse fonda l’Empire achéménide au VIe siècle av. J.-C. ?",
+    "answers": ["Darius Ier", "Xerxès Ier", "Cyrus II", "Cambyse II"],
     "correctIndex": 2
   },
   {
-    "id": "q27",
+    "id": "qAX29",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "Les Métamorphoses",
-      "L'Épopée de Gilgamesh",
-      "Le Livre des Morts",
-      "L'Iliade"
-    ],
-    "correctIndex": 1
+    "text": "Quelle cité grecque fut la patrie du mathématicien Euclide ?",
+    "answers": ["Athènes", "Alexandrie", "Mégare", "Syracuse"],
+    "correctIndex": 2
   },
   {
-    "id": "q28",
+    "id": "qAX30",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "L'Épopée de Gilgamesh",
-      "Les Métamorphoses",
-      "L'Iliade",
-      "Le Livre des Morts"
-    ],
+    "text": "Quel empereur romain fit transférer la capitale à Nicomédie avant Constantinople ?",
+    "answers": ["Dioclétien", "Aurélien", "Probus", "Maximien"],
     "correctIndex": 0
-  },
-  {
-    "id": "q29",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quelle cité antique de Mésopotamie est célèbre pour ses ziggourats ?",
-    "answers": [
-      "Nippur",
-      "Ur",
-      "Babylone",
-      "Lagash"
-    ],
-    "correctIndex": 1
   },
   {
-    "id": "q30",
+    "id": "qAX31",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel philosophe présocratique a affirmé que 'tout est changement' ?",
-    "answers": [
-      "Démocrite",
-      "Parménide",
-      "Zénon d'Élée",
-      "Héraclite"
-    ],
-    "correctIndex": 3
+    "text": "Quelle cité antique fut la capitale du royaume d’Épire sous Pyrrhus ?",
+    "answers": ["Ambracie", "Dodone", "Buthrote", "Apollonie"],
+    "correctIndex": 0
   },
   {
-    "id": "q31",
+    "id": "qAX32",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel peuple antique a inventé la roue ?",
-    "answers": [
-      "Égyptiens",
-      "Hittites",
-      "Sumériens",
-      "Perses"
-    ],
-    "correctIndex": 2
+    "text": "Quel philosophe grec est associé à l’école du Jardin ?",
+    "answers": ["Zénon", "Épicure", "Aristote", "Pyrrhon"],
+    "correctIndex": 1
   },
   {
-    "id": "q32",
+    "id": "qAX33",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a fait construire le mur d'Hadrien ?",
-    "answers": [
-      "Trajan",
-      "Hadrien",
-      "Nerva",
-      "Commode"
-    ],
+    "text": "Quelle cité romaine fut fondée comme colonie pour les vétérans de César en Gaule ?",
+    "answers": ["Lugdunum", "Arelate", "Narbo", "Vienna"],
     "correctIndex": 1
   },
   {
-    "id": "q33",
+    "id": "qAX34",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quelle cité antique de Mésopotamie est célèbre pour ses ziggourats ?",
-    "answers": [
-      "Lagash",
-      "Babylone",
-      "Nippur",
-      "Ur"
-    ],
-    "correctIndex": 3
+    "text": "Quel roi hellénistique fonda la bibliothèque de Pergame ?",
+    "answers": ["Attale Ier", "Eumène II", "Philétairos", "Attale II"],
+    "correctIndex": 2
   },
   {
-    "id": "q34",
+    "id": "qAX35",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel peuple antique a inventé la roue ?",
-    "answers": [
-      "Perses",
-      "Hittites",
-      "Égyptiens",
-      "Sumériens"
-    ],
-    "correctIndex": 3
+    "text": "Quelle cité grecque était la patrie du tyran Polycrate ?",
+    "answers": ["Chios", "Samos", "Milet", "Naxos"],
+    "correctIndex": 1
   },
   {
-    "id": "q35",
+    "id": "qAX36",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel peuple antique a inventé la roue ?",
-    "answers": [
-      "Hittites",
-      "Égyptiens",
-      "Perses",
-      "Sumériens"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain institua le culte officiel du Sol Invictus ?",
+    "answers": ["Aurélien", "Élagabal", "Dioclétien", "Probus"],
+    "correctIndex": 0
   },
   {
-    "id": "q36",
+    "id": "qAX37",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel savant grec a calculé la circonférence de la Terre avec des bâtons et des ombres ?",
-    "answers": [
-      "Hipparque",
-      "Anaximandre",
-      "Ptolémée",
-      "Ératosthène"
-    ],
-    "correctIndex": 3
+    "text": "Quelle cité grecque contrôlait la péninsule de Chalcidique au Ve siècle av. J.-C. ?",
+    "answers": ["Olynthe", "Potidée", "Amphipolis", "Thessalonique"],
+    "correctIndex": 0
   },
   {
-    "id": "q37",
+    "id": "qAX38",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel peuple antique a inventé la roue ?",
-    "answers": [
-      "Sumériens",
-      "Hittites",
-      "Perses",
-      "Égyptiens"
-    ],
+    "text": "Quel empereur romain fut proclamé par ses troupes à York (Eboracum) en 306 ?",
+    "answers": ["Constantin", "Maxence", "Licinius", "Galère"],
     "correctIndex": 0
   },
   {
-    "id": "q38",
+    "id": "qAX39",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a fait construire le mur d'Hadrien ?",
-    "answers": [
-      "Hadrien",
-      "Trajan",
-      "Nerva",
-      "Commode"
-    ],
+    "text": "Quelle cité antique fut la capitale du royaume de Commagène ?",
+    "answers": ["Samosate", "Édesse", "Antioche", "Nisibe"],
     "correctIndex": 0
   },
   {
-    "id": "q39",
+    "id": "qAX40",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel peuple antique a inventé la roue ?",
-    "answers": [
-      "Perses",
-      "Hittites",
-      "Égyptiens",
-      "Sumériens"
-    ],
-    "correctIndex": 3
+    "text": "Quel philosophe grec développa la logique propositionnelle au IVe siècle av. J.-C. ?",
+    "answers": ["Aristote", "Chrysippe", "Euclide de Mégare", "Théophraste"],
+    "correctIndex": 2
   },
   {
-    "id": "q40",
+    "id": "qAX41",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi assyrien a fondé la célèbre bibliothèque de Ninive ?",
-    "answers": [
-      "Sennachérib",
-      "Assurbanipal",
-      "Tiglath-Phalasar III",
-      "Shalmaneser V"
-    ],
+    "text": "Quelle cité romaine fut la capitale de la province d’Afrique proconsulaire ?",
+    "answers": ["Utique", "Carthage", "Hadrumète", "Leptis Magna"],
     "correctIndex": 1
   },
   {
-    "id": "q41",
+    "id": "qAX42",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quelle cité antique de Mésopotamie est célèbre pour ses ziggourats ?",
-    "answers": [
-      "Nippur",
-      "Ur",
-      "Lagash",
-      "Babylone"
-    ],
+    "text": "Quel roi spartiate mourut à la bataille des Thermopyles ?",
+    "answers": ["Cléomène", "Léonidas", "Agésilas", "Pausanias"],
     "correctIndex": 1
   },
   {
-    "id": "q42",
+    "id": "qAX43",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "L'Épopée de Gilgamesh",
-      "L'Iliade",
-      "Le Livre des Morts",
-      "Les Métamorphoses"
-    ],
+    "text": "Quelle cité grecque était la patrie du géographe Strabon ?",
+    "answers": ["Amasée", "Sinope", "Trébizonde", "Byzance"],
     "correctIndex": 0
   },
   {
-    "id": "q43",
+    "id": "qAX44",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "L'Épopée de Gilgamesh",
-      "Les Métamorphoses",
-      "Le Livre des Morts",
-      "L'Iliade"
-    ],
-    "correctIndex": 0
+    "text": "Quel empereur romain fit construire les thermes de Caracalla ?",
+    "answers": ["Septime Sévère", "Caracalla", "Élagabal", "Alexandre Sévère"],
+    "correctIndex": 1
   },
   {
-    "id": "q44",
+    "id": "qAX45",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel savant grec a calculé la circonférence de la Terre avec des bâtons et des ombres ?",
-    "answers": [
-      "Ptolémée",
-      "Anaximandre",
-      "Hipparque",
-      "Ératosthène"
-    ],
-    "correctIndex": 3
+    "text": "Quelle cité antique fut la capitale du royaume de Maurétanie ?",
+    "answers": ["Volubilis", "Tingis", "Caesarea", "Lixus"],
+    "correctIndex": 2
   },
   {
-    "id": "q45",
+    "id": "qAX46",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Séthi Ier",
-      "Ramsès II",
-      "Thoutmôsis III",
-      "Pepi II"
-    ],
-    "correctIndex": 3
+    "text": "Quel philosophe grec est à l’origine du scepticisme pyrrhonien ?",
+    "answers": ["Pyrrhon", "Aristippe", "Zénon", "Épicure"],
+    "correctIndex": 0
   },
   {
-    "id": "q46",
+    "id": "qAX47",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel peuple antique a inventé la roue ?",
-    "answers": [
-      "Hittites",
-      "Perses",
-      "Égyptiens",
-      "Sumériens"
-    ],
-    "correctIndex": 3
+    "text": "Quelle cité romaine fut la capitale de la province d’Hispanie citérieure ?",
+    "answers": ["Tarraco", "Corduba", "Emerita Augusta", "Carthago Nova"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAX48",
+    "category": "Antiquité",
+    "difficulty": "Extrême",
+    "text": "Quel roi hellénistique régna sur l’Égypte lors de la bataille d’Actium ?",
+    "answers": ["Ptolémée XII", "Ptolémée XIII", "Ptolémée XV", "Ptolémée XIV"],
+    "correctIndex": 2
   },
   {
-    "id": "q47",
+    "id": "qAX49",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel savant grec a calculé la circonférence de la Terre avec des bâtons et des ombres ?",
-    "answers": [
-      "Hipparque",
-      "Ptolémée",
-      "Anaximandre",
-      "Ératosthène"
-    ],
+    "text": "Quelle cité grecque fut la capitale de la ligue achéenne ?",
+    "answers": ["Corinthe", "Argos", "Mégalopolis", "Sicyone"],
     "correctIndex": 3
   },
   {
-    "id": "q48",
+    "id": "qAX50",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Séthi Ier",
-      "Pepi II",
-      "Ramsès II",
-      "Thoutmôsis III"
-    ],
+    "text": "Quel empereur romain ordonna la construction du mur d’Antonin en Bretagne ?",
+    "answers": ["Hadrien", "Antonin le Pieux", "Septime Sévère", "Caracalla"],
     "correctIndex": 1
-  },
+  }
   {
-    "id": "q49",
+    "id": "qAX51",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel peuple antique a inventé la roue ?",
-    "answers": [
-      "Sumériens",
-      "Perses",
-      "Hittites",
-      "Égyptiens"
-    ],
-    "correctIndex": 0
+    "text": "Quelle loi romaine de 287 av. J.-C. rendit les plébiscites obligatoires pour tous les citoyens sans ratification sénatoriale ?",
+    "answers": ["Lex Canuleia", "Lex Hortensia", "Lex Ogulnia", "Lex Valeria"],
+    "correctIndex": 1
   },
   {
-    "id": "q50",
+    "id": "qAX52",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quelle cité antique de Mésopotamie est célèbre pour ses ziggourats ?",
-    "answers": [
-      "Lagash",
-      "Nippur",
-      "Ur",
-      "Babylone"
-    ],
+    "text": "Quel sanctuaire panhellénique était administré par l’amphictyonie delphique ?",
+    "answers": ["Olympie", "Délos", "Delphes", "Némée"],
     "correctIndex": 2
   },
   {
-    "id": "q51",
+    "id": "qAX53",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "L'Iliade",
-      "Le Livre des Morts",
-      "Les Métamorphoses",
-      "L'Épopée de Gilgamesh"
-    ],
-    "correctIndex": 3
+    "text": "Quel roi séleucide imposa la politique d’hellénisation en Judée déclenchant la révolte des Maccabées ?",
+    "answers": ["Séleucos Ier", "Antiochos III", "Antiochos IV Épiphane", "Démétrios Ier"],
+    "correctIndex": 2
   },
   {
-    "id": "q52",
+    "id": "qAX54",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi assyrien a fondé la célèbre bibliothèque de Ninive ?",
-    "answers": [
-      "Shalmaneser V",
-      "Sennachérib",
-      "Tiglath-Phalasar III",
-      "Assurbanipal"
-    ],
-    "correctIndex": 3
+    "text": "Quel auteur grec, contemporain d’Auguste, composa une « Bibliothèque historique » en 40 livres ?",
+    "answers": ["Dion Cassius", "Diodore de Sicile", "Strabon", "Appien"],
+    "correctIndex": 1
   },
   {
-    "id": "q53",
+    "id": "qAX55",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel philosophe présocratique a affirmé que 'tout est changement' ?",
-    "answers": [
-      "Héraclite",
-      "Zénon d'Élée",
-      "Parménide",
-      "Démocrite"
-    ],
-    "correctIndex": 0
+    "text": "Quelle cité grecque était le centre de la confédération béotienne à l’époque classique ?",
+    "answers": ["Orchomène", "Platées", "Thèbes", "Thespies"],
+    "correctIndex": 2
   },
   {
-    "id": "q54",
+    "id": "qAX56",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel philosophe présocratique a affirmé que 'tout est changement' ?",
-    "answers": [
-      "Héraclite",
-      "Zénon d'Élée",
-      "Parménide",
-      "Démocrite"
-    ],
+    "text": "Quel magistrat romain avait pour mission principale l’organisation des jeux (ludi) et l’entretien des marchés ?",
+    "answers": ["Édile", "Questeur", "Préteur", "Tribun militaire"],
     "correctIndex": 0
   },
   {
-    "id": "q55",
+    "id": "qAX57",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi hittite a signé le plus ancien traité de paix connu avec Ramsès II ?",
-    "answers": [
-      "Muwatalli II",
-      "Hattousili III",
-      "Suppiluliuma Ier",
-      "Tudhaliya IV"
-    ],
-    "correctIndex": 1
+    "text": "Quelle bataille de 53 av. J.-C. vit la défaite de Crassus face aux Parthes ?",
+    "answers": ["Carrhes", "Nisibe", "Ctésiphon", "Raphia"],
+    "correctIndex": 0
   },
   {
-    "id": "q56",
+    "id": "qAX58",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi assyrien a fondé la célèbre bibliothèque de Ninive ?",
-    "answers": [
-      "Sennachérib",
-      "Shalmaneser V",
-      "Assurbanipal",
-      "Tiglath-Phalasar III"
-    ],
+    "text": "Quel traité de 301 av. J.-C. mit fin à la quatrième guerre des Diadoques après la bataille d’Ipsos ?",
+    "answers": ["Traité de Triparadisos", "Partage de Babylone", "Partage d’Ipsos", "Paix de Corinthe"],
     "correctIndex": 2
   },
   {
-    "id": "q57",
+    "id": "qAX59",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Pepi II",
-      "Ramsès II",
-      "Thoutmôsis III",
-      "Séthi Ier"
-    ],
+    "text": "Quel philosophe péripatéticien succéda à Aristote à la tête du Lycée ?",
+    "answers": ["Théophraste", "Eudème", "Straton de Lampsaque", "Andronicos de Rhodes"],
     "correctIndex": 0
   },
   {
-    "id": "q58",
+    "id": "qAX60",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "Le Livre des Morts",
-      "L'Iliade",
-      "Les Métamorphoses",
-      "L'Épopée de Gilgamesh"
-    ],
-    "correctIndex": 3
+    "text": "Quelle ville d’Égypte fut le centre du culte de Sérapis à l’époque ptolémaïque ?",
+    "answers": ["Memphis", "Alexandrie", "Thèbes", "Héliopolis"],
+    "correctIndex": 1
   },
   {
-    "id": "q59",
+    "id": "qAX61",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a fait construire le mur d'Hadrien ?",
-    "answers": [
-      "Hadrien",
-      "Commode",
-      "Nerva",
-      "Trajan"
-    ],
+    "text": "Quel empereur romain promulgua l’édit maximal sur les prix (Edictum de pretiis) en 301 ?",
+    "answers": ["Dioclétien", "Constantin", "Aurélien", "Probus"],
     "correctIndex": 0
   },
   {
-    "id": "q60",
+    "id": "qAX62",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Thoutmôsis III",
-      "Ramsès II",
-      "Pepi II",
-      "Séthi Ier"
-    ],
+    "text": "Quelle institution spartiate élisait annuellement deux magistrats supérieurs ?",
+    "answers": ["La Gérousia", "L’Apella", "Les Éphores", "Les Harmostes"],
     "correctIndex": 2
   },
   {
-    "id": "q61",
+    "id": "qAX63",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Thoutmôsis III",
-      "Ramsès II",
-      "Pepi II",
-      "Séthi Ier"
-    ],
-    "correctIndex": 2
+    "text": "Quel auteur latin est le principal témoin de l’éruption du Vésuve de 79 (lettres) ?",
+    "answers": ["Pline l’Ancien", "Pline le Jeune", "Suétone", "Tacite"],
+    "correctIndex": 1
   },
   {
-    "id": "q62",
+    "id": "qAX64",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Ramsès II",
-      "Pepi II",
-      "Séthi Ier",
-      "Thoutmôsis III"
-    ],
+    "text": "Quelle bataille de 255 av. J.-C. vit la défaite romaine près de Tunis durant la première guerre punique ?",
+    "answers": ["Adys", "Bagradas", "Ecnome", "Panormos"],
     "correctIndex": 1
   },
   {
-    "id": "q63",
+    "id": "qAX65",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a fait construire le mur d'Hadrien ?",
-    "answers": [
-      "Trajan",
-      "Nerva",
-      "Commode",
-      "Hadrien"
-    ],
-    "correctIndex": 3
+    "text": "Quel roi lagide régna lors de la bataille de Raphia (217 av. J.-C.) ?",
+    "answers": ["Ptolémée II", "Ptolémée III", "Ptolémée IV", "Ptolémée V"],
+    "correctIndex": 2
   },
   {
-    "id": "q64",
+    "id": "qAX66",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel peuple antique a inventé la roue ?",
-    "answers": [
-      "Sumériens",
-      "Hittites",
-      "Égyptiens",
-      "Perses"
-    ],
-    "correctIndex": 0
+    "text": "Quelle réforme attribuée à Clisthène créa les dèmes comme unités civiques à Athènes ?",
+    "answers": ["Réforme isonomique", "Réforme timocratique", "Réforme des trittyes", "Réforme de Solon"],
+    "correctIndex": 2
   },
   {
-    "id": "q65",
+    "id": "qAX67",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a fait construire le mur d'Hadrien ?",
-    "answers": [
-      "Nerva",
-      "Hadrien",
-      "Commode",
-      "Trajan"
-    ],
-    "correctIndex": 1
+    "text": "Quel général carthaginois remporta la bataille de Cannes en 216 av. J.-C. ?",
+    "answers": ["Hamilcar Barca", "Hasdrubal", "Hannibal", "Magon"],
+    "correctIndex": 2
   },
   {
-    "id": "q66",
+    "id": "qAX68",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a fait construire le mur d'Hadrien ?",
-    "answers": [
-      "Trajan",
-      "Hadrien",
-      "Commode",
-      "Nerva"
-    ],
-    "correctIndex": 1
+    "text": "Quel tribunal athénien était compétent pour les homicides involontaires, siégeant à Phalère ?",
+    "answers": ["Aréopage", "Prytaneion", "Phreatto", "Delphinion"],
+    "correctIndex": 2
   },
   {
-    "id": "q67",
+    "id": "qAX69",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Séthi Ier",
-      "Ramsès II",
-      "Pepi II",
-      "Thoutmôsis III"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain fonda la colonie d’Aelia Capitolina sur le site de Jérusalem ?",
+    "answers": ["Trajan", "Hadrien", "Antonin le Pieux", "Septime Sévère"],
+    "correctIndex": 1
   },
   {
-    "id": "q68",
+    "id": "qAX70",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi assyrien a fondé la célèbre bibliothèque de Ninive ?",
-    "answers": [
-      "Assurbanipal",
-      "Tiglath-Phalasar III",
-      "Shalmaneser V",
-      "Sennachérib"
-    ],
-    "correctIndex": 0
+    "text": "Quel peuple d’Anatolie est associé au royaume de Hattusa à l’âge du bronze ?",
+    "answers": ["Phrygiens", "Hittites", "Lydiens", "Cimmériens"],
+    "correctIndex": 1
   },
   {
-    "id": "q69",
+    "id": "qAX71",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quelle cité antique de Mésopotamie est célèbre pour ses ziggourats ?",
-    "answers": [
-      "Babylone",
-      "Nippur",
-      "Lagash",
-      "Ur"
-    ],
-    "correctIndex": 3
+    "text": "Quel accord de 40 av. J.-C. répartit l’autorité entre Octavien et Marc Antoine en Occident et Orient ?",
+    "answers": ["Pacte de Brindes", "Accord de Misène", "Pacte de Tarente", "Paix de Pérouse"],
+    "correctIndex": 0
   },
   {
-    "id": "q70",
+    "id": "qAX72",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "L'Épopée de Gilgamesh",
-      "Les Métamorphoses",
-      "L'Iliade",
-      "Le Livre des Morts"
-    ],
-    "correctIndex": 0
+    "text": "Quelle cité grecque était la métropole de la colonie de Cyrène en Afrique ?",
+    "answers": ["Corinthe", "Théra", "Milet", "Sparte"],
+    "correctIndex": 1
   },
   {
-    "id": "q71",
+    "id": "qAX73",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel royaume antique est à l'origine de l'alphabet phénicien ?",
-    "answers": [
-      "Babylone",
-      "Sumér",
-      "Hittites",
-      "Phénicie"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain est associé à la fondation de la colonie de Timgad (Thamugadi) ?",
+    "answers": ["Trajan", "Hadrien", "Auguste", "Antonin le Pieux"],
+    "correctIndex": 0
   },
   {
-    "id": "q72",
+    "id": "qAX74",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a fait construire le mur d'Hadrien ?",
-    "answers": [
-      "Hadrien",
-      "Commode",
-      "Nerva",
-      "Trajan"
-    ],
-    "correctIndex": 0
+    "text": "Quel philosophe stoïcien rédigea les « Entretiens » transmis par Arrien ?",
+    "answers": ["Sénèque", "Épictète", "Chrysippe", "Musonius Rufus"],
+    "correctIndex": 1
   },
   {
-    "id": "q73",
+    "id": "qAX75",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi assyrien a fondé la célèbre bibliothèque de Ninive ?",
-    "answers": [
-      "Assurbanipal",
-      "Sennachérib",
-      "Tiglath-Phalasar III",
-      "Shalmaneser V"
-    ],
+    "text": "Quelle bataille de 241 av. J.-C. au large de la Sicile mit fin à la première guerre punique ?",
+    "answers": ["Îles Égates", "Drépane", "Mylae", "Ecnome"],
     "correctIndex": 0
   },
   {
-    "id": "q74",
+    "id": "qAX76",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Thoutmôsis III",
-      "Ramsès II",
-      "Pepi II",
-      "Séthi Ier"
-    ],
-    "correctIndex": 2
+    "text": "Quel royaume hellénistique eut pour capitale Pella puis Thessalonique comme grand centre macédonien ?",
+    "answers": ["Royaume antigonide", "Royaume séleucide", "Royaume lagide", "Royaume attalide"],
+    "correctIndex": 0
   },
   {
-    "id": "q75",
+    "id": "qAX77",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "Le Livre des Morts",
-      "L'Iliade",
-      "L'Épopée de Gilgamesh",
-      "Les Métamorphoses"
-    ],
-    "correctIndex": 2
+    "text": "Quel texte législatif romain est traditionnellement associé aux décemvirs et daté du milieu du Ve siècle av. J.-C. ?",
+    "answers": ["Lex Hortensia", "Lois des Douze Tables", "Lex Valeria", "Lex Claudia"],
+    "correctIndex": 1
   },
   {
-    "id": "q76",
+    "id": "qAX78",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel royaume antique est à l'origine de l'alphabet phénicien ?",
-    "answers": [
-      "Sumér",
-      "Babylone",
-      "Hittites",
-      "Phénicie"
-    ],
-    "correctIndex": 3
+    "text": "Quelle cité grecque fut le siège de l’école de rhétorique d’Isocrate ?",
+    "answers": ["Athènes", "Rhodes", "Pergame", "Alexandrie"],
+    "correctIndex": 0
   },
   {
-    "id": "q77",
+    "id": "qAX79",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel philosophe présocratique a affirmé que 'tout est changement' ?",
-    "answers": [
-      "Héraclite",
-      "Zénon d'Élée",
-      "Démocrite",
-      "Parménide"
-    ],
-    "correctIndex": 0
+    "text": "Quel empereur romain donna son nom à la dynastie des Antonins par adoption ?",
+    "answers": ["Nerva", "Trajan", "Antonin le Pieux", "Hadrien"],
+    "correctIndex": 2
   },
   {
-    "id": "q78",
+    "id": "qAX80",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi hittite a signé le plus ancien traité de paix connu avec Ramsès II ?",
-    "answers": [
-      "Suppiluliuma Ier",
-      "Muwatalli II",
-      "Tudhaliya IV",
-      "Hattousili III"
-    ],
-    "correctIndex": 3
+    "text": "Quel peuple grec de Thessalie dominait la plaine autour de Larissa à l’époque archaïque ?",
+    "answers": ["Magnètes", "Perrhèbes", "Thessaliens", "Dolopes"],
+    "correctIndex": 2
   },
   {
-    "id": "q79",
+    "id": "qAX81",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quelle cité antique de Mésopotamie est célèbre pour ses ziggourats ?",
-    "answers": [
-      "Ur",
-      "Nippur",
-      "Lagash",
-      "Babylone"
-    ],
+    "text": "Quel empereur romain fut vaincu et tué par les Goths à la bataille d’Andrinople en 378 ?",
+    "answers": ["Valens", "Gratien", "Théodose Ier", "Valentinien II"],
     "correctIndex": 0
   },
   {
-    "id": "q80",
+    "id": "qAX82",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Pepi II",
-      "Séthi Ier",
-      "Ramsès II",
-      "Thoutmôsis III"
-    ],
+    "text": "Quelle cité grecque était associée au sanctuaire d’Apollon à Didymes ?",
+    "answers": ["Milet", "Éphèse", "Samos", "Halicarnasse"],
     "correctIndex": 0
   },
   {
-    "id": "q81",
+    "id": "qAX83",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi hittite a signé le plus ancien traité de paix connu avec Ramsès II ?",
-    "answers": [
-      "Tudhaliya IV",
-      "Suppiluliuma Ier",
-      "Hattousili III",
-      "Muwatalli II"
-    ],
+    "text": "Quel roi de Cappadoce devint allié majeur de Rome lors des guerres mithridatiques ?",
+    "answers": ["Ariarathès VI", "Ariarathès VII", "Ariobarzane Ier", "Archélaos"],
     "correctIndex": 2
   },
   {
-    "id": "q82",
+    "id": "qAX84",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi assyrien a fondé la célèbre bibliothèque de Ninive ?",
-    "answers": [
-      "Sennachérib",
-      "Assurbanipal",
-      "Tiglath-Phalasar III",
-      "Shalmaneser V"
-    ],
+    "text": "Quel ouvrage d’Arrien relate la conquête d’Alexandre en s’inspirant notamment de Ptolémée et Aristobule ?",
+    "answers": ["Périple du Pont-Euxin", "Anabase d’Alexandre", "Indica", "Tactica"],
     "correctIndex": 1
   },
   {
-    "id": "q83",
+    "id": "qAX85",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel peuple antique a inventé la roue ?",
-    "answers": [
-      "Sumériens",
-      "Égyptiens",
-      "Perses",
-      "Hittites"
-    ],
+    "text": "Quel empereur romain construisit la muraille dite « d’Aurélien » à Rome ?",
+    "answers": ["Aurélien", "Dioclétien", "Probus", "Constantin"],
     "correctIndex": 0
-  },
-  {
-    "id": "q84",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel empereur romain a fait construire le mur d'Hadrien ?",
-    "answers": [
-      "Commode",
-      "Trajan",
-      "Hadrien",
-      "Nerva"
-    ],
-    "correctIndex": 2
   },
   {
-    "id": "q85",
+    "id": "qAX86",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quelle cité antique de Mésopotamie est célèbre pour ses ziggourats ?",
-    "answers": [
-      "Nippur",
-      "Ur",
-      "Lagash",
-      "Babylone"
-    ],
+    "text": "Quel peuple indo-européen est associé aux textes védiques les plus anciens ?",
+    "answers": ["Hittites", "Aryas", "Doriens", "Scythes"],
     "correctIndex": 1
   },
   {
-    "id": "q86",
+    "id": "qAX87",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Séthi Ier",
-      "Thoutmôsis III",
-      "Pepi II",
-      "Ramsès II"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q87",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel roi assyrien a fondé la célèbre bibliothèque de Ninive ?",
-    "answers": [
-      "Assurbanipal",
-      "Shalmaneser V",
-      "Sennachérib",
-      "Tiglath-Phalasar III"
-    ],
+    "text": "Quelle bataille de 31 av. J.-C. opposa Octavien à Marc Antoine et Cléopâtre ?",
+    "answers": ["Actium", "Philippes", "Mutina", "Nauloque"],
     "correctIndex": 0
   },
   {
-    "id": "q88",
+    "id": "qAX88",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel royaume antique est à l'origine de l'alphabet phénicien ?",
-    "answers": [
-      "Sumér",
-      "Babylone",
-      "Hittites",
-      "Phénicie"
-    ],
-    "correctIndex": 3
+    "text": "Quel officier romain commandait une légion en l’absence de légat (poste clé du haut commandement) ?",
+    "answers": ["Primus pilus", "Tribun laticlave", "Praefectus castrorum", "Centurion"],
+    "correctIndex": 1
   },
   {
-    "id": "q89",
+    "id": "qAX89",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a fait construire le mur d'Hadrien ?",
-    "answers": [
-      "Hadrien",
-      "Trajan",
-      "Commode",
-      "Nerva"
-    ],
+    "text": "Quelle cité grecque servit de capitale à l’empire de Dionysios Ier en Sicile ?",
+    "answers": ["Syracuse", "Géla", "Agrigente", "Ségeste"],
     "correctIndex": 0
   },
   {
-    "id": "q90",
+    "id": "qAX90",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel royaume antique est à l'origine de l'alphabet phénicien ?",
-    "answers": [
-      "Babylone",
-      "Hittites",
-      "Phénicie",
-      "Sumér"
-    ],
-    "correctIndex": 2
+    "text": "Quel souverain sassanide remporta une victoire majeure sur Valérien au IIIe siècle ?",
+    "answers": ["Ardashir Ier", "Shapur Ier", "Khosro Ier", "Bahram II"],
+    "correctIndex": 1
   },
   {
-    "id": "q91",
+    "id": "qAX91",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel peuple antique a inventé la roue ?",
-    "answers": [
-      "Sumériens",
-      "Perses",
-      "Égyptiens",
-      "Hittites"
-    ],
+    "text": "Quelle cité antique d’Asie Mineure était la capitale du royaume de Pont sous Mithridate VI à l’origine de sa dynastie ?",
+    "answers": ["Amasée", "Sinope", "Amisos", "Trébizonde"],
     "correctIndex": 0
   },
   {
-    "id": "q92",
+    "id": "qAX92",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel philosophe présocratique a affirmé que 'tout est changement' ?",
-    "answers": [
-      "Démocrite",
-      "Zénon d'Élée",
-      "Héraclite",
-      "Parménide"
-    ],
-    "correctIndex": 2
+    "text": "Quel courant religieux-romain associait Jupiter, Mars et Quirinus comme triade archaïque ?",
+    "answers": ["Triade capitoline", "Triade archaïque", "Triade d’Éleusis", "Triade alexandrine"],
+    "correctIndex": 1
   },
   {
-    "id": "q93",
+    "id": "qAX93",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel royaume antique est à l'origine de l'alphabet phénicien ?",
-    "answers": [
-      "Hittites",
-      "Phénicie",
-      "Sumér",
-      "Babylone"
-    ],
+    "text": "Quel décret athénien de 403/402 av. J.-C. rétablit la démocratie après les Trente ?",
+    "answers": ["Décret de Dracon", "Décret de Patroclide", "Décret de Lycurgue", "Décret de Nicias"],
     "correctIndex": 1
   },
   {
-    "id": "q94",
+    "id": "qAX94",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi assyrien a fondé la célèbre bibliothèque de Ninive ?",
-    "answers": [
-      "Tiglath-Phalasar III",
-      "Sennachérib",
-      "Shalmaneser V",
-      "Assurbanipal"
-    ],
-    "correctIndex": 3
+    "text": "Quel consul romain remporta la bataille de Véies (prise de la cité) selon la tradition ?",
+    "answers": ["Camille", "Corvus", "Fabianus", "Sulla"],
+    "correctIndex": 0
   },
   {
-    "id": "q95",
+    "id": "qAX95",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel philosophe présocratique a affirmé que 'tout est changement' ?",
-    "answers": [
-      "Démocrite",
-      "Zénon d'Élée",
-      "Parménide",
-      "Héraclite"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain institua la division administrative en diocèses sous l’autorité de vicaires ?",
+    "answers": ["Dioclétien", "Constantin", "Théodose Ier", "Valentinien Ier"],
+    "correctIndex": 0
   },
   {
-    "id": "q96",
+    "id": "qAX96",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a fait construire le mur d'Hadrien ?",
-    "answers": [
-      "Trajan",
-      "Commode",
-      "Hadrien",
-      "Nerva"
-    ],
-    "correctIndex": 2
+    "text": "Quel roi d’Arménie fut un allié puis un adversaire de Rome dans les conflits avec les Parthes au Ier siècle av. J.-C. ?",
+    "answers": ["Artavasde II", "Tigrane II", "Trdat Ier", "Arsace Ier"],
+    "correctIndex": 1
   },
   {
-    "id": "q97",
+    "id": "qAX97",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi assyrien a fondé la célèbre bibliothèque de Ninive ?",
-    "answers": [
-      "Assurbanipal",
-      "Shalmaneser V",
-      "Tiglath-Phalasar III",
-      "Sennachérib"
-    ],
+    "text": "Quel auteur grec composa un « Manuel » (Enchiridion) basé sur l’enseignement stoïcien d’Épictète ?",
+    "answers": ["Arrien", "Plutarque", "Lucien", "Dion Chrysostome"],
     "correctIndex": 0
   },
   {
-    "id": "q98",
+    "id": "qAX98",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel savant grec a calculé la circonférence de la Terre avec des bâtons et des ombres ?",
-    "answers": [
-      "Hipparque",
-      "Ératosthène",
-      "Ptolémée",
-      "Anaximandre"
-    ],
-    "correctIndex": 1
+    "text": "Quelle bataille de 480 av. J.-C. vit les Grecs détruire le pont de Xerxès sur l’Hellespont ?",
+    "answers": ["Artemision", "Salamine", "Platées", "Mycale"],
+    "correctIndex": 3
   },
   {
-    "id": "q99",
+    "id": "qAX99",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel savant grec a calculé la circonférence de la Terre avec des bâtons et des ombres ?",
-    "answers": [
-      "Ptolémée",
-      "Ératosthène",
-      "Anaximandre",
-      "Hipparque"
-    ],
+    "text": "Quel empereur romain accorda la citoyenneté romaine aux habitants libres de l’Empire par un édit en 212 ?",
+    "answers": ["Hadrien", "Caracalla", "Septime Sévère", "Commode"],
     "correctIndex": 1
   },
   {
-    "id": "q100",
+    "id": "qAX100",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi assyrien a fondé la célèbre bibliothèque de Ninive ?",
-    "answers": [
-      "Tiglath-Phalasar III",
-      "Shalmaneser V",
-      "Assurbanipal",
-      "Sennachérib"
-    ],
-    "correctIndex": 2
-  },
+    "text": "Quel royaume hellénistique eut pour capitale Séleucie du Tigre avant Ctésiphon comme centre parthe puis sassanide ?",
+    "answers": ["Royaume lagide", "Royaume séleucide", "Royaume attalide", "Royaume gréco-bactrien"],
+    "correctIndex": 1
+  }
   {
-    "id": "q101",
+    "id": "qAX101",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel peuple antique a inventé la roue ?",
-    "answers": [
-      "Sumériens",
-      "Égyptiens",
-      "Hittites",
-      "Perses"
-    ],
-    "correctIndex": 0
+    "text": "Quel magistrat romain présidait le tribunal chargé des litiges impliquant des étrangers (peregrini) à Rome ?",
+    "answers": ["Préteur urbain", "Préteur pérégrin", "Édile curule", "Questeur"],
+    "correctIndex": 1
   },
   {
-    "id": "q102",
+    "id": "qAX102",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quelle cité antique de Mésopotamie est célèbre pour ses ziggourats ?",
-    "answers": [
-      "Ur",
-      "Babylone",
-      "Lagash",
-      "Nippur"
-    ],
-    "correctIndex": 0
+    "text": "Quelle cité grecque fut détruite par Alexandre le Grand en 335 av. J.-C. pour rébellion ?",
+    "answers": ["Athènes", "Thèbes", "Corinthe", "Argos"],
+    "correctIndex": 1
   },
   {
-    "id": "q103",
+    "id": "qAX103",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quelle cité antique de Mésopotamie est célèbre pour ses ziggourats ?",
-    "answers": [
-      "Ur",
-      "Nippur",
-      "Lagash",
-      "Babylone"
-    ],
-    "correctIndex": 0
+    "text": "Quel traité de 63 av. J.-C. mit fin à la troisième guerre mithridatique ?",
+    "answers": ["Traité de Dardanos", "Paix d’Apamée", "Paix de Pompée", "Traité de Nicomédie"],
+    "correctIndex": 2
   },
   {
-    "id": "q104",
+    "id": "qAX104",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi hittite a signé le plus ancien traité de paix connu avec Ramsès II ?",
-    "answers": [
-      "Hattousili III",
-      "Suppiluliuma Ier",
-      "Muwatalli II",
-      "Tudhaliya IV"
-    ],
-    "correctIndex": 0
+    "text": "Quel roi de Pergame légua son royaume à Rome en 133 av. J.-C. ?",
+    "answers": ["Attale II", "Eumène II", "Attale III", "Philétairos"],
+    "correctIndex": 2
   },
   {
-    "id": "q105",
+    "id": "qAX105",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi hittite a signé le plus ancien traité de paix connu avec Ramsès II ?",
-    "answers": [
-      "Muwatalli II",
-      "Suppiluliuma Ier",
-      "Hattousili III",
-      "Tudhaliya IV"
-    ],
+    "text": "Quelle réforme romaine de Marius transforma l’armée en une force professionnelle ?",
+    "answers": ["Réforme censitaire", "Réforme manipulaire", "Réforme marianique", "Réforme sévérienne"],
     "correctIndex": 2
   },
   {
-    "id": "q106",
+    "id": "qAX106",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel philosophe présocratique a affirmé que 'tout est changement' ?",
-    "answers": [
-      "Démocrite",
-      "Héraclite",
-      "Parménide",
-      "Zénon d'Élée"
-    ],
-    "correctIndex": 1
+    "text": "Quelle cité grecque était le centre religieux du culte d’Asclépios le plus réputé du monde antique ?",
+    "answers": ["Cos", "Cnide", "Épidaure", "Pergame"],
+    "correctIndex": 2
   },
   {
-    "id": "q107",
+    "id": "qAX107",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a fait construire le mur d'Hadrien ?",
-    "answers": [
-      "Nerva",
-      "Hadrien",
-      "Trajan",
-      "Commode"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain mit fin à la persécution de Dèce par l’édit de tolérance de 311 ?",
+    "answers": ["Galère", "Maxence", "Constantin", "Licinius"],
+    "correctIndex": 0
   },
   {
-    "id": "q108",
+    "id": "qAX108",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi hittite a signé le plus ancien traité de paix connu avec Ramsès II ?",
-    "answers": [
-      "Muwatalli II",
-      "Suppiluliuma Ier",
-      "Hattousili III",
-      "Tudhaliya IV"
-    ],
-    "correctIndex": 2
+    "text": "Quelle bataille navale de 474 av. J.-C. opposa les Syracusains aux Étrusques au large de Cumes ?",
+    "answers": ["Himère", "Cumes", "Alalia", "Syracuse"],
+    "correctIndex": 1
   },
   {
-    "id": "q109",
+    "id": "qAX109",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "L'Iliade",
-      "Le Livre des Morts",
-      "Les Métamorphoses",
-      "L'Épopée de Gilgamesh"
-    ],
-    "correctIndex": 3
+    "text": "Quel philosophe stoïcien romain fut le précepteur de Néron ?",
+    "answers": ["Musonius Rufus", "Épictète", "Sénèque", "Lucain"],
+    "correctIndex": 2
   },
   {
-    "id": "q110",
+    "id": "qAX110",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel royaume antique est à l'origine de l'alphabet phénicien ?",
-    "answers": [
-      "Phénicie",
-      "Babylone",
-      "Sumér",
-      "Hittites"
-    ],
-    "correctIndex": 0
+    "text": "Quelle cité grecque contrôlait le détroit des Dardanelles (Hellespont) à l’époque classique ?",
+    "answers": ["Byzance", "Abydos", "Lampsaque", "Sestos"],
+    "correctIndex": 3
   },
   {
-    "id": "q111",
+    "id": "qAX111",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel savant grec a calculé la circonférence de la Terre avec des bâtons et des ombres ?",
-    "answers": [
-      "Ératosthène",
-      "Hipparque",
-      "Ptolémée",
-      "Anaximandre"
-    ],
+    "text": "Quel empereur romain institua le culte impérial à Rome de manière systématique ?",
+    "answers": ["Auguste", "Tibère", "Caligula", "Claude"],
     "correctIndex": 0
   },
   {
-    "id": "q112",
+    "id": "qAX112",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel royaume antique est à l'origine de l'alphabet phénicien ?",
-    "answers": [
-      "Babylone",
-      "Hittites",
-      "Phénicie",
-      "Sumér"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q113",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel savant grec a calculé la circonférence de la Terre avec des bâtons et des ombres ?",
-    "answers": [
-      "Ptolémée",
-      "Anaximandre",
-      "Hipparque",
-      "Ératosthène"
-    ],
-    "correctIndex": 3
+    "text": "Quelle cité antique fut la capitale du royaume de Lydie avant la conquête perse ?",
+    "answers": ["Éphèse", "Sardes", "Milet", "Halicarnasse"],
+    "correctIndex": 1
   },
   {
-    "id": "q114",
+    "id": "qAX113",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a fait construire le mur d'Hadrien ?",
-    "answers": [
-      "Trajan",
-      "Commode",
-      "Nerva",
-      "Hadrien"
-    ],
-    "correctIndex": 3
+    "text": "Quel général romain vainquit les Teutons et les Cimbres à Aquae Sextiae en 102 av. J.-C. ?",
+    "answers": ["Sylla", "Marius", "Catulus", "Metellus"],
+    "correctIndex": 1
   },
   {
-    "id": "q115",
+    "id": "qAX114",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi assyrien a fondé la célèbre bibliothèque de Ninive ?",
-    "answers": [
-      "Sennachérib",
-      "Shalmaneser V",
-      "Assurbanipal",
-      "Tiglath-Phalasar III"
-    ],
+    "text": "Quel auteur grec rédigea une Histoire de la guerre du Péloponnèse avec une méthode critique inédite ?",
+    "answers": ["Hérodote", "Xénophon", "Thucydide", "Polybe"],
     "correctIndex": 2
   },
   {
-    "id": "q116",
+    "id": "qAX115",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel peuple antique a inventé la roue ?",
-    "answers": [
-      "Égyptiens",
-      "Sumériens",
-      "Hittites",
-      "Perses"
-    ],
+    "text": "Quelle cité antique fut la capitale du royaume de Numidie orientale avant Cirta ?",
+    "answers": ["Hippo Regius", "Zama", "Utique", "Thabraca"],
     "correctIndex": 1
   },
   {
-    "id": "q117",
+    "id": "qAX116",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel royaume antique est à l'origine de l'alphabet phénicien ?",
-    "answers": [
-      "Babylone",
-      "Hittites",
-      "Phénicie",
-      "Sumér"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain créa la garde prétorienne comme force permanente ?",
+    "answers": ["César", "Auguste", "Tibère", "Claude"],
+    "correctIndex": 1
   },
   {
-    "id": "q118",
+    "id": "qAX117",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel savant grec a calculé la circonférence de la Terre avec des bâtons et des ombres ?",
-    "answers": [
-      "Hipparque",
-      "Anaximandre",
-      "Ptolémée",
-      "Ératosthène"
-    ],
+    "text": "Quelle bataille de 146 av. J.-C. entraîna la destruction de Carthage ?",
+    "answers": ["Zama", "Utique", "Troisième guerre punique", "Prise de Carthage"],
     "correctIndex": 3
   },
   {
-    "id": "q119",
+    "id": "qAX118",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quelle cité antique de Mésopotamie est célèbre pour ses ziggourats ?",
-    "answers": [
-      "Babylone",
-      "Lagash",
-      "Ur",
-      "Nippur"
-    ],
+    "text": "Quel philosophe grec développa la théorie des atomes avec Leucippe ?",
+    "answers": ["Épicure", "Anaxagore", "Démocrite", "Parménide"],
     "correctIndex": 2
   },
   {
-    "id": "q120",
+    "id": "qAX119",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quelle cité antique de Mésopotamie est célèbre pour ses ziggourats ?",
-    "answers": [
-      "Babylone",
-      "Lagash",
-      "Nippur",
-      "Ur"
-    ],
-    "correctIndex": 3
+    "text": "Quelle cité grecque fut la capitale du royaume gréco-bactrien ?",
+    "answers": ["Bactres", "Aï Khanoum", "Maracanda", "Suse"],
+    "correctIndex": 0
   },
   {
-    "id": "q121",
+    "id": "qAX120",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel peuple antique a inventé la roue ?",
-    "answers": [
-      "Hittites",
-      "Égyptiens",
-      "Sumériens",
-      "Perses"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain mit fin à la crise du IIIe siècle en réunifiant l’Empire en 274 ?",
+    "answers": ["Aurélien", "Probus", "Dioclétien", "Claude II"],
+    "correctIndex": 0
   },
   {
-    "id": "q122",
+    "id": "qAX121",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi assyrien a fondé la célèbre bibliothèque de Ninive ?",
-    "answers": [
-      "Assurbanipal",
-      "Sennachérib",
-      "Shalmaneser V",
-      "Tiglath-Phalasar III"
-    ],
-    "correctIndex": 0
+    "text": "Quel tribunal athénien siégeait sur la colline d’Arès pour juger les crimes de sang ?",
+    "answers": ["Héliée", "Aréopage", "Boulè", "Ecclésia"],
+    "correctIndex": 1
   },
   {
-    "id": "q123",
+    "id": "qAX122",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi assyrien a fondé la célèbre bibliothèque de Ninive ?",
-    "answers": [
-      "Sennachérib",
-      "Assurbanipal",
-      "Tiglath-Phalasar III",
-      "Shalmaneser V"
-    ],
+    "text": "Quel empereur romain vainquit Maxence au pont Milvius en 312 ?",
+    "answers": ["Licinius", "Constantin", "Galère", "Maximien"],
     "correctIndex": 1
   },
   {
-    "id": "q124",
+    "id": "qAX123",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a fait construire le mur d'Hadrien ?",
-    "answers": [
-      "Hadrien",
-      "Commode",
-      "Nerva",
-      "Trajan"
-    ],
+    "text": "Quelle cité grecque fonda la colonie de Sinope sur la mer Noire ?",
+    "answers": ["Milet", "Phocée", "Éphèse", "Chalcédoine"],
     "correctIndex": 0
   },
   {
-    "id": "q125",
+    "id": "qAX124",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi hittite a signé le plus ancien traité de paix connu avec Ramsès II ?",
-    "answers": [
-      "Tudhaliya IV",
-      "Hattousili III",
-      "Muwatalli II",
-      "Suppiluliuma Ier"
-    ],
+    "text": "Quel empereur romain ordonna la destruction du Second Temple de Jérusalem ?",
+    "answers": ["Vespasien", "Titus", "Hadrien", "Domitien"],
     "correctIndex": 1
   },
   {
-    "id": "q126",
+    "id": "qAX125",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi assyrien a fondé la célèbre bibliothèque de Ninive ?",
-    "answers": [
-      "Assurbanipal",
-      "Shalmaneser V",
-      "Tiglath-Phalasar III",
-      "Sennachérib"
-    ],
-    "correctIndex": 0
+    "text": "Quelle bataille de 371 av. J.-C. vit la défaite spartiate face à Thèbes ?",
+    "answers": ["Mantinée", "Leuctres", "Coronée", "Chéronée"],
+    "correctIndex": 1
   },
   {
-    "id": "q127",
+    "id": "qAX126",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel savant grec a calculé la circonférence de la Terre avec des bâtons et des ombres ?",
-    "answers": [
-      "Hipparque",
-      "Ptolémée",
-      "Ératosthène",
-      "Anaximandre"
-    ],
+    "text": "Quel auteur latin composa les « Métamorphoses » sous le règne d’Auguste ?",
+    "answers": ["Virgile", "Horace", "Ovide", "Properce"],
     "correctIndex": 2
   },
   {
-    "id": "q128",
+    "id": "qAX127",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi assyrien a fondé la célèbre bibliothèque de Ninive ?",
-    "answers": [
-      "Shalmaneser V",
-      "Tiglath-Phalasar III",
-      "Sennachérib",
-      "Assurbanipal"
-    ],
-    "correctIndex": 3
+    "text": "Quelle cité antique fut la capitale du royaume d’Idumée à l’époque hellénistique ?",
+    "answers": ["Pétra", "Gaza", "Marisa", "Ascalon"],
+    "correctIndex": 2
   },
   {
-    "id": "q129",
+    "id": "qAX128",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi hittite a signé le plus ancien traité de paix connu avec Ramsès II ?",
-    "answers": [
-      "Muwatalli II",
-      "Tudhaliya IV",
-      "Suppiluliuma Ier",
-      "Hattousili III"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain fit assassiner son frère Geta ?",
+    "answers": ["Caracalla", "Macrin", "Élagabal", "Septime Sévère"],
+    "correctIndex": 0
   },
   {
-    "id": "q130",
+    "id": "qAX129",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a fait construire le mur d'Hadrien ?",
-    "answers": [
-      "Hadrien",
-      "Trajan",
-      "Commode",
-      "Nerva"
-    ],
-    "correctIndex": 0
+    "text": "Quelle cité grecque fut le principal centre du commerce de l’étain à l’époque archaïque ?",
+    "answers": ["Massalia", "Emporion", "Gadès", "Syracuse"],
+    "correctIndex": 2
   },
   {
-    "id": "q131",
+    "id": "qAX130",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel peuple antique a inventé la roue ?",
-    "answers": [
-      "Sumériens",
-      "Hittites",
-      "Perses",
-      "Égyptiens"
-    ],
-    "correctIndex": 0
+    "text": "Quel roi hellénistique fonda Antioche de Pisidie comme colonie militaire ?",
+    "answers": ["Séleucos Ier", "Antiochos Ier", "Antiochos III", "Séleucos II"],
+    "correctIndex": 1
   },
   {
-    "id": "q132",
+    "id": "qAX131",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel savant grec a calculé la circonférence de la Terre avec des bâtons et des ombres ?",
-    "answers": [
-      "Ptolémée",
-      "Hipparque",
-      "Anaximandre",
-      "Ératosthène"
-    ],
-    "correctIndex": 3
+    "text": "Quelle réforme administrative attribuée à Constantin institua les comites dans l’Empire romain ?",
+    "answers": ["Réforme diocésaine", "Réforme palatine", "Réforme comtale", "Réforme préfectorale"],
+    "correctIndex": 2
   },
   {
-    "id": "q133",
+    "id": "qAX132",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi hittite a signé le plus ancien traité de paix connu avec Ramsès II ?",
-    "answers": [
-      "Muwatalli II",
-      "Hattousili III",
-      "Tudhaliya IV",
-      "Suppiluliuma Ier"
-    ],
+    "text": "Quel peuple antique occupait la région de la Colchide, associée au mythe de la Toison d’or ?",
+    "answers": ["Scythes", "Colques", "Ibères", "Arméniens"],
     "correctIndex": 1
   },
   {
-    "id": "q134",
+    "id": "qAX133",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel peuple antique a inventé la roue ?",
-    "answers": [
-      "Hittites",
-      "Perses",
-      "Égyptiens",
-      "Sumériens"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain fut capturé vivant par le roi sassanide Shapur Ier ?",
+    "answers": ["Valérien", "Gallien", "Aurélien", "Carus"],
+    "correctIndex": 0
   },
   {
-    "id": "q135",
+    "id": "qAX134",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel peuple antique a inventé la roue ?",
-    "answers": [
-      "Hittites",
-      "Sumériens",
-      "Égyptiens",
-      "Perses"
-    ],
+    "text": "Quelle cité grecque était réputée pour son école de sculpture à l’époque classique, rivale d’Athènes ?",
+    "answers": ["Argos", "Sicyone", "Corinthe", "Éphèse"],
     "correctIndex": 1
   },
   {
-    "id": "q136",
+    "id": "qAX135",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Thoutmôsis III",
-      "Séthi Ier",
-      "Pepi II",
-      "Ramsès II"
-    ],
+    "text": "Quel empereur romain promulgua la loi interdisant les sacrifices païens en 391 ?",
+    "answers": ["Valentinien Ier", "Gratien", "Théodose Ier", "Arcadius"],
     "correctIndex": 2
-  },
-  {
-    "id": "q137",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quelle cité antique de Mésopotamie est célèbre pour ses ziggourats ?",
-    "answers": [
-      "Babylone",
-      "Nippur",
-      "Lagash",
-      "Ur"
-    ],
-    "correctIndex": 3
   },
   {
-    "id": "q138",
+    "id": "qAX136",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a fait construire le mur d'Hadrien ?",
-    "answers": [
-      "Trajan",
-      "Hadrien",
-      "Commode",
-      "Nerva"
-    ],
-    "correctIndex": 1
+    "text": "Quelle bataille de 48 av. J.-C. opposa César à Pompée en Grèce ?",
+    "answers": ["Pharsale", "Dyrrachium", "Thapsus", "Munda"],
+    "correctIndex": 0
   },
   {
-    "id": "q139",
+    "id": "qAX137",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Ramsès II",
-      "Pepi II",
-      "Thoutmôsis III",
-      "Séthi Ier"
-    ],
+    "text": "Quel philosophe grec développa une cosmologie fondée sur les quatre éléments ?",
+    "answers": ["Anaximandre", "Empédocle", "Héraclite", "Parménide"],
     "correctIndex": 1
   },
   {
-    "id": "q140",
+    "id": "qAX138",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Ramsès II",
-      "Thoutmôsis III",
-      "Pepi II",
-      "Séthi Ier"
-    ],
-    "correctIndex": 2
+    "text": "Quelle cité antique fut la capitale du royaume d’Adiabène, allié puis vassal de Rome ?",
+    "answers": ["Arbèles", "Ninive", "Hatra", "Ctésiphon"],
+    "correctIndex": 0
   },
   {
-    "id": "q141",
+    "id": "qAX139",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel savant grec a calculé la circonférence de la Terre avec des bâtons et des ombres ?",
-    "answers": [
-      "Ptolémée",
-      "Anaximandre",
-      "Hipparque",
-      "Ératosthène"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain réorganisa le Sénat en réduisant son rôle politique effectif ?",
+    "answers": ["Dioclétien", "Auguste", "Claude", "Septime Sévère"],
+    "correctIndex": 0
   },
   {
-    "id": "q142",
+    "id": "qAX140",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi assyrien a fondé la célèbre bibliothèque de Ninive ?",
-    "answers": [
-      "Assurbanipal",
-      "Tiglath-Phalasar III",
-      "Shalmaneser V",
-      "Sennachérib"
-    ],
+    "text": "Quelle cité grecque fut le siège de la bataille navale de 429 av. J.-C. pendant la guerre du Péloponnèse ?",
+    "answers": ["Naupacte", "Sparte", "Corinthe", "Athènes"],
     "correctIndex": 0
   },
   {
-    "id": "q143",
+    "id": "qAX141",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel philosophe présocratique a affirmé que 'tout est changement' ?",
-    "answers": [
-      "Héraclite",
-      "Démocrite",
-      "Zénon d'Élée",
-      "Parménide"
-    ],
+    "text": "Quel empereur romain fut proclamé à Trèves (Augusta Treverorum) au IVe siècle ?",
+    "answers": ["Magnence", "Constance II", "Julien", "Valentinien Ier"],
     "correctIndex": 0
   },
   {
-    "id": "q144",
+    "id": "qAX142",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi assyrien a fondé la célèbre bibliothèque de Ninive ?",
-    "answers": [
-      "Sennachérib",
-      "Assurbanipal",
-      "Tiglath-Phalasar III",
-      "Shalmaneser V"
-    ],
+    "text": "Quelle cité antique fut la capitale du royaume de Palmyre sous Zénobie ?",
+    "answers": ["Damas", "Palmyre", "Émèse", "Antioche"],
     "correctIndex": 1
   },
   {
-    "id": "q145",
+    "id": "qAX143",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel philosophe présocratique a affirmé que 'tout est changement' ?",
-    "answers": [
-      "Démocrite",
-      "Parménide",
-      "Héraclite",
-      "Zénon d'Élée"
-    ],
-    "correctIndex": 2
+    "text": "Quel auteur grec composa une « Description de la Grèce » au IIe siècle ?",
+    "answers": ["Pausanias", "Strabon", "Diodore", "Polybe"],
+    "correctIndex": 0
   },
   {
-    "id": "q146",
+    "id": "qAX144",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel royaume antique est à l'origine de l'alphabet phénicien ?",
-    "answers": [
-      "Sumér",
-      "Hittites",
-      "Phénicie",
-      "Babylone"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain tenta de restaurer le paganisme et fut surnommé « l’Apostat » ?",
+    "answers": ["Julien", "Constance II", "Valens", "Théodose Ier"],
+    "correctIndex": 0
   },
   {
-    "id": "q147",
+    "id": "qAX145",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quelle cité antique de Mésopotamie est célèbre pour ses ziggourats ?",
-    "answers": [
-      "Nippur",
-      "Lagash",
-      "Babylone",
-      "Ur"
-    ],
-    "correctIndex": 3
+    "text": "Quelle cité grecque était le principal port de l’Attique après Le Pirée ?",
+    "answers": ["Phalère", "Éleusis", "Rhamnonte", "Sunium"],
+    "correctIndex": 0
   },
   {
-    "id": "q148",
+    "id": "qAX146",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quelle cité antique de Mésopotamie est célèbre pour ses ziggourats ?",
-    "answers": [
-      "Babylone",
-      "Lagash",
-      "Nippur",
-      "Ur"
-    ],
-    "correctIndex": 3
+    "text": "Quel roi hellénistique porta le surnom de « Sôter » après avoir libéré Athènes ?",
+    "answers": ["Antigone le Borgne", "Démétrios Poliorcète", "Ptolémée Ier", "Séleucos Ier"],
+    "correctIndex": 2
   },
   {
-    "id": "q149",
+    "id": "qAX147",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi hittite a signé le plus ancien traité de paix connu avec Ramsès II ?",
-    "answers": [
-      "Tudhaliya IV",
-      "Muwatalli II",
-      "Hattousili III",
-      "Suppiluliuma Ier"
-    ],
-    "correctIndex": 2
+    "text": "Quelle bataille de 86 av. J.-C. vit la victoire de Sylla sur les forces de Mithridate en Grèce ?",
+    "answers": ["Chéronée", "Orchomène", "Athènes", "Délion"],
+    "correctIndex": 1
   },
   {
-    "id": "q150",
+    "id": "qAX148",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel savant grec a calculé la circonférence de la Terre avec des bâtons et des ombres ?",
-    "answers": [
-      "Hipparque",
-      "Ératosthène",
-      "Anaximandre",
-      "Ptolémée"
-    ],
+    "text": "Quel empereur romain créa la charge de magister militum comme poste central de commandement ?",
+    "answers": ["Dioclétien", "Constantin", "Théodose Ier", "Valentinien Ier"],
     "correctIndex": 1
   },
   {
-    "id": "q151",
+    "id": "qAX149",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel peuple antique a inventé la roue ?",
-    "answers": [
-      "Perses",
-      "Égyptiens",
-      "Sumériens",
-      "Hittites"
-    ],
-    "correctIndex": 2
+    "text": "Quelle cité grecque contrôlait le sanctuaire panhellénique de Zeus à Olympie ?",
+    "answers": ["Élis", "Pise", "Sparte", "Arcadie"],
+    "correctIndex": 0
   },
   {
-    "id": "q152",
+    "id": "qAX150",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a fait construire le mur d'Hadrien ?",
-    "answers": [
-      "Trajan",
-      "Commode",
-      "Hadrien",
-      "Nerva"
-    ],
-    "correctIndex": 2
-  },
+    "text": "Quel empereur romain promulgua l’édit de Thessalonique faisant du christianisme la religion d’État en 380 ?",
+    "answers": ["Gratien", "Théodose Ier", "Valentinien II", "Arcadius"],
+    "correctIndex": 1
+  }
   {
-    "id": "q153",
+    "id": "qAX151",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel royaume antique est à l'origine de l'alphabet phénicien ?",
-    "answers": [
-      "Sumér",
-      "Babylone",
-      "Phénicie",
-      "Hittites"
-    ],
+    "text": "Quelle loi romaine limita l’ager publicus et déclencha les réformes des Gracques au IIe siècle av. J.-C. ?",
+    "answers": ["Lex Canuleia", "Lex Licinia Sextia", "Lex Sempronia agraria", "Lex Hortensia"],
     "correctIndex": 2
   },
   {
-    "id": "q154",
+    "id": "qAX152",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel savant grec a calculé la circonférence de la Terre avec des bâtons et des ombres ?",
-    "answers": [
-      "Anaximandre",
-      "Ératosthène",
-      "Hipparque",
-      "Ptolémée"
-    ],
+    "text": "Quel sanctuaire grec fut administré par l’amphictyonie pyléo-delphique avant Delphes ?",
+    "answers": ["Délos", "Anthela", "Dodone", "Olympie"],
     "correctIndex": 1
   },
   {
-    "id": "q155",
+    "id": "qAX153",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel peuple antique a inventé la roue ?",
-    "answers": [
-      "Égyptiens",
-      "Perses",
-      "Sumériens",
-      "Hittites"
-    ],
-    "correctIndex": 2
+    "text": "Quel roi séleucide vainquit Ptolémée IV à Panion en 200 av. J.-C. ?",
+    "answers": ["Antiochos III", "Séleucos IV", "Antiochos IV", "Démétrios Ier"],
+    "correctIndex": 0
   },
   {
-    "id": "q156",
+    "id": "qAX154",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi assyrien a fondé la célèbre bibliothèque de Ninive ?",
-    "answers": [
-      "Sennachérib",
-      "Assurbanipal",
-      "Shalmaneser V",
-      "Tiglath-Phalasar III"
-    ],
-    "correctIndex": 1
+    "text": "Quel auteur latin composa les « Histoires » couvrant la période de Galba à Domitien ?",
+    "answers": ["Tacite", "Suétone", "Tite-Live", "Florus"],
+    "correctIndex": 0
   },
   {
-    "id": "q157",
+    "id": "qAX155",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi assyrien a fondé la célèbre bibliothèque de Ninive ?",
-    "answers": [
-      "Tiglath-Phalasar III",
-      "Sennachérib",
-      "Shalmaneser V",
-      "Assurbanipal"
-    ],
-    "correctIndex": 3
+    "text": "Quelle cité grecque était le centre de la confédération thessalienne sous Jason de Phères ?",
+    "answers": ["Larissa", "Phères", "Pharsale", "Crannon"],
+    "correctIndex": 1
   },
   {
-    "id": "q158",
+    "id": "qAX156",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Thoutmôsis III",
-      "Séthi Ier",
-      "Pepi II",
-      "Ramsès II"
-    ],
-    "correctIndex": 2
+    "text": "Quel magistrat romain supervisait l’approvisionnement en eau de Rome (cura aquarum) ?",
+    "answers": ["Curateur des eaux", "Préteur urbain", "Édile curule", "Censeur"],
+    "correctIndex": 0
   },
   {
-    "id": "q159",
+    "id": "qAX157",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quelle cité antique de Mésopotamie est célèbre pour ses ziggourats ?",
-    "answers": [
-      "Nippur",
-      "Lagash",
-      "Babylone",
-      "Ur"
-    ],
-    "correctIndex": 3
+    "text": "Quelle bataille de 69 ap. J.-C. scella la victoire de Vespasien durant l’Année des Quatre Empereurs ?",
+    "answers": ["Bédriac", "Crémone", "Forum Gallorum", "Nauloque"],
+    "correctIndex": 1
   },
   {
-    "id": "q160",
+    "id": "qAX158",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi hittite a signé le plus ancien traité de paix connu avec Ramsès II ?",
-    "answers": [
-      "Hattousili III",
-      "Muwatalli II",
-      "Tudhaliya IV",
-      "Suppiluliuma Ier"
-    ],
+    "text": "Quel philosophe platonicien dirigea l’Académie au IVe siècle av. J.-C. après Speusippe ?",
+    "answers": ["Xénocrate", "Crantor", "Aristote", "Eudoxe"],
     "correctIndex": 0
   },
   {
-    "id": "q161",
+    "id": "qAX159",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel savant grec a calculé la circonférence de la Terre avec des bâtons et des ombres ?",
-    "answers": [
-      "Ératosthène",
-      "Anaximandre",
-      "Ptolémée",
-      "Hipparque"
-    ],
+    "text": "Quelle cité d’Asie Mineure fut la capitale du royaume de Carie sous les Hécatomnides ?",
+    "answers": ["Halicarnasse", "Milet", "Cnide", "Sardes"],
     "correctIndex": 0
   },
   {
-    "id": "q162",
+    "id": "qAX160",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel peuple antique a inventé la roue ?",
-    "answers": [
-      "Sumériens",
-      "Hittites",
-      "Égyptiens",
-      "Perses"
-    ],
+    "text": "Quel empereur romain institua la division des provinces en sénatoriales et impériales ?",
+    "answers": ["Auguste", "Tibère", "Claude", "Hadrien"],
     "correctIndex": 0
   },
   {
-    "id": "q163",
+    "id": "qAX161",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Ramsès II",
-      "Pepi II",
-      "Thoutmôsis III",
-      "Séthi Ier"
-    ],
-    "correctIndex": 1
+    "text": "Quelle cité grecque fonda Emporion sur la côte ibérique ?",
+    "answers": ["Phocée", "Massalia", "Milet", "Chios"],
+    "correctIndex": 0
   },
   {
-    "id": "q164",
+    "id": "qAX162",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Thoutmôsis III",
-      "Pepi II",
-      "Séthi Ier",
-      "Ramsès II"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain promulgua l’édit de Serdique en 311, annonçant la tolérance religieuse ?",
+    "answers": ["Galère", "Maxence", "Constantin", "Licinius"],
+    "correctIndex": 0
   },
   {
-    "id": "q165",
+    "id": "qAX163",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "L'Iliade",
-      "L'Épopée de Gilgamesh",
-      "Le Livre des Morts",
-      "Les Métamorphoses"
-    ],
-    "correctIndex": 1
+    "text": "Quelle bataille de 490 av. J.-C. vit la victoire athénienne sur les Perses en Attique ?",
+    "answers": ["Marathon", "Salamine", "Platées", "Mycale"],
+    "correctIndex": 0
   },
   {
-    "id": "q166",
+    "id": "qAX164",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel peuple antique a inventé la roue ?",
-    "answers": [
-      "Hittites",
-      "Perses",
-      "Sumériens",
-      "Égyptiens"
-    ],
-    "correctIndex": 2
+    "text": "Quel philosophe grec développa la théorie de l’apeiron comme principe cosmique ?",
+    "answers": ["Anaximandre", "Anaximène", "Thalès", "Héraclite"],
+    "correctIndex": 0
   },
   {
-    "id": "q167",
+    "id": "qAX165",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel royaume antique est à l'origine de l'alphabet phénicien ?",
-    "answers": [
-      "Sumér",
-      "Phénicie",
-      "Hittites",
-      "Babylone"
-    ],
-    "correctIndex": 1
+    "text": "Quelle cité antique fut la capitale du royaume de Sophène en Arménie occidentale ?",
+    "answers": ["Arsamosate", "Artaxate", "Tigranocerte", "Ani"],
+    "correctIndex": 0
   },
   {
-    "id": "q168",
+    "id": "qAX166",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "Les Métamorphoses",
-      "L'Iliade",
-      "Le Livre des Morts",
-      "L'Épopée de Gilgamesh"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain créa les vigiles comme force de police et de lutte contre l’incendie ?",
+    "answers": ["Auguste", "Claude", "Tibère", "Néron"],
+    "correctIndex": 0
   },
   {
-    "id": "q169",
+    "id": "qAX167",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a fait construire le mur d'Hadrien ?",
-    "answers": [
-      "Commode",
-      "Nerva",
-      "Hadrien",
-      "Trajan"
-    ],
-    "correctIndex": 2
+    "text": "Quelle bataille de 197 av. J.-C. opposa Rome à la Macédoine de Philippe V ?",
+    "answers": ["Cynoscephales", "Pydna", "Ipsos", "Magnésie"],
+    "correctIndex": 0
   },
   {
-    "id": "q170",
+    "id": "qAX168",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel savant grec a calculé la circonférence de la Terre avec des bâtons et des ombres ?",
-    "answers": [
-      "Anaximandre",
-      "Ptolémée",
-      "Ératosthène",
-      "Hipparque"
-    ],
-    "correctIndex": 2
+    "text": "Quel philosophe stoïcien développa une physique du logos spermatikos ?",
+    "answers": ["Chrysippe", "Zénon de Kition", "Cléanthe", "Posidonios"],
+    "correctIndex": 0
   },
   {
-    "id": "q171",
+    "id": "qAX169",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi hittite a signé le plus ancien traité de paix connu avec Ramsès II ?",
-    "answers": [
-      "Tudhaliya IV",
-      "Muwatalli II",
-      "Hattousili III",
-      "Suppiluliuma Ier"
-    ],
-    "correctIndex": 2
+    "text": "Quelle cité romaine fut la capitale de la province de Bretagne romaine ?",
+    "answers": ["Londinium", "Eboracum", "Camulodunum", "Verulamium"],
+    "correctIndex": 0
   },
   {
-    "id": "q172",
+    "id": "qAX170",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "Les Métamorphoses",
-      "Le Livre des Morts",
-      "L'Épopée de Gilgamesh",
-      "L'Iliade"
-    ],
-    "correctIndex": 2
+    "text": "Quel roi d’Égypte mit en place le syncrétisme du dieu Sérapis ?",
+    "answers": ["Ptolémée Ier", "Ptolémée II", "Ptolémée III", "Ptolémée IV"],
+    "correctIndex": 0
   },
   {
-    "id": "q173",
+    "id": "qAX171",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a fait construire le mur d'Hadrien ?",
-    "answers": [
-      "Nerva",
-      "Hadrien",
-      "Commode",
-      "Trajan"
-    ],
-    "correctIndex": 1
+    "text": "Quel tribunal athénien jugeait les homicides commis par des inconnus ou des objets ?",
+    "answers": ["Prytaneion", "Aréopage", "Delphinion", "Phreatto"],
+    "correctIndex": 0
   },
   {
-    "id": "q174",
+    "id": "qAX172",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel royaume antique est à l'origine de l'alphabet phénicien ?",
-    "answers": [
-      "Babylone",
-      "Hittites",
-      "Sumér",
-      "Phénicie"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain fixa définitivement la capitale impériale à Constantinople en 330 ?",
+    "answers": ["Constantin", "Constance II", "Théodose Ier", "Valentinien Ier"],
+    "correctIndex": 0
   },
   {
-    "id": "q175",
+    "id": "qAX173",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Pepi II",
-      "Ramsès II",
-      "Séthi Ier",
-      "Thoutmôsis III"
-    ],
+    "text": "Quelle cité grecque était la patrie du philosophe Anaxagore ?",
+    "answers": ["Clazomènes", "Milet", "Samos", "Éphèse"],
     "correctIndex": 0
   },
   {
-    "id": "q176",
+    "id": "qAX174",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quelle cité antique de Mésopotamie est célèbre pour ses ziggourats ?",
-    "answers": [
-      "Babylone",
-      "Lagash",
-      "Nippur",
-      "Ur"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain mit fin au principat en inaugurant le dominat ?",
+    "answers": ["Dioclétien", "Aurélien", "Constantin", "Probus"],
+    "correctIndex": 0
   },
   {
-    "id": "q177",
+    "id": "qAX175",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi assyrien a fondé la célèbre bibliothèque de Ninive ?",
-    "answers": [
-      "Sennachérib",
-      "Shalmaneser V",
-      "Assurbanipal",
-      "Tiglath-Phalasar III"
-    ],
-    "correctIndex": 2
+    "text": "Quelle cité antique fut la capitale du royaume de Galatie après l’annexion romaine ?",
+    "answers": ["Ancyre", "Pessinonte", "Gordion", "Tavium"],
+    "correctIndex": 0
   },
   {
-    "id": "q178",
+    "id": "qAX176",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel philosophe présocratique a affirmé que 'tout est changement' ?",
-    "answers": [
-      "Héraclite",
-      "Zénon d'Élée",
-      "Démocrite",
-      "Parménide"
-    ],
+    "text": "Quel auteur grec écrivit une « Histoire romaine » en grec couvrant la République et l’Empire ?",
+    "answers": ["Dion Cassius", "Appien", "Polybe", "Plutarque"],
     "correctIndex": 0
   },
   {
-    "id": "q179",
+    "id": "qAX177",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel royaume antique est à l'origine de l'alphabet phénicien ?",
-    "answers": [
-      "Hittites",
-      "Sumér",
-      "Phénicie",
-      "Babylone"
-    ],
-    "correctIndex": 2
+    "text": "Quelle bataille de 101 av. J.-C. mit fin à la menace cimbre en Italie du Nord ?",
+    "answers": ["Vercellae", "Aquae Sextiae", "Arausio", "Noreia"],
+    "correctIndex": 0
   },
   {
-    "id": "q180",
+    "id": "qAX178",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel savant grec a calculé la circonférence de la Terre avec des bâtons et des ombres ?",
-    "answers": [
-      "Hipparque",
-      "Ératosthène",
-      "Ptolémée",
-      "Anaximandre"
-    ],
+    "text": "Quel philosophe grec développa la méthode dialectique des hypothèses dans le platonisme ?",
+    "answers": ["Parménide", "Platon", "Xénocrate", "Proclus"],
     "correctIndex": 1
   },
   {
-    "id": "q181",
+    "id": "qAX179",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quelle cité antique de Mésopotamie est célèbre pour ses ziggourats ?",
-    "answers": [
-      "Babylone",
-      "Nippur",
-      "Lagash",
-      "Ur"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q182",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel roi assyrien a fondé la célèbre bibliothèque de Ninive ?",
-    "answers": [
-      "Shalmaneser V",
-      "Tiglath-Phalasar III",
-      "Sennachérib",
-      "Assurbanipal"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q183",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel philosophe présocratique a affirmé que 'tout est changement' ?",
-    "answers": [
-      "Zénon d'Élée",
-      "Démocrite",
-      "Parménide",
-      "Héraclite"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q184",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel royaume antique est à l'origine de l'alphabet phénicien ?",
-    "answers": [
-      "Babylone",
-      "Hittites",
-      "Phénicie",
-      "Sumér"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q185",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "Le Livre des Morts",
-      "Les Métamorphoses",
-      "L'Épopée de Gilgamesh",
-      "L'Iliade"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q186",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel philosophe présocratique a affirmé que 'tout est changement' ?",
-    "answers": [
-      "Démocrite",
-      "Zénon d'Élée",
-      "Parménide",
-      "Héraclite"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q187",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quelle cité antique de Mésopotamie est célèbre pour ses ziggourats ?",
-    "answers": [
-      "Babylone",
-      "Nippur",
-      "Ur",
-      "Lagash"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q188",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel royaume antique est à l'origine de l'alphabet phénicien ?",
-    "answers": [
-      "Sumér",
-      "Babylone",
-      "Phénicie",
-      "Hittites"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q189",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "L'Épopée de Gilgamesh",
-      "Les Métamorphoses",
-      "Le Livre des Morts",
-      "L'Iliade"
-    ],
+    "text": "Quelle cité antique fut la capitale du royaume de Médie avant l’Empire perse ?",
+    "answers": ["Ecbatane", "Suse", "Pasargades", "Rhages"],
     "correctIndex": 0
-  },
-  {
-    "id": "q190",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "L'Iliade",
-      "Le Livre des Morts",
-      "Les Métamorphoses",
-      "L'Épopée de Gilgamesh"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q191",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel philosophe présocratique a affirmé que 'tout est changement' ?",
-    "answers": [
-      "Zénon d'Élée",
-      "Parménide",
-      "Héraclite",
-      "Démocrite"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q192",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel roi assyrien a fondé la célèbre bibliothèque de Ninive ?",
-    "answers": [
-      "Sennachérib",
-      "Shalmaneser V",
-      "Assurbanipal",
-      "Tiglath-Phalasar III"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q193",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel philosophe présocratique a affirmé que 'tout est changement' ?",
-    "answers": [
-      "Démocrite",
-      "Parménide",
-      "Zénon d'Élée",
-      "Héraclite"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q194",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "L'Iliade",
-      "Le Livre des Morts",
-      "L'Épopée de Gilgamesh",
-      "Les Métamorphoses"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q195",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Séthi Ier",
-      "Pepi II",
-      "Ramsès II",
-      "Thoutmôsis III"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q196",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Thoutmôsis III",
-      "Ramsès II",
-      "Pepi II",
-      "Séthi Ier"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q197",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Séthi Ier",
-      "Pepi II",
-      "Ramsès II",
-      "Thoutmôsis III"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q198",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel roi assyrien a fondé la célèbre bibliothèque de Ninive ?",
-    "answers": [
-      "Shalmaneser V",
-      "Assurbanipal",
-      "Sennachérib",
-      "Tiglath-Phalasar III"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q199",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel peuple antique a inventé la roue ?",
-    "answers": [
-      "Perses",
-      "Hittites",
-      "Sumériens",
-      "Égyptiens"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q200",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel empereur romain a fait construire le mur d'Hadrien ?",
-    "answers": [
-      "Commode",
-      "Nerva",
-      "Trajan",
-      "Hadrien"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q201",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Thoutmôsis III",
-      "Pepi II",
-      "Séthi Ier",
-      "Ramsès II"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q202",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel savant grec a calculé la circonférence de la Terre avec des bâtons et des ombres ?",
-    "answers": [
-      "Anaximandre",
-      "Ptolémée",
-      "Ératosthène",
-      "Hipparque"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q203",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel savant grec a calculé la circonférence de la Terre avec des bâtons et des ombres ?",
-    "answers": [
-      "Anaximandre",
-      "Hipparque",
-      "Ératosthène",
-      "Ptolémée"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q204",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel peuple antique a inventé la roue ?",
-    "answers": [
-      "Perses",
-      "Sumériens",
-      "Égyptiens",
-      "Hittites"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q205",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel savant grec a calculé la circonférence de la Terre avec des bâtons et des ombres ?",
-    "answers": [
-      "Anaximandre",
-      "Ptolémée",
-      "Hipparque",
-      "Ératosthène"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q206",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel empereur romain a fait construire le mur d'Hadrien ?",
-    "answers": [
-      "Commode",
-      "Trajan",
-      "Hadrien",
-      "Nerva"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q207",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Séthi Ier",
-      "Ramsès II",
-      "Thoutmôsis III",
-      "Pepi II"
-    ],
-    "correctIndex": 3
   },
   {
-    "id": "q208",
+    "id": "qAX180",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quelle cité antique de Mésopotamie est célèbre pour ses ziggourats ?",
-    "answers": [
-      "Babylone",
-      "Ur",
-      "Nippur",
-      "Lagash"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q209",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "L'Épopée de Gilgamesh",
-      "Le Livre des Morts",
-      "L'Iliade",
-      "Les Métamorphoses"
-    ],
+    "text": "Quel empereur romain fit interdire les Jeux olympiques antiques en 393 ?",
+    "answers": ["Théodose Ier", "Arcadius", "Honorius", "Valentinien II"],
     "correctIndex": 0
-  },
-  {
-    "id": "q210",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel roi assyrien a fondé la célèbre bibliothèque de Ninive ?",
-    "answers": [
-      "Tiglath-Phalasar III",
-      "Shalmaneser V",
-      "Sennachérib",
-      "Assurbanipal"
-    ],
-    "correctIndex": 3
   },
   {
-    "id": "q211",
+    "id": "qAX181",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel philosophe présocratique a affirmé que 'tout est changement' ?",
-    "answers": [
-      "Héraclite",
-      "Zénon d'Élée",
-      "Parménide",
-      "Démocrite"
-    ],
+    "text": "Quelle cité grecque fut la patrie du poète lyrique Alcée ?",
+    "answers": ["Mytilène", "Samos", "Chios", "Érésos"],
     "correctIndex": 0
-  },
-  {
-    "id": "q212",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "L'Iliade",
-      "Les Métamorphoses",
-      "Le Livre des Morts",
-      "L'Épopée de Gilgamesh"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q213",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Ramsès II",
-      "Séthi Ier",
-      "Pepi II",
-      "Thoutmôsis III"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q214",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Séthi Ier",
-      "Ramsès II",
-      "Pepi II",
-      "Thoutmôsis III"
-    ],
-    "correctIndex": 2
   },
   {
-    "id": "q215",
+    "id": "qAX182",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "Les Métamorphoses",
-      "L'Épopée de Gilgamesh",
-      "Le Livre des Morts",
-      "L'Iliade"
-    ],
+    "text": "Quel empereur romain instaura la préfecture du prétoire comme organe administratif central ?",
+    "answers": ["Dioclétien", "Constantin", "Auguste", "Claude"],
     "correctIndex": 1
   },
   {
-    "id": "q216",
+    "id": "qAX183",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel philosophe présocratique a affirmé que 'tout est changement' ?",
-    "answers": [
-      "Parménide",
-      "Héraclite",
-      "Démocrite",
-      "Zénon d'Élée"
-    ],
+    "text": "Quelle bataille de 86 av. J.-C. vit Sylla vaincre les forces pontiques en Béotie ?",
+    "answers": ["Chéronée", "Orchomène", "Mantinée", "Délion"],
     "correctIndex": 1
-  },
-  {
-    "id": "q217",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Thoutmôsis III",
-      "Séthi Ier",
-      "Ramsès II",
-      "Pepi II"
-    ],
-    "correctIndex": 3
   },
   {
-    "id": "q218",
+    "id": "qAX184",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi assyrien a fondé la célèbre bibliothèque de Ninive ?",
-    "answers": [
-      "Assurbanipal",
-      "Shalmaneser V",
-      "Sennachérib",
-      "Tiglath-Phalasar III"
-    ],
+    "text": "Quel philosophe néoplatonicien dirigea l’école d’Alexandrie au Ve siècle ?",
+    "answers": ["Hypatie", "Plotin", "Porphyre", "Jamblique"],
     "correctIndex": 0
-  },
-  {
-    "id": "q219",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel royaume antique est à l'origine de l'alphabet phénicien ?",
-    "answers": [
-      "Hittites",
-      "Babylone",
-      "Sumér",
-      "Phénicie"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q220",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel peuple antique a inventé la roue ?",
-    "answers": [
-      "Égyptiens",
-      "Hittites",
-      "Sumériens",
-      "Perses"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q221",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Ramsès II",
-      "Pepi II",
-      "Thoutmôsis III",
-      "Séthi Ier"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q222",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Séthi Ier",
-      "Ramsès II",
-      "Thoutmôsis III",
-      "Pepi II"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q223",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel philosophe présocratique a affirmé que 'tout est changement' ?",
-    "answers": [
-      "Démocrite",
-      "Héraclite",
-      "Zénon d'Élée",
-      "Parménide"
-    ],
-    "correctIndex": 1
   },
   {
-    "id": "q224",
+    "id": "qAX185",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Séthi Ier",
-      "Thoutmôsis III",
-      "Pepi II",
-      "Ramsès II"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q225",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel savant grec a calculé la circonférence de la Terre avec des bâtons et des ombres ?",
-    "answers": [
-      "Hipparque",
-      "Ératosthène",
-      "Ptolémée",
-      "Anaximandre"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q226",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel roi assyrien a fondé la célèbre bibliothèque de Ninive ?",
-    "answers": [
-      "Sennachérib",
-      "Shalmaneser V",
-      "Tiglath-Phalasar III",
-      "Assurbanipal"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q227",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Thoutmôsis III",
-      "Séthi Ier",
-      "Pepi II",
-      "Ramsès II"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q228",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel philosophe présocratique a affirmé que 'tout est changement' ?",
-    "answers": [
-      "Héraclite",
-      "Démocrite",
-      "Parménide",
-      "Zénon d'Élée"
-    ],
+    "text": "Quelle cité romaine fut la capitale de la province d’Asie ?",
+    "answers": ["Éphèse", "Pergame", "Smyrne", "Sardes"],
     "correctIndex": 0
   },
   {
-    "id": "q229",
+    "id": "qAX186",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Pepi II",
-      "Thoutmôsis III",
-      "Séthi Ier",
-      "Ramsès II"
-    ],
+    "text": "Quel roi parthe infligea une lourde défaite aux Romains à Carrhes ?",
+    "answers": ["Orodes II", "Phraatès IV", "Mithridate II", "Artaban III"],
     "correctIndex": 0
-  },
-  {
-    "id": "q230",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quelle cité antique de Mésopotamie est célèbre pour ses ziggourats ?",
-    "answers": [
-      "Lagash",
-      "Nippur",
-      "Ur",
-      "Babylone"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q231",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Ramsès II",
-      "Thoutmôsis III",
-      "Séthi Ier",
-      "Pepi II"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q232",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel roi hittite a signé le plus ancien traité de paix connu avec Ramsès II ?",
-    "answers": [
-      "Muwatalli II",
-      "Tudhaliya IV",
-      "Suppiluliuma Ier",
-      "Hattousili III"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q233",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel empereur romain a fait construire le mur d'Hadrien ?",
-    "answers": [
-      "Commode",
-      "Hadrien",
-      "Nerva",
-      "Trajan"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q234",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel empereur romain a fait construire le mur d'Hadrien ?",
-    "answers": [
-      "Nerva",
-      "Commode",
-      "Hadrien",
-      "Trajan"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q235",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel philosophe présocratique a affirmé que 'tout est changement' ?",
-    "answers": [
-      "Parménide",
-      "Zénon d'Élée",
-      "Démocrite",
-      "Héraclite"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q236",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel royaume antique est à l'origine de l'alphabet phénicien ?",
-    "answers": [
-      "Hittites",
-      "Babylone",
-      "Sumér",
-      "Phénicie"
-    ],
-    "correctIndex": 3
   },
   {
-    "id": "q237",
+    "id": "qAX187",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel savant grec a calculé la circonférence de la Terre avec des bâtons et des ombres ?",
-    "answers": [
-      "Ératosthène",
-      "Hipparque",
-      "Anaximandre",
-      "Ptolémée"
-    ],
+    "text": "Quelle cité grecque fut la capitale du royaume d’Épire sous Pyrrhus ?",
+    "answers": ["Ambracie", "Dodone", "Buthrote", "Apollonie"],
     "correctIndex": 0
-  },
-  {
-    "id": "q238",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel peuple antique a inventé la roue ?",
-    "answers": [
-      "Hittites",
-      "Perses",
-      "Sumériens",
-      "Égyptiens"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q239",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel philosophe présocratique a affirmé que 'tout est changement' ?",
-    "answers": [
-      "Parménide",
-      "Zénon d'Élée",
-      "Héraclite",
-      "Démocrite"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q240",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel royaume antique est à l'origine de l'alphabet phénicien ?",
-    "answers": [
-      "Babylone",
-      "Hittites",
-      "Phénicie",
-      "Sumér"
-    ],
-    "correctIndex": 2
   },
   {
-    "id": "q241",
+    "id": "qAX188",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel philosophe présocratique a affirmé que 'tout est changement' ?",
-    "answers": [
-      "Héraclite",
-      "Démocrite",
-      "Parménide",
-      "Zénon d'Élée"
-    ],
+    "text": "Quel empereur romain promulgua le Code théodosien en 438 ?",
+    "answers": ["Théodose II", "Valentinien III", "Arcadius", "Marcien"],
     "correctIndex": 0
   },
   {
-    "id": "q242",
+    "id": "qAX189",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quelle cité antique de Mésopotamie est célèbre pour ses ziggourats ?",
-    "answers": [
-      "Ur",
-      "Nippur",
-      "Lagash",
-      "Babylone"
-    ],
+    "text": "Quelle bataille navale de 405 av. J.-C. mit fin à la guerre du Péloponnèse ?",
+    "answers": ["Aigos Potamoi", "Arginuses", "Naupacte", "Cyzique"],
     "correctIndex": 0
-  },
-  {
-    "id": "q243",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel savant grec a calculé la circonférence de la Terre avec des bâtons et des ombres ?",
-    "answers": [
-      "Anaximandre",
-      "Hipparque",
-      "Ératosthène",
-      "Ptolémée"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q244",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel royaume antique est à l'origine de l'alphabet phénicien ?",
-    "answers": [
-      "Babylone",
-      "Sumér",
-      "Hittites",
-      "Phénicie"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q245",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel royaume antique est à l'origine de l'alphabet phénicien ?",
-    "answers": [
-      "Hittites",
-      "Babylone",
-      "Sumér",
-      "Phénicie"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q246",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel savant grec a calculé la circonférence de la Terre avec des bâtons et des ombres ?",
-    "answers": [
-      "Ptolémée",
-      "Hipparque",
-      "Anaximandre",
-      "Ératosthène"
-    ],
-    "correctIndex": 3
   },
   {
-    "id": "q247",
+    "id": "qAX190",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi assyrien a fondé la célèbre bibliothèque de Ninive ?",
-    "answers": [
-      "Assurbanipal",
-      "Sennachérib",
-      "Tiglath-Phalasar III",
-      "Shalmaneser V"
-    ],
+    "text": "Quel philosophe grec développa une éthique du plaisir mesuré (ataraxie) au Jardin ?",
+    "answers": ["Épicure", "Aristippe", "Pyrrhon", "Zénon"],
     "correctIndex": 0
   },
   {
-    "id": "q248",
+    "id": "qAX191",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi assyrien a fondé la célèbre bibliothèque de Ninive ?",
-    "answers": [
-      "Assurbanipal",
-      "Sennachérib",
-      "Tiglath-Phalasar III",
-      "Shalmaneser V"
-    ],
+    "text": "Quelle cité antique fut la capitale du royaume de Commagène ?",
+    "answers": ["Samosate", "Édesse", "Antioche", "Nisibe"],
     "correctIndex": 0
-  },
-  {
-    "id": "q249",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Thoutmôsis III",
-      "Pepi II",
-      "Séthi Ier",
-      "Ramsès II"
-    ],
-    "correctIndex": 1
   },
   {
-    "id": "q250",
+    "id": "qAX192",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel royaume antique est à l'origine de l'alphabet phénicien ?",
-    "answers": [
-      "Phénicie",
-      "Sumér",
-      "Babylone",
-      "Hittites"
-    ],
+    "text": "Quel empereur romain mourut lors de la bataille d’Andrinople en 378 ?",
+    "answers": ["Valens", "Gratien", "Théodose Ier", "Valentinien II"],
     "correctIndex": 0
-  },
-  {
-    "id": "q251",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel roi hittite a signé le plus ancien traité de paix connu avec Ramsès II ?",
-    "answers": [
-      "Muwatalli II",
-      "Tudhaliya IV",
-      "Suppiluliuma Ier",
-      "Hattousili III"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q252",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel roi hittite a signé le plus ancien traité de paix connu avec Ramsès II ?",
-    "answers": [
-      "Muwatalli II",
-      "Tudhaliya IV",
-      "Hattousili III",
-      "Suppiluliuma Ier"
-    ],
-    "correctIndex": 2
   },
   {
-    "id": "q253",
+    "id": "qAX193",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a fait construire le mur d'Hadrien ?",
-    "answers": [
-      "Hadrien",
-      "Trajan",
-      "Commode",
-      "Nerva"
-    ],
+    "text": "Quelle cité grecque était le centre de l’école éléatique fondée par Parménide ?",
+    "answers": ["Élée", "Tarente", "Crotone", "Syracuse"],
     "correctIndex": 0
   },
   {
-    "id": "q254",
+    "id": "qAX194",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi hittite a signé le plus ancien traité de paix connu avec Ramsès II ?",
-    "answers": [
-      "Hattousili III",
-      "Muwatalli II",
-      "Suppiluliuma Ier",
-      "Tudhaliya IV"
-    ],
+    "text": "Quel empereur romain fit construire la basilique Saint-Jean-de-Latran ?",
+    "answers": ["Constantin", "Théodose Ier", "Honorius", "Valentinien Ier"],
     "correctIndex": 0
-  },
-  {
-    "id": "q255",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel royaume antique est à l'origine de l'alphabet phénicien ?",
-    "answers": [
-      "Babylone",
-      "Phénicie",
-      "Hittites",
-      "Sumér"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q256",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel roi hittite a signé le plus ancien traité de paix connu avec Ramsès II ?",
-    "answers": [
-      "Suppiluliuma Ier",
-      "Hattousili III",
-      "Muwatalli II",
-      "Tudhaliya IV"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q257",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel roi hittite a signé le plus ancien traité de paix connu avec Ramsès II ?",
-    "answers": [
-      "Muwatalli II",
-      "Tudhaliya IV",
-      "Hattousili III",
-      "Suppiluliuma Ier"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q258",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel roi assyrien a fondé la célèbre bibliothèque de Ninive ?",
-    "answers": [
-      "Tiglath-Phalasar III",
-      "Shalmaneser V",
-      "Assurbanipal",
-      "Sennachérib"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q259",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel royaume antique est à l'origine de l'alphabet phénicien ?",
-    "answers": [
-      "Hittites",
-      "Phénicie",
-      "Sumér",
-      "Babylone"
-    ],
-    "correctIndex": 1
   },
   {
-    "id": "q260",
+    "id": "qAX195",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "L'Épopée de Gilgamesh",
-      "Les Métamorphoses",
-      "L'Iliade",
-      "Le Livre des Morts"
-    ],
+    "text": "Quelle bataille de 312 ap. J.-C. opposa Constantin à Maxence à Rome ?",
+    "answers": ["Pont Milvius", "Chrysopolis", "Andrinople", "Singara"],
     "correctIndex": 0
-  },
-  {
-    "id": "q261",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel roi assyrien a fondé la célèbre bibliothèque de Ninive ?",
-    "answers": [
-      "Shalmaneser V",
-      "Sennachérib",
-      "Assurbanipal",
-      "Tiglath-Phalasar III"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q262",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quelle cité antique de Mésopotamie est célèbre pour ses ziggourats ?",
-    "answers": [
-      "Babylone",
-      "Nippur",
-      "Ur",
-      "Lagash"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q263",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Ramsès II",
-      "Pepi II",
-      "Séthi Ier",
-      "Thoutmôsis III"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q264",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Ramsès II",
-      "Pepi II",
-      "Thoutmôsis III",
-      "Séthi Ier"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q265",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel peuple antique a inventé la roue ?",
-    "answers": [
-      "Hittites",
-      "Perses",
-      "Sumériens",
-      "Égyptiens"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q266",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quelle cité antique de Mésopotamie est célèbre pour ses ziggourats ?",
-    "answers": [
-      "Lagash",
-      "Nippur",
-      "Ur",
-      "Babylone"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q267",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel savant grec a calculé la circonférence de la Terre avec des bâtons et des ombres ?",
-    "answers": [
-      "Anaximandre",
-      "Ératosthène",
-      "Ptolémée",
-      "Hipparque"
-    ],
-    "correctIndex": 1
   },
   {
-    "id": "q268",
+    "id": "qAX196",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel savant grec a calculé la circonférence de la Terre avec des bâtons et des ombres ?",
-    "answers": [
-      "Ératosthène",
-      "Hipparque",
-      "Ptolémée",
-      "Anaximandre"
-    ],
+    "text": "Quel philosophe grec est l’auteur des « Éléments » de géométrie ?",
+    "answers": ["Euclide", "Archimède", "Apollonios", "Pythagore"],
     "correctIndex": 0
-  },
-  {
-    "id": "q269",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel royaume antique est à l'origine de l'alphabet phénicien ?",
-    "answers": [
-      "Sumér",
-      "Hittites",
-      "Phénicie",
-      "Babylone"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q270",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel empereur romain a fait construire le mur d'Hadrien ?",
-    "answers": [
-      "Nerva",
-      "Hadrien",
-      "Trajan",
-      "Commode"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q271",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel peuple antique a inventé la roue ?",
-    "answers": [
-      "Perses",
-      "Hittites",
-      "Égyptiens",
-      "Sumériens"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q272",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel roi hittite a signé le plus ancien traité de paix connu avec Ramsès II ?",
-    "answers": [
-      "Tudhaliya IV",
-      "Hattousili III",
-      "Muwatalli II",
-      "Suppiluliuma Ier"
-    ],
-    "correctIndex": 1
   },
   {
-    "id": "q273",
+    "id": "qAX197",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "Le Livre des Morts",
-      "L'Iliade",
-      "L'Épopée de Gilgamesh",
-      "Les Métamorphoses"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q274",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Thoutmôsis III",
-      "Séthi Ier",
-      "Ramsès II",
-      "Pepi II"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q275",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel philosophe présocratique a affirmé que 'tout est changement' ?",
-    "answers": [
-      "Démocrite",
-      "Héraclite",
-      "Zénon d'Élée",
-      "Parménide"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q276",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel philosophe présocratique a affirmé que 'tout est changement' ?",
-    "answers": [
-      "Zénon d'Élée",
-      "Démocrite",
-      "Parménide",
-      "Héraclite"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q277",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Séthi Ier",
-      "Thoutmôsis III",
-      "Pepi II",
-      "Ramsès II"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q278",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel empereur romain a fait construire le mur d'Hadrien ?",
-    "answers": [
-      "Trajan",
-      "Hadrien",
-      "Commode",
-      "Nerva"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q279",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quelle cité antique de Mésopotamie est célèbre pour ses ziggourats ?",
-    "answers": [
-      "Babylone",
-      "Lagash",
-      "Ur",
-      "Nippur"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q280",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel roi hittite a signé le plus ancien traité de paix connu avec Ramsès II ?",
-    "answers": [
-      "Tudhaliya IV",
-      "Muwatalli II",
-      "Hattousili III",
-      "Suppiluliuma Ier"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q281",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel savant grec a calculé la circonférence de la Terre avec des bâtons et des ombres ?",
-    "answers": [
-      "Anaximandre",
-      "Ératosthène",
-      "Ptolémée",
-      "Hipparque"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q282",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel philosophe présocratique a affirmé que 'tout est changement' ?",
-    "answers": [
-      "Zénon d'Élée",
-      "Parménide",
-      "Démocrite",
-      "Héraclite"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q283",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel royaume antique est à l'origine de l'alphabet phénicien ?",
-    "answers": [
-      "Hittites",
-      "Sumér",
-      "Babylone",
-      "Phénicie"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q284",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel empereur romain a fait construire le mur d'Hadrien ?",
-    "answers": [
-      "Hadrien",
-      "Commode",
-      "Trajan",
-      "Nerva"
-    ],
+    "text": "Quelle cité antique fut la capitale du royaume de Pont sous Mithridate VI à son apogée ?",
+    "answers": ["Sinope", "Amasée", "Amisos", "Trébizonde"],
     "correctIndex": 0
-  },
-  {
-    "id": "q285",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel philosophe présocratique a affirmé que 'tout est changement' ?",
-    "answers": [
-      "Parménide",
-      "Zénon d'Élée",
-      "Héraclite",
-      "Démocrite"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q286",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel philosophe présocratique a affirmé que 'tout est changement' ?",
-    "answers": [
-      "Démocrite",
-      "Parménide",
-      "Héraclite",
-      "Zénon d'Élée"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q287",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel royaume antique est à l'origine de l'alphabet phénicien ?",
-    "answers": [
-      "Babylone",
-      "Hittites",
-      "Phénicie",
-      "Sumér"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q288",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "Les Métamorphoses",
-      "L'Iliade",
-      "Le Livre des Morts",
-      "L'Épopée de Gilgamesh"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q289",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel roi hittite a signé le plus ancien traité de paix connu avec Ramsès II ?",
-    "answers": [
-      "Tudhaliya IV",
-      "Hattousili III",
-      "Suppiluliuma Ier",
-      "Muwatalli II"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q290",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quelle cité antique de Mésopotamie est célèbre pour ses ziggourats ?",
-    "answers": [
-      "Babylone",
-      "Ur",
-      "Lagash",
-      "Nippur"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q291",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel philosophe présocratique a affirmé que 'tout est changement' ?",
-    "answers": [
-      "Parménide",
-      "Zénon d'Élée",
-      "Héraclite",
-      "Démocrite"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q292",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel savant grec a calculé la circonférence de la Terre avec des bâtons et des ombres ?",
-    "answers": [
-      "Anaximandre",
-      "Ératosthène",
-      "Hipparque",
-      "Ptolémée"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q293",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel pharaon a régné le plus longtemps dans l'Égypte antique ?",
-    "answers": [
-      "Séthi Ier",
-      "Ramsès II",
-      "Pepi II",
-      "Thoutmôsis III"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q294",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel philosophe présocratique a affirmé que 'tout est changement' ?",
-    "answers": [
-      "Démocrite",
-      "Parménide",
-      "Zénon d'Élée",
-      "Héraclite"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q295",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel roi hittite a signé le plus ancien traité de paix connu avec Ramsès II ?",
-    "answers": [
-      "Muwatalli II",
-      "Hattousili III",
-      "Tudhaliya IV",
-      "Suppiluliuma Ier"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q296",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel savant grec a calculé la circonférence de la Terre avec des bâtons et des ombres ?",
-    "answers": [
-      "Ptolémée",
-      "Ératosthène",
-      "Hipparque",
-      "Anaximandre"
-    ],
-    "correctIndex": 1
   },
   {
-    "id": "q297",
+    "id": "qAX198",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel roi hittite a signé le plus ancien traité de paix connu avec Ramsès II ?",
-    "answers": [
-      "Hattousili III",
-      "Tudhaliya IV",
-      "Muwatalli II",
-      "Suppiluliuma Ier"
-    ],
+    "text": "Quel empereur romain promulgua la constitution Antoninienne étendant la citoyenneté en 212 ?",
+    "answers": ["Caracalla", "Septime Sévère", "Commode", "Hadrien"],
     "correctIndex": 0
-  },
-  {
-    "id": "q298",
-    "category": "Antiquité",
-    "difficulty": "Extrême",
-    "text": "Quel roi hittite a signé le plus ancien traité de paix connu avec Ramsès II ?",
-    "answers": [
-      "Tudhaliya IV",
-      "Suppiluliuma Ier",
-      "Muwatalli II",
-      "Hattousili III"
-    ],
-    "correctIndex": 3
   },
   {
-    "id": "q299",
+    "id": "qAX199",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "Les Métamorphoses",
-      "L'Iliade",
-      "Le Livre des Morts",
-      "L'Épopée de Gilgamesh"
-    ],
-    "correctIndex": 3
+    "text": "Quelle cité grecque était réputée pour son école médicale rivale de Cos ?",
+    "answers": ["Cnide", "Épidaure", "Pergame", "Alexandrie"],
+    "correctIndex": 0
   },
   {
-    "id": "q300",
+    "id": "qAX200",
     "category": "Antiquité",
     "difficulty": "Extrême",
-    "text": "Quel philosophe présocratique a affirmé que 'tout est changement' ?",
-    "answers": [
-      "Parménide",
-      "Démocrite",
-      "Zénon d'Élée",
-      "Héraclite"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain est traditionnellement considéré comme le dernier d’Occident après la déposition de Romulus Augustule ?",
+    "answers": ["Odoacre", "Julius Nepos", "Zénon", "Théodose II"],
+    "correctIndex": 1
   }
 ]
