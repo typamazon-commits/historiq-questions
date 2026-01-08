@@ -1,2602 +1,1638 @@
 [
   {
-    "id": "q1",
+    "id": "qAD1",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
-    "answers": [
-      "Empire parthe",
-      "Empire séleucide",
-      "Empire sassanide",
-      "Empire achéménide"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q2",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
-    "answers": [
-      "Plutarque",
-      "Tite-Live",
-      "Hérodote",
-      "Strabon"
-    ],
+    "text": "Quel magistrat romain était chargé de la tenue du cens et de la moralité publique ?",
+    "answers": ["Le consul", "Le préteur", "Le censeur", "L’édile"],
     "correctIndex": 2
   },
   {
-    "id": "q3",
+    "id": "qAD2",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Sous quel empereur romain le Colisée fut-il inauguré en 80 apr. J.-C. ?",
-    "answers": [
-      "Titus",
-      "Néron",
-      "Trajan",
-      "Domitien"
-    ],
+    "text": "Quelle bataille de 197 av. J.-C. opposa Rome à Philippe V de Macédoine ?",
+    "answers": ["Cynoscephales", "Magnésie", "Pydna", "Ipsos"],
     "correctIndex": 0
   },
   {
-    "id": "q4",
+    "id": "qAD3",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel philosophe stoïcien fut conseiller de Néron avant d’être contraint au suicide ?",
-    "answers": [
-      "Sénèque",
-      "Épictète",
-      "Marc Aurèle",
-      "Cicéron"
-    ],
+    "text": "Quel texte juridique babylonien précède le code d’Hammurabi ?",
+    "answers": ["Code d’Ur-Nammu", "Code hittite", "Code assyrien", "Lois de Manou"],
     "correctIndex": 0
   },
   {
-    "id": "q5",
+    "id": "qAD4",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle cité antique était dirigée par un système de deux rois simultanément ?",
-    "answers": [
-      "Athènes",
-      "Sparte",
-      "Thèbes",
-      "Corinthe"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q6",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quelle reine d’Égypte fut la dernière de la dynastie ptolémaïque ?",
-    "answers": [
-      "Arsinoé II",
-      "Cléopâtre VII",
-      "Bérénice IV",
-      "Néfertari"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q7",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
-    "answers": [
-      "Hamilcar Barca",
-      "Hannibal",
-      "Hasdrubal",
-      "Magon"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q8",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel historien romain écrivit 'Ab Urbe Condita' ?",
-    "answers": [
-      "Tacite",
-      "Salluste",
-      "Tite-Live",
-      "Suétone"
-    ],
+    "text": "Quelle cité grecque dirigeait la ligue de Délos avant son transfert à Athènes ?",
+    "answers": ["Samos", "Naxos", "Délos", "Mytilène"],
     "correctIndex": 2
   },
   {
-    "id": "q9",
+    "id": "qAD5",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel était le nom de la ligue formée par Athènes au Ve siècle av. J.-C. ?",
-    "answers": [
-      "Ligue béotienne",
-      "Ligue achéenne",
-      "Ligue ionienne",
-      "Ligue de Délos"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain institua le culte impérial obligatoire en Orient ?",
+    "answers": ["Auguste", "Caligula", "Domitien", "Tibère"],
+    "correctIndex": 2
+  },
+
+  {
+    "id": "qAD6",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel général grec vainquit les Perses à la bataille du Granique ?",
+    "answers": ["Parménion", "Alexandre le Grand", "Antigone le Borgne", "Séleucos"],
+    "correctIndex": 1
   },
   {
-    "id": "q10",
+    "id": "qAD7",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Qui fut le premier empereur de la dynastie flavienne ?",
-    "answers": [
-      "Titus",
-      "Domitien",
-      "Vespasien",
-      "Nerva"
-    ],
+    "text": "Quel pharaon instaura le culte exclusif d’Aton ?",
+    "answers": ["Ramsès II", "Akhenaton", "Toutânkhamon", "Aménophis III"],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAD8",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle institution spartiate était composée de cinq magistrats élus annuellement ?",
+    "answers": ["La Gérousia", "L’Apella", "Les éphores", "Les harmostes"],
     "correctIndex": 2
   },
   {
-    "id": "q11",
+    "id": "qAD9",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
-    "answers": [
-      "Empire parthe",
-      "Empire séleucide",
-      "Empire sassanide",
-      "Empire achéménide"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain promulgua l’édit de Caracalla en 212 ?",
+    "answers": ["Septime Sévère", "Caracalla", "Macrin", "Élagabal"],
+    "correctIndex": 1
   },
   {
-    "id": "q12",
+    "id": "qAD10",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
-    "answers": [
-      "Plutarque",
-      "Tite-Live",
-      "Hérodote",
-      "Strabon"
-    ],
-    "correctIndex": 2
+    "text": "Quelle bataille navale de 480 av. J.-C. fut remportée par Thémistocle ?",
+    "answers": ["Artémision", "Salamine", "Mycale", "Eurymédon"],
+    "correctIndex": 1
   },
+
   {
-    "id": "q13",
+    "id": "qAD11",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Sous quel empereur romain le Colisée fut-il inauguré en 80 apr. J.-C. ?",
-    "answers": [
-      "Titus",
-      "Néron",
-      "Trajan",
-      "Domitien"
-    ],
+    "text": "Quel roi séleucide fut vaincu par Rome à Magnésie du Sipyle ?",
+    "answers": ["Antiochos III", "Séleucos Ier", "Antiochos IV", "Démétrios Ier"],
     "correctIndex": 0
   },
   {
-    "id": "q14",
+    "id": "qAD12",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel philosophe stoïcien fut conseiller de Néron avant d’être contraint au suicide ?",
-    "answers": [
-      "Sénèque",
-      "Épictète",
-      "Marc Aurèle",
-      "Cicéron"
-    ],
+    "text": "Quel philosophe présocratique est associé à l’apeiron comme principe fondamental ?",
+    "answers": ["Anaximandre", "Anaximène", "Héraclite", "Parménide"],
     "correctIndex": 0
   },
   {
-    "id": "q15",
+    "id": "qAD13",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle cité antique était dirigée par un système de deux rois simultanément ?",
-    "answers": [
-      "Athènes",
-      "Sparte",
-      "Thèbes",
-      "Corinthe"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q16",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quelle reine d’Égypte fut la dernière de la dynastie ptolémaïque ?",
-    "answers": [
-      "Arsinoé II",
-      "Cléopâtre VII",
-      "Bérénice IV",
-      "Néfertari"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q17",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
-    "answers": [
-      "Hamilcar Barca",
-      "Hannibal",
-      "Hasdrubal",
-      "Magon"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q18",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel historien romain écrivit 'Ab Urbe Condita' ?",
-    "answers": [
-      "Tacite",
-      "Salluste",
-      "Tite-Live",
-      "Suétone"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q19",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel était le nom de la ligue formée par Athènes au Ve siècle av. J.-C. ?",
-    "answers": [
-      "Ligue béotienne",
-      "Ligue achéenne",
-      "Ligue ionienne",
-      "Ligue de Délos"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q20",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui fut le premier empereur de la dynastie flavienne ?",
-    "answers": [
-      "Titus",
-      "Domitien",
-      "Vespasien",
-      "Nerva"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q21",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
-    "answers": [
-      "Empire parthe",
-      "Empire séleucide",
-      "Empire sassanide",
-      "Empire achéménide"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q22",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
-    "answers": [
-      "Plutarque",
-      "Tite-Live",
-      "Hérodote",
-      "Strabon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q23",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Sous quel empereur romain le Colisée fut-il inauguré en 80 apr. J.-C. ?",
-    "answers": [
-      "Titus",
-      "Néron",
-      "Trajan",
-      "Domitien"
-    ],
+    "text": "Quelle cité étrusque formait, avec Véies et Caere, un centre majeur de l’Étrurie ?",
+    "answers": ["Tarquinia", "Volterra", "Clusium", "Populonia"],
     "correctIndex": 0
   },
   {
-    "id": "q24",
+    "id": "qAD14",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel philosophe stoïcien fut conseiller de Néron avant d’être contraint au suicide ?",
-    "answers": [
-      "Sénèque",
-      "Épictète",
-      "Marc Aurèle",
-      "Cicéron"
-    ],
+    "text": "Quel empereur romain réorganisa l’armée en créant des légions frontalières et mobiles ?",
+    "answers": ["Dioclétien", "Aurélien", "Constantin", "Probus"],
+    "correctIndex": 2
+  },
+  {
+    "id": "qAD15",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle ville fut la capitale de l’empire d’Akkad ?",
+    "answers": ["Ur", "Uruk", "Akkad", "Lagash"],
+    "correctIndex": 2
+  },
+
+  {
+    "id": "qAD16",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel général romain vainquit Jugurtha, roi de Numidie ?",
+    "answers": ["Marius", "Sylla", "Metellus", "Pompée"],
     "correctIndex": 0
   },
   {
-    "id": "q25",
+    "id": "qAD17",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle cité antique était dirigée par un système de deux rois simultanément ?",
-    "answers": [
-      "Athènes",
-      "Sparte",
-      "Thèbes",
-      "Corinthe"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q26",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quelle reine d’Égypte fut la dernière de la dynastie ptolémaïque ?",
-    "answers": [
-      "Arsinoé II",
-      "Cléopâtre VII",
-      "Bérénice IV",
-      "Néfertari"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q27",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
-    "answers": [
-      "Hamilcar Barca",
-      "Hannibal",
-      "Hasdrubal",
-      "Magon"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q28",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel historien romain écrivit 'Ab Urbe Condita' ?",
-    "answers": [
-      "Tacite",
-      "Salluste",
-      "Tite-Live",
-      "Suétone"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q29",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel était le nom de la ligue formée par Athènes au Ve siècle av. J.-C. ?",
-    "answers": [
-      "Ligue béotienne",
-      "Ligue achéenne",
-      "Ligue ionienne",
-      "Ligue de Délos"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q30",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui fut le premier empereur de la dynastie flavienne ?",
-    "answers": [
-      "Titus",
-      "Domitien",
-      "Vespasien",
-      "Nerva"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q31",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
-    "answers": [
-      "Empire parthe",
-      "Empire séleucide",
-      "Empire sassanide",
-      "Empire achéménide"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q32",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
-    "answers": [
-      "Plutarque",
-      "Tite-Live",
-      "Hérodote",
-      "Strabon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q33",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Sous quel empereur romain le Colisée fut-il inauguré en 80 apr. J.-C. ?",
-    "answers": [
-      "Titus",
-      "Néron",
-      "Trajan",
-      "Domitien"
-    ],
+    "text": "Quelle bataille de 168 av. J.-C. marqua la fin de la Macédoine indépendante ?",
+    "answers": ["Pydna", "Cynoscephales", "Chéronée", "Ipsos"],
     "correctIndex": 0
   },
   {
-    "id": "q34",
+    "id": "qAD18",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel philosophe stoïcien fut conseiller de Néron avant d’être contraint au suicide ?",
-    "answers": [
-      "Sénèque",
-      "Épictète",
-      "Marc Aurèle",
-      "Cicéron"
-    ],
+    "text": "Quel dieu mésopotamien était associé à la sagesse et à l’eau douce ?",
+    "answers": ["Marduk", "Enlil", "Ea (Enki)", "Shamash"],
+    "correctIndex": 2
+  },
+  {
+    "id": "qAD19",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain fit frapper la monnaie avec la légende « Restitutor Orbis » ?",
+    "answers": ["Aurélien", "Probus", "Dioclétien", "Claude II"],
     "correctIndex": 0
   },
   {
-    "id": "q35",
+    "id": "qAD20",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle cité antique était dirigée par un système de deux rois simultanément ?",
-    "answers": [
-      "Athènes",
-      "Sparte",
-      "Thèbes",
-      "Corinthe"
-    ],
+    "text": "Quelle cité grecque fut détruite par Alexandre le Grand en 332 av. J.-C. ?",
+    "answers": ["Gaza", "Sidon", "Tyr", "Byblos"],
+    "correctIndex": 2
+  },
+
+  {
+    "id": "qAD21",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel philosophe stoïcien fut le précepteur de Néron ?",
+    "answers": ["Épictète", "Sénèque", "Chrysippe", "Zénon de Kition"],
     "correctIndex": 1
   },
   {
-    "id": "q36",
+    "id": "qAD22",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle reine d’Égypte fut la dernière de la dynastie ptolémaïque ?",
-    "answers": [
-      "Arsinoé II",
-      "Cléopâtre VII",
-      "Bérénice IV",
-      "Néfertari"
-    ],
+    "text": "Quelle réforme attribuée à Clisthène divisa Athènes en dèmes ?",
+    "answers": ["La réforme isonomique", "La réforme tribale", "L’ostracisme", "La boulè"],
     "correctIndex": 1
   },
   {
-    "id": "q37",
+    "id": "qAD23",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
-    "answers": [
-      "Hamilcar Barca",
-      "Hannibal",
-      "Hasdrubal",
-      "Magon"
-    ],
+    "text": "Quel peuple indo-européen fonda l’empire hittite ?",
+    "answers": ["Hourrites", "Louvites", "Hittites", "Phrygiens"],
+    "correctIndex": 2
+  },
+  {
+    "id": "qAD24",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain institua la Tétrarchie en 293 ?",
+    "answers": ["Aurélien", "Dioclétien", "Constantin", "Galère"],
     "correctIndex": 1
   },
   {
-    "id": "q38",
+    "id": "qAD25",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel historien romain écrivit 'Ab Urbe Condita' ?",
-    "answers": [
-      "Tacite",
-      "Salluste",
-      "Tite-Live",
-      "Suétone"
-    ],
+    "text": "Quelle bataille mit fin au royaume séleucide face à Rome en 190 av. J.-C. ?",
+    "answers": ["Ipsos", "Magnésie", "Pydna", "Raphia"],
+    "correctIndex": 1
+  },
+
+  {
+    "id": "qAD26",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel site archéologique est associé à la bibliothèque d’Assurbanipal ?",
+    "answers": ["Babylone", "Ninive", "Ur", "Suse"],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAD27",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel général romain réprima la révolte de Boudicca en Bretagne ?",
+    "answers": ["Agricola", "Suetonius Paulinus", "Cerialis", "Frontinus"],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAD28",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel philosophe grec affirma que « tout s’écoule » ?",
+    "answers": ["Parménide", "Héraclite", "Anaxagore", "Empédocle"],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAD29",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle ville fut la capitale du royaume de Pergame ?",
+    "answers": ["Sardes", "Éphèse", "Pergame", "Milet"],
     "correctIndex": 2
   },
   {
-    "id": "q39",
+    "id": "qAD30",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel était le nom de la ligue formée par Athènes au Ve siècle av. J.-C. ?",
-    "answers": [
-      "Ligue béotienne",
-      "Ligue achéenne",
-      "Ligue ionienne",
-      "Ligue de Délos"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain mourut lors d’une campagne contre les Parthes en 363 ?",
+    "answers": ["Julien", "Valens", "Jovien", "Constant"],
+    "correctIndex": 0
   },
+
   {
-    "id": "q40",
+    "id": "qAD31",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Qui fut le premier empereur de la dynastie flavienne ?",
-    "answers": [
-      "Titus",
-      "Domitien",
-      "Vespasien",
-      "Nerva"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q41",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
-    "answers": [
-      "Empire parthe",
-      "Empire séleucide",
-      "Empire sassanide",
-      "Empire achéménide"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q42",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
-    "answers": [
-      "Plutarque",
-      "Tite-Live",
-      "Hérodote",
-      "Strabon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q43",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Sous quel empereur romain le Colisée fut-il inauguré en 80 apr. J.-C. ?",
-    "answers": [
-      "Titus",
-      "Néron",
-      "Trajan",
-      "Domitien"
-    ],
+    "text": "Quelle cité grecque était dirigée par le tyran Polycrate ?",
+    "answers": ["Samos", "Corinthe", "Naxos", "Milet"],
     "correctIndex": 0
   },
   {
-    "id": "q44",
+    "id": "qAD32",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel philosophe stoïcien fut conseiller de Néron avant d’être contraint au suicide ?",
-    "answers": [
-      "Sénèque",
-      "Épictète",
-      "Marc Aurèle",
-      "Cicéron"
-    ],
+    "text": "Quel empereur romain est associé à la construction des thermes de Caracalla ?",
+    "answers": ["Septime Sévère", "Caracalla", "Élagabal", "Alexandre Sévère"],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAD33",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle bataille de 53 av. J.-C. vit la défaite romaine de Crassus face aux Parthes ?",
+    "answers": ["Carrhes", "Nisibe", "Édesse", "Ctésiphon"],
     "correctIndex": 0
   },
   {
-    "id": "q45",
+    "id": "qAD34",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle cité antique était dirigée par un système de deux rois simultanément ?",
-    "answers": [
-      "Athènes",
-      "Sparte",
-      "Thèbes",
-      "Corinthe"
-    ],
+    "text": "Quel philosophe grec fonda le Lycée à Athènes ?",
+    "answers": ["Platon", "Aristote", "Isocrate", "Épicure"],
     "correctIndex": 1
   },
   {
-    "id": "q46",
+    "id": "qAD35",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle reine d’Égypte fut la dernière de la dynastie ptolémaïque ?",
-    "answers": [
-      "Arsinoé II",
-      "Cléopâtre VII",
-      "Bérénice IV",
-      "Néfertari"
-    ],
+    "text": "Quel royaume africain antique avait pour capitale Méroé ?",
+    "answers": ["Numidie", "Kouch", "Aksoum", "Cyrénaïque"],
+    "correctIndex": 1
+  },
+
+  {
+    "id": "qAD36",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain fut proclamé « dominus et deus » ?",
+    "answers": ["Néron", "Domitien", "Caligula", "Commode"],
     "correctIndex": 1
   },
   {
-    "id": "q47",
+    "id": "qAD37",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
-    "answers": [
-      "Hamilcar Barca",
-      "Hannibal",
-      "Hasdrubal",
-      "Magon"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q48",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel historien romain écrivit 'Ab Urbe Condita' ?",
-    "answers": [
-      "Tacite",
-      "Salluste",
-      "Tite-Live",
-      "Suétone"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q49",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel était le nom de la ligue formée par Athènes au Ve siècle av. J.-C. ?",
-    "answers": [
-      "Ligue béotienne",
-      "Ligue achéenne",
-      "Ligue ionienne",
-      "Ligue de Délos"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q50",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui fut le premier empereur de la dynastie flavienne ?",
-    "answers": [
-      "Titus",
-      "Domitien",
-      "Vespasien",
-      "Nerva"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q51",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
-    "answers": [
-      "Empire parthe",
-      "Empire séleucide",
-      "Empire sassanide",
-      "Empire achéménide"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q52",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
-    "answers": [
-      "Plutarque",
-      "Tite-Live",
-      "Hérodote",
-      "Strabon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q53",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Sous quel empereur romain le Colisée fut-il inauguré en 80 apr. J.-C. ?",
-    "answers": [
-      "Titus",
-      "Néron",
-      "Trajan",
-      "Domitien"
-    ],
+    "text": "Quelle cité grecque était associée à l’école pythagoricienne ?",
+    "answers": ["Crotone", "Tarente", "Syracuse", "Locres"],
     "correctIndex": 0
   },
   {
-    "id": "q54",
+    "id": "qAD38",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel philosophe stoïcien fut conseiller de Néron avant d’être contraint au suicide ?",
-    "answers": [
-      "Sénèque",
-      "Épictète",
-      "Marc Aurèle",
-      "Cicéron"
-    ],
+    "text": "Quel empereur romain mit fin aux persécutions contre les chrétiens en 311 ?",
+    "answers": ["Galère", "Constantin", "Licinius", "Maxence"],
     "correctIndex": 0
   },
   {
-    "id": "q55",
+    "id": "qAD39",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle cité antique était dirigée par un système de deux rois simultanément ?",
-    "answers": [
-      "Athènes",
-      "Sparte",
-      "Thèbes",
-      "Corinthe"
-    ],
+    "text": "Quelle bataille de 216 av. J.-C. fut l’une des plus grandes défaites romaines ?",
+    "answers": ["Trasimène", "Cannes", "Ticin", "Zama"],
     "correctIndex": 1
   },
   {
-    "id": "q56",
+    "id": "qAD40",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle reine d’Égypte fut la dernière de la dynastie ptolémaïque ?",
-    "answers": [
-      "Arsinoé II",
-      "Cléopâtre VII",
-      "Bérénice IV",
-      "Néfertari"
-    ],
+    "text": "Quel peuple contrôlait la cité de Carthage avant sa destruction ?",
+    "answers": ["Libyens", "Numides", "Phéniciens", "Étrusques"],
+    "correctIndex": 2
+  },
+
+  {
+    "id": "qAD41",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain est associé à la réforme monétaire du solidus ?",
+    "answers": ["Dioclétien", "Constantin", "Aurélien", "Théodose"],
     "correctIndex": 1
   },
   {
-    "id": "q57",
+    "id": "qAD42",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
-    "answers": [
-      "Hamilcar Barca",
-      "Hannibal",
-      "Hasdrubal",
-      "Magon"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q58",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel historien romain écrivit 'Ab Urbe Condita' ?",
-    "answers": [
-      "Tacite",
-      "Salluste",
-      "Tite-Live",
-      "Suétone"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q59",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel était le nom de la ligue formée par Athènes au Ve siècle av. J.-C. ?",
-    "answers": [
-      "Ligue béotienne",
-      "Ligue achéenne",
-      "Ligue ionienne",
-      "Ligue de Délos"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q60",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui fut le premier empereur de la dynastie flavienne ?",
-    "answers": [
-      "Titus",
-      "Domitien",
-      "Vespasien",
-      "Nerva"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q61",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
-    "answers": [
-      "Empire parthe",
-      "Empire séleucide",
-      "Empire sassanide",
-      "Empire achéménide"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q62",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
-    "answers": [
-      "Plutarque",
-      "Tite-Live",
-      "Hérodote",
-      "Strabon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q63",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Sous quel empereur romain le Colisée fut-il inauguré en 80 apr. J.-C. ?",
-    "answers": [
-      "Titus",
-      "Néron",
-      "Trajan",
-      "Domitien"
-    ],
+    "text": "Quelle cité grecque était gouvernée par les Bacchiades avant Cypsélos ?",
+    "answers": ["Corinthe", "Mégare", "Argos", "Sicyone"],
     "correctIndex": 0
   },
   {
-    "id": "q64",
+    "id": "qAD43",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel philosophe stoïcien fut conseiller de Néron avant d’être contraint au suicide ?",
-    "answers": [
-      "Sénèque",
-      "Épictète",
-      "Marc Aurèle",
-      "Cicéron"
-    ],
+    "text": "Quel empereur romain fit construire le mur d’Antonin en Bretagne ?",
+    "answers": ["Hadrien", "Antonin le Pieux", "Trajan", "Septime Sévère"],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAD44",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel philosophe antique enseignait dans le Jardin à Athènes ?",
+    "answers": ["Zénon", "Platon", "Épicure", "Aristote"],
+    "correctIndex": 2
+  },
+  {
+    "id": "qAD45",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle ville fut la capitale des Lagides en Égypte ?",
+    "answers": ["Thèbes", "Memphis", "Alexandrie", "Péluse"],
+    "correctIndex": 2
+  },
+
+  {
+    "id": "qAD46",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain mourut assassiné par la garde prétorienne en 41 ?",
+    "answers": ["Caligula", "Claude", "Tibère", "Néron"],
     "correctIndex": 0
   },
   {
-    "id": "q65",
+    "id": "qAD47",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle cité antique était dirigée par un système de deux rois simultanément ?",
-    "answers": [
-      "Athènes",
-      "Sparte",
-      "Thèbes",
-      "Corinthe"
-    ],
+    "text": "Quelle bataille de 31 av. J.-C. opposa Octave à Marc Antoine ?",
+    "answers": ["Philippes", "Actium", "Mutina", "Perugia"],
     "correctIndex": 1
   },
   {
-    "id": "q66",
+    "id": "qAD48",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle reine d’Égypte fut la dernière de la dynastie ptolémaïque ?",
-    "answers": [
-      "Arsinoé II",
-      "Cléopâtre VII",
-      "Bérénice IV",
-      "Néfertari"
-    ],
+    "text": "Quel roi perse fonda l’empire achéménide ?",
+    "answers": ["Darius Ier", "Cyrus II", "Cambyse II", "Xerxès Ier"],
     "correctIndex": 1
   },
   {
-    "id": "q67",
+    "id": "qAD49",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
-    "answers": [
-      "Hamilcar Barca",
-      "Hannibal",
-      "Hasdrubal",
-      "Magon"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q68",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel historien romain écrivit 'Ab Urbe Condita' ?",
-    "answers": [
-      "Tacite",
-      "Salluste",
-      "Tite-Live",
-      "Suétone"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q69",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel était le nom de la ligue formée par Athènes au Ve siècle av. J.-C. ?",
-    "answers": [
-      "Ligue béotienne",
-      "Ligue achéenne",
-      "Ligue ionienne",
-      "Ligue de Délos"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q70",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui fut le premier empereur de la dynastie flavienne ?",
-    "answers": [
-      "Titus",
-      "Domitien",
-      "Vespasien",
-      "Nerva"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q71",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
-    "answers": [
-      "Empire parthe",
-      "Empire séleucide",
-      "Empire sassanide",
-      "Empire achéménide"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q72",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
-    "answers": [
-      "Plutarque",
-      "Tite-Live",
-      "Hérodote",
-      "Strabon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q73",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Sous quel empereur romain le Colisée fut-il inauguré en 80 apr. J.-C. ?",
-    "answers": [
-      "Titus",
-      "Néron",
-      "Trajan",
-      "Domitien"
-    ],
+    "text": "Quel philosophe grec est l’auteur du poème « De la nature » ?",
+    "answers": ["Parménide", "Héraclite", "Empédocle", "Anaximène"],
     "correctIndex": 0
   },
   {
-    "id": "q74",
+    "id": "qAD50",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel philosophe stoïcien fut conseiller de Néron avant d’être contraint au suicide ?",
-    "answers": [
-      "Sénèque",
-      "Épictète",
-      "Marc Aurèle",
-      "Cicéron"
-    ],
+    "text": "Quelle cité grecque contrôlait l’oracle de Dodone ?",
+    "answers": ["Épire", "Corinthe", "Athènes", "Thèbes"],
+    "correctIndex": 0
+  }
+  {
+    "id": "qAD51",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel traité de 188 av. J.-C. réduisit fortement le royaume séleucide après la défaite d’Antiochos III ?",
+    "answers": ["Traité d’Apamée", "Traité de Sardes", "Traité de Pergame", "Traité de Rhodes"],
     "correctIndex": 0
   },
   {
-    "id": "q75",
+    "id": "qAD52",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle cité antique était dirigée par un système de deux rois simultanément ?",
-    "answers": [
-      "Athènes",
-      "Sparte",
-      "Thèbes",
-      "Corinthe"
-    ],
+    "text": "Quel philosophe grec développa la théorie des quatre causes ?",
+    "answers": ["Platon", "Aristote", "Anaxagore", "Empédocle"],
     "correctIndex": 1
   },
   {
-    "id": "q76",
+    "id": "qAD53",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle reine d’Égypte fut la dernière de la dynastie ptolémaïque ?",
-    "answers": [
-      "Arsinoé II",
-      "Cléopâtre VII",
-      "Bérénice IV",
-      "Néfertari"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q77",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
-    "answers": [
-      "Hamilcar Barca",
-      "Hannibal",
-      "Hasdrubal",
-      "Magon"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q78",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel historien romain écrivit 'Ab Urbe Condita' ?",
-    "answers": [
-      "Tacite",
-      "Salluste",
-      "Tite-Live",
-      "Suétone"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q79",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel était le nom de la ligue formée par Athènes au Ve siècle av. J.-C. ?",
-    "answers": [
-      "Ligue béotienne",
-      "Ligue achéenne",
-      "Ligue ionienne",
-      "Ligue de Délos"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q80",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui fut le premier empereur de la dynastie flavienne ?",
-    "answers": [
-      "Titus",
-      "Domitien",
-      "Vespasien",
-      "Nerva"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q81",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
-    "answers": [
-      "Empire parthe",
-      "Empire séleucide",
-      "Empire sassanide",
-      "Empire achéménide"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q82",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
-    "answers": [
-      "Plutarque",
-      "Tite-Live",
-      "Hérodote",
-      "Strabon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q83",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Sous quel empereur romain le Colisée fut-il inauguré en 80 apr. J.-C. ?",
-    "answers": [
-      "Titus",
-      "Néron",
-      "Trajan",
-      "Domitien"
-    ],
+    "text": "Quel empereur romain créa les vigiles, corps chargé de la lutte contre les incendies à Rome ?",
+    "answers": ["Auguste", "Tibère", "Claude", "Néron"],
     "correctIndex": 0
   },
   {
-    "id": "q84",
+    "id": "qAD54",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel philosophe stoïcien fut conseiller de Néron avant d’être contraint au suicide ?",
-    "answers": [
-      "Sénèque",
-      "Épictète",
-      "Marc Aurèle",
-      "Cicéron"
-    ],
+    "text": "Quelle cité grecque était la capitale de la Béotie ?",
+    "answers": ["Thèbes", "Platées", "Orchomène", "Tanagra"],
     "correctIndex": 0
   },
   {
-    "id": "q85",
+    "id": "qAD55",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle cité antique était dirigée par un système de deux rois simultanément ?",
-    "answers": [
-      "Athènes",
-      "Sparte",
-      "Thèbes",
-      "Corinthe"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q86",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quelle reine d’Égypte fut la dernière de la dynastie ptolémaïque ?",
-    "answers": [
-      "Arsinoé II",
-      "Cléopâtre VII",
-      "Bérénice IV",
-      "Néfertari"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q87",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
-    "answers": [
-      "Hamilcar Barca",
-      "Hannibal",
-      "Hasdrubal",
-      "Magon"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q88",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel historien romain écrivit 'Ab Urbe Condita' ?",
-    "answers": [
-      "Tacite",
-      "Salluste",
-      "Tite-Live",
-      "Suétone"
-    ],
+    "text": "Quel empereur romain accorda aux soldats le droit de se marier légalement ?",
+    "answers": ["Auguste", "Hadrien", "Septime Sévère", "Caracalla"],
     "correctIndex": 2
   },
+
   {
-    "id": "q89",
+    "id": "qAD56",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel était le nom de la ligue formée par Athènes au Ve siècle av. J.-C. ?",
-    "answers": [
-      "Ligue béotienne",
-      "Ligue achéenne",
-      "Ligue ionienne",
-      "Ligue de Délos"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q90",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui fut le premier empereur de la dynastie flavienne ?",
-    "answers": [
-      "Titus",
-      "Domitien",
-      "Vespasien",
-      "Nerva"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q91",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
-    "answers": [
-      "Empire parthe",
-      "Empire séleucide",
-      "Empire sassanide",
-      "Empire achéménide"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q92",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
-    "answers": [
-      "Plutarque",
-      "Tite-Live",
-      "Hérodote",
-      "Strabon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q93",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Sous quel empereur romain le Colisée fut-il inauguré en 80 apr. J.-C. ?",
-    "answers": [
-      "Titus",
-      "Néron",
-      "Trajan",
-      "Domitien"
-    ],
+    "text": "Quelle bataille de 333 av. J.-C. opposa Alexandre le Grand à Darius III ?",
+    "answers": ["Issos", "Gaugamèles", "Granikos", "Hydaspe"],
     "correctIndex": 0
   },
   {
-    "id": "q94",
+    "id": "qAD57",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel philosophe stoïcien fut conseiller de Néron avant d’être contraint au suicide ?",
-    "answers": [
-      "Sénèque",
-      "Épictète",
-      "Marc Aurèle",
-      "Cicéron"
-    ],
+    "text": "Quel peuple antique est associé à la ville de Hattusa ?",
+    "answers": ["Hourrites", "Hittites", "Assyriens", "Phrygiens"],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAD58",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain instaura la préfecture du prétoire comme organe central du pouvoir ?",
+    "answers": ["Auguste", "Dioclétien", "Septime Sévère", "Constantin"],
+    "correctIndex": 2
+  },
+  {
+    "id": "qAD59",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel philosophe grec fonda l’école cynique ?",
+    "answers": ["Antisthène", "Diogène de Sinope", "Crates", "Aristippe"],
     "correctIndex": 0
   },
   {
-    "id": "q95",
+    "id": "qAD60",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle cité antique était dirigée par un système de deux rois simultanément ?",
-    "answers": [
-      "Athènes",
-      "Sparte",
-      "Thèbes",
-      "Corinthe"
-    ],
+    "text": "Quelle cité grecque fut détruite par Rome en 146 av. J.-C. lors de la fin de la Ligue achéenne ?",
+    "answers": ["Sparte", "Corinthe", "Argos", "Mégalopolis"],
+    "correctIndex": 1
+  },
+
+  {
+    "id": "qAD61",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain transféra définitivement la capitale impériale à Constantinople ?",
+    "answers": ["Dioclétien", "Constantin", "Théodose Ier", "Arcadius"],
     "correctIndex": 1
   },
   {
-    "id": "q96",
+    "id": "qAD62",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle reine d’Égypte fut la dernière de la dynastie ptolémaïque ?",
-    "answers": [
-      "Arsinoé II",
-      "Cléopâtre VII",
-      "Bérénice IV",
-      "Néfertari"
-    ],
+    "text": "Quel roi macédonien vainquit les Illyriens avant l’ascension d’Alexandre ?",
+    "answers": ["Antigone le Borgne", "Philippe II", "Cassandre", "Perdiccas"],
     "correctIndex": 1
   },
   {
-    "id": "q97",
+    "id": "qAD63",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
-    "answers": [
-      "Hamilcar Barca",
-      "Hannibal",
-      "Hasdrubal",
-      "Magon"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q98",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel historien romain écrivit 'Ab Urbe Condita' ?",
-    "answers": [
-      "Tacite",
-      "Salluste",
-      "Tite-Live",
-      "Suétone"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q99",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel était le nom de la ligue formée par Athènes au Ve siècle av. J.-C. ?",
-    "answers": [
-      "Ligue béotienne",
-      "Ligue achéenne",
-      "Ligue ionienne",
-      "Ligue de Délos"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q100",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui fut le premier empereur de la dynastie flavienne ?",
-    "answers": [
-      "Titus",
-      "Domitien",
-      "Vespasien",
-      "Nerva"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q101",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
-    "answers": [
-      "Empire parthe",
-      "Empire séleucide",
-      "Empire sassanide",
-      "Empire achéménide"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q102",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
-    "answers": [
-      "Plutarque",
-      "Tite-Live",
-      "Hérodote",
-      "Strabon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q103",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Sous quel empereur romain le Colisée fut-il inauguré en 80 apr. J.-C. ?",
-    "answers": [
-      "Titus",
-      "Néron",
-      "Trajan",
-      "Domitien"
-    ],
+    "text": "Quel texte égyptien décrit le jugement de l’âme par Osiris ?",
+    "answers": ["Livre des morts", "Textes des pyramides", "Textes des sarcophages", "Hymnes solaires"],
     "correctIndex": 0
   },
   {
-    "id": "q104",
+    "id": "qAD64",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel philosophe stoïcien fut conseiller de Néron avant d’être contraint au suicide ?",
-    "answers": [
-      "Sénèque",
-      "Épictète",
-      "Marc Aurèle",
-      "Cicéron"
-    ],
+    "text": "Quelle bataille de 241 av. J.-C. mit fin à la première guerre punique ?",
+    "answers": ["Mylae", "Ecnome", "Aegates", "Drepane"],
+    "correctIndex": 2
+  },
+  {
+    "id": "qAD65",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain ordonna la construction du Panthéon actuel ?",
+    "answers": ["Auguste", "Trajan", "Hadrien", "Antonin le Pieux"],
+    "correctIndex": 2
+  },
+
+  {
+    "id": "qAD66",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle cité grecque était le centre politique de la Thessalie antique ?",
+    "answers": ["Larissa", "Phères", "Crannon", "Pharsale"],
     "correctIndex": 0
   },
   {
-    "id": "q105",
+    "id": "qAD67",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle cité antique était dirigée par un système de deux rois simultanément ?",
-    "answers": [
-      "Athènes",
-      "Sparte",
-      "Thèbes",
-      "Corinthe"
-    ],
+    "text": "Quel empereur romain réorganisa les provinces en diocèses ?",
+    "answers": ["Aurélien", "Dioclétien", "Constantin", "Théodose"],
     "correctIndex": 1
   },
   {
-    "id": "q106",
+    "id": "qAD68",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle reine d’Égypte fut la dernière de la dynastie ptolémaïque ?",
-    "answers": [
-      "Arsinoé II",
-      "Cléopâtre VII",
-      "Bérénice IV",
-      "Néfertari"
-    ],
+    "text": "Quel philosophe grec est l’auteur des « Entretiens » transmis par Arrien ?",
+    "answers": ["Sénèque", "Épictète", "Marc Aurèle", "Musonius Rufus"],
     "correctIndex": 1
   },
   {
-    "id": "q107",
+    "id": "qAD69",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
-    "answers": [
-      "Hamilcar Barca",
-      "Hannibal",
-      "Hasdrubal",
-      "Magon"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q108",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel historien romain écrivit 'Ab Urbe Condita' ?",
-    "answers": [
-      "Tacite",
-      "Salluste",
-      "Tite-Live",
-      "Suétone"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q109",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel était le nom de la ligue formée par Athènes au Ve siècle av. J.-C. ?",
-    "answers": [
-      "Ligue béotienne",
-      "Ligue achéenne",
-      "Ligue ionienne",
-      "Ligue de Délos"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q110",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui fut le premier empereur de la dynastie flavienne ?",
-    "answers": [
-      "Titus",
-      "Domitien",
-      "Vespasien",
-      "Nerva"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q111",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
-    "answers": [
-      "Empire parthe",
-      "Empire séleucide",
-      "Empire sassanide",
-      "Empire achéménide"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q112",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
-    "answers": [
-      "Plutarque",
-      "Tite-Live",
-      "Hérodote",
-      "Strabon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q113",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Sous quel empereur romain le Colisée fut-il inauguré en 80 apr. J.-C. ?",
-    "answers": [
-      "Titus",
-      "Néron",
-      "Trajan",
-      "Domitien"
-    ],
+    "text": "Quelle cité antique était la capitale de l’Élam ?",
+    "answers": ["Suse", "Anshan", "Ecbatane", "Persepolis"],
     "correctIndex": 0
   },
   {
-    "id": "q114",
+    "id": "qAD70",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel philosophe stoïcien fut conseiller de Néron avant d’être contraint au suicide ?",
-    "answers": [
-      "Sénèque",
-      "Épictète",
-      "Marc Aurèle",
-      "Cicéron"
-    ],
+    "text": "Quel empereur romain est connu pour l’édit de Milan de 313 ?",
+    "answers": ["Licinius et Constantin", "Galère et Maxence", "Constantin seul", "Dioclétien"],
+    "correctIndex": 0
+  },
+
+  {
+    "id": "qAD71",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel royaume hellénistique avait pour capitale Antioche ?",
+    "answers": ["Royaume lagide", "Royaume séleucide", "Royaume de Pergame", "Royaume de Macédoine"],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAD72",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain fut capturé vivant par les Perses sassanides ?",
+    "answers": ["Valérien", "Aurélien", "Claude II", "Gallien"],
     "correctIndex": 0
   },
   {
-    "id": "q115",
+    "id": "qAD73",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle cité antique était dirigée par un système de deux rois simultanément ?",
-    "answers": [
-      "Athènes",
-      "Sparte",
-      "Thèbes",
-      "Corinthe"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q116",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quelle reine d’Égypte fut la dernière de la dynastie ptolémaïque ?",
-    "answers": [
-      "Arsinoé II",
-      "Cléopâtre VII",
-      "Bérénice IV",
-      "Néfertari"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q117",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
-    "answers": [
-      "Hamilcar Barca",
-      "Hannibal",
-      "Hasdrubal",
-      "Magon"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q118",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel historien romain écrivit 'Ab Urbe Condita' ?",
-    "answers": [
-      "Tacite",
-      "Salluste",
-      "Tite-Live",
-      "Suétone"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q119",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel était le nom de la ligue formée par Athènes au Ve siècle av. J.-C. ?",
-    "answers": [
-      "Ligue béotienne",
-      "Ligue achéenne",
-      "Ligue ionienne",
-      "Ligue de Délos"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q120",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui fut le premier empereur de la dynastie flavienne ?",
-    "answers": [
-      "Titus",
-      "Domitien",
-      "Vespasien",
-      "Nerva"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q121",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
-    "answers": [
-      "Empire parthe",
-      "Empire séleucide",
-      "Empire sassanide",
-      "Empire achéménide"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q122",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
-    "answers": [
-      "Plutarque",
-      "Tite-Live",
-      "Hérodote",
-      "Strabon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q123",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Sous quel empereur romain le Colisée fut-il inauguré en 80 apr. J.-C. ?",
-    "answers": [
-      "Titus",
-      "Néron",
-      "Trajan",
-      "Domitien"
-    ],
+    "text": "Quelle cité grecque fut la patrie d’Hippocrate ?",
+    "answers": ["Cos", "Cnide", "Samos", "Rhodes"],
     "correctIndex": 0
   },
   {
-    "id": "q124",
+    "id": "qAD74",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel philosophe stoïcien fut conseiller de Néron avant d’être contraint au suicide ?",
-    "answers": [
-      "Sénèque",
-      "Épictète",
-      "Marc Aurèle",
-      "Cicéron"
-    ],
+    "text": "Quel empereur romain réprima la révolte de Zénobie de Palmyre ?",
+    "answers": ["Aurélien", "Probus", "Claude II", "Gallien"],
     "correctIndex": 0
   },
   {
-    "id": "q125",
+    "id": "qAD75",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle cité antique était dirigée par un système de deux rois simultanément ?",
-    "answers": [
-      "Athènes",
-      "Sparte",
-      "Thèbes",
-      "Corinthe"
-    ],
+    "text": "Quelle bataille de 312 permit à Constantin de s’imposer en Occident ?",
+    "answers": ["Pont Milvius", "Chrysopolis", "Viminacium", "Sirmium"],
+    "correctIndex": 0
+  },
+
+  {
+    "id": "qAD76",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel texte grec est attribué à Xénophon sur la marche des Dix-Mille ?",
+    "answers": ["Cyropédie", "Anabase", "Mémorables", "Helléniques"],
     "correctIndex": 1
   },
   {
-    "id": "q126",
+    "id": "qAD77",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle reine d’Égypte fut la dernière de la dynastie ptolémaïque ?",
-    "answers": [
-      "Arsinoé II",
-      "Cléopâtre VII",
-      "Bérénice IV",
-      "Néfertari"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q127",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
-    "answers": [
-      "Hamilcar Barca",
-      "Hannibal",
-      "Hasdrubal",
-      "Magon"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q128",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel historien romain écrivit 'Ab Urbe Condita' ?",
-    "answers": [
-      "Tacite",
-      "Salluste",
-      "Tite-Live",
-      "Suétone"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q129",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel était le nom de la ligue formée par Athènes au Ve siècle av. J.-C. ?",
-    "answers": [
-      "Ligue béotienne",
-      "Ligue achéenne",
-      "Ligue ionienne",
-      "Ligue de Délos"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q130",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui fut le premier empereur de la dynastie flavienne ?",
-    "answers": [
-      "Titus",
-      "Domitien",
-      "Vespasien",
-      "Nerva"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q131",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
-    "answers": [
-      "Empire parthe",
-      "Empire séleucide",
-      "Empire sassanide",
-      "Empire achéménide"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q132",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
-    "answers": [
-      "Plutarque",
-      "Tite-Live",
-      "Hérodote",
-      "Strabon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q133",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Sous quel empereur romain le Colisée fut-il inauguré en 80 apr. J.-C. ?",
-    "answers": [
-      "Titus",
-      "Néron",
-      "Trajan",
-      "Domitien"
-    ],
+    "text": "Quelle cité phénicienne fonda Carthage selon la tradition ?",
+    "answers": ["Tyr", "Sidon", "Byblos", "Arwad"],
     "correctIndex": 0
   },
   {
-    "id": "q134",
+    "id": "qAD78",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel philosophe stoïcien fut conseiller de Néron avant d’être contraint au suicide ?",
-    "answers": [
-      "Sénèque",
-      "Épictète",
-      "Marc Aurèle",
-      "Cicéron"
-    ],
+    "text": "Quel empereur romain est l’auteur des « Pensées pour moi-même » ?",
+    "answers": ["Marc Aurèle", "Sénèque", "Épictète", "Antonin le Pieux"],
     "correctIndex": 0
   },
   {
-    "id": "q135",
+    "id": "qAD79",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle cité antique était dirigée par un système de deux rois simultanément ?",
-    "answers": [
-      "Athènes",
-      "Sparte",
-      "Thèbes",
-      "Corinthe"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q136",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quelle reine d’Égypte fut la dernière de la dynastie ptolémaïque ?",
-    "answers": [
-      "Arsinoé II",
-      "Cléopâtre VII",
-      "Bérénice IV",
-      "Néfertari"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q137",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
-    "answers": [
-      "Hamilcar Barca",
-      "Hannibal",
-      "Hasdrubal",
-      "Magon"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q138",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel historien romain écrivit 'Ab Urbe Condita' ?",
-    "answers": [
-      "Tacite",
-      "Salluste",
-      "Tite-Live",
-      "Suétone"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q139",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel était le nom de la ligue formée par Athènes au Ve siècle av. J.-C. ?",
-    "answers": [
-      "Ligue béotienne",
-      "Ligue achéenne",
-      "Ligue ionienne",
-      "Ligue de Délos"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q140",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui fut le premier empereur de la dynastie flavienne ?",
-    "answers": [
-      "Titus",
-      "Domitien",
-      "Vespasien",
-      "Nerva"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q141",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
-    "answers": [
-      "Empire parthe",
-      "Empire séleucide",
-      "Empire sassanide",
-      "Empire achéménide"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q142",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
-    "answers": [
-      "Plutarque",
-      "Tite-Live",
-      "Hérodote",
-      "Strabon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q143",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Sous quel empereur romain le Colisée fut-il inauguré en 80 apr. J.-C. ?",
-    "answers": [
-      "Titus",
-      "Néron",
-      "Trajan",
-      "Domitien"
-    ],
+    "text": "Quel peuple antique contrôlait la région de Cappadoce avant Rome ?",
+    "answers": ["Perses", "Hittites", "Séleucides", "Arméniens"],
     "correctIndex": 0
   },
   {
-    "id": "q144",
+    "id": "qAD80",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel philosophe stoïcien fut conseiller de Néron avant d’être contraint au suicide ?",
-    "answers": [
-      "Sénèque",
-      "Épictète",
-      "Marc Aurèle",
-      "Cicéron"
-    ],
+    "text": "Quelle ville fut la capitale de l’empire parthe ?",
+    "answers": ["Hécatompylos", "Ctésiphon", "Suse", "Nisa"],
+    "correctIndex": 1
+  },
+
+  {
+    "id": "qAD81",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain fit édifier les murailles dites « auréliennes » ?",
+    "answers": ["Aurélien", "Claude II", "Probus", "Dioclétien"],
     "correctIndex": 0
   },
   {
-    "id": "q145",
+    "id": "qAD82",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle cité antique était dirigée par un système de deux rois simultanément ?",
-    "answers": [
-      "Athènes",
-      "Sparte",
-      "Thèbes",
-      "Corinthe"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q146",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quelle reine d’Égypte fut la dernière de la dynastie ptolémaïque ?",
-    "answers": [
-      "Arsinoé II",
-      "Cléopâtre VII",
-      "Bérénice IV",
-      "Néfertari"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q147",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
-    "answers": [
-      "Hamilcar Barca",
-      "Hannibal",
-      "Hasdrubal",
-      "Magon"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q148",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel historien romain écrivit 'Ab Urbe Condita' ?",
-    "answers": [
-      "Tacite",
-      "Salluste",
-      "Tite-Live",
-      "Suétone"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q149",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel était le nom de la ligue formée par Athènes au Ve siècle av. J.-C. ?",
-    "answers": [
-      "Ligue béotienne",
-      "Ligue achéenne",
-      "Ligue ionienne",
-      "Ligue de Délos"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q150",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui fut le premier empereur de la dynastie flavienne ?",
-    "answers": [
-      "Titus",
-      "Domitien",
-      "Vespasien",
-      "Nerva"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q151",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
-    "answers": [
-      "Empire parthe",
-      "Empire séleucide",
-      "Empire sassanide",
-      "Empire achéménide"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q152",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
-    "answers": [
-      "Plutarque",
-      "Tite-Live",
-      "Hérodote",
-      "Strabon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q153",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Sous quel empereur romain le Colisée fut-il inauguré en 80 apr. J.-C. ?",
-    "answers": [
-      "Titus",
-      "Néron",
-      "Trajan",
-      "Domitien"
-    ],
+    "text": "Quel philosophe grec développa l’atomisme avec Démocrite ?",
+    "answers": ["Leucippe", "Anaxagore", "Épicure", "Parménide"],
     "correctIndex": 0
   },
   {
-    "id": "q154",
+    "id": "qAD83",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel philosophe stoïcien fut conseiller de Néron avant d’être contraint au suicide ?",
-    "answers": [
-      "Sénèque",
-      "Épictète",
-      "Marc Aurèle",
-      "Cicéron"
-    ],
+    "text": "Quelle bataille de 146 av. J.-C. entraîna la destruction de Carthage ?",
+    "answers": ["Zama", "Utique", "Prise de Carthage", "Hadrumète"],
+    "correctIndex": 2
+  },
+  {
+    "id": "qAD84",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain mit fin à la crise du IIIe siècle par des réformes militaires ?",
+    "answers": ["Aurélien", "Probus", "Dioclétien", "Claude II"],
+    "correctIndex": 2
+  },
+  {
+    "id": "qAD85",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle cité grecque était célèbre pour son sanctuaire d’Asclépios ?",
+    "answers": ["Épidaure", "Cos", "Pergame", "Athènes"],
+    "correctIndex": 0
+  },
+
+  {
+    "id": "qAD86",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel roi numide s’allia à Rome contre Carthage lors de la deuxième guerre punique ?",
+    "answers": ["Syphax", "Massinissa", "Jugurtha", "Micipsa"],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAD87",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain transféra les prétoriens hors de Rome ?",
+    "answers": ["Constantin", "Dioclétien", "Aurélien", "Maximien"],
     "correctIndex": 0
   },
   {
-    "id": "q155",
+    "id": "qAD88",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle cité antique était dirigée par un système de deux rois simultanément ?",
-    "answers": [
-      "Athènes",
-      "Sparte",
-      "Thèbes",
-      "Corinthe"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q156",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quelle reine d’Égypte fut la dernière de la dynastie ptolémaïque ?",
-    "answers": [
-      "Arsinoé II",
-      "Cléopâtre VII",
-      "Bérénice IV",
-      "Néfertari"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q157",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
-    "answers": [
-      "Hamilcar Barca",
-      "Hannibal",
-      "Hasdrubal",
-      "Magon"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q158",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel historien romain écrivit 'Ab Urbe Condita' ?",
-    "answers": [
-      "Tacite",
-      "Salluste",
-      "Tite-Live",
-      "Suétone"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q159",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel était le nom de la ligue formée par Athènes au Ve siècle av. J.-C. ?",
-    "answers": [
-      "Ligue béotienne",
-      "Ligue achéenne",
-      "Ligue ionienne",
-      "Ligue de Délos"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q160",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui fut le premier empereur de la dynastie flavienne ?",
-    "answers": [
-      "Titus",
-      "Domitien",
-      "Vespasien",
-      "Nerva"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q161",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
-    "answers": [
-      "Empire parthe",
-      "Empire séleucide",
-      "Empire sassanide",
-      "Empire achéménide"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q162",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
-    "answers": [
-      "Plutarque",
-      "Tite-Live",
-      "Hérodote",
-      "Strabon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q163",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Sous quel empereur romain le Colisée fut-il inauguré en 80 apr. J.-C. ?",
-    "answers": [
-      "Titus",
-      "Néron",
-      "Trajan",
-      "Domitien"
-    ],
+    "text": "Quelle cité grecque était la patrie d’Euclide, fondateur de la géométrie ?",
+    "answers": ["Alexandrie", "Athènes", "Milet", "Samos"],
     "correctIndex": 0
   },
   {
-    "id": "q164",
+    "id": "qAD89",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel philosophe stoïcien fut conseiller de Néron avant d’être contraint au suicide ?",
-    "answers": [
-      "Sénèque",
-      "Épictète",
-      "Marc Aurèle",
-      "Cicéron"
-    ],
+    "text": "Quel empereur romain est connu pour avoir favorisé le culte de Mithra ?",
+    "answers": ["Commode", "Aurélien", "Dioclétien", "Hadrien"],
+    "correctIndex": 2
+  },
+  {
+    "id": "qAD90",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle ville fut la capitale du royaume de Macédoine avant Pella ?",
+    "answers": ["Aigai", "Pydna", "Amphipolis", "Thessalonique"],
+    "correctIndex": 0
+  },
+
+  {
+    "id": "qAD91",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain promulgua l’édit de tolérance de Sardique en 311 ?",
+    "answers": ["Galère", "Constantin", "Licinius", "Maxence"],
     "correctIndex": 0
   },
   {
-    "id": "q165",
+    "id": "qAD92",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle cité antique était dirigée par un système de deux rois simultanément ?",
-    "answers": [
-      "Athènes",
-      "Sparte",
-      "Thèbes",
-      "Corinthe"
-    ],
+    "text": "Quelle bataille de 52 av. J.-C. vit la défaite de Vercingétorix ?",
+    "answers": ["Gergovie", "Alésia", "Bibracte", "Lutèce"],
     "correctIndex": 1
   },
   {
-    "id": "q166",
+    "id": "qAD93",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle reine d’Égypte fut la dernière de la dynastie ptolémaïque ?",
-    "answers": [
-      "Arsinoé II",
-      "Cléopâtre VII",
-      "Bérénice IV",
-      "Néfertari"
-    ],
+    "text": "Quel empereur romain mit fin au principat pour instaurer le dominat ?",
+    "answers": ["Aurélien", "Dioclétien", "Constantin", "Septime Sévère"],
     "correctIndex": 1
   },
   {
-    "id": "q167",
+    "id": "qAD94",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
-    "answers": [
-      "Hamilcar Barca",
-      "Hannibal",
-      "Hasdrubal",
-      "Magon"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q168",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel historien romain écrivit 'Ab Urbe Condita' ?",
-    "answers": [
-      "Tacite",
-      "Salluste",
-      "Tite-Live",
-      "Suétone"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q169",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel était le nom de la ligue formée par Athènes au Ve siècle av. J.-C. ?",
-    "answers": [
-      "Ligue béotienne",
-      "Ligue achéenne",
-      "Ligue ionienne",
-      "Ligue de Délos"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q170",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui fut le premier empereur de la dynastie flavienne ?",
-    "answers": [
-      "Titus",
-      "Domitien",
-      "Vespasien",
-      "Nerva"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q171",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
-    "answers": [
-      "Empire parthe",
-      "Empire séleucide",
-      "Empire sassanide",
-      "Empire achéménide"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q172",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
-    "answers": [
-      "Plutarque",
-      "Tite-Live",
-      "Hérodote",
-      "Strabon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q173",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Sous quel empereur romain le Colisée fut-il inauguré en 80 apr. J.-C. ?",
-    "answers": [
-      "Titus",
-      "Néron",
-      "Trajan",
-      "Domitien"
-    ],
+    "text": "Quelle cité grecque était la patrie de Solon ?",
+    "answers": ["Athènes", "Sparte", "Corinthe", "Mégare"],
     "correctIndex": 0
   },
   {
-    "id": "q174",
+    "id": "qAD95",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel philosophe stoïcien fut conseiller de Néron avant d’être contraint au suicide ?",
-    "answers": [
-      "Sénèque",
-      "Épictète",
-      "Marc Aurèle",
-      "Cicéron"
-    ],
+    "text": "Quel empereur romain est mort lors de la bataille d’Andrinople en 378 ?",
+    "answers": ["Valens", "Gratien", "Théodose Ier", "Arcadius"],
+    "correctIndex": 0
+  },
+
+  {
+    "id": "qAD96",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle cité antique était la capitale du royaume de Lydie ?",
+    "answers": ["Sardes", "Pergame", "Milet", "Éphèse"],
     "correctIndex": 0
   },
   {
-    "id": "q175",
+    "id": "qAD97",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle cité antique était dirigée par un système de deux rois simultanément ?",
-    "answers": [
-      "Athènes",
-      "Sparte",
-      "Thèbes",
-      "Corinthe"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q176",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quelle reine d’Égypte fut la dernière de la dynastie ptolémaïque ?",
-    "answers": [
-      "Arsinoé II",
-      "Cléopâtre VII",
-      "Bérénice IV",
-      "Néfertari"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q177",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
-    "answers": [
-      "Hamilcar Barca",
-      "Hannibal",
-      "Hasdrubal",
-      "Magon"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q178",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel historien romain écrivit 'Ab Urbe Condita' ?",
-    "answers": [
-      "Tacite",
-      "Salluste",
-      "Tite-Live",
-      "Suétone"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q179",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel était le nom de la ligue formée par Athènes au Ve siècle av. J.-C. ?",
-    "answers": [
-      "Ligue béotienne",
-      "Ligue achéenne",
-      "Ligue ionienne",
-      "Ligue de Délos"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q180",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui fut le premier empereur de la dynastie flavienne ?",
-    "answers": [
-      "Titus",
-      "Domitien",
-      "Vespasien",
-      "Nerva"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q181",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
-    "answers": [
-      "Empire parthe",
-      "Empire séleucide",
-      "Empire sassanide",
-      "Empire achéménide"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q182",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
-    "answers": [
-      "Plutarque",
-      "Tite-Live",
-      "Hérodote",
-      "Strabon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q183",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Sous quel empereur romain le Colisée fut-il inauguré en 80 apr. J.-C. ?",
-    "answers": [
-      "Titus",
-      "Néron",
-      "Trajan",
-      "Domitien"
-    ],
+    "text": "Quel empereur romain réforma la fiscalité en instaurant la capitatio-jugatio ?",
+    "answers": ["Dioclétien", "Constantin", "Aurélien", "Théodose"],
     "correctIndex": 0
   },
   {
-    "id": "q184",
+    "id": "qAD98",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel philosophe stoïcien fut conseiller de Néron avant d’être contraint au suicide ?",
-    "answers": [
-      "Sénèque",
-      "Épictète",
-      "Marc Aurèle",
-      "Cicéron"
-    ],
+    "text": "Quelle bataille de 197 av. J.-C. vit la défaite de Philippe V de Macédoine ?",
+    "answers": ["Cynoscephales", "Pydna", "Magnésie", "Ipsos"],
     "correctIndex": 0
   },
   {
-    "id": "q185",
+    "id": "qAD99",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle cité antique était dirigée par un système de deux rois simultanément ?",
-    "answers": [
-      "Athènes",
-      "Sparte",
-      "Thèbes",
-      "Corinthe"
-    ],
+    "text": "Quel empereur romain fonda la colonie d’Aelia Capitolina à Jérusalem ?",
+    "answers": ["Trajan", "Hadrien", "Antonin le Pieux", "Septime Sévère"],
     "correctIndex": 1
   },
   {
-    "id": "q186",
+    "id": "qAD100",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle reine d’Égypte fut la dernière de la dynastie ptolémaïque ?",
-    "answers": [
-      "Arsinoé II",
-      "Cléopâtre VII",
-      "Bérénice IV",
-      "Néfertari"
-    ],
+    "text": "Quelle civilisation antique utilisa la langue akkadienne comme langue diplomatique au Proche-Orient ?",
+    "answers": ["Assyrienne", "Babylonienne", "Hittite", "Égyptienne"],
+    "correctIndex": 2
+  }
+  {
+    "id": "qAD101",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel stratège athénien fut ostracisé après l’échec de l’expédition de Sicile ?",
+    "answers": ["Nicias", "Alcibiade", "Lamachos", "Cléon"],
     "correctIndex": 1
   },
   {
-    "id": "q187",
+    "id": "qAD102",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
-    "answers": [
-      "Hamilcar Barca",
-      "Hannibal",
-      "Hasdrubal",
-      "Magon"
-    ],
+    "text": "Quelle cité grecque était la capitale du royaume d’Épire ?",
+    "answers": ["Dodone", "Ambracie", "Apollonie", "Buthrote"],
     "correctIndex": 1
   },
   {
-    "id": "q188",
+    "id": "qAD103",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel historien romain écrivit 'Ab Urbe Condita' ?",
-    "answers": [
-      "Tacite",
-      "Salluste",
-      "Tite-Live",
-      "Suétone"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q189",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel était le nom de la ligue formée par Athènes au Ve siècle av. J.-C. ?",
-    "answers": [
-      "Ligue béotienne",
-      "Ligue achéenne",
-      "Ligue ionienne",
-      "Ligue de Délos"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q190",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui fut le premier empereur de la dynastie flavienne ?",
-    "answers": [
-      "Titus",
-      "Domitien",
-      "Vespasien",
-      "Nerva"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q191",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel royaume antique avait pour capitale Persépolis ?",
-    "answers": [
-      "Empire parthe",
-      "Empire séleucide",
-      "Empire sassanide",
-      "Empire achéménide"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q192",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Qui a écrit 'Histoires' relatant les guerres médiques ?",
-    "answers": [
-      "Plutarque",
-      "Tite-Live",
-      "Hérodote",
-      "Strabon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q193",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Sous quel empereur romain le Colisée fut-il inauguré en 80 apr. J.-C. ?",
-    "answers": [
-      "Titus",
-      "Néron",
-      "Trajan",
-      "Domitien"
-    ],
+    "text": "Quel empereur romain fut assassiné à Lyon en 68 apr. J.-C. ?",
+    "answers": ["Galba", "Vitellius", "Othon", "Néron"],
     "correctIndex": 0
   },
   {
-    "id": "q194",
+    "id": "qAD104",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel philosophe stoïcien fut conseiller de Néron avant d’être contraint au suicide ?",
-    "answers": [
-      "Sénèque",
-      "Épictète",
-      "Marc Aurèle",
-      "Cicéron"
-    ],
+    "text": "Quelle bataille de 331 av. J.-C. scella la chute définitive de l’Empire perse achéménide ?",
+    "answers": ["Issos", "Gaugamèles", "Hydaspe", "Arbèles"],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAD105",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel philosophe stoïcien fonda l’école du Portique peint à Athènes ?",
+    "answers": ["Chrysippe", "Zénon de Kition", "Cléanthe", "Posidonios"],
+    "correctIndex": 1
+  },
+
+  {
+    "id": "qAD106",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel roi de Pergame légua son royaume à Rome en 133 av. J.-C. ?",
+    "answers": ["Attale II", "Attale III", "Eumène II", "Philétairos"],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAD107",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain supprima la garde prétorienne ?",
+    "answers": ["Dioclétien", "Constantin", "Aurélien", "Septime Sévère"],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAD108",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle cité grecque fut la patrie de l’historien Thucydide ?",
+    "answers": ["Athènes", "Corinthe", "Mégare", "Sparte"],
     "correctIndex": 0
   },
   {
-    "id": "q195",
+    "id": "qAD109",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle cité antique était dirigée par un système de deux rois simultanément ?",
-    "answers": [
-      "Athènes",
-      "Sparte",
-      "Thèbes",
-      "Corinthe"
-    ],
+    "text": "Quel empereur romain instaura le culte du Sol Invictus comme religion officielle ?",
+    "answers": ["Aurélien", "Dioclétien", "Constantin", "Commode"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD110",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle cité antique fut la capitale du royaume nabatéen ?",
+    "answers": ["Bostra", "Petra", "Palmyre", "Gérasa"],
+    "correctIndex": 1
+  },
+
+  {
+    "id": "qAD111",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain fut proclamé « optimus princeps » ?",
+    "answers": ["Auguste", "Trajan", "Antonin le Pieux", "Marc Aurèle"],
     "correctIndex": 1
   },
   {
-    "id": "q196",
+    "id": "qAD112",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quelle reine d’Égypte fut la dernière de la dynastie ptolémaïque ?",
-    "answers": [
-      "Arsinoé II",
-      "Cléopâtre VII",
-      "Bérénice IV",
-      "Néfertari"
-    ],
+    "text": "Quelle bataille de 279 av. J.-C. opposa Pyrrhus d’Épire aux Romains ?",
+    "answers": ["Héraclée", "Asculum", "Bénévent", "Sentinum"],
     "correctIndex": 1
   },
   {
-    "id": "q197",
+    "id": "qAD113",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel général carthaginois traversa les Alpes avec ses éléphants ?",
-    "answers": [
-      "Hamilcar Barca",
-      "Hannibal",
-      "Hasdrubal",
-      "Magon"
-    ],
+    "text": "Quel philosophe grec est l’auteur du « Traité de la nature » attribué aux atomistes ?",
+    "answers": ["Leucippe", "Démocrite", "Épicure", "Anaxagore"],
     "correctIndex": 1
   },
   {
-    "id": "q198",
+    "id": "qAD114",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Quel historien romain écrivit 'Ab Urbe Condita' ?",
-    "answers": [
-      "Tacite",
-      "Salluste",
-      "Tite-Live",
-      "Suétone"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q199",
-    "category": "Antiquité",
-    "difficulty": "Difficile",
-    "text": "Quel était le nom de la ligue formée par Athènes au Ve siècle av. J.-C. ?",
-    "answers": [
-      "Ligue béotienne",
-      "Ligue achéenne",
-      "Ligue ionienne",
-      "Ligue de Délos"
-    ],
+    "text": "Quelle cité grecque forma la Ligue béotienne avec Thèbes ?",
+    "answers": ["Platées", "Orchomène", "Tanagra", "Thespies"],
     "correctIndex": 3
   },
   {
-    "id": "q200",
+    "id": "qAD115",
     "category": "Antiquité",
     "difficulty": "Difficile",
-    "text": "Qui fut le premier empereur de la dynastie flavienne ?",
-    "answers": [
-      "Titus",
-      "Domitien",
-      "Vespasien",
-      "Nerva"
-    ],
+    "text": "Quel empereur romain promulgua l’édit de Thessalonique en 380 ?",
+    "answers": ["Constantin", "Théodose Ier", "Valentinien II", "Gratien"],
+    "correctIndex": 1
+  },
+
+  {
+    "id": "qAD116",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle cité grecque était la capitale de la Cyrénaïque ?",
+    "answers": ["Cyrène", "Bérénice", "Apollonia", "Tauchira"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD117",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain fut surnommé « le philosophe » ?",
+    "answers": ["Marc Aurèle", "Hadrien", "Antonin le Pieux", "Trajan"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD118",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle bataille de 197 av. J.-C. opposa Rome à Philippe V de Macédoine ?",
+    "answers": ["Cynoscephales", "Pydna", "Magnésie", "Ipsos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD119",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain fonda Constantinople en 330 ?",
+    "answers": ["Dioclétien", "Constantin", "Théodose Ier", "Arcadius"],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAD120",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle cité antique était la capitale du royaume d’Arménie majeure ?",
+    "answers": ["Tigranocerte", "Artaxate", "Ani", "Van"],
+    "correctIndex": 1
+  },
+
+  {
+    "id": "qAD121",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain mit fin aux jeux de gladiateurs à Rome ?",
+    "answers": ["Honorius", "Théodose Ier", "Valentinien III", "Arcadius"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD122",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle cité grecque était réputée pour son école de sculpture au Ve siècle av. J.-C. ?",
+    "answers": ["Argos", "Athènes", "Corinthe", "Sicyone"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD123",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain fut vaincu par Shapur Ier et capturé vivant ?",
+    "answers": ["Valérien", "Gallien", "Aurélien", "Claude II"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD124",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle cité grecque était la patrie de Pindare ?",
+    "answers": ["Thèbes", "Corinthe", "Argos", "Delphes"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD125",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain institua le solidus comme monnaie d’or stable ?",
+    "answers": ["Dioclétien", "Constantin", "Aurélien", "Théodose Ier"],
+    "correctIndex": 1
+  },
+
+  {
+    "id": "qAD126",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle bataille de 42 av. J.-C. opposa les triumvirs aux assassins de César ?",
+    "answers": ["Actium", "Philippes", "Mutina", "Perusia"],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAD127",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel philosophe grec développa la théorie de l’âme tripartite ?",
+    "answers": ["Platon", "Aristote", "Pythagore", "Socrate"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD128",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle cité grecque fut détruite par Sparte après la bataille d’Aigos Potamoi ?",
+    "answers": ["Athènes", "Thèbes", "Corinthe", "Argos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD129",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain promulgua la Constitutio Antoniniana ?",
+    "answers": ["Septime Sévère", "Caracalla", "Macrin", "Élagabal"],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAD130",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle cité antique était la capitale de la province romaine d’Afrique proconsulaire ?",
+    "answers": ["Utique", "Carthage", "Hadrumète", "Leptis Magna"],
+    "correctIndex": 1
+  },
+
+  {
+    "id": "qAD131",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain est connu pour la réforme du calendrier julien ?",
+    "answers": ["Auguste", "Jules César", "Tibère", "Claude"],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAD132",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle cité grecque était associée au sanctuaire d’Apollon à Claros ?",
+    "answers": ["Colophon", "Milet", "Éphèse", "Smyrne"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD133",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain fut assassiné par la garde prétorienne en 193 ?",
+    "answers": ["Pertinax", "Didier Julien", "Commode", "Didius Julianus"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD134",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle bataille de 241 av. J.-C. mit fin à la première guerre punique ?",
+    "answers": ["Aegates", "Drepane", "Ecnome", "Mylae"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD135",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel philosophe grec enseigna à Alexandre le Grand ?",
+    "answers": ["Platon", "Aristote", "Isocrate", "Xénophon"],
+    "correctIndex": 1
+  },
+
+  {
+    "id": "qAD136",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle cité antique était la capitale du royaume de Commagène ?",
+    "answers": ["Samosate", "Antioche", "Édesse", "Nisibe"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD137",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain est associé à l’édit de Serdica ?",
+    "answers": ["Galère", "Constantin", "Licinius", "Maximin Daïa"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD138",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle cité grecque était la patrie d’Hérodote ?",
+    "answers": ["Halicarnasse", "Milet", "Samos", "Éphèse"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD139",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain mit fin à la dynastie des Sévères ?",
+    "answers": ["Maximin le Thrace", "Caracalla", "Élagabal", "Alexandre Sévère"],
+    "correctIndex": 3
+  },
+  {
+    "id": "qAD140",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle bataille de 52 av. J.-C. vit la reddition de Vercingétorix ?",
+    "answers": ["Gergovie", "Alésia", "Bibracte", "Lutèce"],
+    "correctIndex": 1
+  },
+
+  {
+    "id": "qAD141",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain fit fermer les temples païens à la fin du IVe siècle ?",
+    "answers": ["Théodose Ier", "Honorius", "Arcadius", "Valentinien II"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD142",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle cité grecque fut la capitale de la Laconie ?",
+    "answers": ["Sparte", "Gythion", "Amyclées", "Argos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD143",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain institua le dominat ?",
+    "answers": ["Aurélien", "Dioclétien", "Constantin", "Septime Sévère"],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAD144",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle cité grecque était associée au temple d’Artémis, l’une des sept merveilles ?",
+    "answers": ["Éphèse", "Sardes", "Milet", "Pergame"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD145",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain mourut lors d’une campagne contre les Perses en 363 ?",
+    "answers": ["Julien", "Jovien", "Valens", "Gratien"],
+    "correctIndex": 0
+  },
+
+  {
+    "id": "qAD146",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle cité grecque fut la capitale de la province romaine d’Achaïe ?",
+    "answers": ["Athènes", "Corinthe", "Sparte", "Patras"],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAD147",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel philosophe grec est l’auteur de l’« Éthique à Nicomaque » ?",
+    "answers": ["Platon", "Aristote", "Socrate", "Épicure"],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAD148",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle cité antique fut la capitale du royaume de Pont ?",
+    "answers": ["Sinope", "Amaseia", "Trébizonde", "Pergame"],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAD149",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain fit ériger l’arc de Constantin à Rome ?",
+    "answers": ["Constantin", "Maxence", "Licinius", "Dioclétien"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD150",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle civilisation antique est associée à la ville de Mari sur l’Euphrate ?",
+    "answers": ["Amorrite", "Akkadienne", "Assyrienne", "Élamite"],
+    "correctIndex": 0
+  }
+  {
+    "id": "qAD151",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain fut proclamé après la mort de Pertinax en 193 grâce à une enchère ?",
+    "answers": ["Septime Sévère", "Didier Julien", "Pescennius Niger", "Clodius Albinus"],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAD152",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle cité grecque fut le centre principal de la confédération étolienne ?",
+    "answers": ["Calydon", "Thermon", "Naupacte", "Delphes"],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAD153",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain fit supprimer le Sénat de toute fonction politique réelle ?",
+    "answers": ["Dioclétien", "Constantin", "Aurélien", "Septime Sévère"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD154",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle bataille de 217 av. J.-C. opposa Rome à Hannibal en Italie centrale ?",
+    "answers": ["Trébie", "Trasimène", "Cannes", "Métauros"],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAD155",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel philosophe grec fut condamné à mort pour impiété et corruption de la jeunesse ?",
+    "answers": ["Platon", "Socrate", "Aristote", "Protagoras"],
+    "correctIndex": 1
+  },
+
+  {
+    "id": "qAD156",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle cité grecque était réputée pour son école de médecine rivale de Cos ?",
+    "answers": ["Cnide", "Pergame", "Épidaure", "Rhodes"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD157",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain accorda le titre d’Augusta à sa mère Julia Domna ?",
+    "answers": ["Caracalla", "Septime Sévère", "Élagabal", "Alexandre Sévère"],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAD158",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle ville fut la première capitale de l’Empire romain d’Orient avant Constantinople ?",
+    "answers": ["Antioche", "Nicomédie", "Thessalonique", "Sirmium"],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAD159",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel roi macédonien fonda la dynastie antigonide ?",
+    "answers": ["Antigone le Borgne", "Démétrios Poliorcète", "Cassandre", "Philippe V"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD160",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle bataille de 279 av. J.-C. vit Pyrrhus affronter les Romains en Italie du Sud ?",
+    "answers": ["Héraclée", "Asculum", "Bénévent", "Sentinum"],
+    "correctIndex": 1
+  },
+
+  {
+    "id": "qAD161",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain promulgua la loi interdisant les sacrifices païens en 391 ?",
+    "answers": ["Théodose Ier", "Honorius", "Arcadius", "Valentinien II"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD162",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle cité grecque fut la patrie du sophiste Protagoras ?",
+    "answers": ["Abdère", "Milet", "Clazomènes", "Samos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD163",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain réorganisa l’armée en comitatenses et limitanei ?",
+    "answers": ["Dioclétien", "Constantin", "Aurélien", "Probus"],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAD164",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle cité antique fut la capitale du royaume de Médie ?",
+    "answers": ["Ecbatane", "Suse", "Pasargades", "Rhages"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD165",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel philosophe grec est associé à l’école mégarique ?",
+    "answers": ["Euclide de Mégare", "Antisthène", "Aristippe", "Zénon"],
+    "correctIndex": 0
+  },
+
+  {
+    "id": "qAD166",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle cité romaine fut ensevelie par l’éruption du Vésuve avec Pompéi ?",
+    "answers": ["Stabies", "Capoue", "Herculanum", "Ostie"],
     "correctIndex": 2
+  },
+  {
+    "id": "qAD167",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain ordonna la damnatio memoriae de Géta ?",
+    "answers": ["Caracalla", "Septime Sévère", "Macrin", "Élagabal"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD168",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle bataille de 190 av. J.-C. opposa Rome à Antiochos III ?",
+    "answers": ["Ipsos", "Magnésie", "Cynoscephales", "Raphia"],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAD169",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain fit ériger le temple de Vénus et de Rome ?",
+    "answers": ["Hadrien", "Trajan", "Antonin le Pieux", "Marc Aurèle"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD170",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle cité grecque était la patrie du sculpteur Polyclète ?",
+    "answers": ["Argos", "Athènes", "Corinthe", "Sicyone"],
+    "correctIndex": 0
+  },
+
+  {
+    "id": "qAD171",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain mourut assassiné à Aquilée en 238 ?",
+    "answers": ["Maximin le Thrace", "Gordien Ier", "Pupien", "Balbin"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD172",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle cité grecque dirigeait la Ligue arcadienne ?",
+    "answers": ["Mégalopolis", "Mantinée", "Tégée", "Orchomène"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD173",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain promulgua la réforme monétaire de l’aureus ?",
+    "answers": ["Néron", "Dioclétien", "Aurélien", "Constantin"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD174",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle cité antique fut la capitale du royaume d’Osroène ?",
+    "answers": ["Édesse", "Nisibe", "Hatra", "Doura-Europos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD175",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain mit fin à la dynastie julio-claudienne ?",
+    "answers": ["Néron", "Galba", "Othon", "Vitellius"],
+    "correctIndex": 0
+  },
+
+  {
+    "id": "qAD176",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle cité grecque était associée au sanctuaire d’Héra à Samos ?",
+    "answers": ["Samos", "Milet", "Éphèse", "Chios"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD177",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain fit détruire Jérusalem en 70 apr. J.-C. ?",
+    "answers": ["Titus", "Vespasien", "Domitien", "Néron"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD178",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle cité antique fut la capitale du royaume de Palmyre sous Zénobie ?",
+    "answers": ["Palmyre", "Damas", "Antioche", "Émèse"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD179",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain ordonna la fermeture de l’Académie d’Athènes en 529 ?",
+    "answers": ["Justinien", "Théodose II", "Zénon", "Anastase"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD180",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle cité grecque était la patrie du philosophe Démocrite ?",
+    "answers": ["Abdère", "Éphèse", "Milet", "Samos"],
+    "correctIndex": 0
+  },
+
+  {
+    "id": "qAD181",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain rétablit l’unité de l’Empire après l’Empire des Gaules ?",
+    "answers": ["Aurélien", "Probus", "Dioclétien", "Claude II"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD182",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle cité grecque était la capitale du royaume de Thessalie sous Jason de Phères ?",
+    "answers": ["Phères", "Larissa", "Crannon", "Pharsale"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD183",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain fit ériger l’arc de Septime Sévère à Rome ?",
+    "answers": ["Septime Sévère", "Caracalla", "Geta", "Macrin"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD184",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle cité antique était la capitale du royaume de Phrygie ?",
+    "answers": ["Gordion", "Sardes", "Ancyre", "Pessinonte"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD185",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel philosophe grec est associé au concept d’ataraxie chez les sceptiques ?",
+    "answers": ["Pyrrhon", "Épicure", "Zénon", "Aristippe"],
+    "correctIndex": 0
+  },
+
+  {
+    "id": "qAD186",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle cité romaine fut la capitale de la province de Gaule lyonnaise ?",
+    "answers": ["Lugdunum", "Vienna", "Autun", "Narbo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD187",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain fit exécuter le philosophe Boèce ?",
+    "answers": ["Théodoric", "Justinien", "Zénon", "Anastase"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD188",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle cité grecque était associée au temple d’Apollon à Didymes ?",
+    "answers": ["Milet", "Éphèse", "Samos", "Pergame"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD189",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain promulgua l’édit de Thessalonique faisant du christianisme la religion d’État ?",
+    "answers": ["Théodose Ier", "Constantin", "Valentinien II", "Gratien"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD190",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle cité antique fut la capitale du royaume de Bactriane grecque ?",
+    "answers": ["Aï Khanoum", "Bactres", "Suse", "Maracanda"],
+    "correctIndex": 1
+  },
+
+  {
+    "id": "qAD191",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain fit supprimer les jeux olympiques antiques ?",
+    "answers": ["Théodose Ier", "Honorius", "Arcadius", "Justinien"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD192",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle cité grecque était la patrie de l’astronome Hipparque ?",
+    "answers": ["Nicée", "Alexandrie", "Pergame", "Rhodes"],
+    "correctIndex": 3
+  },
+  {
+    "id": "qAD193",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain mourut noyé lors d’une traversée du Nil ?",
+    "answers": ["Hadrien", "Trajan", "Claude", "Néron"],
+    "correctIndex": 1
+  },
+  {
+    "id": "qAD194",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle cité antique fut la capitale du royaume de Cilicie ?",
+    "answers": ["Tarse", "Soli", "Adana", "Séleucie"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD195",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel philosophe grec développa le concept de logos dans le stoïcisme ?",
+    "answers": ["Zénon de Kition", "Chrysippe", "Cléanthe", "Posidonios"],
+    "correctIndex": 1
+  },
+
+  {
+    "id": "qAD196",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle cité romaine fut la capitale de la province de Syrie ?",
+    "answers": ["Antioche", "Damas", "Palmyre", "Émèse"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD197",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain est associé à la construction du mur de Sévère en Bretagne ?",
+    "answers": ["Septime Sévère", "Caracalla", "Hadrien", "Antonin le Pieux"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD198",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle cité grecque fut la capitale du royaume de Macédoine sous Philippe II ?",
+    "answers": ["Pella", "Aigai", "Amphipolis", "Thessalonique"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD199",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quel empereur romain mit fin à l’Empire romain d’Occident en déposant Romulus Augustule ?",
+    "answers": ["Odoacre", "Zénon", "Théodose II", "Gondebaud"],
+    "correctIndex": 0
+  },
+  {
+    "id": "qAD200",
+    "category": "Antiquité",
+    "difficulty": "Difficile",
+    "text": "Quelle cité antique fut la capitale du royaume de Numidie sous Massinissa ?",
+    "answers": ["Cirta", "Utique", "Hippone", "Leptis Magna"],
+    "correctIndex": 0
   }
 ]
