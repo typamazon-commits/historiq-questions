@@ -3,3900 +3,1601 @@
     "id": "q1",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel pays est à l'origine du théâtre Nô ?",
-    "answers": [
-      "Japon",
-      "Corée",
-      "Vietnam",
-      "Chine"
-    ],
+    "text": "Quel poème épique sanskrit est traditionnellement attribué à Vâlmîki ?",
+    "answers": ["Le Rāmāyaṇa", "Le Mahābhārata", "Le Rig-Véda", "Les Upanishads"],
     "correctIndex": 0
   },
   {
     "id": "q2",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel festival mongol célèbre les sports traditionnels ?",
-    "answers": [
-      "Naadam",
-      "Nadaam",
-      "Sagaalgan",
-      "Tsagaan Sar"
-    ],
-    "correctIndex": 0
+    "text": "Quel peuple a développé l’écriture quipus (cordelettes à nœuds) comme système de comptabilité et d’archivage ?",
+    "answers": ["Mayas", "Incas", "Aztèques", "Olmèques"],
+    "correctIndex": 1
   },
   {
     "id": "q3",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'art martial traditionnel du Brésil ?",
-    "answers": [
-      "Jiu-jitsu",
-      "Sambo",
-      "Capoeira",
-      "Lutte"
-    ],
+    "text": "Quelle langue a servi de base à l’alphabet hangul créé au XVe siècle ?",
+    "answers": ["Le japonais", "Le mongol", "Le coréen", "Le mandarin"],
     "correctIndex": 2
   },
   {
     "id": "q4",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'art martial traditionnel du Brésil ?",
-    "answers": [
-      "Sambo",
-      "Jiu-jitsu",
-      "Capoeira",
-      "Lutte"
-    ],
-    "correctIndex": 2
+    "text": "Quel genre musical cubain est à l’origine d’une grande partie de la salsa moderne ?",
+    "answers": ["Boléro", "Mambo", "Cha-cha-cha", "Son cubain"],
+    "correctIndex": 3
   },
   {
     "id": "q5",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel pays est à l'origine du théâtre Nô ?",
-    "answers": [
-      "Vietnam",
-      "Chine",
-      "Japon",
-      "Corée"
-    ],
-    "correctIndex": 2
+    "text": "Quel texte fondateur de la Chine ancienne est traditionnellement associé à Laozi ?",
+    "answers": ["Le Dàodéjīng", "Les Entretiens (Lúnyǔ)", "Le Livre des rites (Lǐjì)", "Le Shǐjì"],
+    "correctIndex": 0
   },
   {
     "id": "q6",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "L'Épopée de Gilgamesh",
-      "Le Livre des Morts",
-      "L'Iliade",
-      "Le Rig-Véda"
-    ],
-    "correctIndex": 0
+    "text": "Dans quelle ville se tient traditionnellement le Palio, célèbre course de chevaux entre contrade ?",
+    "answers": ["Ferrare", "Sienne", "Pise", "Arezzo"],
+    "correctIndex": 1
   },
   {
     "id": "q7",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quelle civilisation a construit Machu Picchu ?",
-    "answers": [
-      "Olmèques",
-      "Mayas",
-      "Incas",
-      "Aztèques"
-    ],
+    "text": "Quel style architectural islamique est emblématique de l’Andalousie médiévale (Alhambra) ?",
+    "answers": ["Abbasside", "Fatimide", "Nasride", "Timouride"],
     "correctIndex": 2
   },
   {
     "id": "q8",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel pays a inventé la porcelaine ?",
-    "answers": [
-      "Chine",
-      "Corée",
-      "Vietnam",
-      "Japon"
-    ],
-    "correctIndex": 0
+    "text": "Quel instrument à vent australien est traditionnellement associé aux peuples aborigènes du nord ?",
+    "answers": ["Shakuhachi", "Ney", "Duduk", "Didgeridoo"],
+    "correctIndex": 3
   },
   {
     "id": "q9",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Dans quelle ville se trouve la bibliothèque d'Alexandrie reconstruite ?",
-    "answers": [
-      "Alexandrie",
-      "Tunis",
-      "Le Caire",
-      "Athènes"
-    ],
+    "text": "Quel cycle de fresques médiévales de Padoue est attribué à Giotto dans la chapelle Scrovegni ?",
+    "answers": ["La Vie de la Vierge et du Christ", "La Légende dorée", "Les Triomphes de César", "Les Noces de Cana"],
     "correctIndex": 0
   },
   {
     "id": "q10",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Dans quelle ville se trouve la bibliothèque d'Alexandrie reconstruite ?",
-    "answers": [
-      "Le Caire",
-      "Athènes",
-      "Alexandrie",
-      "Tunis"
-    ],
-    "correctIndex": 2
+    "text": "Quel est le nom du théâtre traditionnel indonésien d’ombres utilisant des marionnettes en cuir ?",
+    "answers": ["Kabuki", "Wayang kulit", "Bunraku", "Nō"],
+    "correctIndex": 1
   },
   {
     "id": "q11",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "Le Rig-Véda",
-      "L'Épopée de Gilgamesh",
-      "L'Iliade",
-      "Le Livre des Morts"
-    ],
-    "correctIndex": 1
+    "text": "Quel alphabet a été conçu au XIXe siècle pour transcrire le vietnamien sous forme romanisée ?",
+    "answers": ["Le kana", "Le bopomofo", "Le quốc ngữ", "Le devanagari"],
+    "correctIndex": 2
   },
   {
     "id": "q12",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'instrument national de l'Écosse ?",
-    "answers": [
-      "Tin whistle",
-      "Harpe",
-      "Violon",
-      "Cornemuse"
-    ],
+    "text": "Quel grand festival hindou des couleurs est associé au printemps ?",
+    "answers": ["Diwali", "Navratri", "Onam", "Holi"],
     "correctIndex": 3
   },
   {
     "id": "q13",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "Le Livre des Morts",
-      "L'Épopée de Gilgamesh",
-      "L'Iliade",
-      "Le Rig-Véda"
-    ],
-    "correctIndex": 1
+    "text": "Quel recueil de contes en sanskrit a influencé de nombreuses traditions narratives en Asie ?",
+    "answers": ["Le Pañchatantra", "Le Popol Vuh", "Le Kalevala", "Les Métamorphoses"],
+    "correctIndex": 0
   },
   {
     "id": "q14",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel plat est traditionnellement servi lors de Thanksgiving ?",
-    "answers": [
-      "Dinde farcie",
-      "Tourte à la viande",
-      "Poulet rôti",
-      "Ragoût de bœuf"
-    ],
-    "correctIndex": 0
+    "text": "Quel est le nom de la poésie japonaise à 17 mores (5-7-5) popularisée à l’époque d’Edo ?",
+    "answers": ["Tanka", "Haïku", "Renga", "Senryū"],
+    "correctIndex": 1
   },
   {
     "id": "q15",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'art martial traditionnel du Brésil ?",
-    "answers": [
-      "Sambo",
-      "Lutte",
-      "Jiu-jitsu",
-      "Capoeira"
-    ],
-    "correctIndex": 3
+    "text": "Quel peuple de Nouvelle-Zélande pratique le haka comme performance cérémonielle ?",
+    "answers": ["Samoans", "Maoris", "Tongiens", "Hawaïens"],
+    "correctIndex": 2
   },
   {
     "id": "q16",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel festival mongol célèbre les sports traditionnels ?",
-    "answers": [
-      "Naadam",
-      "Sagaalgan",
-      "Tsagaan Sar",
-      "Nadaam"
-    ],
-    "correctIndex": 0
+    "text": "Quel est le nom du grand poème épique finlandais compilé par Elias Lönnrot ?",
+    "answers": ["Beowulf", "La Chanson de Roland", "Le Nibelungenlied", "Le Kalevala"],
+    "correctIndex": 3
   },
   {
     "id": "q17",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "Le Rig-Véda",
-      "Le Livre des Morts",
-      "L'Iliade",
-      "L'Épopée de Gilgamesh"
-    ],
-    "correctIndex": 3
+    "text": "Quel terme désigne la calligraphie islamique en écriture anguleuse, fréquente dans les premiers Corans ?",
+    "answers": ["Kufique", "Nastaʿlīq", "Diwani", "Thuluth"],
+    "correctIndex": 0
   },
   {
     "id": "q18",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quelle civilisation a construit Machu Picchu ?",
-    "answers": [
-      "Aztèques",
-      "Olmèques",
-      "Incas",
-      "Mayas"
-    ],
-    "correctIndex": 2
+    "text": "Quelle ville est associée à l’école de chant polyphonique géorgien et à ses traditions chorales ?",
+    "answers": ["Bakou", "Tbilissi", "Erevan", "Sofia"],
+    "correctIndex": 1
   },
   {
     "id": "q19",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Dans quelle ville se trouve la bibliothèque d'Alexandrie reconstruite ?",
-    "answers": [
-      "Athènes",
-      "Tunis",
-      "Le Caire",
-      "Alexandrie"
-    ],
-    "correctIndex": 3
+    "text": "Dans le théâtre grec antique, comment s’appelle le chœur qui commente l’action ?",
+    "answers": ["Coryphée", "Pantomime", "Stasimon", "Chœur"],
+    "correctIndex": 2
   },
   {
     "id": "q20",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "L'Iliade",
-      "Le Livre des Morts",
-      "L'Épopée de Gilgamesh",
-      "Le Rig-Véda"
-    ],
-    "correctIndex": 2
+    "text": "Quel instrument d’Afrique de l’Ouest, sorte de harpe-luth, est associé aux griots mandingues ?",
+    "answers": ["Oud", "Sitar", "Balafon", "Kora"],
+    "correctIndex": 3
   },
   {
     "id": "q21",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quelle civilisation a construit Machu Picchu ?",
-    "answers": [
-      "Olmèques",
-      "Incas",
-      "Aztèques",
-      "Mayas"
-    ],
-    "correctIndex": 1
+    "text": "Quel manuscrit médiéval enluminé irlandais est célèbre pour sa richesse décorative ?",
+    "answers": ["Le Livre de Kells", "La Bible de Gutenberg", "Le Codex Leicester", "Le Codex Borbonicus"],
+    "correctIndex": 0
   },
   {
     "id": "q22",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel pays est à l'origine du théâtre Nô ?",
-    "answers": [
-      "Vietnam",
-      "Japon",
-      "Chine",
-      "Corée"
-    ],
+    "text": "Quel mouvement littéraire hispano-américain est associé à Rubén Darío ?",
+    "answers": ["Réalisme", "Modernismo", "Surréalisme", "Costumbrismo"],
     "correctIndex": 1
   },
   {
     "id": "q23",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quelle civilisation a construit Machu Picchu ?",
-    "answers": [
-      "Aztèques",
-      "Olmèques",
-      "Incas",
-      "Mayas"
-    ],
+    "text": "Quelle tradition orale d’Afrique de l’Ouest est personnifiée par le récit de Soundiata Keïta ?",
+    "answers": ["Le Mabinogion", "La Matière de Bretagne", "L’épopée mandingue", "La Chanson de geste"],
     "correctIndex": 2
   },
   {
     "id": "q24",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Dans quelle ville se trouve la bibliothèque d'Alexandrie reconstruite ?",
-    "answers": [
-      "Athènes",
-      "Le Caire",
-      "Alexandrie",
-      "Tunis"
-    ],
-    "correctIndex": 2
+    "text": "Quel art textile péruvien, hérité des Andes, est associé au tissage sur métiers traditionnels et à des motifs symboliques ?",
+    "answers": ["Kente", "Batik", "Suzani", "Textile quechua"],
+    "correctIndex": 3
   },
   {
     "id": "q25",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel festival mongol célèbre les sports traditionnels ?",
-    "answers": [
-      "Tsagaan Sar",
-      "Naadam",
-      "Sagaalgan",
-      "Nadaam"
-    ],
-    "correctIndex": 1
+    "text": "Quel est le nom de la cérémonie du thé japonaise codifiée, centrée sur la préparation du matcha ?",
+    "answers": ["Chanoyu", "Ikebana", "Shodō", "Kintsugi"],
+    "correctIndex": 0
   },
   {
     "id": "q26",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel festival mongol célèbre les sports traditionnels ?",
-    "answers": [
-      "Nadaam",
-      "Tsagaan Sar",
-      "Sagaalgan",
-      "Naadam"
-    ],
-    "correctIndex": 3
+    "text": "Quel groupe linguistique comprend le swahili ?",
+    "answers": ["Sémitique", "Bantou", "Turcique", "Dravidien"],
+    "correctIndex": 1
   },
   {
     "id": "q27",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Dans quelle ville se trouve la bibliothèque d'Alexandrie reconstruite ?",
-    "answers": [
-      "Athènes",
-      "Alexandrie",
-      "Le Caire",
-      "Tunis"
-    ],
-    "correctIndex": 1
+    "text": "Quel type de chant liturgique occidental, monodique, est associé au rite romain médiéval ?",
+    "answers": ["Motet", "Cantate", "Chant grégorien", "Fado"],
+    "correctIndex": 2
   },
   {
     "id": "q28",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quelle civilisation a construit Machu Picchu ?",
-    "answers": [
-      "Aztèques",
-      "Mayas",
-      "Olmèques",
-      "Incas"
-    ],
+    "text": "Quel plat coréen de légumes fermentés est emblématique de la culture culinaire du pays ?",
+    "answers": ["Miso", "Pho", "Okonomiyaki", "Kimchi"],
     "correctIndex": 3
   },
   {
     "id": "q29",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quelle civilisation a construit Machu Picchu ?",
-    "answers": [
-      "Mayas",
-      "Aztèques",
-      "Incas",
-      "Olmèques"
-    ],
-    "correctIndex": 2
+    "text": "Quel philosophe grec est associé à la méthode maïeutique ?",
+    "answers": ["Socrate", "Aristote", "Épicure", "Parménide"],
+    "correctIndex": 0
   },
   {
     "id": "q30",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est le plus grand carnaval du monde ?",
-    "answers": [
-      "Carnaval de Venise",
-      "Carnaval de Rio",
-      "Carnaval de Nice",
-      "Carnaval de Notting Hill"
-    ],
+    "text": "Quelle langue est la plus étroitement liée au hindi au sein du continuum hindoustani ?",
+    "answers": ["Bengali", "Ourdou", "Tamoul", "Marathi"],
     "correctIndex": 1
   },
   {
     "id": "q31",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quelle civilisation a construit Machu Picchu ?",
-    "answers": [
-      "Mayas",
-      "Aztèques",
-      "Olmèques",
-      "Incas"
-    ],
-    "correctIndex": 3
+    "text": "Quel terme désigne l’art japonais de réparer la céramique avec une laque saupoudrée d’or ?",
+    "answers": ["Origami", "Ikebana", "Kintsugi", "Ukiyo-e"],
+    "correctIndex": 2
   },
   {
     "id": "q32",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'instrument national de l'Écosse ?",
-    "answers": [
-      "Harpe",
-      "Tin whistle",
-      "Violon",
-      "Cornemuse"
-    ],
+    "text": "Quel récit espagnol du XVIIe siècle, de Cervantès, est souvent considéré comme un jalon du roman moderne ?",
+    "answers": ["La Celestina", "Lazarillo de Tormes", "La vida es sueño", "Don Quichotte"],
     "correctIndex": 3
   },
   {
     "id": "q33",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quelle civilisation a construit Machu Picchu ?",
-    "answers": [
-      "Olmèques",
-      "Incas",
-      "Mayas",
-      "Aztèques"
-    ],
-    "correctIndex": 1
+    "text": "Quel ensemble de textes en hébreu constitue la Bible hébraïque ?",
+    "answers": ["Le Tanakh", "Le Talmud", "La Septante", "La Vulgate"],
+    "correctIndex": 0
   },
   {
     "id": "q34",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est le plus grand carnaval du monde ?",
-    "answers": [
-      "Carnaval de Venise",
-      "Carnaval de Nice",
-      "Carnaval de Notting Hill",
-      "Carnaval de Rio"
-    ],
-    "correctIndex": 3
+    "text": "Quel courant artistique allemand du début du XXe siècle est associé au groupe Die Brücke ?",
+    "answers": ["Futurisme", "Expressionnisme", "Dadaïsme", "Constructivisme"],
+    "correctIndex": 1
   },
   {
     "id": "q35",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel pays est à l'origine du théâtre Nô ?",
-    "answers": [
-      "Japon",
-      "Corée",
-      "Vietnam",
-      "Chine"
-    ],
-    "correctIndex": 0
+    "text": "Quel instrument à cordes indien, à long manche, est central dans la musique hindoustanie ?",
+    "answers": ["Erhu", "Guzheng", "Sitar", "Koto"],
+    "correctIndex": 2
   },
   {
     "id": "q36",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel pays est à l'origine du théâtre Nô ?",
-    "answers": [
-      "Corée",
-      "Vietnam",
-      "Chine",
-      "Japon"
-    ],
+    "text": "Quel rituel mexicain est associé à des danseurs se laissant descendre d’un mât en tournoyant (Voladores) ?",
+    "answers": ["Guelaguetza", "Día de Muertos", "Posadas", "Danza de los Voladores"],
     "correctIndex": 3
   },
   {
     "id": "q37",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Dans quelle ville se trouve la bibliothèque d'Alexandrie reconstruite ?",
-    "answers": [
-      "Le Caire",
-      "Tunis",
-      "Athènes",
-      "Alexandrie"
-    ],
-    "correctIndex": 3
+    "text": "Quel est le nom de la grande place cérémonielle de Pékin où se déroulent des événements d’État majeurs ?",
+    "answers": ["Tian’anmen", "Shinjuku", "Gwanghwamun", "Djemaa el-Fna"],
+    "correctIndex": 0
   },
   {
     "id": "q38",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Dans quelle ville se trouve la bibliothèque d'Alexandrie reconstruite ?",
-    "answers": [
-      "Le Caire",
-      "Alexandrie",
-      "Tunis",
-      "Athènes"
-    ],
+    "text": "Quel terme désigne l’esthétique japonaise valorisant l’imperfection et l’éphémère ?",
+    "answers": ["Mono no aware", "Wabi-sabi", "Yūgen", "Iki"],
     "correctIndex": 1
   },
   {
     "id": "q39",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel plat est traditionnellement servi lors de Thanksgiving ?",
-    "answers": [
-      "Tourte à la viande",
-      "Ragoût de bœuf",
-      "Dinde farcie",
-      "Poulet rôti"
-    ],
+    "text": "Quelle civilisation est associée au Popol Vuh, texte majeur mythologique ?",
+    "answers": ["Incas", "Aztèques", "Mayas", "Olmèques"],
     "correctIndex": 2
   },
   {
     "id": "q40",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel pays a inventé la porcelaine ?",
-    "answers": [
-      "Japon",
-      "Vietnam",
-      "Corée",
-      "Chine"
-    ],
+    "text": "Quel est le nom du grand festival de lanternes en Thaïlande souvent associé au lâcher de lanternes célestes ?",
+    "answers": ["Songkran", "Loi Krathong", "Vesak", "Yi Peng"],
     "correctIndex": 3
   },
   {
     "id": "q41",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel pays a inventé la porcelaine ?",
-    "answers": [
-      "Corée",
-      "Vietnam",
-      "Japon",
-      "Chine"
-    ],
-    "correctIndex": 3
+    "text": "Quel traité d’Aristote porte sur l’art de persuader et les techniques argumentatives ?",
+    "answers": ["Rhétorique", "Poétique", "Métaphysique", "Éthique à Nicomaque"],
+    "correctIndex": 0
   },
   {
     "id": "q42",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel plat est traditionnellement servi lors de Thanksgiving ?",
-    "answers": [
-      "Dinde farcie",
-      "Tourte à la viande",
-      "Poulet rôti",
-      "Ragoût de bœuf"
-    ],
-    "correctIndex": 0
+    "text": "Quel peuple arctique est notamment connu pour ses chants de gorge (katajjaq) ?",
+    "answers": ["Sámi", "Inuits", "Nenets", "Yakoutes"],
+    "correctIndex": 1
   },
   {
     "id": "q43",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est le plus grand carnaval du monde ?",
-    "answers": [
-      "Carnaval de Rio",
-      "Carnaval de Notting Hill",
-      "Carnaval de Venise",
-      "Carnaval de Nice"
-    ],
-    "correctIndex": 0
+    "text": "Quel écrivain russe est l’auteur de « Guerre et Paix » ?",
+    "answers": ["Dostoïevski", "Gogol", "Tolstoï", "Tchekhov"],
+    "correctIndex": 2
   },
   {
     "id": "q44",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Dans quelle ville se trouve la bibliothèque d'Alexandrie reconstruite ?",
-    "answers": [
-      "Athènes",
-      "Alexandrie",
-      "Tunis",
-      "Le Caire"
-    ],
-    "correctIndex": 1
+    "text": "Quel ensemble architectural de l’Inde moghole est célèbre pour être un mausolée en marbre blanc à Agra ?",
+    "answers": ["Qutb Minar", "Fort Rouge", "Hawa Mahal", "Taj Mahal"],
+    "correctIndex": 3
   },
   {
     "id": "q45",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel pays est à l'origine du théâtre Nô ?",
-    "answers": [
-      "Japon",
-      "Chine",
-      "Vietnam",
-      "Corée"
-    ],
+    "text": "Quel terme arabe désigne l’appel à la prière, chanté depuis le minaret ?",
+    "answers": ["Adhan", "Sura", "Fatwa", "Hadith"],
     "correctIndex": 0
   },
   {
     "id": "q46",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel festival mongol célèbre les sports traditionnels ?",
-    "answers": [
-      "Naadam",
-      "Nadaam",
-      "Sagaalgan",
-      "Tsagaan Sar"
-    ],
-    "correctIndex": 0
+    "text": "Quel style musical portugais, mélancolique, est associé à Lisbonne et à l’Alfama ?",
+    "answers": ["Rebetiko", "Fado", "Flamenco", "Tango"],
+    "correctIndex": 1
   },
   {
     "id": "q47",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel plat est traditionnellement servi lors de Thanksgiving ?",
-    "answers": [
-      "Tourte à la viande",
-      "Dinde farcie",
-      "Poulet rôti",
-      "Ragoût de bœuf"
-    ],
-    "correctIndex": 1
+    "text": "Quel alphabet sémitique a été l’un des principaux ancêtres des alphabets grec puis latin ?",
+    "answers": ["Cyrillique", "Ogham", "Phénicien", "Glagolitique"],
+    "correctIndex": 2
   },
   {
     "id": "q48",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel plat est traditionnellement servi lors de Thanksgiving ?",
-    "answers": [
-      "Tourte à la viande",
-      "Ragoût de bœuf",
-      "Poulet rôti",
-      "Dinde farcie"
-    ],
+    "text": "Quel est le nom de la danse classique indienne originaire du Kerala, connue pour son maquillage élaboré ?",
+    "answers": ["Odissi", "Bharatanatyam", "Kathak", "Kathakali"],
     "correctIndex": 3
   },
   {
     "id": "q49",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Dans quelle ville se trouve la bibliothèque d'Alexandrie reconstruite ?",
-    "answers": [
-      "Alexandrie",
-      "Athènes",
-      "Le Caire",
-      "Tunis"
-    ],
+    "text": "Quel texte médiéval islandais compile une partie des mythes nordiques et des poèmes eddiques ?",
+    "answers": ["L’Edda", "Le Morte d’Arthur", "Le Roman de la Rose", "La Divine Comédie"],
     "correctIndex": 0
   },
   {
     "id": "q50",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quelle civilisation a construit Machu Picchu ?",
-    "answers": [
-      "Olmèques",
-      "Mayas",
-      "Aztèques",
-      "Incas"
-    ],
-    "correctIndex": 3
+    "text": "Quelle civilisation a produit les célèbres bronzes du royaume du Bénin (Afrique de l’Ouest) ?",
+    "answers": ["Ashanti", "Edo", "Yoruba", "Songhaï"],
+    "correctIndex": 1
   },
   {
     "id": "q51",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel pays a inventé la porcelaine ?",
-    "answers": [
-      "Vietnam",
-      "Chine",
-      "Corée",
-      "Japon"
-    ],
-    "correctIndex": 1
+    "text": "Quel terme désigne l’ensemble des poèmes héroïques serbo-croates transmis oralement, souvent accompagnés à la gusle ?",
+    "answers": ["Skaldique", "Troubadour", "Épopée balkanique", "Haïku"],
+    "correctIndex": 2
   },
   {
     "id": "q52",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel festival mongol célèbre les sports traditionnels ?",
-    "answers": [
-      "Nadaam",
-      "Sagaalgan",
-      "Tsagaan Sar",
-      "Naadam"
-    ],
+    "text": "Quel est le nom du Nouvel An persan célébré à l’équinoxe de printemps ?",
+    "answers": ["Yalda", "Ashura", "Eid al-Fitr", "Nowruz"],
     "correctIndex": 3
   },
   {
     "id": "q53",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quelle civilisation a construit Machu Picchu ?",
-    "answers": [
-      "Aztèques",
-      "Mayas",
-      "Olmèques",
-      "Incas"
-    ],
-    "correctIndex": 3
+    "text": "Quel terme désigne la « voie » du guerrier dans l’éthique des samouraïs ?",
+    "answers": ["Bushidō", "Shintō", "Zen", "Kōan"],
+    "correctIndex": 0
   },
   {
     "id": "q54",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'instrument national de l'Écosse ?",
-    "answers": [
-      "Violon",
-      "Cornemuse",
-      "Harpe",
-      "Tin whistle"
-    ],
+    "text": "Quel est le nom du système d’écriture syllabique utilisé pour transcrire le japonais, en style cursif, aux côtés des kanji ?",
+    "answers": ["Hangul", "Hiragana", "Cyrillique", "Devanagari"],
     "correctIndex": 1
   },
   {
     "id": "q55",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel plat est traditionnellement servi lors de Thanksgiving ?",
-    "answers": [
-      "Dinde farcie",
-      "Ragoût de bœuf",
-      "Poulet rôti",
-      "Tourte à la viande"
-    ],
-    "correctIndex": 0
+    "text": "Quel courant littéraire français du XIXe siècle est associé à Zola et au déterminisme social ?",
+    "answers": ["Romantisme", "Symbolisme", "Naturalisme", "Surréalisme"],
+    "correctIndex": 2
   },
   {
     "id": "q56",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel pays est à l'origine du théâtre Nô ?",
-    "answers": [
-      "Japon",
-      "Corée",
-      "Chine",
-      "Vietnam"
-    ],
-    "correctIndex": 0
+    "text": "Quel est le nom de la grande fête juive commémorant la sortie d’Égypte, centrée sur un repas rituel ?",
+    "answers": ["Hanoucca", "Pourim", "Roch Hachana", "Pessa'h"],
+    "correctIndex": 3
   },
   {
     "id": "q57",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Dans quelle ville se trouve la bibliothèque d'Alexandrie reconstruite ?",
-    "answers": [
-      "Tunis",
-      "Alexandrie",
-      "Athènes",
-      "Le Caire"
-    ],
-    "correctIndex": 1
+    "text": "Quel monument mégalithique britannique est composé de cercles de pierres dressées datant du Néolithique ?",
+    "answers": ["Stonehenge", "Newgrange", "Carnac", "Avebury"],
+    "correctIndex": 0
   },
   {
     "id": "q58",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel plat est traditionnellement servi lors de Thanksgiving ?",
-    "answers": [
-      "Poulet rôti",
-      "Dinde farcie",
-      "Tourte à la viande",
-      "Ragoût de bœuf"
-    ],
+    "text": "Quelle langue sémitique ancienne a été utilisée dans certaines inscriptions du royaume d’Aksoum ?",
+    "answers": ["Araméen", "Guèze", "Hébreu", "Akkadien"],
     "correctIndex": 1
   },
   {
     "id": "q59",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel festival mongol célèbre les sports traditionnels ?",
-    "answers": [
-      "Sagaalgan",
-      "Naadam",
-      "Nadaam",
-      "Tsagaan Sar"
-    ],
-    "correctIndex": 1
+    "text": "Quel terme désigne l’ensemble des règles de composition en musique indienne du Nord (système raga/tala) ?",
+    "answers": ["Maqâm", "Dastgâh", "Rāga", "Gamelan"],
+    "correctIndex": 2
   },
   {
     "id": "q60",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'instrument national de l'Écosse ?",
-    "answers": [
-      "Harpe",
-      "Cornemuse",
-      "Tin whistle",
-      "Violon"
-    ],
-    "correctIndex": 1
+    "text": "Quel plat vietnamien est une soupe de nouilles de riz souvent servie avec bœuf ou poulet ?",
+    "answers": ["Ramen", "Laksa", "Tom yum", "Phở"],
+    "correctIndex": 3
   },
   {
     "id": "q61",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Dans quelle ville se trouve la bibliothèque d'Alexandrie reconstruite ?",
-    "answers": [
-      "Alexandrie",
-      "Tunis",
-      "Athènes",
-      "Le Caire"
-    ],
+    "text": "Quel terme désigne les grandes stèles gravées maya, souvent utilisées pour commémorer des événements dynastiques ?",
+    "answers": ["Stèles", "Pyramides", "Codex", "Atlantes"],
     "correctIndex": 0
   },
   {
     "id": "q62",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Dans quelle ville se trouve la bibliothèque d'Alexandrie reconstruite ?",
-    "answers": [
-      "Athènes",
-      "Alexandrie",
-      "Tunis",
-      "Le Caire"
-    ],
+    "text": "Quel est le nom de la fête musulmane marquant la fin du Ramadan ?",
+    "answers": ["Aïd al-Adha", "Aïd al-Fitr", "Mawlid", "Ashura"],
     "correctIndex": 1
   },
   {
     "id": "q63",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Dans quelle ville se trouve la bibliothèque d'Alexandrie reconstruite ?",
-    "answers": [
-      "Alexandrie",
-      "Le Caire",
-      "Athènes",
-      "Tunis"
-    ],
-    "correctIndex": 0
+    "text": "Dans la mythologie nordique, comment s’appelle l’arbre-monde reliant les neuf mondes ?",
+    "answers": ["Asgard", "Bifröst", "Yggdrasil", "Midgard"],
+    "correctIndex": 2
   },
   {
     "id": "q64",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est le plus grand carnaval du monde ?",
-    "answers": [
-      "Carnaval de Venise",
-      "Carnaval de Notting Hill",
-      "Carnaval de Nice",
-      "Carnaval de Rio"
-    ],
+    "text": "Quel mouvement artistique néerlandais est associé à Mondrian et à l’abstraction géométrique ?",
+    "answers": ["Cobra", "Fauvisme", "Surréalisme", "De Stijl"],
     "correctIndex": 3
   },
   {
     "id": "q65",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "Le Rig-Véda",
-      "Le Livre des Morts",
-      "L'Iliade",
-      "L'Épopée de Gilgamesh"
-    ],
-    "correctIndex": 3
+    "text": "Quel est le nom du code d’honneur chevaleresque japonais appliqué aux samouraïs ?",
+    "answers": ["Le bushidō", "Le pax romana", "Le feng shui", "Le dharma"],
+    "correctIndex": 0
   },
   {
     "id": "q66",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'instrument national de l'Écosse ?",
-    "answers": [
-      "Harpe",
-      "Cornemuse",
-      "Tin whistle",
-      "Violon"
-    ],
+    "text": "Quel genre poétique arabe préislamique est structuré comme une ode longue et codifiée ?",
+    "answers": ["Ghazal", "Qasida", "Haïku", "Villanelle"],
     "correctIndex": 1
   },
   {
     "id": "q67",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel plat est traditionnellement servi lors de Thanksgiving ?",
-    "answers": [
-      "Tourte à la viande",
-      "Dinde farcie",
-      "Ragoût de bœuf",
-      "Poulet rôti"
-    ],
-    "correctIndex": 1
+    "text": "Quel peuple d’Afrique de l’Est est connu pour ses peintures corporelles et ses scarifications esthétiques, notamment autour de la vallée de l’Omo ?",
+    "answers": ["Touaregs", "Zoulous", "Surma (Suri)", "Wolofs"],
+    "correctIndex": 2
   },
   {
     "id": "q68",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Dans quelle ville se trouve la bibliothèque d'Alexandrie reconstruite ?",
-    "answers": [
-      "Alexandrie",
-      "Le Caire",
-      "Athènes",
-      "Tunis"
-    ],
-    "correctIndex": 0
+    "text": "Quel instrument chinois à cordes pincées, en forme de poire, est très présent dans la musique traditionnelle ?",
+    "answers": ["Shamisen", "Gayageum", "Koto", "Pipa"],
+    "correctIndex": 3
   },
   {
     "id": "q69",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel pays a inventé la porcelaine ?",
-    "answers": [
-      "Japon",
-      "Vietnam",
-      "Corée",
-      "Chine"
-    ],
-    "correctIndex": 3
+    "text": "Quel terme désigne l’art de l’arrangement floral japonais ?",
+    "answers": ["Ikebana", "Origami", "Sumi-e", "Kaiseki"],
+    "correctIndex": 0
   },
   {
     "id": "q70",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Dans quelle ville se trouve la bibliothèque d'Alexandrie reconstruite ?",
-    "answers": [
-      "Alexandrie",
-      "Athènes",
-      "Le Caire",
-      "Tunis"
-    ],
-    "correctIndex": 0
+    "text": "Quelle œuvre italienne de Dante décrit un voyage allégorique à travers l’au-delà ?",
+    "answers": ["Orlando furioso", "La Divine Comédie", "Le Décaméron", "L’Énéide"],
+    "correctIndex": 1
   },
   {
     "id": "q71",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel festival mongol célèbre les sports traditionnels ?",
-    "answers": [
-      "Nadaam",
-      "Tsagaan Sar",
-      "Naadam",
-      "Sagaalgan"
-    ],
+    "text": "Quel terme désigne une école traditionnelle de droit islamique (parmi les sunnites) ?",
+    "answers": ["Zaydite", "Ibadi", "Madhhab", "Hadith"],
     "correctIndex": 2
   },
   {
     "id": "q72",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel plat est traditionnellement servi lors de Thanksgiving ?",
-    "answers": [
-      "Ragoût de bœuf",
-      "Poulet rôti",
-      "Dinde farcie",
-      "Tourte à la viande"
-    ],
-    "correctIndex": 2
+    "text": "Quel est le nom de la grande fête bouddhiste commémorant naissance, éveil et parinirvana du Bouddha ?",
+    "answers": ["Losar", "Obon", "Pchum Ben", "Vesak"],
+    "correctIndex": 3
   },
   {
     "id": "q73",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel festival mongol célèbre les sports traditionnels ?",
-    "answers": [
-      "Nadaam",
-      "Sagaalgan",
-      "Naadam",
-      "Tsagaan Sar"
-    ],
-    "correctIndex": 2
+    "text": "Quel texte antique grec est un recueil de récits mythiques attribué à Hésiode ?",
+    "answers": ["La Théogonie", "L’Odyssée", "Les Argonautiques", "Les Perses"],
+    "correctIndex": 0
   },
   {
     "id": "q74",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est le plus grand carnaval du monde ?",
-    "answers": [
-      "Carnaval de Venise",
-      "Carnaval de Nice",
-      "Carnaval de Rio",
-      "Carnaval de Notting Hill"
-    ],
-    "correctIndex": 2
+    "text": "Quel peuple autochtone d’Amérique du Nord est associé aux maisons longues (longhouses) et à la Confédération iroquoise ?",
+    "answers": ["Navajos", "Haudenosaunee (Iroquois)", "Cherokees", "Sioux"],
+    "correctIndex": 1
   },
   {
     "id": "q75",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel festival mongol célèbre les sports traditionnels ?",
-    "answers": [
-      "Sagaalgan",
-      "Nadaam",
-      "Tsagaan Sar",
-      "Naadam"
-    ],
-    "correctIndex": 3
+    "text": "Quel nom porte l’écriture ancienne des Mayas, combinant signes logographiques et syllabiques ?",
+    "answers": ["Cunéiforme", "Runique", "Écriture hiéroglyphique maya", "Alphabet latin"],
+    "correctIndex": 2
   },
   {
     "id": "q76",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel pays a inventé la porcelaine ?",
-    "answers": [
-      "Vietnam",
-      "Chine",
-      "Corée",
-      "Japon"
-    ],
-    "correctIndex": 1
+    "text": "Quelle boisson fermentée à base de miel est associée à de nombreuses cultures européennes anciennes ?",
+    "answers": ["Saké", "Kvas", "Chicha", "Hydromel"],
+    "correctIndex": 3
   },
   {
     "id": "q77",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est le plus grand carnaval du monde ?",
-    "answers": [
-      "Carnaval de Venise",
-      "Carnaval de Rio",
-      "Carnaval de Nice",
-      "Carnaval de Notting Hill"
-    ],
-    "correctIndex": 1
+    "text": "Quel terme désigne l’ensemble des règles de conduite et d’hospitalité dans la culture pachtoune ?",
+    "answers": ["Pashtunwali", "Bushidō", "Ubuntu", "Dharma"],
+    "correctIndex": 0
   },
   {
     "id": "q78",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quelle civilisation a construit Machu Picchu ?",
-    "answers": [
-      "Incas",
-      "Mayas",
-      "Olmèques",
-      "Aztèques"
-    ],
-    "correctIndex": 0
+    "text": "Quelle est la langue liturgique classique de l’Église orthodoxe éthiopienne ?",
+    "answers": ["Copte", "Guèze", "Araméen", "Syriaque"],
+    "correctIndex": 1
   },
   {
     "id": "q79",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'art martial traditionnel du Brésil ?",
-    "answers": [
-      "Jiu-jitsu",
-      "Capoeira",
-      "Sambo",
-      "Lutte"
-    ],
-    "correctIndex": 1
+    "text": "Quel mouvement littéraire anglais du XIXe siècle est associé à Wordsworth et Coleridge ?",
+    "answers": ["Réalisme", "Victorianisme", "Romantisme", "Modernisme"],
+    "correctIndex": 2
   },
   {
     "id": "q80",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel pays est à l'origine du théâtre Nô ?",
-    "answers": [
-      "Japon",
-      "Corée",
-      "Chine",
-      "Vietnam"
-    ],
-    "correctIndex": 0
+    "text": "Quel est le nom du grand bazar historique d’Istanbul, réputé pour ses échoppes et ses labyrinthes ?",
+    "answers": ["Souk al-Hamidiyah", "Khan el-Khalili", "Chatuchak", "Grand Bazar (Kapalıçarşı)"],
+    "correctIndex": 3
   },
   {
     "id": "q81",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quelle civilisation a construit Machu Picchu ?",
-    "answers": [
-      "Olmèques",
-      "Aztèques",
-      "Incas",
-      "Mayas"
-    ],
-    "correctIndex": 2
+    "text": "Dans la tradition chinoise, comment s’appelle l’ouvrage attribué à Sun Tzu sur la stratégie ?",
+    "answers": ["L’Art de la guerre", "Les Printemps et Automnes", "Le Rêve dans le pavillon rouge", "Le Livre des mutations"],
+    "correctIndex": 0
   },
   {
     "id": "q82",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'art martial traditionnel du Brésil ?",
-    "answers": [
-      "Jiu-jitsu",
-      "Sambo",
-      "Lutte",
-      "Capoeira"
-    ],
-    "correctIndex": 3
+    "text": "Quel est le nom du calendrier traditionnel maya de 260 jours ?",
+    "answers": ["Haabʼ", "Tzolkʼin", "Long Count", "Julien"],
+    "correctIndex": 1
   },
   {
     "id": "q83",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'art martial traditionnel du Brésil ?",
-    "answers": [
-      "Capoeira",
-      "Jiu-jitsu",
-      "Sambo",
-      "Lutte"
-    ],
-    "correctIndex": 0
+    "text": "Quel terme désigne la règle monastique bénédictine « ora et labora » ?",
+    "answers": ["Ascèse", "Schisme", "Règle", "Liturgie"],
+    "correctIndex": 2
   },
   {
     "id": "q84",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel festival mongol célèbre les sports traditionnels ?",
-    "answers": [
-      "Naadam",
-      "Nadaam",
-      "Tsagaan Sar",
-      "Sagaalgan"
-    ],
-    "correctIndex": 0
+    "text": "Quel instrument sud-américain, à cordes pincées, est souvent associé au folklore andin et au charango ?",
+    "answers": ["Bandurria", "Balalaïka", "Mandoline", "Charango"],
+    "correctIndex": 3
   },
   {
     "id": "q85",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel pays est à l'origine du théâtre Nô ?",
-    "answers": [
-      "Corée",
-      "Japon",
-      "Vietnam",
-      "Chine"
-    ],
-    "correctIndex": 1
+    "text": "Quel est le nom du récit mésopotamien considéré comme l’un des plus anciens grands textes littéraires ?",
+    "answers": ["L’Épopée de Gilgamesh", "L’Iliade", "Le Livre des morts", "L’Énéide"],
+    "correctIndex": 0
   },
   {
     "id": "q86",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "Le Livre des Morts",
-      "L'Épopée de Gilgamesh",
-      "L'Iliade",
-      "Le Rig-Véda"
-    ],
+    "text": "Quel style d’art décoratif du tournant du XXe siècle est associé à Mucha et aux lignes courbes ?",
+    "answers": ["Art déco", "Art nouveau", "Bauhaus", "Impressionnisme"],
     "correctIndex": 1
   },
   {
     "id": "q87",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel festival mongol célèbre les sports traditionnels ?",
-    "answers": [
-      "Sagaalgan",
-      "Tsagaan Sar",
-      "Naadam",
-      "Nadaam"
-    ],
+    "text": "Dans les arts du spectacle japonais, quel théâtre met en scène des marionnettes manipulées à vue ?",
+    "answers": ["Kabuki", "Nō", "Bunraku", "Kyōgen"],
     "correctIndex": 2
   },
   {
     "id": "q88",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'instrument national de l'Écosse ?",
-    "answers": [
-      "Cornemuse",
-      "Tin whistle",
-      "Violon",
-      "Harpe"
-    ],
-    "correctIndex": 0
+    "text": "Quel est le nom de la grande fête des morts au Mexique, mêlant rituels, autels et offrandes ?",
+    "answers": ["Carnaval", "Semana Santa", "Las Posadas", "Día de Muertos"],
+    "correctIndex": 3
   },
   {
     "id": "q89",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'instrument national de l'Écosse ?",
-    "answers": [
-      "Cornemuse",
-      "Harpe",
-      "Tin whistle",
-      "Violon"
-    ],
+    "text": "Quel terme désigne les « chants de travail » afro-américains à l’origine de certaines formes du blues ?",
+    "answers": ["Work songs", "Lieder", "Noëls", "Madrigaux"],
     "correctIndex": 0
   },
   {
     "id": "q90",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "L'Iliade",
-      "Le Rig-Véda",
-      "L'Épopée de Gilgamesh",
-      "Le Livre des Morts"
-    ],
-    "correctIndex": 2
+    "text": "Quel est le nom de la langue celtique encore parlée principalement au Pays de Galles ?",
+    "answers": ["Breton", "Gallois", "Gaélique", "Manx"],
+    "correctIndex": 1
   },
   {
     "id": "q91",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel pays est à l'origine du théâtre Nô ?",
-    "answers": [
-      "Chine",
-      "Vietnam",
-      "Corée",
-      "Japon"
-    ],
-    "correctIndex": 3
+    "text": "Quel terme japonais désigne une estampe traditionnelle sur bois, populaire entre XVIIe et XIXe siècles ?",
+    "answers": ["Sumi-e", "Shodō", "Ukiyo-e", "Raku"],
+    "correctIndex": 2
   },
   {
     "id": "q92",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est le plus grand carnaval du monde ?",
-    "answers": [
-      "Carnaval de Nice",
-      "Carnaval de Venise",
-      "Carnaval de Rio",
-      "Carnaval de Notting Hill"
-    ],
-    "correctIndex": 2
+    "text": "Quel est le nom de la danse et musique traditionnelle argentine née autour du Río de la Plata ?",
+    "answers": ["Samba", "Cumbia", "Cueca", "Tango"],
+    "correctIndex": 3
   },
   {
     "id": "q93",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel plat est traditionnellement servi lors de Thanksgiving ?",
-    "answers": [
-      "Tourte à la viande",
-      "Poulet rôti",
-      "Dinde farcie",
-      "Ragoût de bœuf"
-    ],
-    "correctIndex": 2
+    "text": "Quel texte philosophique de Platon décrit une cité idéale et la théorie des formes ?",
+    "answers": ["La République", "Le Banquet", "Phèdre", "Ion"],
+    "correctIndex": 0
   },
   {
     "id": "q94",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel plat est traditionnellement servi lors de Thanksgiving ?",
-    "answers": [
-      "Poulet rôti",
-      "Ragoût de bœuf",
-      "Tourte à la viande",
-      "Dinde farcie"
-    ],
-    "correctIndex": 3
+    "text": "Quel terme désigne la diaspora juive d’Espagne et du Portugal après les expulsions de la fin du XVe siècle ?",
+    "answers": ["Ashkénaze", "Séfarade", "Karaïte", "Mizrahim"],
+    "correctIndex": 1
   },
   {
     "id": "q95",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est le plus grand carnaval du monde ?",
-    "answers": [
-      "Carnaval de Rio",
-      "Carnaval de Notting Hill",
-      "Carnaval de Nice",
-      "Carnaval de Venise"
-    ],
-    "correctIndex": 0
+    "text": "Quel est le nom de la musique traditionnelle indonésienne fondée sur des ensembles de gongs et métallophones ?",
+    "answers": ["Rāga", "Maqâm", "Gamelan", "Fado"],
+    "correctIndex": 2
   },
   {
     "id": "q96",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel festival mongol célèbre les sports traditionnels ?",
-    "answers": [
-      "Sagaalgan",
-      "Naadam",
-      "Tsagaan Sar",
-      "Nadaam"
-    ],
-    "correctIndex": 1
+    "text": "Quel est le nom du Nouvel An tibétain ?",
+    "answers": ["Vesak", "Obon", "Tet", "Losar"],
+    "correctIndex": 3
   },
   {
     "id": "q97",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'art martial traditionnel du Brésil ?",
-    "answers": [
-      "Lutte",
-      "Capoeira",
-      "Sambo",
-      "Jiu-jitsu"
-    ],
-    "correctIndex": 1
+    "text": "Quel terme désigne les récits fondateurs d’un peuple, expliquant origines et valeurs (au sens anthropologique) ?",
+    "answers": ["Mythes", "Satire", "Pamphlets", "Fables"],
+    "correctIndex": 0
   },
   {
     "id": "q98",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est le plus grand carnaval du monde ?",
-    "answers": [
-      "Carnaval de Nice",
-      "Carnaval de Rio",
-      "Carnaval de Venise",
-      "Carnaval de Notting Hill"
-    ],
+    "text": "Quel est le nom de l’écriture syllabique cherokee inventée par Sequoyah ?",
+    "answers": ["Ogham", "Syllabaire cherokee", "Runes", "Braille"],
     "correctIndex": 1
   },
   {
     "id": "q99",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'instrument national de l'Écosse ?",
-    "answers": [
-      "Tin whistle",
-      "Harpe",
-      "Cornemuse",
-      "Violon"
-    ],
+    "text": "Dans la littérature chinoise classique, quel est le nom du « grand roman » souvent traduit par « Au bord de l’eau » ?",
+    "answers": ["Le Dit de Heike", "Le Roman des Trois Royaumes", "Shuihu zhuan", "Le Genji monogatari"],
     "correctIndex": 2
   },
   {
     "id": "q100",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "Le Rig-Véda",
-      "L'Iliade",
-      "Le Livre des Morts",
-      "L'Épopée de Gilgamesh"
-    ],
+    "text": "Quel genre musical jamaïcain, né dans les années 1960, a précédé le reggae ?",
+    "answers": ["Calypso", "Soca", "Merengue", "Ska"],
     "correctIndex": 3
   },
+
   {
     "id": "q101",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel pays a inventé la porcelaine ?",
-    "answers": [
-      "Japon",
-      "Chine",
-      "Vietnam",
-      "Corée"
-    ],
-    "correctIndex": 1
+    "text": "Quel terme désigne la science islamique de la récitation et des règles de lecture du Coran ?",
+    "answers": ["Tajwīd", "Fiqh", "Sīra", "Kalām"],
+    "correctIndex": 0
   },
   {
     "id": "q102",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel pays est à l'origine du théâtre Nô ?",
-    "answers": [
-      "Japon",
-      "Chine",
-      "Corée",
-      "Vietnam"
-    ],
-    "correctIndex": 0
+    "text": "Quel est le nom de l’ancienne route commerciale reliant Méditerranée et Chine, célèbre pour la soie ?",
+    "answers": ["Route de l’ambre", "Route de la soie", "Route des épices", "Route transsaharienne"],
+    "correctIndex": 1
   },
   {
     "id": "q103",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'instrument national de l'Écosse ?",
-    "answers": [
-      "Cornemuse",
-      "Tin whistle",
-      "Harpe",
-      "Violon"
-    ],
-    "correctIndex": 0
+    "text": "Quel est le nom du roman japonais du XIe siècle attribué à Murasaki Shikibu ?",
+    "answers": ["Le Dit du Genji", "Le Dit de Heike", "Le Pavillon d’or", "Kokoro"],
+    "correctIndex": 2
   },
   {
     "id": "q104",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Dans quelle ville se trouve la bibliothèque d'Alexandrie reconstruite ?",
-    "answers": [
-      "Alexandrie",
-      "Le Caire",
-      "Tunis",
-      "Athènes"
-    ],
-    "correctIndex": 0
+    "text": "Quel est le nom du grand festival de la bière à Munich ?",
+    "answers": ["Fasnacht", "Karneval", "San Fermín", "Oktoberfest"],
+    "correctIndex": 3
   },
   {
     "id": "q105",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'instrument national de l'Écosse ?",
-    "answers": [
-      "Harpe",
-      "Violon",
-      "Tin whistle",
-      "Cornemuse"
-    ],
-    "correctIndex": 3
+    "text": "Quel terme désigne un poème lyrique persan à rimes internes souvent associé à Hafez ?",
+    "answers": ["Ghazal", "Sonnet", "Ode pindarique", "Haïku"],
+    "correctIndex": 0
   },
   {
     "id": "q106",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'instrument national de l'Écosse ?",
-    "answers": [
-      "Harpe",
-      "Tin whistle",
-      "Violon",
-      "Cornemuse"
-    ],
-    "correctIndex": 3
+    "text": "Quel peuple amazonien est connu pour l’usage rituel de la boisson ayahuasca dans certaines traditions ?",
+    "answers": ["Maasaï", "Shipibo-Conibo", "Aïnous", "Bouriates"],
+    "correctIndex": 1
   },
   {
     "id": "q107",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel festival mongol célèbre les sports traditionnels ?",
-    "answers": [
-      "Naadam",
-      "Sagaalgan",
-      "Nadaam",
-      "Tsagaan Sar"
-    ],
-    "correctIndex": 0
+    "text": "Quel est le nom du système d’écriture antique de la Crète minoenne qui reste en grande partie indéchiffré ?",
+    "answers": ["Linéaire B", "Cunéiforme", "Linéaire A", "Hiératique"],
+    "correctIndex": 2
   },
   {
     "id": "q108",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Dans quelle ville se trouve la bibliothèque d'Alexandrie reconstruite ?",
-    "answers": [
-      "Tunis",
-      "Le Caire",
-      "Athènes",
-      "Alexandrie"
-    ],
+    "text": "Quel festival espagnol est célèbre pour ses lâchers de taureaux dans les rues de Pampelune ?",
+    "answers": ["Feria de Abril", "Las Fallas", "La Tomatina", "San Fermín"],
     "correctIndex": 3
   },
   {
     "id": "q109",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quelle civilisation a construit Machu Picchu ?",
-    "answers": [
-      "Mayas",
-      "Aztèques",
-      "Incas",
-      "Olmèques"
-    ],
-    "correctIndex": 2
+    "text": "Quel terme désigne l’interprète de traditions et d’histoires dans la culture yoruba, proche du rôle de griot ?",
+    "answers": ["Akọ̀wé", "Barde", "Rhapsode", "Trouvère"],
+    "correctIndex": 0
   },
   {
     "id": "q110",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel festival mongol célèbre les sports traditionnels ?",
-    "answers": [
-      "Tsagaan Sar",
-      "Naadam",
-      "Nadaam",
-      "Sagaalgan"
-    ],
+    "text": "Quel est le nom du style de poésie provençale médiévale associée aux troubadours ?",
+    "answers": ["Sestine", "Canso", "Villanelle", "Ghazal"],
     "correctIndex": 1
   },
   {
     "id": "q111",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est le plus grand carnaval du monde ?",
-    "answers": [
-      "Carnaval de Nice",
-      "Carnaval de Notting Hill",
-      "Carnaval de Rio",
-      "Carnaval de Venise"
-    ],
+    "text": "Quelle civilisation est associée aux statues monumentales de l’île de Pâques (moaï) ?",
+    "answers": ["Maorie", "Inca", "Rapa Nui", "Aztèque"],
     "correctIndex": 2
   },
   {
     "id": "q112",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est le plus grand carnaval du monde ?",
-    "answers": [
-      "Carnaval de Nice",
-      "Carnaval de Notting Hill",
-      "Carnaval de Rio",
-      "Carnaval de Venise"
-    ],
-    "correctIndex": 2
+    "text": "Quel est le nom de la fête chrétienne marquant la fin du Carême, souvent associée à des défilés et masques ?",
+    "answers": ["Pentecôte", "Épiphanie", "Assomption", "Carnaval"],
+    "correctIndex": 3
   },
   {
     "id": "q113",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est le plus grand carnaval du monde ?",
-    "answers": [
-      "Carnaval de Notting Hill",
-      "Carnaval de Nice",
-      "Carnaval de Venise",
-      "Carnaval de Rio"
-    ],
-    "correctIndex": 3
+    "text": "Quel terme grec désigne la tragédie comme « chant du bouc » dans son étymologie traditionnelle ?",
+    "answers": ["Tragōidía", "Epopoía", "Mimēsis", "Katharsis"],
+    "correctIndex": 0
   },
   {
     "id": "q114",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Dans quelle ville se trouve la bibliothèque d'Alexandrie reconstruite ?",
-    "answers": [
-      "Tunis",
-      "Le Caire",
-      "Athènes",
-      "Alexandrie"
-    ],
-    "correctIndex": 3
+    "text": "Quel est le nom du grand temple d’Angkor au Cambodge, symbole national ?",
+    "answers": ["Borobudur", "Angkor Wat", "Shwedagon", "Bagan"],
+    "correctIndex": 1
   },
   {
     "id": "q115",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Dans quelle ville se trouve la bibliothèque d'Alexandrie reconstruite ?",
-    "answers": [
-      "Le Caire",
-      "Alexandrie",
-      "Athènes",
-      "Tunis"
-    ],
-    "correctIndex": 1
+    "text": "Quel concept africain, souvent résumé par « je suis parce que nous sommes », est lié à l’éthique communautaire ?",
+    "answers": ["Tabou", "Mana", "Ubuntu", "Karma"],
+    "correctIndex": 2
   },
   {
     "id": "q116",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel festival mongol célèbre les sports traditionnels ?",
-    "answers": [
-      "Tsagaan Sar",
-      "Sagaalgan",
-      "Nadaam",
-      "Naadam"
-    ],
+    "text": "Quel est le nom du festival de musique classique fondé à Lucerne, associé à la Suisse ?",
+    "answers": ["Bayreuth", "Salzburger Festspiele", "Proms", "Festival de Lucerne"],
     "correctIndex": 3
   },
   {
     "id": "q117",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est le plus grand carnaval du monde ?",
-    "answers": [
-      "Carnaval de Venise",
-      "Carnaval de Rio",
-      "Carnaval de Nice",
-      "Carnaval de Notting Hill"
-    ],
-    "correctIndex": 1
+    "text": "Quel terme désigne la poésie improvisée en joutes verbales dans certaines traditions méditerranéennes (notamment en Corse/Sardaigne) ?",
+    "answers": ["Improvisation poétique", "Sonnet", "Ballade", "Épopée"],
+    "correctIndex": 0
   },
   {
     "id": "q118",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Dans quelle ville se trouve la bibliothèque d'Alexandrie reconstruite ?",
-    "answers": [
-      "Tunis",
-      "Alexandrie",
-      "Le Caire",
-      "Athènes"
-    ],
+    "text": "Quelle langue classique a longtemps été la langue savante et liturgique de l’Inde (notamment dans l’hindouisme) ?",
+    "answers": ["Pali", "Sanskrit", "Prakrit", "Tamoul"],
     "correctIndex": 1
   },
   {
     "id": "q119",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'art martial traditionnel du Brésil ?",
-    "answers": [
-      "Jiu-jitsu",
-      "Capoeira",
-      "Sambo",
-      "Lutte"
-    ],
-    "correctIndex": 1
+    "text": "Quel est le nom de la danse espagnole associée à l’Andalousie, au chant et à la guitare ?",
+    "answers": ["Tango", "Samba", "Flamenco", "Fado"],
+    "correctIndex": 2
   },
   {
     "id": "q120",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Dans quelle ville se trouve la bibliothèque d'Alexandrie reconstruite ?",
-    "answers": [
-      "Le Caire",
-      "Tunis",
-      "Athènes",
-      "Alexandrie"
-    ],
+    "text": "Quel est le nom de la fête des lumières en Inde, marquée par des lampes à huile et des feux ?",
+    "answers": ["Holi", "Onam", "Navratri", "Diwali"],
     "correctIndex": 3
   },
   {
     "id": "q121",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "Le Livre des Morts",
-      "Le Rig-Véda",
-      "L'Épopée de Gilgamesh",
-      "L'Iliade"
-    ],
-    "correctIndex": 2
+    "text": "Quel est le nom de l’écriture cunéiforme utilisée en Mésopotamie ?",
+    "answers": ["Cunéiforme", "Hiéroglyphes", "Runes", "Ogham"],
+    "correctIndex": 0
   },
   {
     "id": "q122",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quelle civilisation a construit Machu Picchu ?",
-    "answers": [
-      "Incas",
-      "Mayas",
-      "Olmèques",
-      "Aztèques"
-    ],
-    "correctIndex": 0
+    "text": "Quel terme désigne la science des traditions (hadith) et leur critique dans l’islam ?",
+    "answers": ["Tasawwuf", "ʿIlm al-hadith", "Tajwīd", "Adab"],
+    "correctIndex": 1
   },
   {
     "id": "q123",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est le plus grand carnaval du monde ?",
-    "answers": [
-      "Carnaval de Notting Hill",
-      "Carnaval de Venise",
-      "Carnaval de Rio",
-      "Carnaval de Nice"
-    ],
+    "text": "Quel peuple est à l’origine des textiles kente, souvent associés à des motifs symboliques en Afrique de l’Ouest ?",
+    "answers": ["Peuls", "Berbères", "Akan (Ashanti)", "Songhaï"],
     "correctIndex": 2
   },
   {
     "id": "q124",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quelle civilisation a construit Machu Picchu ?",
-    "answers": [
-      "Aztèques",
-      "Olmèques",
-      "Incas",
-      "Mayas"
-    ],
-    "correctIndex": 2
+    "text": "Quel est le nom du festival de cinéma le plus ancien encore en activité, fondé en 1932 ?",
+    "answers": ["Cannes", "Berlin", "Sundance", "Venise"],
+    "correctIndex": 3
   },
   {
     "id": "q125",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est le plus grand carnaval du monde ?",
-    "answers": [
-      "Carnaval de Nice",
-      "Carnaval de Rio",
-      "Carnaval de Venise",
-      "Carnaval de Notting Hill"
-    ],
-    "correctIndex": 1
+    "text": "Quel texte latin de Cicéron est un dialogue sur l’amitié, souvent cité comme classique ?",
+    "answers": ["Laelius de Amicitia", "De Rerum Natura", "Ars Poetica", "De Bello Gallico"],
+    "correctIndex": 0
   },
   {
     "id": "q126",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel pays a inventé la porcelaine ?",
-    "answers": [
-      "Vietnam",
-      "Japon",
-      "Corée",
-      "Chine"
-    ],
-    "correctIndex": 3
+    "text": "Quel est le nom du chant de gorge touvain, tradition d’Asie centrale, utilisant des harmoniques ?",
+    "answers": ["Joik", "Khöömei", "Qawwali", "Canto jondo"],
+    "correctIndex": 1
   },
   {
     "id": "q127",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'art martial traditionnel du Brésil ?",
-    "answers": [
-      "Lutte",
-      "Capoeira",
-      "Sambo",
-      "Jiu-jitsu"
-    ],
-    "correctIndex": 1
+    "text": "Quel mouvement architectural du XXe siècle est associé à Le Corbusier et au fonctionnalisme ?",
+    "answers": ["Baroque", "Gothique", "Modernisme", "Rococo"],
+    "correctIndex": 2
   },
   {
     "id": "q128",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'art martial traditionnel du Brésil ?",
-    "answers": [
-      "Lutte",
-      "Sambo",
-      "Capoeira",
-      "Jiu-jitsu"
-    ],
-    "correctIndex": 2
+    "text": "Quel est le nom du pèlerinage musulman à La Mecque, obligatoire une fois dans la vie si possible ?",
+    "answers": ["Umrah", "Zakat", "Shahada", "Hajj"],
+    "correctIndex": 3
   },
   {
     "id": "q129",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'instrument national de l'Écosse ?",
-    "answers": [
-      "Tin whistle",
-      "Harpe",
-      "Cornemuse",
-      "Violon"
-    ],
-    "correctIndex": 2
+    "text": "Quel terme désigne une courte pièce comique jouée entre des actes de nô au Japon ?",
+    "answers": ["Kyōgen", "Kabuki", "Bunraku", "Gagaku"],
+    "correctIndex": 0
   },
   {
     "id": "q130",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'art martial traditionnel du Brésil ?",
-    "answers": [
-      "Jiu-jitsu",
-      "Sambo",
-      "Capoeira",
-      "Lutte"
-    ],
-    "correctIndex": 2
+    "text": "Quel est le nom de la fête cambodgienne dédiée aux ancêtres, proche d’un « festival des morts » ?",
+    "answers": ["Thingyan", "Pchum Ben", "Tet", "Obon"],
+    "correctIndex": 1
   },
   {
     "id": "q131",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'art martial traditionnel du Brésil ?",
-    "answers": [
-      "Lutte",
-      "Jiu-jitsu",
-      "Capoeira",
-      "Sambo"
-    ],
+    "text": "Quel est le nom du courant littéraire latino-américain mêlant quotidien et surnaturel, associé à García Márquez ?",
+    "answers": ["Naturalisme", "Réalisme", "Réalisme magique", "Classicisme"],
     "correctIndex": 2
   },
   {
     "id": "q132",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quelle civilisation a construit Machu Picchu ?",
-    "answers": [
-      "Mayas",
-      "Aztèques",
-      "Olmèques",
-      "Incas"
-    ],
+    "text": "Quel est le nom de la fête japonaise des ancêtres où l’on allume des lanternes (été) ?",
+    "answers": ["Setsubun", "Shōgatsu", "Tanabata", "Obon"],
     "correctIndex": 3
   },
   {
     "id": "q133",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel pays est à l'origine du théâtre Nô ?",
-    "answers": [
-      "Corée",
-      "Vietnam",
-      "Japon",
-      "Chine"
-    ],
-    "correctIndex": 2
+    "text": "Quel terme désigne les chants sacrés de la tradition védique, notamment le Rig-Véda ?",
+    "answers": ["Hymnes védiques", "Psaumes", "Sutras", "Koans"],
+    "correctIndex": 0
   },
   {
     "id": "q134",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'instrument national de l'Écosse ?",
-    "answers": [
-      "Tin whistle",
-      "Cornemuse",
-      "Violon",
-      "Harpe"
-    ],
+    "text": "Quel est le nom du style de poésie japonaise classique à 31 mores (5-7-5-7-7) ?",
+    "answers": ["Renga", "Tanka", "Haïku", "Senryū"],
     "correctIndex": 1
   },
   {
     "id": "q135",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel festival mongol célèbre les sports traditionnels ?",
-    "answers": [
-      "Tsagaan Sar",
-      "Naadam",
-      "Nadaam",
-      "Sagaalgan"
-    ],
-    "correctIndex": 1
+    "text": "Quel est le nom de l’écriture antique égyptienne cursive utilisée sur papyrus, différente des hiéroglyphes monumentaux ?",
+    "answers": ["Runique", "Cunéiforme", "Hiératique", "Glagolitique"],
+    "correctIndex": 2
   },
   {
     "id": "q136",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quelle civilisation a construit Machu Picchu ?",
-    "answers": [
-      "Olmèques",
-      "Incas",
-      "Mayas",
-      "Aztèques"
-    ],
-    "correctIndex": 1
+    "text": "Quel est le nom de la grande bibliothèque moderne d’Alexandrie inaugurée au début des années 2000 ?",
+    "answers": ["Bibliothèque Vaticane", "British Library", "Bibliothèque du Congrès", "Bibliotheca Alexandrina"],
+    "correctIndex": 3
   },
   {
     "id": "q137",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est le plus grand carnaval du monde ?",
-    "answers": [
-      "Carnaval de Notting Hill",
-      "Carnaval de Nice",
-      "Carnaval de Rio",
-      "Carnaval de Venise"
-    ],
-    "correctIndex": 2
+    "text": "Quel terme désigne la notion polynésienne de pouvoir spirituel/efficace, présente aussi en Mélanésie ?",
+    "answers": ["Mana", "Tabou", "Totem", "Karma"],
+    "correctIndex": 0
   },
   {
     "id": "q138",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'art martial traditionnel du Brésil ?",
-    "answers": [
-      "Lutte",
-      "Sambo",
-      "Capoeira",
-      "Jiu-jitsu"
-    ],
-    "correctIndex": 2
+    "text": "Quel peuple de Sibérie est connu pour sa tradition chamanique et certains chants épiques autour de l’Altaï ?",
+    "answers": ["Sámi", "Yakoutes", "Basques", "Aïnous"],
+    "correctIndex": 1
   },
   {
     "id": "q139",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'instrument national de l'Écosse ?",
-    "answers": [
-      "Violon",
-      "Tin whistle",
-      "Harpe",
-      "Cornemuse"
-    ],
-    "correctIndex": 3
+    "text": "Quel terme désigne la poésie chantée des troubadours en langue d’oc ?",
+    "answers": ["Haïku", "Ode", "Canso", "Sonnet"],
+    "correctIndex": 2
   },
   {
     "id": "q140",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel plat est traditionnellement servi lors de Thanksgiving ?",
-    "answers": [
-      "Poulet rôti",
-      "Dinde farcie",
-      "Tourte à la viande",
-      "Ragoût de bœuf"
-    ],
-    "correctIndex": 1
+    "text": "Quel est le nom du musée parisien installé dans une ancienne gare, connu pour l’art du XIXe siècle ?",
+    "answers": ["Louvre", "Centre Pompidou", "Musée de l’Orangerie", "Musée d’Orsay"],
+    "correctIndex": 3
   },
   {
     "id": "q141",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel pays a inventé la porcelaine ?",
-    "answers": [
-      "Chine",
-      "Corée",
-      "Japon",
-      "Vietnam"
-    ],
+    "text": "Quel est le nom du système de pensée chinois fondé sur l’harmonie sociale et la piété filiale, associé à Confucius ?",
+    "answers": ["Confucianisme", "Taoïsme", "Bouddhisme", "Légisme"],
     "correctIndex": 0
   },
   {
     "id": "q142",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel pays est à l'origine du théâtre Nô ?",
-    "answers": [
-      "Chine",
-      "Vietnam",
-      "Japon",
-      "Corée"
-    ],
-    "correctIndex": 2
+    "text": "Quel est le nom de la langue sémitique de l’Éthiopie et de l’Érythrée écrite en alphabet ge’ez (famille sémitique éthiopienne) ?",
+    "answers": ["Araméen", "Tigrinya", "Hébreu", "Phénicien"],
+    "correctIndex": 1
   },
   {
     "id": "q143",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Dans quelle ville se trouve la bibliothèque d'Alexandrie reconstruite ?",
-    "answers": [
-      "Athènes",
-      "Alexandrie",
-      "Le Caire",
-      "Tunis"
-    ],
-    "correctIndex": 1
+    "text": "Quelle est la forme théâtrale chinoise la plus connue, souvent appelée « opéra de Pékin » ?",
+    "answers": ["Nō", "Kabuki", "Jīngjù", "Zarzuela"],
+    "correctIndex": 2
   },
   {
     "id": "q144",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quelle civilisation a construit Machu Picchu ?",
-    "answers": [
-      "Aztèques",
-      "Olmèques",
-      "Incas",
-      "Mayas"
-    ],
-    "correctIndex": 2
+    "text": "Quel est le nom du Nouvel An vietnamien, fête majeure de la culture vietnamienne ?",
+    "answers": ["Losar", "Nowruz", "Obon", "Tết"],
+    "correctIndex": 3
   },
   {
     "id": "q145",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel plat est traditionnellement servi lors de Thanksgiving ?",
-    "answers": [
-      "Tourte à la viande",
-      "Ragoût de bœuf",
-      "Dinde farcie",
-      "Poulet rôti"
-    ],
-    "correctIndex": 2
+    "text": "Quel texte du judaïsme rabbinique compile des discussions et commentaires sur la Torah et la loi ?",
+    "answers": ["Le Talmud", "Le Tanakh", "La Septante", "La Mishnah seule"],
+    "correctIndex": 0
   },
   {
     "id": "q146",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel festival mongol célèbre les sports traditionnels ?",
-    "answers": [
-      "Nadaam",
-      "Tsagaan Sar",
-      "Naadam",
-      "Sagaalgan"
-    ],
-    "correctIndex": 2
+    "text": "Quel genre musical religieux d’Asie du Sud est associé aux chants soufis en Inde et au Pakistan ?",
+    "answers": ["Gospel", "Qawwali", "Fado", "Rebetiko"],
+    "correctIndex": 1
   },
   {
     "id": "q147",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quelle civilisation a construit Machu Picchu ?",
-    "answers": [
-      "Aztèques",
-      "Mayas",
-      "Olmèques",
-      "Incas"
-    ],
-    "correctIndex": 3
+    "text": "Quel est le nom du style pictural chinois jouant sur l’encre et le vide, souvent traduit par « peinture à l’encre » ?",
+    "answers": ["Fresque", "Tempera", "Shuǐmòhuà", "Mosaïque"],
+    "correctIndex": 2
   },
   {
     "id": "q148",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel festival mongol célèbre les sports traditionnels ?",
-    "answers": [
-      "Naadam",
-      "Sagaalgan",
-      "Tsagaan Sar",
-      "Nadaam"
-    ],
-    "correctIndex": 0
+    "text": "Quel festival indien de l’État du Kerala met en avant un long banquet végétarien sur feuille de bananier (sadya) ?",
+    "answers": ["Holi", "Diwali", "Navratri", "Onam"],
+    "correctIndex": 3
   },
   {
     "id": "q149",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'art martial traditionnel du Brésil ?",
-    "answers": [
-      "Sambo",
-      "Jiu-jitsu",
-      "Lutte",
-      "Capoeira"
-    ],
-    "correctIndex": 3
+    "text": "Quel terme désigne la « voie » spirituelle dans l’hindouisme, notamment comme ordre cosmique et devoir ?",
+    "answers": ["Dharma", "Nirvana", "Qi", "Totem"],
+    "correctIndex": 0
   },
   {
     "id": "q150",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'art martial traditionnel du Brésil ?",
-    "answers": [
-      "Capoeira",
-      "Lutte",
-      "Sambo",
-      "Jiu-jitsu"
-    ],
-    "correctIndex": 0
+    "text": "Quelle tradition musicale grecque urbaine du début du XXe siècle est associée au bouzouki ?",
+    "answers": ["Fado", "Rebetiko", "Samba", "Klezmer"],
+    "correctIndex": 1
   },
   {
     "id": "q151",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'art martial traditionnel du Brésil ?",
-    "answers": [
-      "Sambo",
-      "Capoeira",
-      "Jiu-jitsu",
-      "Lutte"
-    ],
-    "correctIndex": 1
+    "text": "Quel est le nom de l’ensemble de poèmes attribués à Homère racontant le retour d’Ulysse ?",
+    "answers": ["L’Iliade", "Les Argonautiques", "L’Odyssée", "L’Énéide"],
+    "correctIndex": 2
   },
   {
     "id": "q152",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel plat est traditionnellement servi lors de Thanksgiving ?",
-    "answers": [
-      "Dinde farcie",
-      "Poulet rôti",
-      "Ragoût de bœuf",
-      "Tourte à la viande"
-    ],
-    "correctIndex": 0
+    "text": "Quel est le nom de la fête chrétienne marquant l’arrivée des rois mages, associée à la galette en France ?",
+    "answers": ["Ascension", "Pentecôte", "Toussaint", "Épiphanie"],
+    "correctIndex": 3
   },
   {
     "id": "q153",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'instrument national de l'Écosse ?",
-    "answers": [
-      "Tin whistle",
-      "Violon",
-      "Harpe",
-      "Cornemuse"
-    ],
-    "correctIndex": 3
+    "text": "Quel terme désigne les poèmes chantés des skalds dans la Scandinavie médiévale ?",
+    "answers": ["Poésie skaldique", "Haïku", "Sestine", "Sonnet"],
+    "correctIndex": 0
   },
   {
     "id": "q154",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel pays a inventé la porcelaine ?",
-    "answers": [
-      "Vietnam",
-      "Chine",
-      "Corée",
-      "Japon"
-    ],
+    "text": "Quel est le nom de la capitale culturelle associée au Festival international de théâtre d’Avignon en France ?",
+    "answers": ["Arles", "Avignon", "Cannes", "Aix-en-Provence"],
     "correctIndex": 1
   },
   {
     "id": "q155",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quelle civilisation a construit Machu Picchu ?",
-    "answers": [
-      "Aztèques",
-      "Olmèques",
-      "Incas",
-      "Mayas"
-    ],
+    "text": "Quel terme désigne la vision hindoue et bouddhiste de la transmigration des êtres à travers renaissances ?",
+    "answers": ["Dharma", "Moksha", "Samsara", "Qi"],
     "correctIndex": 2
   },
   {
     "id": "q156",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est le plus grand carnaval du monde ?",
-    "answers": [
-      "Carnaval de Notting Hill",
-      "Carnaval de Nice",
-      "Carnaval de Venise",
-      "Carnaval de Rio"
-    ],
+    "text": "Quel est le nom de la grande fête de l’eau en Birmanie et en Thaïlande marquant le Nouvel An traditionnel ?",
+    "answers": ["Vesak", "Onam", "Losar", "Songkran"],
     "correctIndex": 3
   },
   {
     "id": "q157",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel pays a inventé la porcelaine ?",
-    "answers": [
-      "Corée",
-      "Chine",
-      "Japon",
-      "Vietnam"
-    ],
-    "correctIndex": 1
+    "text": "Quel est le nom de l’architecture gothique flamboyant caractérisée par des formes en flamme dans les réseaux de pierre ?",
+    "answers": ["Gothique flamboyant", "Roman", "Baroque", "Néoclassique"],
+    "correctIndex": 0
   },
   {
     "id": "q158",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est le plus grand carnaval du monde ?",
-    "answers": [
-      "Carnaval de Venise",
-      "Carnaval de Nice",
-      "Carnaval de Notting Hill",
-      "Carnaval de Rio"
-    ],
-    "correctIndex": 3
+    "text": "Quel est le nom de l’écriture médiévale irlandaise ancienne faite de traits autour d’une ligne (alphabet oghamique) ?",
+    "answers": ["Runes", "Ogham", "Cyrillique", "Glagolitique"],
+    "correctIndex": 1
   },
   {
     "id": "q159",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel plat est traditionnellement servi lors de Thanksgiving ?",
-    "answers": [
-      "Tourte à la viande",
-      "Ragoût de bœuf",
-      "Dinde farcie",
-      "Poulet rôti"
-    ],
+    "text": "Quel est le nom du code de lois babylonien gravé sur une stèle et souvent cité comme un des plus connus de l’Antiquité ?",
+    "answers": ["Tablettes d’Ebla", "Lois des Douze Tables", "Code d’Hammurabi", "Édit de Milan"],
     "correctIndex": 2
   },
   {
     "id": "q160",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel festival mongol célèbre les sports traditionnels ?",
-    "answers": [
-      "Sagaalgan",
-      "Naadam",
-      "Tsagaan Sar",
-      "Nadaam"
-    ],
-    "correctIndex": 1
+    "text": "Quel est le nom du grand festival des arts à Édimbourg, associé à de multiples disciplines ?",
+    "answers": ["Glastonbury", "Coachella", "Primavera Sound", "Edinburgh Festival Fringe"],
+    "correctIndex": 3
   },
   {
     "id": "q161",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'instrument national de l'Écosse ?",
-    "answers": [
-      "Cornemuse",
-      "Tin whistle",
-      "Violon",
-      "Harpe"
-    ],
+    "text": "Quel terme désigne l’« illumination » dans le bouddhisme, souvent formulée comme l’éveil ?",
+    "answers": ["Bodhi", "Dharma", "Samsara", "Karma"],
     "correctIndex": 0
   },
   {
     "id": "q162",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel plat est traditionnellement servi lors de Thanksgiving ?",
-    "answers": [
-      "Ragoût de bœuf",
-      "Tourte à la viande",
-      "Dinde farcie",
-      "Poulet rôti"
-    ],
-    "correctIndex": 2
+    "text": "Quelle langue est considérée comme la plus proche parente du latin parmi les langues romanes majeures ?",
+    "answers": ["Espagnol", "Italien", "Roumain", "Portugais"],
+    "correctIndex": 1
   },
   {
     "id": "q163",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'instrument national de l'Écosse ?",
-    "answers": [
-      "Harpe",
-      "Violon",
-      "Cornemuse",
-      "Tin whistle"
-    ],
+    "text": "Quel est le nom de la fête chinoise des bateaux-dragons, associée à des courses et aux zongzi ?",
+    "answers": ["Qingming", "Fête des Lanternes", "Duanwu", "Mi-Automne"],
     "correctIndex": 2
   },
   {
     "id": "q164",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'instrument national de l'Écosse ?",
-    "answers": [
-      "Violon",
-      "Harpe",
-      "Cornemuse",
-      "Tin whistle"
-    ],
-    "correctIndex": 2
+    "text": "Quel genre musical brésilien né à Rio au XXe siècle est associé aux défilés de carnaval ?",
+    "answers": ["Bossa nova", "Forró", "Choro", "Samba"],
+    "correctIndex": 3
   },
   {
     "id": "q165",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel festival mongol célèbre les sports traditionnels ?",
-    "answers": [
-      "Tsagaan Sar",
-      "Nadaam",
-      "Naadam",
-      "Sagaalgan"
-    ],
-    "correctIndex": 2
+    "text": "Quel terme grec désigne la purification émotionnelle recherchée par la tragédie selon Aristote ?",
+    "answers": ["Katharsis", "Hubris", "Anagnorisis", "Peripeteia"],
+    "correctIndex": 0
   },
   {
     "id": "q166",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Dans quelle ville se trouve la bibliothèque d'Alexandrie reconstruite ?",
-    "answers": [
-      "Athènes",
-      "Le Caire",
-      "Alexandrie",
-      "Tunis"
-    ],
-    "correctIndex": 2
+    "text": "Quel est le nom de la grande cathédrale orthodoxe de Moscou, célèbre pour ses dômes colorés sur la place Rouge ?",
+    "answers": ["Saint-Sava", "Saint-Basile", "Notre-Dame de Kazan", "Sainte-Sophie"],
+    "correctIndex": 1
   },
   {
     "id": "q167",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'instrument national de l'Écosse ?",
-    "answers": [
-      "Harpe",
-      "Cornemuse",
-      "Violon",
-      "Tin whistle"
-    ],
-    "correctIndex": 1
+    "text": "Quel est le nom du mouvement poétique français associé à Breton, Aragon et l’écriture automatique ?",
+    "answers": ["Symbolisme", "Parnasse", "Surréalisme", "Naturalisme"],
+    "correctIndex": 2
   },
   {
     "id": "q168",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel pays est à l'origine du théâtre Nô ?",
-    "answers": [
-      "Corée",
-      "Vietnam",
-      "Japon",
-      "Chine"
-    ],
-    "correctIndex": 2
+    "text": "Quel est le nom du Nouvel An chinois traditionnel, aussi appelé « fête du printemps » ?",
+    "answers": ["Qingming", "Duanwu", "Mi-Automne", "Chūnjié"],
+    "correctIndex": 3
   },
   {
     "id": "q169",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quelle civilisation a construit Machu Picchu ?",
-    "answers": [
-      "Aztèques",
-      "Olmèques",
-      "Incas",
-      "Mayas"
-    ],
-    "correctIndex": 2
+    "text": "Quel terme désigne l’écriture arabe la plus courante dans les livres imprimés, aux formes arrondies ?",
+    "answers": ["Naskh", "Kufique", "Diwani", "Thuluth"],
+    "correctIndex": 0
   },
   {
     "id": "q170",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel festival mongol célèbre les sports traditionnels ?",
-    "answers": [
-      "Naadam",
-      "Sagaalgan",
-      "Tsagaan Sar",
-      "Nadaam"
-    ],
-    "correctIndex": 0
+    "text": "Quel est le nom de la tradition chantée inuit où deux personnes se défient par rythmes et souffles ?",
+    "answers": ["Joik", "Katajjaq", "Khöömei", "Qawwali"],
+    "correctIndex": 1
   },
   {
     "id": "q171",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est le plus grand carnaval du monde ?",
-    "answers": [
-      "Carnaval de Rio",
-      "Carnaval de Venise",
-      "Carnaval de Notting Hill",
-      "Carnaval de Nice"
-    ],
-    "correctIndex": 0
+    "text": "Dans la culture japonaise, quel terme désigne les gravures/estampes représentant souvent des acteurs ou scènes urbaines d’Edo ?",
+    "answers": ["Kintsugi", "Shodō", "Ukiyo-e", "Chanoyu"],
+    "correctIndex": 2
   },
   {
     "id": "q172",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'art martial traditionnel du Brésil ?",
-    "answers": [
-      "Jiu-jitsu",
-      "Sambo",
-      "Lutte",
-      "Capoeira"
-    ],
+    "text": "Quel est le nom de la fête suédoise marquant le solstice d’été, avec couronnes de fleurs et mât décoré ?",
+    "answers": ["Walpurgis", "Lucia", "Yule", "Midsommar"],
     "correctIndex": 3
   },
   {
     "id": "q173",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel pays est à l'origine du théâtre Nô ?",
-    "answers": [
-      "Chine",
-      "Corée",
-      "Vietnam",
-      "Japon"
-    ],
-    "correctIndex": 3
+    "text": "Quel terme désigne l’ensemble des croyances, rites et institutions liées au sacré dans une société ?",
+    "answers": ["Religion", "Dialecte", "Mythographie", "Économie"],
+    "correctIndex": 0
   },
   {
     "id": "q174",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel pays a inventé la porcelaine ?",
-    "answers": [
-      "Chine",
-      "Vietnam",
-      "Japon",
-      "Corée"
-    ],
-    "correctIndex": 0
+    "text": "Quel est le nom du grand temple bouddhiste indonésien en forme de stupa, à Java ?",
+    "answers": ["Angkor Wat", "Borobudur", "Shwedagon", "Todai-ji"],
+    "correctIndex": 1
   },
   {
     "id": "q175",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'instrument national de l'Écosse ?",
-    "answers": [
-      "Harpe",
-      "Violon",
-      "Cornemuse",
-      "Tin whistle"
-    ],
+    "text": "Quel terme désigne une forme de poésie hébraïque médiévale en Espagne, souvent influencée par l’arabe ?",
+    "answers": ["Ode", "Ballade", "Piyyut", "Haïku"],
     "correctIndex": 2
   },
   {
     "id": "q176",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Dans quelle ville se trouve la bibliothèque d'Alexandrie reconstruite ?",
-    "answers": [
-      "Le Caire",
-      "Athènes",
-      "Tunis",
-      "Alexandrie"
-    ],
+    "text": "Quel est le nom de la fête allemande célébrant Saint Martin, souvent avec des lanternes (surtout chez les enfants) ?",
+    "answers": ["Karneval", "Nikolaus", "Walpurgisnacht", "Martinstag"],
     "correctIndex": 3
   },
   {
     "id": "q177",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel pays a inventé la porcelaine ?",
-    "answers": [
-      "Japon",
-      "Chine",
-      "Corée",
-      "Vietnam"
-    ],
-    "correctIndex": 1
+    "text": "Quel terme désigne la « voie du milieu » enseignée par le Bouddha pour éviter excès et ascétisme extrême ?",
+    "answers": ["Madhyamā-pratipad", "Nirvana", "Karma", "Samsara"],
+    "correctIndex": 0
   },
   {
     "id": "q178",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel festival mongol célèbre les sports traditionnels ?",
-    "answers": [
-      "Tsagaan Sar",
-      "Sagaalgan",
-      "Naadam",
-      "Nadaam"
-    ],
-    "correctIndex": 2
+    "text": "Quel est le nom du système de caste traditionnel en Inde (au sens des grandes catégories varna) ?",
+    "answers": ["Sharia", "Varna", "Madhhab", "Totem"],
+    "correctIndex": 1
   },
   {
     "id": "q179",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est le plus grand carnaval du monde ?",
-    "answers": [
-      "Carnaval de Notting Hill",
-      "Carnaval de Rio",
-      "Carnaval de Nice",
-      "Carnaval de Venise"
-    ],
-    "correctIndex": 1
+    "text": "Quel est le nom du courant musical américain mêlant improvisation et syncopes, né au tournant du XXe siècle à La Nouvelle-Orléans ?",
+    "answers": ["Blues", "Gospel", "Jazz", "Reggae"],
+    "correctIndex": 2
   },
   {
     "id": "q180",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est le plus grand carnaval du monde ?",
-    "answers": [
-      "Carnaval de Nice",
-      "Carnaval de Rio",
-      "Carnaval de Venise",
-      "Carnaval de Notting Hill"
-    ],
-    "correctIndex": 1
+    "text": "Quel est le nom de la grande fête du printemps iranienne célébrée avec un table dressée (Haft-Sin) ?",
+    "answers": ["Yalda", "Ashura", "Eid al-Fitr", "Nowruz"],
+    "correctIndex": 3
   },
   {
     "id": "q181",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'art martial traditionnel du Brésil ?",
-    "answers": [
-      "Jiu-jitsu",
-      "Capoeira",
-      "Lutte",
-      "Sambo"
-    ],
-    "correctIndex": 1
+    "text": "Quel terme désigne la langue construite par Tolkien, associée aux Elfes de la Terre du Milieu ?",
+    "answers": ["Quenya", "Sindarin", "Esperanto", "Volapük"],
+    "correctIndex": 0
   },
   {
     "id": "q182",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel pays est à l'origine du théâtre Nô ?",
-    "answers": [
-      "Chine",
-      "Japon",
-      "Corée",
-      "Vietnam"
-    ],
+    "text": "Quel est le nom de la technique textile indonésienne utilisant de la cire pour teindre des motifs ?",
+    "answers": ["Kente", "Batik", "Tapisserie", "Macramé"],
     "correctIndex": 1
   },
   {
     "id": "q183",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel festival mongol célèbre les sports traditionnels ?",
-    "answers": [
-      "Sagaalgan",
-      "Naadam",
-      "Tsagaan Sar",
-      "Nadaam"
-    ],
-    "correctIndex": 1
+    "text": "Quel est le nom de la tragédie de Sophocle où le héros découvre qu’il a tué son père et épousé sa mère ?",
+    "answers": ["Antigone", "Électre", "Œdipe roi", "Médée"],
+    "correctIndex": 2
   },
   {
     "id": "q184",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel festival mongol célèbre les sports traditionnels ?",
-    "answers": [
-      "Naadam",
-      "Nadaam",
-      "Tsagaan Sar",
-      "Sagaalgan"
-    ],
-    "correctIndex": 0
+    "text": "Quel est le nom du Nouvel An thaïlandais traditionnel, célèbre pour ses batailles d’eau ?",
+    "answers": ["Vesak", "Tet", "Losar", "Songkran"],
+    "correctIndex": 3
   },
   {
     "id": "q185",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'art martial traditionnel du Brésil ?",
-    "answers": [
-      "Capoeira",
-      "Sambo",
-      "Lutte",
-      "Jiu-jitsu"
-    ],
+    "text": "Quel terme désigne un récit chanté médiéval français retraçant les exploits de héros, comme dans la « Chanson de Roland » ?",
+    "answers": ["Chanson de geste", "Madrigal", "Églogue", "Élégie"],
     "correctIndex": 0
   },
   {
     "id": "q186",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'art martial traditionnel du Brésil ?",
-    "answers": [
-      "Capoeira",
-      "Lutte",
-      "Jiu-jitsu",
-      "Sambo"
-    ],
-    "correctIndex": 0
+    "text": "Quel est le nom de l’art martial japonais fondé sur le tir à l’arc comme discipline spirituelle ?",
+    "answers": ["Kendo", "Kyūdō", "Aïkido", "Sumo"],
+    "correctIndex": 1
   },
   {
     "id": "q187",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est le plus grand carnaval du monde ?",
-    "answers": [
-      "Carnaval de Venise",
-      "Carnaval de Rio",
-      "Carnaval de Notting Hill",
-      "Carnaval de Nice"
-    ],
-    "correctIndex": 1
+    "text": "Quel terme désigne le système d’écriture des anciens Slaves créé au IXe siècle par Cyrille et Méthode (le plus ancien) ?",
+    "answers": ["Cyrillique", "Latin", "Glagolitique", "Runique"],
+    "correctIndex": 2
   },
   {
     "id": "q188",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel pays a inventé la porcelaine ?",
-    "answers": [
-      "Vietnam",
-      "Japon",
-      "Corée",
-      "Chine"
-    ],
+    "text": "Quel est le nom de la fête hindoue dédiée à Ganesh, très célébrée à Mumbai ?",
+    "answers": ["Navratri", "Holi", "Diwali", "Ganesh Chaturthi"],
     "correctIndex": 3
   },
   {
     "id": "q189",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel pays est à l'origine du théâtre Nô ?",
-    "answers": [
-      "Chine",
-      "Japon",
-      "Vietnam",
-      "Corée"
-    ],
-    "correctIndex": 1
+    "text": "Quel terme désigne une représentation picturale symbolique du Christ dans l’art byzantin et orthodoxe ?",
+    "answers": ["Icône", "Fresque", "Retable", "Tapisserie"],
+    "correctIndex": 0
   },
   {
     "id": "q190",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'art martial traditionnel du Brésil ?",
-    "answers": [
-      "Capoeira",
-      "Jiu-jitsu",
-      "Lutte",
-      "Sambo"
-    ],
-    "correctIndex": 0
+    "text": "Quel est le nom de la grande fête japonaise des poupées, célébrée le 3 mars ?",
+    "answers": ["Tanabata", "Hina Matsuri", "Obon", "Setsubun"],
+    "correctIndex": 1
   },
   {
     "id": "q191",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel pays est à l'origine du théâtre Nô ?",
-    "answers": [
-      "Chine",
-      "Japon",
-      "Corée",
-      "Vietnam"
-    ],
-    "correctIndex": 1
+    "text": "Quel est le nom de la forme poétique italienne popularisée par Pétrarque, composée de 14 vers ?",
+    "answers": ["Ballade", "Rondeau", "Sonnet", "Limerick"],
+    "correctIndex": 2
   },
   {
     "id": "q192",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel pays a inventé la porcelaine ?",
-    "answers": [
-      "Vietnam",
-      "Chine",
-      "Corée",
-      "Japon"
-    ],
-    "correctIndex": 1
+    "text": "Quel est le nom de la célébration chinoise de la mi-automne, associée aux gâteaux de lune ?",
+    "answers": ["Qingming", "Duanwu", "Fête des lanternes", "Fête de la mi-automne"],
+    "correctIndex": 3
   },
   {
     "id": "q193",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Dans quelle ville se trouve la bibliothèque d'Alexandrie reconstruite ?",
-    "answers": [
-      "Athènes",
-      "Alexandrie",
-      "Le Caire",
-      "Tunis"
-    ],
-    "correctIndex": 1
+    "text": "Quel terme désigne l’ensemble des traditions orales et des savoirs transmis par la parole dans une culture ?",
+    "answers": ["Tradition orale", "Bibliographie", "Philologie", "Codicologie"],
+    "correctIndex": 0
   },
   {
     "id": "q194",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'art martial traditionnel du Brésil ?",
-    "answers": [
-      "Lutte",
-      "Sambo",
-      "Capoeira",
-      "Jiu-jitsu"
-    ],
-    "correctIndex": 2
+    "text": "Quel est le nom du chant traditionnel sami, souvent bref et très personnel ?",
+    "answers": ["Katajjaq", "Joik", "Khöömei", "Qawwali"],
+    "correctIndex": 1
   },
   {
     "id": "q195",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est l'instrument national de l'Écosse ?",
-    "answers": [
-      "Harpe",
-      "Cornemuse",
-      "Tin whistle",
-      "Violon"
-    ],
-    "correctIndex": 1
+    "text": "Quel est le nom du grand courant philosophique antique visant l’absence de trouble (ataraxie), associé à Épicure ?",
+    "answers": ["Stoïcisme", "Cynisme", "Épicurisme", "Scepticisme"],
+    "correctIndex": 2
   },
   {
     "id": "q196",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "L'Épopée de Gilgamesh",
-      "Le Rig-Véda",
-      "L'Iliade",
-      "Le Livre des Morts"
-    ],
-    "correctIndex": 0
+    "text": "Quel est le nom de la fête japonaise célébrant l’arrivée du printemps, avec jets de haricots contre les mauvais esprits ?",
+    "answers": ["Obon", "Shōgatsu", "Tanabata", "Setsubun"],
+    "correctIndex": 3
   },
   {
     "id": "q197",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel pays a inventé la porcelaine ?",
-    "answers": [
-      "Chine",
-      "Japon",
-      "Corée",
-      "Vietnam"
-    ],
+    "text": "Quel terme désigne l’étude scientifique des langues et de leur évolution historique ?",
+    "answers": ["Linguistique", "Typographie", "Topographie", "Iconographie"],
     "correctIndex": 0
   },
   {
     "id": "q198",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel est le plus grand carnaval du monde ?",
-    "answers": [
-      "Carnaval de Nice",
-      "Carnaval de Venise",
-      "Carnaval de Rio",
-      "Carnaval de Notting Hill"
-    ],
-    "correctIndex": 2
+    "text": "Quel est le nom de la grande fête hindoue du Bihar et de l’Uttar Pradesh dédiée au Soleil, célébrée sur plusieurs jours ?",
+    "answers": ["Onam", "Chhath Puja", "Holi", "Navratri"],
+    "correctIndex": 1
   },
   {
     "id": "q199",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Quel pays est à l'origine du théâtre Nô ?",
-    "answers": [
-      "Corée",
-      "Chine",
-      "Japon",
-      "Vietnam"
-    ],
+    "text": "Quel terme désigne la branche de l’anthropologie qui étudie les cultures et leurs pratiques sociales ?",
+    "answers": ["Géologie", "Astronomie", "Anthropologie culturelle", "Botanique"],
     "correctIndex": 2
   },
   {
     "id": "q200",
     "category": "Cultures",
     "difficulty": "Difficile",
-    "text": "Dans quelle ville se trouve la bibliothèque d'Alexandrie reconstruite ?",
-    "answers": [
-      "Athènes",
-      "Le Caire",
-      "Alexandrie",
-      "Tunis"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q201",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est l'instrument national de l'Écosse ?",
-    "answers": [
-      "Cornemuse",
-      "Harpe",
-      "Violon",
-      "Tin whistle"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q202",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel pays a inventé la porcelaine ?",
-    "answers": [
-      "Vietnam",
-      "Chine",
-      "Japon",
-      "Corée"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q203",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est l'art martial traditionnel du Brésil ?",
-    "answers": [
-      "Sambo",
-      "Jiu-jitsu",
-      "Capoeira",
-      "Lutte"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q204",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est l'instrument national de l'Écosse ?",
-    "answers": [
-      "Violon",
-      "Cornemuse",
-      "Harpe",
-      "Tin whistle"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q205",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel pays a inventé la porcelaine ?",
-    "answers": [
-      "Chine",
-      "Vietnam",
-      "Japon",
-      "Corée"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q206",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel pays a inventé la porcelaine ?",
-    "answers": [
-      "Corée",
-      "Chine",
-      "Vietnam",
-      "Japon"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q207",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est le plus grand carnaval du monde ?",
-    "answers": [
-      "Carnaval de Nice",
-      "Carnaval de Notting Hill",
-      "Carnaval de Venise",
-      "Carnaval de Rio"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q208",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel plat est traditionnellement servi lors de Thanksgiving ?",
-    "answers": [
-      "Poulet rôti",
-      "Dinde farcie",
-      "Tourte à la viande",
-      "Ragoût de bœuf"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q209",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est l'art martial traditionnel du Brésil ?",
-    "answers": [
-      "Sambo",
-      "Lutte",
-      "Capoeira",
-      "Jiu-jitsu"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q210",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Dans quelle ville se trouve la bibliothèque d'Alexandrie reconstruite ?",
-    "answers": [
-      "Athènes",
-      "Le Caire",
-      "Tunis",
-      "Alexandrie"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q211",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est l'instrument national de l'Écosse ?",
-    "answers": [
-      "Harpe",
-      "Cornemuse",
-      "Violon",
-      "Tin whistle"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q212",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel plat est traditionnellement servi lors de Thanksgiving ?",
-    "answers": [
-      "Tourte à la viande",
-      "Ragoût de bœuf",
-      "Poulet rôti",
-      "Dinde farcie"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q213",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel pays a inventé la porcelaine ?",
-    "answers": [
-      "Japon",
-      "Chine",
-      "Vietnam",
-      "Corée"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q214",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est l'instrument national de l'Écosse ?",
-    "answers": [
-      "Harpe",
-      "Tin whistle",
-      "Cornemuse",
-      "Violon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q215",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quelle civilisation a construit Machu Picchu ?",
-    "answers": [
-      "Aztèques",
-      "Olmèques",
-      "Mayas",
-      "Incas"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q216",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "L'Épopée de Gilgamesh",
-      "Le Livre des Morts",
-      "Le Rig-Véda",
-      "L'Iliade"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q217",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel pays a inventé la porcelaine ?",
-    "answers": [
-      "Corée",
-      "Chine",
-      "Japon",
-      "Vietnam"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q218",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel plat est traditionnellement servi lors de Thanksgiving ?",
-    "answers": [
-      "Tourte à la viande",
-      "Ragoût de bœuf",
-      "Poulet rôti",
-      "Dinde farcie"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q219",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est l'instrument national de l'Écosse ?",
-    "answers": [
-      "Cornemuse",
-      "Harpe",
-      "Violon",
-      "Tin whistle"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q220",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est l'art martial traditionnel du Brésil ?",
-    "answers": [
-      "Lutte",
-      "Jiu-jitsu",
-      "Sambo",
-      "Capoeira"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q221",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel pays a inventé la porcelaine ?",
-    "answers": [
-      "Chine",
-      "Vietnam",
-      "Japon",
-      "Corée"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q222",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est l'instrument national de l'Écosse ?",
-    "answers": [
-      "Violon",
-      "Cornemuse",
-      "Harpe",
-      "Tin whistle"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q223",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel festival mongol célèbre les sports traditionnels ?",
-    "answers": [
-      "Sagaalgan",
-      "Naadam",
-      "Nadaam",
-      "Tsagaan Sar"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q224",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est le plus grand carnaval du monde ?",
-    "answers": [
-      "Carnaval de Venise",
-      "Carnaval de Rio",
-      "Carnaval de Nice",
-      "Carnaval de Notting Hill"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q225",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est le plus grand carnaval du monde ?",
-    "answers": [
-      "Carnaval de Nice",
-      "Carnaval de Rio",
-      "Carnaval de Venise",
-      "Carnaval de Notting Hill"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q226",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est l'instrument national de l'Écosse ?",
-    "answers": [
-      "Harpe",
-      "Tin whistle",
-      "Cornemuse",
-      "Violon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q227",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel pays a inventé la porcelaine ?",
-    "answers": [
-      "Vietnam",
-      "Chine",
-      "Japon",
-      "Corée"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q228",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est le plus grand carnaval du monde ?",
-    "answers": [
-      "Carnaval de Rio",
-      "Carnaval de Notting Hill",
-      "Carnaval de Nice",
-      "Carnaval de Venise"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q229",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quelle civilisation a construit Machu Picchu ?",
-    "answers": [
-      "Mayas",
-      "Olmèques",
-      "Incas",
-      "Aztèques"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q230",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel plat est traditionnellement servi lors de Thanksgiving ?",
-    "answers": [
-      "Dinde farcie",
-      "Tourte à la viande",
-      "Ragoût de bœuf",
-      "Poulet rôti"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q231",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel pays a inventé la porcelaine ?",
-    "answers": [
-      "Corée",
-      "Vietnam",
-      "Chine",
-      "Japon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q232",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel plat est traditionnellement servi lors de Thanksgiving ?",
-    "answers": [
-      "Ragoût de bœuf",
-      "Dinde farcie",
-      "Poulet rôti",
-      "Tourte à la viande"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q233",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "Le Rig-Véda",
-      "L'Iliade",
-      "Le Livre des Morts",
-      "L'Épopée de Gilgamesh"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q234",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel festival mongol célèbre les sports traditionnels ?",
-    "answers": [
-      "Nadaam",
-      "Sagaalgan",
-      "Tsagaan Sar",
-      "Naadam"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q235",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel festival mongol célèbre les sports traditionnels ?",
-    "answers": [
-      "Nadaam",
-      "Tsagaan Sar",
-      "Naadam",
-      "Sagaalgan"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q236",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est l'art martial traditionnel du Brésil ?",
-    "answers": [
-      "Capoeira",
-      "Sambo",
-      "Jiu-jitsu",
-      "Lutte"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q237",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel pays est à l'origine du théâtre Nô ?",
-    "answers": [
-      "Vietnam",
-      "Corée",
-      "Japon",
-      "Chine"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q238",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est l'instrument national de l'Écosse ?",
-    "answers": [
-      "Harpe",
-      "Violon",
-      "Cornemuse",
-      "Tin whistle"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q239",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Dans quelle ville se trouve la bibliothèque d'Alexandrie reconstruite ?",
-    "answers": [
-      "Le Caire",
-      "Alexandrie",
-      "Tunis",
-      "Athènes"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q240",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Dans quelle ville se trouve la bibliothèque d'Alexandrie reconstruite ?",
-    "answers": [
-      "Tunis",
-      "Athènes",
-      "Le Caire",
-      "Alexandrie"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q241",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est l'instrument national de l'Écosse ?",
-    "answers": [
-      "Harpe",
-      "Violon",
-      "Tin whistle",
-      "Cornemuse"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q242",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quelle civilisation a construit Machu Picchu ?",
-    "answers": [
-      "Aztèques",
-      "Mayas",
-      "Incas",
-      "Olmèques"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q243",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel festival mongol célèbre les sports traditionnels ?",
-    "answers": [
-      "Nadaam",
-      "Sagaalgan",
-      "Tsagaan Sar",
-      "Naadam"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q244",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Dans quelle ville se trouve la bibliothèque d'Alexandrie reconstruite ?",
-    "answers": [
-      "Le Caire",
-      "Tunis",
-      "Athènes",
-      "Alexandrie"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q245",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Dans quelle ville se trouve la bibliothèque d'Alexandrie reconstruite ?",
-    "answers": [
-      "Alexandrie",
-      "Tunis",
-      "Athènes",
-      "Le Caire"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q246",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel pays a inventé la porcelaine ?",
-    "answers": [
-      "Japon",
-      "Vietnam",
-      "Chine",
-      "Corée"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q247",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel pays est à l'origine du théâtre Nô ?",
-    "answers": [
-      "Corée",
-      "Chine",
-      "Vietnam",
-      "Japon"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q248",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel festival mongol célèbre les sports traditionnels ?",
-    "answers": [
-      "Naadam",
-      "Nadaam",
-      "Tsagaan Sar",
-      "Sagaalgan"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q249",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est le plus grand carnaval du monde ?",
-    "answers": [
-      "Carnaval de Rio",
-      "Carnaval de Notting Hill",
-      "Carnaval de Nice",
-      "Carnaval de Venise"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q250",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est le plus grand carnaval du monde ?",
-    "answers": [
-      "Carnaval de Notting Hill",
-      "Carnaval de Rio",
-      "Carnaval de Venise",
-      "Carnaval de Nice"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q251",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "Le Rig-Véda",
-      "L'Épopée de Gilgamesh",
-      "L'Iliade",
-      "Le Livre des Morts"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q252",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel plat est traditionnellement servi lors de Thanksgiving ?",
-    "answers": [
-      "Poulet rôti",
-      "Tourte à la viande",
-      "Dinde farcie",
-      "Ragoût de bœuf"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q253",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est l'instrument national de l'Écosse ?",
-    "answers": [
-      "Harpe",
-      "Tin whistle",
-      "Violon",
-      "Cornemuse"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q254",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "Le Livre des Morts",
-      "Le Rig-Véda",
-      "L'Épopée de Gilgamesh",
-      "L'Iliade"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q255",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel plat est traditionnellement servi lors de Thanksgiving ?",
-    "answers": [
-      "Ragoût de bœuf",
-      "Dinde farcie",
-      "Poulet rôti",
-      "Tourte à la viande"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q256",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est le plus grand carnaval du monde ?",
-    "answers": [
-      "Carnaval de Rio",
-      "Carnaval de Notting Hill",
-      "Carnaval de Venise",
-      "Carnaval de Nice"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q257",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Dans quelle ville se trouve la bibliothèque d'Alexandrie reconstruite ?",
-    "answers": [
-      "Le Caire",
-      "Athènes",
-      "Alexandrie",
-      "Tunis"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q258",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Dans quelle ville se trouve la bibliothèque d'Alexandrie reconstruite ?",
-    "answers": [
-      "Athènes",
-      "Alexandrie",
-      "Le Caire",
-      "Tunis"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q259",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel plat est traditionnellement servi lors de Thanksgiving ?",
-    "answers": [
-      "Dinde farcie",
-      "Ragoût de bœuf",
-      "Tourte à la viande",
-      "Poulet rôti"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q260",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel plat est traditionnellement servi lors de Thanksgiving ?",
-    "answers": [
-      "Poulet rôti",
-      "Tourte à la viande",
-      "Ragoût de bœuf",
-      "Dinde farcie"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q261",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est l'art martial traditionnel du Brésil ?",
-    "answers": [
-      "Sambo",
-      "Jiu-jitsu",
-      "Lutte",
-      "Capoeira"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q262",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quelle civilisation a construit Machu Picchu ?",
-    "answers": [
-      "Incas",
-      "Aztèques",
-      "Mayas",
-      "Olmèques"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q263",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel plat est traditionnellement servi lors de Thanksgiving ?",
-    "answers": [
-      "Ragoût de bœuf",
-      "Tourte à la viande",
-      "Poulet rôti",
-      "Dinde farcie"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q264",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel pays a inventé la porcelaine ?",
-    "answers": [
-      "Japon",
-      "Corée",
-      "Chine",
-      "Vietnam"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q265",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est le plus grand carnaval du monde ?",
-    "answers": [
-      "Carnaval de Notting Hill",
-      "Carnaval de Venise",
-      "Carnaval de Rio",
-      "Carnaval de Nice"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q266",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel pays a inventé la porcelaine ?",
-    "answers": [
-      "Corée",
-      "Japon",
-      "Chine",
-      "Vietnam"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q267",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Dans quelle ville se trouve la bibliothèque d'Alexandrie reconstruite ?",
-    "answers": [
-      "Athènes",
-      "Le Caire",
-      "Tunis",
-      "Alexandrie"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q268",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quelle civilisation a construit Machu Picchu ?",
-    "answers": [
-      "Incas",
-      "Aztèques",
-      "Olmèques",
-      "Mayas"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q269",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est l'art martial traditionnel du Brésil ?",
-    "answers": [
-      "Lutte",
-      "Jiu-jitsu",
-      "Sambo",
-      "Capoeira"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q270",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "Le Rig-Véda",
-      "Le Livre des Morts",
-      "L'Iliade",
-      "L'Épopée de Gilgamesh"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q271",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel plat est traditionnellement servi lors de Thanksgiving ?",
-    "answers": [
-      "Dinde farcie",
-      "Poulet rôti",
-      "Ragoût de bœuf",
-      "Tourte à la viande"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q272",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est l'instrument national de l'Écosse ?",
-    "answers": [
-      "Tin whistle",
-      "Violon",
-      "Cornemuse",
-      "Harpe"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q273",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est le plus grand carnaval du monde ?",
-    "answers": [
-      "Carnaval de Notting Hill",
-      "Carnaval de Nice",
-      "Carnaval de Venise",
-      "Carnaval de Rio"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q274",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est le plus grand carnaval du monde ?",
-    "answers": [
-      "Carnaval de Rio",
-      "Carnaval de Nice",
-      "Carnaval de Venise",
-      "Carnaval de Notting Hill"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q275",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est le plus grand carnaval du monde ?",
-    "answers": [
-      "Carnaval de Notting Hill",
-      "Carnaval de Rio",
-      "Carnaval de Venise",
-      "Carnaval de Nice"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q276",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est l'art martial traditionnel du Brésil ?",
-    "answers": [
-      "Lutte",
-      "Jiu-jitsu",
-      "Capoeira",
-      "Sambo"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q277",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel festival mongol célèbre les sports traditionnels ?",
-    "answers": [
-      "Sagaalgan",
-      "Naadam",
-      "Nadaam",
-      "Tsagaan Sar"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q278",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est l'instrument national de l'Écosse ?",
-    "answers": [
-      "Cornemuse",
-      "Violon",
-      "Tin whistle",
-      "Harpe"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q279",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Dans quelle ville se trouve la bibliothèque d'Alexandrie reconstruite ?",
-    "answers": [
-      "Tunis",
-      "Le Caire",
-      "Alexandrie",
-      "Athènes"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q280",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel plat est traditionnellement servi lors de Thanksgiving ?",
-    "answers": [
-      "Dinde farcie",
-      "Ragoût de bœuf",
-      "Poulet rôti",
-      "Tourte à la viande"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q281",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel plat est traditionnellement servi lors de Thanksgiving ?",
-    "answers": [
-      "Dinde farcie",
-      "Tourte à la viande",
-      "Ragoût de bœuf",
-      "Poulet rôti"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q282",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est l'instrument national de l'Écosse ?",
-    "answers": [
-      "Cornemuse",
-      "Tin whistle",
-      "Harpe",
-      "Violon"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q283",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel pays est à l'origine du théâtre Nô ?",
-    "answers": [
-      "Japon",
-      "Corée",
-      "Vietnam",
-      "Chine"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q284",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Dans quelle ville se trouve la bibliothèque d'Alexandrie reconstruite ?",
-    "answers": [
-      "Tunis",
-      "Alexandrie",
-      "Le Caire",
-      "Athènes"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q285",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quelle civilisation a construit Machu Picchu ?",
-    "answers": [
-      "Aztèques",
-      "Olmèques",
-      "Incas",
-      "Mayas"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q286",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est l'art martial traditionnel du Brésil ?",
-    "answers": [
-      "Capoeira",
-      "Sambo",
-      "Jiu-jitsu",
-      "Lutte"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q287",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel pays a inventé la porcelaine ?",
-    "answers": [
-      "Corée",
-      "Vietnam",
-      "Japon",
-      "Chine"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q288",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Dans quelle ville se trouve la bibliothèque d'Alexandrie reconstruite ?",
-    "answers": [
-      "Le Caire",
-      "Athènes",
-      "Alexandrie",
-      "Tunis"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q289",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel plat est traditionnellement servi lors de Thanksgiving ?",
-    "answers": [
-      "Poulet rôti",
-      "Dinde farcie",
-      "Ragoût de bœuf",
-      "Tourte à la viande"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q290",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Dans quelle ville se trouve la bibliothèque d'Alexandrie reconstruite ?",
-    "answers": [
-      "Athènes",
-      "Le Caire",
-      "Alexandrie",
-      "Tunis"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q291",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "Le Rig-Véda",
-      "L'Iliade",
-      "Le Livre des Morts",
-      "L'Épopée de Gilgamesh"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q292",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est l'art martial traditionnel du Brésil ?",
-    "answers": [
-      "Sambo",
-      "Lutte",
-      "Jiu-jitsu",
-      "Capoeira"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q293",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quelle civilisation a construit Machu Picchu ?",
-    "answers": [
-      "Incas",
-      "Mayas",
-      "Olmèques",
-      "Aztèques"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q294",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quelle civilisation a construit Machu Picchu ?",
-    "answers": [
-      "Olmèques",
-      "Mayas",
-      "Incas",
-      "Aztèques"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q295",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est le plus grand carnaval du monde ?",
-    "answers": [
-      "Carnaval de Nice",
-      "Carnaval de Rio",
-      "Carnaval de Venise",
-      "Carnaval de Notting Hill"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q296",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est le plus ancien texte littéraire connu ?",
-    "answers": [
-      "L'Iliade",
-      "Le Livre des Morts",
-      "Le Rig-Véda",
-      "L'Épopée de Gilgamesh"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q297",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Dans quelle ville se trouve la bibliothèque d'Alexandrie reconstruite ?",
-    "answers": [
-      "Le Caire",
-      "Tunis",
-      "Athènes",
-      "Alexandrie"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q298",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel pays est à l'origine du théâtre Nô ?",
-    "answers": [
-      "Corée",
-      "Japon",
-      "Vietnam",
-      "Chine"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q299",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est l'instrument national de l'Écosse ?",
-    "answers": [
-      "Tin whistle",
-      "Violon",
-      "Cornemuse",
-      "Harpe"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q300",
-    "category": "Cultures",
-    "difficulty": "Difficile",
-    "text": "Quel est l'art martial traditionnel du Brésil ?",
-    "answers": [
-      "Sambo",
-      "Jiu-jitsu",
-      "Lutte",
-      "Capoeira"
-    ],
+    "text": "Quel est le nom de la fête tamoule des moissons célébrée notamment au Tamil Nadu, autour du mois de janvier ?",
+    "answers": ["Vesak", "Onam", "Diwali", "Pongal"],
     "correctIndex": 3
   }
 ]
