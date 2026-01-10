@@ -1,1637 +1,3902 @@
 [
   {
-    "id": "qAF1",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel fleuve est essentiel au développement de l’Égypte antique ?",
-    "answers": ["Tigre", "Nil", "Euphrate", "Jourdain"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF2",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel peuple antique a bâti les pyramides de Gizeh ?",
-    "answers": ["Les Grecs", "Les Romains", "Les Égyptiens", "Les Perses"],
-    "correctIndex": 2
-  },
-  {
-    "id": "qAF3",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle cité grecque est considérée comme le berceau de la démocratie ?",
-    "answers": ["Sparte", "Athènes", "Corinthe", "Thèbes"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF4",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel dieu grec est le roi de l’Olympe ?",
-    "answers": ["Poséidon", "Hadès", "Zeus", "Apollon"],
-    "correctIndex": 2
-  },
-  {
-    "id": "qAF5",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique a inventé l’écriture cunéiforme ?",
-    "answers": ["Égyptienne", "Sumérienne", "Phénicienne", "Hittite"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF6",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Qui est le fondateur légendaire de Rome ?",
-    "answers": ["Énée", "Romulus", "Rémus", "César"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF7",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel empereur romain a instauré la Pax Romana ?",
-    "answers": ["Néron", "Auguste", "Trajan", "Claude"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF8",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel héros grec est connu pour ses douze travaux ?",
-    "answers": ["Persée", "Ulysse", "Héraclès", "Achille"],
-    "correctIndex": 2
-  },
-  {
-    "id": "qAF9",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle ville antique a été ensevelie par le Vésuve en 79 ?",
-    "answers": ["Ostie", "Capoue", "Pompéi", "Tarente"],
-    "correctIndex": 2
-  },
-  {
-    "id": "qAF10",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel philosophe grec fut le maître d’Alexandre le Grand ?",
-    "answers": ["Socrate", "Platon", "Aristote", "Épicure"],
-    "correctIndex": 2
-  },
-
-  {
-    "id": "qAF11",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel peuple est à l’origine de l’alphabet utilisé par les Grecs ?",
-    "answers": ["Égyptiens", "Sumériens", "Phéniciens", "Assyriens"],
-    "correctIndex": 2
-  },
-  {
-    "id": "qAF12",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel dieu égyptien est associé au soleil ?",
-    "answers": ["Osiris", "Anubis", "Rê", "Horus"],
-    "correctIndex": 2
-  },
-  {
-    "id": "qAF13",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle cité grecque était célèbre pour son armée austère ?",
-    "answers": ["Athènes", "Sparte", "Argos", "Milet"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF14",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel général carthaginois traversa les Alpes avec des éléphants ?",
-    "answers": ["Hamilcar", "Hasdrubal", "Hannibal", "Magon"],
-    "correctIndex": 2
-  },
-  {
-    "id": "qAF15",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel monument romain accueillait les combats de gladiateurs ?",
-    "answers": ["Panthéon", "Forum", "Colisée", "Thermes"],
-    "correctIndex": 2
-  },
-
-  {
-    "id": "qAF16",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique a bâti Machu Picchu ?",
-    "answers": ["Mayas", "Aztèques", "Incas", "Olmèques"],
-    "correctIndex": 2
-  },
-  {
-    "id": "qAF17",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel dieu grec est le messager des dieux ?",
-    "answers": ["Hermès", "Arès", "Apollon", "Dionysos"],
-    "correctIndex": 0
-  },
-  {
-    "id": "qAF18",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle mer borde principalement la Grèce antique ?",
-    "answers": ["Mer Noire", "Mer Égée", "Mer Adriatique", "Mer Rouge"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF19",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel roi macédonien est le père d’Alexandre le Grand ?",
-    "answers": ["Antigone", "Cassandre", "Philippe II", "Perdiccas"],
-    "correctIndex": 2
-  },
-  {
-    "id": "qAF20",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique est associée à la cité de Babylone ?",
-    "answers": ["Assyrienne", "Babylonienne", "Perse", "Hittite"],
-    "correctIndex": 1
-  },
-
-  {
-    "id": "qAF21",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel dieu grec est associé à la mer ?",
-    "answers": ["Arès", "Hermès", "Poséidon", "Hadès"],
-    "correctIndex": 2
-  },
-  {
-    "id": "qAF22",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle écriture était utilisée par les Égyptiens ?",
-    "answers": ["Cunéiforme", "Hiéroglyphes", "Alphabet latin", "Runes"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF23",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle cité antique est célèbre pour son oracle d’Apollon ?",
-    "answers": ["Delphes", "Olympie", "Athènes", "Sparte"],
-    "correctIndex": 0
-  },
-  {
-    "id": "qAF24",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel empereur romain a déplacé la capitale à Constantinople ?",
-    "answers": ["Auguste", "Néron", "Constantin", "Trajan"],
-    "correctIndex": 2
-  },
-  {
-    "id": "qAF25",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel héros grec imagina le cheval de Troie ?",
-    "answers": ["Achille", "Ajax", "Ulysse", "Hector"],
-    "correctIndex": 2
-  },
-
-  {
-    "id": "qAF26",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle déesse grecque est associée à la sagesse ?",
-    "answers": ["Héra", "Athéna", "Artémis", "Aphrodite"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF27",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique est à l’origine des Jeux olympiques ?",
-    "answers": ["Romaine", "Égyptienne", "Grecque", "Perse"],
-    "correctIndex": 2
-  },
-  {
-    "id": "qAF28",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel dieu romain correspond à Zeus chez les Grecs ?",
-    "answers": ["Mars", "Jupiter", "Saturne", "Neptune"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF29",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom de la grande route romaine reliant Rome au sud de l’Italie ?",
-    "answers": ["Via Aurelia", "Via Appia", "Via Flaminia", "Via Claudia"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF30",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel pharaon est célèbre pour son masque funéraire en or ?",
-    "answers": ["Ramsès II", "Khéops", "Toutânkhamon", "Akhenaton"],
-    "correctIndex": 2
-  },
-
-  {
-    "id": "qAF31",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel peuple antique vivait principalement en Gaule avant la conquête romaine ?",
-    "answers": ["Ibères", "Celtes", "Germains", "Étrusques"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF32",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel dieu grec est associé au vin et aux fêtes ?",
-    "answers": ["Apollon", "Hermès", "Dionysos", "Arès"],
-    "correctIndex": 2
-  },
-  {
-    "id": "qAF33",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle bataille vit la victoire grecque contre les Perses en 490 av. J.-C. ?",
-    "answers": ["Salamine", "Platées", "Marathon", "Mycale"],
-    "correctIndex": 2
-  },
-  {
-    "id": "qAF34",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel dieu égyptien est associé à la momification ?",
-    "answers": ["Osiris", "Horus", "Anubis", "Rê"],
-    "correctIndex": 2
-  },
-  {
-    "id": "qAF35",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle cité antique est associée au Colosse, une des Sept Merveilles ?",
-    "answers": ["Alexandrie", "Olympie", "Rhodes", "Éphèse"],
-    "correctIndex": 2
-  },
-
-  {
-    "id": "qAF36",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel roi perse fonda l’Empire perse achéménide ?",
-    "answers": ["Xerxès Ier", "Darius Ier", "Cyrus II", "Artaxerxès"],
-    "correctIndex": 2
-  },
-  {
-    "id": "qAF37",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel dieu romain est le dieu de la guerre ?",
-    "answers": ["Jupiter", "Mars", "Neptune", "Pluton"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF38",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle cité antique était le centre de la civilisation minoenne ?",
-    "answers": ["Mycènes", "Athènes", "Knossos", "Sparte"],
-    "correctIndex": 2
-  },
-  {
-    "id": "qAF39",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom du temple grec dédié à Athéna à Athènes ?",
-    "answers": ["Panthéon", "Parthénon", "Érechthéion", "Stoa"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF40",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique est associée à la ville de Ninive ?",
-    "answers": ["Assyrienne", "Babylonienne", "Perse", "Hittite"],
-    "correctIndex": 0
-  },
-
-  {
-    "id": "qAF41",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel héros grec est connu pour son long voyage après la guerre de Troie ?",
-    "answers": ["Achille", "Ulysse", "Ajax", "Persée"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF42",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel empereur romain fit construire le mur en Bretagne du Nord ?",
-    "answers": ["Auguste", "Claude", "Hadrien", "Trajan"],
-    "correctIndex": 2
-  },
-  {
-    "id": "qAF43",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel dieu grec est associé aux enfers ?",
-    "answers": ["Hadès", "Zeus", "Hermès", "Apollon"],
-    "correctIndex": 0
-  },
-  {
-    "id": "qAF44",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique a développé la cité de Carthage ?",
-    "answers": ["Romaine", "Grecque", "Phénicienne", "Égyptienne"],
-    "correctIndex": 2
-  },
-  {
-    "id": "qAF45",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom du grand sanctuaire grec où se tenaient les Jeux olympiques ?",
-    "answers": ["Delphes", "Olympie", "Corinthe", "Éleusis"],
-    "correctIndex": 1
-  },
-
-  {
-    "id": "qAF46",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel empereur romain régna lors de l’éruption du Vésuve en 79 ?",
-    "answers": ["Vespasien", "Titus", "Néron", "Domitien"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF47",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel dieu grec est associé à la musique et à la lumière ?",
-    "answers": ["Hermès", "Apollon", "Arès", "Dionysos"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF48",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel peuple antique est associé aux ziggourats ?",
-    "answers": ["Égyptiens", "Sumériens", "Grecs", "Romains"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF49",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel roi spartiate mena la résistance aux Thermopyles ?",
-    "answers": ["Pausanias", "Agis", "Léonidas", "Lysandre"],
-    "correctIndex": 2
-  },
-  {
-    "id": "qAF50",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle grande bibliothèque antique se trouvait en Égypte ?",
-    "answers": ["Pergame", "Rome", "Alexandrie", "Athènes"],
-    "correctIndex": 2
-  }
-  {
-    "id": "qAF51",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle ville antique était la capitale de l’Égypte ptolémaïque ?",
-    "answers": ["Memphis", "Thèbes", "Alexandrie", "Héliopolis"],
-    "correctIndex": 2
-  },
-  {
-    "id": "qAF52",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel dieu grec est associé au feu et à la forge ?",
-    "answers": ["Arès", "Héphaïstos", "Apollon", "Hermès"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF53",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique est associée aux pharaons ?",
-    "answers": ["Mésopotamienne", "Égyptienne", "Perse", "Hittite"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF54",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom de la monnaie romaine la plus courante ?",
-    "answers": ["Drachme", "Denier", "Obole", "Statère"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF55",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle cité grecque est célèbre pour son oracle dédié à Apollon ?",
-    "answers": ["Delphes", "Athènes", "Thèbes", "Argos"],
-    "correctIndex": 0
-  },
-
-  {
-    "id": "qAF56",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel peuple antique a fondé la ville de Carthage ?",
-    "answers": ["Romains", "Grecs", "Phéniciens", "Égyptiens"],
-    "correctIndex": 2
-  },
-  {
-    "id": "qAF57",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel dieu grec est associé à la guerre ?",
-    "answers": ["Arès", "Hermès", "Apollon", "Poséidon"],
-    "correctIndex": 0
-  },
-  {
-    "id": "qAF58",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique est associée aux pyramides ?",
-    "answers": ["Grecque", "Romaine", "Égyptienne", "Perse"],
-    "correctIndex": 2
-  },
-  {
-    "id": "qAF59",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel général romain conquit la Gaule au Ier siècle av. J.-C. ?",
-    "answers": ["Pompée", "Jules César", "Auguste", "Crassus"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF60",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel dieu romain correspond à Arès chez les Grecs ?",
-    "answers": ["Mars", "Jupiter", "Saturne", "Mercure"],
-    "correctIndex": 0
-  },
-
-  {
-    "id": "qAF61",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique a bâti la cité de Persépolis ?",
-    "answers": ["Assyrienne", "Perse", "Babylonienne", "Hittite"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF62",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom du dieu égyptien des morts ?",
-    "answers": ["Horus", "Osiris", "Rê", "Seth"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF63",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle cité grecque est célèbre pour ses philosophes et orateurs ?",
-    "answers": ["Sparte", "Athènes", "Corinthe", "Delphes"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF64",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom du temple romain dédié à tous les dieux ?",
-    "answers": ["Colisée", "Forum", "Panthéon", "Basilique"],
-    "correctIndex": 2
-  },
-  {
-    "id": "qAF65",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique est associée à la ville de Troie ?",
-    "answers": ["Grecque", "Mycénienne", "Romaine", "Hittite"],
-    "correctIndex": 1
-  },
-
-  {
-    "id": "qAF66",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel héros grec tua la Méduse ?",
-    "answers": ["Héraclès", "Persée", "Thésée", "Achille"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF67",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel empereur romain fonda le Principat ?",
-    "answers": ["Néron", "Auguste", "Trajan", "Claude"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF68",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle écriture était gravée sur des tablettes d’argile en Mésopotamie ?",
-    "answers": ["Hiéroglyphes", "Alphabet phénicien", "Cunéiforme", "Alphabet grec"],
-    "correctIndex": 2
-  },
-  {
-    "id": "qAF69",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel dieu grec est associé au monde des morts ?",
-    "answers": ["Zeus", "Apollon", "Hadès", "Hermès"],
-    "correctIndex": 2
-  },
-  {
-    "id": "qAF70",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique est associée aux cités-États ?",
-    "answers": ["Romaine", "Grecque", "Perse", "Égyptienne"],
-    "correctIndex": 1
-  },
-
-  {
-    "id": "qAF71",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel roi babylonien est connu pour son célèbre code de lois ?",
-    "answers": ["Sargon", "Hammurabi", "Nabuchodonosor", "Assurbanipal"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF72",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle ville antique était la capitale de l’Empire assyrien ?",
-    "answers": ["Babylone", "Ur", "Ninive", "Uruk"],
-    "correctIndex": 2
-  },
-  {
-    "id": "qAF73",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel dieu grec est associé à l’amour ?",
-    "answers": ["Éros", "Hermès", "Arès", "Apollon"],
-    "correctIndex": 0
-  },
-  {
-    "id": "qAF74",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel monument grec servait aux représentations théâtrales ?",
-    "answers": ["Agora", "Théâtre", "Stade", "Temple"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF75",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel peuple antique vivait autour du Tigre et de l’Euphrate ?",
-    "answers": ["Égyptiens", "Mésopotamiens", "Grecs", "Romains"],
-    "correctIndex": 1
-  },
-
-  {
-    "id": "qAF76",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel empereur romain fit construire le Colisée ?",
-    "answers": ["Néron", "Titus", "Vespasien", "Domitien"],
-    "correctIndex": 2
-  },
-  {
-    "id": "qAF77",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle déesse grecque est associée à la chasse ?",
-    "answers": ["Athéna", "Artémis", "Héra", "Déméter"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF78",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom du grand marché central d’une cité grecque ?",
-    "answers": ["Forum", "Agora", "Acropole", "Stade"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF79",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel empereur romain a légalisé le christianisme ?",
-    "answers": ["Dioclétien", "Néron", "Constantin", "Auguste"],
-    "correctIndex": 2
-  },
-  {
-    "id": "qAF80",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel héros grec participa au voyage des Argonautes ?",
-    "answers": ["Ulysse", "Jason", "Persée", "Achille"],
-    "correctIndex": 1
-  },
-
-  {
-    "id": "qAF81",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique est associée au dieu Marduk ?",
-    "answers": ["Assyrienne", "Babylonienne", "Perse", "Hittite"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF82",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel dieu romain est le messager des dieux ?",
-    "answers": ["Mars", "Mercure", "Jupiter", "Saturne"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF83",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle cité grecque est associée aux Jeux olympiques antiques ?",
-    "answers": ["Athènes", "Delphes", "Olympie", "Corinthe"],
-    "correctIndex": 2
-  },
-  {
-    "id": "qAF84",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom de la vallée où étaient enterrés les pharaons du Nouvel Empire ?",
-    "answers": ["Vallée des Reines", "Vallée des Rois", "Delta du Nil", "Abou Simbel"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF85",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel peuple antique a développé la démocratie directe ?",
-    "answers": ["Romains", "Grecs", "Perses", "Égyptiens"],
-    "correctIndex": 1
-  },
-
-  {
-    "id": "qAF86",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel empereur romain est connu pour ses campagnes en Dacie ?",
-    "answers": ["Trajan", "Auguste", "Hadrien", "Claude"],
-    "correctIndex": 0
-  },
-  {
-    "id": "qAF87",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique est associée à l’épopée de Gilgamesh ?",
-    "answers": ["Égyptienne", "Sumérienne", "Grecque", "Romaine"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF88",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel dieu grec est associé au soleil ?",
-    "answers": ["Apollon", "Arès", "Hermès", "Hadès"],
-    "correctIndex": 0
-  },
-  {
-    "id": "qAF89",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle ville antique fut détruite à la fin des guerres puniques ?",
-    "answers": ["Syracuse", "Corinthe", "Carthage", "Utique"],
-    "correctIndex": 2
-  },
-  {
-    "id": "qAF90",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel dieu romain est associé aux enfers ?",
-    "answers": ["Pluton", "Mars", "Neptune", "Jupiter"],
-    "correctIndex": 0
-  },
-
-  {
-    "id": "qAF91",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel peuple antique est associé aux légions ?",
-    "answers": ["Grecs", "Romains", "Perses", "Celtes"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF92",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom du dieu grec du sommeil ?",
-    "answers": ["Thanatos", "Hypnos", "Morphée", "Phobos"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF93",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique est associée aux jardins suspendus ?",
-    "answers": ["Perse", "Babylonienne", "Assyrienne", "Égyptienne"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF94",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel roi macédonien conquit un immense empire jusqu’en Inde ?",
-    "answers": ["Philippe II", "Alexandre le Grand", "Antigone", "Cassandre"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF95",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel dieu grec est représenté avec un trident ?",
-    "answers": ["Zeus", "Arès", "Poséidon", "Hermès"],
-    "correctIndex": 2
-  },
-
-  {
-    "id": "qAF96",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel empereur romain est associé à la construction du Panthéon actuel ?",
-    "answers": ["Auguste", "Hadrien", "Trajan", "Domitien"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF97",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle déesse romaine est associée au foyer ?",
-    "answers": ["Junon", "Vesta", "Diane", "Minerve"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF98",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle cité grecque fut détruite par Rome en 146 av. J.-C. ?",
-    "answers": ["Delphes", "Sparte", "Corinthe", "Athènes"],
-    "correctIndex": 2
-  },
-  {
-    "id": "qAF99",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom du dieu grec du temps ?",
-    "answers": ["Kairos", "Chronos", "Hypnos", "Éros"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF100",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel empereur romain a divisé l’Empire en tétrarchie ?",
-    "answers": ["Auguste", "Dioclétien", "Constantin", "Hadrien"],
-    "correctIndex": 1
-  }
-  {
-    "id": "qAF101",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique est associée aux temples taillés dans la roche à Abou Simbel ?",
-    "answers": ["Nubienne", "Égyptienne", "Perse", "Hittite"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF102",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel dieu grec est associé aux enfers et aux richesses souterraines ?",
-    "answers": ["Hadès", "Hermès", "Arès", "Apollon"],
-    "correctIndex": 0
-  },
-  {
-    "id": "qAF103",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel peuple antique a inventé l’alphabet à l’origine du latin ?",
-    "answers": ["Grecs", "Phéniciens", "Étrusques", "Égyptiens"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF104",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle cité antique était célèbre pour son phare, l’une des Sept Merveilles du monde ?",
-    "answers": ["Rhodes", "Alexandrie", "Éphèse", "Babylone"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF105",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel roi babylonien fit construire les jardins suspendus selon la tradition ?",
-    "answers": ["Hammurabi", "Sargon", "Nabuchodonosor II", "Assurbanipal"],
-    "correctIndex": 2
-  },
-
-  {
-    "id": "qAF106",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle divinité grecque est associée à l’agriculture ?",
-    "answers": ["Héra", "Déméter", "Athéna", "Aphrodite"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF107",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel empereur romain est connu pour avoir incendié Rome selon la tradition ?",
-    "answers": ["Caligula", "Claude", "Néron", "Domitien"],
-    "correctIndex": 2
-  },
-  {
-    "id": "qAF108",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique est associée aux Hittites ?",
-    "answers": ["Anatolienne", "Grecque", "Égyptienne", "Perse"],
-    "correctIndex": 0
-  },
-  {
-    "id": "qAF109",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom du dieu romain du temps et des semailles ?",
-    "answers": ["Janus", "Saturne", "Pluton", "Mars"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF110",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle ville antique est associée à la bataille de Salamine ?",
-    "answers": ["Athènes", "Sparte", "Corinthe", "Thèbes"],
-    "correctIndex": 0
-  },
-
-  {
-    "id": "qAF111",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel héros grec est connu pour avoir fondé la lignée des rois de Troie ?",
-    "answers": ["Achille", "Énée", "Ulysse", "Hector"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF112",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel peuple antique est associé aux chars de guerre dans l’Antiquité proche-orientale ?",
-    "answers": ["Hittites", "Celtes", "Romains", "Grecs"],
-    "correctIndex": 0
-  },
-  {
-    "id": "qAF113",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel empereur romain est célèbre pour sa folie supposée ?",
-    "answers": ["Claude", "Caligula", "Titus", "Trajan"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF114",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle cité grecque est associée au théâtre d’Épidaure ?",
-    "answers": ["Argos", "Épidaure", "Athènes", "Corinthe"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF115",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel dieu égyptien est représenté avec une tête de faucon ?",
-    "answers": ["Rê", "Horus", "Anubis", "Seth"],
-    "correctIndex": 1
-  },
-
-  {
-    "id": "qAF116",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique est associée à la ville de Mycènes ?",
-    "answers": ["Minoenne", "Mycénienne", "Grecque classique", "Étrusque"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF117",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel empereur romain construisit un grand forum et une colonne à son nom ?",
-    "answers": ["Auguste", "Trajan", "Hadrien", "Titus"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF118",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom du grand poète grec auteur de l’Iliade et de l’Odyssée ?",
-    "answers": ["Hésiode", "Homère", "Sophocle", "Eschyle"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF119",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel dieu romain correspond à Hermès chez les Grecs ?",
-    "answers": ["Mercure", "Mars", "Saturne", "Apollon"],
-    "correctIndex": 0
-  },
-  {
-    "id": "qAF120",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique est associée à la ville de Jérusalem ?",
-    "answers": ["Cananéenne", "Hébraïque", "Phénicienne", "Égyptienne"],
-    "correctIndex": 1
-  },
-
-  {
-    "id": "qAF121",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom de la déesse grecque de la victoire ?",
-    "answers": ["Athéna", "Niké", "Héra", "Artémis"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF122",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel empereur romain fut assassiné aux Ides de mars en 44 av. J.-C. ?",
-    "answers": ["Auguste", "Jules César", "Pompée", "Marc Antoine"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF123",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique est associée au site de Stonehenge ?",
-    "answers": ["Celtes", "Romains", "Germains", "Grecs"],
-    "correctIndex": 0
-  },
-  {
-    "id": "qAF124",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom du dieu grec du ciel et du tonnerre ?",
-    "answers": ["Zeus", "Arès", "Poséidon", "Hermès"],
-    "correctIndex": 0
-  },
-  {
-    "id": "qAF125",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle ville antique était la capitale de l’Empire perse achéménide ?",
-    "answers": ["Babylone", "Suse", "Persépolis", "Ecbatane"],
-    "correctIndex": 2
-  },
-
-  {
-    "id": "qAF126",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel héros grec est célèbre pour sa force exceptionnelle ?",
-    "answers": ["Persée", "Héraclès", "Ulysse", "Achille"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF127",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel peuple antique est associé aux druides ?",
-    "answers": ["Celtes", "Romains", "Grecs", "Perses"],
-    "correctIndex": 0
-  },
-  {
-    "id": "qAF128",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel dieu grec est associé à la guérison ?",
-    "answers": ["Apollon", "Asclépios", "Hermès", "Dionysos"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF129",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel empereur romain est associé à la construction du mur en Germanie ?",
-    "answers": ["Auguste", "Hadrien", "Domitien", "Trajan"],
-    "correctIndex": 2
-  },
-  {
-    "id": "qAF130",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique est associée à la ville de Pétra ?",
-    "answers": ["Nabatéenne", "Hébraïque", "Perse", "Romaine"],
-    "correctIndex": 0
-  },
-
-  {
-    "id": "qAF131",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel dieu romain est associé aux portes et aux commencements ?",
-    "answers": ["Saturne", "Janus", "Pluton", "Mars"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF132",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle cité grecque est associée à la bataille des Thermopyles ?",
-    "answers": ["Athènes", "Corinthe", "Sparte", "Thèbes"],
-    "correctIndex": 2
-  },
-  {
-    "id": "qAF133",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom de la déesse égyptienne de la justice ?",
-    "answers": ["Isis", "Maât", "Hathor", "Nout"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF134",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel empereur romain est célèbre pour avoir déplacé la capitale à Byzance ?",
-    "answers": ["Auguste", "Constantin", "Dioclétien", "Hadrien"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF135",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique est associée au dieu Zeus ?",
-    "answers": ["Romaine", "Grecque", "Égyptienne", "Perse"],
-    "correctIndex": 1
-  },
-
-  {
-    "id": "qAF136",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom de la mer qui borde l’Égypte au nord ?",
-    "answers": ["Mer Rouge", "Mer Noire", "Mer Égée", "Mer Méditerranée"],
+    "id": "q1",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
+    "answers": [
+      "Poivron",
+      "Concombre",
+      "Courgette",
+      "Tomate"
+    ],
     "correctIndex": 3
   },
   {
-    "id": "qAF137",
-    "category": "Antiquité",
+    "id": "q2",
+    "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel empereur romain est connu pour ses réformes administratives et militaires ?",
-    "answers": ["Néron", "Dioclétien", "Caligula", "Claude"],
-    "correctIndex": 1
+    "text": "Quel est le plus petit pays du monde ?",
+    "answers": [
+      "Monaco",
+      "Saint-Marin",
+      "Nauru",
+      "Vatican"
+    ],
+    "correctIndex": 3
   },
   {
-    "id": "qAF138",
-    "category": "Antiquité",
+    "id": "q3",
+    "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle civilisation antique est associée au dieu Osiris ?",
-    "answers": ["Grecque", "Égyptienne", "Romaine", "Perse"],
-    "correctIndex": 1
+    "text": "Quel est le plus petit pays du monde ?",
+    "answers": [
+      "Vatican",
+      "Saint-Marin",
+      "Nauru",
+      "Monaco"
+    ],
+    "correctIndex": 0
   },
   {
-    "id": "qAF139",
-    "category": "Antiquité",
+    "id": "q4",
+    "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel héros grec tua le Minotaure ?",
-    "answers": ["Persée", "Héraclès", "Thésée", "Jason"],
+    "text": "Quel est le plus petit pays du monde ?",
+    "answers": [
+      "Monaco",
+      "Nauru",
+      "Saint-Marin",
+      "Vatican"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q5",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
+    "answers": [
+      "Chouette",
+      "Iguane",
+      "Perroquet",
+      "Serpent"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q6",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
+    "answers": [
+      "Venise",
+      "Bruges",
+      "Bangkok",
+      "Amsterdam"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q7",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle est la capitale la plus au nord du monde ?",
+    "answers": [
+      "Moscou",
+      "Helsinki",
+      "Reykjavik",
+      "Oslo"
+    ],
     "correctIndex": 2
   },
   {
-    "id": "qAF140",
-    "category": "Antiquité",
+    "id": "q8",
+    "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle cité antique est associée à la bibliothèque la plus célèbre de l’Antiquité ?",
-    "answers": ["Rome", "Pergame", "Alexandrie", "Athènes"],
-    "correctIndex": 2
-  },
-
-  {
-    "id": "qAF141",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel dieu grec est associé à la chasse et à la nature sauvage ?",
-    "answers": ["Athéna", "Artémis", "Héra", "Aphrodite"],
+    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
+    "answers": [
+      "Bruges",
+      "Venise",
+      "Amsterdam",
+      "Bangkok"
+    ],
     "correctIndex": 1
   },
   {
-    "id": "qAF142",
-    "category": "Antiquité",
+    "id": "q9",
+    "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel empereur romain construisit le Panthéon sous sa forme actuelle ?",
-    "answers": ["Auguste", "Hadrien", "Trajan", "Domitien"],
+    "text": "Quel objet est utilisé pour mesurer la température ?",
+    "answers": [
+      "Baromètre",
+      "Thermomètre",
+      "Altimètre",
+      "Hygromètre"
+    ],
     "correctIndex": 1
   },
   {
-    "id": "qAF143",
-    "category": "Antiquité",
+    "id": "q10",
+    "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle civilisation antique est associée au roi Crésus ?",
-    "answers": ["Lydienne", "Perse", "Grecque", "Phénicienne"],
-    "correctIndex": 0
-  },
-  {
-    "id": "qAF144",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom du dieu grec de la guerre ?",
-    "answers": ["Arès", "Hermès", "Apollon", "Poséidon"],
-    "correctIndex": 0
-  },
-  {
-    "id": "qAF145",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle cité antique est associée au temple d’Artémis, l’une des Sept Merveilles ?",
-    "answers": ["Éphèse", "Rhodes", "Olympie", "Delphes"],
-    "correctIndex": 0
-  },
-
-  {
-    "id": "qAF146",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom du dieu romain du ciel et de la foudre ?",
-    "answers": ["Mars", "Jupiter", "Saturne", "Neptune"],
+    "text": "Quel est l'aliment principal des pandas géants ?",
+    "answers": [
+      "Riz",
+      "Bambou",
+      "Eucalyptus",
+      "Herbe"
+    ],
     "correctIndex": 1
   },
   {
-    "id": "qAF147",
-    "category": "Antiquité",
+    "id": "q11",
+    "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle civilisation antique est associée au roi Salomon ?",
-    "answers": ["Hébraïque", "Assyrienne", "Babylonienne", "Égyptienne"],
-    "correctIndex": 0
+    "text": "Quel est l'aliment principal des pandas géants ?",
+    "answers": [
+      "Eucalyptus",
+      "Riz",
+      "Herbe",
+      "Bambou"
+    ],
+    "correctIndex": 3
   },
   {
-    "id": "qAF148",
-    "category": "Antiquité",
+    "id": "q12",
+    "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel dieu grec est représenté avec des ailes aux pieds ?",
-    "answers": ["Apollon", "Hermès", "Arès", "Dionysos"],
+    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
+    "answers": [
+      "Iguane",
+      "Chouette",
+      "Serpent",
+      "Perroquet"
+    ],
     "correctIndex": 1
   },
   {
-    "id": "qAF149",
-    "category": "Antiquité",
+    "id": "q13",
+    "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle cité antique est associée à la guerre de Troie ?",
-    "answers": ["Mycènes", "Troie", "Sparte", "Athènes"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF150",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel empereur romain est connu pour avoir fait assassiner Sénèque ?",
-    "answers": ["Claude", "Néron", "Domitien", "Caligula"],
-    "correctIndex": 1
-  }
-  {
-    "id": "qAF151",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel peuple antique est associé à la cité de Tyr ?",
-    "answers": ["Grec", "Romain", "Phénicien", "Perse"],
+    "text": "Quel est le plus petit pays du monde ?",
+    "answers": [
+      "Monaco",
+      "Nauru",
+      "Vatican",
+      "Saint-Marin"
+    ],
     "correctIndex": 2
   },
   {
-    "id": "qAF152",
-    "category": "Antiquité",
+    "id": "q14",
+    "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est le nom du dieu égyptien à tête de chacal ?",
-    "answers": ["Horus", "Rê", "Anubis", "Osiris"],
+    "text": "Quelle est la capitale la plus au nord du monde ?",
+    "answers": [
+      "Reykjavik",
+      "Moscou",
+      "Oslo",
+      "Helsinki"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q15",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal dort debout ?",
+    "answers": [
+      "Chat",
+      "Chien",
+      "Dauphin",
+      "Cheval"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q16",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
+    "answers": [
+      "Amsterdam",
+      "Bruges",
+      "Bangkok",
+      "Venise"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q17",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle mer est connue pour sa forte salinité ?",
+    "answers": [
+      "Mer Rouge",
+      "Mer Noire",
+      "Mer Morte",
+      "Mer Caspienne"
+    ],
     "correctIndex": 2
   },
   {
-    "id": "qAF153",
-    "category": "Antiquité",
+    "id": "q18",
+    "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle civilisation antique est associée aux Etrusques ?",
-    "answers": ["Ibérique", "Italique", "Grecque", "Celtique"],
+    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
+    "answers": [
+      "Jamaïque",
+      "Afrique du Sud",
+      "Inde",
+      "Brésil"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q19",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est l'aliment principal des pandas géants ?",
+    "answers": [
+      "Eucalyptus",
+      "Bambou",
+      "Riz",
+      "Herbe"
+    ],
     "correctIndex": 1
   },
   {
-    "id": "qAF154",
-    "category": "Antiquité",
+    "id": "q20",
+    "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel empereur romain est connu pour avoir fait construire un mur en Bretagne ?",
-    "answers": ["Claude", "Auguste", "Hadrien", "Trajan"],
+    "text": "Quel animal dort debout ?",
+    "answers": [
+      "Chat",
+      "Dauphin",
+      "Cheval",
+      "Chien"
+    ],
     "correctIndex": 2
   },
   {
-    "id": "qAF155",
-    "category": "Antiquité",
+    "id": "q21",
+    "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel héros grec est connu pour sa ruse plus que pour sa force ?",
-    "answers": ["Achille", "Héraclès", "Ulysse", "Ajax"],
-    "correctIndex": 2
-  },
-
-  {
-    "id": "qAF156",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique est associée au dieu Amon ?",
-    "answers": ["Grecque", "Égyptienne", "Romaine", "Perse"],
+    "text": "Quelle mer est connue pour sa forte salinité ?",
+    "answers": [
+      "Mer Noire",
+      "Mer Morte",
+      "Mer Caspienne",
+      "Mer Rouge"
+    ],
     "correctIndex": 1
   },
   {
-    "id": "qAF157",
-    "category": "Antiquité",
+    "id": "q22",
+    "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est le nom de la grande assemblée politique à Athènes ?",
-    "answers": ["Agora", "Ecclésia", "Boulè", "Stoa"],
+    "text": "Quel animal dort debout ?",
+    "answers": [
+      "Dauphin",
+      "Cheval",
+      "Chat",
+      "Chien"
+    ],
     "correctIndex": 1
   },
   {
-    "id": "qAF158",
-    "category": "Antiquité",
+    "id": "q23",
+    "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel empereur romain est associé à la dynastie julio-claudienne ?",
-    "answers": ["Trajan", "Hadrien", "Néron", "Dioclétien"],
-    "correctIndex": 2
-  },
-  {
-    "id": "qAF159",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique est associée à la ville d’Ur ?",
-    "answers": ["Assyrienne", "Babylonienne", "Sumérienne", "Perse"],
-    "correctIndex": 2
-  },
-  {
-    "id": "qAF160",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom du dieu grec des rêves ?",
-    "answers": ["Hypnos", "Thanatos", "Morphée", "Phobos"],
-    "correctIndex": 2
-  },
-
-  {
-    "id": "qAF161",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique est associée au dieu Jupiter ?",
-    "answers": ["Grecque", "Égyptienne", "Romaine", "Perse"],
+    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
+    "answers": [
+      "Brésil",
+      "Inde",
+      "Jamaïque",
+      "Afrique du Sud"
+    ],
     "correctIndex": 2
   },
   {
-    "id": "qAF162",
-    "category": "Antiquité",
+    "id": "q24",
+    "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel empereur romain est célèbre pour avoir donné son nom à un arc de triomphe à Rome ?",
-    "answers": ["Auguste", "Titus", "Trajan", "Claude"],
+    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
+    "answers": [
+      "Perroquet",
+      "Chouette",
+      "Serpent",
+      "Iguane"
+    ],
     "correctIndex": 1
   },
   {
-    "id": "qAF163",
-    "category": "Antiquité",
+    "id": "q25",
+    "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel peuple antique est associé à la Bible hébraïque ?",
-    "answers": ["Cananéens", "Hébreux", "Phéniciens", "Assyriens"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF164",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle cité grecque est associée au législateur Lycurgue ?",
-    "answers": ["Athènes", "Corinthe", "Sparte", "Thèbes"],
+    "text": "Quel animal dort debout ?",
+    "answers": [
+      "Chien",
+      "Chat",
+      "Cheval",
+      "Dauphin"
+    ],
     "correctIndex": 2
   },
   {
-    "id": "qAF165",
-    "category": "Antiquité",
+    "id": "q26",
+    "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel dieu romain est associé à la fertilité et à l’agriculture ?",
-    "answers": ["Mars", "Saturne", "Vesta", "Janus"],
-    "correctIndex": 1
-  },
-
-  {
-    "id": "qAF166",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique est associée à la cité de Byblos ?",
-    "answers": ["Assyrienne", "Phénicienne", "Grecque", "Égyptienne"],
-    "correctIndex": 1
+    "text": "Quel objet est utilisé pour mesurer la température ?",
+    "answers": [
+      "Altimètre",
+      "Baromètre",
+      "Hygromètre",
+      "Thermomètre"
+    ],
+    "correctIndex": 3
   },
   {
-    "id": "qAF167",
-    "category": "Antiquité",
+    "id": "q27",
+    "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est le nom du grand temple d’Apollon à Delphes ?",
-    "answers": ["Parthénon", "Temple de Zeus", "Temple d’Apollon", "Érechthéion"],
+    "text": "Quelle est la capitale la plus au nord du monde ?",
+    "answers": [
+      "Helsinki",
+      "Oslo",
+      "Reykjavik",
+      "Moscou"
+    ],
     "correctIndex": 2
   },
   {
-    "id": "qAF168",
-    "category": "Antiquité",
+    "id": "q28",
+    "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel empereur romain est connu pour sa politique de tolérance religieuse ?",
-    "answers": ["Dioclétien", "Néron", "Constantin", "Domitien"],
+    "text": "Quel est le plus petit pays du monde ?",
+    "answers": [
+      "Nauru",
+      "Vatican",
+      "Saint-Marin",
+      "Monaco"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q29",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est le plus petit pays du monde ?",
+    "answers": [
+      "Nauru",
+      "Saint-Marin",
+      "Monaco",
+      "Vatican"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q30",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est l'aliment principal des pandas géants ?",
+    "answers": [
+      "Herbe",
+      "Bambou",
+      "Riz",
+      "Eucalyptus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q31",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle mer est connue pour sa forte salinité ?",
+    "answers": [
+      "Mer Morte",
+      "Mer Caspienne",
+      "Mer Rouge",
+      "Mer Noire"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q32",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle mer est connue pour sa forte salinité ?",
+    "answers": [
+      "Mer Caspienne",
+      "Mer Morte",
+      "Mer Noire",
+      "Mer Rouge"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q33",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est le plus petit pays du monde ?",
+    "answers": [
+      "Vatican",
+      "Saint-Marin",
+      "Monaco",
+      "Nauru"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q34",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle est la capitale la plus au nord du monde ?",
+    "answers": [
+      "Moscou",
+      "Reykjavik",
+      "Helsinki",
+      "Oslo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q35",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle mer est connue pour sa forte salinité ?",
+    "answers": [
+      "Mer Morte",
+      "Mer Rouge",
+      "Mer Caspienne",
+      "Mer Noire"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q36",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est l'aliment principal des pandas géants ?",
+    "answers": [
+      "Riz",
+      "Herbe",
+      "Bambou",
+      "Eucalyptus"
+    ],
     "correctIndex": 2
   },
   {
-    "id": "qAF169",
-    "category": "Antiquité",
+    "id": "q37",
+    "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel héros grec est fils de Zeus et d’Alcmène ?",
-    "answers": ["Achille", "Héraclès", "Persée", "Thésée"],
+    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
+    "answers": [
+      "Amsterdam",
+      "Venise",
+      "Bangkok",
+      "Bruges"
+    ],
     "correctIndex": 1
   },
   {
-    "id": "qAF170",
-    "category": "Antiquité",
+    "id": "q38",
+    "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle civilisation antique est associée à la cité de Pergame ?",
-    "answers": ["Grecque", "Romaine", "Perse", "Égyptienne"],
+    "text": "Quel animal dort debout ?",
+    "answers": [
+      "Cheval",
+      "Dauphin",
+      "Chien",
+      "Chat"
+    ],
     "correctIndex": 0
   },
-
   {
-    "id": "qAF171",
-    "category": "Antiquité",
+    "id": "q39",
+    "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel dieu grec est associé à la vigne et au théâtre ?",
-    "answers": ["Apollon", "Dionysos", "Hermès", "Arès"],
+    "text": "Quelle est la capitale la plus au nord du monde ?",
+    "answers": [
+      "Moscou",
+      "Oslo",
+      "Helsinki",
+      "Reykjavik"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q40",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est l'aliment principal des pandas géants ?",
+    "answers": [
+      "Bambou",
+      "Riz",
+      "Herbe",
+      "Eucalyptus"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q41",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel objet est utilisé pour mesurer la température ?",
+    "answers": [
+      "Baromètre",
+      "Thermomètre",
+      "Hygromètre",
+      "Altimètre"
+    ],
     "correctIndex": 1
   },
   {
-    "id": "qAF172",
-    "category": "Antiquité",
+    "id": "q42",
+    "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel empereur romain est célèbre pour avoir fait restaurer Rome après un grand incendie ?",
-    "answers": ["Titus", "Domitien", "Néron", "Auguste"],
+    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
+    "answers": [
+      "Inde",
+      "Afrique du Sud",
+      "Brésil",
+      "Jamaïque"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q43",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
+    "answers": [
+      "Serpent",
+      "Chouette",
+      "Iguane",
+      "Perroquet"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q44",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
+    "answers": [
+      "Chouette",
+      "Perroquet",
+      "Iguane",
+      "Serpent"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q45",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
+    "answers": [
+      "Brésil",
+      "Jamaïque",
+      "Afrique du Sud",
+      "Inde"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q46",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel objet est utilisé pour mesurer la température ?",
+    "answers": [
+      "Hygromètre",
+      "Thermomètre",
+      "Baromètre",
+      "Altimètre"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q47",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
+    "answers": [
+      "Bangkok",
+      "Bruges",
+      "Amsterdam",
+      "Venise"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q48",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel objet est utilisé pour mesurer la température ?",
+    "answers": [
+      "Hygromètre",
+      "Altimètre",
+      "Thermomètre",
+      "Baromètre"
+    ],
     "correctIndex": 2
   },
   {
-    "id": "qAF173",
-    "category": "Antiquité",
+    "id": "q49",
+    "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle civilisation antique est associée au dieu Baal ?",
-    "answers": ["Phénicienne", "Égyptienne", "Grecque", "Romaine"],
-    "correctIndex": 0
-  },
-  {
-    "id": "qAF174",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel empereur romain est connu pour son règne juste et pacifique au IIe siècle ?",
-    "answers": ["Marc Aurèle", "Trajan", "Antonin le Pieux", "Hadrien"],
+    "text": "Quel objet est utilisé pour mesurer la température ?",
+    "answers": [
+      "Altimètre",
+      "Baromètre",
+      "Thermomètre",
+      "Hygromètre"
+    ],
     "correctIndex": 2
   },
   {
-    "id": "qAF175",
-    "category": "Antiquité",
+    "id": "q50",
+    "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est le nom du dieu grec des richesses ?",
-    "answers": ["Ploutos", "Hadès", "Hermès", "Éros"],
+    "text": "Quelle est la capitale la plus au nord du monde ?",
+    "answers": [
+      "Oslo",
+      "Moscou",
+      "Helsinki",
+      "Reykjavik"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q51",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel objet est utilisé pour mesurer la température ?",
+    "answers": [
+      "Altimètre",
+      "Thermomètre",
+      "Baromètre",
+      "Hygromètre"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q52",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle mer est connue pour sa forte salinité ?",
+    "answers": [
+      "Mer Noire",
+      "Mer Morte",
+      "Mer Rouge",
+      "Mer Caspienne"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q53",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est l'aliment principal des pandas géants ?",
+    "answers": [
+      "Eucalyptus",
+      "Riz",
+      "Herbe",
+      "Bambou"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q54",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
+    "answers": [
+      "Perroquet",
+      "Iguane",
+      "Serpent",
+      "Chouette"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q55",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
+    "answers": [
+      "Iguane",
+      "Serpent",
+      "Perroquet",
+      "Chouette"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q56",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est le plus petit pays du monde ?",
+    "answers": [
+      "Vatican",
+      "Saint-Marin",
+      "Nauru",
+      "Monaco"
+    ],
     "correctIndex": 0
   },
-
   {
-    "id": "qAF176",
-    "category": "Antiquité",
+    "id": "q57",
+    "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle civilisation antique est associée au site de Palmyre ?",
-    "answers": ["Romaine", "Grecque", "Syrienne", "Perse"],
+    "text": "Quel est l'aliment principal des pandas géants ?",
+    "answers": [
+      "Bambou",
+      "Herbe",
+      "Riz",
+      "Eucalyptus"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q58",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est le plus petit pays du monde ?",
+    "answers": [
+      "Saint-Marin",
+      "Monaco",
+      "Nauru",
+      "Vatican"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q59",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est l'aliment principal des pandas géants ?",
+    "answers": [
+      "Bambou",
+      "Eucalyptus",
+      "Herbe",
+      "Riz"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q60",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
+    "answers": [
+      "Inde",
+      "Brésil",
+      "Afrique du Sud",
+      "Jamaïque"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q61",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
+    "answers": [
+      "Chouette",
+      "Serpent",
+      "Perroquet",
+      "Iguane"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q62",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
+    "answers": [
+      "Serpent",
+      "Chouette",
+      "Perroquet",
+      "Iguane"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q63",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est le plus petit pays du monde ?",
+    "answers": [
+      "Vatican",
+      "Nauru",
+      "Monaco",
+      "Saint-Marin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q64",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel objet est utilisé pour mesurer la température ?",
+    "answers": [
+      "Baromètre",
+      "Thermomètre",
+      "Altimètre",
+      "Hygromètre"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q65",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal dort debout ?",
+    "answers": [
+      "Chien",
+      "Dauphin",
+      "Chat",
+      "Cheval"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q66",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
+    "answers": [
+      "Tomate",
+      "Poivron",
+      "Courgette",
+      "Concombre"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q67",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
+    "answers": [
+      "Inde",
+      "Jamaïque",
+      "Brésil",
+      "Afrique du Sud"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q68",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
+    "answers": [
+      "Perroquet",
+      "Serpent",
+      "Iguane",
+      "Chouette"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q69",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel objet est utilisé pour mesurer la température ?",
+    "answers": [
+      "Thermomètre",
+      "Altimètre",
+      "Baromètre",
+      "Hygromètre"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q70",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle mer est connue pour sa forte salinité ?",
+    "answers": [
+      "Mer Rouge",
+      "Mer Morte",
+      "Mer Noire",
+      "Mer Caspienne"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q71",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
+    "answers": [
+      "Perroquet",
+      "Iguane",
+      "Chouette",
+      "Serpent"
+    ],
     "correctIndex": 2
   },
   {
-    "id": "qAF177",
-    "category": "Antiquité",
+    "id": "q72",
+    "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel empereur romain est célèbre pour sa philosophie stoïcienne ?",
-    "answers": ["Marc Aurèle", "Trajan", "Hadrien", "Claude"],
+    "text": "Quelle mer est connue pour sa forte salinité ?",
+    "answers": [
+      "Mer Noire",
+      "Mer Rouge",
+      "Mer Caspienne",
+      "Mer Morte"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q73",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal dort debout ?",
+    "answers": [
+      "Cheval",
+      "Chien",
+      "Dauphin",
+      "Chat"
+    ],
     "correctIndex": 0
   },
   {
-    "id": "qAF178",
-    "category": "Antiquité",
+    "id": "q74",
+    "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle cité antique est associée au sanctuaire d’Éleusis ?",
-    "answers": ["Athènes", "Sparte", "Corinthe", "Delphes"],
+    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
+    "answers": [
+      "Chouette",
+      "Iguane",
+      "Perroquet",
+      "Serpent"
+    ],
     "correctIndex": 0
   },
   {
-    "id": "qAF179",
-    "category": "Antiquité",
+    "id": "q75",
+    "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel dieu romain est associé au commerce ?",
-    "answers": ["Mercure", "Mars", "Saturne", "Pluton"],
+    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
+    "answers": [
+      "Chouette",
+      "Serpent",
+      "Iguane",
+      "Perroquet"
+    ],
     "correctIndex": 0
   },
   {
-    "id": "qAF180",
-    "category": "Antiquité",
+    "id": "q76",
+    "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle civilisation antique est associée à la reine Zénobie ?",
-    "answers": ["Romaine", "Palmyrénienne", "Perse", "Égyptienne"],
-    "correctIndex": 1
-  },
-
-  {
-    "id": "qAF181",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom du grand fleuve de Mésopotamie avec l’Euphrate ?",
-    "answers": ["Nil", "Tigre", "Jourdain", "Indus"],
-    "correctIndex": 1
+    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
+    "answers": [
+      "Bangkok",
+      "Amsterdam",
+      "Bruges",
+      "Venise"
+    ],
+    "correctIndex": 3
   },
   {
-    "id": "qAF182",
-    "category": "Antiquité",
+    "id": "q77",
+    "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel empereur romain est connu pour avoir construit de nombreux thermes ?",
-    "answers": ["Caracalla", "Auguste", "Claude", "Titus"],
+    "text": "Quelle est la capitale la plus au nord du monde ?",
+    "answers": [
+      "Reykjavik",
+      "Helsinki",
+      "Moscou",
+      "Oslo"
+    ],
     "correctIndex": 0
   },
   {
-    "id": "qAF183",
-    "category": "Antiquité",
+    "id": "q78",
+    "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle civilisation antique est associée à la ville de Lagash ?",
-    "answers": ["Sumérienne", "Assyrienne", "Babylonienne", "Perse"],
+    "text": "Quelle mer est connue pour sa forte salinité ?",
+    "answers": [
+      "Mer Rouge",
+      "Mer Caspienne",
+      "Mer Noire",
+      "Mer Morte"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q79",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
+    "answers": [
+      "Concombre",
+      "Courgette",
+      "Tomate",
+      "Poivron"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q80",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel objet est utilisé pour mesurer la température ?",
+    "answers": [
+      "Altimètre",
+      "Hygromètre",
+      "Thermomètre",
+      "Baromètre"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q81",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
+    "answers": [
+      "Perroquet",
+      "Iguane",
+      "Serpent",
+      "Chouette"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q82",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est le plus petit pays du monde ?",
+    "answers": [
+      "Saint-Marin",
+      "Nauru",
+      "Vatican",
+      "Monaco"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q83",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
+    "answers": [
+      "Chouette",
+      "Perroquet",
+      "Iguane",
+      "Serpent"
+    ],
     "correctIndex": 0
   },
   {
-    "id": "qAF184",
-    "category": "Antiquité",
+    "id": "q84",
+    "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel dieu grec est associé à la médecine ?",
-    "answers": ["Asclépios", "Apollon", "Hermès", "Arès"],
-    "correctIndex": 0
-  },
-  {
-    "id": "qAF185",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique est associée au roi Darius Ier ?",
-    "answers": ["Perse", "Grecque", "Égyptienne", "Romaine"],
-    "correctIndex": 0
-  },
-
-  {
-    "id": "qAF186",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel est le nom de la déesse grecque du foyer ?",
-    "answers": ["Héra", "Hestia", "Athéna", "Artémis"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF187",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel empereur romain est célèbre pour avoir fait assassiner son frère Geta ?",
-    "answers": ["Caracalla", "Commode", "Néron", "Domitien"],
-    "correctIndex": 0
-  },
-  {
-    "id": "qAF188",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique est associée à la cité de Sidon ?",
-    "answers": ["Phénicienne", "Grecque", "Romaine", "Assyrienne"],
-    "correctIndex": 0
-  },
-  {
-    "id": "qAF189",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel dieu grec est associé à la peur ?",
-    "answers": ["Phobos", "Arès", "Hadès", "Hermès"],
-    "correctIndex": 0
-  },
-  {
-    "id": "qAF190",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique est associée à la ville de Thèbes en Égypte ?",
-    "answers": ["Nubienne", "Égyptienne", "Grecque", "Perse"],
-    "correctIndex": 1
-  },
-
-  {
-    "id": "qAF191",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel empereur romain est connu pour son règne cruel et autoritaire au Ier siècle ?",
-    "answers": ["Domitien", "Titus", "Claude", "Trajan"],
-    "correctIndex": 0
-  },
-  {
-    "id": "qAF192",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique est associée au dieu Mithra ?",
-    "answers": ["Perse", "Grecque", "Égyptienne", "Romaine"],
-    "correctIndex": 0
-  },
-  {
-    "id": "qAF193",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel dieu grec est associé à la vengeance et à la justice divine ?",
-    "answers": ["Némésis", "Athéna", "Héra", "Artémis"],
-    "correctIndex": 0
-  },
-  {
-    "id": "qAF194",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique est associée à la ville de Suse ?",
-    "answers": ["Perse", "Babylonienne", "Assyrienne", "Hittite"],
-    "correctIndex": 0
-  },
-  {
-    "id": "qAF195",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel empereur romain est connu pour avoir accordé la citoyenneté romaine à tous les hommes libres ?",
-    "answers": ["Caracalla", "Auguste", "Dioclétien", "Constantin"],
-    "correctIndex": 0
-  },
-
-  {
-    "id": "qAF196",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique est associée à la cité de Hattusa ?",
-    "answers": ["Assyrienne", "Hittite", "Perse", "Babylonienne"],
-    "correctIndex": 1
-  },
-  {
-    "id": "qAF197",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quel dieu grec est associé au sommeil éternel et à la mort douce ?",
-    "answers": ["Hypnos", "Thanatos", "Morphée", "Hadès"],
+    "text": "Quel objet est utilisé pour mesurer la température ?",
+    "answers": [
+      "Hygromètre",
+      "Thermomètre",
+      "Altimètre",
+      "Baromètre"
+    ],
     "correctIndex": 1
   },
   {
-    "id": "qAF198",
-    "category": "Antiquité",
+    "id": "q85",
+    "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle civilisation antique est associée à la ville de Byzance ?",
-    "answers": ["Grecque", "Romaine", "Perse", "Phénicienne"],
+    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
+    "answers": [
+      "Serpent",
+      "Iguane",
+      "Chouette",
+      "Perroquet"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q86",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est le plus petit pays du monde ?",
+    "answers": [
+      "Vatican",
+      "Nauru",
+      "Saint-Marin",
+      "Monaco"
+    ],
     "correctIndex": 0
   },
   {
-    "id": "qAF199",
-    "category": "Antiquité",
+    "id": "q87",
+    "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel empereur romain est connu pour sa politique de grands travaux à Rome au Ier siècle ?",
-    "answers": ["Auguste", "Néron", "Claude", "Domitien"],
-    "correctIndex": 0
-  },
-  {
-    "id": "qAF200",
-    "category": "Antiquité",
-    "difficulty": "Facile",
-    "text": "Quelle civilisation antique est associée à la cité de Troie selon l’épopée homérique ?",
-    "answers": ["Mycénienne", "Troyenne", "Hittite", "Grecque"],
+    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
+    "answers": [
+      "Bangkok",
+      "Venise",
+      "Amsterdam",
+      "Bruges"
+    ],
     "correctIndex": 1
+  },
+  {
+    "id": "q88",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
+    "answers": [
+      "Bruges",
+      "Bangkok",
+      "Venise",
+      "Amsterdam"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q89",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
+    "answers": [
+      "Afrique du Sud",
+      "Jamaïque",
+      "Brésil",
+      "Inde"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q90",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est l'aliment principal des pandas géants ?",
+    "answers": [
+      "Bambou",
+      "Herbe",
+      "Eucalyptus",
+      "Riz"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q91",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal dort debout ?",
+    "answers": [
+      "Chien",
+      "Cheval",
+      "Dauphin",
+      "Chat"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q92",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
+    "answers": [
+      "Serpent",
+      "Chouette",
+      "Perroquet",
+      "Iguane"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q93",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
+    "answers": [
+      "Bruges",
+      "Venise",
+      "Amsterdam",
+      "Bangkok"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q94",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est l'aliment principal des pandas géants ?",
+    "answers": [
+      "Herbe",
+      "Bambou",
+      "Riz",
+      "Eucalyptus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q95",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
+    "answers": [
+      "Concombre",
+      "Poivron",
+      "Tomate",
+      "Courgette"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q96",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal dort debout ?",
+    "answers": [
+      "Cheval",
+      "Chien",
+      "Chat",
+      "Dauphin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q97",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
+    "answers": [
+      "Amsterdam",
+      "Bangkok",
+      "Venise",
+      "Bruges"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q98",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle mer est connue pour sa forte salinité ?",
+    "answers": [
+      "Mer Rouge",
+      "Mer Morte",
+      "Mer Caspienne",
+      "Mer Noire"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q99",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal dort debout ?",
+    "answers": [
+      "Cheval",
+      "Chat",
+      "Chien",
+      "Dauphin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q100",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle mer est connue pour sa forte salinité ?",
+    "answers": [
+      "Mer Morte",
+      "Mer Noire",
+      "Mer Rouge",
+      "Mer Caspienne"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q101",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel objet est utilisé pour mesurer la température ?",
+    "answers": [
+      "Baromètre",
+      "Thermomètre",
+      "Hygromètre",
+      "Altimètre"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q102",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel objet est utilisé pour mesurer la température ?",
+    "answers": [
+      "Altimètre",
+      "Hygromètre",
+      "Baromètre",
+      "Thermomètre"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q103",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
+    "answers": [
+      "Perroquet",
+      "Serpent",
+      "Chouette",
+      "Iguane"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q104",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal dort debout ?",
+    "answers": [
+      "Cheval",
+      "Dauphin",
+      "Chat",
+      "Chien"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q105",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est le plus petit pays du monde ?",
+    "answers": [
+      "Nauru",
+      "Vatican",
+      "Monaco",
+      "Saint-Marin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q106",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
+    "answers": [
+      "Concombre",
+      "Poivron",
+      "Tomate",
+      "Courgette"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q107",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle mer est connue pour sa forte salinité ?",
+    "answers": [
+      "Mer Noire",
+      "Mer Rouge",
+      "Mer Caspienne",
+      "Mer Morte"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q108",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle est la capitale la plus au nord du monde ?",
+    "answers": [
+      "Moscou",
+      "Oslo",
+      "Reykjavik",
+      "Helsinki"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q109",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle mer est connue pour sa forte salinité ?",
+    "answers": [
+      "Mer Morte",
+      "Mer Noire",
+      "Mer Rouge",
+      "Mer Caspienne"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q110",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
+    "answers": [
+      "Bruges",
+      "Bangkok",
+      "Amsterdam",
+      "Venise"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q111",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
+    "answers": [
+      "Courgette",
+      "Concombre",
+      "Poivron",
+      "Tomate"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q112",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel objet est utilisé pour mesurer la température ?",
+    "answers": [
+      "Baromètre",
+      "Hygromètre",
+      "Thermomètre",
+      "Altimètre"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q113",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est l'aliment principal des pandas géants ?",
+    "answers": [
+      "Herbe",
+      "Eucalyptus",
+      "Riz",
+      "Bambou"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q114",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est l'aliment principal des pandas géants ?",
+    "answers": [
+      "Eucalyptus",
+      "Herbe",
+      "Bambou",
+      "Riz"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q115",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle mer est connue pour sa forte salinité ?",
+    "answers": [
+      "Mer Rouge",
+      "Mer Noire",
+      "Mer Morte",
+      "Mer Caspienne"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q116",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est le plus petit pays du monde ?",
+    "answers": [
+      "Monaco",
+      "Vatican",
+      "Saint-Marin",
+      "Nauru"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q117",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
+    "answers": [
+      "Tomate",
+      "Courgette",
+      "Concombre",
+      "Poivron"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q118",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle mer est connue pour sa forte salinité ?",
+    "answers": [
+      "Mer Caspienne",
+      "Mer Morte",
+      "Mer Rouge",
+      "Mer Noire"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q119",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
+    "answers": [
+      "Bangkok",
+      "Bruges",
+      "Amsterdam",
+      "Venise"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q120",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
+    "answers": [
+      "Iguane",
+      "Serpent",
+      "Chouette",
+      "Perroquet"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q121",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
+    "answers": [
+      "Poivron",
+      "Courgette",
+      "Concombre",
+      "Tomate"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q122",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
+    "answers": [
+      "Concombre",
+      "Courgette",
+      "Poivron",
+      "Tomate"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q123",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel objet est utilisé pour mesurer la température ?",
+    "answers": [
+      "Hygromètre",
+      "Thermomètre",
+      "Altimètre",
+      "Baromètre"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q124",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
+    "answers": [
+      "Serpent",
+      "Iguane",
+      "Perroquet",
+      "Chouette"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q125",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
+    "answers": [
+      "Chouette",
+      "Perroquet",
+      "Iguane",
+      "Serpent"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q126",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
+    "answers": [
+      "Poivron",
+      "Tomate",
+      "Concombre",
+      "Courgette"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q127",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est l'aliment principal des pandas géants ?",
+    "answers": [
+      "Bambou",
+      "Herbe",
+      "Eucalyptus",
+      "Riz"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q128",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
+    "answers": [
+      "Jamaïque",
+      "Afrique du Sud",
+      "Brésil",
+      "Inde"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q129",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel objet est utilisé pour mesurer la température ?",
+    "answers": [
+      "Hygromètre",
+      "Baromètre",
+      "Thermomètre",
+      "Altimètre"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q130",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est l'aliment principal des pandas géants ?",
+    "answers": [
+      "Herbe",
+      "Eucalyptus",
+      "Bambou",
+      "Riz"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q131",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est l'aliment principal des pandas géants ?",
+    "answers": [
+      "Riz",
+      "Eucalyptus",
+      "Herbe",
+      "Bambou"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q132",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle mer est connue pour sa forte salinité ?",
+    "answers": [
+      "Mer Noire",
+      "Mer Caspienne",
+      "Mer Rouge",
+      "Mer Morte"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q133",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est l'aliment principal des pandas géants ?",
+    "answers": [
+      "Riz",
+      "Bambou",
+      "Herbe",
+      "Eucalyptus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q134",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est l'aliment principal des pandas géants ?",
+    "answers": [
+      "Riz",
+      "Eucalyptus",
+      "Bambou",
+      "Herbe"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q135",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
+    "answers": [
+      "Venise",
+      "Amsterdam",
+      "Bangkok",
+      "Bruges"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q136",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
+    "answers": [
+      "Chouette",
+      "Iguane",
+      "Perroquet",
+      "Serpent"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q137",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est l'aliment principal des pandas géants ?",
+    "answers": [
+      "Herbe",
+      "Bambou",
+      "Riz",
+      "Eucalyptus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q138",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle est la capitale la plus au nord du monde ?",
+    "answers": [
+      "Moscou",
+      "Reykjavik",
+      "Oslo",
+      "Helsinki"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q139",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est le plus petit pays du monde ?",
+    "answers": [
+      "Vatican",
+      "Nauru",
+      "Saint-Marin",
+      "Monaco"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q140",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
+    "answers": [
+      "Bruges",
+      "Bangkok",
+      "Amsterdam",
+      "Venise"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q141",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est le plus petit pays du monde ?",
+    "answers": [
+      "Nauru",
+      "Vatican",
+      "Monaco",
+      "Saint-Marin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q142",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
+    "answers": [
+      "Bangkok",
+      "Amsterdam",
+      "Venise",
+      "Bruges"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q143",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est l'aliment principal des pandas géants ?",
+    "answers": [
+      "Eucalyptus",
+      "Herbe",
+      "Riz",
+      "Bambou"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q144",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est le plus petit pays du monde ?",
+    "answers": [
+      "Vatican",
+      "Nauru",
+      "Monaco",
+      "Saint-Marin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q145",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
+    "answers": [
+      "Inde",
+      "Jamaïque",
+      "Afrique du Sud",
+      "Brésil"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q146",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
+    "answers": [
+      "Iguane",
+      "Serpent",
+      "Perroquet",
+      "Chouette"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q147",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel objet est utilisé pour mesurer la température ?",
+    "answers": [
+      "Altimètre",
+      "Thermomètre",
+      "Hygromètre",
+      "Baromètre"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q148",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel objet est utilisé pour mesurer la température ?",
+    "answers": [
+      "Thermomètre",
+      "Altimètre",
+      "Hygromètre",
+      "Baromètre"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q149",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
+    "answers": [
+      "Courgette",
+      "Poivron",
+      "Concombre",
+      "Tomate"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q150",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle est la capitale la plus au nord du monde ?",
+    "answers": [
+      "Moscou",
+      "Reykjavik",
+      "Oslo",
+      "Helsinki"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q151",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est le plus petit pays du monde ?",
+    "answers": [
+      "Nauru",
+      "Saint-Marin",
+      "Monaco",
+      "Vatican"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q152",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
+    "answers": [
+      "Amsterdam",
+      "Bangkok",
+      "Bruges",
+      "Venise"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q153",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
+    "answers": [
+      "Brésil",
+      "Inde",
+      "Jamaïque",
+      "Afrique du Sud"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q154",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel objet est utilisé pour mesurer la température ?",
+    "answers": [
+      "Altimètre",
+      "Baromètre",
+      "Hygromètre",
+      "Thermomètre"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q155",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
+    "answers": [
+      "Venise",
+      "Bangkok",
+      "Amsterdam",
+      "Bruges"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q156",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle est la capitale la plus au nord du monde ?",
+    "answers": [
+      "Helsinki",
+      "Oslo",
+      "Moscou",
+      "Reykjavik"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q157",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
+    "answers": [
+      "Serpent",
+      "Perroquet",
+      "Chouette",
+      "Iguane"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q158",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
+    "answers": [
+      "Iguane",
+      "Perroquet",
+      "Chouette",
+      "Serpent"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q159",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle est la capitale la plus au nord du monde ?",
+    "answers": [
+      "Helsinki",
+      "Reykjavik",
+      "Moscou",
+      "Oslo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q160",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est le plus petit pays du monde ?",
+    "answers": [
+      "Saint-Marin",
+      "Nauru",
+      "Vatican",
+      "Monaco"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q161",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel objet est utilisé pour mesurer la température ?",
+    "answers": [
+      "Altimètre",
+      "Thermomètre",
+      "Hygromètre",
+      "Baromètre"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q162",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est l'aliment principal des pandas géants ?",
+    "answers": [
+      "Riz",
+      "Herbe",
+      "Eucalyptus",
+      "Bambou"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q163",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle mer est connue pour sa forte salinité ?",
+    "answers": [
+      "Mer Noire",
+      "Mer Caspienne",
+      "Mer Morte",
+      "Mer Rouge"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q164",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
+    "answers": [
+      "Tomate",
+      "Poivron",
+      "Courgette",
+      "Concombre"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q165",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
+    "answers": [
+      "Serpent",
+      "Perroquet",
+      "Iguane",
+      "Chouette"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q166",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal dort debout ?",
+    "answers": [
+      "Dauphin",
+      "Chien",
+      "Cheval",
+      "Chat"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q167",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
+    "answers": [
+      "Perroquet",
+      "Chouette",
+      "Serpent",
+      "Iguane"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q168",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle mer est connue pour sa forte salinité ?",
+    "answers": [
+      "Mer Noire",
+      "Mer Caspienne",
+      "Mer Morte",
+      "Mer Rouge"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q169",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
+    "answers": [
+      "Inde",
+      "Brésil",
+      "Jamaïque",
+      "Afrique du Sud"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q170",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est le plus petit pays du monde ?",
+    "answers": [
+      "Saint-Marin",
+      "Nauru",
+      "Vatican",
+      "Monaco"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q171",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
+    "answers": [
+      "Chouette",
+      "Iguane",
+      "Serpent",
+      "Perroquet"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q172",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
+    "answers": [
+      "Tomate",
+      "Concombre",
+      "Poivron",
+      "Courgette"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q173",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
+    "answers": [
+      "Poivron",
+      "Courgette",
+      "Concombre",
+      "Tomate"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q174",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est le plus petit pays du monde ?",
+    "answers": [
+      "Saint-Marin",
+      "Nauru",
+      "Vatican",
+      "Monaco"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q175",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle est la capitale la plus au nord du monde ?",
+    "answers": [
+      "Reykjavik",
+      "Helsinki",
+      "Oslo",
+      "Moscou"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q176",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est l'aliment principal des pandas géants ?",
+    "answers": [
+      "Eucalyptus",
+      "Riz",
+      "Herbe",
+      "Bambou"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q177",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
+    "answers": [
+      "Bangkok",
+      "Venise",
+      "Amsterdam",
+      "Bruges"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q178",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal dort debout ?",
+    "answers": [
+      "Dauphin",
+      "Cheval",
+      "Chien",
+      "Chat"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q179",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
+    "answers": [
+      "Perroquet",
+      "Iguane",
+      "Serpent",
+      "Chouette"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q180",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
+    "answers": [
+      "Iguane",
+      "Chouette",
+      "Serpent",
+      "Perroquet"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q181",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel objet est utilisé pour mesurer la température ?",
+    "answers": [
+      "Hygromètre",
+      "Baromètre",
+      "Altimètre",
+      "Thermomètre"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q182",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel objet est utilisé pour mesurer la température ?",
+    "answers": [
+      "Hygromètre",
+      "Altimètre",
+      "Thermomètre",
+      "Baromètre"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q183",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est l'aliment principal des pandas géants ?",
+    "answers": [
+      "Riz",
+      "Eucalyptus",
+      "Bambou",
+      "Herbe"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q184",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle mer est connue pour sa forte salinité ?",
+    "answers": [
+      "Mer Morte",
+      "Mer Caspienne",
+      "Mer Rouge",
+      "Mer Noire"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q185",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
+    "answers": [
+      "Jamaïque",
+      "Inde",
+      "Afrique du Sud",
+      "Brésil"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q186",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal dort debout ?",
+    "answers": [
+      "Cheval",
+      "Chat",
+      "Chien",
+      "Dauphin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q187",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
+    "answers": [
+      "Amsterdam",
+      "Bruges",
+      "Venise",
+      "Bangkok"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q188",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel objet est utilisé pour mesurer la température ?",
+    "answers": [
+      "Altimètre",
+      "Baromètre",
+      "Hygromètre",
+      "Thermomètre"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q189",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal dort debout ?",
+    "answers": [
+      "Chien",
+      "Chat",
+      "Cheval",
+      "Dauphin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q190",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est l'aliment principal des pandas géants ?",
+    "answers": [
+      "Bambou",
+      "Eucalyptus",
+      "Herbe",
+      "Riz"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q191",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
+    "answers": [
+      "Chouette",
+      "Serpent",
+      "Perroquet",
+      "Iguane"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q192",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
+    "answers": [
+      "Concombre",
+      "Tomate",
+      "Poivron",
+      "Courgette"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q193",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est le plus petit pays du monde ?",
+    "answers": [
+      "Saint-Marin",
+      "Vatican",
+      "Monaco",
+      "Nauru"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q194",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
+    "answers": [
+      "Poivron",
+      "Tomate",
+      "Concombre",
+      "Courgette"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q195",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle mer est connue pour sa forte salinité ?",
+    "answers": [
+      "Mer Rouge",
+      "Mer Noire",
+      "Mer Morte",
+      "Mer Caspienne"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q196",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle mer est connue pour sa forte salinité ?",
+    "answers": [
+      "Mer Noire",
+      "Mer Morte",
+      "Mer Rouge",
+      "Mer Caspienne"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q197",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
+    "answers": [
+      "Jamaïque",
+      "Inde",
+      "Brésil",
+      "Afrique du Sud"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q198",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle est la capitale la plus au nord du monde ?",
+    "answers": [
+      "Moscou",
+      "Helsinki",
+      "Reykjavik",
+      "Oslo"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q199",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle mer est connue pour sa forte salinité ?",
+    "answers": [
+      "Mer Morte",
+      "Mer Rouge",
+      "Mer Noire",
+      "Mer Caspienne"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q200",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle est la capitale la plus au nord du monde ?",
+    "answers": [
+      "Helsinki",
+      "Moscou",
+      "Oslo",
+      "Reykjavik"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q201",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
+    "answers": [
+      "Concombre",
+      "Tomate",
+      "Poivron",
+      "Courgette"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q202",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est le plus petit pays du monde ?",
+    "answers": [
+      "Monaco",
+      "Saint-Marin",
+      "Vatican",
+      "Nauru"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q203",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
+    "answers": [
+      "Brésil",
+      "Jamaïque",
+      "Afrique du Sud",
+      "Inde"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q204",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
+    "answers": [
+      "Inde",
+      "Jamaïque",
+      "Afrique du Sud",
+      "Brésil"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q205",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle est la capitale la plus au nord du monde ?",
+    "answers": [
+      "Helsinki",
+      "Moscou",
+      "Reykjavik",
+      "Oslo"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q206",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel objet est utilisé pour mesurer la température ?",
+    "answers": [
+      "Altimètre",
+      "Baromètre",
+      "Hygromètre",
+      "Thermomètre"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q207",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle mer est connue pour sa forte salinité ?",
+    "answers": [
+      "Mer Caspienne",
+      "Mer Morte",
+      "Mer Rouge",
+      "Mer Noire"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q208",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal dort debout ?",
+    "answers": [
+      "Cheval",
+      "Dauphin",
+      "Chien",
+      "Chat"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q209",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle est la capitale la plus au nord du monde ?",
+    "answers": [
+      "Oslo",
+      "Moscou",
+      "Reykjavik",
+      "Helsinki"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q210",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel objet est utilisé pour mesurer la température ?",
+    "answers": [
+      "Altimètre",
+      "Hygromètre",
+      "Baromètre",
+      "Thermomètre"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q211",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
+    "answers": [
+      "Inde",
+      "Brésil",
+      "Afrique du Sud",
+      "Jamaïque"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q212",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est l'aliment principal des pandas géants ?",
+    "answers": [
+      "Riz",
+      "Herbe",
+      "Eucalyptus",
+      "Bambou"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q213",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel objet est utilisé pour mesurer la température ?",
+    "answers": [
+      "Altimètre",
+      "Thermomètre",
+      "Baromètre",
+      "Hygromètre"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q214",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
+    "answers": [
+      "Afrique du Sud",
+      "Jamaïque",
+      "Inde",
+      "Brésil"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q215",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est le plus petit pays du monde ?",
+    "answers": [
+      "Saint-Marin",
+      "Monaco",
+      "Nauru",
+      "Vatican"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q216",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal dort debout ?",
+    "answers": [
+      "Cheval",
+      "Dauphin",
+      "Chien",
+      "Chat"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q217",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal dort debout ?",
+    "answers": [
+      "Chat",
+      "Dauphin",
+      "Cheval",
+      "Chien"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q218",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle est la capitale la plus au nord du monde ?",
+    "answers": [
+      "Helsinki",
+      "Reykjavik",
+      "Oslo",
+      "Moscou"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q219",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle mer est connue pour sa forte salinité ?",
+    "answers": [
+      "Mer Rouge",
+      "Mer Noire",
+      "Mer Caspienne",
+      "Mer Morte"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q220",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal dort debout ?",
+    "answers": [
+      "Chien",
+      "Cheval",
+      "Chat",
+      "Dauphin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q221",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
+    "answers": [
+      "Afrique du Sud",
+      "Jamaïque",
+      "Brésil",
+      "Inde"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q222",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal dort debout ?",
+    "answers": [
+      "Chat",
+      "Dauphin",
+      "Cheval",
+      "Chien"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q223",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel objet est utilisé pour mesurer la température ?",
+    "answers": [
+      "Altimètre",
+      "Thermomètre",
+      "Hygromètre",
+      "Baromètre"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q224",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
+    "answers": [
+      "Inde",
+      "Brésil",
+      "Jamaïque",
+      "Afrique du Sud"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q225",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est l'aliment principal des pandas géants ?",
+    "answers": [
+      "Bambou",
+      "Riz",
+      "Herbe",
+      "Eucalyptus"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q226",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
+    "answers": [
+      "Brésil",
+      "Afrique du Sud",
+      "Inde",
+      "Jamaïque"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q227",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
+    "answers": [
+      "Concombre",
+      "Poivron",
+      "Tomate",
+      "Courgette"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q228",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel objet est utilisé pour mesurer la température ?",
+    "answers": [
+      "Baromètre",
+      "Hygromètre",
+      "Thermomètre",
+      "Altimètre"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q229",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est le plus petit pays du monde ?",
+    "answers": [
+      "Vatican",
+      "Monaco",
+      "Nauru",
+      "Saint-Marin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q230",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est l'aliment principal des pandas géants ?",
+    "answers": [
+      "Eucalyptus",
+      "Bambou",
+      "Herbe",
+      "Riz"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q231",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est l'aliment principal des pandas géants ?",
+    "answers": [
+      "Riz",
+      "Bambou",
+      "Eucalyptus",
+      "Herbe"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q232",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
+    "answers": [
+      "Serpent",
+      "Iguane",
+      "Chouette",
+      "Perroquet"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q233",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
+    "answers": [
+      "Inde",
+      "Brésil",
+      "Jamaïque",
+      "Afrique du Sud"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q234",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
+    "answers": [
+      "Iguane",
+      "Perroquet",
+      "Chouette",
+      "Serpent"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q235",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
+    "answers": [
+      "Concombre",
+      "Courgette",
+      "Tomate",
+      "Poivron"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q236",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est l'aliment principal des pandas géants ?",
+    "answers": [
+      "Riz",
+      "Eucalyptus",
+      "Herbe",
+      "Bambou"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q237",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
+    "answers": [
+      "Brésil",
+      "Afrique du Sud",
+      "Jamaïque",
+      "Inde"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q238",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal dort debout ?",
+    "answers": [
+      "Cheval",
+      "Chien",
+      "Chat",
+      "Dauphin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q239",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle est la capitale la plus au nord du monde ?",
+    "answers": [
+      "Helsinki",
+      "Reykjavik",
+      "Oslo",
+      "Moscou"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q240",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle est la capitale la plus au nord du monde ?",
+    "answers": [
+      "Moscou",
+      "Reykjavik",
+      "Helsinki",
+      "Oslo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q241",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle est la capitale la plus au nord du monde ?",
+    "answers": [
+      "Reykjavik",
+      "Moscou",
+      "Helsinki",
+      "Oslo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q242",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
+    "answers": [
+      "Tomate",
+      "Poivron",
+      "Concombre",
+      "Courgette"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q243",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
+    "answers": [
+      "Bruges",
+      "Venise",
+      "Amsterdam",
+      "Bangkok"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q244",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle mer est connue pour sa forte salinité ?",
+    "answers": [
+      "Mer Caspienne",
+      "Mer Morte",
+      "Mer Rouge",
+      "Mer Noire"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q245",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
+    "answers": [
+      "Venise",
+      "Bruges",
+      "Amsterdam",
+      "Bangkok"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q246",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel objet est utilisé pour mesurer la température ?",
+    "answers": [
+      "Thermomètre",
+      "Altimètre",
+      "Hygromètre",
+      "Baromètre"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q247",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
+    "answers": [
+      "Amsterdam",
+      "Venise",
+      "Bangkok",
+      "Bruges"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q248",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle est la capitale la plus au nord du monde ?",
+    "answers": [
+      "Moscou",
+      "Helsinki",
+      "Oslo",
+      "Reykjavik"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q249",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
+    "answers": [
+      "Concombre",
+      "Tomate",
+      "Poivron",
+      "Courgette"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q250",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle est la capitale la plus au nord du monde ?",
+    "answers": [
+      "Reykjavik",
+      "Helsinki",
+      "Oslo",
+      "Moscou"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q251",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
+    "answers": [
+      "Brésil",
+      "Afrique du Sud",
+      "Inde",
+      "Jamaïque"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q252",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel objet est utilisé pour mesurer la température ?",
+    "answers": [
+      "Thermomètre",
+      "Altimètre",
+      "Hygromètre",
+      "Baromètre"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q253",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal dort debout ?",
+    "answers": [
+      "Chien",
+      "Cheval",
+      "Chat",
+      "Dauphin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q254",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
+    "answers": [
+      "Bruges",
+      "Bangkok",
+      "Venise",
+      "Amsterdam"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q255",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle est la capitale la plus au nord du monde ?",
+    "answers": [
+      "Oslo",
+      "Reykjavik",
+      "Moscou",
+      "Helsinki"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q256",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
+    "answers": [
+      "Courgette",
+      "Poivron",
+      "Tomate",
+      "Concombre"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q257",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle est la capitale la plus au nord du monde ?",
+    "answers": [
+      "Reykjavik",
+      "Helsinki",
+      "Oslo",
+      "Moscou"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q258",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle est la capitale la plus au nord du monde ?",
+    "answers": [
+      "Helsinki",
+      "Reykjavik",
+      "Moscou",
+      "Oslo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q259",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est le plus petit pays du monde ?",
+    "answers": [
+      "Nauru",
+      "Monaco",
+      "Saint-Marin",
+      "Vatican"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q260",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
+    "answers": [
+      "Bangkok",
+      "Venise",
+      "Amsterdam",
+      "Bruges"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q261",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
+    "answers": [
+      "Iguane",
+      "Perroquet",
+      "Chouette",
+      "Serpent"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q262",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est le plus petit pays du monde ?",
+    "answers": [
+      "Nauru",
+      "Saint-Marin",
+      "Vatican",
+      "Monaco"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q263",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal dort debout ?",
+    "answers": [
+      "Cheval",
+      "Dauphin",
+      "Chien",
+      "Chat"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q264",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel objet est utilisé pour mesurer la température ?",
+    "answers": [
+      "Hygromètre",
+      "Altimètre",
+      "Thermomètre",
+      "Baromètre"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q265",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel objet est utilisé pour mesurer la température ?",
+    "answers": [
+      "Baromètre",
+      "Altimètre",
+      "Thermomètre",
+      "Hygromètre"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q266",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle est la capitale la plus au nord du monde ?",
+    "answers": [
+      "Moscou",
+      "Helsinki",
+      "Reykjavik",
+      "Oslo"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q267",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel objet est utilisé pour mesurer la température ?",
+    "answers": [
+      "Altimètre",
+      "Baromètre",
+      "Hygromètre",
+      "Thermomètre"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q268",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
+    "answers": [
+      "Concombre",
+      "Poivron",
+      "Courgette",
+      "Tomate"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q269",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
+    "answers": [
+      "Bangkok",
+      "Amsterdam",
+      "Bruges",
+      "Venise"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q270",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal dort debout ?",
+    "answers": [
+      "Chat",
+      "Dauphin",
+      "Cheval",
+      "Chien"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q271",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
+    "answers": [
+      "Afrique du Sud",
+      "Jamaïque",
+      "Inde",
+      "Brésil"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q272",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
+    "answers": [
+      "Poivron",
+      "Courgette",
+      "Tomate",
+      "Concombre"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q273",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle est la capitale la plus au nord du monde ?",
+    "answers": [
+      "Helsinki",
+      "Moscou",
+      "Oslo",
+      "Reykjavik"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q274",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
+    "answers": [
+      "Chouette",
+      "Iguane",
+      "Perroquet",
+      "Serpent"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q275",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle mer est connue pour sa forte salinité ?",
+    "answers": [
+      "Mer Morte",
+      "Mer Rouge",
+      "Mer Caspienne",
+      "Mer Noire"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q276",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est le plus petit pays du monde ?",
+    "answers": [
+      "Vatican",
+      "Saint-Marin",
+      "Nauru",
+      "Monaco"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q277",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
+    "answers": [
+      "Afrique du Sud",
+      "Inde",
+      "Jamaïque",
+      "Brésil"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q278",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est le plus petit pays du monde ?",
+    "answers": [
+      "Vatican",
+      "Nauru",
+      "Monaco",
+      "Saint-Marin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q279",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel objet est utilisé pour mesurer la température ?",
+    "answers": [
+      "Hygromètre",
+      "Altimètre",
+      "Thermomètre",
+      "Baromètre"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q280",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est le plus petit pays du monde ?",
+    "answers": [
+      "Vatican",
+      "Monaco",
+      "Nauru",
+      "Saint-Marin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q281",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle est la capitale la plus au nord du monde ?",
+    "answers": [
+      "Oslo",
+      "Helsinki",
+      "Moscou",
+      "Reykjavik"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q282",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
+    "answers": [
+      "Tomate",
+      "Courgette",
+      "Poivron",
+      "Concombre"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q283",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle mer est connue pour sa forte salinité ?",
+    "answers": [
+      "Mer Rouge",
+      "Mer Morte",
+      "Mer Caspienne",
+      "Mer Noire"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q284",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel objet est utilisé pour mesurer la température ?",
+    "answers": [
+      "Baromètre",
+      "Altimètre",
+      "Thermomètre",
+      "Hygromètre"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q285",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
+    "answers": [
+      "Courgette",
+      "Concombre",
+      "Poivron",
+      "Tomate"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q286",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
+    "answers": [
+      "Serpent",
+      "Chouette",
+      "Iguane",
+      "Perroquet"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q287",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est l'aliment principal des pandas géants ?",
+    "answers": [
+      "Eucalyptus",
+      "Herbe",
+      "Riz",
+      "Bambou"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q288",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est le plus petit pays du monde ?",
+    "answers": [
+      "Monaco",
+      "Vatican",
+      "Saint-Marin",
+      "Nauru"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q289",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
+    "answers": [
+      "Iguane",
+      "Perroquet",
+      "Serpent",
+      "Chouette"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q290",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est le plus petit pays du monde ?",
+    "answers": [
+      "Nauru",
+      "Vatican",
+      "Monaco",
+      "Saint-Marin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q291",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est le plus petit pays du monde ?",
+    "answers": [
+      "Nauru",
+      "Monaco",
+      "Vatican",
+      "Saint-Marin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q292",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
+    "answers": [
+      "Afrique du Sud",
+      "Inde",
+      "Jamaïque",
+      "Brésil"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q293",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
+    "answers": [
+      "Perroquet",
+      "Serpent",
+      "Chouette",
+      "Iguane"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q294",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
+    "answers": [
+      "Venise",
+      "Bangkok",
+      "Bruges",
+      "Amsterdam"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q295",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle mer est connue pour sa forte salinité ?",
+    "answers": [
+      "Mer Rouge",
+      "Mer Caspienne",
+      "Mer Noire",
+      "Mer Morte"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q296",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quelle mer est connue pour sa forte salinité ?",
+    "answers": [
+      "Mer Caspienne",
+      "Mer Rouge",
+      "Mer Noire",
+      "Mer Morte"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q297",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
+    "answers": [
+      "Courgette",
+      "Poivron",
+      "Concombre",
+      "Tomate"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q298",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
+    "answers": [
+      "Afrique du Sud",
+      "Inde",
+      "Jamaïque",
+      "Brésil"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q299",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel est l'aliment principal des pandas géants ?",
+    "answers": [
+      "Herbe",
+      "Bambou",
+      "Eucalyptus",
+      "Riz"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q300",
+    "category": "Insolites",
+    "difficulty": "Facile",
+    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
+    "answers": [
+      "Brésil",
+      "Inde",
+      "Jamaïque",
+      "Afrique du Sud"
+    ],
+    "correctIndex": 2
   }
 ]
