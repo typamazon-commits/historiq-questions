@@ -3,3900 +3,1616 @@
     "id": "q1",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-    "answers": [
-      "Botticelli",
-      "Léonard de Vinci",
-      "Michel-Ange",
-      "Raphaël"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur français est surnommé le Petit Caporal ?",
+    "answers": ["Napoléon Bonaparte", "Louis XIV", "Napoléon III", "Charlemagne"],
+    "correctIndex": 0
   },
   {
     "id": "q2",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a mené la marche du sel en Inde ?",
-    "answers": [
-      "Mahatma Gandhi",
-      "Jawaharlal Nehru",
-      "Bhagat Singh",
-      "Sardar Patel"
-    ],
-    "correctIndex": 0
+    "text": "Quel roi de France est connu sous le surnom de Roi Soleil ?",
+    "answers": ["Louis XIII", "Louis XIV", "François Ier", "Henri IV"],
+    "correctIndex": 1
   },
   {
     "id": "q3",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était surnommé le 'Mahatma' ?",
-    "answers": [
-      "B. R. Ambedkar",
-      "Subhas Chandra Bose",
-      "Mahatma Gandhi",
-      "Jawaharlal Nehru"
-    ],
+    "text": "Quel chef militaire macédonien a conquis un immense empire antique ?",
+    "answers": ["Jules César", "Hannibal", "Alexandre le Grand", "Périclès"],
     "correctIndex": 2
   },
   {
     "id": "q4",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a dirigé l'Allemagne pendant la Seconde Guerre mondiale ?",
-    "answers": [
-      "Hirohito",
-      "Benito Mussolini",
-      "Adolf Hitler",
-      "Joseph Staline"
-    ],
-    "correctIndex": 2
+    "text": "Quelle reine d'Égypte était célèbre pour ses alliances avec Rome ?",
+    "answers": ["Néfertiti", "Hatchepsout", "Isis", "Cléopâtre"],
+    "correctIndex": 3
   },
   {
     "id": "q5",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a mené la marche du sel en Inde ?",
-    "answers": [
-      "Jawaharlal Nehru",
-      "Mahatma Gandhi",
-      "Sardar Patel",
-      "Bhagat Singh"
-    ],
-    "correctIndex": 1
+    "text": "Quel explorateur est associé à la découverte de l'Amérique en 1492 ?",
+    "answers": ["Christophe Colomb", "Marco Polo", "Vasco de Gama", "Magellan"],
+    "correctIndex": 0
   },
   {
     "id": "q6",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était la reine de France exécutée pendant la Révolution française ?",
-    "answers": [
-      "Louise de Lorraine",
-      "Marie-Antoinette",
-      "Catherine de Médicis",
-      "Anne d'Autriche"
-    ],
+    "text": "Quel général romain est assassiné aux ides de mars ?",
+    "answers": ["Auguste", "Jules César", "Néron", "Pompée"],
     "correctIndex": 1
   },
   {
     "id": "q7",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint la Joconde ?",
-    "answers": [
-      "Léonard de Vinci",
-      "Michel-Ange",
-      "Donatello",
-      "Raphaël"
-    ],
-    "correctIndex": 0
+    "text": "Quel roi d'Angleterre eut six épouses ?",
+    "answers": ["Richard Cœur de Lion", "Édouard Ier", "Henri VIII", "George III"],
+    "correctIndex": 2
   },
   {
     "id": "q8",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-    "answers": [
-      "Botticelli",
-      "Raphaël",
-      "Léonard de Vinci",
-      "Michel-Ange"
-    ],
+    "text": "Quelle héroïne française a combattu durant la guerre de Cent Ans ?",
+    "answers": ["Aliénor d'Aquitaine", "Blanche de Castille", "Catherine de Médicis", "Jeanne d'Arc"],
     "correctIndex": 3
   },
   {
     "id": "q9",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a dirigé l'Allemagne pendant la Seconde Guerre mondiale ?",
-    "answers": [
-      "Adolf Hitler",
-      "Hirohito",
-      "Joseph Staline",
-      "Benito Mussolini"
-    ],
+    "text": "Quel philosophe grec est le maître de Platon ?",
+    "answers": ["Socrate", "Aristote", "Épicure", "Pythagore"],
     "correctIndex": 0
   },
   {
     "id": "q10",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était le premier empereur romain ?",
-    "answers": [
-      "Auguste",
-      "Caligula",
-      "Jules César",
-      "Néron"
-    ],
-    "correctIndex": 0
+    "text": "Quel président américain a aboli l'esclavage ?",
+    "answers": ["George Washington", "Abraham Lincoln", "Thomas Jefferson", "Theodore Roosevelt"],
+    "correctIndex": 1
   },
+
   {
     "id": "q11",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Galilée",
-      "Einstein",
-      "Isaac Newton",
-      "Kepler"
-    ],
+    "text": "Quel conquérant mongol a fondé le plus vaste empire terrestre ?",
+    "answers": ["Tamerlan", "Attila", "Gengis Khan", "Kubilaï Khan"],
     "correctIndex": 2
   },
   {
     "id": "q12",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-    "answers": [
-      "Raphaël",
-      "Botticelli",
-      "Léonard de Vinci",
-      "Michel-Ange"
-    ],
+    "text": "Quel pharaon égyptien a donné son nom à un célèbre masque funéraire ?",
+    "answers": ["Ramsès II", "Akhenaton", "Khéops", "Toutankhamon"],
     "correctIndex": 3
   },
   {
     "id": "q13",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était le premier empereur romain ?",
-    "answers": [
-      "Caligula",
-      "Néron",
-      "Auguste",
-      "Jules César"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain a fait construire le Colisée ?",
+    "answers": ["Vespasien", "Néron", "Trajan", "Auguste"],
+    "correctIndex": 0
   },
   {
     "id": "q14",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint la Joconde ?",
-    "answers": [
-      "Léonard de Vinci",
-      "Donatello",
-      "Michel-Ange",
-      "Raphaël"
-    ],
-    "correctIndex": 0
+    "text": "Quel écrivain est l'auteur de la Divine Comédie ?",
+    "answers": ["Boccace", "Dante Alighieri", "Pétrarque", "Machiavel"],
+    "correctIndex": 1
   },
   {
     "id": "q15",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a dirigé l'Allemagne pendant la Seconde Guerre mondiale ?",
-    "answers": [
-      "Benito Mussolini",
-      "Adolf Hitler",
-      "Hirohito",
-      "Joseph Staline"
-    ],
-    "correctIndex": 1
+    "text": "Quel chef gaulois a résisté à Jules César ?",
+    "answers": ["Ambiorix", "Vercingétorix", "Brennus", "Camulogène"],
+    "correctIndex": 2
   },
   {
     "id": "q16",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était la reine de France exécutée pendant la Révolution française ?",
-    "answers": [
-      "Marie-Antoinette",
-      "Catherine de Médicis",
-      "Louise de Lorraine",
-      "Anne d'Autriche"
-    ],
-    "correctIndex": 0
+    "text": "Quelle reine d'Angleterre a régné durant l'époque élisabéthaine ?",
+    "answers": ["Marie Stuart", "Anne Boleyn", "Victoria", "Élisabeth Ire"],
+    "correctIndex": 3
   },
   {
     "id": "q17",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était la reine de France exécutée pendant la Révolution française ?",
-    "answers": [
-      "Catherine de Médicis",
-      "Marie-Antoinette",
-      "Anne d'Autriche",
-      "Louise de Lorraine"
-    ],
-    "correctIndex": 1
+    "text": "Quel savant italien est associé à la théorie de l'héliocentrisme ?",
+    "answers": ["Galilée", "Kepler", "Newton", "Descartes"],
+    "correctIndex": 0
   },
   {
     "id": "q18",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était la reine de France exécutée pendant la Révolution française ?",
-    "answers": [
-      "Anne d'Autriche",
-      "Catherine de Médicis",
-      "Louise de Lorraine",
-      "Marie-Antoinette"
-    ],
-    "correctIndex": 3
+    "text": "Quel roi de France a été surnommé le Bon Roi ?",
+    "answers": ["Louis IX", "Henri IV", "Charles VII", "Philippe le Bel"],
+    "correctIndex": 1
   },
   {
     "id": "q19",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a mené la marche du sel en Inde ?",
-    "answers": [
-      "Jawaharlal Nehru",
-      "Bhagat Singh",
-      "Sardar Patel",
-      "Mahatma Gandhi"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur a accompli la première circumnavigation du globe ?",
+    "answers": ["James Cook", "Amerigo Vespucci", "Fernand de Magellan", "Vasco de Gama"],
+    "correctIndex": 2
   },
   {
     "id": "q20",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a été président des États-Unis pendant la guerre de Sécession ?",
-    "answers": [
-      "James Buchanan",
-      "Abraham Lincoln",
-      "Ulysses S. Grant",
-      "Andrew Johnson"
-    ],
-    "correctIndex": 1
+    "text": "Quel dictateur romain a traversé le Rubicon ?",
+    "answers": ["Pompée", "Crassus", "Sylla", "Jules César"],
+    "correctIndex": 3
   },
+
   {
     "id": "q21",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Vasco de Gama",
-      "Amerigo Vespucci",
-      "Ferdinand Magellan",
-      "Christophe Colomb"
-    ],
-    "correctIndex": 3
+    "text": "Quel roi anglais est mort lors de la bataille d'Hastings ?",
+    "answers": ["Harold II", "Guillaume le Conquérant", "Henri Ier", "Édouard le Confesseur"],
+    "correctIndex": 0
   },
   {
     "id": "q22",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a dirigé l'Allemagne pendant la Seconde Guerre mondiale ?",
-    "answers": [
-      "Hirohito",
-      "Benito Mussolini",
-      "Joseph Staline",
-      "Adolf Hitler"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur français a été exilé à Sainte-Hélène ?",
+    "answers": ["Napoléon III", "Napoléon Bonaparte", "Louis XVIII", "Charles X"],
+    "correctIndex": 1
   },
   {
     "id": "q23",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a mené la marche du sel en Inde ?",
-    "answers": [
-      "Bhagat Singh",
-      "Jawaharlal Nehru",
-      "Mahatma Gandhi",
-      "Sardar Patel"
-    ],
+    "text": "Quel philosophe grec a été le précepteur d'Alexandre le Grand ?",
+    "answers": ["Platon", "Socrate", "Aristote", "Diogène"],
     "correctIndex": 2
   },
   {
     "id": "q24",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint la Joconde ?",
-    "answers": [
-      "Léonard de Vinci",
-      "Michel-Ange",
-      "Raphaël",
-      "Donatello"
-    ],
-    "correctIndex": 0
+    "text": "Quel empereur romain a légalisé le christianisme ?",
+    "answers": ["Néron", "Trajan", "Auguste", "Constantin"],
+    "correctIndex": 3
   },
   {
     "id": "q25",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Amerigo Vespucci",
-      "Christophe Colomb",
-      "Ferdinand Magellan",
-      "Vasco de Gama"
-    ],
-    "correctIndex": 1
+    "text": "Quel navigateur portugais a atteint l'Inde par la mer ?",
+    "answers": ["Vasco de Gama", "Magellan", "Cabral", "Dias"],
+    "correctIndex": 0
   },
   {
     "id": "q26",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-    "answers": [
-      "Botticelli",
-      "Léonard de Vinci",
-      "Michel-Ange",
-      "Raphaël"
-    ],
-    "correctIndex": 2
+    "text": "Quel roi français a fait construire le château de Versailles ?",
+    "answers": ["Louis XIII", "Louis XIV", "Louis XV", "François Ier"],
+    "correctIndex": 1
   },
   {
     "id": "q27",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Christophe Colomb",
-      "Vasco de Gama",
-      "Amerigo Vespucci",
-      "Ferdinand Magellan"
-    ],
-    "correctIndex": 0
+    "text": "Quel chef carthaginois a traversé les Alpes avec des éléphants ?",
+    "answers": ["Hamilcar", "Hasdrubal", "Hannibal", "Scipion"],
+    "correctIndex": 2
   },
   {
     "id": "q28",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était la reine de France exécutée pendant la Révolution française ?",
-    "answers": [
-      "Louise de Lorraine",
-      "Catherine de Médicis",
-      "Marie-Antoinette",
-      "Anne d'Autriche"
-    ],
-    "correctIndex": 2
+    "text": "Quel révolutionnaire français a été surnommé l'Incorruptible ?",
+    "answers": ["Danton", "Marat", "Desmoulins", "Robespierre"],
+    "correctIndex": 3
   },
   {
     "id": "q29",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était surnommé le 'Mahatma' ?",
-    "answers": [
-      "B. R. Ambedkar",
-      "Jawaharlal Nehru",
-      "Mahatma Gandhi",
-      "Subhas Chandra Bose"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain a donné son nom au mois de juillet ?",
+    "answers": ["Jules César", "Auguste", "Néron", "Tibère"],
+    "correctIndex": 0
   },
   {
     "id": "q30",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-    "answers": [
-      "Léonard de Vinci",
-      "Michel-Ange",
-      "Botticelli",
-      "Raphaël"
-    ],
+    "text": "Quel président français a fondé la Ve République ?",
+    "answers": ["Pompidou", "Charles de Gaulle", "Mitterrand", "Giscard d'Estaing"],
     "correctIndex": 1
   },
+
   {
     "id": "q31",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était surnommé le 'Mahatma' ?",
-    "answers": [
-      "B. R. Ambedkar",
-      "Jawaharlal Nehru",
-      "Mahatma Gandhi",
-      "Subhas Chandra Bose"
-    ],
+    "text": "Quel roi d'Espagne a soutenu Christophe Colomb ?",
+    "answers": ["Charles Quint", "Philippe II", "Ferdinand d'Aragon", "Philippe IV"],
     "correctIndex": 2
   },
   {
     "id": "q32",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a été président des États-Unis pendant la guerre de Sécession ?",
-    "answers": [
-      "Abraham Lincoln",
-      "Ulysses S. Grant",
-      "James Buchanan",
-      "Andrew Johnson"
-    ],
-    "correctIndex": 0
+    "text": "Quel empereur romain est connu pour sa folie et sa cruauté ?",
+    "answers": ["Caligula", "Claude", "Trajan", "Hadrien"],
+    "correctIndex": 3
   },
   {
     "id": "q33",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était la reine de France exécutée pendant la Révolution française ?",
-    "answers": [
-      "Marie-Antoinette",
-      "Anne d'Autriche",
-      "Louise de Lorraine",
-      "Catherine de Médicis"
-    ],
+    "text": "Quel explorateur français a fondé la ville de Québec ?",
+    "answers": ["Samuel de Champlain", "Jacques Cartier", "La Salle", "Desoto"],
     "correctIndex": 0
   },
   {
     "id": "q34",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était surnommé le 'Mahatma' ?",
-    "answers": [
-      "Mahatma Gandhi",
-      "Jawaharlal Nehru",
-      "Subhas Chandra Bose",
-      "B. R. Ambedkar"
-    ],
-    "correctIndex": 0
+    "text": "Quel empereur allemand a été surnommé Barberousse ?",
+    "answers": ["Otton Ier", "Frédéric Ier Barberousse", "Henri IV", "Maximilien Ier"],
+    "correctIndex": 1
   },
   {
     "id": "q35",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a mené la marche du sel en Inde ?",
-    "answers": [
-      "Mahatma Gandhi",
-      "Sardar Patel",
-      "Bhagat Singh",
-      "Jawaharlal Nehru"
-    ],
-    "correctIndex": 0
+    "text": "Quel chef d'État soviétique a dirigé l'URSS pendant la Seconde Guerre mondiale ?",
+    "answers": ["Lénine", "Khrouchtchev", "Staline", "Brejnev"],
+    "correctIndex": 2
   },
   {
     "id": "q36",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a mené la marche du sel en Inde ?",
-    "answers": [
-      "Sardar Patel",
-      "Jawaharlal Nehru",
-      "Bhagat Singh",
-      "Mahatma Gandhi"
-    ],
+    "text": "Quel pharaon est célèbre pour ses temples d'Abou Simbel ?",
+    "answers": ["Khéops", "Akhenaton", "Toutankhamon", "Ramsès II"],
     "correctIndex": 3
   },
   {
     "id": "q37",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était le premier empereur romain ?",
-    "answers": [
-      "Néron",
-      "Jules César",
-      "Auguste",
-      "Caligula"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur vénitien a voyagé jusqu'en Chine au Moyen Âge ?",
+    "answers": ["Marco Polo", "Magellan", "Colomb", "Vespucci"],
+    "correctIndex": 0
   },
   {
     "id": "q38",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était la reine de France exécutée pendant la Révolution française ?",
-    "answers": [
-      "Marie-Antoinette",
-      "Catherine de Médicis",
-      "Louise de Lorraine",
-      "Anne d'Autriche"
-    ],
-    "correctIndex": 0
+    "text": "Quel roi de France a été guillotiné pendant la Révolution française ?",
+    "answers": ["Louis XV", "Louis XVI", "Louis XVIII", "Charles X"],
+    "correctIndex": 1
   },
   {
     "id": "q39",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était la reine de France exécutée pendant la Révolution française ?",
-    "answers": [
-      "Marie-Antoinette",
-      "Louise de Lorraine",
-      "Catherine de Médicis",
-      "Anne d'Autriche"
-    ],
-    "correctIndex": 0
+    "text": "Quel président américain a dirigé les États-Unis pendant la Seconde Guerre mondiale ?",
+    "answers": ["Truman", "Wilson", "Franklin D. Roosevelt", "Eisenhower"],
+    "correctIndex": 2
   },
   {
     "id": "q40",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a été président des États-Unis pendant la guerre de Sécession ?",
-    "answers": [
-      "Ulysses S. Grant",
-      "Abraham Lincoln",
-      "James Buchanan",
-      "Andrew Johnson"
-    ],
-    "correctIndex": 1
+    "text": "Quel roi anglais est connu pour la Magna Carta ?",
+    "answers": ["Henri II", "Richard Cœur de Lion", "Édouard Ier", "Jean sans Terre"],
+    "correctIndex": 3
   },
+
   {
     "id": "q41",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a été président des États-Unis pendant la guerre de Sécession ?",
-    "answers": [
-      "Ulysses S. Grant",
-      "Abraham Lincoln",
-      "James Buchanan",
-      "Andrew Johnson"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain a donné son nom au mois d'août ?",
+    "answers": ["Auguste", "Jules César", "Tibère", "Claude"],
+    "correctIndex": 0
   },
   {
     "id": "q42",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a dirigé l'Allemagne pendant la Seconde Guerre mondiale ?",
-    "answers": [
-      "Benito Mussolini",
-      "Hirohito",
-      "Joseph Staline",
-      "Adolf Hitler"
-    ],
-    "correctIndex": 3
+    "text": "Quel chef indien est célèbre pour sa lutte pacifique contre l'Empire britannique ?",
+    "answers": ["Nehru", "Gandhi", "Indira Gandhi", "Jinnah"],
+    "correctIndex": 1
   },
   {
     "id": "q43",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a été président des États-Unis pendant la guerre de Sécession ?",
-    "answers": [
-      "James Buchanan",
-      "Andrew Johnson",
-      "Ulysses S. Grant",
-      "Abraham Lincoln"
-    ],
-    "correctIndex": 3
+    "text": "Quel général français a dirigé les Forces françaises libres ?",
+    "answers": ["Pétain", "Joffre", "Charles de Gaulle", "Foch"],
+    "correctIndex": 2
   },
   {
     "id": "q44",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Kepler",
-      "Einstein",
-      "Isaac Newton",
-      "Galilée"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur byzantin a fait construire la basilique Sainte-Sophie ?",
+    "answers": ["Constantin", "Théodose", "Héraclius", "Justinien"],
+    "correctIndex": 3
   },
   {
     "id": "q45",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était la reine de France exécutée pendant la Révolution française ?",
-    "answers": [
-      "Catherine de Médicis",
-      "Anne d'Autriche",
-      "Marie-Antoinette",
-      "Louise de Lorraine"
-    ],
-    "correctIndex": 2
+    "text": "Quel roi de France est surnommé le Père du peuple ?",
+    "answers": ["Henri IV", "Louis IX", "François Ier", "Louis XII"],
+    "correctIndex": 0
   },
   {
     "id": "q46",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était la reine de France exécutée pendant la Révolution française ?",
-    "answers": [
-      "Catherine de Médicis",
-      "Anne d'Autriche",
-      "Louise de Lorraine",
-      "Marie-Antoinette"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain a écrit des Pensées pour moi-même ?",
+    "answers": ["Néron", "Marc Aurèle", "Commode", "Hadrien"],
+    "correctIndex": 1
   },
   {
     "id": "q47",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a dirigé l'Allemagne pendant la Seconde Guerre mondiale ?",
-    "answers": [
-      "Hirohito",
-      "Benito Mussolini",
-      "Adolf Hitler",
-      "Joseph Staline"
-    ],
+    "text": "Quel roi anglais a remporté la bataille d'Azincourt ?",
+    "answers": ["Richard II", "Jean sans Terre", "Henri V", "Henri VIII"],
     "correctIndex": 2
   },
   {
     "id": "q48",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Einstein",
-      "Galilée",
-      "Kepler",
-      "Isaac Newton"
-    ],
+    "text": "Quel chef aztèque a rencontré Hernán Cortés ?",
+    "answers": ["Cuauhtémoc", "Itzcoatl", "Ahuitzotl", "Moctezuma II"],
     "correctIndex": 3
   },
   {
     "id": "q49",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a été président des États-Unis pendant la guerre de Sécession ?",
-    "answers": [
-      "Andrew Johnson",
-      "Abraham Lincoln",
-      "Ulysses S. Grant",
-      "James Buchanan"
-    ],
-    "correctIndex": 1
+    "text": "Quel président sud-africain a mis fin à l'apartheid ?",
+    "answers": ["Nelson Mandela", "Desmond Tutu", "Botha", "De Klerk"],
+    "correctIndex": 0
   },
   {
     "id": "q50",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était surnommé le 'Mahatma' ?",
-    "answers": [
-      "Jawaharlal Nehru",
-      "Mahatma Gandhi",
-      "B. R. Ambedkar",
-      "Subhas Chandra Bose"
-    ],
+    "text": "Quel roi de France a instauré l'édit de Nantes ?",
+    "answers": ["Charles IX", "Henri IV", "Louis XIII", "François Ier"],
     "correctIndex": 1
   },
   {
     "id": "q51",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-    "answers": [
-      "Michel-Ange",
-      "Raphaël",
-      "Botticelli",
-      "Léonard de Vinci"
-    ],
-    "correctIndex": 0
+    "text": "Quel empereur romain a été adopté par Jules César ?",
+    "answers": ["Marc Antoine", "Brutus", "Octave Auguste", "Lépide"],
+    "correctIndex": 2
   },
   {
     "id": "q52",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a dirigé l'Allemagne pendant la Seconde Guerre mondiale ?",
-    "answers": [
-      "Benito Mussolini",
-      "Joseph Staline",
-      "Adolf Hitler",
-      "Hirohito"
-    ],
-    "correctIndex": 2
+    "text": "Quel roi de France a été surnommé le Bien-Aimé ?",
+    "answers": ["Louis XIII", "Louis XIV", "Louis XV", "Louis XVI"],
+    "correctIndex": 3
   },
   {
     "id": "q53",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était surnommé le 'Mahatma' ?",
-    "answers": [
-      "Mahatma Gandhi",
-      "B. R. Ambedkar",
-      "Jawaharlal Nehru",
-      "Subhas Chandra Bose"
-    ],
+    "text": "Quel chef grec est célèbre pour la ruse du cheval de Troie ?",
+    "answers": ["Ulysse", "Achille", "Hector", "Ajax"],
     "correctIndex": 0
   },
   {
     "id": "q54",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Kepler",
-      "Einstein",
-      "Isaac Newton",
-      "Galilée"
-    ],
-    "correctIndex": 2
+    "text": "Quel président américain a proclamé la doctrine Monroe ?",
+    "answers": ["James Monroe", "John Adams", "Andrew Jackson", "Thomas Jefferson"],
+    "correctIndex": 1
   },
   {
     "id": "q55",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a dirigé l'Allemagne pendant la Seconde Guerre mondiale ?",
-    "answers": [
-      "Benito Mussolini",
-      "Joseph Staline",
-      "Adolf Hitler",
-      "Hirohito"
-    ],
+    "text": "Quel pharaon est associé à la construction de la grande pyramide de Gizeh ?",
+    "answers": ["Khéphren", "Mykérinos", "Khéops", "Ramsès II"],
     "correctIndex": 2
   },
   {
     "id": "q56",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était la reine de France exécutée pendant la Révolution française ?",
-    "answers": [
-      "Anne d'Autriche",
-      "Catherine de Médicis",
-      "Louise de Lorraine",
-      "Marie-Antoinette"
-    ],
+    "text": "Quel roi anglais a été décapité en 1649 ?",
+    "answers": ["Charles Ier", "Charles II", "Henri VIII", "Jacques Ier"],
     "correctIndex": 3
   },
   {
     "id": "q57",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint la Joconde ?",
-    "answers": [
-      "Michel-Ange",
-      "Léonard de Vinci",
-      "Raphaël",
-      "Donatello"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain est célèbre pour avoir persécuté les chrétiens après l'incendie de Rome ?",
+    "answers": ["Néron", "Domitien", "Trajan", "Claude"],
+    "correctIndex": 0
   },
   {
     "id": "q58",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était le premier empereur romain ?",
-    "answers": [
-      "Caligula",
-      "Néron",
-      "Auguste",
-      "Jules César"
-    ],
-    "correctIndex": 2
+    "text": "Quel révolutionnaire cubain a pris le pouvoir en 1959 ?",
+    "answers": ["Raúl Castro", "Fidel Castro", "Che Guevara", "Batista"],
+    "correctIndex": 1
   },
   {
     "id": "q59",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-    "answers": [
-      "Léonard de Vinci",
-      "Michel-Ange",
-      "Botticelli",
-      "Raphaël"
-    ],
-    "correctIndex": 1
+    "text": "Quel chef spartiate est mort aux Thermopyles ?",
+    "answers": ["Lycurgue", "Périclès", "Léonidas", "Miltiade"],
+    "correctIndex": 2
   },
   {
     "id": "q60",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était la reine de France exécutée pendant la Révolution française ?",
-    "answers": [
-      "Anne d'Autriche",
-      "Marie-Antoinette",
-      "Catherine de Médicis",
-      "Louise de Lorraine"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur chinois est associé à l'armée de terre cuite ?",
+    "answers": ["Han Wudi", "Qin Shi Huang", "Tang Taizong", "Kangxi"],
+    "correctIndex": 3
   },
+
   {
     "id": "q61",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a mené la marche du sel en Inde ?",
-    "answers": [
-      "Mahatma Gandhi",
-      "Bhagat Singh",
-      "Jawaharlal Nehru",
-      "Sardar Patel"
-    ],
+    "text": "Quel navigateur anglais est associé à la fondation de la Virginie ?",
+    "answers": ["John Smith", "Francis Drake", "James Cook", "Walter Raleigh"],
     "correctIndex": 0
   },
   {
     "id": "q62",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était surnommé le 'Mahatma' ?",
-    "answers": [
-      "Jawaharlal Nehru",
-      "Subhas Chandra Bose",
-      "Mahatma Gandhi",
-      "B. R. Ambedkar"
-    ],
-    "correctIndex": 2
+    "text": "Quel roi de France a régné pendant la Révolution française ?",
+    "answers": ["Louis XIV", "Louis XV", "Louis XVI", "Charles X"],
+    "correctIndex": 1
   },
   {
     "id": "q63",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-    "answers": [
-      "Botticelli",
-      "Michel-Ange",
-      "Léonard de Vinci",
-      "Raphaël"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain est connu pour sa sagesse stoïcienne ?",
+    "answers": ["Néron", "Commode", "Marc Aurèle", "Hadrien"],
+    "correctIndex": 2
   },
   {
     "id": "q64",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint la Joconde ?",
-    "answers": [
-      "Léonard de Vinci",
-      "Michel-Ange",
-      "Raphaël",
-      "Donatello"
-    ],
-    "correctIndex": 0
+    "text": "Quel roi de Prusse est surnommé Frédéric le Grand ?",
+    "answers": ["Frédéric Ier", "Frédéric II", "Guillaume Ier", "Guillaume II"],
+    "correctIndex": 3
   },
   {
     "id": "q65",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-    "answers": [
-      "Raphaël",
-      "Léonard de Vinci",
-      "Michel-Ange",
-      "Botticelli"
-    ],
-    "correctIndex": 2
+    "text": "Quel chef indien est surnommé le Mahatma ?",
+    "answers": ["Gandhi", "Nehru", "Tagore", "Ambedkar"],
+    "correctIndex": 0
   },
   {
     "id": "q66",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Vasco de Gama",
-      "Christophe Colomb",
-      "Amerigo Vespucci",
-      "Ferdinand Magellan"
-    ],
+    "text": "Quel empereur romain a fait ériger le Panthéon actuel ?",
+    "answers": ["Auguste", "Hadrien", "Trajan", "Antonin le Pieux"],
     "correctIndex": 1
   },
   {
     "id": "q67",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Isaac Newton",
-      "Einstein",
-      "Kepler",
-      "Galilée"
-    ],
-    "correctIndex": 0
+    "text": "Quel roi de France est mort lors d'un tournoi en 1559 ?",
+    "answers": ["François Ier", "Henri II", "Charles IX", "Henri III"],
+    "correctIndex": 2
   },
   {
     "id": "q68",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Galilée",
-      "Einstein",
-      "Kepler",
-      "Isaac Newton"
-    ],
+    "text": "Quel président américain a lancé le New Deal ?",
+    "answers": ["Hoover", "Truman", "Wilson", "Franklin D. Roosevelt"],
     "correctIndex": 3
   },
   {
     "id": "q69",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-    "answers": [
-      "Léonard de Vinci",
-      "Raphaël",
-      "Michel-Ange",
-      "Botticelli"
-    ],
-    "correctIndex": 2
+    "text": "Quel chef militaire français a remporté la bataille d'Austerlitz ?",
+    "answers": ["Napoléon Bonaparte", "Ney", "Davout", "Murat"],
+    "correctIndex": 0
   },
   {
     "id": "q70",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a dirigé l'Allemagne pendant la Seconde Guerre mondiale ?",
-    "answers": [
-      "Adolf Hitler",
-      "Hirohito",
-      "Joseph Staline",
-      "Benito Mussolini"
-    ],
-    "correctIndex": 0
+    "text": "Quel empereur romain a succédé à Auguste ?",
+    "answers": ["Caligula", "Tibère", "Claude", "Néron"],
+    "correctIndex": 1
   },
+
   {
     "id": "q71",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a dirigé l'Allemagne pendant la Seconde Guerre mondiale ?",
-    "answers": [
-      "Joseph Staline",
-      "Hirohito",
-      "Benito Mussolini",
-      "Adolf Hitler"
-    ],
-    "correctIndex": 3
+    "text": "Quel chef viking est associé à la fondation de la Normandie ?",
+    "answers": ["Ragnar Lodbrok", "Ivar le Désossé", "Rollon", "Harald Bluetooth"],
+    "correctIndex": 2
   },
   {
     "id": "q72",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Isaac Newton",
-      "Kepler",
-      "Einstein",
-      "Galilée"
-    ],
-    "correctIndex": 0
+    "text": "Quel empereur romain est assassiné par sa garde prétorienne en 192 ?",
+    "answers": ["Marc Aurèle", "Commode", "Pertinax", "Septime Sévère"],
+    "correctIndex": 3
   },
   {
     "id": "q73",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint la Joconde ?",
-    "answers": [
-      "Raphaël",
-      "Léonard de Vinci",
-      "Donatello",
-      "Michel-Ange"
-    ],
-    "correctIndex": 1
+    "text": "Quel explorateur a donné son nom à l'Amérique ?",
+    "answers": ["Amerigo Vespucci", "Christophe Colomb", "Magellan", "Cabral"],
+    "correctIndex": 0
   },
   {
     "id": "q74",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Isaac Newton",
-      "Einstein",
-      "Galilée",
-      "Kepler"
-    ],
-    "correctIndex": 0
+    "text": "Quel roi de France a réuni les États généraux en 1789 ?",
+    "answers": ["Louis XIV", "Louis XV", "Louis XVI", "Charles X"],
+    "correctIndex": 1
   },
   {
     "id": "q75",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a dirigé l'Allemagne pendant la Seconde Guerre mondiale ?",
-    "answers": [
-      "Joseph Staline",
-      "Benito Mussolini",
-      "Hirohito",
-      "Adolf Hitler"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain a été le premier empereur chrétien ?",
+    "answers": ["Dioclétien", "Théodose", "Constantin", "Julien"],
+    "correctIndex": 2
   },
   {
     "id": "q76",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Christophe Colomb",
-      "Amerigo Vespucci",
-      "Ferdinand Magellan",
-      "Vasco de Gama"
-    ],
-    "correctIndex": 0
+    "text": "Quel roi d'Angleterre a succédé à Élisabeth Ire ?",
+    "answers": ["Henri VIII", "Charles Ier", "Jacques Ier", "Guillaume III"],
+    "correctIndex": 3
   },
   {
     "id": "q77",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était le premier empereur romain ?",
-    "answers": [
-      "Jules César",
-      "Néron",
-      "Auguste",
-      "Caligula"
-    ],
-    "correctIndex": 2
+    "text": "Quel président américain est surnommé le père de la Constitution ?",
+    "answers": ["James Madison", "George Washington", "Jefferson", "Hamilton"],
+    "correctIndex": 0
   },
   {
     "id": "q78",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Ferdinand Magellan",
-      "Vasco de Gama",
-      "Amerigo Vespucci",
-      "Christophe Colomb"
-    ],
-    "correctIndex": 3
+    "text": "Quel roi de France a été canonisé sous le nom de Saint Louis ?",
+    "answers": ["Louis VIII", "Louis IX", "Louis X", "Louis XI"],
+    "correctIndex": 1
   },
   {
     "id": "q79",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était la reine de France exécutée pendant la Révolution française ?",
-    "answers": [
-      "Marie-Antoinette",
-      "Anne d'Autriche",
-      "Catherine de Médicis",
-      "Louise de Lorraine"
-    ],
-    "correctIndex": 0
+    "text": "Quel empereur romain a divisé l'Empire entre Orient et Occident ?",
+    "answers": ["Dioclétien", "Constantin", "Théodose Ier", "Valentinien"],
+    "correctIndex": 2
   },
   {
     "id": "q80",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint la Joconde ?",
-    "answers": [
-      "Raphaël",
-      "Léonard de Vinci",
-      "Donatello",
-      "Michel-Ange"
-    ],
-    "correctIndex": 1
+    "text": "Quel chef sud-africain a été emprisonné pendant 27 ans ?",
+    "answers": ["Steve Biko", "Desmond Tutu", "Botha", "Nelson Mandela"],
+    "correctIndex": 3
   },
+
   {
     "id": "q81",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a été président des États-Unis pendant la guerre de Sécession ?",
-    "answers": [
-      "Abraham Lincoln",
-      "Ulysses S. Grant",
-      "James Buchanan",
-      "Andrew Johnson"
-    ],
+    "text": "Quel empereur romain est connu pour le mur qui porte son nom en Grande-Bretagne ?",
+    "answers": ["Hadrien", "Antonin", "Trajan", "Claude"],
     "correctIndex": 0
   },
   {
     "id": "q82",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a mené la marche du sel en Inde ?",
-    "answers": [
-      "Mahatma Gandhi",
-      "Bhagat Singh",
-      "Sardar Patel",
-      "Jawaharlal Nehru"
-    ],
-    "correctIndex": 0
+    "text": "Quel chef militaire allemand a dirigé le IIIe Reich ?",
+    "answers": ["Goebbels", "Hitler", "Himmler", "Göring"],
+    "correctIndex": 1
   },
   {
     "id": "q83",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a mené la marche du sel en Inde ?",
-    "answers": [
-      "Jawaharlal Nehru",
-      "Bhagat Singh",
-      "Mahatma Gandhi",
-      "Sardar Patel"
-    ],
+    "text": "Quel empereur romain est célèbre pour sa réforme administrative appelée tétrarchie ?",
+    "answers": ["Dioclétien", "Constantin", "Maximien", "Galère"],
     "correctIndex": 2
   },
   {
     "id": "q84",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était le premier empereur romain ?",
-    "answers": [
-      "Caligula",
-      "Jules César",
-      "Néron",
-      "Auguste"
-    ],
+    "text": "Quel roi de France a signé le traité de Verdun ?",
+    "answers": ["Charlemagne", "Louis le Pieux", "Charles le Chauve", "Lothaire"],
     "correctIndex": 3
   },
   {
     "id": "q85",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint la Joconde ?",
-    "answers": [
-      "Léonard de Vinci",
-      "Donatello",
-      "Raphaël",
-      "Michel-Ange"
-    ],
+    "text": "Quel empereur romain est célèbre pour sa passion des arts et des spectacles ?",
+    "answers": ["Néron", "Claude", "Auguste", "Tibère"],
     "correctIndex": 0
   },
   {
     "id": "q86",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a été président des États-Unis pendant la guerre de Sécession ?",
-    "answers": [
-      "James Buchanan",
-      "Andrew Johnson",
-      "Ulysses S. Grant",
-      "Abraham Lincoln"
-    ],
-    "correctIndex": 3
+    "text": "Quel président français a instauré l'élection du président au suffrage universel ?",
+    "answers": ["Pompidou", "Charles de Gaulle", "Mitterrand", "Giscard d'Estaing"],
+    "correctIndex": 1
   },
   {
     "id": "q87",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a été président des États-Unis pendant la guerre de Sécession ?",
-    "answers": [
-      "Abraham Lincoln",
-      "James Buchanan",
-      "Andrew Johnson",
-      "Ulysses S. Grant"
-    ],
-    "correctIndex": 0
+    "text": "Quel empereur romain a donné son nom au calendrier julien ?",
+    "answers": ["Auguste", "Tibère", "Jules César", "Claude"],
+    "correctIndex": 2
   },
   {
     "id": "q88",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a mené la marche du sel en Inde ?",
-    "answers": [
-      "Sardar Patel",
-      "Jawaharlal Nehru",
-      "Mahatma Gandhi",
-      "Bhagat Singh"
-    ],
-    "correctIndex": 2
+    "text": "Quel roi de France est mort pendant la croisade de Tunis ?",
+    "answers": ["Philippe III", "Charles d'Anjou", "Louis IX", "Philippe IV"],
+    "correctIndex": 3
   },
   {
     "id": "q89",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a dirigé l'Allemagne pendant la Seconde Guerre mondiale ?",
-    "answers": [
-      "Adolf Hitler",
-      "Joseph Staline",
-      "Hirohito",
-      "Benito Mussolini"
-    ],
+    "text": "Quel chef grec est considéré comme le père de la démocratie athénienne ?",
+    "answers": ["Périclès", "Solon", "Clisthène", "Thémistocle"],
     "correctIndex": 0
   },
   {
     "id": "q90",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a été président des États-Unis pendant la guerre de Sécession ?",
-    "answers": [
-      "James Buchanan",
-      "Ulysses S. Grant",
-      "Abraham Lincoln",
-      "Andrew Johnson"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain a régné lors de la Pax Romana à son apogée ?",
+    "answers": ["Auguste", "Trajan", "Hadrien", "Antonin le Pieux"],
+    "correctIndex": 1
   },
+
   {
     "id": "q91",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-    "answers": [
-      "Léonard de Vinci",
-      "Botticelli",
-      "Raphaël",
-      "Michel-Ange"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain est connu pour sa colonne commémorative à Rome ?",
+    "answers": ["Auguste", "Domitien", "Trajan", "Marc Aurèle"],
+    "correctIndex": 2
   },
   {
     "id": "q92",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a été président des États-Unis pendant la guerre de Sécession ?",
-    "answers": [
-      "Ulysses S. Grant",
-      "Abraham Lincoln",
-      "Andrew Johnson",
-      "James Buchanan"
-    ],
-    "correctIndex": 1
+    "text": "Quel roi anglais a épousé Anne Boleyn ?",
+    "answers": ["Henri VII", "Édouard VI", "Richard III", "Henri VIII"],
+    "correctIndex": 3
   },
   {
     "id": "q93",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-    "answers": [
-      "Michel-Ange",
-      "Raphaël",
-      "Léonard de Vinci",
-      "Botticelli"
-    ],
+    "text": "Quel chef romain a vaincu Cléopâtre et Marc Antoine à Actium ?",
+    "answers": ["Octave Auguste", "Agrippa", "Lépide", "Brutus"],
     "correctIndex": 0
   },
   {
     "id": "q94",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était le premier empereur romain ?",
-    "answers": [
-      "Jules César",
-      "Caligula",
-      "Auguste",
-      "Néron"
-    ],
-    "correctIndex": 2
+    "text": "Quel président américain a acheté la Louisiane à la France ?",
+    "answers": ["Washington", "Jefferson", "Madison", "Monroe"],
+    "correctIndex": 1
   },
   {
     "id": "q95",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Amerigo Vespucci",
-      "Christophe Colomb",
-      "Ferdinand Magellan",
-      "Vasco de Gama"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain est mort assassiné par son fils Commode ?",
+    "answers": ["Antonin le Pieux", "Trajan", "Marc Aurèle", "Hadrien"],
+    "correctIndex": 2
   },
   {
     "id": "q96",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Amerigo Vespucci",
-      "Christophe Colomb",
-      "Vasco de Gama",
-      "Ferdinand Magellan"
-    ],
-    "correctIndex": 1
+    "text": "Quel roi de France a perdu la bataille de Poitiers en 1356 ?",
+    "answers": ["Charles V", "Jean II le Bon", "Philippe VI", "Charles VI"],
+    "correctIndex": 3
   },
   {
     "id": "q97",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a dirigé l'Allemagne pendant la Seconde Guerre mondiale ?",
-    "answers": [
-      "Adolf Hitler",
-      "Benito Mussolini",
-      "Joseph Staline",
-      "Hirohito"
-    ],
+    "text": "Quel empereur romain a fondé Constantinople ?",
+    "answers": ["Constantin", "Théodose", "Dioclétien", "Valens"],
     "correctIndex": 0
   },
   {
     "id": "q98",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Einstein",
-      "Isaac Newton",
-      "Galilée",
-      "Kepler"
-    ],
+    "text": "Quel président américain a été assassiné à Dallas en 1963 ?",
+    "answers": ["Nixon", "John F. Kennedy", "Johnson", "Eisenhower"],
     "correctIndex": 1
   },
   {
     "id": "q99",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a été président des États-Unis pendant la guerre de Sécession ?",
-    "answers": [
-      "Andrew Johnson",
-      "Abraham Lincoln",
-      "Ulysses S. Grant",
-      "James Buchanan"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain est connu pour l'édit de Milan ?",
+    "answers": ["Galère", "Licinius", "Constantin", "Maxence"],
+    "correctIndex": 2
   },
   {
     "id": "q100",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-    "answers": [
-      "Léonard de Vinci",
-      "Botticelli",
-      "Raphaël",
-      "Michel-Ange"
-    ],
+    "text": "Quel roi de France a remporté la bataille de Bouvines ?",
+    "answers": ["Louis VIII", "Philippe Auguste", "Louis IX", "Charles V"],
     "correctIndex": 3
   },
   {
     "id": "q101",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a mené la marche du sel en Inde ?",
-    "answers": [
-      "Sardar Patel",
-      "Bhagat Singh",
-      "Jawaharlal Nehru",
-      "Mahatma Gandhi"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain est célèbre pour le mur défensif construit en Écosse ?",
+    "answers": ["Antonin le Pieux", "Hadrien", "Trajan", "Claude"],
+    "correctIndex": 0
   },
   {
     "id": "q102",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Galilée",
-      "Einstein",
-      "Isaac Newton",
-      "Kepler"
-    ],
-    "correctIndex": 2
+    "text": "Quel chef militaire français est surnommé le Tigre ?",
+    "answers": ["Clemenceau", "Joffre", "Foch", "Ney"],
+    "correctIndex": 1
   },
   {
     "id": "q103",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était surnommé le 'Mahatma' ?",
-    "answers": [
-      "Jawaharlal Nehru",
-      "Subhas Chandra Bose",
-      "B. R. Ambedkar",
-      "Mahatma Gandhi"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain est célèbre pour ses campagnes en Dacie ?",
+    "answers": ["Auguste", "Tibère", "Trajan", "Domitien"],
+    "correctIndex": 2
   },
   {
     "id": "q104",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était la reine de France exécutée pendant la Révolution française ?",
-    "answers": [
-      "Catherine de Médicis",
-      "Louise de Lorraine",
-      "Marie-Antoinette",
-      "Anne d'Autriche"
-    ],
-    "correctIndex": 2
+    "text": "Quel chef révolutionnaire russe a dirigé la révolution d’Octobre ?",
+    "answers": ["Trotski", "Staline", "Kerenski", "Lénine"],
+    "correctIndex": 3
   },
   {
     "id": "q105",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a dirigé l'Allemagne pendant la Seconde Guerre mondiale ?",
-    "answers": [
-      "Adolf Hitler",
-      "Benito Mussolini",
-      "Joseph Staline",
-      "Hirohito"
-    ],
+    "text": "Quel roi de France est à l’origine de la construction du Louvre médiéval ?",
+    "answers": ["Philippe Auguste", "Louis IX", "Charles V", "François Ier"],
     "correctIndex": 0
   },
   {
     "id": "q106",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint la Joconde ?",
-    "answers": [
-      "Léonard de Vinci",
-      "Raphaël",
-      "Donatello",
-      "Michel-Ange"
-    ],
-    "correctIndex": 0
+    "text": "Quel empereur allemand a fondé le Saint-Empire romain germanique ?",
+    "answers": ["Otton Ier", "Charlemagne", "Frédéric II", "Henri IV"],
+    "correctIndex": 1
   },
   {
     "id": "q107",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint la Joconde ?",
-    "answers": [
-      "Raphaël",
-      "Léonard de Vinci",
-      "Donatello",
-      "Michel-Ange"
-    ],
-    "correctIndex": 1
+    "text": "Quel chef grec a dirigé les Athéniens pendant les guerres médiques ?",
+    "answers": ["Périclès", "Miltiade", "Thémistocle", "Solon"],
+    "correctIndex": 2
   },
   {
     "id": "q108",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a été président des États-Unis pendant la guerre de Sécession ?",
-    "answers": [
-      "Ulysses S. Grant",
-      "Abraham Lincoln",
-      "Andrew Johnson",
-      "James Buchanan"
-    ],
-    "correctIndex": 1
+    "text": "Quel roi anglais est connu pour avoir signé la Magna Carta en 1215 ?",
+    "answers": ["Henri III", "Richard Cœur de Lion", "Henri II", "Jean sans Terre"],
+    "correctIndex": 3
   },
   {
     "id": "q109",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a dirigé l'Allemagne pendant la Seconde Guerre mondiale ?",
-    "answers": [
-      "Joseph Staline",
-      "Benito Mussolini",
-      "Hirohito",
-      "Adolf Hitler"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain est connu pour avoir adopté le christianisme comme religion officielle ?",
+    "answers": ["Théodose Ier", "Constantin", "Dioclétien", "Julien"],
+    "correctIndex": 0
   },
   {
     "id": "q110",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a dirigé l'Allemagne pendant la Seconde Guerre mondiale ?",
-    "answers": [
-      "Joseph Staline",
-      "Benito Mussolini",
-      "Adolf Hitler",
-      "Hirohito"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur portugais a doublé le cap de Bonne-Espérance ?",
+    "answers": ["Vasco de Gama", "Bartolomeu Dias", "Magellan", "Cabral"],
+    "correctIndex": 1
   },
+
   {
     "id": "q111",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Vasco de Gama",
-      "Amerigo Vespucci",
-      "Christophe Colomb",
-      "Ferdinand Magellan"
-    ],
+    "text": "Quel empereur romain est célèbre pour son amour de la philosophie ?",
+    "answers": ["Néron", "Commode", "Marc Aurèle", "Hadrien"],
     "correctIndex": 2
   },
   {
     "id": "q112",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint la Joconde ?",
-    "answers": [
-      "Raphaël",
-      "Donatello",
-      "Michel-Ange",
-      "Léonard de Vinci"
-    ],
+    "text": "Quel roi de France a été exilé à l’île d’Elbe ?",
+    "answers": ["Louis XVIII", "Charles X", "Napoléon III", "Napoléon Ier"],
     "correctIndex": 3
   },
   {
     "id": "q113",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Vasco de Gama",
-      "Ferdinand Magellan",
-      "Amerigo Vespucci",
-      "Christophe Colomb"
-    ],
-    "correctIndex": 3
+    "text": "Quel chef carthaginois est le père d’Hannibal ?",
+    "answers": ["Hamilcar Barca", "Hasdrubal", "Magon", "Bomilcar"],
+    "correctIndex": 0
   },
   {
     "id": "q114",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-    "answers": [
-      "Botticelli",
-      "Michel-Ange",
-      "Raphaël",
-      "Léonard de Vinci"
-    ],
+    "text": "Quel empereur romain a régné lors de l’incendie de Rome en 64 ?",
+    "answers": ["Caligula", "Néron", "Claude", "Tibère"],
     "correctIndex": 1
   },
   {
     "id": "q115",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-    "answers": [
-      "Léonard de Vinci",
-      "Raphaël",
-      "Botticelli",
-      "Michel-Ange"
-    ],
-    "correctIndex": 3
+    "text": "Quel roi de France est surnommé le Roi Chevalier ?",
+    "answers": ["Louis IX", "François Ier", "Charles VIII", "Henri IV"],
+    "correctIndex": 2
   },
   {
     "id": "q116",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Ferdinand Magellan",
-      "Christophe Colomb",
-      "Vasco de Gama",
-      "Amerigo Vespucci"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain a fait construire la colonne Trajane ?",
+    "answers": ["Auguste", "Domitien", "Hadrien", "Trajan"],
+    "correctIndex": 3
   },
   {
     "id": "q117",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a mené la marche du sel en Inde ?",
-    "answers": [
-      "Mahatma Gandhi",
-      "Bhagat Singh",
-      "Jawaharlal Nehru",
-      "Sardar Patel"
-    ],
+    "text": "Quel chef militaire macédonien était le père d’Alexandre le Grand ?",
+    "answers": ["Philippe II", "Antigone", "Cassandre", "Séleucos"],
     "correctIndex": 0
   },
   {
     "id": "q118",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était le premier empereur romain ?",
-    "answers": [
-      "Auguste",
-      "Néron",
-      "Caligula",
-      "Jules César"
-    ],
-    "correctIndex": 0
+    "text": "Quel empereur romain a mis fin à la persécution des chrétiens par l’édit de Milan ?",
+    "answers": ["Licinius", "Constantin", "Galère", "Maxence"],
+    "correctIndex": 1
   },
   {
     "id": "q119",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Amerigo Vespucci",
-      "Ferdinand Magellan",
-      "Christophe Colomb",
-      "Vasco de Gama"
-    ],
+    "text": "Quel empereur romain est connu pour son surnom de Caligula ?",
+    "answers": ["Claude", "Tibère", "Caius", "Néron"],
     "correctIndex": 2
   },
   {
     "id": "q120",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-    "answers": [
-      "Raphaël",
-      "Botticelli",
-      "Léonard de Vinci",
-      "Michel-Ange"
-    ],
+    "text": "Quel roi de France a remporté la bataille de Castillon en 1453 ?",
+    "answers": ["Charles VII", "Louis XI", "Charles VIII", "Louis XII"],
     "correctIndex": 3
   },
+
   {
     "id": "q121",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a dirigé l'Allemagne pendant la Seconde Guerre mondiale ?",
-    "answers": [
-      "Benito Mussolini",
-      "Hirohito",
-      "Joseph Staline",
-      "Adolf Hitler"
-    ],
-    "correctIndex": 3
+    "text": "Quel chef indien a dirigé la lutte contre l’apartheid en Afrique du Sud ?",
+    "answers": ["Nelson Mandela", "Steve Biko", "Botha", "De Klerk"],
+    "correctIndex": 0
   },
   {
     "id": "q122",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Galilée",
-      "Kepler",
-      "Isaac Newton",
-      "Einstein"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain a régné pendant la construction du Panthéon actuel ?",
+    "answers": ["Auguste", "Hadrien", "Trajan", "Claude"],
+    "correctIndex": 1
   },
   {
     "id": "q123",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Isaac Newton",
-      "Kepler",
-      "Einstein",
-      "Galilée"
-    ],
-    "correctIndex": 0
+    "text": "Quel roi de France est surnommé le roi fou ?",
+    "answers": ["Charles V", "Louis XI", "Charles VI", "Charles VII"],
+    "correctIndex": 2
   },
   {
     "id": "q124",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Kepler",
-      "Einstein",
-      "Isaac Newton",
-      "Galilée"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain a été assassiné par sa garde prétorienne en 193 ?",
+    "answers": ["Commode", "Pertinax", "Didius Julianus", "Septime Sévère"],
+    "correctIndex": 3
   },
   {
     "id": "q125",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était la reine de France exécutée pendant la Révolution française ?",
-    "answers": [
-      "Louise de Lorraine",
-      "Catherine de Médicis",
-      "Marie-Antoinette",
-      "Anne d'Autriche"
-    ],
-    "correctIndex": 2
+    "text": "Quel roi d’Angleterre a été surnommé Cœur de Lion ?",
+    "answers": ["Richard Ier", "Jean sans Terre", "Henri II", "Édouard Ier"],
+    "correctIndex": 0
   },
   {
     "id": "q126",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint la Joconde ?",
-    "answers": [
-      "Léonard de Vinci",
-      "Michel-Ange",
-      "Raphaël",
-      "Donatello"
-    ],
-    "correctIndex": 0
+    "text": "Quel empereur romain a fait de Byzance sa nouvelle capitale ?",
+    "answers": ["Théodose", "Constantin", "Dioclétien", "Valentinien"],
+    "correctIndex": 1
   },
   {
     "id": "q127",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était la reine de France exécutée pendant la Révolution française ?",
-    "answers": [
-      "Louise de Lorraine",
-      "Marie-Antoinette",
-      "Anne d'Autriche",
-      "Catherine de Médicis"
-    ],
-    "correctIndex": 1
+    "text": "Quel chef français est surnommé le vainqueur de Verdun ?",
+    "answers": ["Pétain", "Foch", "Joffre", "Ney"],
+    "correctIndex": 2
   },
   {
     "id": "q128",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Galilée",
-      "Einstein",
-      "Kepler",
-      "Isaac Newton"
-    ],
+    "text": "Quel empereur romain a été assassiné lors des ides de mars ?",
+    "answers": ["Auguste", "Néron", "Caligula", "Jules César"],
     "correctIndex": 3
   },
   {
     "id": "q129",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était le premier empereur romain ?",
-    "answers": [
-      "Caligula",
-      "Néron",
-      "Auguste",
-      "Jules César"
-    ],
-    "correctIndex": 2
+    "text": "Quel roi de France a instauré la monarchie absolue ?",
+    "answers": ["Louis XIV", "Louis XIII", "François Ier", "Henri IV"],
+    "correctIndex": 0
   },
   {
     "id": "q130",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a été président des États-Unis pendant la guerre de Sécession ?",
-    "answers": [
-      "Ulysses S. Grant",
-      "Andrew Johnson",
-      "Abraham Lincoln",
-      "James Buchanan"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain est connu pour avoir écrit des Méditations ?",
+    "answers": ["Sénèque", "Marc Aurèle", "Épictète", "Néron"],
+    "correctIndex": 1
   },
+
   {
     "id": "q131",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était surnommé le 'Mahatma' ?",
-    "answers": [
-      "Mahatma Gandhi",
-      "B. R. Ambedkar",
-      "Jawaharlal Nehru",
-      "Subhas Chandra Bose"
-    ],
-    "correctIndex": 0
+    "text": "Quel empereur romain a fondé la dynastie julio-claudienne ?",
+    "answers": ["Auguste", "Tibère", "Claude", "Caligula"],
+    "correctIndex": 2
   },
   {
     "id": "q132",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a mené la marche du sel en Inde ?",
-    "answers": [
-      "Mahatma Gandhi",
-      "Bhagat Singh",
-      "Sardar Patel",
-      "Jawaharlal Nehru"
-    ],
-    "correctIndex": 0
+    "text": "Quel roi de France est surnommé le roi bourgeois ?",
+    "answers": ["Louis XVIII", "Charles X", "Napoléon III", "Louis-Philippe"],
+    "correctIndex": 3
   },
   {
     "id": "q133",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a été président des États-Unis pendant la guerre de Sécession ?",
-    "answers": [
-      "Ulysses S. Grant",
-      "James Buchanan",
-      "Abraham Lincoln",
-      "Andrew Johnson"
-    ],
-    "correctIndex": 2
+    "text": "Quel chef militaire romain est connu pour la bataille de Zama ?",
+    "answers": ["Scipion l’Africain", "Hannibal", "Caton", "Fabius"],
+    "correctIndex": 0
   },
   {
     "id": "q134",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Isaac Newton",
-      "Einstein",
-      "Kepler",
-      "Galilée"
-    ],
-    "correctIndex": 0
+    "text": "Quel empereur romain a été le successeur direct de Néron ?",
+    "answers": ["Galba", "Othon", "Vitellius", "Vespasien"],
+    "correctIndex": 1
   },
   {
     "id": "q135",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a mené la marche du sel en Inde ?",
-    "answers": [
-      "Jawaharlal Nehru",
-      "Bhagat Singh",
-      "Sardar Patel",
-      "Mahatma Gandhi"
-    ],
-    "correctIndex": 3
+    "text": "Quel roi de France est connu pour son emblème de la salamandre ?",
+    "answers": ["Charles VIII", "Louis XII", "François Ier", "Henri II"],
+    "correctIndex": 2
   },
   {
     "id": "q136",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était la reine de France exécutée pendant la Révolution française ?",
-    "answers": [
-      "Marie-Antoinette",
-      "Louise de Lorraine",
-      "Catherine de Médicis",
-      "Anne d'Autriche"
-    ],
-    "correctIndex": 0
+    "text": "Quel empereur romain a fondé la dynastie flavienne ?",
+    "answers": ["Titus", "Domitien", "Galba", "Vespasien"],
+    "correctIndex": 3
   },
   {
     "id": "q137",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Isaac Newton",
-      "Galilée",
-      "Einstein",
-      "Kepler"
-    ],
+    "text": "Quel chef militaire allemand a été chancelier en 1871 ?",
+    "answers": ["Otto von Bismarck", "Guillaume II", "Hindenburg", "Moltke"],
     "correctIndex": 0
   },
   {
     "id": "q138",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Vasco de Gama",
-      "Amerigo Vespucci",
-      "Christophe Colomb",
-      "Ferdinand Magellan"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain a gouverné pendant la construction du Colisée ?",
+    "answers": ["Titus", "Vespasien", "Domitien", "Claude"],
+    "correctIndex": 1
   },
   {
     "id": "q139",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a été président des États-Unis pendant la guerre de Sécession ?",
-    "answers": [
-      "James Buchanan",
-      "Abraham Lincoln",
-      "Andrew Johnson",
-      "Ulysses S. Grant"
-    ],
-    "correctIndex": 1
+    "text": "Quel roi de France est mort assassiné en 1610 ?",
+    "answers": ["Louis XIII", "Henri IV", "Louis XIV", "François Ier"],
+    "correctIndex": 2
   },
   {
     "id": "q140",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint la Joconde ?",
-    "answers": [
-      "Raphaël",
-      "Michel-Ange",
-      "Léonard de Vinci",
-      "Donatello"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain a donné son nom à la dynastie sévérienne ?",
+    "answers": ["Caracalla", "Geta", "Macrin", "Septime Sévère"],
+    "correctIndex": 3
   },
+
   {
     "id": "q141",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Kepler",
-      "Einstein",
-      "Isaac Newton",
-      "Galilée"
-    ],
-    "correctIndex": 2
+    "text": "Quel chef français est surnommé le Tigre de Verdun ?",
+    "answers": ["Pétain", "Foch", "Joffre", "Clemenceau"],
+    "correctIndex": 0
   },
   {
     "id": "q142",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était surnommé le 'Mahatma' ?",
-    "answers": [
-      "Mahatma Gandhi",
-      "B. R. Ambedkar",
-      "Jawaharlal Nehru",
-      "Subhas Chandra Bose"
-    ],
-    "correctIndex": 0
+    "text": "Quel empereur romain a instauré la tétrarchie ?",
+    "answers": ["Constantin", "Dioclétien", "Galère", "Maximien"],
+    "correctIndex": 1
   },
   {
     "id": "q143",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était le premier empereur romain ?",
-    "answers": [
-      "Néron",
-      "Caligula",
-      "Jules César",
-      "Auguste"
-    ],
-    "correctIndex": 3
+    "text": "Quel roi de France a régné pendant la Fronde ?",
+    "answers": ["Louis XIII", "Louis XIV", "Louis XV", "Louis XVI"],
+    "correctIndex": 2
   },
   {
     "id": "q144",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Kepler",
-      "Einstein",
-      "Isaac Newton",
-      "Galilée"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain a été assassiné par sa propre épouse Agrippine ?",
+    "answers": ["Claude", "Néron", "Caligula", "Tibère"],
+    "correctIndex": 3
   },
   {
     "id": "q145",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a dirigé l'Allemagne pendant la Seconde Guerre mondiale ?",
-    "answers": [
-      "Joseph Staline",
-      "Adolf Hitler",
-      "Benito Mussolini",
-      "Hirohito"
-    ],
-    "correctIndex": 1
+    "text": "Quel chef grec est connu pour sa bravoure à Marathon ?",
+    "answers": ["Miltiade", "Léonidas", "Thémistocle", "Périclès"],
+    "correctIndex": 0
   },
   {
     "id": "q146",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Einstein",
-      "Isaac Newton",
-      "Galilée",
-      "Kepler"
-    ],
+    "text": "Quel empereur romain a succédé à Claude ?",
+    "answers": ["Tibère", "Néron", "Caligula", "Domitien"],
     "correctIndex": 1
   },
   {
     "id": "q147",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Isaac Newton",
-      "Einstein",
-      "Kepler",
-      "Galilée"
-    ],
-    "correctIndex": 0
+    "text": "Quel roi de France est surnommé le roi bien-aimé ?",
+    "answers": ["Louis XIV", "Louis XV", "Louis XVI", "Louis XIII"],
+    "correctIndex": 2
   },
   {
     "id": "q148",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-    "answers": [
-      "Léonard de Vinci",
-      "Botticelli",
-      "Raphaël",
-      "Michel-Ange"
-    ],
+    "text": "Quel empereur romain a fait édifier le mur d’Antonin ?",
+    "answers": ["Hadrien", "Antonin le Pieux", "Trajan", "Claude"],
     "correctIndex": 3
   },
   {
     "id": "q149",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était le premier empereur romain ?",
-    "answers": [
-      "Jules César",
-      "Auguste",
-      "Caligula",
-      "Néron"
-    ],
-    "correctIndex": 1
+    "text": "Quel chef militaire français est surnommé le Lion de Belfort ?",
+    "answers": ["Denfert-Rochereau", "Joffre", "Foch", "Ney"],
+    "correctIndex": 0
   },
   {
     "id": "q150",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était surnommé le 'Mahatma' ?",
-    "answers": [
-      "Jawaharlal Nehru",
-      "Mahatma Gandhi",
-      "Subhas Chandra Bose",
-      "B. R. Ambedkar"
-    ],
+    "text": "Quel empereur romain a accordé la citoyenneté romaine à tous les hommes libres de l’Empire ?",
+    "answers": ["Auguste", "Caracalla", "Septime Sévère", "Hadrien"],
     "correctIndex": 1
   },
   {
     "id": "q151",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-    "answers": [
-      "Michel-Ange",
-      "Léonard de Vinci",
-      "Raphaël",
-      "Botticelli"
-    ],
-    "correctIndex": 0
+    "text": "Quel empereur romain est connu pour son édit accordant la citoyenneté romaine à tous les hommes libres ?",
+    "answers": ["Auguste", "Hadrien", "Caracalla", "Trajan"],
+    "correctIndex": 2
   },
   {
     "id": "q152",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint la Joconde ?",
-    "answers": [
-      "Michel-Ange",
-      "Donatello",
-      "Léonard de Vinci",
-      "Raphaël"
-    ],
-    "correctIndex": 2
+    "text": "Quel chef militaire grec est célèbre pour la bataille de Marathon ?",
+    "answers": ["Thémistocle", "Périclès", "Miltiade", "Léonidas"],
+    "correctIndex": 3
   },
   {
     "id": "q153",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était surnommé le 'Mahatma' ?",
-    "answers": [
-      "Mahatma Gandhi",
-      "Jawaharlal Nehru",
-      "B. R. Ambedkar",
-      "Subhas Chandra Bose"
-    ],
+    "text": "Quel roi de France a été le premier de la dynastie des Bourbons ?",
+    "answers": ["Henri IV", "Louis XIII", "François Ier", "Charles IX"],
     "correctIndex": 0
   },
   {
     "id": "q154",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a été président des États-Unis pendant la guerre de Sécession ?",
-    "answers": [
-      "Ulysses S. Grant",
-      "James Buchanan",
-      "Abraham Lincoln",
-      "Andrew Johnson"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain a régné pendant l’éruption du Vésuve en 79 ?",
+    "answers": ["Néron", "Titus", "Domitien", "Vespasien"],
+    "correctIndex": 1
   },
   {
     "id": "q155",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Kepler",
-      "Isaac Newton",
-      "Einstein",
-      "Galilée"
-    ],
-    "correctIndex": 1
+    "text": "Quel chef gaulois a affronté Jules César à Alésia ?",
+    "answers": ["Ambiorix", "Vercingétorix", "Brennus", "Camulogène"],
+    "correctIndex": 2
   },
   {
     "id": "q156",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint la Joconde ?",
-    "answers": [
-      "Raphaël",
-      "Léonard de Vinci",
-      "Donatello",
-      "Michel-Ange"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain est connu pour avoir fait construire le mur d’Hadrien ?",
+    "answers": ["Trajan", "Antonin le Pieux", "Claude", "Hadrien"],
+    "correctIndex": 3
   },
   {
     "id": "q157",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était le premier empereur romain ?",
-    "answers": [
-      "Auguste",
-      "Néron",
-      "Caligula",
-      "Jules César"
-    ],
+    "text": "Quel président américain est le premier président des États-Unis ?",
+    "answers": ["George Washington", "John Adams", "Thomas Jefferson", "James Madison"],
     "correctIndex": 0
   },
   {
     "id": "q158",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-    "answers": [
-      "Michel-Ange",
-      "Raphaël",
-      "Botticelli",
-      "Léonard de Vinci"
-    ],
-    "correctIndex": 0
+    "text": "Quel roi de France a fait édifier la Sainte-Chapelle à Paris ?",
+    "answers": ["Louis VIII", "Louis IX", "Philippe Auguste", "Charles V"],
+    "correctIndex": 1
   },
   {
     "id": "q159",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint la Joconde ?",
-    "answers": [
-      "Donatello",
-      "Michel-Ange",
-      "Léonard de Vinci",
-      "Raphaël"
-    ],
+    "text": "Quel empereur romain est célèbre pour son surnom de Caligula ?",
+    "answers": ["Claude", "Tibère", "Caius", "Néron"],
     "correctIndex": 2
   },
   {
     "id": "q160",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était la reine de France exécutée pendant la Révolution française ?",
-    "answers": [
-      "Marie-Antoinette",
-      "Anne d'Autriche",
-      "Catherine de Médicis",
-      "Louise de Lorraine"
-    ],
-    "correctIndex": 0
+    "text": "Quel roi d’Angleterre a été vaincu à Hastings en 1066 ?",
+    "answers": ["Édouard le Confesseur", "Harold II", "Guillaume le Roux", "Richard Ier"],
+    "correctIndex": 3
   },
+
   {
     "id": "q161",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Kepler",
-      "Einstein",
-      "Isaac Newton",
-      "Galilée"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain est le fondateur de l’Empire romain ?",
+    "answers": ["Auguste", "Jules César", "Tibère", "Néron"],
+    "correctIndex": 0
   },
   {
     "id": "q162",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était la reine de France exécutée pendant la Révolution française ?",
-    "answers": [
-      "Catherine de Médicis",
-      "Louise de Lorraine",
-      "Anne d'Autriche",
-      "Marie-Antoinette"
-    ],
-    "correctIndex": 3
+    "text": "Quel roi de France a régné pendant la guerre de Cent Ans au moment du sacre de Jeanne d’Arc ?",
+    "answers": ["Charles VI", "Charles VII", "Louis XI", "Philippe VI"],
+    "correctIndex": 1
   },
   {
     "id": "q163",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint la Joconde ?",
-    "answers": [
-      "Donatello",
-      "Léonard de Vinci",
-      "Raphaël",
-      "Michel-Ange"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain est connu pour ses grandes réformes administratives et juridiques au IIIe siècle ?",
+    "answers": ["Caracalla", "Dioclétien", "Constantin", "Hadrien"],
+    "correctIndex": 2
   },
   {
     "id": "q164",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était la reine de France exécutée pendant la Révolution française ?",
-    "answers": [
-      "Catherine de Médicis",
-      "Marie-Antoinette",
-      "Louise de Lorraine",
-      "Anne d'Autriche"
-    ],
-    "correctIndex": 1
+    "text": "Quel chef militaire français est surnommé le vainqueur d’Austerlitz ?",
+    "answers": ["Murat", "Ney", "Davout", "Napoléon Bonaparte"],
+    "correctIndex": 3
   },
   {
     "id": "q165",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a dirigé l'Allemagne pendant la Seconde Guerre mondiale ?",
-    "answers": [
-      "Hirohito",
-      "Joseph Staline",
-      "Adolf Hitler",
-      "Benito Mussolini"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain a fondé la ville de Constantinople ?",
+    "answers": ["Constantin", "Théodose", "Dioclétien", "Valens"],
+    "correctIndex": 0
   },
   {
     "id": "q166",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Isaac Newton",
-      "Galilée",
-      "Einstein",
-      "Kepler"
-    ],
-    "correctIndex": 0
+    "text": "Quel roi de France est connu pour la construction du château de Chambord ?",
+    "answers": ["Louis XII", "François Ier", "Henri II", "Charles VIII"],
+    "correctIndex": 1
   },
   {
     "id": "q167",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Galilée",
-      "Kepler",
-      "Einstein",
-      "Isaac Newton"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain est célèbre pour sa victoire sur les Daces ?",
+    "answers": ["Domitien", "Auguste", "Trajan", "Tibère"],
+    "correctIndex": 2
   },
   {
     "id": "q168",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Amerigo Vespucci",
-      "Ferdinand Magellan",
-      "Christophe Colomb",
-      "Vasco de Gama"
-    ],
-    "correctIndex": 2
+    "text": "Quel roi de France a aboli les privilèges en 1789 ?",
+    "answers": ["Louis XV", "Louis XVI", "Louis XVIII", "L’Assemblée nationale"],
+    "correctIndex": 3
   },
   {
     "id": "q169",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a dirigé l'Allemagne pendant la Seconde Guerre mondiale ?",
-    "answers": [
-      "Benito Mussolini",
-      "Adolf Hitler",
-      "Joseph Staline",
-      "Hirohito"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain est connu pour son amour des arts et de la poésie ?",
+    "answers": ["Néron", "Claude", "Auguste", "Tibère"],
+    "correctIndex": 0
   },
   {
     "id": "q170",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était la reine de France exécutée pendant la Révolution française ?",
-    "answers": [
-      "Louise de Lorraine",
-      "Marie-Antoinette",
-      "Catherine de Médicis",
-      "Anne d'Autriche"
-    ],
+    "text": "Quel roi de France a été surnommé le roi citoyen ?",
+    "answers": ["Charles X", "Louis-Philippe", "Napoléon III", "Louis XVIII"],
     "correctIndex": 1
   },
+
   {
     "id": "q171",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était surnommé le 'Mahatma' ?",
-    "answers": [
-      "B. R. Ambedkar",
-      "Subhas Chandra Bose",
-      "Mahatma Gandhi",
-      "Jawaharlal Nehru"
-    ],
+    "text": "Quel empereur romain a instauré la tétrarchie ?",
+    "answers": ["Constantin", "Galère", "Dioclétien", "Maximien"],
     "correctIndex": 2
   },
   {
     "id": "q172",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Kepler",
-      "Galilée",
-      "Isaac Newton",
-      "Einstein"
-    ],
-    "correctIndex": 2
+    "text": "Quel chef militaire anglais a remporté la bataille d’Azincourt ?",
+    "answers": ["Édouard III", "Richard II", "Jean sans Terre", "Henri V"],
+    "correctIndex": 3
   },
   {
     "id": "q173",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-    "answers": [
-      "Michel-Ange",
-      "Raphaël",
-      "Léonard de Vinci",
-      "Botticelli"
-    ],
+    "text": "Quel empereur romain est connu pour son règne durant la Pax Romana ?",
+    "answers": ["Antonin le Pieux", "Néron", "Domitien", "Commode"],
     "correctIndex": 0
   },
   {
     "id": "q174",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint la Joconde ?",
-    "answers": [
-      "Raphaël",
-      "Donatello",
-      "Léonard de Vinci",
-      "Michel-Ange"
-    ],
-    "correctIndex": 2
+    "text": "Quel roi de France a été sacré à Reims en présence de Jeanne d’Arc ?",
+    "answers": ["Charles VI", "Charles VII", "Louis XI", "Philippe le Bon"],
+    "correctIndex": 1
   },
   {
     "id": "q175",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-    "answers": [
-      "Botticelli",
-      "Michel-Ange",
-      "Raphaël",
-      "Léonard de Vinci"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain est connu pour sa réforme monétaire avec le solidus ?",
+    "answers": ["Dioclétien", "Constantin", "Théodose", "Hadrien"],
+    "correctIndex": 2
   },
   {
     "id": "q176",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a mené la marche du sel en Inde ?",
-    "answers": [
-      "Bhagat Singh",
-      "Jawaharlal Nehru",
-      "Sardar Patel",
-      "Mahatma Gandhi"
-    ],
+    "text": "Quel chef révolutionnaire français est surnommé l’Incorruptible ?",
+    "answers": ["Danton", "Marat", "Desmoulins", "Robespierre"],
     "correctIndex": 3
   },
   {
     "id": "q177",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-    "answers": [
-      "Michel-Ange",
-      "Raphaël",
-      "Botticelli",
-      "Léonard de Vinci"
-    ],
+    "text": "Quel empereur romain a fait construire le Colisée ?",
+    "answers": ["Vespasien", "Titus", "Domitien", "Néron"],
     "correctIndex": 0
   },
   {
     "id": "q178",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-    "answers": [
-      "Michel-Ange",
-      "Raphaël",
-      "Léonard de Vinci",
-      "Botticelli"
-    ],
-    "correctIndex": 0
+    "text": "Quel roi de France est surnommé Saint Louis ?",
+    "answers": ["Louis VIII", "Louis IX", "Louis X", "Louis XI"],
+    "correctIndex": 1
   },
   {
     "id": "q179",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était la reine de France exécutée pendant la Révolution française ?",
-    "answers": [
-      "Catherine de Médicis",
-      "Louise de Lorraine",
-      "Anne d'Autriche",
-      "Marie-Antoinette"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain a divisé l’Empire en provinces orientales et occidentales ?",
+    "answers": ["Dioclétien", "Constantin", "Théodose Ier", "Valentinien"],
+    "correctIndex": 2
   },
   {
     "id": "q180",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint la Joconde ?",
-    "answers": [
-      "Donatello",
-      "Michel-Ange",
-      "Raphaël",
-      "Léonard de Vinci"
-    ],
+    "text": "Quel président français a instauré la Ve République ?",
+    "answers": ["Pompidou", "Mitterrand", "Giscard d’Estaing", "Charles de Gaulle"],
     "correctIndex": 3
   },
+
   {
     "id": "q181",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a dirigé l'Allemagne pendant la Seconde Guerre mondiale ?",
-    "answers": [
-      "Joseph Staline",
-      "Adolf Hitler",
-      "Benito Mussolini",
-      "Hirohito"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain est connu pour ses Pensées philosophiques ?",
+    "answers": ["Marc Aurèle", "Sénèque", "Épictète", "Platon"],
+    "correctIndex": 0
   },
   {
     "id": "q182",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Christophe Colomb",
-      "Ferdinand Magellan",
-      "Vasco de Gama",
-      "Amerigo Vespucci"
-    ],
-    "correctIndex": 0
+    "text": "Quel roi de France a régné le plus longtemps ?",
+    "answers": ["Louis XIII", "Louis XIV", "Louis XV", "Louis XVI"],
+    "correctIndex": 1
   },
   {
     "id": "q183",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Ferdinand Magellan",
-      "Vasco de Gama",
-      "Christophe Colomb",
-      "Amerigo Vespucci"
-    ],
+    "text": "Quel empereur romain est célèbre pour l’édit de Milan ?",
+    "answers": ["Licinius", "Galère", "Constantin", "Maxence"],
     "correctIndex": 2
   },
   {
     "id": "q184",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Isaac Newton",
-      "Kepler",
-      "Galilée",
-      "Einstein"
-    ],
-    "correctIndex": 0
+    "text": "Quel chef militaire allemand est surnommé le chancelier de fer ?",
+    "answers": ["Guillaume II", "Hindenburg", "Moltke", "Otto von Bismarck"],
+    "correctIndex": 3
   },
   {
     "id": "q185",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-    "answers": [
-      "Michel-Ange",
-      "Botticelli",
-      "Raphaël",
-      "Léonard de Vinci"
-    ],
+    "text": "Quel empereur romain a succédé à Auguste ?",
+    "answers": ["Tibère", "Caligula", "Claude", "Néron"],
     "correctIndex": 0
   },
   {
     "id": "q186",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Isaac Newton",
-      "Einstein",
-      "Galilée",
-      "Kepler"
-    ],
-    "correctIndex": 0
+    "text": "Quel roi de France a été surnommé le Bien-Aimé ?",
+    "answers": ["Louis XIV", "Louis XV", "Louis XVI", "Louis XIII"],
+    "correctIndex": 1
   },
   {
     "id": "q187",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Einstein",
-      "Galilée",
-      "Kepler",
-      "Isaac Newton"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain a régné lors de l’apogée territoriale de l’Empire ?",
+    "answers": ["Auguste", "Hadrien", "Trajan", "Antonin le Pieux"],
+    "correctIndex": 2
   },
   {
     "id": "q188",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a été président des États-Unis pendant la guerre de Sécession ?",
-    "answers": [
-      "James Buchanan",
-      "Abraham Lincoln",
-      "Ulysses S. Grant",
-      "Andrew Johnson"
-    ],
-    "correctIndex": 1
+    "text": "Quel chef militaire français a été surnommé le Tigre ?",
+    "answers": ["Foch", "Joffre", "Ney", "Georges Clemenceau"],
+    "correctIndex": 3
   },
   {
     "id": "q189",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a peint la Joconde ?",
-    "answers": [
-      "Raphaël",
-      "Michel-Ange",
-      "Léonard de Vinci",
-      "Donatello"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain est connu pour avoir favorisé le christianisme ?",
+    "answers": ["Constantin", "Dioclétien", "Julien", "Néron"],
+    "correctIndex": 0
   },
   {
     "id": "q190",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a dirigé l'Allemagne pendant la Seconde Guerre mondiale ?",
-    "answers": [
-      "Adolf Hitler",
-      "Benito Mussolini",
-      "Hirohito",
-      "Joseph Staline"
-    ],
-    "correctIndex": 0
+    "text": "Quel roi de France a promulgué l’édit de Nantes ?",
+    "answers": ["Henri III", "Henri IV", "Louis XIII", "François Ier"],
+    "correctIndex": 1
   },
+
   {
     "id": "q191",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Einstein",
-      "Galilée",
-      "Isaac Newton",
-      "Kepler"
-    ],
+    "text": "Quel empereur romain est célèbre pour son code de lois compilé à Byzance ?",
+    "answers": ["Théodose", "Hadrien", "Justinian", "Constantin"],
     "correctIndex": 2
   },
   {
     "id": "q192",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était surnommé le 'Mahatma' ?",
-    "answers": [
-      "Subhas Chandra Bose",
-      "B. R. Ambedkar",
-      "Jawaharlal Nehru",
-      "Mahatma Gandhi"
-    ],
+    "text": "Quel chef militaire français a remporté la bataille de Verdun en 1916 ?",
+    "answers": ["Joffre", "Nivelle", "Foch", "Pétain"],
     "correctIndex": 3
   },
   {
     "id": "q193",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était surnommé le 'Mahatma' ?",
-    "answers": [
-      "Mahatma Gandhi",
-      "Subhas Chandra Bose",
-      "Jawaharlal Nehru",
-      "B. R. Ambedkar"
-    ],
+    "text": "Quel empereur romain est connu pour avoir été philosophe stoïcien ?",
+    "answers": ["Marc Aurèle", "Sénèque", "Épictète", "Plutarque"],
     "correctIndex": 0
   },
   {
     "id": "q194",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était la reine de France exécutée pendant la Révolution française ?",
-    "answers": [
-      "Catherine de Médicis",
-      "Anne d'Autriche",
-      "Louise de Lorraine",
-      "Marie-Antoinette"
-    ],
-    "correctIndex": 3
+    "text": "Quel roi de France a été surnommé le Père du peuple ?",
+    "answers": ["Louis XII", "Louis IX", "Henri IV", "François Ier"],
+    "correctIndex": 1
   },
   {
     "id": "q195",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était surnommé le 'Mahatma' ?",
-    "answers": [
-      "Jawaharlal Nehru",
-      "Mahatma Gandhi",
-      "B. R. Ambedkar",
-      "Subhas Chandra Bose"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain a accordé la liberté de culte aux chrétiens ?",
+    "answers": ["Galère", "Licinius", "Constantin", "Théodose"],
+    "correctIndex": 2
   },
   {
     "id": "q196",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était la reine de France exécutée pendant la Révolution française ?",
-    "answers": [
-      "Marie-Antoinette",
-      "Catherine de Médicis",
-      "Anne d'Autriche",
-      "Louise de Lorraine"
-    ],
-    "correctIndex": 0
+    "text": "Quel roi d’Angleterre est connu pour ses six épouses ?",
+    "answers": ["Richard III", "Édouard VI", "Henri VII", "Henri VIII"],
+    "correctIndex": 3
   },
   {
     "id": "q197",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Christophe Colomb",
-      "Vasco de Gama",
-      "Ferdinand Magellan",
-      "Amerigo Vespucci"
-    ],
+    "text": "Quel empereur romain a régné lors de la destruction de Jérusalem en 70 ?",
+    "answers": ["Vespasien", "Titus", "Domitien", "Néron"],
     "correctIndex": 0
   },
   {
     "id": "q198",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Galilée",
-      "Kepler",
-      "Isaac Newton",
-      "Einstein"
-    ],
-    "correctIndex": 2
+    "text": "Quel roi de France a succédé à Louis XIV ?",
+    "answers": ["Louis XIII", "Louis XV", "Louis XVI", "Louis XVIII"],
+    "correctIndex": 1
   },
   {
     "id": "q199",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui était surnommé le 'Mahatma' ?",
-    "answers": [
-      "Mahatma Gandhi",
-      "B. R. Ambedkar",
-      "Subhas Chandra Bose",
-      "Jawaharlal Nehru"
-    ],
-    "correctIndex": 0
+    "text": "Quel empereur romain est connu pour avoir fait bâtir la basilique Sainte-Sophie ?",
+    "answers": ["Constantin", "Théodose", "Justinien", "Héraclius"],
+    "correctIndex": 2
   },
   {
     "id": "q200",
     "category": "Figures historiques",
     "difficulty": "Facile",
-    "text": "Qui a dirigé l'Allemagne pendant la Seconde Guerre mondiale ?",
-    "answers": [
-      "Joseph Staline",
-      "Benito Mussolini",
-      "Adolf Hitler",
-      "Hirohito"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q201",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a été président des États-Unis pendant la guerre de Sécession ?",
-    "answers": [
-      "Ulysses S. Grant",
-      "Andrew Johnson",
-      "James Buchanan",
-      "Abraham Lincoln"
-    ],
+    "text": "Quel chef militaire français est surnommé le Lion de Belfort ?",
+    "answers": ["Mac-Mahon", "Joffre", "Foch", "Denfert-Rochereau"],
     "correctIndex": 3
-  },
-  {
-    "id": "q202",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a été président des États-Unis pendant la guerre de Sécession ?",
-    "answers": [
-      "Andrew Johnson",
-      "James Buchanan",
-      "Abraham Lincoln",
-      "Ulysses S. Grant"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q203",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a mené la marche du sel en Inde ?",
-    "answers": [
-      "Sardar Patel",
-      "Bhagat Singh",
-      "Mahatma Gandhi",
-      "Jawaharlal Nehru"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q204",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a dirigé l'Allemagne pendant la Seconde Guerre mondiale ?",
-    "answers": [
-      "Joseph Staline",
-      "Hirohito",
-      "Benito Mussolini",
-      "Adolf Hitler"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q205",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a mené la marche du sel en Inde ?",
-    "answers": [
-      "Jawaharlal Nehru",
-      "Bhagat Singh",
-      "Sardar Patel",
-      "Mahatma Gandhi"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q206",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-    "answers": [
-      "Léonard de Vinci",
-      "Michel-Ange",
-      "Raphaël",
-      "Botticelli"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q207",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-    "answers": [
-      "Léonard de Vinci",
-      "Raphaël",
-      "Michel-Ange",
-      "Botticelli"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q208",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui était le premier empereur romain ?",
-    "answers": [
-      "Auguste",
-      "Néron",
-      "Jules César",
-      "Caligula"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q209",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-    "answers": [
-      "Léonard de Vinci",
-      "Michel-Ange",
-      "Botticelli",
-      "Raphaël"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q210",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a mené la marche du sel en Inde ?",
-    "answers": [
-      "Bhagat Singh",
-      "Sardar Patel",
-      "Jawaharlal Nehru",
-      "Mahatma Gandhi"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q211",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Isaac Newton",
-      "Galilée",
-      "Einstein",
-      "Kepler"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q212",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Ferdinand Magellan",
-      "Amerigo Vespucci",
-      "Vasco de Gama",
-      "Christophe Colomb"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q213",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui était la reine de France exécutée pendant la Révolution française ?",
-    "answers": [
-      "Marie-Antoinette",
-      "Louise de Lorraine",
-      "Catherine de Médicis",
-      "Anne d'Autriche"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q214",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a mené la marche du sel en Inde ?",
-    "answers": [
-      "Sardar Patel",
-      "Jawaharlal Nehru",
-      "Mahatma Gandhi",
-      "Bhagat Singh"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q215",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui était surnommé le 'Mahatma' ?",
-    "answers": [
-      "B. R. Ambedkar",
-      "Jawaharlal Nehru",
-      "Mahatma Gandhi",
-      "Subhas Chandra Bose"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q216",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a dirigé l'Allemagne pendant la Seconde Guerre mondiale ?",
-    "answers": [
-      "Adolf Hitler",
-      "Benito Mussolini",
-      "Joseph Staline",
-      "Hirohito"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q217",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Vasco de Gama",
-      "Amerigo Vespucci",
-      "Christophe Colomb",
-      "Ferdinand Magellan"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q218",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui était la reine de France exécutée pendant la Révolution française ?",
-    "answers": [
-      "Louise de Lorraine",
-      "Marie-Antoinette",
-      "Catherine de Médicis",
-      "Anne d'Autriche"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q219",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a mené la marche du sel en Inde ?",
-    "answers": [
-      "Mahatma Gandhi",
-      "Bhagat Singh",
-      "Sardar Patel",
-      "Jawaharlal Nehru"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q220",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui était le premier empereur romain ?",
-    "answers": [
-      "Néron",
-      "Auguste",
-      "Jules César",
-      "Caligula"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q221",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Kepler",
-      "Einstein",
-      "Galilée",
-      "Isaac Newton"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q222",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a dirigé l'Allemagne pendant la Seconde Guerre mondiale ?",
-    "answers": [
-      "Hirohito",
-      "Benito Mussolini",
-      "Adolf Hitler",
-      "Joseph Staline"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q223",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui était le premier empereur romain ?",
-    "answers": [
-      "Caligula",
-      "Jules César",
-      "Auguste",
-      "Néron"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q224",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Einstein",
-      "Galilée",
-      "Isaac Newton",
-      "Kepler"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q225",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a été président des États-Unis pendant la guerre de Sécession ?",
-    "answers": [
-      "James Buchanan",
-      "Andrew Johnson",
-      "Abraham Lincoln",
-      "Ulysses S. Grant"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q226",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui était le premier empereur romain ?",
-    "answers": [
-      "Caligula",
-      "Auguste",
-      "Jules César",
-      "Néron"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q227",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Kepler",
-      "Galilée",
-      "Einstein",
-      "Isaac Newton"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q228",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a dirigé l'Allemagne pendant la Seconde Guerre mondiale ?",
-    "answers": [
-      "Benito Mussolini",
-      "Hirohito",
-      "Joseph Staline",
-      "Adolf Hitler"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q229",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Einstein",
-      "Galilée",
-      "Isaac Newton",
-      "Kepler"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q230",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-    "answers": [
-      "Botticelli",
-      "Raphaël",
-      "Michel-Ange",
-      "Léonard de Vinci"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q231",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a été président des États-Unis pendant la guerre de Sécession ?",
-    "answers": [
-      "Andrew Johnson",
-      "James Buchanan",
-      "Ulysses S. Grant",
-      "Abraham Lincoln"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q232",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Einstein",
-      "Isaac Newton",
-      "Kepler",
-      "Galilée"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q233",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a été président des États-Unis pendant la guerre de Sécession ?",
-    "answers": [
-      "James Buchanan",
-      "Ulysses S. Grant",
-      "Abraham Lincoln",
-      "Andrew Johnson"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q234",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui était le premier empereur romain ?",
-    "answers": [
-      "Caligula",
-      "Auguste",
-      "Néron",
-      "Jules César"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q235",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a été président des États-Unis pendant la guerre de Sécession ?",
-    "answers": [
-      "James Buchanan",
-      "Abraham Lincoln",
-      "Ulysses S. Grant",
-      "Andrew Johnson"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q236",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Kepler",
-      "Einstein",
-      "Galilée",
-      "Isaac Newton"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q237",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a mené la marche du sel en Inde ?",
-    "answers": [
-      "Mahatma Gandhi",
-      "Sardar Patel",
-      "Bhagat Singh",
-      "Jawaharlal Nehru"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q238",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui était le premier empereur romain ?",
-    "answers": [
-      "Caligula",
-      "Jules César",
-      "Néron",
-      "Auguste"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q239",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-    "answers": [
-      "Michel-Ange",
-      "Raphaël",
-      "Botticelli",
-      "Léonard de Vinci"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q240",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a été président des États-Unis pendant la guerre de Sécession ?",
-    "answers": [
-      "Abraham Lincoln",
-      "James Buchanan",
-      "Ulysses S. Grant",
-      "Andrew Johnson"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q241",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a peint la Joconde ?",
-    "answers": [
-      "Donatello",
-      "Léonard de Vinci",
-      "Raphaël",
-      "Michel-Ange"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q242",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a été président des États-Unis pendant la guerre de Sécession ?",
-    "answers": [
-      "Andrew Johnson",
-      "Abraham Lincoln",
-      "Ulysses S. Grant",
-      "James Buchanan"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q243",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-    "answers": [
-      "Léonard de Vinci",
-      "Botticelli",
-      "Raphaël",
-      "Michel-Ange"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q244",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui était la reine de France exécutée pendant la Révolution française ?",
-    "answers": [
-      "Louise de Lorraine",
-      "Marie-Antoinette",
-      "Catherine de Médicis",
-      "Anne d'Autriche"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q245",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a mené la marche du sel en Inde ?",
-    "answers": [
-      "Mahatma Gandhi",
-      "Bhagat Singh",
-      "Sardar Patel",
-      "Jawaharlal Nehru"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q246",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-    "answers": [
-      "Botticelli",
-      "Michel-Ange",
-      "Raphaël",
-      "Léonard de Vinci"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q247",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a été président des États-Unis pendant la guerre de Sécession ?",
-    "answers": [
-      "James Buchanan",
-      "Abraham Lincoln",
-      "Andrew Johnson",
-      "Ulysses S. Grant"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q248",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui était surnommé le 'Mahatma' ?",
-    "answers": [
-      "Jawaharlal Nehru",
-      "Subhas Chandra Bose",
-      "B. R. Ambedkar",
-      "Mahatma Gandhi"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q249",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-    "answers": [
-      "Michel-Ange",
-      "Botticelli",
-      "Léonard de Vinci",
-      "Raphaël"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q250",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Amerigo Vespucci",
-      "Christophe Colomb",
-      "Ferdinand Magellan",
-      "Vasco de Gama"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q251",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a été président des États-Unis pendant la guerre de Sécession ?",
-    "answers": [
-      "Abraham Lincoln",
-      "Andrew Johnson",
-      "Ulysses S. Grant",
-      "James Buchanan"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q252",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a dirigé l'Allemagne pendant la Seconde Guerre mondiale ?",
-    "answers": [
-      "Hirohito",
-      "Adolf Hitler",
-      "Benito Mussolini",
-      "Joseph Staline"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q253",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Isaac Newton",
-      "Einstein",
-      "Galilée",
-      "Kepler"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q254",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui était surnommé le 'Mahatma' ?",
-    "answers": [
-      "Subhas Chandra Bose",
-      "Jawaharlal Nehru",
-      "B. R. Ambedkar",
-      "Mahatma Gandhi"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q255",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-    "answers": [
-      "Michel-Ange",
-      "Raphaël",
-      "Léonard de Vinci",
-      "Botticelli"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q256",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a mené la marche du sel en Inde ?",
-    "answers": [
-      "Mahatma Gandhi",
-      "Jawaharlal Nehru",
-      "Bhagat Singh",
-      "Sardar Patel"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q257",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a été président des États-Unis pendant la guerre de Sécession ?",
-    "answers": [
-      "Ulysses S. Grant",
-      "Andrew Johnson",
-      "James Buchanan",
-      "Abraham Lincoln"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q258",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-    "answers": [
-      "Michel-Ange",
-      "Botticelli",
-      "Léonard de Vinci",
-      "Raphaël"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q259",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a été président des États-Unis pendant la guerre de Sécession ?",
-    "answers": [
-      "Abraham Lincoln",
-      "Ulysses S. Grant",
-      "James Buchanan",
-      "Andrew Johnson"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q260",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui était le premier empereur romain ?",
-    "answers": [
-      "Jules César",
-      "Caligula",
-      "Néron",
-      "Auguste"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q261",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a été président des États-Unis pendant la guerre de Sécession ?",
-    "answers": [
-      "Andrew Johnson",
-      "Ulysses S. Grant",
-      "James Buchanan",
-      "Abraham Lincoln"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q262",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Isaac Newton",
-      "Galilée",
-      "Kepler",
-      "Einstein"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q263",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a dirigé l'Allemagne pendant la Seconde Guerre mondiale ?",
-    "answers": [
-      "Adolf Hitler",
-      "Joseph Staline",
-      "Hirohito",
-      "Benito Mussolini"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q264",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Ferdinand Magellan",
-      "Amerigo Vespucci",
-      "Vasco de Gama",
-      "Christophe Colomb"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q265",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Kepler",
-      "Isaac Newton",
-      "Einstein",
-      "Galilée"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q266",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a été président des États-Unis pendant la guerre de Sécession ?",
-    "answers": [
-      "Andrew Johnson",
-      "Ulysses S. Grant",
-      "Abraham Lincoln",
-      "James Buchanan"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q267",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-    "answers": [
-      "Raphaël",
-      "Botticelli",
-      "Léonard de Vinci",
-      "Michel-Ange"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q268",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-    "answers": [
-      "Raphaël",
-      "Botticelli",
-      "Léonard de Vinci",
-      "Michel-Ange"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q269",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a peint la Joconde ?",
-    "answers": [
-      "Donatello",
-      "Michel-Ange",
-      "Léonard de Vinci",
-      "Raphaël"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q270",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a dirigé l'Allemagne pendant la Seconde Guerre mondiale ?",
-    "answers": [
-      "Hirohito",
-      "Joseph Staline",
-      "Adolf Hitler",
-      "Benito Mussolini"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q271",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Amerigo Vespucci",
-      "Vasco de Gama",
-      "Ferdinand Magellan",
-      "Christophe Colomb"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q272",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a été président des États-Unis pendant la guerre de Sécession ?",
-    "answers": [
-      "Ulysses S. Grant",
-      "Andrew Johnson",
-      "Abraham Lincoln",
-      "James Buchanan"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q273",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui était la reine de France exécutée pendant la Révolution française ?",
-    "answers": [
-      "Marie-Antoinette",
-      "Catherine de Médicis",
-      "Louise de Lorraine",
-      "Anne d'Autriche"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q274",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a dirigé l'Allemagne pendant la Seconde Guerre mondiale ?",
-    "answers": [
-      "Joseph Staline",
-      "Adolf Hitler",
-      "Benito Mussolini",
-      "Hirohito"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q275",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui était le premier empereur romain ?",
-    "answers": [
-      "Caligula",
-      "Jules César",
-      "Auguste",
-      "Néron"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q276",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a dirigé l'Allemagne pendant la Seconde Guerre mondiale ?",
-    "answers": [
-      "Adolf Hitler",
-      "Joseph Staline",
-      "Benito Mussolini",
-      "Hirohito"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q277",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-    "answers": [
-      "Michel-Ange",
-      "Raphaël",
-      "Léonard de Vinci",
-      "Botticelli"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q278",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a peint la Joconde ?",
-    "answers": [
-      "Raphaël",
-      "Donatello",
-      "Michel-Ange",
-      "Léonard de Vinci"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q279",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui était la reine de France exécutée pendant la Révolution française ?",
-    "answers": [
-      "Marie-Antoinette",
-      "Catherine de Médicis",
-      "Anne d'Autriche",
-      "Louise de Lorraine"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q280",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Galilée",
-      "Kepler",
-      "Einstein",
-      "Isaac Newton"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q281",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a peint la Joconde ?",
-    "answers": [
-      "Donatello",
-      "Léonard de Vinci",
-      "Raphaël",
-      "Michel-Ange"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q282",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Ferdinand Magellan",
-      "Vasco de Gama",
-      "Amerigo Vespucci",
-      "Christophe Colomb"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q283",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui était surnommé le 'Mahatma' ?",
-    "answers": [
-      "B. R. Ambedkar",
-      "Mahatma Gandhi",
-      "Subhas Chandra Bose",
-      "Jawaharlal Nehru"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q284",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a peint la Joconde ?",
-    "answers": [
-      "Donatello",
-      "Léonard de Vinci",
-      "Michel-Ange",
-      "Raphaël"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q285",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Ferdinand Magellan",
-      "Christophe Colomb",
-      "Vasco de Gama",
-      "Amerigo Vespucci"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q286",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-    "answers": [
-      "Botticelli",
-      "Michel-Ange",
-      "Léonard de Vinci",
-      "Raphaël"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q287",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-    "answers": [
-      "Michel-Ange",
-      "Léonard de Vinci",
-      "Botticelli",
-      "Raphaël"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q288",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-    "answers": [
-      "Raphaël",
-      "Léonard de Vinci",
-      "Michel-Ange",
-      "Botticelli"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q289",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Kepler",
-      "Isaac Newton",
-      "Galilée",
-      "Einstein"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q290",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Isaac Newton",
-      "Galilée",
-      "Einstein",
-      "Kepler"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q291",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a dirigé l'Allemagne pendant la Seconde Guerre mondiale ?",
-    "answers": [
-      "Adolf Hitler",
-      "Benito Mussolini",
-      "Hirohito",
-      "Joseph Staline"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q292",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a mené la marche du sel en Inde ?",
-    "answers": [
-      "Bhagat Singh",
-      "Sardar Patel",
-      "Jawaharlal Nehru",
-      "Mahatma Gandhi"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q293",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a mené la marche du sel en Inde ?",
-    "answers": [
-      "Jawaharlal Nehru",
-      "Bhagat Singh",
-      "Mahatma Gandhi",
-      "Sardar Patel"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q294",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui était le premier empereur romain ?",
-    "answers": [
-      "Jules César",
-      "Néron",
-      "Caligula",
-      "Auguste"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q295",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a dirigé l'Allemagne pendant la Seconde Guerre mondiale ?",
-    "answers": [
-      "Benito Mussolini",
-      "Joseph Staline",
-      "Hirohito",
-      "Adolf Hitler"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q296",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Amerigo Vespucci",
-      "Ferdinand Magellan",
-      "Christophe Colomb",
-      "Vasco de Gama"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q297",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a découvert la loi de la gravitation universelle ?",
-    "answers": [
-      "Galilée",
-      "Einstein",
-      "Kepler",
-      "Isaac Newton"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q298",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui était le premier empereur romain ?",
-    "answers": [
-      "Jules César",
-      "Auguste",
-      "Néron",
-      "Caligula"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q299",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui a peint la Joconde ?",
-    "answers": [
-      "Raphaël",
-      "Léonard de Vinci",
-      "Michel-Ange",
-      "Donatello"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q300",
-    "category": "Figures historiques",
-    "difficulty": "Facile",
-    "text": "Qui était la reine de France exécutée pendant la Révolution française ?",
-    "answers": [
-      "Marie-Antoinette",
-      "Louise de Lorraine",
-      "Catherine de Médicis",
-      "Anne d'Autriche"
-    ],
-    "correctIndex": 0
   }
 ]
