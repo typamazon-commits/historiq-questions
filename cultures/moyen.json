@@ -3,3900 +3,1607 @@
     "id": "q1",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Dans quel pays se danse la samba ?",
-    "answers": [
-      "Venezuela",
-      "Cuba",
-      "Colombie",
-      "Brésil"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays a pour capitale Addis-Abeba ?",
+    "answers": ["Éthiopie", "Érythrée", "Somalie", "Soudan"],
+    "correctIndex": 0
   },
   {
     "id": "q2",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays célèbre la fête de la mi-automne avec des gâteaux de lune ?",
-    "answers": [
-      "Vietnam",
-      "Japon",
-      "Chine",
-      "Corée du Sud"
-    ],
-    "correctIndex": 2
+    "text": "Quel est le nom du grand temple bouddhiste de Borobudur ?",
+    "answers": ["Indonésie", "Myanmar", "Cambodge", "Thaïlande"],
+    "correctIndex": 0
   },
   {
     "id": "q3",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel festival indien est connu pour ses jets de poudre colorée ?",
-    "answers": [
-      "Diwali",
-      "Navratri",
-      "Onam",
-      "Holi"
-    ],
-    "correctIndex": 3
+    "text": "Quel écrivain russe est l'auteur de « Guerre et Paix » ?",
+    "answers": ["Léon Tolstoï", "Fiodor Dostoïevski", "Anton Tchekhov", "Nicolas Gogol"],
+    "correctIndex": 0
   },
   {
     "id": "q4",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel festival indien est connu pour ses jets de poudre colorée ?",
-    "answers": [
-      "Navratri",
-      "Diwali",
-      "Onam",
-      "Holi"
-    ],
-    "correctIndex": 3
+    "text": "Le tajine est un plat traditionnel associé principalement à quel pays ?",
+    "answers": ["Maroc", "Tunisie", "Égypte", "Liban"],
+    "correctIndex": 0
   },
   {
     "id": "q5",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel fromage est typique de Grèce ?",
-    "answers": [
-      "Manchego",
-      "Feta",
-      "Mozzarella",
-      "Halloumi"
-    ],
-    "correctIndex": 1
+    "text": "Dans quel pays se déroule le festival Holi, la « fête des couleurs » ?",
+    "answers": ["Inde", "Népal", "Sri Lanka", "Bangladesh"],
+    "correctIndex": 0
   },
   {
     "id": "q6",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est l'origine du kimchi ?",
-    "answers": [
-      "Japon",
-      "Corée du Sud",
-      "Thaïlande",
-      "Chine"
-    ],
-    "correctIndex": 1
+    "text": "La ville de Marrakech se trouve dans quel pays ?",
+    "answers": ["Maroc", "Algérie", "Tunisie", "Égypte"],
+    "correctIndex": 0
   },
   {
     "id": "q7",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est connu pour ses temples d'Angkor ?",
-    "answers": [
-      "Vietnam",
-      "Laos",
-      "Cambodge",
-      "Thaïlande"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est célèbre pour les statues Moaï de l'île de Pâques ?",
+    "answers": ["Chili", "Pérou", "Mexique", "Argentine"],
+    "correctIndex": 0
   },
   {
     "id": "q8",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est connu pour ses temples d'Angkor ?",
-    "answers": [
-      "Thaïlande",
-      "Vietnam",
-      "Cambodge",
-      "Laos"
-    ],
-    "correctIndex": 2
+    "text": "La Sagrada Família est un monument emblématique de quelle ville ?",
+    "answers": ["Barcelone", "Madrid", "Valence", "Séville"],
+    "correctIndex": 0
   },
   {
     "id": "q9",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays célèbre la fête de la mi-automne avec des gâteaux de lune ?",
-    "answers": [
-      "Japon",
-      "Corée du Sud",
-      "Chine",
-      "Vietnam"
-    ],
-    "correctIndex": 2
+    "text": "Dans quelle langue est écrit à l'origine « Don Quichotte » ?",
+    "answers": ["Espagnol", "Italien", "Portugais", "Français"],
+    "correctIndex": 0
   },
   {
     "id": "q10",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel festival indien est connu pour ses jets de poudre colorée ?",
-    "answers": [
-      "Navratri",
-      "Holi",
-      "Diwali",
-      "Onam"
-    ],
-    "correctIndex": 1
+    "text": "Le flamenco est originaire de quelle région d'Espagne ?",
+    "answers": ["Andalousie", "Catalogne", "Galice", "Pays basque"],
+    "correctIndex": 0
   },
   {
     "id": "q11",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel vêtement traditionnel japonais est porté lors de cérémonies ?",
-    "answers": [
-      "Furisode",
-      "Yukata",
-      "Kimono",
-      "Hakama"
-    ],
-    "correctIndex": 2
+    "text": "La « Fête des morts » (Día de los Muertos) est surtout célébrée dans quel pays ?",
+    "answers": ["Mexique", "Espagne", "Pérou", "Argentine"],
+    "correctIndex": 0
   },
   {
     "id": "q12",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est l'origine du kimchi ?",
-    "answers": [
-      "Japon",
-      "Chine",
-      "Thaïlande",
-      "Corée du Sud"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays est célèbre pour l'opéra de Sydney ?",
+    "answers": ["Australie", "Nouvelle-Zélande", "Afrique du Sud", "Canada"],
+    "correctIndex": 0
   },
   {
     "id": "q13",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel est l'instrument national de l'Inde ?",
-    "answers": [
-      "Bansuri",
-      "Tabla",
-      "Sitar",
-      "Veena"
-    ],
-    "correctIndex": 2
+    "text": "Le haka est une danse traditionnelle associée à quel peuple ?",
+    "answers": ["Maoris", "Inuits", "Aztèques", "Zoulous"],
+    "correctIndex": 0
   },
   {
     "id": "q14",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel fromage est typique de Grèce ?",
-    "answers": [
-      "Feta",
-      "Halloumi",
-      "Manchego",
-      "Mozzarella"
-    ],
+    "text": "Quelle boisson traditionnelle argentine et uruguayenne est infusée dans une calebasse ?",
+    "answers": ["Maté", "Kombucha", "Thé noir", "Café turc"],
     "correctIndex": 0
   },
   {
     "id": "q15",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel vêtement traditionnel japonais est porté lors de cérémonies ?",
-    "answers": [
-      "Hakama",
-      "Yukata",
-      "Furisode",
-      "Kimono"
-    ],
-    "correctIndex": 3
+    "text": "Le kimchi est un aliment fermenté emblématique de quel pays ?",
+    "answers": ["Corée", "Japon", "Chine", "Vietnam"],
+    "correctIndex": 0
   },
   {
     "id": "q16",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays pratique traditionnellement le sumo ?",
-    "answers": [
-      "Chine",
-      "Corée du Sud",
-      "Japon",
-      "Mongolie"
-    ],
-    "correctIndex": 2
+    "text": "Le temple d'Angkor Wat se situe dans quel pays ?",
+    "answers": ["Cambodge", "Thaïlande", "Laos", "Vietnam"],
+    "correctIndex": 0
   },
   {
     "id": "q17",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel fromage est typique de Grèce ?",
-    "answers": [
-      "Mozzarella",
-      "Feta",
-      "Halloumi",
-      "Manchego"
-    ],
-    "correctIndex": 1
+    "text": "Quelle ville est réputée pour le carnaval le plus célèbre du Brésil ?",
+    "answers": ["Rio de Janeiro", "São Paulo", "Brasilia", "Salvador"],
+    "correctIndex": 0
   },
   {
     "id": "q18",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays pratique traditionnellement le sumo ?",
-    "answers": [
-      "Mongolie",
-      "Japon",
-      "Corée du Sud",
-      "Chine"
-    ],
-    "correctIndex": 1
+    "text": "Quel instrument est typique de la musique andine ?",
+    "answers": ["Charango", "Sitar", "Shamisen", "Balalaïka"],
+    "correctIndex": 0
   },
   {
     "id": "q19",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est l'origine du kimchi ?",
-    "answers": [
-      "Chine",
-      "Thaïlande",
-      "Corée du Sud",
-      "Japon"
-    ],
-    "correctIndex": 2
+    "text": "Le Colisée est un monument emblématique de quelle ville ?",
+    "answers": ["Rome", "Athènes", "Istanbul", "Naples"],
+    "correctIndex": 0
   },
   {
     "id": "q20",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Dans quel pays se danse la samba ?",
-    "answers": [
-      "Cuba",
-      "Colombie",
-      "Brésil",
-      "Venezuela"
-    ],
-    "correctIndex": 2
+    "text": "Quelle est la capitale du Canada ?",
+    "answers": ["Ottawa", "Toronto", "Montréal", "Vancouver"],
+    "correctIndex": 0
   },
   {
     "id": "q21",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel peuple est à l'origine du haka ?",
-    "answers": [
-      "Inuits",
-      "Samoans",
-      "Aborigènes",
-      "Maoris"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays est connu pour la ville de Samarcande, sur la Route de la soie ?",
+    "answers": ["Ouzbékistan", "Iran", "Turkménistan", "Afghanistan"],
+    "correctIndex": 0
   },
   {
     "id": "q22",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays célèbre la fête de la mi-automne avec des gâteaux de lune ?",
-    "answers": [
-      "Japon",
-      "Chine",
-      "Corée du Sud",
-      "Vietnam"
-    ],
-    "correctIndex": 1
+    "text": "Le Machu Picchu se situe dans quel pays ?",
+    "answers": ["Pérou", "Bolivie", "Chili", "Équateur"],
+    "correctIndex": 0
   },
   {
     "id": "q23",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays célèbre la fête de la mi-automne avec des gâteaux de lune ?",
-    "answers": [
-      "Chine",
-      "Corée du Sud",
-      "Vietnam",
-      "Japon"
-    ],
+    "text": "Le borscht est une soupe traditionnelle associée surtout à quel pays ?",
+    "answers": ["Ukraine", "Pologne", "Russie", "Roumanie"],
     "correctIndex": 0
   },
   {
     "id": "q24",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est connu pour ses temples d'Angkor ?",
-    "answers": [
-      "Cambodge",
-      "Laos",
-      "Thaïlande",
-      "Vietnam"
-    ],
+    "text": "Quelle ville italienne est célèbre pour ses canaux et ses gondoles ?",
+    "answers": ["Venise", "Florence", "Milan", "Gênes"],
     "correctIndex": 0
   },
   {
     "id": "q25",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel festival indien est connu pour ses jets de poudre colorée ?",
-    "answers": [
-      "Holi",
-      "Diwali",
-      "Navratri",
-      "Onam"
-    ],
+    "text": "La boisson appelée « saké » est traditionnellement produite dans quel pays ?",
+    "answers": ["Japon", "Corée", "Chine", "Vietnam"],
     "correctIndex": 0
   },
   {
     "id": "q26",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel festival indien est connu pour ses jets de poudre colorée ?",
-    "answers": [
-      "Onam",
-      "Diwali",
-      "Holi",
-      "Navratri"
-    ],
-    "correctIndex": 2
+    "text": "Quel peintre est célèbre pour « La Nuit étoilée » ?",
+    "answers": ["Vincent van Gogh", "Claude Monet", "Pablo Picasso", "Salvador Dalí"],
+    "correctIndex": 0
   },
   {
     "id": "q27",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays célèbre la fête de la mi-automne avec des gâteaux de lune ?",
-    "answers": [
-      "Chine",
-      "Corée du Sud",
-      "Vietnam",
-      "Japon"
-    ],
+    "text": "Dans quel pays se trouve la ville de Dubrovnik ?",
+    "answers": ["Croatie", "Grèce", "Italie", "Monténégro"],
     "correctIndex": 0
   },
   {
     "id": "q28",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est l'origine du kimchi ?",
-    "answers": [
-      "Thaïlande",
-      "Chine",
-      "Japon",
-      "Corée du Sud"
-    ],
-    "correctIndex": 3
+    "text": "La danse appelée « tango » est née principalement dans quelle ville ?",
+    "answers": ["Buenos Aires", "Lima", "Rio de Janeiro", "Santiago"],
+    "correctIndex": 0
   },
   {
     "id": "q29",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel est l'instrument national de l'Inde ?",
-    "answers": [
-      "Bansuri",
-      "Tabla",
-      "Sitar",
-      "Veena"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est connu pour le festival de la bière Oktoberfest ?",
+    "answers": ["Allemagne", "Autriche", "Belgique", "Pays-Bas"],
+    "correctIndex": 0
   },
   {
     "id": "q30",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays pratique traditionnellement le sumo ?",
-    "answers": [
-      "Japon",
-      "Chine",
-      "Corée du Sud",
-      "Mongolie"
-    ],
+    "text": "Le plat « pho » est une spécialité de quel pays ?",
+    "answers": ["Vietnam", "Thaïlande", "Chine", "Cambodge"],
     "correctIndex": 0
   },
   {
     "id": "q31",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays pratique traditionnellement le sumo ?",
-    "answers": [
-      "Chine",
-      "Mongolie",
-      "Japon",
-      "Corée du Sud"
-    ],
-    "correctIndex": 2
+    "text": "La médina de Fès est un site majeur de quel pays ?",
+    "answers": ["Maroc", "Algérie", "Tunisie", "Libye"],
+    "correctIndex": 0
   },
   {
     "id": "q32",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est connu pour ses temples d'Angkor ?",
-    "answers": [
-      "Laos",
-      "Thaïlande",
-      "Vietnam",
-      "Cambodge"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays est célèbre pour les geysers et le site de Gullfoss ?",
+    "answers": ["Islande", "Norvège", "Suède", "Finlande"],
+    "correctIndex": 0
   },
   {
     "id": "q33",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel vêtement traditionnel japonais est porté lors de cérémonies ?",
-    "answers": [
-      "Yukata",
-      "Kimono",
-      "Furisode",
-      "Hakama"
-    ],
-    "correctIndex": 1
+    "text": "Quel instrument à cordes est typique de la musique indienne classique ?",
+    "answers": ["Sitar", "Banjo", "Mandoline", "Harpe"],
+    "correctIndex": 0
   },
   {
     "id": "q34",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel vêtement traditionnel japonais est porté lors de cérémonies ?",
-    "answers": [
-      "Kimono",
-      "Hakama",
-      "Yukata",
-      "Furisode"
-    ],
+    "text": "La fête de Songkran (arrosage d'eau) est le Nouvel An traditionnel de quel pays ?",
+    "answers": ["Thaïlande", "Vietnam", "Chine", "Japon"],
     "correctIndex": 0
   },
   {
     "id": "q35",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel vêtement traditionnel japonais est porté lors de cérémonies ?",
-    "answers": [
-      "Yukata",
-      "Kimono",
-      "Furisode",
-      "Hakama"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé au plateau de Nazca et ses géoglyphes ?",
+    "answers": ["Pérou", "Chili", "Bolivie", "Colombie"],
+    "correctIndex": 0
   },
   {
     "id": "q36",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays pratique traditionnellement le sumo ?",
-    "answers": [
-      "Japon",
-      "Mongolie",
-      "Chine",
-      "Corée du Sud"
-    ],
+    "text": "Quel monument est surnommé « la Dame de fer » ?",
+    "answers": ["Tour Eiffel", "Big Ben", "Statue de la Liberté", "Colisée"],
     "correctIndex": 0
   },
   {
     "id": "q37",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel est l'instrument national de l'Inde ?",
-    "answers": [
-      "Bansuri",
-      "Sitar",
-      "Tabla",
-      "Veena"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est connu pour les ruines de Chichén Itzá ?",
+    "answers": ["Mexique", "Guatemala", "Belize", "Honduras"],
+    "correctIndex": 0
   },
   {
     "id": "q38",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel fromage est typique de Grèce ?",
-    "answers": [
-      "Manchego",
-      "Feta",
-      "Halloumi",
-      "Mozzarella"
-    ],
-    "correctIndex": 1
+    "text": "Le « fado » est un genre musical originaire de quel pays ?",
+    "answers": ["Portugal", "Espagne", "Italie", "Grèce"],
+    "correctIndex": 0
   },
   {
     "id": "q39",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel fromage est typique de Grèce ?",
-    "answers": [
-      "Manchego",
-      "Feta",
-      "Halloumi",
-      "Mozzarella"
-    ],
-    "correctIndex": 1
+    "text": "Quelle ville est réputée pour le musée du Prado ?",
+    "answers": ["Madrid", "Barcelone", "Lisbonne", "Rome"],
+    "correctIndex": 0
   },
   {
     "id": "q40",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays pratique traditionnellement le sumo ?",
-    "answers": [
-      "Corée du Sud",
-      "Chine",
-      "Japon",
-      "Mongolie"
-    ],
-    "correctIndex": 2
+    "text": "La cuisine « meze » (assortiment de petits plats) est typique de quelle région ?",
+    "answers": ["Méditerranée orientale", "Scandinavie", "Amérique centrale", "Océanie"],
+    "correctIndex": 0
   },
   {
     "id": "q41",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel festival indien est connu pour ses jets de poudre colorée ?",
-    "answers": [
-      "Diwali",
-      "Onam",
-      "Holi",
-      "Navratri"
-    ],
-    "correctIndex": 2
+    "text": "Le « Rijksmuseum » est un grand musée situé dans quelle ville ?",
+    "answers": ["Amsterdam", "Bruxelles", "Berlin", "Vienne"],
+    "correctIndex": 0
   },
   {
     "id": "q42",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel peuple est à l'origine du haka ?",
-    "answers": [
-      "Samoans",
-      "Maoris",
-      "Inuits",
-      "Aborigènes"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé à la fête de la Mi-Automne (gâteaux de lune) ?",
+    "answers": ["Chine", "Inde", "Japon", "Philippines"],
+    "correctIndex": 0
   },
   {
     "id": "q43",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Dans quel pays se danse la samba ?",
-    "answers": [
-      "Venezuela",
-      "Cuba",
-      "Brésil",
-      "Colombie"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est connu pour la ville de Lviv, au patrimoine culturel important ?",
+    "answers": ["Ukraine", "Pologne", "Slovaquie", "Hongrie"],
+    "correctIndex": 0
   },
   {
     "id": "q44",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel peuple est à l'origine du haka ?",
-    "answers": [
-      "Inuits",
-      "Maoris",
-      "Samoans",
-      "Aborigènes"
-    ],
-    "correctIndex": 1
+    "text": "Quel désert est associé aux traditions touarègues ?",
+    "answers": ["Sahara", "Gobi", "Atacama", "Kalahari"],
+    "correctIndex": 0
   },
   {
     "id": "q45",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est l'origine du kimchi ?",
-    "answers": [
-      "Japon",
-      "Corée du Sud",
-      "Chine",
-      "Thaïlande"
-    ],
-    "correctIndex": 1
+    "text": "Le plat « ceviche » est particulièrement associé à quel pays ?",
+    "answers": ["Pérou", "Espagne", "Mexique", "Italie"],
+    "correctIndex": 0
   },
   {
     "id": "q46",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est l'origine du kimchi ?",
-    "answers": [
-      "Thaïlande",
-      "Chine",
-      "Japon",
-      "Corée du Sud"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays est célèbre pour la ville de Chefchaouen, connue pour ses murs bleus ?",
+    "answers": ["Maroc", "Espagne", "Grèce", "Portugal"],
+    "correctIndex": 0
   },
   {
     "id": "q47",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel est l'instrument national de l'Inde ?",
-    "answers": [
-      "Sitar",
-      "Tabla",
-      "Bansuri",
-      "Veena"
-    ],
+    "text": "La fête de Nowruz correspond au Nouvel An traditionnel de quelle culture ?",
+    "answers": ["Persane", "Viking", "Maya", "Inca"],
     "correctIndex": 0
   },
   {
     "id": "q48",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel festival indien est connu pour ses jets de poudre colorée ?",
-    "answers": [
-      "Navratri",
-      "Diwali",
-      "Holi",
-      "Onam"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est célèbre pour les temples de Bagan ?",
+    "answers": ["Myanmar", "Cambodge", "Thaïlande", "Vietnam"],
+    "correctIndex": 0
   },
   {
     "id": "q49",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Dans quel pays se danse la samba ?",
-    "answers": [
-      "Cuba",
-      "Colombie",
-      "Brésil",
-      "Venezuela"
-    ],
-    "correctIndex": 2
+    "text": "Quel compositeur est l'auteur de la « Symphonie n°9 » dite « du Nouveau Monde » ?",
+    "answers": ["Antonín Dvořák", "Beethoven", "Mozart", "Tchaïkovski"],
+    "correctIndex": 0
   },
   {
     "id": "q50",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel vêtement traditionnel japonais est porté lors de cérémonies ?",
-    "answers": [
-      "Hakama",
-      "Yukata",
-      "Furisode",
-      "Kimono"
-    ],
-    "correctIndex": 3
+    "text": "Dans quel pays se trouve la ville de Bruges, réputée pour ses canaux ?",
+    "answers": ["Belgique", "Pays-Bas", "France", "Allemagne"],
+    "correctIndex": 0
   },
   {
     "id": "q51",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est connu pour ses temples d'Angkor ?",
-    "answers": [
-      "Thaïlande",
-      "Cambodge",
-      "Laos",
-      "Vietnam"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé à la boisson « ouzo » ?",
+    "answers": ["Grèce", "Italie", "Espagne", "Turquie"],
+    "correctIndex": 0
   },
   {
     "id": "q52",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays pratique traditionnellement le sumo ?",
-    "answers": [
-      "Mongolie",
-      "Japon",
-      "Corée du Sud",
-      "Chine"
-    ],
-    "correctIndex": 1
+    "text": "Le théâtre « kabuki » est une forme d'art traditionnel de quel pays ?",
+    "answers": ["Japon", "Chine", "Corée", "Vietnam"],
+    "correctIndex": 0
   },
   {
     "id": "q53",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Dans quel pays se danse la samba ?",
-    "answers": [
-      "Brésil",
-      "Cuba",
-      "Colombie",
-      "Venezuela"
-    ],
+    "text": "Quel pays est connu pour les falaises de Moher ?",
+    "answers": ["Irlande", "Écosse", "Islande", "Norvège"],
     "correctIndex": 0
   },
   {
     "id": "q54",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel vêtement traditionnel japonais est porté lors de cérémonies ?",
-    "answers": [
-      "Kimono",
-      "Hakama",
-      "Furisode",
-      "Yukata"
-    ],
+    "text": "Quel pays est associé aux ruines de Petra ?",
+    "answers": ["Jordanie", "Égypte", "Liban", "Israël"],
     "correctIndex": 0
   },
   {
     "id": "q55",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel est l'instrument national de l'Inde ?",
-    "answers": [
-      "Bansuri",
-      "Tabla",
-      "Sitar",
-      "Veena"
-    ],
-    "correctIndex": 2
+    "text": "Quelle ville est connue pour le quartier de la « Petite Venise » en France ?",
+    "answers": ["Colmar", "Annecy", "Nice", "Bordeaux"],
+    "correctIndex": 0
   },
   {
     "id": "q56",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays célèbre la fête de la mi-automne avec des gâteaux de lune ?",
-    "answers": [
-      "Chine",
-      "Vietnam",
-      "Corée du Sud",
-      "Japon"
-    ],
+    "text": "Le « ballet » est une forme artistique née et codifiée historiquement dans quel pays européen ?",
+    "answers": ["France", "Portugal", "Suède", "Irlande"],
     "correctIndex": 0
   },
   {
     "id": "q57",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel est l'instrument national de l'Inde ?",
-    "answers": [
-      "Sitar",
-      "Bansuri",
-      "Tabla",
-      "Veena"
-    ],
+    "text": "Quel pays est associé à la danse traditionnelle « dabke » ?",
+    "answers": ["Levant (Liban/Syrie/Palestine)", "Japon", "Suède", "Pérou"],
     "correctIndex": 0
   },
   {
     "id": "q58",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel fromage est typique de Grèce ?",
-    "answers": [
-      "Feta",
-      "Halloumi",
-      "Manchego",
-      "Mozzarella"
-    ],
+    "text": "Quel pays est connu pour la ville de Québec, avec une vieille ville fortifiée ?",
+    "answers": ["Canada", "États-Unis", "France", "Royaume-Uni"],
     "correctIndex": 0
   },
   {
     "id": "q59",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel vêtement traditionnel japonais est porté lors de cérémonies ?",
-    "answers": [
-      "Hakama",
-      "Yukata",
-      "Furisode",
-      "Kimono"
-    ],
-    "correctIndex": 3
+    "text": "Quelle ville est associée au théâtre antique d'Épidaure ?",
+    "answers": ["Épidaure (Grèce)", "Rome (Italie)", "Alexandrie (Égypte)", "Carthage (Tunisie)"],
+    "correctIndex": 0
   },
   {
     "id": "q60",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est connu pour ses temples d'Angkor ?",
-    "answers": [
-      "Thaïlande",
-      "Vietnam",
-      "Laos",
-      "Cambodge"
-    ],
-    "correctIndex": 3
+    "text": "La « calligraphie arabe » est traditionnellement liée à quel système d'écriture ?",
+    "answers": ["Alphabet arabe", "Alphabet latin", "Cyrillique", "Kana"],
+    "correctIndex": 0
   },
   {
     "id": "q61",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel festival indien est connu pour ses jets de poudre colorée ?",
-    "answers": [
-      "Diwali",
-      "Onam",
-      "Navratri",
-      "Holi"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays est connu pour la ville de La Havane, au patrimoine colonial ?",
+    "answers": ["Cuba", "Mexique", "Colombie", "Argentine"],
+    "correctIndex": 0
   },
   {
     "id": "q62",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est connu pour ses temples d'Angkor ?",
-    "answers": [
-      "Thaïlande",
-      "Vietnam",
-      "Laos",
-      "Cambodge"
-    ],
-    "correctIndex": 3
+    "text": "Le plat « poutine » est originaire de quelle région/pays ?",
+    "answers": ["Québec (Canada)", "Belgique", "France", "États-Unis"],
+    "correctIndex": 0
   },
   {
     "id": "q63",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel festival indien est connu pour ses jets de poudre colorée ?",
-    "answers": [
-      "Navratri",
-      "Onam",
-      "Holi",
-      "Diwali"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé à la ville de Thessalonique ?",
+    "answers": ["Grèce", "Bulgarie", "Serbie", "Roumanie"],
+    "correctIndex": 0
   },
   {
     "id": "q64",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays pratique traditionnellement le sumo ?",
-    "answers": [
-      "Chine",
-      "Mongolie",
-      "Corée du Sud",
-      "Japon"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays est célèbre pour la ville de Porto et ses caves à vin ?",
+    "answers": ["Portugal", "Espagne", "Italie", "France"],
+    "correctIndex": 0
   },
   {
     "id": "q65",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Dans quel pays se danse la samba ?",
-    "answers": [
-      "Brésil",
-      "Cuba",
-      "Venezuela",
-      "Colombie"
-    ],
+    "text": "Quel pays est associé au peintre Frida Kahlo ?",
+    "answers": ["Mexique", "Espagne", "Chili", "Argentine"],
     "correctIndex": 0
   },
   {
     "id": "q66",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est l'origine du kimchi ?",
-    "answers": [
-      "Chine",
-      "Corée du Sud",
-      "Thaïlande",
-      "Japon"
-    ],
-    "correctIndex": 1
+    "text": "Le « souk » est un type de marché traditionnel surtout associé à quelle aire culturelle ?",
+    "answers": ["Monde arabe", "Scandinavie", Asie de l'Est", "Océanie"],
+    "correctIndex": 0
   },
   {
     "id": "q67",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est connu pour ses temples d'Angkor ?",
-    "answers": [
-      "Vietnam",
-      "Thaïlande",
-      "Cambodge",
-      "Laos"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est connu pour le festival des lumières Diwali ?",
+    "answers": ["Inde", "Japon", "Chine", "Thaïlande"],
+    "correctIndex": 0
   },
   {
     "id": "q68",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays célèbre la fête de la mi-automne avec des gâteaux de lune ?",
-    "answers": [
-      "Chine",
-      "Corée du Sud",
-      "Japon",
-      "Vietnam"
-    ],
+    "text": "Quel pays est associé au plat « moussaka » ?",
+    "answers": ["Grèce", "Italie", "France", "Allemagne"],
     "correctIndex": 0
   },
   {
     "id": "q69",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays pratique traditionnellement le sumo ?",
-    "answers": [
-      "Mongolie",
-      "Corée du Sud",
-      "Japon",
-      "Chine"
-    ],
-    "correctIndex": 2
+    "text": "Quelle ville est associée au musée de l'Ermitage ?",
+    "answers": ["Saint-Pétersbourg", "Moscou", "Kiev", "Minsk"],
+    "correctIndex": 0
   },
   {
     "id": "q70",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Dans quel pays se danse la samba ?",
-    "answers": [
-      "Cuba",
-      "Brésil",
-      "Venezuela",
-      "Colombie"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est connu pour la ville de Luang Prabang ?",
+    "answers": ["Laos", "Vietnam", "Cambodge", "Thaïlande"],
+    "correctIndex": 0
   },
   {
     "id": "q71",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays célèbre la fête de la mi-automne avec des gâteaux de lune ?",
-    "answers": [
-      "Chine",
-      "Japon",
-      "Corée du Sud",
-      "Vietnam"
-    ],
+    "text": "Quel pays est associé au désert de Namib ?",
+    "answers": ["Namibie", "Botswana", "Angola", "Zambie"],
     "correctIndex": 0
   },
   {
     "id": "q72",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel peuple est à l'origine du haka ?",
-    "answers": [
-      "Maoris",
-      "Inuits",
-      "Aborigènes",
-      "Samoans"
-    ],
+    "text": "Quelle boisson mexicaine est obtenue à partir de l'agave ?",
+    "answers": ["Tequila", "Cachaça", "Rhum", "Saké"],
     "correctIndex": 0
   },
   {
     "id": "q73",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Dans quel pays se danse la samba ?",
-    "answers": [
-      "Colombie",
-      "Venezuela",
-      "Brésil",
-      "Cuba"
-    ],
-    "correctIndex": 2
+    "text": "La cité interdite se situe dans quelle ville ?",
+    "answers": ["Pékin", "Shanghai", "Hong Kong", "Nankin"],
+    "correctIndex": 0
   },
   {
     "id": "q74",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel peuple est à l'origine du haka ?",
-    "answers": [
-      "Maoris",
-      "Samoans",
-      "Inuits",
-      "Aborigènes"
-    ],
+    "text": "Quel pays est associé au plat « bibimbap » ?",
+    "answers": ["Corée", "Japon", "Chine", "Thaïlande"],
     "correctIndex": 0
   },
   {
     "id": "q75",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Dans quel pays se danse la samba ?",
-    "answers": [
-      "Brésil",
-      "Colombie",
-      "Cuba",
-      "Venezuela"
-    ],
+    "text": "Quel pays est célèbre pour le palais de Topkapi ?",
+    "answers": ["Turquie", "Grèce", "Bulgarie", "Roumanie"],
     "correctIndex": 0
   },
   {
     "id": "q76",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel peuple est à l'origine du haka ?",
-    "answers": [
-      "Maoris",
-      "Aborigènes",
-      "Inuits",
-      "Samoans"
-    ],
+    "text": "Quel pays est associé à la tradition des bains « onsen » ?",
+    "answers": ["Japon", "Corée", "Chine", "Mongolie"],
     "correctIndex": 0
   },
   {
     "id": "q77",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est l'origine du kimchi ?",
-    "answers": [
-      "Thaïlande",
-      "Japon",
-      "Corée du Sud",
-      "Chine"
-    ],
-    "correctIndex": 2
+    "text": "Le « berimbau » est un instrument associé à quelle pratique brésilienne ?",
+    "answers": ["Capoeira", "Samba", "Bossa nova", "Forró"],
+    "correctIndex": 0
   },
   {
     "id": "q78",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel vêtement traditionnel japonais est porté lors de cérémonies ?",
-    "answers": [
-      "Furisode",
-      "Hakama",
-      "Yukata",
-      "Kimono"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays est connu pour le château de Neuschwanstein ?",
+    "answers": ["Allemagne", "Autriche", "Suisse", "Italie"],
+    "correctIndex": 0
   },
   {
     "id": "q79",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays célèbre la fête de la mi-automne avec des gâteaux de lune ?",
-    "answers": [
-      "Vietnam",
-      "Japon",
-      "Corée du Sud",
-      "Chine"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays est associé à la ville de Tallinn, célèbre pour son centre médiéval ?",
+    "answers": ["Estonie", "Lettonie", "Lituanie", "Finlande"],
+    "correctIndex": 0
   },
   {
     "id": "q80",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Dans quel pays se danse la samba ?",
-    "answers": [
-      "Cuba",
-      "Brésil",
-      "Venezuela",
-      "Colombie"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est connu pour le plat « goulash » ?",
+    "answers": ["Hongrie", "Pologne", "Autriche", "Allemagne"],
+    "correctIndex": 0
   },
   {
     "id": "q81",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel fromage est typique de Grèce ?",
-    "answers": [
-      "Manchego",
-      "Feta",
-      "Halloumi",
-      "Mozzarella"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé au festival Timkat ?",
+    "answers": ["Éthiopie", "Égypte", "Kenya", "Soudan"],
+    "correctIndex": 0
   },
   {
     "id": "q82",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel festival indien est connu pour ses jets de poudre colorée ?",
-    "answers": [
-      "Holi",
-      "Onam",
-      "Navratri",
-      "Diwali"
-    ],
+    "text": "Le « Naadam » est un festival traditionnel de quel pays ?",
+    "answers": ["Mongolie", "Chine", "Kazakhstan", "Russie"],
     "correctIndex": 0
   },
   {
     "id": "q83",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays célèbre la fête de la mi-automne avec des gâteaux de lune ?",
-    "answers": [
-      "Japon",
-      "Corée du Sud",
-      "Vietnam",
-      "Chine"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays est associé au plat « bacalhau » ?",
+    "answers": ["Portugal", "Espagne", "Italie", "France"],
+    "correctIndex": 0
   },
   {
     "id": "q84",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est l'origine du kimchi ?",
-    "answers": [
-      "Japon",
-      "Thaïlande",
-      "Corée du Sud",
-      "Chine"
-    ],
-    "correctIndex": 2
+    "text": "Quelle ville est associée au pont Charles (Karlův most) ?",
+    "answers": ["Prague", "Vienne", "Budapest", "Varsovie"],
+    "correctIndex": 0
   },
   {
     "id": "q85",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel est l'instrument national de l'Inde ?",
-    "answers": [
-      "Tabla",
-      "Veena",
-      "Bansuri",
-      "Sitar"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays est connu pour la danse « kizomba » (origine principale) ?",
+    "answers": ["Angola", "Brésil", "Cuba", "Espagne"],
+    "correctIndex": 0
   },
   {
     "id": "q86",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel est l'instrument national de l'Inde ?",
-    "answers": [
-      "Sitar",
-      "Veena",
-      "Bansuri",
-      "Tabla"
-    ],
+    "text": "Quel pays est associé au plat « khachapuri » ?",
+    "answers": ["Géorgie", "Arménie", "Turquie", "Grèce"],
     "correctIndex": 0
   },
   {
     "id": "q87",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel peuple est à l'origine du haka ?",
-    "answers": [
-      "Samoans",
-      "Maoris",
-      "Inuits",
-      "Aborigènes"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé aux ruines de Tikal ?",
+    "answers": ["Guatemala", "Mexique", "Honduras", "Belize"],
+    "correctIndex": 0
   },
   {
     "id": "q88",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel fromage est typique de Grèce ?",
-    "answers": [
-      "Mozzarella",
-      "Manchego",
-      "Feta",
-      "Halloumi"
-    ],
-    "correctIndex": 2
+    "text": "Le « hanbok » est un vêtement traditionnel de quel pays ?",
+    "answers": ["Corée", "Chine", "Japon", "Mongolie"],
+    "correctIndex": 0
   },
   {
     "id": "q89",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel festival indien est connu pour ses jets de poudre colorée ?",
-    "answers": [
-      "Onam",
-      "Navratri",
-      "Holi",
-      "Diwali"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé au plat « jollof rice » ?",
+    "answers": ["Nigeria", "Maroc", "Éthiopie", "Égypte"],
+    "correctIndex": 0
   },
   {
     "id": "q90",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est connu pour ses temples d'Angkor ?",
-    "answers": [
-      "Laos",
-      "Vietnam",
-      "Cambodge",
-      "Thaïlande"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est connu pour la ville de Salzburg, liée à Mozart ?",
+    "answers": ["Autriche", "Allemagne", "Suisse", "Italie"],
+    "correctIndex": 0
   },
   {
     "id": "q91",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel vêtement traditionnel japonais est porté lors de cérémonies ?",
-    "answers": [
-      "Kimono",
-      "Furisode",
-      "Hakama",
-      "Yukata"
-    ],
+    "text": "Quel pays est associé à la boisson « soju » ?",
+    "answers": ["Corée", "Japon", "Chine", "Vietnam"],
     "correctIndex": 0
   },
   {
     "id": "q92",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel festival indien est connu pour ses jets de poudre colorée ?",
-    "answers": [
-      "Diwali",
-      "Onam",
-      "Navratri",
-      "Holi"
-    ],
-    "correctIndex": 3
+    "text": "Le « couscous » est un plat traditionnel du Maghreb : quel pays n'en fait pas partie ?",
+    "answers": ["Égypte", "Maroc", "Algérie", "Tunisie"],
+    "correctIndex": 0
   },
   {
     "id": "q93",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel est l'instrument national de l'Inde ?",
-    "answers": [
-      "Tabla",
-      "Sitar",
-      "Bansuri",
-      "Veena"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé à l'architecture inca de Cusco ?",
+    "answers": ["Pérou", "Bolivie", "Chili", "Colombie"],
+    "correctIndex": 0
   },
   {
     "id": "q94",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Dans quel pays se danse la samba ?",
-    "answers": [
-      "Cuba",
-      "Brésil",
-      "Colombie",
-      "Venezuela"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est connu pour la ville de Gdańsk (Dantzig) ?",
+    "answers": ["Pologne", "Allemagne", "Lituanie", "Suède"],
+    "correctIndex": 0
   },
   {
     "id": "q95",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel fromage est typique de Grèce ?",
-    "answers": [
-      "Feta",
-      "Manchego",
-      "Mozzarella",
-      "Halloumi"
-    ],
+    "text": "Quel pays est associé aux costumes « kente » ?",
+    "answers": ["Ghana", "Kenya", "Nigeria", "Éthiopie"],
     "correctIndex": 0
   },
   {
     "id": "q96",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel est l'instrument national de l'Inde ?",
-    "answers": [
-      "Tabla",
-      "Bansuri",
-      "Veena",
-      "Sitar"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays est connu pour le festival des lumières à Lyon ?",
+    "answers": ["France", "Belgique", "Suisse", "Italie"],
+    "correctIndex": 0
   },
   {
     "id": "q97",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est l'origine du kimchi ?",
-    "answers": [
-      "Chine",
-      "Corée du Sud",
-      "Thaïlande",
-      "Japon"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé au désert d'Atacama ?",
+    "answers": ["Chili", "Pérou", "Argentine", "Bolivie"],
+    "correctIndex": 0
   },
   {
     "id": "q98",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays pratique traditionnellement le sumo ?",
-    "answers": [
-      "Corée du Sud",
-      "Japon",
-      "Chine",
-      "Mongolie"
-    ],
-    "correctIndex": 1
+    "text": "Quelle capitale est traversée par le Danube ?",
+    "answers": ["Budapest", "Madrid", "Lisbonne", "Dublin"],
+    "correctIndex": 0
   },
   {
     "id": "q99",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel est l'instrument national de l'Inde ?",
-    "answers": [
-      "Bansuri",
-      "Sitar",
-      "Veena",
-      "Tabla"
-    ],
-    "correctIndex": 1
+    "text": "Le « gondolier » est un métier traditionnel associé à quelle ville ?",
+    "answers": ["Venise", "Amsterdam", "Stockholm", "Hambourg"],
+    "correctIndex": 0
   },
   {
     "id": "q100",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Dans quel pays se danse la samba ?",
-    "answers": [
-      "Brésil",
-      "Venezuela",
-      "Cuba",
-      "Colombie"
-    ],
+    "text": "Quel pays est associé au site de Stonehenge ?",
+    "answers": ["Royaume-Uni", "Irlande", "France", "Danemark"],
     "correctIndex": 0
   },
   {
     "id": "q101",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est connu pour ses temples d'Angkor ?",
-    "answers": [
-      "Vietnam",
-      "Cambodge",
-      "Laos",
-      "Thaïlande"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé au site antique de Palmyre ?",
+    "answers": ["Syrie", "Jordanie", "Liban", "Irak"],
+    "correctIndex": 0
   },
   {
     "id": "q102",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est connu pour ses temples d'Angkor ?",
-    "answers": [
-      "Thaïlande",
-      "Vietnam",
-      "Cambodge",
-      "Laos"
-    ],
-    "correctIndex": 2
+    "text": "La cathédrale Sainte-Sophie (Hagia Sophia) se situe dans quelle ville ?",
+    "answers": ["Istanbul", "Athènes", "Rome", "Sofia"],
+    "correctIndex": 0
   },
   {
     "id": "q103",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel fromage est typique de Grèce ?",
-    "answers": [
-      "Halloumi",
-      "Feta",
-      "Manchego",
-      "Mozzarella"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est connu pour le festival des glaces de Harbin ?",
+    "answers": ["Chine", "Russie", "Mongolie", "Corée du Sud"],
+    "correctIndex": 0
   },
   {
     "id": "q104",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel vêtement traditionnel japonais est porté lors de cérémonies ?",
-    "answers": [
-      "Furisode",
-      "Yukata",
-      "Kimono",
-      "Hakama"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé au carnaval de Barranquilla ?",
+    "answers": ["Colombie", "Venezuela", "Brésil", "Équateur"],
+    "correctIndex": 0
   },
   {
     "id": "q105",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Dans quel pays se danse la samba ?",
-    "answers": [
-      "Venezuela",
-      "Brésil",
-      "Colombie",
-      "Cuba"
-    ],
-    "correctIndex": 1
+    "text": "Quel est le nom de la grande place principale de Marrakech ?",
+    "answers": ["Jemaa el-Fna", "Place des Nations", "Plaza Mayor", "Place Tahrir"],
+    "correctIndex": 0
   },
   {
     "id": "q106",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est l'origine du kimchi ?",
-    "answers": [
-      "Corée du Sud",
-      "Japon",
-      "Chine",
-      "Thaïlande"
-    ],
+    "text": "Quel pays est associé au site de Sigiriya, appelé « rocher du Lion » ?",
+    "answers": ["Sri Lanka", "Inde", "Myanmar", "Thaïlande"],
     "correctIndex": 0
   },
   {
     "id": "q107",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel vêtement traditionnel japonais est porté lors de cérémonies ?",
-    "answers": [
-      "Kimono",
-      "Hakama",
-      "Furisode",
-      "Yukata"
-    ],
+    "text": "La boisson « cachaça » est traditionnellement produite dans quel pays ?",
+    "answers": ["Brésil", "Mexique", "Portugal", "Espagne"],
     "correctIndex": 0
   },
   {
     "id": "q108",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel est l'instrument national de l'Inde ?",
-    "answers": [
-      "Tabla",
-      "Veena",
-      "Sitar",
-      "Bansuri"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est connu pour la ville de Mostar et son pont emblématique ?",
+    "answers": ["Bosnie-Herzégovine", "Croatie", "Serbie", "Monténégro"],
+    "correctIndex": 0
   },
   {
     "id": "q109",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est l'origine du kimchi ?",
-    "answers": [
-      "Japon",
-      "Thaïlande",
-      "Chine",
-      "Corée du Sud"
-    ],
-    "correctIndex": 3
+    "text": "Dans quel pays se trouve la ville de Cappadoce (région des cheminées de fées) ?",
+    "answers": ["Turquie", "Grèce", "Bulgarie", "Géorgie"],
+    "correctIndex": 0
   },
   {
     "id": "q110",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays célèbre la fête de la mi-automne avec des gâteaux de lune ?",
-    "answers": [
-      "Vietnam",
-      "Corée du Sud",
-      "Japon",
-      "Chine"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays est associé à la danse traditionnelle « diablada » ?",
+    "answers": ["Bolivie", "Pérou", "Chili", "Colombie"],
+    "correctIndex": 0
   },
   {
     "id": "q111",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est connu pour ses temples d'Angkor ?",
-    "answers": [
-      "Laos",
-      "Cambodge",
-      "Vietnam",
-      "Thaïlande"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est connu pour le festival La Tomatina ?",
+    "answers": ["Espagne", "Italie", "Portugal", "France"],
+    "correctIndex": 0
   },
   {
     "id": "q112",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays pratique traditionnellement le sumo ?",
-    "answers": [
-      "Corée du Sud",
-      "Mongolie",
-      "Chine",
-      "Japon"
-    ],
-    "correctIndex": 3
+    "text": "Quelle ville est associée au musée Guggenheim conçu par Frank Gehry en Espagne ?",
+    "answers": ["Bilbao", "Séville", "Valence", "Grenade"],
+    "correctIndex": 0
   },
   {
     "id": "q113",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel peuple est à l'origine du haka ?",
-    "answers": [
-      "Samoans",
-      "Maoris",
-      "Inuits",
-      "Aborigènes"
-    ],
-    "correctIndex": 1
+    "text": "Le plat « doro wat » est une spécialité de quel pays ?",
+    "answers": ["Éthiopie", "Kenya", "Maroc", "Égypte"],
+    "correctIndex": 0
   },
   {
     "id": "q114",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est l'origine du kimchi ?",
-    "answers": [
-      "Corée du Sud",
-      "Japon",
-      "Thaïlande",
-      "Chine"
-    ],
+    "text": "Le « Vesak » est une fête bouddhiste importante célébrée notamment dans quel pays ?",
+    "answers": ["Sri Lanka", "Japon", "Maroc", "Islande"],
     "correctIndex": 0
   },
   {
     "id": "q115",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est connu pour ses temples d'Angkor ?",
-    "answers": [
-      "Cambodge",
-      "Laos",
-      "Thaïlande",
-      "Vietnam"
-    ],
+    "text": "Quel pays est associé au plat « momos » ?",
+    "answers": ["Népal", "Japon", "Mexique", "Italie"],
     "correctIndex": 0
   },
   {
     "id": "q116",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel vêtement traditionnel japonais est porté lors de cérémonies ?",
-    "answers": [
-      "Hakama",
-      "Yukata",
-      "Kimono",
-      "Furisode"
-    ],
-    "correctIndex": 2
+    "text": "Le « char kway teow » est un plat de nouilles associé à quel pays ?",
+    "answers": ["Malaisie", "France", "Espagne", "Russie"],
+    "correctIndex": 0
   },
   {
     "id": "q117",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays célèbre la fête de la mi-automne avec des gâteaux de lune ?",
-    "answers": [
-      "Corée du Sud",
-      "Vietnam",
-      "Chine",
-      "Japon"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est connu pour la tradition du sauna et des milliers de lacs ?",
+    "answers": ["Finlande", "Norvège", "Espagne", "Grèce"],
+    "correctIndex": 0
   },
   {
     "id": "q118",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays célèbre la fête de la mi-automne avec des gâteaux de lune ?",
-    "answers": [
-      "Vietnam",
-      "Japon",
-      "Chine",
-      "Corée du Sud"
-    ],
-    "correctIndex": 2
+    "text": "Quelle ville est célèbre pour la mosquée Bleue (Sultanahmet) ?",
+    "answers": ["Istanbul", "Le Caire", "Tunis", "Rabat"],
+    "correctIndex": 0
   },
   {
     "id": "q119",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Dans quel pays se danse la samba ?",
-    "answers": [
-      "Colombie",
-      "Cuba",
-      "Brésil",
-      "Venezuela"
-    ],
-    "correctIndex": 2
+    "text": "Le « thiéboudienne » est un plat national de quel pays ?",
+    "answers": ["Sénégal", "Mali", "Gabon", "Maroc"],
+    "correctIndex": 0
   },
   {
     "id": "q120",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel festival indien est connu pour ses jets de poudre colorée ?",
-    "answers": [
-      "Onam",
-      "Holi",
-      "Diwali",
-      "Navratri"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé aux ruines de Carthage ?",
+    "answers": ["Tunisie", "Algérie", "Libye", "Égypte"],
+    "correctIndex": 0
   },
+
   {
     "id": "q121",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est connu pour ses temples d'Angkor ?",
-    "answers": [
-      "Thaïlande",
-      "Cambodge",
-      "Laos",
-      "Vietnam"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé au festival Loy Krathong ?",
+    "answers": ["Thaïlande", "Vietnam", "Japon", "Inde"],
+    "correctIndex": 0
   },
   {
     "id": "q122",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel fromage est typique de Grèce ?",
-    "answers": [
-      "Mozzarella",
-      "Manchego",
-      "Halloumi",
-      "Feta"
-    ],
-    "correctIndex": 3
+    "text": "Quelle ville est réputée pour la basilique Saint-Marc et le palais des Doges ?",
+    "answers": ["Venise", "Florence", "Rome", "Milan"],
+    "correctIndex": 0
   },
   {
     "id": "q123",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel vêtement traditionnel japonais est porté lors de cérémonies ?",
-    "answers": [
-      "Hakama",
-      "Kimono",
-      "Yukata",
-      "Furisode"
-    ],
-    "correctIndex": 1
+    "text": "Le « brennivín » est un alcool traditionnel de quel pays ?",
+    "answers": ["Islande", "Irlande", "Écosse", "Norvège"],
+    "correctIndex": 0
   },
   {
     "id": "q124",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel est l'instrument national de l'Inde ?",
-    "answers": [
-      "Bansuri",
-      "Veena",
-      "Tabla",
-      "Sitar"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays est connu pour l'ancienne ville de Jérash (Gerasa) ?",
+    "answers": ["Jordanie", "Liban", "Syrie", "Israël"],
+    "correctIndex": 0
   },
   {
     "id": "q125",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel festival indien est connu pour ses jets de poudre colorée ?",
-    "answers": [
-      "Diwali",
-      "Navratri",
-      "Onam",
-      "Holi"
-    ],
-    "correctIndex": 3
+    "text": "Le « gyoza » est une spécialité populaire surtout associée à quel pays (dans sa forme la plus connue) ?",
+    "answers": ["Japon", "Italie", "France", "Russie"],
+    "correctIndex": 0
   },
   {
     "id": "q126",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays célèbre la fête de la mi-automne avec des gâteaux de lune ?",
-    "answers": [
-      "Chine",
-      "Vietnam",
-      "Corée du Sud",
-      "Japon"
-    ],
+    "text": "Quel pays est associé aux danses « joropo » ?",
+    "answers": ["Venezuela", "Argentine", "Portugal", "Canada"],
     "correctIndex": 0
   },
   {
     "id": "q127",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays pratique traditionnellement le sumo ?",
-    "answers": [
-      "Mongolie",
-      "Chine",
-      "Japon",
-      "Corée du Sud"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé à la ville de Fado (Lisbonne) et à ce genre musical ?",
+    "answers": ["Portugal", "Espagne", "France", "Italie"],
+    "correctIndex": 0
   },
   {
     "id": "q128",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel festival indien est connu pour ses jets de poudre colorée ?",
-    "answers": [
-      "Diwali",
-      "Onam",
-      "Navratri",
-      "Holi"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays est connu pour la ville de Zanzibar (Stone Town) ?",
+    "answers": ["Tanzanie", "Kenya", "Mozambique", "Madagascar"],
+    "correctIndex": 0
   },
   {
     "id": "q129",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays célèbre la fête de la mi-automne avec des gâteaux de lune ?",
-    "answers": [
-      "Corée du Sud",
-      "Japon",
-      "Chine",
-      "Vietnam"
-    ],
-    "correctIndex": 2
+    "text": "Le « Rijksmuseum » est un musée majeur de quel pays ?",
+    "answers": ["Pays-Bas", "Belgique", "Allemagne", "Danemark"],
+    "correctIndex": 0
   },
   {
     "id": "q130",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays pratique traditionnellement le sumo ?",
-    "answers": [
-      "Chine",
-      "Japon",
-      "Corée du Sud",
-      "Mongolie"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé au site de Tikal (civilisation maya) ?",
+    "answers": ["Guatemala", "Mexique", "Belize", "Honduras"],
+    "correctIndex": 0
   },
   {
     "id": "q131",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel est l'instrument national de l'Inde ?",
-    "answers": [
-      "Tabla",
-      "Bansuri",
-      "Veena",
-      "Sitar"
-    ],
-    "correctIndex": 3
+    "text": "Le « khachapuri » est un plat emblématique de quel pays ?",
+    "answers": ["Géorgie", "Grèce", "Italie", "Portugal"],
+    "correctIndex": 0
   },
   {
     "id": "q132",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est l'origine du kimchi ?",
-    "answers": [
-      "Corée du Sud",
-      "Japon",
-      "Thaïlande",
-      "Chine"
-    ],
+    "text": "Quelle ville est célèbre pour le quartier historique de Gamla Stan ?",
+    "answers": ["Stockholm", "Oslo", "Copenhague", "Helsinki"],
     "correctIndex": 0
   },
   {
     "id": "q133",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est connu pour ses temples d'Angkor ?",
-    "answers": [
-      "Thaïlande",
-      "Laos",
-      "Cambodge",
-      "Vietnam"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé au plat « pelmeni » ?",
+    "answers": ["Russie", "France", "Mexique", "Japon"],
+    "correctIndex": 0
   },
   {
     "id": "q134",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel fromage est typique de Grèce ?",
-    "answers": [
-      "Manchego",
-      "Halloumi",
-      "Feta",
-      "Mozzarella"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé au plateau du Golan ?",
+    "answers": ["Syrie", "Portugal", "Suède", "Mexique"],
+    "correctIndex": 0
   },
   {
     "id": "q135",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel peuple est à l'origine du haka ?",
-    "answers": [
-      "Inuits",
-      "Maoris",
-      "Aborigènes",
-      "Samoans"
-    ],
-    "correctIndex": 1
+    "text": "Le « Naadam » comprend traditionnellement la lutte, le tir à l'arc et quel autre sport ?",
+    "answers": ["Courses de chevaux", "Natation", "Cyclisme", "Escrime"],
+    "correctIndex": 0
   },
   {
     "id": "q136",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel festival indien est connu pour ses jets de poudre colorée ?",
-    "answers": [
-      "Diwali",
-      "Holi",
-      "Navratri",
-      "Onam"
-    ],
-    "correctIndex": 1
+    "text": "Le peintre Edvard Munch est associé à quel pays ?",
+    "answers": ["Norvège", "Suède", "Finlande", "Danemark"],
+    "correctIndex": 0
   },
   {
     "id": "q137",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel peuple est à l'origine du haka ?",
-    "answers": [
-      "Samoans",
-      "Maoris",
-      "Aborigènes",
-      "Inuits"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé aux ruines de Lepcis Magna ?",
+    "answers": ["Libye", "Tunisie", "Algérie", "Égypte"],
+    "correctIndex": 0
   },
   {
     "id": "q138",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays pratique traditionnellement le sumo ?",
-    "answers": [
-      "Corée du Sud",
-      "Chine",
-      "Japon",
-      "Mongolie"
-    ],
-    "correctIndex": 2
+    "text": "Le plat « shakshuka » est très populaire dans quelle région culturelle ?",
+    "answers": ["Méditerranée/Moyen-Orient", "Scandinavie", "Amérique du Nord", "Océanie"],
+    "correctIndex": 0
   },
   {
     "id": "q139",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel festival indien est connu pour ses jets de poudre colorée ?",
-    "answers": [
-      "Diwali",
-      "Onam",
-      "Holi",
-      "Navratri"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé à l'art de la céramique de Talavera (tradition la plus connue) ?",
+    "answers": ["Espagne", "Islande", "Canada", "Japon"],
+    "correctIndex": 0
   },
   {
     "id": "q140",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel festival indien est connu pour ses jets de poudre colorée ?",
-    "answers": [
-      "Navratri",
-      "Diwali",
-      "Onam",
-      "Holi"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays est connu pour les lignes de métro décorées d'art à Moscou ?",
+    "answers": ["Russie", "Ukraine", "Pologne", "Finlande"],
+    "correctIndex": 0
   },
+
   {
     "id": "q141",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays célèbre la fête de la mi-automne avec des gâteaux de lune ?",
-    "answers": [
-      "Japon",
-      "Vietnam",
-      "Chine",
-      "Corée du Sud"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé au palais de Potala ?",
+    "answers": ["Chine (Tibet)", "Inde", "Népal", "Bhoutan"],
+    "correctIndex": 0
   },
   {
     "id": "q142",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel est l'instrument national de l'Inde ?",
-    "answers": [
-      "Veena",
-      "Bansuri",
-      "Sitar",
-      "Tabla"
-    ],
-    "correctIndex": 2
+    "text": "Le « cappuccino » doit son nom à une référence culturelle liée à quel pays ?",
+    "answers": ["Italie", "Espagne", "France", "Grèce"],
+    "correctIndex": 0
   },
   {
     "id": "q143",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est connu pour ses temples d'Angkor ?",
-    "answers": [
-      "Vietnam",
-      "Cambodge",
-      "Laos",
-      "Thaïlande"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé au site archéologique de Great Zimbabwe ?",
+    "answers": ["Zimbabwe", "Zambie", "Namibie", "Botswana"],
+    "correctIndex": 0
   },
   {
     "id": "q144",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays pratique traditionnellement le sumo ?",
-    "answers": [
-      "Chine",
-      "Japon",
-      "Corée du Sud",
-      "Mongolie"
-    ],
-    "correctIndex": 1
+    "text": "Quelle ville est associée à la tour de Galata ?",
+    "answers": ["Istanbul", "Athènes", "Bucarest", "Sofia"],
+    "correctIndex": 0
   },
   {
     "id": "q145",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays célèbre la fête de la mi-automne avec des gâteaux de lune ?",
-    "answers": [
-      "Vietnam",
-      "Japon",
-      "Corée du Sud",
-      "Chine"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays est associé au plat « feijoada » ?",
+    "answers": ["Brésil", "Portugal", "Espagne", "Mexique"],
+    "correctIndex": 0
   },
   {
     "id": "q146",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel festival indien est connu pour ses jets de poudre colorée ?",
-    "answers": [
-      "Onam",
-      "Navratri",
-      "Diwali",
-      "Holi"
-    ],
-    "correctIndex": 3
+    "text": "Le site de Göbekli Tepe se trouve dans quel pays ?",
+    "answers": ["Turquie", "Syrie", "Jordanie", "Irak"],
+    "correctIndex": 0
   },
   {
     "id": "q147",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel est l'instrument national de l'Inde ?",
-    "answers": [
-      "Tabla",
-      "Sitar",
-      "Bansuri",
-      "Veena"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est connu pour la ville de Bergen et son quartier de Bryggen ?",
+    "answers": ["Norvège", "Suède", "Danemark", "Islande"],
+    "correctIndex": 0
   },
   {
     "id": "q148",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel fromage est typique de Grèce ?",
-    "answers": [
-      "Feta",
-      "Mozzarella",
-      "Manchego",
-      "Halloumi"
-    ],
+    "text": "Quel pays est associé au plat « pierogi » (tradition la plus connue) ?",
+    "answers": ["Pologne", "Italie", "Espagne", "Portugal"],
     "correctIndex": 0
   },
   {
     "id": "q149",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays pratique traditionnellement le sumo ?",
-    "answers": [
-      "Corée du Sud",
-      "Japon",
-      "Mongolie",
-      "Chine"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé à l'île de Jeju, destination culturelle et naturelle ?",
+    "answers": ["Corée du Sud", "Japon", "Chine", "Philippines"],
+    "correctIndex": 0
   },
   {
     "id": "q150",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel peuple est à l'origine du haka ?",
-    "answers": [
-      "Inuits",
-      "Aborigènes",
-      "Samoans",
-      "Maoris"
-    ],
-    "correctIndex": 3
+    "text": "Le « sancocho » est une soupe/ragoût populaire dans quelle aire culturelle ?",
+    "answers": ["Caraïbes/Amérique latine", "Scandinavie", "Asie centrale", "Océanie"],
+    "correctIndex": 0
   },
+
   {
     "id": "q151",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays pratique traditionnellement le sumo ?",
-    "answers": [
-      "Japon",
-      "Chine",
-      "Mongolie",
-      "Corée du Sud"
-    ],
+    "text": "Quel pays est associé à la ville de Valparaíso (collines et street art) ?",
+    "answers": ["Chili", "Pérou", "Colombie", "Mexique"],
     "correctIndex": 0
   },
   {
     "id": "q152",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays célèbre la fête de la mi-automne avec des gâteaux de lune ?",
-    "answers": [
-      "Japon",
-      "Chine",
-      "Vietnam",
-      "Corée du Sud"
-    ],
-    "correctIndex": 1
+    "text": "Le « bun cha » est un plat associé à quelle ville vietnamienne ?",
+    "answers": ["Hanoï", "Hô Chi Minh-Ville", "Da Nang", "Huê"],
+    "correctIndex": 0
   },
   {
     "id": "q153",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel vêtement traditionnel japonais est porté lors de cérémonies ?",
-    "answers": [
-      "Hakama",
-      "Yukata",
-      "Kimono",
-      "Furisode"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est connu pour le festival de Gion Matsuri ?",
+    "answers": ["Japon", "Corée", "Chine", "Vietnam"],
+    "correctIndex": 0
   },
   {
     "id": "q154",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel peuple est à l'origine du haka ?",
-    "answers": [
-      "Maoris",
-      "Inuits",
-      "Samoans",
-      "Aborigènes"
-    ],
+    "text": "Quel pays est associé aux ruines de Sukhothai ?",
+    "answers": ["Thaïlande", "Cambodge", "Laos", "Vietnam"],
     "correctIndex": 0
   },
   {
     "id": "q155",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays pratique traditionnellement le sumo ?",
-    "answers": [
-      "Mongolie",
-      "Chine",
-      "Japon",
-      "Corée du Sud"
-    ],
-    "correctIndex": 2
+    "text": "La « Festa Junina » est une célébration populaire de quel pays ?",
+    "answers": ["Brésil", "Portugal", "Espagne", "Mexique"],
+    "correctIndex": 0
   },
   {
     "id": "q156",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays célèbre la fête de la mi-automne avec des gâteaux de lune ?",
-    "answers": [
-      "Chine",
-      "Corée du Sud",
-      "Vietnam",
-      "Japon"
-    ],
+    "text": "Quel pays est associé au désert du Kalahari ?",
+    "answers": ["Botswana", "Maroc", "Égypte", "Kenya"],
     "correctIndex": 0
   },
   {
     "id": "q157",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est connu pour ses temples d'Angkor ?",
-    "answers": [
-      "Cambodge",
-      "Thaïlande",
-      "Laos",
-      "Vietnam"
-    ],
+    "text": "Quelle ville est associée au musée du Louvre ?",
+    "answers": ["Paris", "Rome", "Madrid", "Londres"],
     "correctIndex": 0
   },
   {
     "id": "q158",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays célèbre la fête de la mi-automne avec des gâteaux de lune ?",
-    "answers": [
-      "Vietnam",
-      "Japon",
-      "Corée du Sud",
-      "Chine"
-    ],
-    "correctIndex": 3
+    "text": "Le « masala chai » est une boisson épicée associée à quel pays ?",
+    "answers": ["Inde", "Mexique", "Italie", "Russie"],
+    "correctIndex": 0
   },
   {
     "id": "q159",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est l'origine du kimchi ?",
-    "answers": [
-      "Japon",
-      "Chine",
-      "Thaïlande",
-      "Corée du Sud"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays est associé à la ville de Kotor (baie et vieille ville) ?",
+    "answers": ["Monténégro", "Croatie", "Grèce", "Bulgarie"],
+    "correctIndex": 0
   },
   {
     "id": "q160",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est l'origine du kimchi ?",
-    "answers": [
-      "Chine",
-      "Corée du Sud",
-      "Thaïlande",
-      "Japon"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé au plat « arepas » ?",
+    "answers": ["Venezuela", "Espagne", "Italie", "Maroc"],
+    "correctIndex": 0
   },
+
   {
     "id": "q161",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays pratique traditionnellement le sumo ?",
-    "answers": [
-      "Chine",
-      "Japon",
-      "Corée du Sud",
-      "Mongolie"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est connu pour la ville de Split et le palais de Dioclétien ?",
+    "answers": ["Croatie", "Grèce", "Italie", "Albanie"],
+    "correctIndex": 0
   },
   {
     "id": "q162",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est l'origine du kimchi ?",
-    "answers": [
-      "Corée du Sud",
-      "Japon",
-      "Thaïlande",
-      "Chine"
-    ],
+    "text": "Le « thé à la menthe » est une boisson culturelle emblématique de quel pays du Maghreb ?",
+    "answers": ["Maroc", "Libye", "Égypte", "Soudan"],
     "correctIndex": 0
   },
   {
     "id": "q163",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel peuple est à l'origine du haka ?",
-    "answers": [
-      "Aborigènes",
-      "Samoans",
-      "Inuits",
-      "Maoris"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays est associé au plateau de Gizeh et au Sphinx ?",
+    "answers": ["Égypte", "Jordanie", "Tunisie", "Algérie"],
+    "correctIndex": 0
   },
   {
     "id": "q164",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est connu pour ses temples d'Angkor ?",
-    "answers": [
-      "Cambodge",
-      "Thaïlande",
-      "Vietnam",
-      "Laos"
-    ],
+    "text": "Quel pays est associé à la ville de Jaipur, dite « ville rose » ?",
+    "answers": ["Inde", "Pakistan", "Sri Lanka", "Bangladesh"],
     "correctIndex": 0
   },
   {
     "id": "q165",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est connu pour ses temples d'Angkor ?",
-    "answers": [
-      "Cambodge",
-      "Vietnam",
-      "Thaïlande",
-      "Laos"
-    ],
+    "text": "Le site de Mesa Verde (habitations troglodytiques) se trouve dans quel pays ?",
+    "answers": ["États-Unis", "Mexique", "Canada", "Pérou"],
     "correctIndex": 0
   },
   {
     "id": "q166",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel peuple est à l'origine du haka ?",
-    "answers": [
-      "Aborigènes",
-      "Samoans",
-      "Maoris",
-      "Inuits"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé au quartier de Santa Teresa (culture, musique) à Rio ?",
+    "answers": ["Brésil", "Portugal", "Espagne", "Argentine"],
+    "correctIndex": 0
   },
   {
     "id": "q167",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel festival indien est connu pour ses jets de poudre colorée ?",
-    "answers": [
-      "Holi",
-      "Diwali",
-      "Onam",
-      "Navratri"
-    ],
+    "text": "Le « souvlaki » est une spécialité associée à quel pays ?",
+    "answers": ["Grèce", "Italie", "France", "Allemagne"],
     "correctIndex": 0
   },
   {
     "id": "q168",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays célèbre la fête de la mi-automne avec des gâteaux de lune ?",
-    "answers": [
-      "Japon",
-      "Vietnam",
-      "Chine",
-      "Corée du Sud"
-    ],
-    "correctIndex": 2
+    "text": "Quelle ville est associée au célèbre pont du Rialto ?",
+    "answers": ["Venise", "Rome", "Florence", "Milan"],
+    "correctIndex": 0
   },
   {
     "id": "q169",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel fromage est typique de Grèce ?",
-    "answers": [
-      "Halloumi",
-      "Manchego",
-      "Mozzarella",
-      "Feta"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays est associé au monument du Christ Rédempteur ?",
+    "answers": ["Brésil", "Mexique", "Chili", "Argentine"],
+    "correctIndex": 0
   },
   {
     "id": "q170",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel peuple est à l'origine du haka ?",
-    "answers": [
-      "Samoans",
-      "Maoris",
-      "Inuits",
-      "Aborigènes"
-    ],
-    "correctIndex": 1
+    "text": "Le festival « Burning Man » a lieu dans quel pays ?",
+    "answers": ["États-Unis", "Canada", "Australie", "Royaume-Uni"],
+    "correctIndex": 0
   },
+
   {
     "id": "q171",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel peuple est à l'origine du haka ?",
-    "answers": [
-      "Inuits",
-      "Samoans",
-      "Maoris",
-      "Aborigènes"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé au mont Fuji comme symbole culturel majeur ?",
+    "answers": ["Japon", "Corée", "Chine", "Mongolie"],
+    "correctIndex": 0
   },
   {
     "id": "q172",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel fromage est typique de Grèce ?",
-    "answers": [
-      "Manchego",
-      "Feta",
-      "Halloumi",
-      "Mozzarella"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé au site de Hampi ?",
+    "answers": ["Inde", "Népal", "Sri Lanka", "Pakistan"],
+    "correctIndex": 0
   },
   {
     "id": "q173",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel vêtement traditionnel japonais est porté lors de cérémonies ?",
-    "answers": [
-      "Furisode",
-      "Hakama",
-      "Kimono",
-      "Yukata"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé à la danse « merengue » (origine la plus connue) ?",
+    "answers": ["République dominicaine", "Cuba", "Brésil", "Argentine"],
+    "correctIndex": 0
   },
   {
     "id": "q174",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel peuple est à l'origine du haka ?",
-    "answers": [
-      "Maoris",
-      "Inuits",
-      "Aborigènes",
-      "Samoans"
-    ],
+    "text": "Le « ramen » est une spécialité devenue emblématique de quel pays ?",
+    "answers": ["Japon", "France", "Portugal", "Mexique"],
     "correctIndex": 0
   },
   {
     "id": "q175",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel festival indien est connu pour ses jets de poudre colorée ?",
-    "answers": [
-      "Navratri",
-      "Holi",
-      "Onam",
-      "Diwali"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé au désert du Gobi ?",
+    "answers": ["Mongolie", "Égypte", "Maroc", "Chili"],
+    "correctIndex": 0
   },
   {
     "id": "q176",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Dans quel pays se danse la samba ?",
-    "answers": [
-      "Colombie",
-      "Brésil",
-      "Venezuela",
-      "Cuba"
-    ],
-    "correctIndex": 1
+    "text": "Quelle ville est associée à la statue du Manneken-Pis ?",
+    "answers": ["Bruxelles", "Amsterdam", "Paris", "Luxembourg"],
+    "correctIndex": 0
   },
   {
     "id": "q177",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel peuple est à l'origine du haka ?",
-    "answers": [
-      "Samoans",
-      "Aborigènes",
-      "Inuits",
-      "Maoris"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays est associé au musée d'Orsay ?",
+    "answers": ["France", "Italie", "Espagne", "Belgique"],
+    "correctIndex": 0
   },
   {
     "id": "q178",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est l'origine du kimchi ?",
-    "answers": [
-      "Chine",
-      "Corée du Sud",
-      "Thaïlande",
-      "Japon"
-    ],
-    "correctIndex": 1
+    "text": "Le plat « rendang » est un plat célèbre de quel pays ?",
+    "answers": ["Indonésie", "Japon", "Portugal", "Turquie"],
+    "correctIndex": 0
   },
   {
     "id": "q179",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel festival indien est connu pour ses jets de poudre colorée ?",
-    "answers": [
-      "Holi",
-      "Navratri",
-      "Onam",
-      "Diwali"
-    ],
+    "text": "Quel pays est associé au site de Chogha Zanbil (ziggourat) ?",
+    "answers": ["Iran", "Irak", "Syrie", "Jordanie"],
     "correctIndex": 0
   },
   {
     "id": "q180",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Dans quel pays se danse la samba ?",
-    "answers": [
-      "Venezuela",
-      "Colombie",
-      "Cuba",
-      "Brésil"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays est associé au carnaval de Venise ?",
+    "answers": ["Italie", "France", "Espagne", "Portugal"],
+    "correctIndex": 0
   },
+
   {
     "id": "q181",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel est l'instrument national de l'Inde ?",
-    "answers": [
-      "Sitar",
-      "Bansuri",
-      "Veena",
-      "Tabla"
-    ],
+    "text": "Le « BTEK » (pâtisserie appelée baklava) est traditionnellement associé à quelle région culturelle ?",
+    "answers": ["Moyen-Orient/Méditerranée", "Scandinavie", "Océanie", "Amérique du Nord"],
     "correctIndex": 0
   },
   {
     "id": "q182",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel est l'instrument national de l'Inde ?",
-    "answers": [
-      "Tabla",
-      "Bansuri",
-      "Veena",
-      "Sitar"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays est associé à la ville de Recife, connue pour son carnaval et son frevo ?",
+    "answers": ["Brésil", "Portugal", "Espagne", "Mexique"],
+    "correctIndex": 0
   },
   {
     "id": "q183",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est l'origine du kimchi ?",
-    "answers": [
-      "Japon",
-      "Corée du Sud",
-      "Thaïlande",
-      "Chine"
-    ],
-    "correctIndex": 1
+    "text": "Le « frevo » est un style musical et danse lié à quel pays ?",
+    "answers": ["Brésil", "Cuba", "Espagne", "Italie"],
+    "correctIndex": 0
   },
   {
     "id": "q184",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel festival indien est connu pour ses jets de poudre colorée ?",
-    "answers": [
-      "Navratri",
-      "Holi",
-      "Diwali",
-      "Onam"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé à la ville de Reykjavik ?",
+    "answers": ["Islande", "Irlande", "Norvège", "Suède"],
+    "correctIndex": 0
   },
   {
     "id": "q185",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel vêtement traditionnel japonais est porté lors de cérémonies ?",
-    "answers": [
-      "Kimono",
-      "Yukata",
-      "Furisode",
-      "Hakama"
-    ],
+    "text": "La danse « adumu » (sauts) est associée à quel peuple ?",
+    "answers": ["Maasaï", "Inuits", "Aztèques", "Maoris"],
     "correctIndex": 0
   },
   {
     "id": "q186",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Dans quel pays se danse la samba ?",
-    "answers": [
-      "Colombie",
-      "Venezuela",
-      "Brésil",
-      "Cuba"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé au site de Chichicastenango (marché traditionnel) ?",
+    "answers": ["Guatemala", "Mexique", "Pérou", "Colombie"],
+    "correctIndex": 0
   },
   {
     "id": "q187",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est l'origine du kimchi ?",
-    "answers": [
-      "Thaïlande",
-      "Japon",
-      "Chine",
-      "Corée du Sud"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays est associé au musée du Vatican (cité-État) ?",
+    "answers": ["Vatican", "Italie", "France", "Espagne"],
+    "correctIndex": 0
   },
   {
     "id": "q188",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est l'origine du kimchi ?",
-    "answers": [
-      "Japon",
-      "Chine",
-      "Thaïlande",
-      "Corée du Sud"
-    ],
-    "correctIndex": 3
+    "text": "Quelle ville est associée à la cathédrale Notre-Dame ?",
+    "answers": ["Paris", "Lyon", "Marseille", "Bordeaux"],
+    "correctIndex": 0
   },
   {
     "id": "q189",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est connu pour ses temples d'Angkor ?",
-    "answers": [
-      "Laos",
-      "Cambodge",
-      "Thaïlande",
-      "Vietnam"
-    ],
-    "correctIndex": 1
+    "text": "Le plat « okonomiyaki » est une spécialité de quel pays ?",
+    "answers": ["Japon", "Chine", "Corée", "Thaïlande"],
+    "correctIndex": 0
   },
   {
     "id": "q190",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays pratique traditionnellement le sumo ?",
-    "answers": [
-      "Chine",
-      "Mongolie",
-      "Japon",
-      "Corée du Sud"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé aux dunes de Sossusvlei ?",
+    "answers": ["Namibie", "Botswana", "Afrique du Sud", "Angola"],
+    "correctIndex": 0
   },
+
   {
     "id": "q191",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays pratique traditionnellement le sumo ?",
-    "answers": [
-      "Japon",
-      "Corée du Sud",
-      "Chine",
-      "Mongolie"
-    ],
+    "text": "Quel pays est associé au festival de Cannes ?",
+    "answers": ["France", "Italie", "Espagne", "Allemagne"],
     "correctIndex": 0
   },
   {
     "id": "q192",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays est l'origine du kimchi ?",
-    "answers": [
-      "Corée du Sud",
-      "Japon",
-      "Chine",
-      "Thaïlande"
-    ],
+    "text": "Quelle ville est associée à la place Rouge ?",
+    "answers": ["Moscou", "Saint-Pétersbourg", "Kazan", "Kiev"],
     "correctIndex": 0
   },
   {
     "id": "q193",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays pratique traditionnellement le sumo ?",
-    "answers": [
-      "Japon",
-      "Mongolie",
-      "Corée du Sud",
-      "Chine"
-    ],
+    "text": "Quel pays est associé à la ville de Cusco ?",
+    "answers": ["Pérou", "Bolivie", "Chili", "Équateur"],
     "correctIndex": 0
   },
   {
     "id": "q194",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel est l'instrument national de l'Inde ?",
-    "answers": [
-      "Sitar",
-      "Tabla",
-      "Veena",
-      "Bansuri"
-    ],
+    "text": "Le « shamisen » est un instrument traditionnel de quel pays ?",
+    "answers": ["Japon", "Chine", "Corée", "Vietnam"],
     "correctIndex": 0
   },
   {
     "id": "q195",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel festival indien est connu pour ses jets de poudre colorée ?",
-    "answers": [
-      "Onam",
-      "Diwali",
-      "Navratri",
-      "Holi"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays est associé au plat « manti » (raviolis) dans sa tradition la plus connue ?",
+    "answers": ["Turquie", "Italie", "France", "Mexique"],
+    "correctIndex": 0
   },
   {
     "id": "q196",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel est l'instrument national de l'Inde ?",
-    "answers": [
-      "Bansuri",
-      "Veena",
-      "Tabla",
-      "Sitar"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays est associé au théâtre d'ombres « wayang » ?",
+    "answers": ["Indonésie", "Chine", "Japon", "Portugal"],
+    "correctIndex": 0
   },
   {
     "id": "q197",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Dans quel pays se danse la samba ?",
-    "answers": [
-      "Brésil",
-      "Venezuela",
-      "Colombie",
-      "Cuba"
-    ],
+    "text": "Quel pays est associé au mont Kilimandjaro comme symbole ?",
+    "answers": ["Tanzanie", "Kenya", "Ouganda", "Éthiopie"],
     "correctIndex": 0
   },
   {
     "id": "q198",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Dans quel pays se danse la samba ?",
-    "answers": [
-      "Venezuela",
-      "Colombie",
-      "Cuba",
-      "Brésil"
-    ],
-    "correctIndex": 3
+    "text": "Le « lavash » est un pain traditionnel associé surtout à quel pays/culture ?",
+    "answers": ["Arménie", "France", "Mexique", "Japon"],
+    "correctIndex": 0
   },
   {
     "id": "q199",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel pays pratique traditionnellement le sumo ?",
-    "answers": [
-      "Japon",
-      "Corée du Sud",
-      "Mongolie",
-      "Chine"
-    ],
+    "text": "Quel pays est associé au festival des cerisiers en fleurs (hanami) ?",
+    "answers": ["Japon", "Inde", "Brésil",quia", "Canada"],
     "correctIndex": 0
   },
   {
     "id": "q200",
     "category": "Cultures",
     "difficulty": "Moyen",
-    "text": "Quel peuple est à l'origine du haka ?",
-    "answers": [
-      "Aborigènes",
-      "Maoris",
-      "Samoans",
-      "Inuits"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q201",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel pays célèbre la fête de la mi-automne avec des gâteaux de lune ?",
-    "answers": [
-      "Chine",
-      "Japon",
-      "Vietnam",
-      "Corée du Sud"
-    ],
+    "text": "Quel pays est associé au « Camino de Santiago » (chemins de Compostelle) ?",
+    "answers": ["Espagne", "Italie", "Grèce", "Autriche"],
     "correctIndex": 0
-  },
-  {
-    "id": "q202",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Dans quel pays se danse la samba ?",
-    "answers": [
-      "Brésil",
-      "Cuba",
-      "Colombie",
-      "Venezuela"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q203",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel pays est connu pour ses temples d'Angkor ?",
-    "answers": [
-      "Laos",
-      "Vietnam",
-      "Cambodge",
-      "Thaïlande"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q204",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel est l'instrument national de l'Inde ?",
-    "answers": [
-      "Sitar",
-      "Tabla",
-      "Veena",
-      "Bansuri"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q205",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel pays est l'origine du kimchi ?",
-    "answers": [
-      "Chine",
-      "Thaïlande",
-      "Corée du Sud",
-      "Japon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q206",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel pays est connu pour ses temples d'Angkor ?",
-    "answers": [
-      "Thaïlande",
-      "Laos",
-      "Vietnam",
-      "Cambodge"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q207",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel pays est connu pour ses temples d'Angkor ?",
-    "answers": [
-      "Vietnam",
-      "Thaïlande",
-      "Laos",
-      "Cambodge"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q208",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel fromage est typique de Grèce ?",
-    "answers": [
-      "Feta",
-      "Halloumi",
-      "Manchego",
-      "Mozzarella"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q209",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel pays célèbre la fête de la mi-automne avec des gâteaux de lune ?",
-    "answers": [
-      "Chine",
-      "Japon",
-      "Corée du Sud",
-      "Vietnam"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q210",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel festival indien est connu pour ses jets de poudre colorée ?",
-    "answers": [
-      "Diwali",
-      "Navratri",
-      "Onam",
-      "Holi"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q211",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel fromage est typique de Grèce ?",
-    "answers": [
-      "Manchego",
-      "Feta",
-      "Mozzarella",
-      "Halloumi"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q212",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel pays est l'origine du kimchi ?",
-    "answers": [
-      "Chine",
-      "Corée du Sud",
-      "Thaïlande",
-      "Japon"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q213",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel pays pratique traditionnellement le sumo ?",
-    "answers": [
-      "Chine",
-      "Corée du Sud",
-      "Mongolie",
-      "Japon"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q214",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Dans quel pays se danse la samba ?",
-    "answers": [
-      "Venezuela",
-      "Cuba",
-      "Brésil",
-      "Colombie"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q215",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel festival indien est connu pour ses jets de poudre colorée ?",
-    "answers": [
-      "Navratri",
-      "Holi",
-      "Diwali",
-      "Onam"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q216",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel pays célèbre la fête de la mi-automne avec des gâteaux de lune ?",
-    "answers": [
-      "Vietnam",
-      "Japon",
-      "Corée du Sud",
-      "Chine"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q217",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel peuple est à l'origine du haka ?",
-    "answers": [
-      "Maoris",
-      "Inuits",
-      "Aborigènes",
-      "Samoans"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q218",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel festival indien est connu pour ses jets de poudre colorée ?",
-    "answers": [
-      "Diwali",
-      "Onam",
-      "Holi",
-      "Navratri"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q219",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel peuple est à l'origine du haka ?",
-    "answers": [
-      "Aborigènes",
-      "Maoris",
-      "Inuits",
-      "Samoans"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q220",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel pays est connu pour ses temples d'Angkor ?",
-    "answers": [
-      "Thaïlande",
-      "Cambodge",
-      "Vietnam",
-      "Laos"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q221",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel peuple est à l'origine du haka ?",
-    "answers": [
-      "Aborigènes",
-      "Samoans",
-      "Maoris",
-      "Inuits"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q222",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Dans quel pays se danse la samba ?",
-    "answers": [
-      "Colombie",
-      "Brésil",
-      "Venezuela",
-      "Cuba"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q223",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel pays célèbre la fête de la mi-automne avec des gâteaux de lune ?",
-    "answers": [
-      "Japon",
-      "Vietnam",
-      "Chine",
-      "Corée du Sud"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q224",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel pays est connu pour ses temples d'Angkor ?",
-    "answers": [
-      "Cambodge",
-      "Laos",
-      "Vietnam",
-      "Thaïlande"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q225",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Dans quel pays se danse la samba ?",
-    "answers": [
-      "Venezuela",
-      "Cuba",
-      "Brésil",
-      "Colombie"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q226",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel pays célèbre la fête de la mi-automne avec des gâteaux de lune ?",
-    "answers": [
-      "Japon",
-      "Chine",
-      "Corée du Sud",
-      "Vietnam"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q227",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel pays est connu pour ses temples d'Angkor ?",
-    "answers": [
-      "Laos",
-      "Vietnam",
-      "Cambodge",
-      "Thaïlande"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q228",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Dans quel pays se danse la samba ?",
-    "answers": [
-      "Venezuela",
-      "Colombie",
-      "Cuba",
-      "Brésil"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q229",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel fromage est typique de Grèce ?",
-    "answers": [
-      "Manchego",
-      "Feta",
-      "Halloumi",
-      "Mozzarella"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q230",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel fromage est typique de Grèce ?",
-    "answers": [
-      "Feta",
-      "Halloumi",
-      "Manchego",
-      "Mozzarella"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q231",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel pays est connu pour ses temples d'Angkor ?",
-    "answers": [
-      "Thaïlande",
-      "Vietnam",
-      "Cambodge",
-      "Laos"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q232",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel pays célèbre la fête de la mi-automne avec des gâteaux de lune ?",
-    "answers": [
-      "Corée du Sud",
-      "Vietnam",
-      "Chine",
-      "Japon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q233",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel fromage est typique de Grèce ?",
-    "answers": [
-      "Manchego",
-      "Mozzarella",
-      "Halloumi",
-      "Feta"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q234",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel vêtement traditionnel japonais est porté lors de cérémonies ?",
-    "answers": [
-      "Yukata",
-      "Furisode",
-      "Hakama",
-      "Kimono"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q235",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel pays célèbre la fête de la mi-automne avec des gâteaux de lune ?",
-    "answers": [
-      "Vietnam",
-      "Chine",
-      "Corée du Sud",
-      "Japon"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q236",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel pays pratique traditionnellement le sumo ?",
-    "answers": [
-      "Japon",
-      "Corée du Sud",
-      "Chine",
-      "Mongolie"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q237",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel festival indien est connu pour ses jets de poudre colorée ?",
-    "answers": [
-      "Navratri",
-      "Diwali",
-      "Holi",
-      "Onam"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q238",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel peuple est à l'origine du haka ?",
-    "answers": [
-      "Samoans",
-      "Aborigènes",
-      "Inuits",
-      "Maoris"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q239",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel festival indien est connu pour ses jets de poudre colorée ?",
-    "answers": [
-      "Diwali",
-      "Holi",
-      "Navratri",
-      "Onam"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q240",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel peuple est à l'origine du haka ?",
-    "answers": [
-      "Inuits",
-      "Maoris",
-      "Aborigènes",
-      "Samoans"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q241",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel pays est connu pour ses temples d'Angkor ?",
-    "answers": [
-      "Thaïlande",
-      "Vietnam",
-      "Laos",
-      "Cambodge"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q242",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel pays est l'origine du kimchi ?",
-    "answers": [
-      "Japon",
-      "Chine",
-      "Corée du Sud",
-      "Thaïlande"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q243",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel fromage est typique de Grèce ?",
-    "answers": [
-      "Feta",
-      "Halloumi",
-      "Mozzarella",
-      "Manchego"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q244",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel pays est l'origine du kimchi ?",
-    "answers": [
-      "Thaïlande",
-      "Corée du Sud",
-      "Japon",
-      "Chine"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q245",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel peuple est à l'origine du haka ?",
-    "answers": [
-      "Samoans",
-      "Aborigènes",
-      "Maoris",
-      "Inuits"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q246",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel peuple est à l'origine du haka ?",
-    "answers": [
-      "Inuits",
-      "Samoans",
-      "Maoris",
-      "Aborigènes"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q247",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel pays pratique traditionnellement le sumo ?",
-    "answers": [
-      "Chine",
-      "Mongolie",
-      "Corée du Sud",
-      "Japon"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q248",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel vêtement traditionnel japonais est porté lors de cérémonies ?",
-    "answers": [
-      "Yukata",
-      "Furisode",
-      "Kimono",
-      "Hakama"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q249",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Dans quel pays se danse la samba ?",
-    "answers": [
-      "Brésil",
-      "Colombie",
-      "Venezuela",
-      "Cuba"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q250",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Dans quel pays se danse la samba ?",
-    "answers": [
-      "Venezuela",
-      "Cuba",
-      "Brésil",
-      "Colombie"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q251",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Dans quel pays se danse la samba ?",
-    "answers": [
-      "Colombie",
-      "Venezuela",
-      "Cuba",
-      "Brésil"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q252",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel pays est connu pour ses temples d'Angkor ?",
-    "answers": [
-      "Thaïlande",
-      "Cambodge",
-      "Laos",
-      "Vietnam"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q253",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel peuple est à l'origine du haka ?",
-    "answers": [
-      "Samoans",
-      "Inuits",
-      "Maoris",
-      "Aborigènes"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q254",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel festival indien est connu pour ses jets de poudre colorée ?",
-    "answers": [
-      "Diwali",
-      "Navratri",
-      "Holi",
-      "Onam"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q255",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel vêtement traditionnel japonais est porté lors de cérémonies ?",
-    "answers": [
-      "Furisode",
-      "Kimono",
-      "Hakama",
-      "Yukata"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q256",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Dans quel pays se danse la samba ?",
-    "answers": [
-      "Venezuela",
-      "Cuba",
-      "Brésil",
-      "Colombie"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q257",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Dans quel pays se danse la samba ?",
-    "answers": [
-      "Brésil",
-      "Cuba",
-      "Venezuela",
-      "Colombie"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q258",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Dans quel pays se danse la samba ?",
-    "answers": [
-      "Colombie",
-      "Brésil",
-      "Venezuela",
-      "Cuba"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q259",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel vêtement traditionnel japonais est porté lors de cérémonies ?",
-    "answers": [
-      "Furisode",
-      "Kimono",
-      "Hakama",
-      "Yukata"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q260",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel pays est l'origine du kimchi ?",
-    "answers": [
-      "Thaïlande",
-      "Corée du Sud",
-      "Chine",
-      "Japon"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q261",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel pays est connu pour ses temples d'Angkor ?",
-    "answers": [
-      "Vietnam",
-      "Laos",
-      "Thaïlande",
-      "Cambodge"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q262",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel festival indien est connu pour ses jets de poudre colorée ?",
-    "answers": [
-      "Navratri",
-      "Onam",
-      "Diwali",
-      "Holi"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q263",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel pays célèbre la fête de la mi-automne avec des gâteaux de lune ?",
-    "answers": [
-      "Chine",
-      "Vietnam",
-      "Japon",
-      "Corée du Sud"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q264",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel pays est l'origine du kimchi ?",
-    "answers": [
-      "Japon",
-      "Thaïlande",
-      "Corée du Sud",
-      "Chine"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q265",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel vêtement traditionnel japonais est porté lors de cérémonies ?",
-    "answers": [
-      "Yukata",
-      "Hakama",
-      "Kimono",
-      "Furisode"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q266",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel fromage est typique de Grèce ?",
-    "answers": [
-      "Feta",
-      "Halloumi",
-      "Manchego",
-      "Mozzarella"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q267",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel fromage est typique de Grèce ?",
-    "answers": [
-      "Manchego",
-      "Mozzarella",
-      "Feta",
-      "Halloumi"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q268",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel pays est connu pour ses temples d'Angkor ?",
-    "answers": [
-      "Laos",
-      "Vietnam",
-      "Thaïlande",
-      "Cambodge"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q269",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel pays est l'origine du kimchi ?",
-    "answers": [
-      "Corée du Sud",
-      "Japon",
-      "Chine",
-      "Thaïlande"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q270",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel pays pratique traditionnellement le sumo ?",
-    "answers": [
-      "Chine",
-      "Japon",
-      "Mongolie",
-      "Corée du Sud"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q271",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Dans quel pays se danse la samba ?",
-    "answers": [
-      "Colombie",
-      "Brésil",
-      "Venezuela",
-      "Cuba"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q272",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel est l'instrument national de l'Inde ?",
-    "answers": [
-      "Sitar",
-      "Veena",
-      "Tabla",
-      "Bansuri"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q273",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel vêtement traditionnel japonais est porté lors de cérémonies ?",
-    "answers": [
-      "Hakama",
-      "Furisode",
-      "Yukata",
-      "Kimono"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q274",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel fromage est typique de Grèce ?",
-    "answers": [
-      "Feta",
-      "Mozzarella",
-      "Manchego",
-      "Halloumi"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q275",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel festival indien est connu pour ses jets de poudre colorée ?",
-    "answers": [
-      "Holi",
-      "Navratri",
-      "Onam",
-      "Diwali"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q276",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel vêtement traditionnel japonais est porté lors de cérémonies ?",
-    "answers": [
-      "Kimono",
-      "Hakama",
-      "Yukata",
-      "Furisode"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q277",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel fromage est typique de Grèce ?",
-    "answers": [
-      "Mozzarella",
-      "Halloumi",
-      "Manchego",
-      "Feta"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q278",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel pays est l'origine du kimchi ?",
-    "answers": [
-      "Thaïlande",
-      "Chine",
-      "Corée du Sud",
-      "Japon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q279",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Dans quel pays se danse la samba ?",
-    "answers": [
-      "Venezuela",
-      "Brésil",
-      "Cuba",
-      "Colombie"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q280",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel peuple est à l'origine du haka ?",
-    "answers": [
-      "Inuits",
-      "Maoris",
-      "Aborigènes",
-      "Samoans"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q281",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel fromage est typique de Grèce ?",
-    "answers": [
-      "Mozzarella",
-      "Feta",
-      "Halloumi",
-      "Manchego"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q282",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel est l'instrument national de l'Inde ?",
-    "answers": [
-      "Sitar",
-      "Bansuri",
-      "Tabla",
-      "Veena"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q283",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel festival indien est connu pour ses jets de poudre colorée ?",
-    "answers": [
-      "Diwali",
-      "Navratri",
-      "Onam",
-      "Holi"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q284",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel festival indien est connu pour ses jets de poudre colorée ?",
-    "answers": [
-      "Onam",
-      "Navratri",
-      "Holi",
-      "Diwali"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q285",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel festival indien est connu pour ses jets de poudre colorée ?",
-    "answers": [
-      "Onam",
-      "Holi",
-      "Navratri",
-      "Diwali"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q286",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel festival indien est connu pour ses jets de poudre colorée ?",
-    "answers": [
-      "Diwali",
-      "Holi",
-      "Navratri",
-      "Onam"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q287",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Dans quel pays se danse la samba ?",
-    "answers": [
-      "Colombie",
-      "Venezuela",
-      "Brésil",
-      "Cuba"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q288",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel pays est l'origine du kimchi ?",
-    "answers": [
-      "Corée du Sud",
-      "Chine",
-      "Japon",
-      "Thaïlande"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q289",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel fromage est typique de Grèce ?",
-    "answers": [
-      "Halloumi",
-      "Manchego",
-      "Mozzarella",
-      "Feta"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q290",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel vêtement traditionnel japonais est porté lors de cérémonies ?",
-    "answers": [
-      "Furisode",
-      "Hakama",
-      "Kimono",
-      "Yukata"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q291",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel vêtement traditionnel japonais est porté lors de cérémonies ?",
-    "answers": [
-      "Furisode",
-      "Yukata",
-      "Hakama",
-      "Kimono"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q292",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel vêtement traditionnel japonais est porté lors de cérémonies ?",
-    "answers": [
-      "Kimono",
-      "Yukata",
-      "Hakama",
-      "Furisode"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q293",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel peuple est à l'origine du haka ?",
-    "answers": [
-      "Samoans",
-      "Inuits",
-      "Maoris",
-      "Aborigènes"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q294",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel festival indien est connu pour ses jets de poudre colorée ?",
-    "answers": [
-      "Onam",
-      "Holi",
-      "Navratri",
-      "Diwali"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q295",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Dans quel pays se danse la samba ?",
-    "answers": [
-      "Brésil",
-      "Venezuela",
-      "Colombie",
-      "Cuba"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q296",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel pays célèbre la fête de la mi-automne avec des gâteaux de lune ?",
-    "answers": [
-      "Vietnam",
-      "Corée du Sud",
-      "Japon",
-      "Chine"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q297",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel pays est connu pour ses temples d'Angkor ?",
-    "answers": [
-      "Thaïlande",
-      "Vietnam",
-      "Laos",
-      "Cambodge"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q298",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel fromage est typique de Grèce ?",
-    "answers": [
-      "Halloumi",
-      "Manchego",
-      "Feta",
-      "Mozzarella"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q299",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel fromage est typique de Grèce ?",
-    "answers": [
-      "Halloumi",
-      "Mozzarella",
-      "Manchego",
-      "Feta"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q300",
-    "category": "Cultures",
-    "difficulty": "Moyen",
-    "text": "Quel vêtement traditionnel japonais est porté lors de cérémonies ?",
-    "answers": [
-      "Hakama",
-      "Kimono",
-      "Yukata",
-      "Furisode"
-    ],
-    "correctIndex": 1
   }
 ]
