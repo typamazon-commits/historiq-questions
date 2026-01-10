@@ -3,3900 +3,1616 @@
     "id": "q1",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a été le premier à atteindre le pôle Sud ?",
-    "answers": [
-      "Douglas Mawson",
-      "Ernest Shackleton",
-      "Roald Amundsen",
-      "Robert Falcon Scott"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a démontré que la Terre tournait autour du Soleil au XVIe siècle ?",
+    "answers": ["Nicolas Copernic", "Galilée", "Kepler", "Newton"],
+    "correctIndex": 0
   },
   {
     "id": "q2",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel scientifique a découvert les anneaux de Saturne ?",
-    "answers": [
-      "Galilée",
-      "Isaac Newton",
-      "Christiaan Huygens",
-      "Giovanni Cassini"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur est considéré comme le premier Européen à avoir atteint l’Amérique du Nord vers l’an 1000 ?",
+    "answers": ["Christophe Colomb", "Leif Erikson", "Amerigo Vespucci", "Jean Cabot"],
+    "correctIndex": 1
   },
   {
     "id": "q3",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel scientifique a découvert les anneaux de Saturne ?",
-    "answers": [
-      "Galilée",
-      "Christiaan Huygens",
-      "Isaac Newton",
-      "Giovanni Cassini"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la structure en double hélice de l’ADN avec Francis Crick ?",
+    "answers": ["Rosalind Franklin", "Linus Pauling", "James Watson", "Gregor Mendel"],
+    "correctIndex": 2
   },
   {
     "id": "q4",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a découvert la baie d'Hudson ?",
-    "answers": [
-      "Samuel Hearne",
-      "Henry Hudson",
-      "John Cabot",
-      "William Baffin"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est à l’origine du premier avion motorisé et contrôlé ?",
+    "answers": ["Clément Ader", "Louis Blériot", "Alberto Santos-Dumont", "Frères Wright"],
+    "correctIndex": 3
   },
   {
     "id": "q5",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le Groenland pour l'Europe ?",
-    "answers": [
-      "Thorfinn Karlsefni",
-      "Leif Erikson",
-      "Bjarni Herjólfsson",
-      "Erik le Rouge"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert la circulation du sang au XVIIe siècle ?",
+    "answers": ["William Harvey", "Vésale", "Pasteur", "Lister"],
+    "correctIndex": 0
   },
   {
     "id": "q6",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le passage du Nord-Est ?",
-    "answers": [
-      "Roald Amundsen",
-      "Vitus Béring",
-      "Henry Hudson",
-      "James Clark Ross"
-    ],
+    "text": "Quel explorateur a mené la première expédition européenne à atteindre le Pacifique depuis l’Amérique ?",
+    "answers": ["Magellan", "Vasco Núñez de Balboa", "Cortés", "Pizarro"],
     "correctIndex": 1
   },
   {
     "id": "q7",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les sources du Nil ?",
-    "answers": [
-      "John Hanning Speke",
-      "Henry Morton Stanley",
-      "Richard Francis Burton",
-      "David Livingstone"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a établi les lois du mouvement des planètes au début du XVIIe siècle ?",
+    "answers": ["Copernic", "Galilée", "Johannes Kepler", "Tycho Brahe"],
+    "correctIndex": 2
   },
   {
     "id": "q8",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a été le premier à atteindre le pôle Sud ?",
-    "answers": [
-      "Ernest Shackleton",
-      "Douglas Mawson",
-      "Robert Falcon Scott",
-      "Roald Amundsen"
-    ],
+    "text": "Quel inventeur est associé à la première pile électrique fonctionnelle ?",
+    "answers": ["Galvani", "Faraday", "Ampère", "Alessandro Volta"],
     "correctIndex": 3
   },
   {
     "id": "q9",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert la Nouvelle-Zélande pour l'Europe ?",
-    "answers": [
-      "James Cook",
-      "Dirk Hartog",
-      "William Dampier",
-      "Abel Tasman"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a posé les bases de la théorie de l’évolution des espèces ?",
+    "answers": ["Charles Darwin", "Lamarck", "Wallace", "Mendel"],
+    "correctIndex": 0
   },
   {
     "id": "q10",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les lunes de Jupiter ?",
-    "answers": [
-      "Christiaan Huygens",
-      "Simon Marius",
-      "Isaac Newton",
-      "Galilée"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur portugais a ouvert la route maritime vers l’Inde ?",
+    "answers": ["Dias", "Vasco de Gama", "Magellan", "Cabral"],
+    "correctIndex": 1
   },
+
   {
     "id": "q11",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le passage du Nord-Est ?",
-    "answers": [
-      "Henry Hudson",
-      "Vitus Béring",
-      "Roald Amundsen",
-      "James Clark Ross"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert l’électron en 1897 ?",
+    "answers": ["Rutherford", "Bohr", "J. J. Thomson", "Planck"],
+    "correctIndex": 2
   },
   {
     "id": "q12",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les sources du Nil ?",
-    "answers": [
-      "David Livingstone",
-      "Henry Morton Stanley",
-      "Richard Francis Burton",
-      "John Hanning Speke"
-    ],
+    "text": "Quel inventeur est associé à l’ampoule électrique durable ?",
+    "answers": ["Tesla", "Swan", "Bell", "Thomas Edison"],
     "correctIndex": 3
   },
   {
     "id": "q13",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les lunes de Jupiter ?",
-    "answers": [
-      "Galilée",
-      "Isaac Newton",
-      "Simon Marius",
-      "Christiaan Huygens"
-    ],
+    "text": "Quel scientifique a fondé la chimie moderne au XVIIIe siècle ?",
+    "answers": ["Antoine Lavoisier", "Dalton", "Boyle", "Priestley"],
     "correctIndex": 0
   },
   {
     "id": "q14",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le Groenland pour l'Europe ?",
-    "answers": [
-      "Leif Erikson",
-      "Erik le Rouge",
-      "Bjarni Herjólfsson",
-      "Thorfinn Karlsefni"
-    ],
+    "text": "Quel explorateur est associé à la découverte de la baie d’Hudson ?",
+    "answers": ["Cartier", "Henry Hudson", "Cabot", "Cook"],
     "correctIndex": 1
   },
   {
     "id": "q15",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a découvert la baie d'Hudson ?",
-    "answers": [
-      "William Baffin",
-      "Samuel Hearne",
-      "John Cabot",
-      "Henry Hudson"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert la radioactivité naturelle ?",
+    "answers": ["Marie Curie", "Rutherford", "Henri Becquerel", "Fermi"],
+    "correctIndex": 2
   },
   {
     "id": "q16",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel scientifique a découvert les anneaux de Saturne ?",
-    "answers": [
-      "Galilée",
-      "Christiaan Huygens",
-      "Isaac Newton",
-      "Giovanni Cassini"
-    ],
-    "correctIndex": 0
+    "text": "Quel inventeur est associé au télégraphe électrique ?",
+    "answers": ["Bell", "Edison", "Tesla", "Samuel Morse"],
+    "correctIndex": 3
   },
   {
     "id": "q17",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le passage du Nord-Est ?",
-    "answers": [
-      "James Clark Ross",
-      "Vitus Béring",
-      "Roald Amundsen",
-      "Henry Hudson"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert les lois de la gravitation universelle ?",
+    "answers": ["Isaac Newton", "Galilée", "Kepler", "Einstein"],
+    "correctIndex": 0
   },
   {
     "id": "q18",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les lunes de Jupiter ?",
-    "answers": [
-      "Galilée",
-      "Simon Marius",
-      "Christiaan Huygens",
-      "Isaac Newton"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur est associé à la découverte de la Tasmanie ?",
+    "answers": ["Cook", "Abel Tasman", "Magellan", "Dampier"],
+    "correctIndex": 1
   },
   {
     "id": "q19",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a été le premier à atteindre le pôle Sud ?",
-    "answers": [
-      "Roald Amundsen",
-      "Robert Falcon Scott",
-      "Ernest Shackleton",
-      "Douglas Mawson"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert le noyau atomique ?",
+    "answers": ["Thomson", "Bohr", "Ernest Rutherford", "Chadwick"],
+    "correctIndex": 2
   },
   {
     "id": "q20",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a été le premier à atteindre le pôle Sud ?",
-    "answers": [
-      "Douglas Mawson",
-      "Ernest Shackleton",
-      "Robert Falcon Scott",
-      "Roald Amundsen"
-    ],
+    "text": "Quel inventeur est associé au moteur diesel ?",
+    "answers": ["Otto", "Ford", "Benz", "Rudolf Diesel"],
     "correctIndex": 3
   },
+
   {
     "id": "q21",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le Machu Picchu en 1911 ?",
-    "answers": [
-      "Thor Heyerdahl",
-      "Percy Fawcett",
-      "Hiram Bingham",
-      "Alexander von Humboldt"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique est considéré comme le père de la microbiologie ?",
+    "answers": ["Louis Pasteur", "Koch", "Lister", "Fleming"],
+    "correctIndex": 0
   },
   {
     "id": "q22",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le Machu Picchu en 1911 ?",
-    "answers": [
-      "Alexander von Humboldt",
-      "Hiram Bingham",
-      "Percy Fawcett",
-      "Thor Heyerdahl"
-    ],
+    "text": "Quel explorateur a découvert les chutes Victoria en Afrique ?",
+    "answers": ["Stanley", "David Livingstone", "Speke", "Burton"],
     "correctIndex": 1
   },
   {
     "id": "q23",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel scientifique a découvert les anneaux de Saturne ?",
-    "answers": [
-      "Christiaan Huygens",
-      "Giovanni Cassini",
-      "Galilée",
-      "Isaac Newton"
-    ],
+    "text": "Quel scientifique a formulé la théorie de la relativité ?",
+    "answers": ["Newton", "Galilée", "Albert Einstein", "Bohr"],
     "correctIndex": 2
   },
   {
     "id": "q24",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le Machu Picchu en 1911 ?",
-    "answers": [
-      "Percy Fawcett",
-      "Hiram Bingham",
-      "Thor Heyerdahl",
-      "Alexander von Humboldt"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé à la radio moderne ?",
+    "answers": ["Tesla", "Edison", "Bell", "Guglielmo Marconi"],
+    "correctIndex": 3
   },
   {
     "id": "q25",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le détroit de Magellan ?",
-    "answers": [
-      "Francis Drake",
-      "Fernand de Magellan",
-      "James Cook",
-      "Vasco Núñez de Balboa"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a introduit la classification binominale des espèces ?",
+    "answers": ["Carl von Linné", "Buffon", "Darwin", "Lamarck"],
+    "correctIndex": 0
   },
   {
     "id": "q26",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel scientifique a découvert les anneaux de Saturne ?",
-    "answers": [
-      "Galilée",
-      "Christiaan Huygens",
-      "Isaac Newton",
-      "Giovanni Cassini"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur est associé à la découverte de la Nouvelle-Zélande pour l’Europe ?",
+    "answers": ["Cook", "Abel Tasman", "Bougainville", "Magellan"],
+    "correctIndex": 1
   },
   {
     "id": "q27",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert la Nouvelle-Zélande pour l'Europe ?",
-    "answers": [
-      "Dirk Hartog",
-      "Abel Tasman",
-      "James Cook",
-      "William Dampier"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert les groupes sanguins ?",
+    "answers": ["Pasteur", "Fleming", "Karl Landsteiner", "Koch"],
+    "correctIndex": 2
   },
   {
     "id": "q28",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le Machu Picchu en 1911 ?",
-    "answers": [
-      "Hiram Bingham",
-      "Alexander von Humboldt",
-      "Thor Heyerdahl",
-      "Percy Fawcett"
-    ],
-    "correctIndex": 0
+    "text": "Quel inventeur est associé au premier ordinateur programmable ?",
+    "answers": ["Turing", "Von Neumann", "Babbage", "Konrad Zuse"],
+    "correctIndex": 3
   },
   {
     "id": "q29",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a découvert la baie d'Hudson ?",
-    "answers": [
-      "Henry Hudson",
-      "William Baffin",
-      "John Cabot",
-      "Samuel Hearne"
-    ],
+    "text": "Quel scientifique a découvert les lois de l’hérédité ?",
+    "answers": ["Gregor Mendel", "Darwin", "Watson", "Crick"],
     "correctIndex": 0
   },
   {
     "id": "q30",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a découvert la baie d'Hudson ?",
-    "answers": [
-      "Henry Hudson",
-      "John Cabot",
-      "Samuel Hearne",
-      "William Baffin"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
+    "answers": ["Cook", "Fernand de Magellan", "Drake", "Vespucci"],
+    "correctIndex": 1
   },
+
   {
     "id": "q31",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a découvert la baie d'Hudson ?",
-    "answers": [
-      "Samuel Hearne",
-      "Henry Hudson",
-      "John Cabot",
-      "William Baffin"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert la loi de la pression atmosphérique ?",
+    "answers": ["Pascal", "Torricelli", "Boyle", "Descartes"],
+    "correctIndex": 2
   },
   {
     "id": "q32",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le passage du Nord-Est ?",
-    "answers": [
-      "Henry Hudson",
-      "Vitus Béring",
-      "James Clark Ross",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé à la télévision mécanique ?",
+    "answers": ["Edison", "Tesla", "Farnsworth", "John Logie Baird"],
+    "correctIndex": 3
   },
   {
     "id": "q33",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a découvert la baie d'Hudson ?",
-    "answers": [
-      "Samuel Hearne",
-      "John Cabot",
-      "Henry Hudson",
-      "William Baffin"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a découvert la loi de l’induction électromagnétique ?",
+    "answers": ["Michael Faraday", "Ampère", "Ohm", "Volta"],
+    "correctIndex": 0
   },
   {
     "id": "q34",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel scientifique a découvert les anneaux de Saturne ?",
-    "answers": [
-      "Isaac Newton",
-      "Christiaan Huygens",
-      "Galilée",
-      "Giovanni Cassini"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est associé à la découverte de l’île de Pâques ?",
+    "answers": ["Cook", "Jacob Roggeveen", "Magellan", "Bougainville"],
+    "correctIndex": 1
   },
   {
     "id": "q35",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le passage du Nord-Est ?",
-    "answers": [
-      "James Clark Ross",
-      "Roald Amundsen",
-      "Vitus Béring",
-      "Henry Hudson"
-    ],
+    "text": "Quel scientifique a découvert la supraconductivité ?",
+    "answers": ["Tesla", "Bohr", "Heike Kamerlingh Onnes", "Planck"],
     "correctIndex": 2
   },
   {
     "id": "q36",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert la Nouvelle-Zélande pour l'Europe ?",
-    "answers": [
-      "William Dampier",
-      "James Cook",
-      "Dirk Hartog",
-      "Abel Tasman"
-    ],
+    "text": "Quel inventeur est associé au premier ascenseur de sécurité ?",
+    "answers": ["Siemens", "Otis", "Westinghouse", "Elisha Otis"],
     "correctIndex": 3
   },
   {
     "id": "q37",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel scientifique a découvert les anneaux de Saturne ?",
-    "answers": [
-      "Galilée",
-      "Giovanni Cassini",
-      "Isaac Newton",
-      "Christiaan Huygens"
-    ],
+    "text": "Quel scientifique a formulé la loi de l’élasticité des solides ?",
+    "answers": ["Robert Hooke", "Young", "Newton", "Pascal"],
     "correctIndex": 0
   },
   {
     "id": "q38",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le Groenland pour l'Europe ?",
-    "answers": [
-      "Leif Erikson",
-      "Erik le Rouge",
-      "Bjarni Herjólfsson",
-      "Thorfinn Karlsefni"
-    ],
+    "text": "Quel explorateur est associé à la découverte de la Californie ?",
+    "answers": ["Cortés", "Juan Rodríguez Cabrillo", "Balboa", "Colomb"],
     "correctIndex": 1
   },
   {
     "id": "q39",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a été le premier à atteindre le pôle Sud ?",
-    "answers": [
-      "Robert Falcon Scott",
-      "Ernest Shackleton",
-      "Roald Amundsen",
-      "Douglas Mawson"
-    ],
+    "text": "Quel scientifique a découvert la loi de la conduction électrique ?",
+    "answers": ["Ampère", "Faraday", "Georg Ohm", "Volta"],
     "correctIndex": 2
   },
   {
     "id": "q40",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les lunes de Jupiter ?",
-    "answers": [
-      "Simon Marius",
-      "Isaac Newton",
-      "Christiaan Huygens",
-      "Galilée"
-    ],
+    "text": "Quel inventeur est associé au premier appareil photo numérique ?",
+    "answers": ["Canon", "Sony", "Kodak", "Steven Sasson"],
     "correctIndex": 3
   },
+
   {
     "id": "q41",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les lunes de Jupiter ?",
-    "answers": [
-      "Simon Marius",
-      "Galilée",
-      "Christiaan Huygens",
-      "Isaac Newton"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert la poussée exercée par un fluide sur un corps immergé ?",
+    "answers": ["Archimède", "Pascal", "Bernoulli", "Galilée"],
+    "correctIndex": 0
   },
   {
     "id": "q42",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le détroit de Magellan ?",
-    "answers": [
-      "James Cook",
-      "Fernand de Magellan",
-      "Francis Drake",
-      "Vasco Núñez de Balboa"
-    ],
+    "text": "Quel explorateur est associé à la découverte du fleuve Amazone ?",
+    "answers": ["Cabral", "Francisco de Orellana", "Cortés", "Vespucci"],
     "correctIndex": 1
   },
   {
     "id": "q43",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert la Nouvelle-Zélande pour l'Europe ?",
-    "answers": [
-      "William Dampier",
-      "Dirk Hartog",
-      "James Cook",
-      "Abel Tasman"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert le neutron ?",
+    "answers": ["Rutherford", "Bohr", "James Chadwick", "Fermi"],
+    "correctIndex": 2
   },
   {
     "id": "q44",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a découvert la baie d'Hudson ?",
-    "answers": [
-      "John Cabot",
-      "Samuel Hearne",
-      "William Baffin",
-      "Henry Hudson"
-    ],
+    "text": "Quel inventeur est associé au GPS moderne ?",
+    "answers": ["NASA", "IBM", "Pentagone", "Roger L. Easton"],
     "correctIndex": 3
   },
   {
     "id": "q45",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le Groenland pour l'Europe ?",
-    "answers": [
-      "Leif Erikson",
-      "Erik le Rouge",
-      "Thorfinn Karlsefni",
-      "Bjarni Herjólfsson"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert la diffraction de la lumière ?",
+    "answers": ["Augustin Fresnel", "Young", "Newton", "Huygens"],
+    "correctIndex": 0
   },
   {
     "id": "q46",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les lunes de Jupiter ?",
-    "answers": [
-      "Isaac Newton",
-      "Christiaan Huygens",
-      "Galilée",
-      "Simon Marius"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est associé à la découverte de la Louisiane ?",
+    "answers": ["Marquette", "Robert Cavelier de La Salle", "Champlain", "De Soto"],
+    "correctIndex": 1
   },
   {
     "id": "q47",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les lunes de Jupiter ?",
-    "answers": [
-      "Galilée",
-      "Christiaan Huygens",
-      "Isaac Newton",
-      "Simon Marius"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la loi de la diffusion des gaz ?",
+    "answers": ["Dalton", "Avogadro", "Thomas Graham", "Boyle"],
+    "correctIndex": 2
   },
   {
     "id": "q48",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a été le premier à atteindre le pôle Sud ?",
-    "answers": [
-      "Robert Falcon Scott",
-      "Ernest Shackleton",
-      "Roald Amundsen",
-      "Douglas Mawson"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est associé à la souris d’ordinateur ?",
+    "answers": ["Jobs", "Gates", "Wozniak", "Douglas Engelbart"],
+    "correctIndex": 3
   },
   {
     "id": "q49",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le Groenland pour l'Europe ?",
-    "answers": [
-      "Leif Erikson",
-      "Erik le Rouge",
-      "Bjarni Herjólfsson",
-      "Thorfinn Karlsefni"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert la loi de la réfraction de la lumière ?",
+    "answers": ["Willebrord Snell", "Descartes", "Newton", "Huygens"],
+    "correctIndex": 0
   },
   {
     "id": "q50",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le détroit de Magellan ?",
-    "answers": [
-      "Francis Drake",
-      "James Cook",
-      "Fernand de Magellan",
-      "Vasco Núñez de Balboa"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est associé à la découverte du cap Horn ?",
+    "answers": ["Magellan", "Willem Schouten", "Drake", "Cook"],
+    "correctIndex": 1
   },
   {
     "id": "q51",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le Groenland pour l'Europe ?",
-    "answers": [
-      "Thorfinn Karlsefni",
-      "Erik le Rouge",
-      "Bjarni Herjólfsson",
-      "Leif Erikson"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a démontré expérimentalement l’existence de la pression atmosphérique ?",
+    "answers": ["Evangelista Torricelli", "Pascal", "Galilée", "Boyle"],
+    "correctIndex": 0
   },
   {
     "id": "q52",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert la Nouvelle-Zélande pour l'Europe ?",
-    "answers": [
-      "James Cook",
-      "Abel Tasman",
-      "Dirk Hartog",
-      "William Dampier"
-    ],
+    "text": "Quel explorateur est associé à la découverte du fleuve Mississippi au XVIIe siècle ?",
+    "answers": ["Marquette", "Robert Cavelier de La Salle", "De Soto", "Champlain"],
     "correctIndex": 1
   },
   {
     "id": "q53",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le passage du Nord-Est ?",
-    "answers": [
-      "Henry Hudson",
-      "James Clark Ross",
-      "Vitus Béring",
-      "Roald Amundsen"
-    ],
+    "text": "Quel scientifique a découvert la loi de la conservation de la masse ?",
+    "answers": ["Boyle", "Dalton", "Antoine Lavoisier", "Priestley"],
     "correctIndex": 2
   },
   {
     "id": "q54",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le Machu Picchu en 1911 ?",
-    "answers": [
-      "Percy Fawcett",
-      "Alexander von Humboldt",
-      "Hiram Bingham",
-      "Thor Heyerdahl"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est associé à la première machine à écrire commercialisée ?",
+    "answers": ["Underwood", "Remington", "IBM", "Christopher Latham Sholes"],
+    "correctIndex": 3
   },
   {
     "id": "q55",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel scientifique a découvert les anneaux de Saturne ?",
-    "answers": [
-      "Christiaan Huygens",
-      "Isaac Newton",
-      "Galilée",
-      "Giovanni Cassini"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a formulé les lois fondamentales de l’hydrostatique ?",
+    "answers": ["Archimède", "Pascal", "Bernoulli", "Torricelli"],
+    "correctIndex": 0
   },
   {
     "id": "q56",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le passage du Nord-Est ?",
-    "answers": [
-      "Henry Hudson",
-      "James Clark Ross",
-      "Vitus Béring",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est associé à la découverte du détroit de Béring ?",
+    "answers": ["Cook", "Vitus Bering", "Dejnev", "Magellan"],
+    "correctIndex": 1
   },
   {
     "id": "q57",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les sources du Nil ?",
-    "answers": [
-      "David Livingstone",
-      "Richard Francis Burton",
-      "Henry Morton Stanley",
-      "John Hanning Speke"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a démontré que la lumière possède une nature ondulatoire ?",
+    "answers": ["Newton", "Maxwell", "Thomas Young", "Huygens"],
+    "correctIndex": 2
   },
   {
     "id": "q58",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le Machu Picchu en 1911 ?",
-    "answers": [
-      "Alexander von Humboldt",
-      "Percy Fawcett",
-      "Thor Heyerdahl",
-      "Hiram Bingham"
-    ],
+    "text": "Quel inventeur est associé au premier dirigeable rigide opérationnel ?",
+    "answers": ["Ader", "Santos-Dumont", "Blériot", "Comte Zeppelin"],
     "correctIndex": 3
   },
   {
     "id": "q59",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les sources du Nil ?",
-    "answers": [
-      "David Livingstone",
-      "Henry Morton Stanley",
-      "Richard Francis Burton",
-      "John Hanning Speke"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a formulé la loi de la dilatation thermique des gaz ?",
+    "answers": ["Joseph Gay-Lussac", "Charles", "Boyle", "Avogadro"],
+    "correctIndex": 0
   },
   {
     "id": "q60",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le passage du Nord-Est ?",
-    "answers": [
-      "James Clark Ross",
-      "Henry Hudson",
-      "Roald Amundsen",
-      "Vitus Béring"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la découverte de la mer de Tasman ?",
+    "answers": ["Cook", "Abel Tasman", "Bougainville", "Magellan"],
+    "correctIndex": 1
   },
+
   {
     "id": "q61",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les sources du Nil ?",
-    "answers": [
-      "Richard Francis Burton",
-      "Henry Morton Stanley",
-      "David Livingstone",
-      "John Hanning Speke"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert l’existence des isotopes ?",
+    "answers": ["Bohr", "Rutherford", "Frederick Soddy", "Chadwick"],
+    "correctIndex": 2
   },
   {
     "id": "q62",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a découvert la baie d'Hudson ?",
-    "answers": [
-      "Samuel Hearne",
-      "John Cabot",
-      "Henry Hudson",
-      "William Baffin"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est associé au premier appareil de climatisation moderne ?",
+    "answers": ["Edison", "Tesla", "Westinghouse", "Willis Carrier"],
+    "correctIndex": 3
   },
   {
     "id": "q63",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert la Nouvelle-Zélande pour l'Europe ?",
-    "answers": [
-      "William Dampier",
-      "James Cook",
-      "Dirk Hartog",
-      "Abel Tasman"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert la loi de l’élasticité des matériaux ?",
+    "answers": ["Robert Hooke", "Young", "Newton", "Pascal"],
+    "correctIndex": 0
   },
   {
     "id": "q64",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert la Nouvelle-Zélande pour l'Europe ?",
-    "answers": [
-      "Dirk Hartog",
-      "William Dampier",
-      "James Cook",
-      "Abel Tasman"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la découverte de l’île Maurice ?",
+    "answers": ["Dias", "Pedro Mascarenhas", "Gama", "Cabral"],
+    "correctIndex": 1
   },
   {
     "id": "q65",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a été le premier à atteindre le pôle Sud ?",
-    "answers": [
-      "Douglas Mawson",
-      "Ernest Shackleton",
-      "Robert Falcon Scott",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert la structure de la protéine hémoglobine ?",
+    "answers": ["Pauling", "Crick", "Max Perutz", "Watson"],
+    "correctIndex": 2
   },
   {
     "id": "q66",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel scientifique a découvert les anneaux de Saturne ?",
-    "answers": [
-      "Giovanni Cassini",
-      "Isaac Newton",
-      "Galilée",
-      "Christiaan Huygens"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est associé au premier lave-vaisselle mécanique ?",
+    "answers": ["Bosch", "Whirlpool", "Miele", "Josephine Cochrane"],
+    "correctIndex": 3
   },
   {
     "id": "q67",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert la Nouvelle-Zélande pour l'Europe ?",
-    "answers": [
-      "William Dampier",
-      "James Cook",
-      "Dirk Hartog",
-      "Abel Tasman"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a formulé les équations fondamentales de l’électromagnétisme ?",
+    "answers": ["James Clerk Maxwell", "Faraday", "Ampère", "Tesla"],
+    "correctIndex": 0
   },
   {
     "id": "q68",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le Machu Picchu en 1911 ?",
-    "answers": [
-      "Percy Fawcett",
-      "Thor Heyerdahl",
-      "Alexander von Humboldt",
-      "Hiram Bingham"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la découverte de l’embouchure de l’Amazone ?",
+    "answers": ["Cabral", "Vicente Yáñez Pinzón", "Colomb", "Orellana"],
+    "correctIndex": 1
   },
   {
     "id": "q69",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a découvert la baie d'Hudson ?",
-    "answers": [
-      "Henry Hudson",
-      "John Cabot",
-      "Samuel Hearne",
-      "William Baffin"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la loi de la supraconductivité ?",
+    "answers": ["Planck", "Bohr", "Heike Kamerlingh Onnes", "Einstein"],
+    "correctIndex": 2
   },
   {
     "id": "q70",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a été le premier à atteindre le pôle Sud ?",
-    "answers": [
-      "Roald Amundsen",
-      "Douglas Mawson",
-      "Robert Falcon Scott",
-      "Ernest Shackleton"
-    ],
-    "correctIndex": 0
+    "text": "Quel inventeur est associé au premier radar opérationnel ?",
+    "answers": ["Tesla", "Marconi", "Edison", "Robert Watson-Watt"],
+    "correctIndex": 3
   },
+
   {
     "id": "q71",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le passage du Nord-Est ?",
-    "answers": [
-      "Roald Amundsen",
-      "Henry Hudson",
-      "James Clark Ross",
-      "Vitus Béring"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a démontré que la Terre n’était pas parfaitement sphérique ?",
+    "answers": ["Isaac Newton", "Galilée", "Huygens", "Descartes"],
+    "correctIndex": 0
   },
   {
     "id": "q72",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a découvert la baie d'Hudson ?",
-    "answers": [
-      "William Baffin",
-      "Samuel Hearne",
-      "Henry Hudson",
-      "John Cabot"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est associé à la découverte de la Terre de Feu ?",
+    "answers": ["Drake", "Fernand de Magellan", "Cook", "Schouten"],
+    "correctIndex": 1
   },
   {
     "id": "q73",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a été le premier à atteindre le pôle Sud ?",
-    "answers": [
-      "Roald Amundsen",
-      "Douglas Mawson",
-      "Ernest Shackleton",
-      "Robert Falcon Scott"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la structure du noyau atomique par diffusion ?",
+    "answers": ["Thomson", "Bohr", "Ernest Rutherford", "Chadwick"],
+    "correctIndex": 2
   },
   {
     "id": "q74",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les sources du Nil ?",
-    "answers": [
-      "David Livingstone",
-      "Henry Morton Stanley",
-      "John Hanning Speke",
-      "Richard Francis Burton"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est associé au premier appareil photo portable grand public ?",
+    "answers": ["Lumière", "Edison", "Niepce", "George Eastman"],
+    "correctIndex": 3
   },
   {
     "id": "q75",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le Groenland pour l'Europe ?",
-    "answers": [
-      "Erik le Rouge",
-      "Leif Erikson",
-      "Bjarni Herjólfsson",
-      "Thorfinn Karlsefni"
-    ],
+    "text": "Quel scientifique a établi la loi fondamentale de la mécanique des fluides idéale ?",
+    "answers": ["Daniel Bernoulli", "Pascal", "Euler", "Navier"],
     "correctIndex": 0
   },
   {
     "id": "q76",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le Machu Picchu en 1911 ?",
-    "answers": [
-      "Thor Heyerdahl",
-      "Alexander von Humboldt",
-      "Percy Fawcett",
-      "Hiram Bingham"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la découverte de l’île de Pâques pour l’Europe ?",
+    "answers": ["Cook", "Jacob Roggeveen", "Bougainville", "Magellan"],
+    "correctIndex": 1
   },
   {
     "id": "q77",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le passage du Nord-Est ?",
-    "answers": [
-      "Henry Hudson",
-      "Vitus Béring",
-      "James Clark Ross",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a démontré l’existence de l’antimatière ?",
+    "answers": ["Einstein", "Fermi", "Carl Anderson", "Dirac"],
+    "correctIndex": 2
   },
   {
     "id": "q78",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les sources du Nil ?",
-    "answers": [
-      "Richard Francis Burton",
-      "Henry Morton Stanley",
-      "David Livingstone",
-      "John Hanning Speke"
-    ],
+    "text": "Quel inventeur est associé au premier casque de réalité virtuelle ?",
+    "answers": ["Jobs", "Gates", "Zuckerberg", "Ivan Sutherland"],
     "correctIndex": 3
   },
   {
     "id": "q79",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les lunes de Jupiter ?",
-    "answers": [
-      "Christiaan Huygens",
-      "Galilée",
-      "Simon Marius",
-      "Isaac Newton"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a établi la loi de la conduction thermique ?",
+    "answers": ["Joseph Fourier", "Kelvin", "Carnot", "Clausius"],
+    "correctIndex": 0
   },
   {
     "id": "q80",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert la Nouvelle-Zélande pour l'Europe ?",
-    "answers": [
-      "William Dampier",
-      "Abel Tasman",
-      "Dirk Hartog",
-      "James Cook"
-    ],
+    "text": "Quel explorateur est associé à la découverte du cap de Bonne-Espérance ?",
+    "answers": ["Vasco de Gama", "Bartolomeu Dias", "Magellan", "Cabral"],
     "correctIndex": 1
   },
+
   {
     "id": "q81",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le Groenland pour l'Europe ?",
-    "answers": [
-      "Erik le Rouge",
-      "Bjarni Herjólfsson",
-      "Thorfinn Karlsefni",
-      "Leif Erikson"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert l’existence de l’ozone ?",
+    "answers": ["Christian Friedrich Schönbein", "Faraday", "Priestley", "Cavendish"],
+    "correctIndex": 2
   },
   {
     "id": "q82",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a découvert la baie d'Hudson ?",
-    "answers": [
-      "Henry Hudson",
-      "Samuel Hearne",
-      "William Baffin",
-      "John Cabot"
-    ],
-    "correctIndex": 0
+    "text": "Quel inventeur est associé à la fermeture éclair moderne ?",
+    "answers": ["Howe", "Judson", "Singer", "Gideon Sundback"],
+    "correctIndex": 3
   },
   {
     "id": "q83",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a été le premier à atteindre le pôle Sud ?",
-    "answers": [
-      "Douglas Mawson",
-      "Robert Falcon Scott",
-      "Ernest Shackleton",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert la loi de la réfraction de la lumière ?",
+    "answers": ["Willebrord Snell", "Descartes", "Newton", "Huygens"],
+    "correctIndex": 0
   },
   {
     "id": "q84",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel scientifique a découvert les anneaux de Saturne ?",
-    "answers": [
-      "Giovanni Cassini",
-      "Christiaan Huygens",
-      "Isaac Newton",
-      "Galilée"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la découverte du fleuve Orénoque ?",
+    "answers": ["Balboa", "Christophe Colomb", "Cortés", "Pizarro"],
+    "correctIndex": 1
   },
   {
     "id": "q85",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le Machu Picchu en 1911 ?",
-    "answers": [
-      "Alexander von Humboldt",
-      "Hiram Bingham",
-      "Percy Fawcett",
-      "Thor Heyerdahl"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert la loi de la radioactivité artificielle ?",
+    "answers": ["Becquerel", "Fermi", "Frédéric Joliot-Curie", "Rutherford"],
+    "correctIndex": 2
   },
   {
     "id": "q86",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel scientifique a découvert les anneaux de Saturne ?",
-    "answers": [
-      "Galilée",
-      "Giovanni Cassini",
-      "Isaac Newton",
-      "Christiaan Huygens"
-    ],
-    "correctIndex": 0
+    "text": "Quel inventeur est associé au premier four à micro-ondes ?",
+    "answers": ["Edison", "Tesla", "Westinghouse", "Percy Spencer"],
+    "correctIndex": 3
   },
   {
     "id": "q87",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le Machu Picchu en 1911 ?",
-    "answers": [
-      "Hiram Bingham",
-      "Alexander von Humboldt",
-      "Percy Fawcett",
-      "Thor Heyerdahl"
-    ],
+    "text": "Quel scientifique a formulé la loi de la viscosité des fluides ?",
+    "answers": ["George Stokes", "Navier", "Bernoulli", "Pascal"],
     "correctIndex": 0
   },
   {
     "id": "q88",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le passage du Nord-Est ?",
-    "answers": [
-      "Vitus Béring",
-      "Roald Amundsen",
-      "James Clark Ross",
-      "Henry Hudson"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur est associé à la découverte du Groenland ?",
+    "answers": ["Leif Erikson", "Erik le Rouge", "Colomb", "Cabot"],
+    "correctIndex": 1
   },
   {
     "id": "q89",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le détroit de Magellan ?",
-    "answers": [
-      "Fernand de Magellan",
-      "Vasco Núñez de Balboa",
-      "James Cook",
-      "Francis Drake"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la structure de l’ADN comme support génétique ?",
+    "answers": ["Mendel", "Watson", "Oswald Avery", "Crick"],
+    "correctIndex": 2
   },
   {
     "id": "q90",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le détroit de Magellan ?",
-    "answers": [
-      "Francis Drake",
-      "Vasco Núñez de Balboa",
-      "Fernand de Magellan",
-      "James Cook"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est associé au premier tracteur agricole moderne ?",
+    "answers": ["Ford", "Diesel", "Benz", "John Froelich"],
+    "correctIndex": 3
   },
+
   {
     "id": "q91",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le Groenland pour l'Europe ?",
-    "answers": [
-      "Leif Erikson",
-      "Erik le Rouge",
-      "Thorfinn Karlsefni",
-      "Bjarni Herjólfsson"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a formulé la loi de la propagation des ondes sonores ?",
+    "answers": ["Ernst Chladni", "Helmholtz", "Fourier", "Doppler"],
+    "correctIndex": 0
   },
   {
     "id": "q92",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a découvert la baie d'Hudson ?",
-    "answers": [
-      "Henry Hudson",
-      "John Cabot",
-      "Samuel Hearne",
-      "William Baffin"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur est associé à la découverte de la Californie pour l’Europe ?",
+    "answers": ["Cortés", "Juan Rodríguez Cabrillo", "Balboa", "Colomb"],
+    "correctIndex": 1
   },
   {
     "id": "q93",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le passage du Nord-Est ?",
-    "answers": [
-      "Roald Amundsen",
-      "Henry Hudson",
-      "James Clark Ross",
-      "Vitus Béring"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert la supraconductivité à basse température ?",
+    "answers": ["Planck", "Bohr", "Heike Kamerlingh Onnes", "Einstein"],
+    "correctIndex": 2
   },
   {
     "id": "q94",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les lunes de Jupiter ?",
-    "answers": [
-      "Galilée",
-      "Christiaan Huygens",
-      "Simon Marius",
-      "Isaac Newton"
-    ],
-    "correctIndex": 0
+    "text": "Quel inventeur est associé au premier système GPS opérationnel ?",
+    "answers": ["NASA", "IBM", "Pentagone", "Roger L. Easton"],
+    "correctIndex": 3
   },
   {
     "id": "q95",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le Machu Picchu en 1911 ?",
-    "answers": [
-      "Hiram Bingham",
-      "Percy Fawcett",
-      "Thor Heyerdahl",
-      "Alexander von Humboldt"
-    ],
+    "text": "Quel scientifique a établi la loi de la poussée exercée par un fluide ?",
+    "answers": ["Archimède", "Pascal", "Bernoulli", "Torricelli"],
     "correctIndex": 0
   },
   {
     "id": "q96",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le détroit de Magellan ?",
-    "answers": [
-      "James Cook",
-      "Vasco Núñez de Balboa",
-      "Fernand de Magellan",
-      "Francis Drake"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est associé à la découverte du Pacifique depuis l’Amérique ?",
+    "answers": ["Magellan", "Vasco Núñez de Balboa", "Colomb", "Cortés"],
+    "correctIndex": 1
   },
   {
     "id": "q97",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert la Nouvelle-Zélande pour l'Europe ?",
-    "answers": [
-      "Abel Tasman",
-      "James Cook",
-      "William Dampier",
-      "Dirk Hartog"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la loi de la réfraction atmosphérique ?",
+    "answers": ["Newton", "Laplace", "Pierre-Simon Laplace", "Herschel"],
+    "correctIndex": 2
   },
   {
     "id": "q98",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les sources du Nil ?",
-    "answers": [
-      "Henry Morton Stanley",
-      "John Hanning Speke",
-      "David Livingstone",
-      "Richard Francis Burton"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé au premier appareil photo numérique ?",
+    "answers": ["Sony", "Canon", "Kodak", "Steven Sasson"],
+    "correctIndex": 3
   },
   {
     "id": "q99",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les sources du Nil ?",
-    "answers": [
-      "Richard Francis Burton",
-      "Henry Morton Stanley",
-      "David Livingstone",
-      "John Hanning Speke"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert la loi de la réfraction des ondes sismiques ?",
+    "answers": ["Beno Gutenberg", "Richter", "Mohorovičić", "Wiechert"],
+    "correctIndex": 0
   },
   {
     "id": "q100",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a été le premier à atteindre le pôle Sud ?",
-    "answers": [
-      "Robert Falcon Scott",
-      "Douglas Mawson",
-      "Ernest Shackleton",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la découverte du cap Horn ?",
+    "answers": ["Magellan", "Willem Schouten", "Drake", "Cook"],
+    "correctIndex": 1
   },
   {
     "id": "q101",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les lunes de Jupiter ?",
-    "answers": [
-      "Galilée",
-      "Isaac Newton",
-      "Simon Marius",
-      "Christiaan Huygens"
-    ],
+    "text": "Quel scientifique a mesuré pour la première fois la vitesse de la lumière de manière expérimentale ?",
+    "answers": ["Ole Rømer", "Galilée", "Newton", "Huygens"],
     "correctIndex": 0
   },
   {
     "id": "q102",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a découvert la baie d'Hudson ?",
-    "answers": [
-      "William Baffin",
-      "Samuel Hearne",
-      "John Cabot",
-      "Henry Hudson"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la découverte européenne du fleuve Congo ?",
+    "answers": ["Livingstone", "Henry Morton Stanley", "Speke", "Burton"],
+    "correctIndex": 1
   },
   {
     "id": "q103",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a été le premier à atteindre le pôle Sud ?",
-    "answers": [
-      "Robert Falcon Scott",
-      "Roald Amundsen",
-      "Douglas Mawson",
-      "Ernest Shackleton"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert la loi de la conservation de l’énergie mécanique ?",
+    "answers": ["Carnot", "Kelvin", "James Prescott Joule", "Clausius"],
+    "correctIndex": 2
   },
   {
     "id": "q104",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les lunes de Jupiter ?",
-    "answers": [
-      "Galilée",
-      "Isaac Newton",
-      "Christiaan Huygens",
-      "Simon Marius"
-    ],
-    "correctIndex": 0
+    "text": "Quel inventeur est associé au premier moteur électrique fonctionnel ?",
+    "answers": ["Faraday", "Tesla", "Edison", "Michael Faraday"],
+    "correctIndex": 3
   },
   {
     "id": "q105",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert la Nouvelle-Zélande pour l'Europe ?",
-    "answers": [
-      "William Dampier",
-      "James Cook",
-      "Abel Tasman",
-      "Dirk Hartog"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a posé les bases de la sismologie moderne ?",
+    "answers": ["John Milne", "Richter", "Gutenberg", "Mohorovičić"],
+    "correctIndex": 0
   },
   {
     "id": "q106",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a découvert la baie d'Hudson ?",
-    "answers": [
-      "William Baffin",
-      "Henry Hudson",
-      "Samuel Hearne",
-      "John Cabot"
-    ],
+    "text": "Quel explorateur est associé à la découverte de l’île de Tahiti pour l’Europe ?",
+    "answers": ["Bougainville", "James Cook", "Magellan", "Roggeveen"],
     "correctIndex": 1
   },
   {
     "id": "q107",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les sources du Nil ?",
-    "answers": [
-      "David Livingstone",
-      "Henry Morton Stanley",
-      "John Hanning Speke",
-      "Richard Francis Burton"
-    ],
+    "text": "Quel scientifique a découvert le positron, première antiparticule observée ?",
+    "answers": ["Dirac", "Fermi", "Carl Anderson", "Chadwick"],
     "correctIndex": 2
   },
   {
     "id": "q108",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le Machu Picchu en 1911 ?",
-    "answers": [
-      "Percy Fawcett",
-      "Alexander von Humboldt",
-      "Thor Heyerdahl",
-      "Hiram Bingham"
-    ],
+    "text": "Quel inventeur est associé au premier système de freinage hydraulique automobile ?",
+    "answers": ["Ford", "Benz", "Daimler", "Malcolm Loughead"],
     "correctIndex": 3
   },
   {
     "id": "q109",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les sources du Nil ?",
-    "answers": [
-      "John Hanning Speke",
-      "David Livingstone",
-      "Henry Morton Stanley",
-      "Richard Francis Burton"
-    ],
+    "text": "Quel scientifique a formulé la loi de la conduction thermique mathématique ?",
+    "answers": ["Joseph Fourier", "Kelvin", "Carnot", "Clausius"],
     "correctIndex": 0
   },
   {
     "id": "q110",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le détroit de Magellan ?",
-    "answers": [
-      "Francis Drake",
-      "Vasco Núñez de Balboa",
-      "Fernand de Magellan",
-      "James Cook"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est associé à la découverte de la baie de San Francisco ?",
+    "answers": ["Cabrillo", "Gaspar de Portolá", "Balboa", "Cortés"],
+    "correctIndex": 1
   },
+
   {
     "id": "q111",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les lunes de Jupiter ?",
-    "answers": [
-      "Isaac Newton",
-      "Galilée",
-      "Simon Marius",
-      "Christiaan Huygens"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert la loi de la désintégration radioactive ?",
+    "answers": ["Rutherford", "Curie", "Ernest Rutherford", "Becquerel"],
+    "correctIndex": 2
   },
   {
     "id": "q112",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a découvert la baie d'Hudson ?",
-    "answers": [
-      "John Cabot",
-      "William Baffin",
-      "Henry Hudson",
-      "Samuel Hearne"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est associé au premier microscope électronique ?",
+    "answers": ["Zeiss", "Siemens", "Tesla", "Ernst Ruska"],
+    "correctIndex": 3
   },
   {
     "id": "q113",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a été le premier à atteindre le pôle Sud ?",
-    "answers": [
-      "Douglas Mawson",
-      "Robert Falcon Scott",
-      "Roald Amundsen",
-      "Ernest Shackleton"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a démontré l’existence des continents dérivants ?",
+    "answers": ["Alfred Wegener", "Lyell", "Darwin", "Suess"],
+    "correctIndex": 0
   },
   {
     "id": "q114",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le détroit de Magellan ?",
-    "answers": [
-      "Vasco Núñez de Balboa",
-      "Fernand de Magellan",
-      "Francis Drake",
-      "James Cook"
-    ],
+    "text": "Quel explorateur est associé à la découverte du détroit séparant l’Europe et l’Asie en Arctique (passage du Nord-Est) ?",
+    "answers": ["Cook", "Adolf Erik Nordenskiöld", "Bering", "Amundsen"],
     "correctIndex": 1
   },
   {
     "id": "q115",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les sources du Nil ?",
-    "answers": [
-      "David Livingstone",
-      "John Hanning Speke",
-      "Richard Francis Burton",
-      "Henry Morton Stanley"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert le neutron en 1932 ?",
+    "answers": ["Rutherford", "Bohr", "James Chadwick", "Fermi"],
+    "correctIndex": 2
   },
   {
     "id": "q116",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le passage du Nord-Est ?",
-    "answers": [
-      "Vitus Béring",
-      "Henry Hudson",
-      "James Clark Ross",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 0
+    "text": "Quel inventeur est associé au premier système de reconnaissance vocale informatique ?",
+    "answers": ["IBM", "Bell Labs", "Microsoft", "Raj Reddy"],
+    "correctIndex": 3
   },
   {
     "id": "q117",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a été le premier à atteindre le pôle Sud ?",
-    "answers": [
-      "Douglas Mawson",
-      "Robert Falcon Scott",
-      "Ernest Shackleton",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a formulé les lois de l’hydrodynamique moderne ?",
+    "answers": ["Leonhard Euler", "Bernoulli", "Navier", "Stokes"],
+    "correctIndex": 0
   },
   {
     "id": "q118",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le passage du Nord-Est ?",
-    "answers": [
-      "James Clark Ross",
-      "Vitus Béring",
-      "Henry Hudson",
-      "Roald Amundsen"
-    ],
+    "text": "Quel explorateur est associé à la découverte de l’île de Madagascar pour l’Europe médiévale ?",
+    "answers": ["Marco Polo", "Diogo Dias", "Vasco de Gama", "Cabral"],
     "correctIndex": 1
   },
   {
     "id": "q119",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert la Nouvelle-Zélande pour l'Europe ?",
-    "answers": [
-      "William Dampier",
-      "James Cook",
-      "Abel Tasman",
-      "Dirk Hartog"
-    ],
+    "text": "Quel scientifique a découvert la loi de la polarisation de la lumière ?",
+    "answers": ["Malus", "Fresnel", "Young", "Huygens"],
     "correctIndex": 2
   },
   {
     "id": "q120",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le passage du Nord-Est ?",
-    "answers": [
-      "Vitus Béring",
-      "James Clark Ross",
-      "Roald Amundsen",
-      "Henry Hudson"
-    ],
-    "correctIndex": 0
+    "text": "Quel inventeur est associé au premier four à induction domestique ?",
+    "answers": ["Siemens", "Bosch", "Whirlpool", "Theodor Goldschmidt"],
+    "correctIndex": 3
   },
+
   {
     "id": "q121",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les lunes de Jupiter ?",
-    "answers": [
-      "Simon Marius",
-      "Christiaan Huygens",
-      "Isaac Newton",
-      "Galilée"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert la loi de la pression osmotique ?",
+    "answers": ["Jacobus van ’t Hoff", "Arrhenius", "Nernst", "Gibbs"],
+    "correctIndex": 0
   },
   {
     "id": "q122",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a été le premier à atteindre le pôle Sud ?",
-    "answers": [
-      "Ernest Shackleton",
-      "Roald Amundsen",
-      "Robert Falcon Scott",
-      "Douglas Mawson"
-    ],
+    "text": "Quel explorateur est associé à la découverte européenne du lac Tanganyika ?",
+    "answers": ["Livingstone", "Richard Francis Burton", "Stanley", "Speke"],
     "correctIndex": 1
   },
   {
     "id": "q123",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a découvert la baie d'Hudson ?",
-    "answers": [
-      "John Cabot",
-      "Henry Hudson",
-      "William Baffin",
-      "Samuel Hearne"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert la loi de la radioactivité artificielle ?",
+    "answers": ["Becquerel", "Fermi", "Frédéric Joliot-Curie", "Rutherford"],
+    "correctIndex": 2
   },
   {
     "id": "q124",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a été le premier à atteindre le pôle Sud ?",
-    "answers": [
-      "Ernest Shackleton",
-      "Douglas Mawson",
-      "Roald Amundsen",
-      "Robert Falcon Scott"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est associé au premier avion à réaction opérationnel ?",
+    "answers": ["Whittle", "Messerschmitt", "Heinkel", "Hans von Ohain"],
+    "correctIndex": 3
   },
   {
     "id": "q125",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel scientifique a découvert les anneaux de Saturne ?",
-    "answers": [
-      "Giovanni Cassini",
-      "Christiaan Huygens",
-      "Galilée",
-      "Isaac Newton"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a démontré l’existence des ondes électromagnétiques ?",
+    "answers": ["Heinrich Hertz", "Maxwell", "Faraday", "Tesla"],
+    "correctIndex": 0
   },
   {
     "id": "q126",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le Machu Picchu en 1911 ?",
-    "answers": [
-      "Alexander von Humboldt",
-      "Percy Fawcett",
-      "Thor Heyerdahl",
-      "Hiram Bingham"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la découverte de l’archipel des Samoa ?",
+    "answers": ["Bougainville", "James Cook", "Magellan", "Tasman"],
+    "correctIndex": 1
   },
   {
     "id": "q127",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les lunes de Jupiter ?",
-    "answers": [
-      "Simon Marius",
-      "Isaac Newton",
-      "Christiaan Huygens",
-      "Galilée"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert la loi de la constante cosmologique ?",
+    "answers": ["Hubble", "Lemaître", "Albert Einstein", "Gamow"],
+    "correctIndex": 2
   },
   {
     "id": "q128",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le Groenland pour l'Europe ?",
-    "answers": [
-      "Thorfinn Karlsefni",
-      "Leif Erikson",
-      "Bjarni Herjólfsson",
-      "Erik le Rouge"
-    ],
+    "text": "Quel inventeur est associé au premier satellite artificiel ?",
+    "answers": ["NASA", "Korolev", "Von Braun", "Sergueï Korolev"],
     "correctIndex": 3
   },
   {
     "id": "q129",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le Groenland pour l'Europe ?",
-    "answers": [
-      "Leif Erikson",
-      "Thorfinn Karlsefni",
-      "Erik le Rouge",
-      "Bjarni Herjólfsson"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a formulé la loi de la viscosité des fluides newtoniens ?",
+    "answers": ["Isaac Newton", "Stokes", "Navier", "Euler"],
+    "correctIndex": 0
   },
   {
     "id": "q130",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les lunes de Jupiter ?",
-    "answers": [
-      "Isaac Newton",
-      "Simon Marius",
-      "Christiaan Huygens",
-      "Galilée"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la découverte européenne de la mer de Ross en Antarctique ?",
+    "answers": ["Amundsen", "James Clark Ross", "Scott", "Shackleton"],
+    "correctIndex": 1
   },
+
   {
     "id": "q131",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les sources du Nil ?",
-    "answers": [
-      "Henry Morton Stanley",
-      "David Livingstone",
-      "Richard Francis Burton",
-      "John Hanning Speke"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert la loi de la conduction ionique ?",
+    "answers": ["Arrhenius", "Faraday", "Svante Arrhenius", "Nernst"],
+    "correctIndex": 2
   },
   {
     "id": "q132",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a découvert la baie d'Hudson ?",
-    "answers": [
-      "John Cabot",
-      "Samuel Hearne",
-      "William Baffin",
-      "Henry Hudson"
-    ],
+    "text": "Quel inventeur est associé au premier cœur artificiel implantable ?",
+    "answers": ["DeBakey", "Jarvik", "Barnard", "Robert Jarvik"],
     "correctIndex": 3
   },
   {
     "id": "q133",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a découvert la baie d'Hudson ?",
-    "answers": [
-      "William Baffin",
-      "John Cabot",
-      "Henry Hudson",
-      "Samuel Hearne"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a établi les bases de la paléontologie moderne ?",
+    "answers": ["Georges Cuvier", "Lamarck", "Darwin", "Lyell"],
+    "correctIndex": 0
   },
   {
     "id": "q134",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert la Nouvelle-Zélande pour l'Europe ?",
-    "answers": [
-      "Dirk Hartog",
-      "William Dampier",
-      "James Cook",
-      "Abel Tasman"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la découverte européenne du détroit de Torres ?",
+    "answers": ["Cook", "Luis Váez de Torres", "Tasman", "Magellan"],
+    "correctIndex": 1
   },
   {
     "id": "q135",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les sources du Nil ?",
-    "answers": [
-      "David Livingstone",
-      "Henry Morton Stanley",
-      "Richard Francis Burton",
-      "John Hanning Speke"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert la loi de la fluorescence ?",
+    "answers": ["Stokes", "Faraday", "George Gabriel Stokes", "Herschel"],
+    "correctIndex": 2
   },
   {
     "id": "q136",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le détroit de Magellan ?",
-    "answers": [
-      "Francis Drake",
-      "James Cook",
-      "Vasco Núñez de Balboa",
-      "Fernand de Magellan"
-    ],
+    "text": "Quel inventeur est associé au premier ordinateur personnel grand public ?",
+    "answers": ["IBM", "Apple", "Microsoft", "Ed Roberts"],
     "correctIndex": 3
   },
   {
     "id": "q137",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le Groenland pour l'Europe ?",
-    "answers": [
-      "Erik le Rouge",
-      "Bjarni Herjólfsson",
-      "Leif Erikson",
-      "Thorfinn Karlsefni"
-    ],
+    "text": "Quel scientifique a formulé la loi de la propagation des ondes électromagnétiques ?",
+    "answers": ["James Clerk Maxwell", "Hertz", "Faraday", "Tesla"],
     "correctIndex": 0
   },
   {
     "id": "q138",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les sources du Nil ?",
-    "answers": [
-      "Henry Morton Stanley",
-      "Richard Francis Burton",
-      "John Hanning Speke",
-      "David Livingstone"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est associé à la découverte européenne du lac Victoria ?",
+    "answers": ["Stanley", "John Hanning Speke", "Burton", "Livingstone"],
+    "correctIndex": 1
   },
   {
     "id": "q139",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a découvert la baie d'Hudson ?",
-    "answers": [
-      "Samuel Hearne",
-      "Henry Hudson",
-      "John Cabot",
-      "William Baffin"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert la loi de la réfraction des ondes sismiques ?",
+    "answers": ["Gutenberg", "Richter", "Andrija Mohorovičić", "Wiechert"],
+    "correctIndex": 2
   },
   {
     "id": "q140",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le Groenland pour l'Europe ?",
-    "answers": [
-      "Erik le Rouge",
-      "Leif Erikson",
-      "Thorfinn Karlsefni",
-      "Bjarni Herjólfsson"
-    ],
-    "correctIndex": 0
+    "text": "Quel inventeur est associé au premier réseau informatique à commutation de paquets ?",
+    "answers": ["IBM", "Microsoft", "Bell Labs", "Paul Baran"],
+    "correctIndex": 3
   },
+
   {
     "id": "q141",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a découvert la baie d'Hudson ?",
-    "answers": [
-      "Samuel Hearne",
-      "John Cabot",
-      "Henry Hudson",
-      "William Baffin"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a formulé la loi de la dilatation linéaire des solides ?",
+    "answers": ["Jean-Baptiste Biot", "Young", "Fourier", "Kelvin"],
+    "correctIndex": 0
   },
   {
     "id": "q142",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert la Nouvelle-Zélande pour l'Europe ?",
-    "answers": [
-      "James Cook",
-      "William Dampier",
-      "Dirk Hartog",
-      "Abel Tasman"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la découverte de l’archipel des Kouriles ?",
+    "answers": ["Bering", "Martin Spanberg", "Cook", "Dejnev"],
+    "correctIndex": 1
   },
   {
     "id": "q143",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le Machu Picchu en 1911 ?",
-    "answers": [
-      "Thor Heyerdahl",
-      "Percy Fawcett",
-      "Hiram Bingham",
-      "Alexander von Humboldt"
-    ],
+    "text": "Quel scientifique a découvert la loi de la conduction thermique des métaux ?",
+    "answers": ["Kelvin", "Carnot", "Jean-Baptiste Fourier", "Clausius"],
     "correctIndex": 2
   },
   {
     "id": "q144",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a découvert la baie d'Hudson ?",
-    "answers": [
-      "John Cabot",
-      "William Baffin",
-      "Samuel Hearne",
-      "Henry Hudson"
-    ],
+    "text": "Quel inventeur est associé au premier robot industriel ?",
+    "answers": ["IBM", "Kawasaki", "FANUC", "George Devol"],
     "correctIndex": 3
   },
   {
     "id": "q145",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les lunes de Jupiter ?",
-    "answers": [
-      "Isaac Newton",
-      "Galilée",
-      "Simon Marius",
-      "Christiaan Huygens"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert la loi de la photochimie ?",
+    "answers": ["Grotthuss", "Bunsen", "Roscoe", "Arrhenius"],
+    "correctIndex": 0
   },
   {
     "id": "q146",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le Machu Picchu en 1911 ?",
-    "answers": [
-      "Alexander von Humboldt",
-      "Percy Fawcett",
-      "Thor Heyerdahl",
-      "Hiram Bingham"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la découverte européenne du lac Baïkal ?",
+    "answers": ["Cook", "Daniel Gottlieb Messerschmidt", "Bering", "Nordenskiöld"],
+    "correctIndex": 1
   },
   {
     "id": "q147",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les lunes de Jupiter ?",
-    "answers": [
-      "Simon Marius",
-      "Christiaan Huygens",
-      "Galilée",
-      "Isaac Newton"
-    ],
+    "text": "Quel scientifique a découvert la loi de la catalyse chimique ?",
+    "answers": ["Berzelius", "Ostwald", "Wilhelm Ostwald", "Haber"],
     "correctIndex": 2
   },
   {
     "id": "q148",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les lunes de Jupiter ?",
-    "answers": [
-      "Christiaan Huygens",
-      "Isaac Newton",
-      "Galilée",
-      "Simon Marius"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est associé au premier système de paiement par carte bancaire ?",
+    "answers": ["Visa", "Mastercard", "American Express", "Frank McNamara"],
+    "correctIndex": 3
   },
   {
     "id": "q149",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le Machu Picchu en 1911 ?",
-    "answers": [
-      "Thor Heyerdahl",
-      "Hiram Bingham",
-      "Percy Fawcett",
-      "Alexander von Humboldt"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a établi la loi de la diffraction des ondes ?",
+    "answers": ["Augustin Fresnel", "Young", "Huygens", "Newton"],
+    "correctIndex": 0
   },
   {
     "id": "q150",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les sources du Nil ?",
-    "answers": [
-      "Henry Morton Stanley",
-      "John Hanning Speke",
-      "Richard Francis Burton",
-      "David Livingstone"
-    ],
+    "text": "Quel explorateur est associé à la découverte européenne du cap Leeuwin en Australie ?",
+    "answers": ["Tasman", "Willem de Vlamingh", "Cook", "Hartog"],
     "correctIndex": 1
   },
   {
     "id": "q151",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a été le premier à atteindre le pôle Sud ?",
-    "answers": [
-      "Ernest Shackleton",
-      "Roald Amundsen",
-      "Robert Falcon Scott",
-      "Douglas Mawson"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert la loi de la pression atmosphérique avec des expériences en altitude ?",
+    "answers": ["Blaise Pascal", "Torricelli", "Boyle", "Galilée"],
+    "correctIndex": 0
   },
   {
     "id": "q152",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel scientifique a découvert les anneaux de Saturne ?",
-    "answers": [
-      "Galilée",
-      "Christiaan Huygens",
-      "Giovanni Cassini",
-      "Isaac Newton"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur est associé à la découverte européenne du détroit de Béring ?",
+    "answers": ["Cook", "Vitus Béring", "Nordenskiöld", "Amundsen"],
+    "correctIndex": 1
   },
   {
     "id": "q153",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les lunes de Jupiter ?",
-    "answers": [
-      "Simon Marius",
-      "Isaac Newton",
-      "Christiaan Huygens",
-      "Galilée"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert la loi de la conduction électrique dans les solutions ?",
+    "answers": ["Faraday", "Ohm", "Svante Arrhenius", "Nernst"],
+    "correctIndex": 2
   },
   {
     "id": "q154",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le passage du Nord-Est ?",
-    "answers": [
-      "Henry Hudson",
-      "Vitus Béring",
-      "James Clark Ross",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé au premier laser fonctionnel ?",
+    "answers": ["Tesla", "Edison", "Bell", "Theodore Maiman"],
+    "correctIndex": 3
   },
   {
     "id": "q155",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a découvert la baie d'Hudson ?",
-    "answers": [
-      "Samuel Hearne",
-      "William Baffin",
-      "Henry Hudson",
-      "John Cabot"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a établi les bases de la génétique moderne ?",
+    "answers": ["Gregor Mendel", "Darwin", "Watson", "Crick"],
+    "correctIndex": 0
   },
   {
     "id": "q156",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les sources du Nil ?",
-    "answers": [
-      "Henry Morton Stanley",
-      "David Livingstone",
-      "John Hanning Speke",
-      "Richard Francis Burton"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est associé à la découverte européenne de la Nouvelle-Zélande ?",
+    "answers": ["Cook", "Abel Tasman", "Magellan", "Bougainville"],
+    "correctIndex": 1
   },
   {
     "id": "q157",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a été le premier à atteindre le pôle Sud ?",
-    "answers": [
-      "Roald Amundsen",
-      "Robert Falcon Scott",
-      "Douglas Mawson",
-      "Ernest Shackleton"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la structure de l’atome avec le modèle planétaire ?",
+    "answers": ["Thomson", "Bohr", "Ernest Rutherford", "Planck"],
+    "correctIndex": 2
   },
   {
     "id": "q158",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert la Nouvelle-Zélande pour l'Europe ?",
-    "answers": [
-      "Dirk Hartog",
-      "James Cook",
-      "William Dampier",
-      "Abel Tasman"
-    ],
+    "text": "Quel inventeur est associé au premier appareil de photographie portable ?",
+    "answers": ["Daguerre", "Niepce", "Talbot", "George Eastman"],
     "correctIndex": 3
   },
   {
     "id": "q159",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a découvert la baie d'Hudson ?",
-    "answers": [
-      "Samuel Hearne",
-      "William Baffin",
-      "John Cabot",
-      "Henry Hudson"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a formulé la loi de la conservation de la masse ?",
+    "answers": ["Antoine Lavoisier", "Dalton", "Boyle", "Proust"],
+    "correctIndex": 0
   },
   {
     "id": "q160",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le Groenland pour l'Europe ?",
-    "answers": [
-      "Thorfinn Karlsefni",
-      "Leif Erikson",
-      "Bjarni Herjólfsson",
-      "Erik le Rouge"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la découverte européenne du fleuve Niger ?",
+    "answers": ["Mungo Park", "Livingstone", "Stanley", "Burton"],
+    "correctIndex": 1
   },
+
   {
     "id": "q161",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel scientifique a découvert les anneaux de Saturne ?",
-    "answers": [
-      "Christiaan Huygens",
-      "Giovanni Cassini",
-      "Galilée",
-      "Isaac Newton"
-    ],
+    "text": "Quel scientifique a découvert la loi de la radioactivité alpha et bêta ?",
+    "answers": ["Becquerel", "Curie", "Ernest Rutherford", "Fermi"],
     "correctIndex": 2
   },
   {
     "id": "q162",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a découvert la baie d'Hudson ?",
-    "answers": [
-      "William Baffin",
-      "Henry Hudson",
-      "John Cabot",
-      "Samuel Hearne"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé au premier avion supersonique ?",
+    "answers": ["Dassault", "Boeing", "Tupolev", "Andrei Tupolev"],
+    "correctIndex": 3
   },
   {
     "id": "q163",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a été le premier à atteindre le pôle Sud ?",
-    "answers": [
-      "Douglas Mawson",
-      "Ernest Shackleton",
-      "Robert Falcon Scott",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert la loi de la diffusion des gaz ?",
+    "answers": ["Thomas Graham", "Boyle", "Dalton", "Avogadro"],
+    "correctIndex": 0
   },
   {
     "id": "q164",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le passage du Nord-Est ?",
-    "answers": [
-      "James Clark Ross",
-      "Henry Hudson",
-      "Roald Amundsen",
-      "Vitus Béring"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la découverte du pôle Sud géographique ?",
+    "answers": ["Scott", "Roald Amundsen", "Shackleton", "Peary"],
+    "correctIndex": 1
   },
   {
     "id": "q165",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le passage du Nord-Est ?",
-    "answers": [
-      "James Clark Ross",
-      "Henry Hudson",
-      "Vitus Béring",
-      "Roald Amundsen"
-    ],
+    "text": "Quel scientifique a découvert la loi de l’effet photoélectrique ?",
+    "answers": ["Planck", "Hertz", "Albert Einstein", "Millikan"],
     "correctIndex": 2
   },
   {
     "id": "q166",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le Machu Picchu en 1911 ?",
-    "answers": [
-      "Percy Fawcett",
-      "Thor Heyerdahl",
-      "Hiram Bingham",
-      "Alexander von Humboldt"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est associé au premier cœur-poumon artificiel utilisé en chirurgie ?",
+    "answers": ["DeBakey", "Barnard", "Gibbon", "John Gibbon"],
+    "correctIndex": 3
   },
   {
     "id": "q167",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le Groenland pour l'Europe ?",
-    "answers": [
-      "Bjarni Herjólfsson",
-      "Thorfinn Karlsefni",
-      "Erik le Rouge",
-      "Leif Erikson"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a formulé la loi de la réfraction de la lumière ?",
+    "answers": ["Snell", "Descartes", "Newton", "Huygens"],
+    "correctIndex": 0
   },
   {
     "id": "q168",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel scientifique a découvert les anneaux de Saturne ?",
-    "answers": [
-      "Giovanni Cassini",
-      "Isaac Newton",
-      "Christiaan Huygens",
-      "Galilée"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la découverte européenne de la Tasmanie ?",
+    "answers": ["Cook", "Abel Tasman", "Hartog", "Flinders"],
+    "correctIndex": 1
   },
   {
     "id": "q169",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le passage du Nord-Est ?",
-    "answers": [
-      "James Clark Ross",
-      "Vitus Béring",
-      "Henry Hudson",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert la loi de la pression des gaz parfaits ?",
+    "answers": ["Charles", "Gay-Lussac", "Émile Clapeyron", "Boyle"],
+    "correctIndex": 2
   },
   {
     "id": "q170",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a découvert la baie d'Hudson ?",
-    "answers": [
-      "John Cabot",
-      "William Baffin",
-      "Henry Hudson",
-      "Samuel Hearne"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est associé au premier téléphone portable commercial ?",
+    "answers": ["Bell", "Nokia", "Ericsson", "Martin Cooper"],
+    "correctIndex": 3
   },
+
   {
     "id": "q171",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a découvert la baie d'Hudson ?",
-    "answers": [
-      "Samuel Hearne",
-      "John Cabot",
-      "William Baffin",
-      "Henry Hudson"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert la loi de la pression hydrostatique ?",
+    "answers": ["Blaise Pascal", "Archimède", "Torricelli", "Galilée"],
+    "correctIndex": 0
   },
   {
     "id": "q172",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a découvert la baie d'Hudson ?",
-    "answers": [
-      "John Cabot",
-      "Samuel Hearne",
-      "Henry Hudson",
-      "William Baffin"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est associé à la découverte européenne du Groenland ?",
+    "answers": ["Leif Erikson", "Erik le Rouge", "Bjarni Herjólfsson", "Peary"],
+    "correctIndex": 1
   },
   {
     "id": "q173",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le Machu Picchu en 1911 ?",
-    "answers": [
-      "Alexander von Humboldt",
-      "Percy Fawcett",
-      "Hiram Bingham",
-      "Thor Heyerdahl"
-    ],
+    "text": "Quel scientifique a découvert la loi de la radioactivité artificielle induite ?",
+    "answers": ["Rutherford", "Fermi", "Irène Joliot-Curie", "Becquerel"],
     "correctIndex": 2
   },
   {
     "id": "q174",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert la Nouvelle-Zélande pour l'Europe ?",
-    "answers": [
-      "James Cook",
-      "William Dampier",
-      "Abel Tasman",
-      "Dirk Hartog"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est associé au premier robot humanoïde fonctionnel ?",
+    "answers": ["Honda", "Sony", "Toyota", "Ichiro Kato"],
+    "correctIndex": 3
   },
   {
     "id": "q175",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les lunes de Jupiter ?",
-    "answers": [
-      "Galilée",
-      "Christiaan Huygens",
-      "Isaac Newton",
-      "Simon Marius"
-    ],
+    "text": "Quel scientifique a formulé la loi de l’élasticité des matériaux ?",
+    "answers": ["Robert Hooke", "Young", "Poisson", "Euler"],
     "correctIndex": 0
   },
   {
     "id": "q176",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le passage du Nord-Est ?",
-    "answers": [
-      "Roald Amundsen",
-      "Vitus Béring",
-      "Henry Hudson",
-      "James Clark Ross"
-    ],
+    "text": "Quel explorateur est associé à la découverte européenne du fleuve Sénégal ?",
+    "answers": ["Mungo Park", "André Brüe", "Caillié", "Livingstone"],
     "correctIndex": 1
   },
   {
     "id": "q177",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le Machu Picchu en 1911 ?",
-    "answers": [
-      "Hiram Bingham",
-      "Thor Heyerdahl",
-      "Percy Fawcett",
-      "Alexander von Humboldt"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la loi de la quantification de l’énergie ?",
+    "answers": ["Einstein", "Bohr", "Max Planck", "Heisenberg"],
+    "correctIndex": 2
   },
   {
     "id": "q178",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les lunes de Jupiter ?",
-    "answers": [
-      "Simon Marius",
-      "Galilée",
-      "Isaac Newton",
-      "Christiaan Huygens"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé au premier appareil de radiographie médicale ?",
+    "answers": ["Curie", "Tesla", "Edison", "Wilhelm Röntgen"],
+    "correctIndex": 3
   },
   {
     "id": "q179",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le Machu Picchu en 1911 ?",
-    "answers": [
-      "Thor Heyerdahl",
-      "Alexander von Humboldt",
-      "Hiram Bingham",
-      "Percy Fawcett"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a établi la loi de la pression partielle des gaz ?",
+    "answers": ["John Dalton", "Boyle", "Avogadro", "Graham"],
+    "correctIndex": 0
   },
   {
     "id": "q180",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le Machu Picchu en 1911 ?",
-    "answers": [
-      "Thor Heyerdahl",
-      "Hiram Bingham",
-      "Percy Fawcett",
-      "Alexander von Humboldt"
-    ],
+    "text": "Quel explorateur est associé à la découverte du passage du Nord-Ouest ?",
+    "answers": ["Hudson", "Roald Amundsen", "Franklin", "Baffin"],
     "correctIndex": 1
   },
+
   {
     "id": "q181",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les lunes de Jupiter ?",
-    "answers": [
-      "Galilée",
-      "Isaac Newton",
-      "Christiaan Huygens",
-      "Simon Marius"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la loi de la conduction électrique des métaux ?",
+    "answers": ["Ohm", "Faraday", "Georg Ohm", "Ampère"],
+    "correctIndex": 2
   },
   {
     "id": "q182",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le Groenland pour l'Europe ?",
-    "answers": [
-      "Leif Erikson",
-      "Bjarni Herjólfsson",
-      "Thorfinn Karlsefni",
-      "Erik le Rouge"
-    ],
+    "text": "Quel inventeur est associé au premier satellite de télécommunications ?",
+    "answers": ["NASA", "ESA", "Bell Labs", "Arthur C. Clarke"],
     "correctIndex": 3
   },
   {
     "id": "q183",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a été le premier à atteindre le pôle Sud ?",
-    "answers": [
-      "Ernest Shackleton",
-      "Roald Amundsen",
-      "Robert Falcon Scott",
-      "Douglas Mawson"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert la loi de la capillarité ?",
+    "answers": ["Thomas Young", "Laplace", "Poiseuille", "Pascal"],
+    "correctIndex": 0
   },
   {
     "id": "q184",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le détroit de Magellan ?",
-    "answers": [
-      "James Cook",
-      "Fernand de Magellan",
-      "Vasco Núñez de Balboa",
-      "Francis Drake"
-    ],
+    "text": "Quel explorateur est associé à la découverte européenne de la baie d’Hudson ?",
+    "answers": ["Baffin", "Henry Hudson", "Cook", "Cartier"],
     "correctIndex": 1
   },
   {
     "id": "q185",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le détroit de Magellan ?",
-    "answers": [
-      "Fernand de Magellan",
-      "Vasco Núñez de Balboa",
-      "Francis Drake",
-      "James Cook"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la loi de la radioactivité gamma ?",
+    "answers": ["Curie", "Rutherford", "Paul Villard", "Becquerel"],
+    "correctIndex": 2
   },
   {
     "id": "q186",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les sources du Nil ?",
-    "answers": [
-      "Richard Francis Burton",
-      "Henry Morton Stanley",
-      "John Hanning Speke",
-      "David Livingstone"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est associé au premier système GPS opérationnel ?",
+    "answers": ["NASA", "US Navy", "IBM", "Roger L. Easton"],
+    "correctIndex": 3
   },
   {
     "id": "q187",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert la Nouvelle-Zélande pour l'Europe ?",
-    "answers": [
-      "James Cook",
-      "William Dampier",
-      "Abel Tasman",
-      "Dirk Hartog"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a formulé la loi de la conduction thermique transitoire ?",
+    "answers": ["Fourier", "Kelvin", "Biot", "Carslaw"],
+    "correctIndex": 0
   },
   {
     "id": "q188",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert la Nouvelle-Zélande pour l'Europe ?",
-    "answers": [
-      "Abel Tasman",
-      "William Dampier",
-      "Dirk Hartog",
-      "James Cook"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur est associé à la découverte européenne du fleuve Mackenzie ?",
+    "answers": ["Cook", "Alexander Mackenzie", "Franklin", "Ross"],
+    "correctIndex": 1
   },
   {
     "id": "q189",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le Machu Picchu en 1911 ?",
-    "answers": [
-      "Percy Fawcett",
-      "Thor Heyerdahl",
-      "Hiram Bingham",
-      "Alexander von Humboldt"
-    ],
+    "text": "Quel scientifique a découvert la loi de la diffusion thermique ?",
+    "answers": ["Fourier", "Soret", "Charles Soret", "Kelvin"],
     "correctIndex": 2
   },
   {
     "id": "q190",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le détroit de Magellan ?",
-    "answers": [
-      "James Cook",
-      "Francis Drake",
-      "Vasco Núñez de Balboa",
-      "Fernand de Magellan"
-    ],
+    "text": "Quel inventeur est associé au premier scanner médical ?",
+    "answers": ["Siemens", "Philips", "GE", "Godfrey Hounsfield"],
     "correctIndex": 3
   },
+
   {
     "id": "q191",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les lunes de Jupiter ?",
-    "answers": [
-      "Simon Marius",
-      "Isaac Newton",
-      "Galilée",
-      "Christiaan Huygens"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a formulé la loi de la flottabilité des corps ?",
+    "answers": ["Archimède", "Pascal", "Galilée", "Torricelli"],
+    "correctIndex": 0
   },
   {
     "id": "q192",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a été le premier à atteindre le pôle Sud ?",
-    "answers": [
-      "Ernest Shackleton",
-      "Douglas Mawson",
-      "Robert Falcon Scott",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la découverte européenne du fleuve Zambèze ?",
+    "answers": ["Stanley", "David Livingstone", "Burton", "Speke"],
+    "correctIndex": 1
   },
   {
     "id": "q193",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les lunes de Jupiter ?",
-    "answers": [
-      "Christiaan Huygens",
-      "Isaac Newton",
-      "Simon Marius",
-      "Galilée"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert la loi de la radioactivité naturelle des minerais ?",
+    "answers": ["Curie", "Rutherford", "Henri Becquerel", "Villard"],
+    "correctIndex": 2
   },
   {
     "id": "q194",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les sources du Nil ?",
-    "answers": [
-      "Henry Morton Stanley",
-      "Richard Francis Burton",
-      "David Livingstone",
-      "John Hanning Speke"
-    ],
+    "text": "Quel inventeur est associé au premier moteur à réaction civil ?",
+    "answers": ["Whittle", "Rolls-Royce", "General Electric", "Frank Whittle"],
     "correctIndex": 3
   },
   {
     "id": "q195",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les lunes de Jupiter ?",
-    "answers": [
-      "Christiaan Huygens",
-      "Simon Marius",
-      "Galilée",
-      "Isaac Newton"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a découvert la loi de la réfraction des ondes sonores ?",
+    "answers": ["Snell", "Laplace", "Newton", "Helmholtz"],
+    "correctIndex": 0
   },
   {
     "id": "q196",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les sources du Nil ?",
-    "answers": [
-      "John Hanning Speke",
-      "Richard Francis Burton",
-      "David Livingstone",
-      "Henry Morton Stanley"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur est associé à la découverte européenne du fleuve Orénoque ?",
+    "answers": ["Cortés", "Alexander von Humboldt", "Pizarro", "Balboa"],
+    "correctIndex": 1
   },
   {
     "id": "q197",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert les lunes de Jupiter ?",
-    "answers": [
-      "Simon Marius",
-      "Galilée",
-      "Isaac Newton",
-      "Christiaan Huygens"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert la loi de la radioactivité artificielle provoquée ?",
+    "answers": ["Fermi", "Rutherford", "Enrico Fermi", "Curie"],
+    "correctIndex": 2
   },
   {
     "id": "q198",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel scientifique a découvert les anneaux de Saturne ?",
-    "answers": [
-      "Galilée",
-      "Christiaan Huygens",
-      "Isaac Newton",
-      "Giovanni Cassini"
-    ],
-    "correctIndex": 0
+    "text": "Quel inventeur est associé au premier avion électrique habité ?",
+    "answers": ["Airbus", "Boeing", "NASA", "Yuneec"],
+    "correctIndex": 3
   },
   {
     "id": "q199",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Quel explorateur a découvert la baie d'Hudson ?",
-    "answers": [
-      "Henry Hudson",
-      "William Baffin",
-      "John Cabot",
-      "Samuel Hearne"
-    ],
+    "text": "Quel scientifique a formulé la loi de la conduction thermique stationnaire ?",
+    "answers": ["Joseph Fourier", "Kelvin", "Biot", "Carslaw"],
     "correctIndex": 0
   },
   {
     "id": "q200",
     "category": "Découvertes",
     "difficulty": "Moyen",
-    "text": "Qui a découvert le détroit de Magellan ?",
-    "answers": [
-      "James Cook",
-      "Fernand de Magellan",
-      "Francis Drake",
-      "Vasco Núñez de Balboa"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q201",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le Groenland pour l'Europe ?",
-    "answers": [
-      "Thorfinn Karlsefni",
-      "Leif Erikson",
-      "Erik le Rouge",
-      "Bjarni Herjólfsson"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q202",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Quel scientifique a découvert les anneaux de Saturne ?",
-    "answers": [
-      "Galilée",
-      "Giovanni Cassini",
-      "Isaac Newton",
-      "Christiaan Huygens"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q203",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Quel explorateur a découvert la baie d'Hudson ?",
-    "answers": [
-      "William Baffin",
-      "Samuel Hearne",
-      "Henry Hudson",
-      "John Cabot"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q204",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Quel explorateur a été le premier à atteindre le pôle Sud ?",
-    "answers": [
-      "Robert Falcon Scott",
-      "Roald Amundsen",
-      "Ernest Shackleton",
-      "Douglas Mawson"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q205",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le Machu Picchu en 1911 ?",
-    "answers": [
-      "Alexander von Humboldt",
-      "Percy Fawcett",
-      "Thor Heyerdahl",
-      "Hiram Bingham"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q206",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert les sources du Nil ?",
-    "answers": [
-      "David Livingstone",
-      "John Hanning Speke",
-      "Henry Morton Stanley",
-      "Richard Francis Burton"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q207",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert les sources du Nil ?",
-    "answers": [
-      "David Livingstone",
-      "John Hanning Speke",
-      "Richard Francis Burton",
-      "Henry Morton Stanley"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q208",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert la Nouvelle-Zélande pour l'Europe ?",
-    "answers": [
-      "Abel Tasman",
-      "James Cook",
-      "William Dampier",
-      "Dirk Hartog"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q209",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le Machu Picchu en 1911 ?",
-    "answers": [
-      "Hiram Bingham",
-      "Alexander von Humboldt",
-      "Thor Heyerdahl",
-      "Percy Fawcett"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q210",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le Groenland pour l'Europe ?",
-    "answers": [
-      "Thorfinn Karlsefni",
-      "Bjarni Herjólfsson",
-      "Erik le Rouge",
-      "Leif Erikson"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q211",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le détroit de Magellan ?",
-    "answers": [
-      "Fernand de Magellan",
-      "James Cook",
-      "Francis Drake",
-      "Vasco Núñez de Balboa"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q212",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le détroit de Magellan ?",
-    "answers": [
-      "Francis Drake",
-      "James Cook",
-      "Vasco Núñez de Balboa",
-      "Fernand de Magellan"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q213",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert les sources du Nil ?",
-    "answers": [
-      "Henry Morton Stanley",
-      "Richard Francis Burton",
-      "David Livingstone",
-      "John Hanning Speke"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q214",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert la Nouvelle-Zélande pour l'Europe ?",
-    "answers": [
-      "William Dampier",
-      "James Cook",
-      "Abel Tasman",
-      "Dirk Hartog"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q215",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le passage du Nord-Est ?",
-    "answers": [
-      "Vitus Béring",
-      "Roald Amundsen",
-      "Henry Hudson",
-      "James Clark Ross"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q216",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le Machu Picchu en 1911 ?",
-    "answers": [
-      "Alexander von Humboldt",
-      "Percy Fawcett",
-      "Thor Heyerdahl",
-      "Hiram Bingham"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q217",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le Machu Picchu en 1911 ?",
-    "answers": [
-      "Percy Fawcett",
-      "Thor Heyerdahl",
-      "Alexander von Humboldt",
-      "Hiram Bingham"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q218",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert la Nouvelle-Zélande pour l'Europe ?",
-    "answers": [
-      "James Cook",
-      "William Dampier",
-      "Abel Tasman",
-      "Dirk Hartog"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q219",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le passage du Nord-Est ?",
-    "answers": [
-      "James Clark Ross",
-      "Henry Hudson",
-      "Roald Amundsen",
-      "Vitus Béring"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q220",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le Groenland pour l'Europe ?",
-    "answers": [
-      "Bjarni Herjólfsson",
-      "Leif Erikson",
-      "Erik le Rouge",
-      "Thorfinn Karlsefni"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q221",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert les lunes de Jupiter ?",
-    "answers": [
-      "Galilée",
-      "Christiaan Huygens",
-      "Isaac Newton",
-      "Simon Marius"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q222",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Quel scientifique a découvert les anneaux de Saturne ?",
-    "answers": [
-      "Christiaan Huygens",
-      "Giovanni Cassini",
-      "Galilée",
-      "Isaac Newton"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q223",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le passage du Nord-Est ?",
-    "answers": [
-      "Vitus Béring",
-      "Henry Hudson",
-      "Roald Amundsen",
-      "James Clark Ross"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q224",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Quel explorateur a été le premier à atteindre le pôle Sud ?",
-    "answers": [
-      "Douglas Mawson",
-      "Ernest Shackleton",
-      "Roald Amundsen",
-      "Robert Falcon Scott"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q225",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert les sources du Nil ?",
-    "answers": [
-      "Henry Morton Stanley",
-      "David Livingstone",
-      "Richard Francis Burton",
-      "John Hanning Speke"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q226",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le Machu Picchu en 1911 ?",
-    "answers": [
-      "Thor Heyerdahl",
-      "Hiram Bingham",
-      "Alexander von Humboldt",
-      "Percy Fawcett"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q227",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le Groenland pour l'Europe ?",
-    "answers": [
-      "Bjarni Herjólfsson",
-      "Leif Erikson",
-      "Erik le Rouge",
-      "Thorfinn Karlsefni"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q228",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Quel scientifique a découvert les anneaux de Saturne ?",
-    "answers": [
-      "Galilée",
-      "Isaac Newton",
-      "Christiaan Huygens",
-      "Giovanni Cassini"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q229",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le Machu Picchu en 1911 ?",
-    "answers": [
-      "Percy Fawcett",
-      "Hiram Bingham",
-      "Thor Heyerdahl",
-      "Alexander von Humboldt"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q230",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le détroit de Magellan ?",
-    "answers": [
-      "Vasco Núñez de Balboa",
-      "Fernand de Magellan",
-      "Francis Drake",
-      "James Cook"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q231",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le Machu Picchu en 1911 ?",
-    "answers": [
-      "Alexander von Humboldt",
-      "Hiram Bingham",
-      "Percy Fawcett",
-      "Thor Heyerdahl"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q232",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Quel explorateur a découvert la baie d'Hudson ?",
-    "answers": [
-      "William Baffin",
-      "John Cabot",
-      "Henry Hudson",
-      "Samuel Hearne"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q233",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le détroit de Magellan ?",
-    "answers": [
-      "James Cook",
-      "Francis Drake",
-      "Fernand de Magellan",
-      "Vasco Núñez de Balboa"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q234",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Quel explorateur a découvert la baie d'Hudson ?",
-    "answers": [
-      "Henry Hudson",
-      "Samuel Hearne",
-      "William Baffin",
-      "John Cabot"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q235",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Quel explorateur a découvert la baie d'Hudson ?",
-    "answers": [
-      "John Cabot",
-      "Samuel Hearne",
-      "Henry Hudson",
-      "William Baffin"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q236",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le détroit de Magellan ?",
-    "answers": [
-      "James Cook",
-      "Francis Drake",
-      "Vasco Núñez de Balboa",
-      "Fernand de Magellan"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q237",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Quel explorateur a découvert la baie d'Hudson ?",
-    "answers": [
-      "Henry Hudson",
-      "Samuel Hearne",
-      "John Cabot",
-      "William Baffin"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q238",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert les lunes de Jupiter ?",
-    "answers": [
-      "Christiaan Huygens",
-      "Isaac Newton",
-      "Simon Marius",
-      "Galilée"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q239",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Quel scientifique a découvert les anneaux de Saturne ?",
-    "answers": [
-      "Giovanni Cassini",
-      "Isaac Newton",
-      "Christiaan Huygens",
-      "Galilée"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q240",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le Machu Picchu en 1911 ?",
-    "answers": [
-      "Thor Heyerdahl",
-      "Percy Fawcett",
-      "Alexander von Humboldt",
-      "Hiram Bingham"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q241",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert les lunes de Jupiter ?",
-    "answers": [
-      "Christiaan Huygens",
-      "Simon Marius",
-      "Isaac Newton",
-      "Galilée"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q242",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le Groenland pour l'Europe ?",
-    "answers": [
-      "Thorfinn Karlsefni",
-      "Leif Erikson",
-      "Erik le Rouge",
-      "Bjarni Herjólfsson"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q243",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le détroit de Magellan ?",
-    "answers": [
-      "Vasco Núñez de Balboa",
-      "James Cook",
-      "Fernand de Magellan",
-      "Francis Drake"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q244",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert la Nouvelle-Zélande pour l'Europe ?",
-    "answers": [
-      "Dirk Hartog",
-      "William Dampier",
-      "Abel Tasman",
-      "James Cook"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q245",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le Machu Picchu en 1911 ?",
-    "answers": [
-      "Hiram Bingham",
-      "Percy Fawcett",
-      "Thor Heyerdahl",
-      "Alexander von Humboldt"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q246",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le Groenland pour l'Europe ?",
-    "answers": [
-      "Erik le Rouge",
-      "Bjarni Herjólfsson",
-      "Leif Erikson",
-      "Thorfinn Karlsefni"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q247",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le passage du Nord-Est ?",
-    "answers": [
-      "James Clark Ross",
-      "Henry Hudson",
-      "Roald Amundsen",
-      "Vitus Béring"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q248",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Quel explorateur a été le premier à atteindre le pôle Sud ?",
-    "answers": [
-      "Douglas Mawson",
-      "Roald Amundsen",
-      "Ernest Shackleton",
-      "Robert Falcon Scott"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q249",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Quel scientifique a découvert les anneaux de Saturne ?",
-    "answers": [
-      "Isaac Newton",
-      "Christiaan Huygens",
-      "Galilée",
-      "Giovanni Cassini"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q250",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Quel scientifique a découvert les anneaux de Saturne ?",
-    "answers": [
-      "Christiaan Huygens",
-      "Galilée",
-      "Giovanni Cassini",
-      "Isaac Newton"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q251",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le Machu Picchu en 1911 ?",
-    "answers": [
-      "Thor Heyerdahl",
-      "Alexander von Humboldt",
-      "Hiram Bingham",
-      "Percy Fawcett"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q252",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le détroit de Magellan ?",
-    "answers": [
-      "James Cook",
-      "Francis Drake",
-      "Vasco Núñez de Balboa",
-      "Fernand de Magellan"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q253",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert les sources du Nil ?",
-    "answers": [
-      "Richard Francis Burton",
-      "David Livingstone",
-      "Henry Morton Stanley",
-      "John Hanning Speke"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q254",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le Machu Picchu en 1911 ?",
-    "answers": [
-      "Thor Heyerdahl",
-      "Hiram Bingham",
-      "Percy Fawcett",
-      "Alexander von Humboldt"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q255",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Quel explorateur a découvert la baie d'Hudson ?",
-    "answers": [
-      "Henry Hudson",
-      "William Baffin",
-      "John Cabot",
-      "Samuel Hearne"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q256",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le passage du Nord-Est ?",
-    "answers": [
-      "Roald Amundsen",
-      "James Clark Ross",
-      "Vitus Béring",
-      "Henry Hudson"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q257",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Quel scientifique a découvert les anneaux de Saturne ?",
-    "answers": [
-      "Galilée",
-      "Giovanni Cassini",
-      "Christiaan Huygens",
-      "Isaac Newton"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q258",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Quel explorateur a découvert la baie d'Hudson ?",
-    "answers": [
-      "Henry Hudson",
-      "John Cabot",
-      "Samuel Hearne",
-      "William Baffin"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q259",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Quel explorateur a découvert la baie d'Hudson ?",
-    "answers": [
-      "Samuel Hearne",
-      "John Cabot",
-      "Henry Hudson",
-      "William Baffin"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q260",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le détroit de Magellan ?",
-    "answers": [
-      "Fernand de Magellan",
-      "Vasco Núñez de Balboa",
-      "Francis Drake",
-      "James Cook"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q261",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le passage du Nord-Est ?",
-    "answers": [
-      "Roald Amundsen",
-      "Henry Hudson",
-      "James Clark Ross",
-      "Vitus Béring"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q262",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le passage du Nord-Est ?",
-    "answers": [
-      "Henry Hudson",
-      "Roald Amundsen",
-      "Vitus Béring",
-      "James Clark Ross"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q263",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert la Nouvelle-Zélande pour l'Europe ?",
-    "answers": [
-      "Abel Tasman",
-      "Dirk Hartog",
-      "James Cook",
-      "William Dampier"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q264",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le détroit de Magellan ?",
-    "answers": [
-      "Fernand de Magellan",
-      "James Cook",
-      "Vasco Núñez de Balboa",
-      "Francis Drake"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q265",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert les sources du Nil ?",
-    "answers": [
-      "Richard Francis Burton",
-      "David Livingstone",
-      "John Hanning Speke",
-      "Henry Morton Stanley"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q266",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert les sources du Nil ?",
-    "answers": [
-      "Henry Morton Stanley",
-      "John Hanning Speke",
-      "Richard Francis Burton",
-      "David Livingstone"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q267",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le Machu Picchu en 1911 ?",
-    "answers": [
-      "Alexander von Humboldt",
-      "Hiram Bingham",
-      "Thor Heyerdahl",
-      "Percy Fawcett"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q268",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert les sources du Nil ?",
-    "answers": [
-      "Richard Francis Burton",
-      "John Hanning Speke",
-      "David Livingstone",
-      "Henry Morton Stanley"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q269",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert les lunes de Jupiter ?",
-    "answers": [
-      "Isaac Newton",
-      "Christiaan Huygens",
-      "Galilée",
-      "Simon Marius"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q270",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Quel explorateur a été le premier à atteindre le pôle Sud ?",
-    "answers": [
-      "Robert Falcon Scott",
-      "Douglas Mawson",
-      "Ernest Shackleton",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q271",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Quel explorateur a été le premier à atteindre le pôle Sud ?",
-    "answers": [
-      "Douglas Mawson",
-      "Roald Amundsen",
-      "Ernest Shackleton",
-      "Robert Falcon Scott"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q272",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert les lunes de Jupiter ?",
-    "answers": [
-      "Galilée",
-      "Isaac Newton",
-      "Christiaan Huygens",
-      "Simon Marius"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q273",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Quel explorateur a découvert la baie d'Hudson ?",
-    "answers": [
-      "Henry Hudson",
-      "Samuel Hearne",
-      "William Baffin",
-      "John Cabot"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q274",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Quel explorateur a découvert la baie d'Hudson ?",
-    "answers": [
-      "Samuel Hearne",
-      "John Cabot",
-      "William Baffin",
-      "Henry Hudson"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q275",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Quel scientifique a découvert les anneaux de Saturne ?",
-    "answers": [
-      "Galilée",
-      "Christiaan Huygens",
-      "Giovanni Cassini",
-      "Isaac Newton"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q276",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le passage du Nord-Est ?",
-    "answers": [
-      "James Clark Ross",
-      "Henry Hudson",
-      "Roald Amundsen",
-      "Vitus Béring"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q277",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert les sources du Nil ?",
-    "answers": [
-      "David Livingstone",
-      "John Hanning Speke",
-      "Henry Morton Stanley",
-      "Richard Francis Burton"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q278",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le Machu Picchu en 1911 ?",
-    "answers": [
-      "Percy Fawcett",
-      "Hiram Bingham",
-      "Thor Heyerdahl",
-      "Alexander von Humboldt"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q279",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le Groenland pour l'Europe ?",
-    "answers": [
-      "Thorfinn Karlsefni",
-      "Leif Erikson",
-      "Bjarni Herjólfsson",
-      "Erik le Rouge"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q280",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Quel scientifique a découvert les anneaux de Saturne ?",
-    "answers": [
-      "Christiaan Huygens",
-      "Giovanni Cassini",
-      "Galilée",
-      "Isaac Newton"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q281",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert la Nouvelle-Zélande pour l'Europe ?",
-    "answers": [
-      "Abel Tasman",
-      "Dirk Hartog",
-      "William Dampier",
-      "James Cook"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q282",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le détroit de Magellan ?",
-    "answers": [
-      "Francis Drake",
-      "Vasco Núñez de Balboa",
-      "James Cook",
-      "Fernand de Magellan"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q283",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert la Nouvelle-Zélande pour l'Europe ?",
-    "answers": [
-      "Abel Tasman",
-      "Dirk Hartog",
-      "William Dampier",
-      "James Cook"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q284",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert les lunes de Jupiter ?",
-    "answers": [
-      "Christiaan Huygens",
-      "Simon Marius",
-      "Galilée",
-      "Isaac Newton"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q285",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le Machu Picchu en 1911 ?",
-    "answers": [
-      "Hiram Bingham",
-      "Alexander von Humboldt",
-      "Percy Fawcett",
-      "Thor Heyerdahl"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q286",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le Machu Picchu en 1911 ?",
-    "answers": [
-      "Thor Heyerdahl",
-      "Hiram Bingham",
-      "Percy Fawcett",
-      "Alexander von Humboldt"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q287",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert les sources du Nil ?",
-    "answers": [
-      "David Livingstone",
-      "Richard Francis Burton",
-      "Henry Morton Stanley",
-      "John Hanning Speke"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q288",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le Machu Picchu en 1911 ?",
-    "answers": [
-      "Thor Heyerdahl",
-      "Percy Fawcett",
-      "Alexander von Humboldt",
-      "Hiram Bingham"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q289",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le détroit de Magellan ?",
-    "answers": [
-      "Fernand de Magellan",
-      "James Cook",
-      "Vasco Núñez de Balboa",
-      "Francis Drake"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q290",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le détroit de Magellan ?",
-    "answers": [
-      "Francis Drake",
-      "Vasco Núñez de Balboa",
-      "James Cook",
-      "Fernand de Magellan"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q291",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le passage du Nord-Est ?",
-    "answers": [
-      "James Clark Ross",
-      "Henry Hudson",
-      "Roald Amundsen",
-      "Vitus Béring"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q292",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Quel scientifique a découvert les anneaux de Saturne ?",
-    "answers": [
-      "Giovanni Cassini",
-      "Isaac Newton",
-      "Christiaan Huygens",
-      "Galilée"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q293",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le passage du Nord-Est ?",
-    "answers": [
-      "James Clark Ross",
-      "Roald Amundsen",
-      "Henry Hudson",
-      "Vitus Béring"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q294",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le Machu Picchu en 1911 ?",
-    "answers": [
-      "Percy Fawcett",
-      "Hiram Bingham",
-      "Alexander von Humboldt",
-      "Thor Heyerdahl"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q295",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le passage du Nord-Est ?",
-    "answers": [
-      "Henry Hudson",
-      "James Clark Ross",
-      "Roald Amundsen",
-      "Vitus Béring"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q296",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le passage du Nord-Est ?",
-    "answers": [
-      "James Clark Ross",
-      "Vitus Béring",
-      "Roald Amundsen",
-      "Henry Hudson"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q297",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le Groenland pour l'Europe ?",
-    "answers": [
-      "Leif Erikson",
-      "Thorfinn Karlsefni",
-      "Bjarni Herjólfsson",
-      "Erik le Rouge"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q298",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Qui a découvert le Groenland pour l'Europe ?",
-    "answers": [
-      "Bjarni Herjólfsson",
-      "Thorfinn Karlsefni",
-      "Leif Erikson",
-      "Erik le Rouge"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q299",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Quel explorateur a découvert la baie d'Hudson ?",
-    "answers": [
-      "John Cabot",
-      "Henry Hudson",
-      "Samuel Hearne",
-      "William Baffin"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q300",
-    "category": "Découvertes",
-    "difficulty": "Moyen",
-    "text": "Quel scientifique a découvert les anneaux de Saturne ?",
-    "answers": [
-      "Isaac Newton",
-      "Galilée",
-      "Giovanni Cassini",
-      "Christiaan Huygens"
-    ],
+    "text": "Quel explorateur est associé à la découverte européenne du cap Horn ?",
+    "answers": ["Magellan", "Willem Schouten", "Drake", "Cook"],
     "correctIndex": 1
   }
 ]
