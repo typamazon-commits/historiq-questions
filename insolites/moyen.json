@@ -3,3900 +3,1612 @@
     "id": "q1",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Albatros",
-      "Faucon pèlerin",
-      "Aigle royal",
-      "Martinet"
-    ],
-    "correctIndex": 1
+    "text": "Quel micro-organisme est connu pour survivre à des niveaux extrêmes de radiation ?",
+    "answers": ["Deinococcus radiodurans", "E. coli", "Lactobacillus", "Salmonella"],
+    "correctIndex": 0
   },
   {
     "id": "q2",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule mer sans littoral ?",
-    "answers": [
-      "Mer Sargasso",
-      "Mer Rouge",
-      "Mer Caspienne",
-      "Mer Noire"
-    ],
-    "correctIndex": 0
+    "text": "Quel métal est liquide à température ambiante (environ 20°C) ?",
+    "answers": ["Gallium", "Mercure", "Étain", "Aluminium"],
+    "correctIndex": 1
   },
   {
     "id": "q3",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Albatros",
-      "Martinet",
-      "Aigle royal",
-      "Faucon pèlerin"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène explique qu’un objet flottant semble “légèrement soulagé” dans l’eau ?",
+    "answers": ["Capillarité", "Tension superficielle", "Poussée d’Archimède", "Osmose"],
+    "correctIndex": 2
   },
   {
     "id": "q4",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule mer sans littoral ?",
-    "answers": [
-      "Mer Rouge",
-      "Mer Noire",
-      "Mer Caspienne",
-      "Mer Sargasso"
-    ],
+    "text": "Quel animal marin est célèbre pour son sang bleu riche en hémocyanine ?",
+    "answers": ["Calmar", "Dauphin", "Crabe", "Limule"],
     "correctIndex": 3
   },
   {
     "id": "q5",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel fruit était connu comme 'pomme d'amour' en France ?",
-    "answers": [
-      "Tomate",
-      "Cerise",
-      "Pomme",
-      "Fraise"
-    ],
+    "text": "Quel insecte peut marcher sur l’eau grâce à la tension superficielle ?",
+    "answers": ["Gerris (patineur)", "Moustique", "Libellule", "Papillon"],
     "correctIndex": 0
   },
   {
     "id": "q6",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Colugo",
-      "Paresseux",
-      "Écureuil volant",
-      "Chauve-souris"
-    ],
-    "correctIndex": 3
+    "text": "Quel instrument mesure la pression atmosphérique ?",
+    "answers": ["Thermomètre", "Baromètre", "Hygromètre", "Altimètre"],
+    "correctIndex": 1
   },
   {
     "id": "q7",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel fruit était connu comme 'pomme d'amour' en France ?",
-    "answers": [
-      "Cerise",
-      "Fraise",
-      "Tomate",
-      "Pomme"
-    ],
+    "text": "Quel gaz est principalement responsable de la flottabilité des ballons de fête ?",
+    "answers": ["Oxygène", "Azote", "Hélium", "Argon"],
     "correctIndex": 2
   },
   {
     "id": "q8",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel est le plus grand désert chaud du monde ?",
-    "answers": [
-      "Gobi",
-      "Kalahari",
-      "Mojave",
-      "Sahara"
-    ],
+    "text": "Quel animal peut régénérer une partie de son cœur après une blessure ?",
+    "answers": ["Grenouille", "Souris", "Chien", "Poisson-zèbre"],
     "correctIndex": 3
   },
   {
     "id": "q9",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule planète du système solaire qui tourne sur le côté ?",
-    "answers": [
-      "Neptune",
-      "Vénus",
-      "Saturne",
-      "Uranus"
-    ],
-    "correctIndex": 3
+    "text": "Quelle substance naturelle est produite par les abeilles pour nourrir la reine ?",
+    "answers": ["Propolis", "Gelée royale", "Cire", "Pollen"],
+    "correctIndex": 0
   },
   {
     "id": "q10",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle ville est bâtie sur 118 petites îles reliées par des ponts ?",
-    "answers": [
-      "Bruges",
-      "Venise",
-      "Amsterdam",
-      "Bangkok"
-    ],
-    "correctIndex": 1
+    "text": "Quel effet optique fait paraître un bâton “cassé” lorsqu’il est plongé dans l’eau ?",
+    "answers": ["Diffraction", "Réflexion", "Polarisation", "Réfraction"],
+    "correctIndex": 3
   },
+
   {
     "id": "q11",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Colugo",
-      "Chauve-souris",
-      "Écureuil volant",
-      "Paresseux"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal est connu pour dormir avec un hémisphère cérébral éveillé ?",
+    "answers": ["Dauphin", "Chat", "Lapin", "Panda"],
+    "correctIndex": 0
   },
   {
     "id": "q12",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule planète du système solaire qui tourne sur le côté ?",
-    "answers": [
-      "Saturne",
-      "Neptune",
-      "Vénus",
-      "Uranus"
-    ],
-    "correctIndex": 3
+    "text": "Quel appareil utilise un faisceau d’électrons pour observer des objets très petits ?",
+    "answers": ["Télescope", "Microscope électronique", "Spectromètre", "Sismographe"],
+    "correctIndex": 1
   },
   {
     "id": "q13",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel pays a inventé les skis ?",
-    "answers": [
-      "Suisse",
-      "Norvège",
-      "Canada",
-      "Suède"
-    ],
-    "correctIndex": 1
+    "text": "Quelle partie du corps humain est la plus résistante aux acides ?",
+    "answers": ["Os", "Peau", "Émail des dents", "Cheveux"],
+    "correctIndex": 2
   },
   {
     "id": "q14",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel fruit était connu comme 'pomme d'amour' en France ?",
-    "answers": [
-      "Fraise",
-      "Pomme",
-      "Tomate",
-      "Cerise"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal possède la morsure (pression) la plus élevée parmi ces choix ?",
+    "answers": ["Lion", "Loup", "Hyène", "Crocodile"],
+    "correctIndex": 3
   },
   {
     "id": "q15",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel animal peut dormir un an entier ?",
-    "answers": [
-      "Serpent",
-      "Koala",
-      "Ours",
-      "Escargot"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène permet à certains lézards de grimper sur des surfaces lisses ?",
+    "answers": ["Forces de Van der Waals", "Magnétisme", "Capillarité", "Inertie"],
+    "correctIndex": 0
   },
   {
     "id": "q16",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel pays a inventé les skis ?",
-    "answers": [
-      "Suède",
-      "Suisse",
-      "Norvège",
-      "Canada"
-    ],
-    "correctIndex": 2
+    "text": "Quel grand désert est aussi l’un des endroits les plus humides de la planète en brouillard ?",
+    "answers": ["Gobi", "Atacama", "Sahara", "Kalahari"],
+    "correctIndex": 1
   },
   {
     "id": "q17",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel pays a inventé les skis ?",
-    "answers": [
-      "Norvège",
-      "Suisse",
-      "Canada",
-      "Suède"
-    ],
-    "correctIndex": 0
+    "text": "Quel matériau naturel est principalement composé de kératine ?",
+    "answers": ["Coquille d’œuf", "Bois", "Cheveux", "Os"],
+    "correctIndex": 2
   },
   {
     "id": "q18",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel est le plus grand désert chaud du monde ?",
-    "answers": [
-      "Gobi",
-      "Mojave",
-      "Sahara",
-      "Kalahari"
-    ],
-    "correctIndex": 2
+    "text": "Quelle plante est célèbre pour se refermer rapidement au toucher ?",
+    "answers": ["Tournesol", "Orchidée", "Aloe vera", "Dionée attrape-mouche"],
+    "correctIndex": 3
   },
   {
     "id": "q19",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule mer sans littoral ?",
-    "answers": [
-      "Mer Rouge",
-      "Mer Sargasso",
-      "Mer Caspienne",
-      "Mer Noire"
-    ],
-    "correctIndex": 1
+    "text": "Quel objet a été conçu à l’origine pour protéger les yeux des travailleurs industriels ?",
+    "answers": ["Lunettes de soleil", "Masque de ski", "Visière moto", "Casque audio"],
+    "correctIndex": 0
   },
   {
     "id": "q20",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel est le plus grand désert chaud du monde ?",
-    "answers": [
-      "Kalahari",
-      "Mojave",
-      "Gobi",
-      "Sahara"
-    ],
-    "correctIndex": 3
+    "text": "Quel gaz est majoritaire dans l’atmosphère terrestre ?",
+    "answers": ["Oxygène", "Azote", "CO₂", "Hélium"],
+    "correctIndex": 1
   },
+
   {
     "id": "q21",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Colugo",
-      "Chauve-souris",
-      "Paresseux",
-      "Écureuil volant"
-    ],
+    "text": "Quel animal est capable de détecter les champs électriques dans l’eau ?",
+    "answers": ["Saumon", "Requin", "Dauphin", "Tortue"],
     "correctIndex": 1
   },
   {
     "id": "q22",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Aigle royal",
-      "Faucon pèlerin",
-      "Albatros",
-      "Martinet"
-    ],
-    "correctIndex": 1
+    "text": "Quel instrument sert à mesurer l’humidité de l’air ?",
+    "answers": ["Anémomètre", "Baromètre", "Hygromètre", "Sextant"],
+    "correctIndex": 2
   },
   {
     "id": "q23",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule planète du système solaire qui tourne sur le côté ?",
-    "answers": [
-      "Uranus",
-      "Vénus",
-      "Saturne",
-      "Neptune"
-    ],
-    "correctIndex": 0
+    "text": "Quelle substance donne leur couleur verte à la plupart des plantes ?",
+    "answers": ["Carotène", "Mélanine", "Hémoglobine", "Chlorophylle"],
+    "correctIndex": 3
   },
   {
     "id": "q24",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel fruit était connu comme 'pomme d'amour' en France ?",
-    "answers": [
-      "Fraise",
-      "Tomate",
-      "Cerise",
-      "Pomme"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal possède un troisième “œil” sensible à la lumière sur le dessus de la tête ?",
+    "answers": ["Tuatara", "Caméléon", "Vipère", "Crocodile"],
+    "correctIndex": 0
   },
   {
     "id": "q25",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule mer sans littoral ?",
-    "answers": [
-      "Mer Rouge",
-      "Mer Sargasso",
-      "Mer Noire",
-      "Mer Caspienne"
-    ],
+    "text": "Quel matériau est le plus souvent utilisé dans un verre “incassable” (gobelet souple) ?",
+    "answers": ["Verre borosilicate", "Polycarbonate", "Porcelaine", "Aluminium"],
     "correctIndex": 1
   },
   {
     "id": "q26",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Albatros",
-      "Aigle royal",
-      "Martinet",
-      "Faucon pèlerin"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène explique le “boom” entendu quand un avion dépasse Mach 1 ?",
+    "answers": ["Cavitation", "Résonance", "Onde de choc", "Diffusion"],
+    "correctIndex": 2
   },
   {
     "id": "q27",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel est le plus grand désert chaud du monde ?",
-    "answers": [
-      "Kalahari",
-      "Gobi",
-      "Mojave",
-      "Sahara"
-    ],
+    "text": "Quel animal peut changer de couleur pour communiquer et se camoufler ?",
+    "answers": ["Koala", "Morse", "Baleine", "Poulpe"],
     "correctIndex": 3
   },
   {
     "id": "q28",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle ville est bâtie sur 118 petites îles reliées par des ponts ?",
-    "answers": [
-      "Venise",
-      "Amsterdam",
-      "Bruges",
-      "Bangkok"
-    ],
+    "text": "Quel objet du quotidien fonctionne grâce à un ressort en spirale appelé “moteur” ?",
+    "answers": ["Montre mécanique", "Calculatrice", "Clé USB", "Télécommande"],
     "correctIndex": 0
   },
   {
     "id": "q29",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Chauve-souris",
-      "Écureuil volant",
-      "Colugo",
-      "Paresseux"
-    ],
-    "correctIndex": 0
+    "text": "Quel gaz provoque la voix aiguë lorsqu’il est inhalé brièvement ?",
+    "answers": ["Argon", "Hélium", "Oxygène", "Azote"],
+    "correctIndex": 1
   },
   {
     "id": "q30",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel fruit était connu comme 'pomme d'amour' en France ?",
-    "answers": [
-      "Pomme",
-      "Tomate",
-      "Fraise",
-      "Cerise"
-    ],
-    "correctIndex": 1
+    "text": "Quelle unité mesure l’intensité d’un courant électrique ?",
+    "answers": ["Volt", "Ohm", "Ampère", "Watt"],
+    "correctIndex": 2
   },
+
   {
     "id": "q31",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Écureuil volant",
-      "Chauve-souris",
-      "Paresseux",
-      "Colugo"
-    ],
+    "text": "Quel animal est capable de respirer en partie par la peau ?",
+    "answers": ["Serpent", "Grenouille", "Souris", "Pigeon"],
     "correctIndex": 1
   },
   {
     "id": "q32",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Martinet",
-      "Faucon pèlerin",
-      "Albatros",
-      "Aigle royal"
-    ],
-    "correctIndex": 1
+    "text": "Quel objet sert à mesurer la vitesse du vent ?",
+    "answers": ["Altimètre", "Baromètre", "Anémomètre", "Densimètre"],
+    "correctIndex": 2
   },
   {
     "id": "q33",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle ville est bâtie sur 118 petites îles reliées par des ponts ?",
-    "answers": [
-      "Amsterdam",
-      "Venise",
-      "Bruges",
-      "Bangkok"
-    ],
-    "correctIndex": 1
+    "text": "Quelle matière est responsable de l’odeur caractéristique après la pluie sur sol sec ?",
+    "answers": ["Ozone", "Soufre", "Ammoniac", "Géosmine"],
+    "correctIndex": 3
   },
   {
     "id": "q34",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel est l'instrument de musique le plus grand du monde ?",
-    "answers": [
-      "Orgue",
-      "Piano",
-      "Harpe",
-      "Tuba"
-    ],
+    "text": "Quel animal est connu pour sa capacité à s’orienter grâce au champ magnétique terrestre ?",
+    "answers": ["Pigeon voyageur", "Chat", "Lapin", "Dinde"],
     "correctIndex": 0
   },
   {
     "id": "q35",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel animal peut dormir un an entier ?",
-    "answers": [
-      "Serpent",
-      "Ours",
-      "Koala",
-      "Escargot"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène explique la formation d’une “couche” de bulles persistantes sur une bière ?",
+    "answers": ["Sublimation", "Nucléation", "Condensation", "Ionisation"],
+    "correctIndex": 1
   },
   {
     "id": "q36",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Faucon pèlerin",
-      "Aigle royal",
-      "Albatros",
-      "Martinet"
-    ],
-    "correctIndex": 0
+    "text": "Quel composant est essentiel au fonctionnement d’une pile alcaline ?",
+    "answers": ["Plomb", "Lithium", "Zinc", "Uranium"],
+    "correctIndex": 2
   },
   {
     "id": "q37",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle ville est bâtie sur 118 petites îles reliées par des ponts ?",
-    "answers": [
-      "Amsterdam",
-      "Venise",
-      "Bruges",
-      "Bangkok"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal est célèbre pour son “jet d’encre” défensif ?",
+    "answers": ["Requin", "Tortue", "Otarie", "Seiche"],
+    "correctIndex": 3
   },
   {
     "id": "q38",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Albatros",
-      "Martinet",
-      "Aigle royal",
-      "Faucon pèlerin"
-    ],
-    "correctIndex": 3
+    "text": "Quel objet utilise un cristal de quartz pour produire une fréquence stable ?",
+    "answers": ["Montre à quartz", "Briquet", "Thermos", "Parapluie"],
+    "correctIndex": 0
   },
   {
     "id": "q39",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Colugo",
-      "Paresseux",
-      "Chauve-souris",
-      "Écureuil volant"
-    ],
-    "correctIndex": 2
+    "text": "Quel matériau est le principal composant du papier ?",
+    "answers": ["Kératine", "Cellulose", "Silice", "Chitine"],
+    "correctIndex": 1
   },
   {
     "id": "q40",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel est le plus grand désert chaud du monde ?",
-    "answers": [
-      "Mojave",
-      "Gobi",
-      "Kalahari",
-      "Sahara"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène transforme directement un solide en gaz sans passer par l’état liquide ?",
+    "answers": ["Fusion", "Ébullition", "Sublimation", "Condensation"],
+    "correctIndex": 2
   },
+
   {
     "id": "q41",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule mer sans littoral ?",
-    "answers": [
-      "Mer Rouge",
-      "Mer Caspienne",
-      "Mer Noire",
-      "Mer Sargasso"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal est capable de détecter des vibrations via son corps et ses pattes ?",
+    "answers": ["Araignée", "Abeille", "Mouche", "Papillon"],
+    "correctIndex": 0
   },
   {
     "id": "q42",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel fruit était connu comme 'pomme d'amour' en France ?",
-    "answers": [
-      "Fraise",
-      "Tomate",
-      "Pomme",
-      "Cerise"
-    ],
+    "text": "Quel objet est utilisé pour mesurer la radioactivité ?",
+    "answers": ["Voltmètre", "Compteur Geiger", "Sismographe", "Spectromètre"],
     "correctIndex": 1
   },
   {
     "id": "q43",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule mer sans littoral ?",
-    "answers": [
-      "Mer Caspienne",
-      "Mer Sargasso",
-      "Mer Rouge",
-      "Mer Noire"
-    ],
+    "text": "Quel animal marin possède des organes électriques capables de produire une décharge ?",
+    "answers": ["Requin marteau", "Raie électrique", "Méduse", "Hippocampe"],
     "correctIndex": 1
   },
   {
     "id": "q44",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Chauve-souris",
-      "Écureuil volant",
-      "Paresseux",
-      "Colugo"
-    ],
-    "correctIndex": 0
+    "text": "Quelle partie du cerveau est fortement impliquée dans l’équilibre et la coordination ?",
+    "answers": ["Amygdale", "Hypothalamus", "Cortex frontal", "Cervelet"],
+    "correctIndex": 3
   },
   {
     "id": "q45",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel est le plus grand désert chaud du monde ?",
-    "answers": [
-      "Kalahari",
-      "Sahara",
-      "Mojave",
-      "Gobi"
-    ],
+    "text": "Quel phénomène explique que la Lune nous montre presque toujours la même face ?",
+    "answers": ["Révolution rétrograde", "Rotation synchrone", "Précession", "Tidal slingshot"],
     "correctIndex": 1
   },
   {
     "id": "q46",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle ville est bâtie sur 118 petites îles reliées par des ponts ?",
-    "answers": [
-      "Bangkok",
-      "Venise",
-      "Bruges",
-      "Amsterdam"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal peut survivre plusieurs jours sans oxygène en ralentissant fortement son métabolisme ?",
+    "answers": ["Tortue peinte", "Chat", "Aigle", "Dauphin"],
+    "correctIndex": 0
   },
   {
     "id": "q47",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule planète du système solaire qui tourne sur le côté ?",
-    "answers": [
-      "Neptune",
-      "Uranus",
-      "Saturne",
-      "Vénus"
-    ],
+    "text": "Quelle substance est responsable du goût piquant du piment ?",
+    "answers": ["Menthol", "Capsaïcine", "Fructose", "Caféine"],
     "correctIndex": 1
   },
   {
     "id": "q48",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Colugo",
-      "Chauve-souris",
-      "Paresseux",
-      "Écureuil volant"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal peut détecter une proie grâce à l’écholocation ?",
+    "answers": ["Chauve-souris", "Ours", "Loup", "Cerf"],
+    "correctIndex": 0
   },
   {
     "id": "q49",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel animal peut dormir un an entier ?",
-    "answers": [
-      "Koala",
-      "Serpent",
-      "Ours",
-      "Escargot"
-    ],
-    "correctIndex": 3
+    "text": "Quel objet permet de mesurer la distance parcourue par un véhicule ?",
+    "answers": ["Tachymètre", "Odomètre", "Altimètre", "Chronomètre"],
+    "correctIndex": 1
   },
   {
     "id": "q50",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Écureuil volant",
-      "Paresseux",
-      "Chauve-souris",
-      "Colugo"
-    ],
+    "text": "Quel phénomène rend certaines roches capables d’attirer le fer naturellement ?",
+    "answers": ["Oxydation", "Fermentation", "Magnétisme", "Cristallisation"],
     "correctIndex": 2
   },
   {
     "id": "q51",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Chauve-souris",
-      "Écureuil volant",
-      "Colugo",
-      "Paresseux"
-    ],
+    "text": "Pourquoi un glaçon flotte-t-il sur l’eau ?",
+    "answers": ["La glace est moins dense que l’eau liquide", "La glace est plus chaude que l’eau", "L’eau repousse la glace par tension superficielle", "La glace contient de l’air comprimé"],
     "correctIndex": 0
   },
   {
     "id": "q52",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule mer sans littoral ?",
-    "answers": [
-      "Mer Noire",
-      "Mer Sargasso",
-      "Mer Caspienne",
-      "Mer Rouge"
-    ],
+    "text": "Quel gaz est le plus impliqué dans l’effet de serre naturel dominant ?",
+    "answers": ["Azote", "Vapeur d’eau", "Argon", "Hydrogène"],
     "correctIndex": 1
   },
   {
     "id": "q53",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Chauve-souris",
-      "Paresseux",
-      "Colugo",
-      "Écureuil volant"
-    ],
-    "correctIndex": 0
+    "text": "Quelle partie de l’œil régule la quantité de lumière entrante ?",
+    "answers": ["Cornée", "Cristallin", "Iris", "Rétine"],
+    "correctIndex": 2
   },
   {
     "id": "q54",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle ville est bâtie sur 118 petites îles reliées par des ponts ?",
-    "answers": [
-      "Venise",
-      "Amsterdam",
-      "Bruges",
-      "Bangkok"
-    ],
-    "correctIndex": 0
+    "text": "Quel insecte est célèbre pour “danser” afin d’indiquer une source de nourriture ?",
+    "answers": ["Guêpe", "Fourmi", "Libellule", "Abeille"],
+    "correctIndex": 3
   },
   {
     "id": "q55",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel est le plus grand désert chaud du monde ?",
-    "answers": [
-      "Mojave",
-      "Sahara",
-      "Kalahari",
-      "Gobi"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal peut survivre au gel complet de son corps en hiver grâce à des “antigels” naturels ?",
+    "answers": ["Grenouille des bois", "Tortue terrestre", "Hérisson", "Saumon"],
+    "correctIndex": 0
   },
   {
     "id": "q56",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule planète du système solaire qui tourne sur le côté ?",
-    "answers": [
-      "Neptune",
-      "Uranus",
-      "Vénus",
-      "Saturne"
-    ],
+    "text": "Quelle échelle est traditionnellement associée à la magnitude des séismes ?",
+    "answers": ["Kelvin", "Richter", "Beaufort", "Mohs"],
     "correctIndex": 1
   },
   {
     "id": "q57",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel est l'instrument de musique le plus grand du monde ?",
-    "answers": [
-      "Tuba",
-      "Piano",
-      "Orgue",
-      "Harpe"
-    ],
+    "text": "Quel organe joue un rôle central dans la détoxification de nombreuses substances ?",
+    "answers": ["Rate", "Rein", "Foie", "Vésicule biliaire"],
     "correctIndex": 2
   },
   {
     "id": "q58",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Martinet",
-      "Faucon pèlerin",
-      "Albatros",
-      "Aigle royal"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal peut modifier très vite sa couleur et aussi la texture de sa peau pour se camoufler ?",
+    "answers": ["Caméléon", "Poulpe", "Grenouille", "Seiche"],
+    "correctIndex": 3
   },
   {
     "id": "q59",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle ville est bâtie sur 118 petites îles reliées par des ponts ?",
-    "answers": [
-      "Bangkok",
-      "Amsterdam",
-      "Bruges",
-      "Venise"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène optique explique les couleurs séparées dans un arc-en-ciel ?",
+    "answers": ["Dispersion de la lumière", "Diffusion Rayleigh", "Interférences", "Polarisation"],
+    "correctIndex": 0
   },
   {
     "id": "q60",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel animal peut dormir un an entier ?",
-    "answers": [
-      "Ours",
-      "Koala",
-      "Serpent",
-      "Escargot"
-    ],
-    "correctIndex": 3
+    "text": "Quel pigment protégeant la peau des UV est responsable du bronzage ?",
+    "answers": ["Kératine", "Mélanine", "Hémoglobine", "Chlorophylle"],
+    "correctIndex": 1
   },
   {
     "id": "q61",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule mer sans littoral ?",
-    "answers": [
-      "Mer Rouge",
-      "Mer Sargasso",
-      "Mer Noire",
-      "Mer Caspienne"
-    ],
-    "correctIndex": 1
+    "text": "De quel élément chimique un diamant est-il principalement constitué ?",
+    "answers": ["Silicium", "Soufre", "Carbone", "Calcium"],
+    "correctIndex": 2
   },
   {
     "id": "q62",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule mer sans littoral ?",
-    "answers": [
-      "Mer Rouge",
-      "Mer Sargasso",
-      "Mer Caspienne",
-      "Mer Noire"
-    ],
-    "correctIndex": 1
+    "text": "Quel organisme est connu pour produire de la lumière par bioluminescence ?",
+    "answers": ["Criquet", "Papillon", "Fourmi", "Luciole"],
+    "correctIndex": 3
   },
   {
     "id": "q63",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Paresseux",
-      "Écureuil volant",
-      "Colugo",
-      "Chauve-souris"
-    ],
-    "correctIndex": 3
+    "text": "Quelle particule possède une charge électrique négative ?",
+    "answers": ["Électron", "Proton", "Neutron", "Photon"],
+    "correctIndex": 0
   },
   {
     "id": "q64",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel est l'instrument de musique le plus grand du monde ?",
-    "answers": [
-      "Orgue",
-      "Piano",
-      "Harpe",
-      "Tuba"
-    ],
-    "correctIndex": 0
+    "text": "Quel organe sensoriel est le plus directement impliqué dans l’équilibre ?",
+    "answers": ["Œil", "Oreille interne", "Peau", "Nez"],
+    "correctIndex": 1
   },
   {
     "id": "q65",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Chauve-souris",
-      "Colugo",
-      "Écureuil volant",
-      "Paresseux"
-    ],
-    "correctIndex": 0
+    "text": "Quel type d’énergie est stockée dans un ressort comprimé ?",
+    "answers": ["Énergie thermique", "Énergie chimique", "Énergie potentielle élastique", "Énergie lumineuse"],
+    "correctIndex": 2
   },
   {
     "id": "q66",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule planète du système solaire qui tourne sur le côté ?",
-    "answers": [
-      "Uranus",
-      "Saturne",
-      "Neptune",
-      "Vénus"
-    ],
-    "correctIndex": 0
+    "text": "Quel animal peut entrer en cryptobiose (survie extrême en conditions hostiles) ?",
+    "answers": ["Mille-pattes", "Escargot", "Abeille", "Tardigrade"],
+    "correctIndex": 3
   },
   {
     "id": "q67",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Aigle royal",
-      "Albatros",
-      "Faucon pèlerin",
-      "Martinet"
-    ],
-    "correctIndex": 2
+    "text": "Quelle unité mesure une force en physique ?",
+    "answers": ["Newton", "Joule", "Watt", "Pascal"],
+    "correctIndex": 0
   },
   {
     "id": "q68",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel est l'instrument de musique le plus grand du monde ?",
-    "answers": [
-      "Tuba",
-      "Orgue",
-      "Harpe",
-      "Piano"
-    ],
+    "text": "Comment s’appelle la science qui étudie les champignons ?",
+    "answers": ["Botanique", "Mycologie", "Entomologie", "Ichtyologie"],
     "correctIndex": 1
   },
   {
     "id": "q69",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel animal peut dormir un an entier ?",
-    "answers": [
-      "Escargot",
-      "Koala",
-      "Ours",
-      "Serpent"
-    ],
-    "correctIndex": 0
+    "text": "Quelle partie de l’atome concentre l’essentiel de sa masse ?",
+    "answers": ["Nuage électronique", "Orbitales", "Noyau", "Couches de valence"],
+    "correctIndex": 2
   },
   {
     "id": "q70",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle ville est bâtie sur 118 petites îles reliées par des ponts ?",
-    "answers": [
-      "Venise",
-      "Bangkok",
-      "Amsterdam",
-      "Bruges"
-    ],
-    "correctIndex": 0
+    "text": "Quel type de nuage est le plus associé aux orages violents ?",
+    "answers": ["Cirrus", "Stratus", "Cumulus", "Cumulonimbus"],
+    "correctIndex": 3
   },
   {
     "id": "q71",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Écureuil volant",
-      "Chauve-souris",
-      "Paresseux",
-      "Colugo"
-    ],
-    "correctIndex": 1
+    "text": "Quel instrument domestique utilise des micro-ondes pour chauffer des aliments ?",
+    "answers": ["Four à micro-ondes", "Grille-pain", "Plaque à induction", "Airfryer"],
+    "correctIndex": 0
   },
   {
     "id": "q72",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule mer sans littoral ?",
-    "answers": [
-      "Mer Noire",
-      "Mer Sargasso",
-      "Mer Caspienne",
-      "Mer Rouge"
-    ],
+    "text": "Quel terme désigne un animal actif principalement la nuit ?",
+    "answers": ["Diurne", "Nocturne", "Crépusculaire", "Fossorial"],
     "correctIndex": 1
   },
   {
     "id": "q73",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel fruit était connu comme 'pomme d'amour' en France ?",
-    "answers": [
-      "Pomme",
-      "Tomate",
-      "Fraise",
-      "Cerise"
-    ],
-    "correctIndex": 1
+    "text": "Quelle grande artère sort du cœur pour distribuer le sang oxygéné ?",
+    "answers": ["Veine cave", "Carotide", "Aorte", "Jugulaire"],
+    "correctIndex": 2
   },
   {
     "id": "q74",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Aigle royal",
-      "Faucon pèlerin",
-      "Martinet",
-      "Albatros"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal détecte l’infrarouge grâce à des organes spécialisés chez certaines espèces ?",
+    "answers": ["Aigle", "Chat", "Chien", "Crotale (serpent à sonnette)"],
+    "correctIndex": 3
   },
   {
     "id": "q75",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle ville est bâtie sur 118 petites îles reliées par des ponts ?",
-    "answers": [
-      "Bruges",
-      "Bangkok",
-      "Venise",
-      "Amsterdam"
-    ],
-    "correctIndex": 2
+    "text": "Comment s’appelle la transformation du sucre en alcool par des levures ?",
+    "answers": ["Fermentation", "Distillation", "Sublimation", "Électrolyse"],
+    "correctIndex": 0
   },
   {
     "id": "q76",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel fruit était connu comme 'pomme d'amour' en France ?",
-    "answers": [
-      "Cerise",
-      "Pomme",
-      "Tomate",
-      "Fraise"
-    ],
-    "correctIndex": 2
+    "text": "Quel métal est généralement le meilleur conducteur électrique parmi ces choix ?",
+    "answers": ["Fer", "Argent", "Aluminium", "Titane"],
+    "correctIndex": 1
   },
   {
     "id": "q77",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel fruit était connu comme 'pomme d'amour' en France ?",
-    "answers": [
-      "Tomate",
-      "Fraise",
-      "Pomme",
-      "Cerise"
-    ],
-    "correctIndex": 0
+    "text": "Quel terme désigne la peur irrationnelle des araignées ?",
+    "answers": ["Agoraphobie", "Acrophobie", "Arachnophobie", "Cynophobie"],
+    "correctIndex": 2
   },
   {
     "id": "q78",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Colugo",
-      "Écureuil volant",
-      "Paresseux",
-      "Chauve-souris"
-    ],
+    "text": "Quel animal est réputé pour revenir pondre près de sa zone de naissance après de longues migrations ?",
+    "answers": ["Hirondelle", "Saumon", "Manchot", "Tortue marine"],
     "correctIndex": 3
   },
   {
     "id": "q79",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel fruit était connu comme 'pomme d'amour' en France ?",
-    "answers": [
-      "Tomate",
-      "Pomme",
-      "Fraise",
-      "Cerise"
-    ],
+    "text": "Quel phénomène explique la formation de rosée au petit matin ?",
+    "answers": ["Condensation", "Évaporation", "Sublimation", "Fusion"],
     "correctIndex": 0
   },
   {
     "id": "q80",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Faucon pèlerin",
-      "Aigle royal",
-      "Martinet",
-      "Albatros"
-    ],
-    "correctIndex": 0
+    "text": "Comment s’appelle la science qui étudie les insectes ?",
+    "answers": ["Mycologie", "Entomologie", "Ornithologie", "Herpétologie"],
+    "correctIndex": 1
   },
   {
     "id": "q81",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel est l'instrument de musique le plus grand du monde ?",
-    "answers": [
-      "Piano",
-      "Orgue",
-      "Tuba",
-      "Harpe"
-    ],
-    "correctIndex": 1
+    "text": "Quelle substance minérale contribue fortement à la rigidité des os ?",
+    "answers": ["Cellulose", "Kératine", "Hydroxyapatite", "Silice"],
+    "correctIndex": 2
   },
   {
     "id": "q82",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule planète du système solaire qui tourne sur le côté ?",
-    "answers": [
-      "Vénus",
-      "Uranus",
-      "Saturne",
-      "Neptune"
-    ],
-    "correctIndex": 1
+    "text": "Quel est le nom de la couche externe protectrice d’un arbre ?",
+    "answers": ["Xylème", "Phloème", "Cambium", "Écorce"],
+    "correctIndex": 3
   },
   {
     "id": "q83",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Albatros",
-      "Faucon pèlerin",
-      "Martinet",
-      "Aigle royal"
-    ],
-    "correctIndex": 1
+    "text": "Quel phénomène explique l’électricité statique après avoir frotté un pull ?",
+    "answers": ["Effet triboélectrique", "Effet Doppler", "Effet Coriolis", "Effet Joule"],
+    "correctIndex": 0
   },
   {
     "id": "q84",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Albatros",
-      "Faucon pèlerin",
-      "Aigle royal",
-      "Martinet"
-    ],
+    "text": "Quel terme décrit un animal vivant à la fois sur terre et dans l’eau ?",
+    "answers": ["Aérien", "Amphibie", "Terrestre", "Pélagique"],
     "correctIndex": 1
   },
   {
     "id": "q85",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel fruit était connu comme 'pomme d'amour' en France ?",
-    "answers": [
-      "Tomate",
-      "Fraise",
-      "Pomme",
-      "Cerise"
-    ],
-    "correctIndex": 0
+    "text": "Quel organe est principalement responsable de la production d’insuline ?",
+    "answers": ["Foie", "Rate", "Pancréas", "Vésicule biliaire"],
+    "correctIndex": 2
   },
   {
     "id": "q86",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel animal peut dormir un an entier ?",
-    "answers": [
-      "Serpent",
-      "Ours",
-      "Escargot",
-      "Koala"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal est connu pour sa “danse” nuptiale spectaculaire avec étalage de plumes ?",
+    "answers": ["Mésange", "Moineau", "Corbeau", "Paon"],
+    "correctIndex": 3
   },
   {
     "id": "q87",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel pays a inventé les skis ?",
-    "answers": [
-      "Canada",
-      "Suisse",
-      "Norvège",
-      "Suède"
-    ],
-    "correctIndex": 2
+    "text": "Comment s’appelle l’échelle qui mesure la dureté des minéraux ?",
+    "answers": ["Échelle de Mohs", "Échelle de Richter", "Échelle de Beaufort", "Échelle de Kelvin"],
+    "correctIndex": 0
   },
   {
     "id": "q88",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel est le plus grand désert chaud du monde ?",
-    "answers": [
-      "Mojave",
-      "Kalahari",
-      "Sahara",
-      "Gobi"
-    ],
-    "correctIndex": 2
+    "text": "Quel terme désigne le passage direct d’un solide à un gaz ?",
+    "answers": ["Fusion", "Sublimation", "Condensation", "Vaporisation"],
+    "correctIndex": 1
   },
   {
     "id": "q89",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule planète du système solaire qui tourne sur le côté ?",
-    "answers": [
-      "Vénus",
-      "Uranus",
-      "Neptune",
-      "Saturne"
-    ],
-    "correctIndex": 1
+    "text": "Quel organe est responsable de la filtration du sang pour former l’urine ?",
+    "answers": ["Poumons", "Foie", "Reins", "Estomac"],
+    "correctIndex": 2
   },
   {
     "id": "q90",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel est l'instrument de musique le plus grand du monde ?",
-    "answers": [
-      "Harpe",
-      "Piano",
-      "Orgue",
-      "Tuba"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal possède un “sixième sens” électrique pour détecter ses proies dans l’eau ?",
+    "answers": ["Truite", "Dauphin", "Mérou", "Requin"],
+    "correctIndex": 3
   },
   {
     "id": "q91",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle ville est bâtie sur 118 petites îles reliées par des ponts ?",
-    "answers": [
-      "Bangkok",
-      "Bruges",
-      "Amsterdam",
-      "Venise"
-    ],
-    "correctIndex": 3
+    "text": "Quel est le nom de l’exosquelette des insectes, constitué de chitine ?",
+    "answers": ["Cuticule", "Moelle", "Os", "Cartilage"],
+    "correctIndex": 0
   },
   {
     "id": "q92",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel animal peut dormir un an entier ?",
-    "answers": [
-      "Serpent",
-      "Ours",
-      "Escargot",
-      "Koala"
-    ],
-    "correctIndex": 2
+    "text": "Quel terme désigne la vitesse du son dans un milieu (par exemple l’air) ?",
+    "answers": ["Réfraction", "Célérité", "Inertie", "Conductance"],
+    "correctIndex": 1
   },
   {
     "id": "q93",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Chauve-souris",
-      "Écureuil volant",
-      "Paresseux",
-      "Colugo"
-    ],
-    "correctIndex": 0
+    "text": "Quel est le nom de la zone de transition entre deux plaques tectoniques ?",
+    "answers": ["Dorsale", "Strate", "Faille", "Delta"],
+    "correctIndex": 2
   },
   {
     "id": "q94",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule planète du système solaire qui tourne sur le côté ?",
-    "answers": [
-      "Vénus",
-      "Uranus",
-      "Saturne",
-      "Neptune"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal est le plus connu pour sa capacité à produire une onde de choc sous l’eau avec une pince ?",
+    "answers": ["Crabe", "Homard", "Étoile de mer", "Crevette-pistolet"],
+    "correctIndex": 3
   },
   {
     "id": "q95",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel fruit était connu comme 'pomme d'amour' en France ?",
-    "answers": [
-      "Tomate",
-      "Fraise",
-      "Pomme",
-      "Cerise"
-    ],
+    "text": "Comment s’appelle le passage d’un liquide à un gaz à la surface, à température modérée ?",
+    "answers": ["Évaporation", "Ébullition", "Fusion", "Solidification"],
     "correctIndex": 0
   },
   {
     "id": "q96",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel pays a inventé les skis ?",
-    "answers": [
-      "Canada",
-      "Suède",
-      "Norvège",
-      "Suisse"
-    ],
-    "correctIndex": 2
+    "text": "Quel terme désigne l’étude des oiseaux ?",
+    "answers": ["Herpétologie", "Ornithologie", "Ichtyologie", "Primatologie"],
+    "correctIndex": 1
   },
   {
     "id": "q97",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule mer sans littoral ?",
-    "answers": [
-      "Mer Sargasso",
-      "Mer Caspienne",
-      "Mer Noire",
-      "Mer Rouge"
-    ],
-    "correctIndex": 0
+    "text": "Quel est le principal gaz de l’atmosphère terrestre ?",
+    "answers": ["Oxygène", "Argon", "Azote", "Dioxyde de carbone"],
+    "correctIndex": 2
   },
   {
     "id": "q98",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel fruit était connu comme 'pomme d'amour' en France ?",
-    "answers": [
-      "Tomate",
-      "Pomme",
-      "Cerise",
-      "Fraise"
-    ],
-    "correctIndex": 0
+    "text": "Quel instrument sert à mesurer la pression atmosphérique ?",
+    "answers": ["Thermomètre", "Altimètre", "Hygromètre", "Baromètre"],
+    "correctIndex": 3
   },
   {
     "id": "q99",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Albatros",
-      "Martinet",
-      "Aigle royal",
-      "Faucon pèlerin"
-    ],
-    "correctIndex": 3
+    "text": "Quel terme désigne le “bruit” cardiaque principal (fermeture des valves) au stéthoscope ?",
+    "answers": ["Bruit du cœur", "Murmure vésiculaire", "Péristaltisme", "Réflexe myotatique"],
+    "correctIndex": 0
   },
   {
     "id": "q100",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel est l'instrument de musique le plus grand du monde ?",
-    "answers": [
-      "Tuba",
-      "Harpe",
-      "Orgue",
-      "Piano"
-    ],
-    "correctIndex": 2
+    "text": "Quel est le nom de la fine couche d’ozone concentrée dans la stratosphère ?",
+    "answers": ["Troposphère", "Ozonosphère", "Thermosphère", "Ionosphère"],
+    "correctIndex": 1
   },
   {
     "id": "q101",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Martinet",
-      "Faucon pèlerin",
-      "Aigle royal",
-      "Albatros"
-    ],
-    "correctIndex": 1
+    "text": "Quelle partie du cerveau est principalement impliquée dans la mémoire à long terme ?",
+    "answers": ["Cortex moteur", "Cervelet", "Hippocampe", "Tronc cérébral"],
+    "correctIndex": 2
   },
   {
     "id": "q102",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule mer sans littoral ?",
-    "answers": [
-      "Mer Caspienne",
-      "Mer Rouge",
-      "Mer Sargasso",
-      "Mer Noire"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal est capable de reconnaître son reflet dans un miroir selon certaines études ?",
+    "answers": ["Chat", "Chien", "Pigeon", "Dauphin"],
+    "correctIndex": 3
   },
   {
     "id": "q103",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Martinet",
-      "Albatros",
-      "Faucon pèlerin",
-      "Aigle royal"
-    ],
-    "correctIndex": 2
+    "text": "Quel phénomène explique que certains sons semblent plus aigus quand la source se rapproche ?",
+    "answers": ["Effet Doppler", "Résonance", "Diffraction", "Interférence"],
+    "correctIndex": 0
   },
   {
     "id": "q104",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Chauve-souris",
-      "Colugo",
-      "Paresseux",
-      "Écureuil volant"
-    ],
-    "correctIndex": 0
+    "text": "Quel type de roche se forme à partir du refroidissement du magma ?",
+    "answers": ["Sédimentaire", "Magmatique", "Métamorphique", "Calcaire"],
+    "correctIndex": 1
   },
   {
     "id": "q105",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel fruit était connu comme 'pomme d'amour' en France ?",
-    "answers": [
-      "Fraise",
-      "Tomate",
-      "Cerise",
-      "Pomme"
-    ],
-    "correctIndex": 1
+    "text": "Quel gaz est utilisé dans certains panneaux lumineux pour produire une lumière rouge ?",
+    "answers": ["Argon", "Xénon", "Néon", "Krypton"],
+    "correctIndex": 2
   },
   {
     "id": "q106",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel fruit était connu comme 'pomme d'amour' en France ?",
-    "answers": [
-      "Cerise",
-      "Fraise",
-      "Tomate",
-      "Pomme"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal possède une langue capable de se projeter plus longue que son corps ?",
+    "answers": ["Grenouille", "Caméléon", "Serpent", "Fourmilier"],
+    "correctIndex": 3
   },
   {
     "id": "q107",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule planète du système solaire qui tourne sur le côté ?",
-    "answers": [
-      "Neptune",
-      "Saturne",
-      "Uranus",
-      "Vénus"
-    ],
-    "correctIndex": 2
+    "text": "Quel instrument permet de mesurer l’intensité lumineuse ?",
+    "answers": ["Luxmètre", "Baromètre", "Hygromètre", "Altimètre"],
+    "correctIndex": 0
   },
   {
     "id": "q108",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule mer sans littoral ?",
-    "answers": [
-      "Mer Sargasso",
-      "Mer Noire",
-      "Mer Caspienne",
-      "Mer Rouge"
-    ],
-    "correctIndex": 0
+    "text": "Quel organe humain consomme proportionnellement le plus d’énergie au repos ?",
+    "answers": ["Foie", "Cerveau", "Cœur", "Poumons"],
+    "correctIndex": 1
   },
   {
     "id": "q109",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule mer sans littoral ?",
-    "answers": [
-      "Mer Caspienne",
-      "Mer Rouge",
-      "Mer Noire",
-      "Mer Sargasso"
-    ],
-    "correctIndex": 3
+    "text": "Quel métal est naturellement attiré par un aimant ?",
+    "answers": ["Cuivre", "Aluminium", "Fer", "Or"],
+    "correctIndex": 2
   },
   {
     "id": "q110",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel pays a inventé les skis ?",
-    "answers": [
-      "Suisse",
-      "Norvège",
-      "Canada",
-      "Suède"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal peut produire un champ électrique pour se défendre ou chasser ?",
+    "answers": ["Requin", "Anguille électrique", "Raie manta", "Poisson-clown"],
+    "correctIndex": 3
   },
+
   {
     "id": "q111",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Paresseux",
-      "Colugo",
-      "Chauve-souris",
-      "Écureuil volant"
-    ],
-    "correctIndex": 2
+    "text": "Quel phénomène permet à certains avions de décoller malgré leur masse élevée ?",
+    "answers": ["Portance", "Traction", "Inertie", "Gravitation"],
+    "correctIndex": 0
   },
   {
     "id": "q112",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule mer sans littoral ?",
-    "answers": [
-      "Mer Sargasso",
-      "Mer Noire",
-      "Mer Caspienne",
-      "Mer Rouge"
-    ],
-    "correctIndex": 0
+    "text": "Quel type d’énergie est associée au mouvement ?",
+    "answers": ["Potentielle", "Cinétique", "Thermique", "Nucléaire"],
+    "correctIndex": 1
   },
   {
     "id": "q113",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Albatros",
-      "Faucon pèlerin",
-      "Martinet",
-      "Aigle royal"
-    ],
-    "correctIndex": 1
+    "text": "Quel organe permet principalement la respiration chez l’être humain ?",
+    "answers": ["Bronches", "Trachée", "Poumons", "Diaphragme"],
+    "correctIndex": 2
   },
   {
     "id": "q114",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel pays a inventé les skis ?",
-    "answers": [
-      "Norvège",
-      "Suède",
-      "Canada",
-      "Suisse"
-    ],
-    "correctIndex": 0
+    "text": "Quel animal est connu pour stocker des provisions dans ses bajoues ?",
+    "answers": ["Écureuil", "Hamster", "Souris", "Rat"],
+    "correctIndex": 3
   },
   {
     "id": "q115",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Chauve-souris",
-      "Colugo",
-      "Écureuil volant",
-      "Paresseux"
-    ],
+    "text": "Quelle substance est responsable du goût amer du café ?",
+    "answers": ["Caféine", "Glucose", "Amidon", "Fructose"],
     "correctIndex": 0
   },
   {
     "id": "q116",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel est l'instrument de musique le plus grand du monde ?",
-    "answers": [
-      "Harpe",
-      "Piano",
-      "Orgue",
-      "Tuba"
-    ],
-    "correctIndex": 2
+    "text": "Quel appareil sert à mesurer le temps avec une grande précision scientifique ?",
+    "answers": ["Chronomètre", "Horloge atomique", "Sablier", "Montre mécanique"],
+    "correctIndex": 1
   },
   {
     "id": "q117",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel pays a inventé les skis ?",
-    "answers": [
-      "Norvège",
-      "Suède",
-      "Canada",
-      "Suisse"
-    ],
-    "correctIndex": 0
+    "text": "Quel type de cellule sanguine est responsable du transport de l’oxygène ?",
+    "answers": ["Globule blanc", "Plaquette", "Globule rouge", "Lymphocyte"],
+    "correctIndex": 2
   },
   {
     "id": "q118",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Faucon pèlerin",
-      "Aigle royal",
-      "Martinet",
-      "Albatros"
-    ],
-    "correctIndex": 0
+    "text": "Quel animal est capable de respirer à la fois dans l’eau et sur terre ?",
+    "answers": ["Poisson", "Serpent", "Grenouille", "Tortue"],
+    "correctIndex": 3
   },
   {
     "id": "q119",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel pays a inventé les skis ?",
-    "answers": [
-      "Norvège",
-      "Suisse",
-      "Canada",
-      "Suède"
-    ],
+    "text": "Quel phénomène explique la propagation des vagues à la surface de l’eau ?",
+    "answers": ["Oscillation", "Gravitation", "Diffusion", "Réfraction"],
     "correctIndex": 0
   },
   {
     "id": "q120",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel est l'instrument de musique le plus grand du monde ?",
-    "answers": [
-      "Orgue",
-      "Piano",
-      "Harpe",
-      "Tuba"
-    ],
-    "correctIndex": 0
+    "text": "Quel organe est responsable de la production de bile ?",
+    "answers": ["Pancréas", "Foie", "Rate", "Intestin"],
+    "correctIndex": 1
   },
+
   {
     "id": "q121",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle ville est bâtie sur 118 petites îles reliées par des ponts ?",
-    "answers": [
-      "Bangkok",
-      "Amsterdam",
-      "Bruges",
-      "Venise"
-    ],
-    "correctIndex": 3
+    "text": "Quel matériau est principalement utilisé pour fabriquer des fibres optiques ?",
+    "answers": ["Plastique", "Cuivre", "Silice", "Aluminium"],
+    "correctIndex": 2
   },
   {
     "id": "q122",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Aigle royal",
-      "Martinet",
-      "Albatros",
-      "Faucon pèlerin"
-    ],
+    "text": "Quel animal peut entrer en hibernation pour économiser son énergie ?",
+    "answers": ["Cheval", "Oiseau", "Vache", "Ours"],
     "correctIndex": 3
   },
   {
     "id": "q123",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel est le plus grand désert chaud du monde ?",
-    "answers": [
-      "Sahara",
-      "Kalahari",
-      "Mojave",
-      "Gobi"
-    ],
+    "text": "Quel instrument sert à mesurer les séismes ?",
+    "answers": ["Sismographe", "Baromètre", "Altimètre", "Thermomètre"],
     "correctIndex": 0
   },
   {
     "id": "q124",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Colugo",
-      "Chauve-souris",
-      "Paresseux",
-      "Écureuil volant"
-    ],
+    "text": "Quel type de rayonnement est utilisé pour produire des images médicales en radiographie ?",
+    "answers": ["Ultraviolet", "Rayons X", "Infrarouge", "Micro-ondes"],
     "correctIndex": 1
   },
   {
     "id": "q125",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel pays a inventé les skis ?",
-    "answers": [
-      "Canada",
-      "Norvège",
-      "Suisse",
-      "Suède"
-    ],
-    "correctIndex": 1
+    "text": "Quelle molécule est la principale source d’énergie immédiate des cellules ?",
+    "answers": ["ADN", "ARN", "ATP", "Glucose"],
+    "correctIndex": 2
   },
   {
     "id": "q126",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Martinet",
-      "Aigle royal",
-      "Faucon pèlerin",
-      "Albatros"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal est célèbre pour sa capacité à grimper sur des surfaces verticales lisses ?",
+    "answers": ["Araignée", "Lézard gecko", "Serpent", "Singe"],
+    "correctIndex": 3
   },
   {
     "id": "q127",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule planète du système solaire qui tourne sur le côté ?",
-    "answers": [
-      "Uranus",
-      "Vénus",
-      "Neptune",
-      "Saturne"
-    ],
+    "text": "Quel phénomène provoque la chute des feuilles en automne chez de nombreux arbres ?",
+    "answers": ["Photopériodisme", "Photosynthèse", "Germination", "Transpiration"],
     "correctIndex": 0
   },
   {
     "id": "q128",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle ville est bâtie sur 118 petites îles reliées par des ponts ?",
-    "answers": [
-      "Amsterdam",
-      "Venise",
-      "Bruges",
-      "Bangkok"
-    ],
+    "text": "Quel organe humain est principalement responsable de la vision ?",
+    "answers": ["Cristallin", "Œil", "Nerf optique", "Rétine"],
     "correctIndex": 1
   },
   {
     "id": "q129",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel est l'instrument de musique le plus grand du monde ?",
-    "answers": [
-      "Piano",
-      "Tuba",
-      "Orgue",
-      "Harpe"
-    ],
+    "text": "Quel élément chimique est indispensable à la respiration cellulaire ?",
+    "answers": ["Azote", "Hydrogène", "Oxygène", "Carbone"],
     "correctIndex": 2
   },
   {
     "id": "q130",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel fruit était connu comme 'pomme d'amour' en France ?",
-    "answers": [
-      "Tomate",
-      "Pomme",
-      "Cerise",
-      "Fraise"
-    ],
-    "correctIndex": 0
+    "text": "Quel animal est connu pour utiliser des outils dans la nature ?",
+    "answers": ["Chat", "Chien", "Cheval", "Chimpanzé"],
+    "correctIndex": 3
   },
+
   {
     "id": "q131",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule planète du système solaire qui tourne sur le côté ?",
-    "answers": [
-      "Neptune",
-      "Vénus",
-      "Uranus",
-      "Saturne"
-    ],
-    "correctIndex": 2
+    "text": "Quel phénomène explique la variation des saisons sur Terre ?",
+    "answers": ["Inclinaison de l’axe terrestre", "Distance au Soleil", "Rotation terrestre", "Activité solaire"],
+    "correctIndex": 0
   },
   {
     "id": "q132",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel est le plus grand désert chaud du monde ?",
-    "answers": [
-      "Gobi",
-      "Sahara",
-      "Kalahari",
-      "Mojave"
-    ],
+    "text": "Quel organe est responsable de la filtration de l’air inspiré ?",
+    "answers": ["Poumons", "Nez", "Bronches", "Trachée"],
     "correctIndex": 1
   },
   {
     "id": "q133",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel est le plus grand désert chaud du monde ?",
-    "answers": [
-      "Kalahari",
-      "Gobi",
-      "Sahara",
-      "Mojave"
-    ],
+    "text": "Quel type d’énergie est stocké dans les aliments ?",
+    "answers": ["Thermique", "Nucléaire", "Chimique", "Cinétique"],
     "correctIndex": 2
   },
   {
     "id": "q134",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule mer sans littoral ?",
-    "answers": [
-      "Mer Noire",
-      "Mer Caspienne",
-      "Mer Sargasso",
-      "Mer Rouge"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal est capable de parcourir de très longues distances sans boire ?",
+    "answers": ["Cheval", "Chèvre", "Mouton", "Chameau"],
+    "correctIndex": 3
   },
   {
     "id": "q135",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle ville est bâtie sur 118 petites îles reliées par des ponts ?",
-    "answers": [
-      "Venise",
-      "Bruges",
-      "Bangkok",
-      "Amsterdam"
-    ],
+    "text": "Quel phénomène permet aux plantes de capter l’énergie solaire ?",
+    "answers": ["Photosynthèse", "Respiration", "Transpiration", "Fermentation"],
     "correctIndex": 0
   },
   {
     "id": "q136",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel fruit était connu comme 'pomme d'amour' en France ?",
-    "answers": [
-      "Tomate",
-      "Fraise",
-      "Pomme",
-      "Cerise"
-    ],
-    "correctIndex": 0
+    "text": "Quel appareil est utilisé pour mesurer la température ?",
+    "answers": ["Baromètre", "Thermomètre", "Altimètre", "Hygromètre"],
+    "correctIndex": 1
   },
   {
     "id": "q137",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Aigle royal",
-      "Albatros",
-      "Faucon pèlerin",
-      "Martinet"
-    ],
+    "text": "Quel gaz est indispensable à la combustion ?",
+    "answers": ["Azote", "Dioxyde de carbone", "Oxygène", "Hydrogène"],
     "correctIndex": 2
   },
   {
     "id": "q138",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle ville est bâtie sur 118 petites îles reliées par des ponts ?",
-    "answers": [
-      "Bruges",
-      "Venise",
-      "Bangkok",
-      "Amsterdam"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal est capable de communiquer par ultrasons ?",
+    "answers": ["Chien", "Chat", "Cheval", "Chauve-souris"],
+    "correctIndex": 3
   },
   {
     "id": "q139",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle ville est bâtie sur 118 petites îles reliées par des ponts ?",
-    "answers": [
-      "Amsterdam",
-      "Venise",
-      "Bruges",
-      "Bangkok"
-    ],
-    "correctIndex": 1
+    "text": "Quel phénomène explique la propagation de la chaleur dans un solide ?",
+    "answers": ["Conduction", "Convection", "Rayonnement", "Diffusion"],
+    "correctIndex": 0
   },
   {
     "id": "q140",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule mer sans littoral ?",
-    "answers": [
-      "Mer Sargasso",
-      "Mer Noire",
-      "Mer Caspienne",
-      "Mer Rouge"
-    ],
-    "correctIndex": 0
+    "text": "Quel organe humain est principalement responsable de l’audition ?",
+    "answers": ["Oreille", "Œil", "Nez", "Cerveau"],
+    "correctIndex": 1
   },
+
   {
     "id": "q141",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule mer sans littoral ?",
-    "answers": [
-      "Mer Sargasso",
-      "Mer Caspienne",
-      "Mer Noire",
-      "Mer Rouge"
-    ],
-    "correctIndex": 0
+    "text": "Quel type de roche résulte de la transformation d’une roche existante sous pression et chaleur ?",
+    "answers": ["Sédimentaire", "Magmatique", "Métamorphique", "Volcanique"],
+    "correctIndex": 2
   },
   {
     "id": "q142",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel est le plus grand désert chaud du monde ?",
-    "answers": [
-      "Kalahari",
-      "Gobi",
-      "Mojave",
-      "Sahara"
-    ],
+    "text": "Quel animal est capable de se régénérer après la perte d’un membre ?",
+    "answers": ["Chien", "Chat", "Cheval", "Étoile de mer"],
     "correctIndex": 3
   },
   {
     "id": "q143",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Martinet",
-      "Albatros",
-      "Faucon pèlerin",
-      "Aigle royal"
-    ],
-    "correctIndex": 2
+    "text": "Quel phénomène explique la réflexion de la lumière sur un miroir ?",
+    "answers": ["Réflexion", "Réfraction", "Diffraction", "Absorption"],
+    "correctIndex": 0
   },
   {
     "id": "q144",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel animal peut dormir un an entier ?",
-    "answers": [
-      "Escargot",
-      "Koala",
-      "Ours",
-      "Serpent"
-    ],
-    "correctIndex": 0
+    "text": "Quel organe est responsable de la production de la majorité des hormones ?",
+    "answers": ["Cerveau", "Glandes endocrines", "Foie", "Reins"],
+    "correctIndex": 1
   },
   {
     "id": "q145",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle ville est bâtie sur 118 petites îles reliées par des ponts ?",
-    "answers": [
-      "Bangkok",
-      "Venise",
-      "Bruges",
-      "Amsterdam"
-    ],
-    "correctIndex": 1
+    "text": "Quel élément chimique est présent dans l’eau potable ?",
+    "answers": ["Carbone", "Chlore", "Hydrogène", "Fer"],
+    "correctIndex": 2
   },
   {
     "id": "q146",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel fruit était connu comme 'pomme d'amour' en France ?",
-    "answers": [
-      "Tomate",
-      "Pomme",
-      "Fraise",
-      "Cerise"
-    ],
-    "correctIndex": 0
+    "text": "Quel animal est connu pour vivre en colonie très organisée avec une reine ?",
+    "answers": ["Termite", "Mouche", "Papillon", "Fourmi"],
+    "correctIndex": 3
   },
   {
     "id": "q147",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Albatros",
-      "Aigle royal",
-      "Martinet",
-      "Faucon pèlerin"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène permet à un liquide de monter dans un tube très fin ?",
+    "answers": ["Capillarité", "Pression", "Diffusion", "Évaporation"],
+    "correctIndex": 0
   },
   {
     "id": "q148",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel est l'instrument de musique le plus grand du monde ?",
-    "answers": [
-      "Tuba",
-      "Orgue",
-      "Harpe",
-      "Piano"
-    ],
+    "text": "Quel organe humain est principalement responsable du goût ?",
+    "answers": ["Nez", "Langue", "Dents", "Palais"],
     "correctIndex": 1
   },
   {
     "id": "q149",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel fruit était connu comme 'pomme d'amour' en France ?",
-    "answers": [
-      "Fraise",
-      "Pomme",
-      "Tomate",
-      "Cerise"
-    ],
+    "text": "Quel gaz est libéré lors de la respiration humaine ?",
+    "answers": ["Oxygène", "Azote", "Dioxyde de carbone", "Hydrogène"],
     "correctIndex": 2
   },
   {
     "id": "q150",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Paresseux",
-      "Colugo",
-      "Chauve-souris",
-      "Écureuil volant"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal est célèbre pour son sens de l’orientation exceptionnel lors des migrations ?",
+    "answers": ["Chien", "Chat", "Lapin", "Pigeon voyageur"],
+    "correctIndex": 3
   },
   {
     "id": "q151",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Paresseux",
-      "Colugo",
-      "Écureuil volant",
-      "Chauve-souris"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène permet à un son de se propager dans l’air ?",
+    "answers": ["Vibration", "Diffusion", "Rayonnement", "Condensation"],
+    "correctIndex": 0
   },
   {
     "id": "q152",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle ville est bâtie sur 118 petites îles reliées par des ponts ?",
-    "answers": [
-      "Amsterdam",
-      "Venise",
-      "Bruges",
-      "Bangkok"
-    ],
+    "text": "Quel organe humain est responsable de l’équilibre ?",
+    "answers": ["Cerveau", "Oreille interne", "Moelle épinière", "Cervelet"],
     "correctIndex": 1
   },
   {
     "id": "q153",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Aigle royal",
-      "Albatros",
-      "Martinet",
-      "Faucon pèlerin"
-    ],
-    "correctIndex": 3
+    "text": "Quel métal liquide est utilisé dans certains thermomètres traditionnels ?",
+    "answers": ["Plomb", "Mercure", "Étain", "Argent"],
+    "correctIndex": 2
   },
   {
     "id": "q154",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel animal peut dormir un an entier ?",
-    "answers": [
-      "Serpent",
-      "Escargot",
-      "Koala",
-      "Ours"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal est connu pour changer de couleur afin de se camoufler ?",
+    "answers": ["Serpent", "Grenouille", "Pieuvre", "Caméléon"],
+    "correctIndex": 3
   },
   {
     "id": "q155",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel fruit était connu comme 'pomme d'amour' en France ?",
-    "answers": [
-      "Fraise",
-      "Tomate",
-      "Pomme",
-      "Cerise"
-    ],
-    "correctIndex": 1
+    "text": "Quel phénomène explique la transformation de l’eau liquide en vapeur ?",
+    "answers": ["Évaporation", "Fusion", "Sublimation", "Condensation"],
+    "correctIndex": 0
   },
   {
     "id": "q156",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Chauve-souris",
-      "Écureuil volant",
-      "Paresseux",
-      "Colugo"
-    ],
-    "correctIndex": 0
+    "text": "Quel organe est principalement responsable de la détoxification du corps humain ?",
+    "answers": ["Reins", "Foie", "Poumons", "Rate"],
+    "correctIndex": 1
   },
   {
     "id": "q157",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel fruit était connu comme 'pomme d'amour' en France ?",
-    "answers": [
-      "Fraise",
-      "Cerise",
-      "Pomme",
-      "Tomate"
-    ],
-    "correctIndex": 3
+    "text": "Quel type d’onde est la lumière visible ?",
+    "answers": ["Mécanique", "Sonore", "Électromagnétique", "Sismique"],
+    "correctIndex": 2
   },
   {
     "id": "q158",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle ville est bâtie sur 118 petites îles reliées par des ponts ?",
-    "answers": [
-      "Bangkok",
-      "Venise",
-      "Amsterdam",
-      "Bruges"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal est capable de dormir pendant des mois lors de l’hibernation ?",
+    "answers": ["Renard", "Loup", "Castor", "Marmotte"],
+    "correctIndex": 3
   },
   {
     "id": "q159",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle ville est bâtie sur 118 petites îles reliées par des ponts ?",
-    "answers": [
-      "Bruges",
-      "Amsterdam",
-      "Venise",
-      "Bangkok"
-    ],
-    "correctIndex": 2
+    "text": "Quel phénomène explique la déviation de la lumière dans l’eau ?",
+    "answers": ["Réfraction", "Diffraction", "Réflexion", "Absorption"],
+    "correctIndex": 0
   },
   {
     "id": "q160",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule planète du système solaire qui tourne sur le côté ?",
-    "answers": [
-      "Vénus",
-      "Saturne",
-      "Neptune",
-      "Uranus"
-    ],
-    "correctIndex": 3
+    "text": "Quel organe humain est responsable de la filtration du sang ?",
+    "answers": ["Foie", "Reins", "Cœur", "Poumons"],
+    "correctIndex": 1
   },
+
   {
     "id": "q161",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle ville est bâtie sur 118 petites îles reliées par des ponts ?",
-    "answers": [
-      "Bangkok",
-      "Amsterdam",
-      "Venise",
-      "Bruges"
-    ],
+    "text": "Quel gaz est majoritaire dans l’atmosphère terrestre ?",
+    "answers": ["Oxygène", "Hydrogène", "Azote", "Dioxyde de carbone"],
     "correctIndex": 2
   },
   {
     "id": "q162",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel est l'instrument de musique le plus grand du monde ?",
-    "answers": [
-      "Orgue",
-      "Harpe",
-      "Tuba",
-      "Piano"
-    ],
-    "correctIndex": 0
+    "text": "Quel animal est capable de produire de l’encre pour se défendre ?",
+    "answers": ["Méduse", "Crabe", "Calmar", "Hippocampe"],
+    "correctIndex": 3
   },
   {
     "id": "q163",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel est le plus grand désert chaud du monde ?",
-    "answers": [
-      "Kalahari",
-      "Sahara",
-      "Mojave",
-      "Gobi"
-    ],
-    "correctIndex": 1
+    "text": "Quel phénomène est à l’origine des éclairs lors d’un orage ?",
+    "answers": ["Décharge électrique", "Friction de l’air", "Chaleur solaire", "Condensation"],
+    "correctIndex": 0
   },
   {
     "id": "q164",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Albatros",
-      "Martinet",
-      "Aigle royal",
-      "Faucon pèlerin"
-    ],
-    "correctIndex": 3
+    "text": "Quel organe humain est responsable de la production de l’insuline ?",
+    "answers": ["Foie", "Pancréas", "Reins", "Estomac"],
+    "correctIndex": 1
   },
   {
     "id": "q165",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Paresseux",
-      "Colugo",
-      "Écureuil volant",
-      "Chauve-souris"
-    ],
-    "correctIndex": 3
+    "text": "Quel type d’énergie est produite par une centrale nucléaire ?",
+    "answers": ["Chimique", "Thermique", "Électrique", "Mécanique"],
+    "correctIndex": 2
   },
   {
     "id": "q166",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel pays a inventé les skis ?",
-    "answers": [
-      "Canada",
-      "Suisse",
-      "Suède",
-      "Norvège"
-    ],
+    "text": "Quel animal est capable de détecter les champs magnétiques terrestres ?",
+    "answers": ["Chat", "Chien", "Cheval", "Tortue marine"],
     "correctIndex": 3
   },
   {
     "id": "q167",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel est le plus grand désert chaud du monde ?",
-    "answers": [
-      "Kalahari",
-      "Sahara",
-      "Gobi",
-      "Mojave"
-    ],
-    "correctIndex": 1
+    "text": "Quel phénomène explique la montée des marées sur Terre ?",
+    "answers": ["Attraction gravitationnelle", "Rotation terrestre", "Vent solaire", "Pression atmosphérique"],
+    "correctIndex": 0
   },
   {
     "id": "q168",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel pays a inventé les skis ?",
-    "answers": [
-      "Norvège",
-      "Canada",
-      "Suisse",
-      "Suède"
-    ],
-    "correctIndex": 0
+    "text": "Quel organe humain est principalement responsable de la respiration ?",
+    "answers": ["Cœur", "Poumons", "Foie", "Diaphragme"],
+    "correctIndex": 1
   },
   {
     "id": "q169",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel animal peut dormir un an entier ?",
-    "answers": [
-      "Serpent",
-      "Koala",
-      "Escargot",
-      "Ours"
-    ],
+    "text": "Quel élément chimique est essentiel à la formation des os ?",
+    "answers": ["Fer", "Sodium", "Calcium", "Potassium"],
     "correctIndex": 2
   },
   {
     "id": "q170",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel fruit était connu comme 'pomme d'amour' en France ?",
-    "answers": [
-      "Tomate",
-      "Pomme",
-      "Fraise",
-      "Cerise"
-    ],
-    "correctIndex": 0
+    "text": "Quel animal est connu pour construire des barrages dans les rivières ?",
+    "answers": ["Loutre", "Castor", "Raton laveur", "Vison"],
+    "correctIndex": 3
   },
+
   {
     "id": "q171",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule planète du système solaire qui tourne sur le côté ?",
-    "answers": [
-      "Saturne",
-      "Vénus",
-      "Neptune",
-      "Uranus"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène permet la transmission du son dans un solide ?",
+    "answers": ["Propagation vibratoire", "Rayonnement", "Diffraction", "Ionisation"],
+    "correctIndex": 0
   },
   {
     "id": "q172",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule mer sans littoral ?",
-    "answers": [
-      "Mer Rouge",
-      "Mer Noire",
-      "Mer Sargasso",
-      "Mer Caspienne"
-    ],
-    "correctIndex": 2
+    "text": "Quel organe humain est responsable de la digestion des graisses ?",
+    "answers": ["Estomac", "Foie", "Pancréas", "Intestin grêle"],
+    "correctIndex": 1
   },
   {
     "id": "q173",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel pays a inventé les skis ?",
-    "answers": [
-      "Canada",
-      "Norvège",
-      "Suède",
-      "Suisse"
-    ],
-    "correctIndex": 1
+    "text": "Quel type de volcan est le plus explosif ?",
+    "answers": ["Bouclier", "Sous-marin", "Stratovolcan", "Fissural"],
+    "correctIndex": 2
   },
   {
     "id": "q174",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule planète du système solaire qui tourne sur le côté ?",
-    "answers": [
-      "Saturne",
-      "Uranus",
-      "Vénus",
-      "Neptune"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal possède le plus grand cerveau proportionnellement à sa taille ?",
+    "answers": ["Dauphin", "Chimpanzé", "Pieuvre", "Fourmi"],
+    "correctIndex": 3
   },
   {
     "id": "q175",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel est l'instrument de musique le plus grand du monde ?",
-    "answers": [
-      "Piano",
-      "Orgue",
-      "Tuba",
-      "Harpe"
-    ],
-    "correctIndex": 1
+    "text": "Quel phénomène permet à un avion de rester en vol ?",
+    "answers": ["Portance", "Gravité", "Friction", "Inertie"],
+    "correctIndex": 0
   },
   {
     "id": "q176",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule planète du système solaire qui tourne sur le côté ?",
-    "answers": [
-      "Neptune",
-      "Uranus",
-      "Vénus",
-      "Saturne"
-    ],
+    "text": "Quel organe humain est responsable de la perception des odeurs ?",
+    "answers": ["Langue", "Nez", "Sinus", "Cerveau"],
     "correctIndex": 1
   },
   {
     "id": "q177",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Chauve-souris",
-      "Paresseux",
-      "Colugo",
-      "Écureuil volant"
-    ],
-    "correctIndex": 0
+    "text": "Quel type d’énergie est stocké dans une batterie ?",
+    "answers": ["Électrique", "Thermique", "Chimique", "Nucléaire"],
+    "correctIndex": 2
   },
   {
     "id": "q178",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Colugo",
-      "Écureuil volant",
-      "Paresseux",
-      "Chauve-souris"
-    ],
+    "text": "Quel animal est capable de survivre dans des environnements très salés ?",
+    "answers": ["Saumon", "Requin", "Méduse", "Artémie"],
     "correctIndex": 3
   },
   {
     "id": "q179",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel pays a inventé les skis ?",
-    "answers": [
-      "Suède",
-      "Canada",
-      "Norvège",
-      "Suisse"
-    ],
-    "correctIndex": 2
+    "text": "Quel phénomène explique le tonnerre après un éclair ?",
+    "answers": ["Onde de choc", "Condensation", "Diffraction", "Rayonnement"],
+    "correctIndex": 0
   },
   {
     "id": "q180",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel fruit était connu comme 'pomme d'amour' en France ?",
-    "answers": [
-      "Fraise",
-      "Tomate",
-      "Cerise",
-      "Pomme"
-    ],
+    "text": "Quel organe humain est responsable de la production des globules rouges ?",
+    "answers": ["Foie", "Moelle osseuse", "Rate", "Reins"],
     "correctIndex": 1
   },
+
   {
     "id": "q181",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel animal peut dormir un an entier ?",
-    "answers": [
-      "Serpent",
-      "Koala",
-      "Ours",
-      "Escargot"
-    ],
-    "correctIndex": 3
+    "text": "Quel gaz est nécessaire à la photosynthèse ?",
+    "answers": ["Oxygène", "Azote", "Dioxyde de carbone", "Hydrogène"],
+    "correctIndex": 2
   },
   {
     "id": "q182",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Chauve-souris",
-      "Colugo",
-      "Écureuil volant",
-      "Paresseux"
-    ],
-    "correctIndex": 0
+    "text": "Quel animal est capable de détecter les vibrations du sol ?",
+    "answers": ["Oiseau", "Chat", "Chien", "Serpent"],
+    "correctIndex": 3
   },
   {
     "id": "q183",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Faucon pèlerin",
-      "Albatros",
-      "Martinet",
-      "Aigle royal"
-    ],
+    "text": "Quel phénomène explique la formation de la rosée le matin ?",
+    "answers": ["Condensation", "Évaporation", "Sublimation", "Fusion"],
     "correctIndex": 0
   },
   {
     "id": "q184",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule planète du système solaire qui tourne sur le côté ?",
-    "answers": [
-      "Vénus",
-      "Saturne",
-      "Uranus",
-      "Neptune"
-    ],
-    "correctIndex": 2
+    "text": "Quel organe humain est responsable du stockage du glycogène ?",
+    "answers": ["Rate", "Foie", "Reins", "Pancréas"],
+    "correctIndex": 1
   },
   {
     "id": "q185",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel fruit était connu comme 'pomme d'amour' en France ?",
-    "answers": [
-      "Pomme",
-      "Fraise",
-      "Tomate",
-      "Cerise"
-    ],
+    "text": "Quel type de courant électrique est utilisé dans les prises domestiques ?",
+    "answers": ["Continu", "Statique", "Alternatif", "Magnétique"],
     "correctIndex": 2
   },
   {
     "id": "q186",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel est le plus grand désert chaud du monde ?",
-    "answers": [
-      "Mojave",
-      "Gobi",
-      "Kalahari",
-      "Sahara"
-    ],
+    "text": "Quel animal est connu pour son sens de l’odorat extrêmement développé ?",
+    "answers": ["Chat", "Cheval", "Lapin", "Chien"],
     "correctIndex": 3
   },
   {
     "id": "q187",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel est l'instrument de musique le plus grand du monde ?",
-    "answers": [
-      "Tuba",
-      "Piano",
-      "Harpe",
-      "Orgue"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène permet aux bateaux de flotter ?",
+    "answers": ["Poussée d’Archimède", "Gravité", "Inertie", "Pression atmosphérique"],
+    "correctIndex": 0
   },
   {
     "id": "q188",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule planète du système solaire qui tourne sur le côté ?",
-    "answers": [
-      "Neptune",
-      "Uranus",
-      "Saturne",
-      "Vénus"
-    ],
+    "text": "Quel organe humain est responsable de la coordination des mouvements ?",
+    "answers": ["Cerveau", "Cervelet", "Moelle épinière", "Nerfs"],
     "correctIndex": 1
   },
   {
     "id": "q189",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule mer sans littoral ?",
-    "answers": [
-      "Mer Sargasso",
-      "Mer Rouge",
-      "Mer Noire",
-      "Mer Caspienne"
-    ],
-    "correctIndex": 0
+    "text": "Quel élément chimique est indispensable à la fabrication de l’acier ?",
+    "answers": ["Aluminium", "Cuivre", "Carbone", "Zinc"],
+    "correctIndex": 2
   },
   {
     "id": "q190",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel fruit était connu comme 'pomme d'amour' en France ?",
-    "answers": [
-      "Cerise",
-      "Pomme",
-      "Fraise",
-      "Tomate"
-    ],
+    "text": "Quel animal est capable de survivre sans eau plus longtemps que la plupart des mammifères ?",
+    "answers": ["Cheval", "Chèvre", "Chien", "Chameau"],
     "correctIndex": 3
   },
+
   {
     "id": "q191",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Albatros",
-      "Aigle royal",
-      "Faucon pèlerin",
-      "Martinet"
-    ],
-    "correctIndex": 2
+    "text": "Quel phénomène explique la propagation de la chaleur dans l’air ?",
+    "answers": ["Convection", "Conduction", "Réfraction", "Diffusion"],
+    "correctIndex": 0
   },
   {
     "id": "q192",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule planète du système solaire qui tourne sur le côté ?",
-    "answers": [
-      "Saturne",
-      "Vénus",
-      "Neptune",
-      "Uranus"
-    ],
-    "correctIndex": 3
+    "text": "Quel organe humain est responsable de la production de la bile ?",
+    "answers": ["Estomac", "Foie", "Pancréas", "Vésicule biliaire"],
+    "correctIndex": 1
   },
   {
     "id": "q193",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel est l'instrument de musique le plus grand du monde ?",
-    "answers": [
-      "Tuba",
-      "Piano",
-      "Harpe",
-      "Orgue"
-    ],
-    "correctIndex": 3
+    "text": "Quel type de rayonnement est invisible à l’œil humain ?",
+    "answers": ["Visible", "Ultraviolet", "Infrarouge", "Micro-ondes"],
+    "correctIndex": 2
   },
   {
     "id": "q194",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle ville est bâtie sur 118 petites îles reliées par des ponts ?",
-    "answers": [
-      "Venise",
-      "Bruges",
-      "Bangkok",
-      "Amsterdam"
-    ],
-    "correctIndex": 0
+    "text": "Quel animal est connu pour produire du miel ?",
+    "answers": ["Guêpe", "Frelon", "Papillon", "Abeille"],
+    "correctIndex": 3
   },
   {
     "id": "q195",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Aigle royal",
-      "Faucon pèlerin",
-      "Martinet",
-      "Albatros"
-    ],
-    "correctIndex": 1
+    "text": "Quel phénomène explique la chute des objets vers le sol ?",
+    "answers": ["Gravitation", "Magnétisme", "Inertie", "Pression"],
+    "correctIndex": 0
   },
   {
     "id": "q196",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel fruit était connu comme 'pomme d'amour' en France ?",
-    "answers": [
-      "Pomme",
-      "Tomate",
-      "Cerise",
-      "Fraise"
-    ],
+    "text": "Quel organe humain est responsable de la régulation de la température corporelle ?",
+    "answers": ["Peau", "Cerveau", "Foie", "Poumons"],
     "correctIndex": 1
   },
   {
     "id": "q197",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Faucon pèlerin",
-      "Martinet",
-      "Aigle royal",
-      "Albatros"
-    ],
-    "correctIndex": 0
+    "text": "Quel élément chimique est présent dans le sel de table ?",
+    "answers": ["Calcium", "Potassium", "Sodium", "Magnésium"],
+    "correctIndex": 2
   },
   {
     "id": "q198",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule mer sans littoral ?",
-    "answers": [
-      "Mer Noire",
-      "Mer Caspienne",
-      "Mer Rouge",
-      "Mer Sargasso"
-    ],
+    "text": "Quel animal est capable de détecter des proies grâce aux ultrasons ?",
+    "answers": ["Oiseau", "Chat", "Chien", "Chauve-souris"],
     "correctIndex": 3
   },
   {
     "id": "q199",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quelle est la seule mer sans littoral ?",
-    "answers": [
-      "Mer Caspienne",
-      "Mer Sargasso",
-      "Mer Noire",
-      "Mer Rouge"
-    ],
-    "correctIndex": 1
+    "text": "Quel phénomène explique la formation des nuages ?",
+    "answers": ["Condensation", "Évaporation", "Sublimation", "Fusion"],
+    "correctIndex": 0
   },
   {
     "id": "q200",
     "category": "Insolites",
     "difficulty": "Moyen",
-    "text": "Quel fruit était connu comme 'pomme d'amour' en France ?",
-    "answers": [
-      "Cerise",
-      "Fraise",
-      "Tomate",
-      "Pomme"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q201",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Colugo",
-      "Chauve-souris",
-      "Écureuil volant",
-      "Paresseux"
-    ],
+    "text": "Quel organe humain est responsable de la circulation du sang ?",
+    "answers": ["Poumons", "Cœur", "Foie", "Reins"],
     "correctIndex": 1
-  },
-  {
-    "id": "q202",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel animal peut dormir un an entier ?",
-    "answers": [
-      "Koala",
-      "Ours",
-      "Serpent",
-      "Escargot"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q203",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel animal peut dormir un an entier ?",
-    "answers": [
-      "Escargot",
-      "Koala",
-      "Serpent",
-      "Ours"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q204",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Colugo",
-      "Chauve-souris",
-      "Paresseux",
-      "Écureuil volant"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q205",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel est le plus grand désert chaud du monde ?",
-    "answers": [
-      "Sahara",
-      "Gobi",
-      "Kalahari",
-      "Mojave"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q206",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quelle est la seule planète du système solaire qui tourne sur le côté ?",
-    "answers": [
-      "Neptune",
-      "Saturne",
-      "Uranus",
-      "Vénus"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q207",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quelle ville est bâtie sur 118 petites îles reliées par des ponts ?",
-    "answers": [
-      "Bangkok",
-      "Amsterdam",
-      "Bruges",
-      "Venise"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q208",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel est l'instrument de musique le plus grand du monde ?",
-    "answers": [
-      "Orgue",
-      "Piano",
-      "Harpe",
-      "Tuba"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q209",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel animal peut dormir un an entier ?",
-    "answers": [
-      "Ours",
-      "Escargot",
-      "Serpent",
-      "Koala"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q210",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel pays a inventé les skis ?",
-    "answers": [
-      "Canada",
-      "Suède",
-      "Norvège",
-      "Suisse"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q211",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel fruit était connu comme 'pomme d'amour' en France ?",
-    "answers": [
-      "Tomate",
-      "Cerise",
-      "Pomme",
-      "Fraise"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q212",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Écureuil volant",
-      "Chauve-souris",
-      "Paresseux",
-      "Colugo"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q213",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel est l'instrument de musique le plus grand du monde ?",
-    "answers": [
-      "Piano",
-      "Tuba",
-      "Harpe",
-      "Orgue"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q214",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Albatros",
-      "Martinet",
-      "Faucon pèlerin",
-      "Aigle royal"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q215",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quelle est la seule mer sans littoral ?",
-    "answers": [
-      "Mer Noire",
-      "Mer Rouge",
-      "Mer Caspienne",
-      "Mer Sargasso"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q216",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel est l'instrument de musique le plus grand du monde ?",
-    "answers": [
-      "Harpe",
-      "Piano",
-      "Tuba",
-      "Orgue"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q217",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quelle est la seule planète du système solaire qui tourne sur le côté ?",
-    "answers": [
-      "Vénus",
-      "Neptune",
-      "Uranus",
-      "Saturne"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q218",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quelle est la seule planète du système solaire qui tourne sur le côté ?",
-    "answers": [
-      "Saturne",
-      "Vénus",
-      "Uranus",
-      "Neptune"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q219",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Paresseux",
-      "Chauve-souris",
-      "Colugo",
-      "Écureuil volant"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q220",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Albatros",
-      "Martinet",
-      "Aigle royal",
-      "Faucon pèlerin"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q221",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Paresseux",
-      "Chauve-souris",
-      "Colugo",
-      "Écureuil volant"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q222",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel animal peut dormir un an entier ?",
-    "answers": [
-      "Ours",
-      "Escargot",
-      "Koala",
-      "Serpent"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q223",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Aigle royal",
-      "Faucon pèlerin",
-      "Albatros",
-      "Martinet"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q224",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel animal peut dormir un an entier ?",
-    "answers": [
-      "Koala",
-      "Ours",
-      "Serpent",
-      "Escargot"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q225",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quelle ville est bâtie sur 118 petites îles reliées par des ponts ?",
-    "answers": [
-      "Venise",
-      "Bruges",
-      "Bangkok",
-      "Amsterdam"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q226",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quelle est la seule mer sans littoral ?",
-    "answers": [
-      "Mer Caspienne",
-      "Mer Sargasso",
-      "Mer Rouge",
-      "Mer Noire"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q227",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quelle est la seule mer sans littoral ?",
-    "answers": [
-      "Mer Sargasso",
-      "Mer Caspienne",
-      "Mer Rouge",
-      "Mer Noire"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q228",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel est l'instrument de musique le plus grand du monde ?",
-    "answers": [
-      "Piano",
-      "Harpe",
-      "Tuba",
-      "Orgue"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q229",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel est l'instrument de musique le plus grand du monde ?",
-    "answers": [
-      "Piano",
-      "Harpe",
-      "Tuba",
-      "Orgue"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q230",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Faucon pèlerin",
-      "Martinet",
-      "Albatros",
-      "Aigle royal"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q231",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel est l'instrument de musique le plus grand du monde ?",
-    "answers": [
-      "Tuba",
-      "Orgue",
-      "Harpe",
-      "Piano"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q232",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel fruit était connu comme 'pomme d'amour' en France ?",
-    "answers": [
-      "Cerise",
-      "Fraise",
-      "Tomate",
-      "Pomme"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q233",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Colugo",
-      "Paresseux",
-      "Chauve-souris",
-      "Écureuil volant"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q234",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Écureuil volant",
-      "Paresseux",
-      "Colugo",
-      "Chauve-souris"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q235",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel pays a inventé les skis ?",
-    "answers": [
-      "Norvège",
-      "Suisse",
-      "Canada",
-      "Suède"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q236",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Faucon pèlerin",
-      "Martinet",
-      "Aigle royal",
-      "Albatros"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q237",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quelle est la seule mer sans littoral ?",
-    "answers": [
-      "Mer Sargasso",
-      "Mer Caspienne",
-      "Mer Noire",
-      "Mer Rouge"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q238",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel fruit était connu comme 'pomme d'amour' en France ?",
-    "answers": [
-      "Cerise",
-      "Fraise",
-      "Pomme",
-      "Tomate"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q239",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quelle est la seule mer sans littoral ?",
-    "answers": [
-      "Mer Rouge",
-      "Mer Noire",
-      "Mer Caspienne",
-      "Mer Sargasso"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q240",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quelle ville est bâtie sur 118 petites îles reliées par des ponts ?",
-    "answers": [
-      "Bangkok",
-      "Amsterdam",
-      "Bruges",
-      "Venise"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q241",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Paresseux",
-      "Chauve-souris",
-      "Écureuil volant",
-      "Colugo"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q242",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel pays a inventé les skis ?",
-    "answers": [
-      "Suède",
-      "Suisse",
-      "Canada",
-      "Norvège"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q243",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel est le plus grand désert chaud du monde ?",
-    "answers": [
-      "Mojave",
-      "Gobi",
-      "Sahara",
-      "Kalahari"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q244",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Aigle royal",
-      "Martinet",
-      "Albatros",
-      "Faucon pèlerin"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q245",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel pays a inventé les skis ?",
-    "answers": [
-      "Canada",
-      "Suisse",
-      "Suède",
-      "Norvège"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q246",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel animal peut dormir un an entier ?",
-    "answers": [
-      "Serpent",
-      "Ours",
-      "Koala",
-      "Escargot"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q247",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel fruit était connu comme 'pomme d'amour' en France ?",
-    "answers": [
-      "Fraise",
-      "Tomate",
-      "Cerise",
-      "Pomme"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q248",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Albatros",
-      "Faucon pèlerin",
-      "Martinet",
-      "Aigle royal"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q249",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel animal peut dormir un an entier ?",
-    "answers": [
-      "Ours",
-      "Escargot",
-      "Serpent",
-      "Koala"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q250",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel est le plus grand désert chaud du monde ?",
-    "answers": [
-      "Gobi",
-      "Mojave",
-      "Kalahari",
-      "Sahara"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q251",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel est le plus grand désert chaud du monde ?",
-    "answers": [
-      "Kalahari",
-      "Mojave",
-      "Sahara",
-      "Gobi"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q252",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Chauve-souris",
-      "Écureuil volant",
-      "Colugo",
-      "Paresseux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q253",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel fruit était connu comme 'pomme d'amour' en France ?",
-    "answers": [
-      "Tomate",
-      "Fraise",
-      "Pomme",
-      "Cerise"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q254",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel pays a inventé les skis ?",
-    "answers": [
-      "Canada",
-      "Norvège",
-      "Suède",
-      "Suisse"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q255",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Chauve-souris",
-      "Paresseux",
-      "Colugo",
-      "Écureuil volant"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q256",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Écureuil volant",
-      "Colugo",
-      "Chauve-souris",
-      "Paresseux"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q257",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel est le plus grand désert chaud du monde ?",
-    "answers": [
-      "Mojave",
-      "Sahara",
-      "Gobi",
-      "Kalahari"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q258",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel est l'instrument de musique le plus grand du monde ?",
-    "answers": [
-      "Harpe",
-      "Orgue",
-      "Piano",
-      "Tuba"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q259",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quelle ville est bâtie sur 118 petites îles reliées par des ponts ?",
-    "answers": [
-      "Bruges",
-      "Venise",
-      "Amsterdam",
-      "Bangkok"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q260",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Albatros",
-      "Aigle royal",
-      "Martinet",
-      "Faucon pèlerin"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q261",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel animal peut dormir un an entier ?",
-    "answers": [
-      "Serpent",
-      "Ours",
-      "Escargot",
-      "Koala"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q262",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel est le plus grand désert chaud du monde ?",
-    "answers": [
-      "Kalahari",
-      "Mojave",
-      "Gobi",
-      "Sahara"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q263",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel fruit était connu comme 'pomme d'amour' en France ?",
-    "answers": [
-      "Cerise",
-      "Pomme",
-      "Fraise",
-      "Tomate"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q264",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel fruit était connu comme 'pomme d'amour' en France ?",
-    "answers": [
-      "Fraise",
-      "Cerise",
-      "Tomate",
-      "Pomme"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q265",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quelle est la seule mer sans littoral ?",
-    "answers": [
-      "Mer Caspienne",
-      "Mer Noire",
-      "Mer Sargasso",
-      "Mer Rouge"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q266",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel pays a inventé les skis ?",
-    "answers": [
-      "Norvège",
-      "Canada",
-      "Suisse",
-      "Suède"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q267",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Écureuil volant",
-      "Paresseux",
-      "Chauve-souris",
-      "Colugo"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q268",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quelle est la seule mer sans littoral ?",
-    "answers": [
-      "Mer Noire",
-      "Mer Caspienne",
-      "Mer Rouge",
-      "Mer Sargasso"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q269",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Chauve-souris",
-      "Colugo",
-      "Écureuil volant",
-      "Paresseux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q270",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Aigle royal",
-      "Martinet",
-      "Faucon pèlerin",
-      "Albatros"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q271",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quelle ville est bâtie sur 118 petites îles reliées par des ponts ?",
-    "answers": [
-      "Venise",
-      "Amsterdam",
-      "Bruges",
-      "Bangkok"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q272",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quelle ville est bâtie sur 118 petites îles reliées par des ponts ?",
-    "answers": [
-      "Bruges",
-      "Amsterdam",
-      "Venise",
-      "Bangkok"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q273",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quelle est la seule mer sans littoral ?",
-    "answers": [
-      "Mer Rouge",
-      "Mer Noire",
-      "Mer Sargasso",
-      "Mer Caspienne"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q274",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel animal peut dormir un an entier ?",
-    "answers": [
-      "Koala",
-      "Serpent",
-      "Escargot",
-      "Ours"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q275",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel pays a inventé les skis ?",
-    "answers": [
-      "Suisse",
-      "Norvège",
-      "Suède",
-      "Canada"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q276",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quelle ville est bâtie sur 118 petites îles reliées par des ponts ?",
-    "answers": [
-      "Bangkok",
-      "Venise",
-      "Amsterdam",
-      "Bruges"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q277",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel est l'instrument de musique le plus grand du monde ?",
-    "answers": [
-      "Piano",
-      "Harpe",
-      "Orgue",
-      "Tuba"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q278",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Albatros",
-      "Martinet",
-      "Aigle royal",
-      "Faucon pèlerin"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q279",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quelle ville est bâtie sur 118 petites îles reliées par des ponts ?",
-    "answers": [
-      "Amsterdam",
-      "Bangkok",
-      "Bruges",
-      "Venise"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q280",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quelle est la seule mer sans littoral ?",
-    "answers": [
-      "Mer Caspienne",
-      "Mer Rouge",
-      "Mer Noire",
-      "Mer Sargasso"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q281",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel animal peut dormir un an entier ?",
-    "answers": [
-      "Koala",
-      "Ours",
-      "Escargot",
-      "Serpent"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q282",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quelle est la seule planète du système solaire qui tourne sur le côté ?",
-    "answers": [
-      "Saturne",
-      "Neptune",
-      "Vénus",
-      "Uranus"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q283",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel fruit était connu comme 'pomme d'amour' en France ?",
-    "answers": [
-      "Tomate",
-      "Fraise",
-      "Cerise",
-      "Pomme"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q284",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel est l'instrument de musique le plus grand du monde ?",
-    "answers": [
-      "Orgue",
-      "Tuba",
-      "Harpe",
-      "Piano"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q285",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quelle ville est bâtie sur 118 petites îles reliées par des ponts ?",
-    "answers": [
-      "Bangkok",
-      "Amsterdam",
-      "Venise",
-      "Bruges"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q286",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quelle est la seule planète du système solaire qui tourne sur le côté ?",
-    "answers": [
-      "Neptune",
-      "Saturne",
-      "Vénus",
-      "Uranus"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q287",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quelle est la seule mer sans littoral ?",
-    "answers": [
-      "Mer Caspienne",
-      "Mer Sargasso",
-      "Mer Noire",
-      "Mer Rouge"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q288",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel pays a inventé les skis ?",
-    "answers": [
-      "Suisse",
-      "Suède",
-      "Norvège",
-      "Canada"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q289",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Aigle royal",
-      "Faucon pèlerin",
-      "Albatros",
-      "Martinet"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q290",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quelle est la seule planète du système solaire qui tourne sur le côté ?",
-    "answers": [
-      "Neptune",
-      "Vénus",
-      "Saturne",
-      "Uranus"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q291",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel est le plus grand désert chaud du monde ?",
-    "answers": [
-      "Sahara",
-      "Mojave",
-      "Kalahari",
-      "Gobi"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q292",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quelle est la seule planète du système solaire qui tourne sur le côté ?",
-    "answers": [
-      "Saturne",
-      "Neptune",
-      "Vénus",
-      "Uranus"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q293",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel mammifère peut voler ?",
-    "answers": [
-      "Chauve-souris",
-      "Colugo",
-      "Écureuil volant",
-      "Paresseux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q294",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quelle est la seule mer sans littoral ?",
-    "answers": [
-      "Mer Noire",
-      "Mer Rouge",
-      "Mer Sargasso",
-      "Mer Caspienne"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q295",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quelle ville est bâtie sur 118 petites îles reliées par des ponts ?",
-    "answers": [
-      "Bangkok",
-      "Bruges",
-      "Amsterdam",
-      "Venise"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q296",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel pays a inventé les skis ?",
-    "answers": [
-      "Canada",
-      "Norvège",
-      "Suède",
-      "Suisse"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q297",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel animal peut dormir un an entier ?",
-    "answers": [
-      "Serpent",
-      "Escargot",
-      "Koala",
-      "Ours"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q298",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Aigle royal",
-      "Martinet",
-      "Albatros",
-      "Faucon pèlerin"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q299",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quelle est la seule planète du système solaire qui tourne sur le côté ?",
-    "answers": [
-      "Saturne",
-      "Vénus",
-      "Neptune",
-      "Uranus"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q300",
-    "category": "Insolites",
-    "difficulty": "Moyen",
-    "text": "Quel oiseau est le plus rapide en vol ?",
-    "answers": [
-      "Albatros",
-      "Martinet",
-      "Aigle royal",
-      "Faucon pèlerin"
-    ],
-    "correctIndex": 3
   }
 ]
