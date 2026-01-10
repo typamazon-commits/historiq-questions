@@ -39,7 +39,6 @@
     "answers": ["Auguste", "Caligula", "Domitien", "Tibère"],
     "correctIndex": 2
   },
-
   {
     "id": "qAD6",
     "category": "Antiquité",
@@ -121,7 +120,6 @@
     "answers": ["Ur", "Uruk", "Akkad", "Lagash"],
     "correctIndex": 2
   },
-
   {
     "id": "qAD16",
     "category": "Antiquité",
@@ -203,7 +201,6 @@
     "answers": ["Ipsos", "Magnésie", "Pydna", "Raphia"],
     "correctIndex": 1
   },
-
   {
     "id": "qAD26",
     "category": "Antiquité",
@@ -244,7 +241,6 @@
     "answers": ["Julien", "Valens", "Jovien", "Constant"],
     "correctIndex": 0
   },
-
   {
     "id": "qAD31",
     "category": "Antiquité",
@@ -285,7 +281,6 @@
     "answers": ["Numidie", "Kouch", "Aksoum", "Cyrénaïque"],
     "correctIndex": 1
   },
-
   {
     "id": "qAD36",
     "category": "Antiquité",
@@ -326,7 +321,6 @@
     "answers": ["Libyens", "Numides", "Phéniciens", "Étrusques"],
     "correctIndex": 2
   },
-
   {
     "id": "qAD41",
     "category": "Antiquité",
@@ -367,7 +361,6 @@
     "answers": ["Thèbes", "Memphis", "Alexandrie", "Péluse"],
     "correctIndex": 2
   },
-
   {
     "id": "qAD46",
     "category": "Antiquité",
@@ -407,7 +400,7 @@
     "text": "Quelle cité grecque contrôlait l’oracle de Dodone ?",
     "answers": ["Épire", "Corinthe", "Athènes", "Thèbes"],
     "correctIndex": 0
-  }
+  },
   {
     "id": "qAD51",
     "category": "Antiquité",
@@ -448,7 +441,6 @@
     "answers": ["Auguste", "Hadrien", "Septime Sévère", "Caracalla"],
     "correctIndex": 2
   },
-
   {
     "id": "qAD56",
     "category": "Antiquité",
@@ -489,7 +481,6 @@
     "answers": ["Sparte", "Corinthe", "Argos", "Mégalopolis"],
     "correctIndex": 1
   },
-
   {
     "id": "qAD61",
     "category": "Antiquité",
@@ -530,7 +521,6 @@
     "answers": ["Auguste", "Trajan", "Hadrien", "Antonin le Pieux"],
     "correctIndex": 2
   },
-
   {
     "id": "qAD66",
     "category": "Antiquité",
@@ -571,7 +561,6 @@
     "answers": ["Licinius et Constantin", "Galère et Maxence", "Constantin seul", "Dioclétien"],
     "correctIndex": 0
   },
-
   {
     "id": "qAD71",
     "category": "Antiquité",
@@ -612,7 +601,6 @@
     "answers": ["Pont Milvius", "Chrysopolis", "Viminacium", "Sirmium"],
     "correctIndex": 0
   },
-
   {
     "id": "qAD76",
     "category": "Antiquité",
@@ -653,7 +641,6 @@
     "answers": ["Hécatompylos", "Ctésiphon", "Suse", "Nisa"],
     "correctIndex": 1
   },
-
   {
     "id": "qAD81",
     "category": "Antiquité",
@@ -694,7 +681,6 @@
     "answers": ["Épidaure", "Cos", "Pergame", "Athènes"],
     "correctIndex": 0
   },
-
   {
     "id": "qAD86",
     "category": "Antiquité",
@@ -735,7 +721,6 @@
     "answers": ["Aigai", "Pydna", "Amphipolis", "Thessalonique"],
     "correctIndex": 0
   },
-
   {
     "id": "qAD91",
     "category": "Antiquité",
@@ -776,7 +761,6 @@
     "answers": ["Valens", "Gratien", "Théodose Ier", "Arcadius"],
     "correctIndex": 0
   },
-
   {
     "id": "qAD96",
     "category": "Antiquité",
@@ -816,7 +800,7 @@
     "text": "Quelle civilisation antique utilisa la langue akkadienne comme langue diplomatique au Proche-Orient ?",
     "answers": ["Assyrienne", "Babylonienne", "Hittite", "Égyptienne"],
     "correctIndex": 2
-  }
+  },
   {
     "id": "qAD101",
     "category": "Antiquité",
@@ -857,7 +841,6 @@
     "answers": ["Chrysippe", "Zénon de Kition", "Cléanthe", "Posidonios"],
     "correctIndex": 1
   },
-
   {
     "id": "qAD106",
     "category": "Antiquité",
@@ -898,7 +881,6 @@
     "answers": ["Bostra", "Petra", "Palmyre", "Gérasa"],
     "correctIndex": 1
   },
-
   {
     "id": "qAD111",
     "category": "Antiquité",
@@ -939,7 +921,6 @@
     "answers": ["Constantin", "Théodose Ier", "Valentinien II", "Gratien"],
     "correctIndex": 1
   },
-
   {
     "id": "qAD116",
     "category": "Antiquité",
@@ -980,7 +961,6 @@
     "answers": ["Tigranocerte", "Artaxate", "Ani", "Van"],
     "correctIndex": 1
   },
-
   {
     "id": "qAD121",
     "category": "Antiquité",
@@ -1021,7 +1001,6 @@
     "answers": ["Dioclétien", "Constantin", "Aurélien", "Théodose Ier"],
     "correctIndex": 1
   },
-
   {
     "id": "qAD126",
     "category": "Antiquité",
@@ -1062,7 +1041,6 @@
     "answers": ["Utique", "Carthage", "Hadrumète", "Leptis Magna"],
     "correctIndex": 1
   },
-
   {
     "id": "qAD131",
     "category": "Antiquité",
@@ -1103,7 +1081,6 @@
     "answers": ["Platon", "Aristote", "Isocrate", "Xénophon"],
     "correctIndex": 1
   },
-
   {
     "id": "qAD136",
     "category": "Antiquité",
@@ -1144,7 +1121,6 @@
     "answers": ["Gergovie", "Alésia", "Bibracte", "Lutèce"],
     "correctIndex": 1
   },
-
   {
     "id": "qAD141",
     "category": "Antiquité",
@@ -1185,7 +1161,6 @@
     "answers": ["Julien", "Jovien", "Valens", "Gratien"],
     "correctIndex": 0
   },
-
   {
     "id": "qAD146",
     "category": "Antiquité",
@@ -1225,7 +1200,7 @@
     "text": "Quelle civilisation antique est associée à la ville de Mari sur l’Euphrate ?",
     "answers": ["Amorrite", "Akkadienne", "Assyrienne", "Élamite"],
     "correctIndex": 0
-  }
+  },
   {
     "id": "qAD151",
     "category": "Antiquité",
@@ -1266,7 +1241,6 @@
     "answers": ["Platon", "Socrate", "Aristote", "Protagoras"],
     "correctIndex": 1
   },
-
   {
     "id": "qAD156",
     "category": "Antiquité",
@@ -1307,7 +1281,6 @@
     "answers": ["Héraclée", "Asculum", "Bénévent", "Sentinum"],
     "correctIndex": 1
   },
-
   {
     "id": "qAD161",
     "category": "Antiquité",
@@ -1348,7 +1321,6 @@
     "answers": ["Euclide de Mégare", "Antisthène", "Aristippe", "Zénon"],
     "correctIndex": 0
   },
-
   {
     "id": "qAD166",
     "category": "Antiquité",
@@ -1389,7 +1361,6 @@
     "answers": ["Argos", "Athènes", "Corinthe", "Sicyone"],
     "correctIndex": 0
   },
-
   {
     "id": "qAD171",
     "category": "Antiquité",
@@ -1430,7 +1401,6 @@
     "answers": ["Néron", "Galba", "Othon", "Vitellius"],
     "correctIndex": 0
   },
-
   {
     "id": "qAD176",
     "category": "Antiquité",
@@ -1471,7 +1441,6 @@
     "answers": ["Abdère", "Éphèse", "Milet", "Samos"],
     "correctIndex": 0
   },
-
   {
     "id": "qAD181",
     "category": "Antiquité",
@@ -1512,7 +1481,6 @@
     "answers": ["Pyrrhon", "Épicure", "Zénon", "Aristippe"],
     "correctIndex": 0
   },
-
   {
     "id": "qAD186",
     "category": "Antiquité",
@@ -1553,7 +1521,6 @@
     "answers": ["Aï Khanoum", "Bactres", "Suse", "Maracanda"],
     "correctIndex": 1
   },
-
   {
     "id": "qAD191",
     "category": "Antiquité",
@@ -1594,7 +1561,6 @@
     "answers": ["Zénon de Kition", "Chrysippe", "Cléanthe", "Posidonios"],
     "correctIndex": 1
   },
-
   {
     "id": "qAD196",
     "category": "Antiquité",
