@@ -3,3900 +3,1617 @@
     "id": "q1",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la radioactivité naturelle ?",
-    "answers": [
-      "Wilhelm Röntgen",
-      "Henri Becquerel",
-      "Pierre Curie",
-      "Marie Curie"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique est à l’origine de la découverte de la radioactivité naturelle ?",
+    "answers": ["Henri Becquerel", "Marie Curie", "Pierre Curie", "Wilhelm Röntgen"],
+    "correctIndex": 0
   },
   {
     "id": "q2",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la radioactivité naturelle ?",
-    "answers": [
-      "Wilhelm Röntgen",
-      "Pierre Curie",
-      "Henri Becquerel",
-      "Marie Curie"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est traditionnellement crédité de la découverte de l’Amérique en 1492 ?",
+    "answers": ["Marco Polo", "Christophe Colomb", "Vasco de Gama", "Fernand de Magellan"],
+    "correctIndex": 1
   },
   {
     "id": "q3",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Australie pour la première fois pour l'Europe ?",
-    "answers": [
-      "Dirk Hartog",
-      "Abel Tasman",
-      "William Dampier",
-      "James Cook"
-    ],
-    "correctIndex": 3
+    "text": "Quel savant a formulé la loi de la gravitation universelle ?",
+    "answers": ["Galilée", "Johannes Kepler", "Isaac Newton", "Albert Einstein"],
+    "correctIndex": 2
   },
   {
     "id": "q4",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la pénicilline ?",
-    "answers": [
-      "Joseph Lister",
-      "Alexander Fleming",
-      "Louis Pasteur",
-      "Marie Curie"
-    ],
-    "correctIndex": 1
+    "text": "Quel médecin a découvert la pénicilline en 1928 ?",
+    "answers": ["Louis Pasteur", "Joseph Lister", "Marie Curie", "Alexander Fleming"],
+    "correctIndex": 3
   },
   {
     "id": "q5",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Australie pour la première fois pour l'Europe ?",
-    "answers": [
-      "William Dampier",
-      "Dirk Hartog",
-      "Abel Tasman",
-      "James Cook"
-    ],
-    "correctIndex": 3
+    "text": "Quel navigateur portugais a été le premier à contourner le cap de Bonne-Espérance ?",
+    "answers": ["Bartolomeu Dias", "Vasco de Gama", "Fernand de Magellan", "Henry Hudson"],
+    "correctIndex": 0
   },
   {
     "id": "q6",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la pénicilline ?",
-    "answers": [
-      "Joseph Lister",
-      "Louis Pasteur",
-      "Marie Curie",
-      "Alexander Fleming"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur a réalisé le premier tour du monde connu ?",
+    "answers": ["James Cook", "Fernand de Magellan", "Amerigo Vespucci", "Francis Drake"],
+    "correctIndex": 1
   },
   {
     "id": "q7",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert les lois du mouvement des planètes ?",
-    "answers": [
-      "Copernic",
-      "Galilée",
-      "Tycho Brahe",
-      "Johannes Kepler"
-    ],
-    "correctIndex": 3
+    "text": "Quel astronome a établi les lois du mouvement des planètes ?",
+    "answers": ["Galilée", "Tycho Brahe", "Johannes Kepler", "Nicolas Copernic"],
+    "correctIndex": 2
   },
   {
     "id": "q8",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert le fleuve Amazone ?",
-    "answers": [
-      "Pedro Álvares Cabral",
-      "Francisco de Orellana",
-      "Hernán Cortés",
-      "Amerigo Vespucci"
-    ],
-    "correctIndex": 1
+    "text": "Quel explorateur espagnol est associé à la découverte du fleuve Amazone ?",
+    "answers": ["Hernán Cortés", "Amerigo Vespucci", "Pedro Álvares Cabral", "Francisco de Orellana"],
+    "correctIndex": 3
   },
   {
     "id": "q9",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Australie pour la première fois pour l'Europe ?",
-    "answers": [
-      "James Cook",
-      "Dirk Hartog",
-      "Abel Tasman",
-      "William Dampier"
-    ],
+    "text": "Quel navigateur britannique a exploré l’Australie au XVIIIe siècle ?",
+    "answers": ["James Cook", "Abel Tasman", "Dirk Hartog", "William Dampier"],
     "correctIndex": 0
   },
   {
     "id": "q10",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur portugais a contourné le cap de Bonne-Espérance ?",
-    "answers": [
-      "Vasco de Gama",
-      "Bartolomeu Dias",
-      "Henry Hudson",
-      "Fernand de Magellan"
-    ],
+    "text": "Quel explorateur français est considéré comme le fondateur de Québec ?",
+    "answers": ["Jacques Cartier", "Samuel de Champlain", "Jean Cabot", "Vasco de Gama"],
     "correctIndex": 1
   },
+
   {
     "id": "q11",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "James Cook",
-      "Amerigo Vespucci",
-      "Francis Drake",
-      "Fernand de Magellan"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a mis en évidence les rayons X ?",
+    "answers": ["Henri Becquerel", "Marie Curie", "Wilhelm Röntgen", "Niels Bohr"],
+    "correctIndex": 2
   },
   {
     "id": "q12",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "James Cook",
-      "Fernand de Magellan",
-      "Francis Drake",
-      "Amerigo Vespucci"
-    ],
-    "correctIndex": 1
+    "text": "Quel navigateur portugais a atteint l’Inde par la mer en 1498 ?",
+    "answers": ["Bartolomeu Dias", "Fernand de Magellan", "Henry Hudson", "Vasco de Gama"],
+    "correctIndex": 3
   },
   {
     "id": "q13",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la radioactivité naturelle ?",
-    "answers": [
-      "Wilhelm Röntgen",
-      "Pierre Curie",
-      "Henri Becquerel",
-      "Marie Curie"
-    ],
-    "correctIndex": 2
+    "text": "Quel savant a proposé le modèle héliocentrique du système solaire ?",
+    "answers": ["Nicolas Copernic", "Galilée", "Kepler", "Ptolémée"],
+    "correctIndex": 0
   },
   {
     "id": "q14",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "James Cook",
-      "Amerigo Vespucci",
-      "Fernand de Magellan",
-      "Francis Drake"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur a donné son prénom au continent américain ?",
+    "answers": ["Christophe Colomb", "Amerigo Vespucci", "James Cook", "Magellan"],
+    "correctIndex": 1
   },
   {
     "id": "q15",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Fernand de Magellan",
-      "Christophe Colomb",
-      "Vasco de Gama",
-      "Marco Polo"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique est connu pour la théorie de la relativité ?",
+    "answers": ["Isaac Newton", "Galilée", "Albert Einstein", "Kepler"],
+    "correctIndex": 2
   },
   {
     "id": "q16",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur portugais a contourné le cap de Bonne-Espérance ?",
-    "answers": [
-      "Fernand de Magellan",
-      "Vasco de Gama",
-      "Henry Hudson",
-      "Bartolomeu Dias"
-    ],
+    "text": "Quel explorateur néerlandais a donné son nom à la Tasmanie ?",
+    "answers": ["Dirk Hartog", "William Dampier", "James Cook", "Abel Tasman"],
     "correctIndex": 3
   },
+
   {
     "id": "q17",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert les lois du mouvement des planètes ?",
-    "answers": [
-      "Copernic",
-      "Johannes Kepler",
-      "Tycho Brahe",
-      "Galilée"
-    ],
-    "correctIndex": 1
+    "text": "Quel chimiste français est à l’origine de la pasteurisation ?",
+    "answers": ["Louis Pasteur", "Marie Curie", "Antoine Lavoisier", "Henri Becquerel"],
+    "correctIndex": 0
   },
   {
     "id": "q18",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "Francis Drake",
-      "James Cook",
-      "Amerigo Vespucci",
-      "Fernand de Magellan"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur britannique a mené plusieurs expéditions dans l’océan Pacifique ?",
+    "answers": ["Francis Drake", "James Cook", "Henry Hudson", "Magellan"],
+    "correctIndex": 1
   },
   {
     "id": "q19",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert le fleuve Amazone ?",
-    "answers": [
-      "Francisco de Orellana",
-      "Hernán Cortés",
-      "Pedro Álvares Cabral",
-      "Amerigo Vespucci"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique est célèbre pour ses expériences sur l’électricité et le magnétisme ?",
+    "answers": ["Newton", "Tesla", "Michael Faraday", "Einstein"],
+    "correctIndex": 2
   },
   {
     "id": "q20",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert les lois du mouvement des planètes ?",
-    "answers": [
-      "Copernic",
-      "Galilée",
-      "Johannes Kepler",
-      "Tycho Brahe"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est souvent associé à la découverte du pôle Nord ?",
+    "answers": ["Roald Amundsen", "Robert Scott", "Ernest Shackleton", "Robert Peary"],
+    "correctIndex": 3
   },
+
   {
     "id": "q21",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la pénicilline ?",
-    "answers": [
-      "Louis Pasteur",
-      "Joseph Lister",
-      "Alexander Fleming",
-      "Marie Curie"
-    ],
-    "correctIndex": 2
+    "text": "Quel savant est considéré comme le père de la chimie moderne ?",
+    "answers": ["Antoine Lavoisier", "Louis Pasteur", "Marie Curie", "Dmitri Mendeleïev"],
+    "correctIndex": 0
   },
   {
     "id": "q22",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la pénicilline ?",
-    "answers": [
-      "Louis Pasteur",
-      "Alexander Fleming",
-      "Marie Curie",
-      "Joseph Lister"
-    ],
+    "text": "Quel explorateur a atteint le pôle Sud en premier ?",
+    "answers": ["Robert Scott", "Roald Amundsen", "Ernest Shackleton", "James Cook"],
     "correctIndex": 1
   },
   {
     "id": "q23",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert le fleuve Amazone ?",
-    "answers": [
-      "Francisco de Orellana",
-      "Amerigo Vespucci",
-      "Pedro Álvares Cabral",
-      "Hernán Cortés"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a créé le tableau périodique des éléments ?",
+    "answers": ["Lavoisier", "Curie", "Dmitri Mendeleïev", "Faraday"],
+    "correctIndex": 2
   },
   {
     "id": "q24",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la pénicilline ?",
-    "answers": [
-      "Joseph Lister",
-      "Louis Pasteur",
-      "Alexander Fleming",
-      "Marie Curie"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est à l’origine du téléphone ?",
+    "answers": ["Thomas Edison", "Nikola Tesla", "Guglielmo Marconi", "Alexander Graham Bell"],
+    "correctIndex": 3
   },
   {
     "id": "q25",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Australie pour la première fois pour l'Europe ?",
-    "answers": [
-      "Abel Tasman",
-      "William Dampier",
-      "Dirk Hartog",
-      "James Cook"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur français a exploré le fleuve Saint-Laurent au XVIe siècle ?",
+    "answers": ["Jacques Cartier", "Samuel de Champlain", "Jean Cabot", "Magellan"],
+    "correctIndex": 0
   },
   {
     "id": "q26",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Marco Polo",
-      "Fernand de Magellan",
-      "Christophe Colomb",
-      "Vasco de Gama"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique est connu pour la loi reliant tension, courant et résistance ?",
+    "answers": ["Newton", "Georg Ohm", "Einstein", "Kepler"],
+    "correctIndex": 1
   },
   {
     "id": "q27",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur portugais a contourné le cap de Bonne-Espérance ?",
-    "answers": [
-      "Henry Hudson",
-      "Fernand de Magellan",
-      "Vasco de Gama",
-      "Bartolomeu Dias"
-    ],
-    "correctIndex": 3
+    "text": "Quel savant italien a perfectionné l’usage de la lunette astronomique ?",
+    "answers": ["Copernic", "Kepler", "Galilée", "Newton"],
+    "correctIndex": 2
   },
   {
     "id": "q28",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Marco Polo",
-      "Christophe Colomb",
-      "Fernand de Magellan",
-      "Vasco de Gama"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est souvent associé à l’ampoule électrique moderne ?",
+    "answers": ["Tesla", "Bell", "Faraday", "Thomas Edison"],
+    "correctIndex": 3
   },
   {
     "id": "q29",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Australie pour la première fois pour l'Europe ?",
-    "answers": [
-      "Abel Tasman",
-      "James Cook",
-      "William Dampier",
-      "Dirk Hartog"
-    ],
-    "correctIndex": 1
+    "text": "Quel aviateur a réalisé la première traversée de l’Atlantique en solitaire ?",
+    "answers": ["Charles Lindbergh", "Amelia Earhart", "Howard Hughes", "Antoine de Saint-Exupéry"],
+    "correctIndex": 0
   },
   {
     "id": "q30",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur portugais a contourné le cap de Bonne-Espérance ?",
-    "answers": [
-      "Bartolomeu Dias",
-      "Fernand de Magellan",
-      "Vasco de Gama",
-      "Henry Hudson"
-    ],
-    "correctIndex": 0
+    "text": "Quel naturaliste est à l’origine de la théorie de l’évolution par sélection naturelle ?",
+    "answers": ["Lamarck", "Charles Darwin", "Mendel", "Pasteur"],
+    "correctIndex": 1
   },
+
   {
     "id": "q31",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel scientifique a découvert la gravitation universelle ?",
-    "answers": [
-      "Albert Einstein",
-      "Johannes Kepler",
-      "Isaac Newton",
-      "Galilée"
-    ],
+    "text": "Quel moine a découvert les lois fondamentales de l’hérédité ?",
+    "answers": ["Pasteur", "Darwin", "Gregor Mendel", "Watson"],
     "correctIndex": 2
   },
   {
     "id": "q32",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "Fernand de Magellan",
-      "Francis Drake",
-      "Amerigo Vespucci",
-      "James Cook"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur a donné son nom au détroit entre l’Atlantique et le Pacifique ?",
+    "answers": ["James Cook", "Amerigo Vespucci", "Francis Drake", "Fernand de Magellan"],
+    "correctIndex": 3
   },
   {
     "id": "q33",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert les lois du mouvement des planètes ?",
-    "answers": [
-      "Galilée",
-      "Tycho Brahe",
-      "Johannes Kepler",
-      "Copernic"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a codécouvert la structure de l’ADN avec Francis Crick ?",
+    "answers": ["James Watson", "Rosalind Franklin", "Linus Pauling", "Gregor Mendel"],
+    "correctIndex": 0
   },
   {
     "id": "q34",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "James Cook",
-      "Fernand de Magellan",
-      "Francis Drake",
-      "Amerigo Vespucci"
-    ],
+    "text": "Quel explorateur a donné son nom à la baie d’Hudson ?",
+    "answers": ["James Cook", "Henry Hudson", "Francis Drake", "Magellan"],
     "correctIndex": 1
   },
   {
     "id": "q35",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la pénicilline ?",
-    "answers": [
-      "Alexander Fleming",
-      "Joseph Lister",
-      "Louis Pasteur",
-      "Marie Curie"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a travaillé avec Marie Curie sur la radioactivité ?",
+    "answers": ["Henri Becquerel", "Albert Einstein", "Pierre Curie", "Wilhelm Röntgen"],
+    "correctIndex": 2
   },
   {
     "id": "q36",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "Francis Drake",
-      "James Cook",
-      "Amerigo Vespucci",
-      "Fernand de Magellan"
-    ],
+    "text": "Quel inventeur est à l’origine du phonographe ?",
+    "answers": ["Nikola Tesla", "Alexander Graham Bell", "Guglielmo Marconi", "Thomas Edison"],
     "correctIndex": 3
   },
   {
     "id": "q37",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Marco Polo",
-      "Fernand de Magellan",
-      "Vasco de Gama",
-      "Christophe Colomb"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur norvégien est célèbre pour ses expéditions polaires ?",
+    "answers": ["Roald Amundsen", "Robert Scott", "Shackleton", "James Cook"],
+    "correctIndex": 0
   },
   {
     "id": "q38",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la radioactivité naturelle ?",
-    "answers": [
-      "Wilhelm Röntgen",
-      "Henri Becquerel",
-      "Pierre Curie",
-      "Marie Curie"
-    ],
+    "text": "Quel scientifique a formulé les trois lois du mouvement ?",
+    "answers": ["Galilée", "Isaac Newton", "Einstein", "Kepler"],
     "correctIndex": 1
   },
   {
     "id": "q39",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert le fleuve Amazone ?",
-    "answers": [
-      "Amerigo Vespucci",
-      "Francisco de Orellana",
-      "Hernán Cortés",
-      "Pedro Álvares Cabral"
-    ],
-    "correctIndex": 1
+    "text": "Quel pionnier a observé pour la première fois des micro-organismes au microscope ?",
+    "answers": ["Pasteur", "Antonie van Leeuwenhoek", "Mendel", "Curie"],
+    "correctIndex": 2
   },
   {
     "id": "q40",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Australie pour la première fois pour l'Europe ?",
-    "answers": [
-      "Abel Tasman",
-      "William Dampier",
-      "James Cook",
-      "Dirk Hartog"
-    ],
-    "correctIndex": 2
+    "text": "Quel conquistador espagnol a vaincu l’empire aztèque ?",
+    "answers": ["Pizarro", "Balboa", "De Soto", "Hernán Cortés"],
+    "correctIndex": 3
   },
+
   {
     "id": "q41",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "Francis Drake",
-      "James Cook",
-      "Fernand de Magellan",
-      "Amerigo Vespucci"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique est à l’origine des travaux fondateurs de la thermodynamique ?",
+    "answers": ["Sadi Carnot", "Newton", "Einstein", "Tesla"],
+    "correctIndex": 0
   },
   {
     "id": "q42",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la pénicilline ?",
-    "answers": [
-      "Alexander Fleming",
-      "Louis Pasteur",
-      "Joseph Lister",
-      "Marie Curie"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur a été le premier Européen à voir l’océan Pacifique depuis l’Amérique ?",
+    "answers": ["Magellan", "Vasco Núñez de Balboa", "Colomb", "Cortés"],
+    "correctIndex": 1
   },
   {
     "id": "q43",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Vasco de Gama",
-      "Christophe Colomb",
-      "Marco Polo",
-      "Fernand de Magellan"
-    ],
-    "correctIndex": 1
+    "text": "Quel médecin a mis au point le premier vaccin contre la variole ?",
+    "answers": ["Pasteur", "Edward Jenner", "Curie", "Lavoisier"],
+    "correctIndex": 2
   },
   {
     "id": "q44",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur portugais a contourné le cap de Bonne-Espérance ?",
-    "answers": [
-      "Fernand de Magellan",
-      "Vasco de Gama",
-      "Bartolomeu Dias",
-      "Henry Hudson"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est considéré comme un pionnier de la radio ?",
+    "answers": ["Bell", "Edison", "Tesla", "Guglielmo Marconi"],
+    "correctIndex": 3
   },
   {
     "id": "q45",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert les lois du mouvement des planètes ?",
-    "answers": [
-      "Tycho Brahe",
-      "Galilée",
-      "Copernic",
-      "Johannes Kepler"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur français est associé à la fondation de Montréal ?",
+    "answers": ["Paul de Chomedey de Maisonneuve", "Jacques Cartier", "Samuel de Champlain", "La Salle"],
+    "correctIndex": 0
   },
   {
     "id": "q46",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la radioactivité naturelle ?",
-    "answers": [
-      "Pierre Curie",
-      "Marie Curie",
-      "Wilhelm Röntgen",
-      "Henri Becquerel"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique est connu pour ses travaux sur la fermentation ?",
+    "answers": ["Lavoisier", "Louis Pasteur", "Einstein", "Mendeleïev"],
+    "correctIndex": 1
   },
   {
     "id": "q47",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel scientifique a découvert la gravitation universelle ?",
-    "answers": [
-      "Albert Einstein",
-      "Johannes Kepler",
-      "Isaac Newton",
-      "Galilée"
-    ],
+    "text": "Quel savant a découvert l’électron ?",
+    "answers": ["Faraday", "Rutherford", "J. J. Thomson", "Bohr"],
     "correctIndex": 2
   },
   {
     "id": "q48",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Australie pour la première fois pour l'Europe ?",
-    "answers": [
-      "James Cook",
-      "Dirk Hartog",
-      "Abel Tasman",
-      "William Dampier"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur portugais a atteint le Brésil en 1500 ?",
+    "answers": ["Bartolomeu Dias", "Vasco de Gama", "Magellan", "Pedro Álvares Cabral"],
+    "correctIndex": 3
   },
   {
     "id": "q49",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "Francis Drake",
-      "James Cook",
-      "Amerigo Vespucci",
-      "Fernand de Magellan"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a établi les bases de la microbiologie moderne ?",
+    "answers": ["Louis Pasteur", "Robert Koch", "Leeuwenhoek", "Mendel"],
+    "correctIndex": 0
   },
   {
     "id": "q50",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel scientifique a découvert la gravitation universelle ?",
-    "answers": [
-      "Galilée",
-      "Johannes Kepler",
-      "Albert Einstein",
-      "Isaac Newton"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est célèbre pour avoir exploré le fleuve Mississippi ?",
+    "answers": ["De Soto", "Robert Cavelier de La Salle", "Jacques Cartier", "Henry Hudson"],
+    "correctIndex": 1
   },
   {
     "id": "q51",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Australie pour la première fois pour l'Europe ?",
-    "answers": [
-      "Dirk Hartog",
-      "William Dampier",
-      "James Cook",
-      "Abel Tasman"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique est considéré comme le père de l’astronomie moderne d’observation ?",
+    "answers": ["Galilée", "Copernic", "Kepler", "Newton"],
+    "correctIndex": 0
   },
   {
     "id": "q52",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la pénicilline ?",
-    "answers": [
-      "Alexander Fleming",
-      "Louis Pasteur",
-      "Joseph Lister",
-      "Marie Curie"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur est associé à la découverte de la Floride en 1513 ?",
+    "answers": ["Hernán Cortés", "Juan Ponce de León", "Vasco de Gama", "Magellan"],
+    "correctIndex": 1
   },
   {
     "id": "q53",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Australie pour la première fois pour l'Europe ?",
-    "answers": [
-      "James Cook",
-      "Dirk Hartog",
-      "William Dampier",
-      "Abel Tasman"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert le noyau atomique ?",
+    "answers": ["Thomson", "Bohr", "Ernest Rutherford", "Einstein"],
+    "correctIndex": 2
   },
   {
     "id": "q54",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert le Canada pour la France ?",
-    "answers": [
-      "Samuel de Champlain",
-      "Jean Cabot",
-      "Vasco de Gama",
-      "Jacques Cartier"
-    ],
+    "text": "Quel inventeur est associé au cinéma avec le cinématographe ?",
+    "answers": ["Edison", "Méliès", "Chaplin", "Frères Lumière"],
     "correctIndex": 3
   },
   {
     "id": "q55",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel scientifique a découvert la gravitation universelle ?",
-    "answers": [
-      "Galilée",
-      "Isaac Newton",
-      "Johannes Kepler",
-      "Albert Einstein"
-    ],
-    "correctIndex": 1
+    "text": "Quel explorateur français est connu pour avoir exploré le Mississippi ?",
+    "answers": ["Robert Cavelier de La Salle", "Jacques Cartier", "Champlain", "Desoto"],
+    "correctIndex": 0
   },
   {
     "id": "q56",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Christophe Colomb",
-      "Fernand de Magellan",
-      "Vasco de Gama",
-      "Marco Polo"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la circulation du sang ?",
+    "answers": ["Vésale", "William Harvey", "Pasteur", "Lavoisier"],
+    "correctIndex": 1
   },
   {
     "id": "q57",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert les lois du mouvement des planètes ?",
-    "answers": [
-      "Tycho Brahe",
-      "Galilée",
-      "Copernic",
-      "Johannes Kepler"
-    ],
-    "correctIndex": 3
+    "text": "Quel savant est à l’origine de la théorie cellulaire moderne (avec Schleiden) ?",
+    "answers": ["Pasteur", "Virchow", "Theodor Schwann", "Mendel"],
+    "correctIndex": 2
   },
   {
     "id": "q58",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la radioactivité naturelle ?",
-    "answers": [
-      "Marie Curie",
-      "Henri Becquerel",
-      "Wilhelm Röntgen",
-      "Pierre Curie"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé au premier avion motorisé ?",
+    "answers": ["Blériot", "Lindbergh", "Ader", "Frères Wright"],
+    "correctIndex": 3
   },
   {
     "id": "q59",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la pénicilline ?",
-    "answers": [
-      "Joseph Lister",
-      "Alexander Fleming",
-      "Marie Curie",
-      "Louis Pasteur"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a formulé les lois de l’électromagnétisme ?",
+    "answers": ["James Clerk Maxwell", "Faraday", "Tesla", "Ampère"],
+    "correctIndex": 0
   },
   {
     "id": "q60",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "Amerigo Vespucci",
-      "James Cook",
-      "Francis Drake",
-      "Fernand de Magellan"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur a traversé l’Afrique d’est en ouest au XIXe siècle ?",
+    "answers": ["Livingstone", "Stanley", "Speke", "Burton"],
+    "correctIndex": 1
   },
+
   {
     "id": "q61",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert le fleuve Amazone ?",
-    "answers": [
-      "Francisco de Orellana",
-      "Pedro Álvares Cabral",
-      "Hernán Cortés",
-      "Amerigo Vespucci"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la fission nucléaire ?",
+    "answers": ["Bohr", "Curie", "Otto Hahn", "Fermi"],
+    "correctIndex": 2
   },
   {
     "id": "q62",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "Amerigo Vespucci",
-      "Fernand de Magellan",
-      "James Cook",
-      "Francis Drake"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé au télégraphe électrique ?",
+    "answers": ["Bell", "Edison", "Tesla", "Samuel Morse"],
+    "correctIndex": 3
   },
   {
     "id": "q63",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Christophe Colomb",
-      "Fernand de Magellan",
-      "Marco Polo",
-      "Vasco de Gama"
-    ],
+    "text": "Quel naturaliste français a introduit le terme « biologie » ?",
+    "answers": ["Jean-Baptiste Lamarck", "Darwin", "Pasteur", "Buffon"],
     "correctIndex": 0
   },
   {
     "id": "q64",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert le fleuve Amazone ?",
-    "answers": [
-      "Francisco de Orellana",
-      "Pedro Álvares Cabral",
-      "Amerigo Vespucci",
-      "Hernán Cortés"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur a découvert les chutes Victoria ?",
+    "answers": ["Stanley", "David Livingstone", "Speke", "Burton"],
+    "correctIndex": 1
   },
   {
     "id": "q65",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel scientifique a découvert la gravitation universelle ?",
-    "answers": [
-      "Isaac Newton",
-      "Albert Einstein",
-      "Galilée",
-      "Johannes Kepler"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique est à l’origine du principe d’incertitude ?",
+    "answers": ["Bohr", "Einstein", "Werner Heisenberg", "Planck"],
+    "correctIndex": 2
   },
   {
     "id": "q66",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la radioactivité naturelle ?",
-    "answers": [
-      "Wilhelm Röntgen",
-      "Marie Curie",
-      "Henri Becquerel",
-      "Pierre Curie"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est associé au premier ordinateur programmable moderne ?",
+    "answers": ["Babbage", "Turing", "Von Neumann", "Konrad Zuse"],
+    "correctIndex": 3
   },
   {
     "id": "q67",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "Fernand de Magellan",
-      "Francis Drake",
-      "Amerigo Vespucci",
-      "James Cook"
-    ],
+    "text": "Quel scientifique a posé les bases de la mécanique quantique avec la constante qui porte son nom ?",
+    "answers": ["Max Planck", "Einstein", "Bohr", "Heisenberg"],
     "correctIndex": 0
   },
   {
     "id": "q68",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert les lois du mouvement des planètes ?",
-    "answers": [
-      "Galilée",
-      "Johannes Kepler",
-      "Copernic",
-      "Tycho Brahe"
-    ],
+    "text": "Quel explorateur est connu pour avoir atteint le lac Victoria ?",
+    "answers": ["Livingstone", "John Hanning Speke", "Stanley", "Burton"],
     "correctIndex": 1
   },
   {
     "id": "q69",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert les lois du mouvement des planètes ?",
-    "answers": [
-      "Copernic",
-      "Tycho Brahe",
-      "Johannes Kepler",
-      "Galilée"
-    ],
+    "text": "Quel scientifique a découvert les lois de la radioactivité artificielle avec Irène Curie ?",
+    "answers": ["Becquerel", "Fermi", "Frédéric Joliot-Curie", "Rutherford"],
     "correctIndex": 2
   },
   {
     "id": "q70",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la radioactivité naturelle ?",
-    "answers": [
-      "Wilhelm Röntgen",
-      "Pierre Curie",
-      "Henri Becquerel",
-      "Marie Curie"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est associé à la première pile électrique ?",
+    "answers": ["Faraday", "Ampère", "Galvani", "Alessandro Volta"],
+    "correctIndex": 3
   },
+
   {
     "id": "q71",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Australie pour la première fois pour l'Europe ?",
-    "answers": [
-      "Dirk Hartog",
-      "William Dampier",
-      "James Cook",
-      "Abel Tasman"
-    ],
-    "correctIndex": 2
+    "text": "Quel savant grec antique est souvent considéré comme le père de la médecine ?",
+    "answers": ["Hippocrate", "Aristote", "Galien", "Socrate"],
+    "correctIndex": 0
   },
   {
     "id": "q72",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Vasco de Gama",
-      "Marco Polo",
-      "Christophe Colomb",
-      "Fernand de Magellan"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est associé à la recherche des sources du Nil ?",
+    "answers": ["Livingstone", "John Hanning Speke", "Stanley", "Burton"],
+    "correctIndex": 1
   },
   {
     "id": "q73",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "Fernand de Magellan",
-      "Francis Drake",
-      "James Cook",
-      "Amerigo Vespucci"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a démontré que les maladies pouvaient être causées par des microbes ?",
+    "answers": ["Koch", "Lister", "Louis Pasteur", "Fleming"],
+    "correctIndex": 2
   },
   {
     "id": "q74",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel scientifique a découvert la gravitation universelle ?",
-    "answers": [
-      "Isaac Newton",
-      "Albert Einstein",
-      "Galilée",
-      "Johannes Kepler"
-    ],
-    "correctIndex": 0
+    "text": "Quel inventeur est associé à la photographie avec le daguerréotype ?",
+    "answers": ["Talbot", "Nadar", "Niepce", "Louis Daguerre"],
+    "correctIndex": 3
   },
   {
     "id": "q75",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la radioactivité naturelle ?",
-    "answers": [
-      "Marie Curie",
-      "Wilhelm Röntgen",
-      "Henri Becquerel",
-      "Pierre Curie"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a établi la classification des êtres vivants au XVIIIe siècle ?",
+    "answers": ["Carl von Linné", "Buffon", "Darwin", "Lamarck"],
+    "correctIndex": 0
   },
   {
     "id": "q76",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert les lois du mouvement des planètes ?",
-    "answers": [
-      "Johannes Kepler",
-      "Galilée",
-      "Copernic",
-      "Tycho Brahe"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur a traversé l’Amérique du Nord jusqu’au Pacifique au début du XIXe siècle ?",
+    "answers": ["Lewis et Clark", "Boone", "Fremont", "Pike"],
+    "correctIndex": 1
   },
   {
     "id": "q77",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert le fleuve Amazone ?",
-    "answers": [
-      "Francisco de Orellana",
-      "Pedro Álvares Cabral",
-      "Amerigo Vespucci",
-      "Hernán Cortés"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la structure en double hélice de l’ADN ?",
+    "answers": ["Pauling", "Franklin", "Watson et Crick", "Mendel"],
+    "correctIndex": 2
   },
   {
     "id": "q78",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Fernand de Magellan",
-      "Christophe Colomb",
-      "Vasco de Gama",
-      "Marco Polo"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé au moteur diesel ?",
+    "answers": ["Otto", "Ford", "Benz", "Rudolf Diesel"],
+    "correctIndex": 3
   },
   {
     "id": "q79",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la pénicilline ?",
-    "answers": [
-      "Joseph Lister",
-      "Louis Pasteur",
-      "Marie Curie",
-      "Alexander Fleming"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique est considéré comme le père de la sociologie ?",
+    "answers": ["Auguste Comte", "Durkheim", "Weber", "Marx"],
+    "correctIndex": 0
   },
   {
     "id": "q80",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert le Canada pour la France ?",
-    "answers": [
-      "Jean Cabot",
-      "Samuel de Champlain",
-      "Jacques Cartier",
-      "Vasco de Gama"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur a cartographié une grande partie de la Sibérie ?",
+    "answers": ["Bering", "Dejnev", "Cook", "Nordenskiöld"],
+    "correctIndex": 1
   },
+
   {
     "id": "q81",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "James Cook",
-      "Francis Drake",
-      "Fernand de Magellan",
-      "Amerigo Vespucci"
-    ],
+    "text": "Quel scientifique a découvert la planète Uranus ?",
+    "answers": ["Galilée", "Kepler", "William Herschel", "Newton"],
     "correctIndex": 2
   },
   {
     "id": "q82",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert les lois du mouvement des planètes ?",
-    "answers": [
-      "Copernic",
-      "Johannes Kepler",
-      "Galilée",
-      "Tycho Brahe"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé à la première automobile à essence ?",
+    "answers": ["Ford", "Diesel", "Daimler", "Karl Benz"],
+    "correctIndex": 3
   },
   {
     "id": "q83",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Vasco de Gama",
-      "Christophe Colomb",
-      "Marco Polo",
-      "Fernand de Magellan"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert les groupes sanguins ?",
+    "answers": ["Karl Landsteiner", "Pasteur", "Koch", "Fleming"],
+    "correctIndex": 0
   },
   {
     "id": "q84",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel scientifique a découvert la gravitation universelle ?",
-    "answers": [
-      "Albert Einstein",
-      "Galilée",
-      "Johannes Kepler",
-      "Isaac Newton"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la découverte du détroit séparant l’Asie et l’Amérique ?",
+    "answers": ["Cook", "Vitus Bering", "Magellan", "Dejnev"],
+    "correctIndex": 1
   },
   {
     "id": "q85",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel scientifique a découvert la gravitation universelle ?",
-    "answers": [
-      "Johannes Kepler",
-      "Albert Einstein",
-      "Galilée",
-      "Isaac Newton"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a établi la théorie des plaques tectoniques (précurseur) ?",
+    "answers": ["Lyell", "Cuvier", "Alfred Wegener", "Darwin"],
+    "correctIndex": 2
   },
   {
     "id": "q86",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Fernand de Magellan",
-      "Vasco de Gama",
-      "Christophe Colomb",
-      "Marco Polo"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est associé à la télévision moderne ?",
+    "answers": ["Edison", "Marconi", "Tesla", "John Logie Baird"],
+    "correctIndex": 3
   },
   {
     "id": "q87",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert les lois du mouvement des planètes ?",
-    "answers": [
-      "Galilée",
-      "Tycho Brahe",
-      "Copernic",
-      "Johannes Kepler"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique est considéré comme le père de la psychanalyse ?",
+    "answers": ["Sigmund Freud", "Jung", "Adler", "Pavlov"],
+    "correctIndex": 0
   },
   {
     "id": "q88",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la radioactivité naturelle ?",
-    "answers": [
-      "Pierre Curie",
-      "Marie Curie",
-      "Henri Becquerel",
-      "Wilhelm Röntgen"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est célèbre pour avoir atteint le pôle Nord magnétique ?",
+    "answers": ["Amundsen", "James Clark Ross", "Peary", "Cook"],
+    "correctIndex": 1
   },
   {
     "id": "q89",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Australie pour la première fois pour l'Europe ?",
-    "answers": [
-      "Abel Tasman",
-      "William Dampier",
-      "James Cook",
-      "Dirk Hartog"
-    ],
+    "text": "Quel scientifique a formulé la théorie du Big Bang (modèle initial) ?",
+    "answers": ["Hubble", "Einstein", "Georges Lemaître", "Gamow"],
     "correctIndex": 2
   },
   {
     "id": "q90",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert le fleuve Amazone ?",
-    "answers": [
-      "Francisco de Orellana",
-      "Hernán Cortés",
-      "Pedro Álvares Cabral",
-      "Amerigo Vespucci"
-    ],
-    "correctIndex": 0
+    "text": "Quel inventeur est associé au stylo à bille ?",
+    "answers": ["Parker", "Waterman", "Reynolds", "László Bíró"],
+    "correctIndex": 3
   },
+
   {
     "id": "q91",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "Amerigo Vespucci",
-      "James Cook",
-      "Fernand de Magellan",
-      "Francis Drake"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a découvert la loi de la gravitation avant Newton sous forme empirique ?",
+    "answers": ["Johannes Kepler", "Galilée", "Copernic", "Hooke"],
+    "correctIndex": 0
   },
   {
     "id": "q92",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Australie pour la première fois pour l'Europe ?",
-    "answers": [
-      "James Cook",
-      "William Dampier",
-      "Abel Tasman",
-      "Dirk Hartog"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur est associé à la découverte de l’Alaska pour la Russie ?",
+    "answers": ["Cook", "Vitus Bering", "Dejnev", "Nordenskiöld"],
+    "correctIndex": 1
   },
   {
     "id": "q93",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel scientifique a découvert la gravitation universelle ?",
-    "answers": [
-      "Isaac Newton",
-      "Albert Einstein",
-      "Johannes Kepler",
-      "Galilée"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la pénicilline ?",
+    "answers": ["Pasteur", "Koch", "Alexander Fleming", "Lister"],
+    "correctIndex": 2
   },
   {
     "id": "q94",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert le Canada pour la France ?",
-    "answers": [
-      "Jean Cabot",
-      "Jacques Cartier",
-      "Samuel de Champlain",
-      "Vasco de Gama"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé au four à micro-ondes ?",
+    "answers": ["Edison", "Tesla", "Bell", "Percy Spencer"],
+    "correctIndex": 3
   },
   {
     "id": "q95",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert le Canada pour la France ?",
-    "answers": [
-      "Jacques Cartier",
-      "Samuel de Champlain",
-      "Jean Cabot",
-      "Vasco de Gama"
-    ],
+    "text": "Quel scientifique a fondé la génétique moderne par ses expériences sur les pois ?",
+    "answers": ["Gregor Mendel", "Darwin", "Watson", "Crick"],
     "correctIndex": 0
   },
   {
     "id": "q96",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert les lois du mouvement des planètes ?",
-    "answers": [
-      "Galilée",
-      "Johannes Kepler",
-      "Tycho Brahe",
-      "Copernic"
-    ],
+    "text": "Quel explorateur est associé à la première circumnavigation réussie du globe (après Magellan) ?",
+    "answers": ["Drake", "Juan Sebastián Elcano", "Cook", "Vespucci"],
     "correctIndex": 1
   },
   {
     "id": "q97",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur portugais a contourné le cap de Bonne-Espérance ?",
-    "answers": [
-      "Bartolomeu Dias",
-      "Vasco de Gama",
-      "Fernand de Magellan",
-      "Henry Hudson"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert le dioxyde de carbone comme gaz distinct ?",
+    "answers": ["Lavoisier", "Priestley", "Joseph Black", "Boyle"],
+    "correctIndex": 2
   },
   {
     "id": "q98",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert le Canada pour la France ?",
-    "answers": [
-      "Vasco de Gama",
-      "Jean Cabot",
-      "Jacques Cartier",
-      "Samuel de Champlain"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est associé au dirigeable rigide ?",
+    "answers": ["Santos-Dumont", "Blériot", "Ader", "Comte Zeppelin"],
+    "correctIndex": 3
   },
   {
     "id": "q99",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "Francis Drake",
-      "Fernand de Magellan",
-      "Amerigo Vespucci",
-      "James Cook"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert les lois de l’hérédité indépendamment de Mendel au XXe siècle ?",
+    "answers": ["Hugo de Vries", "Morgan", "Watson", "Crick"],
+    "correctIndex": 0
   },
   {
     "id": "q100",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert le fleuve Amazone ?",
-    "answers": [
-      "Amerigo Vespucci",
-      "Pedro Álvares Cabral",
-      "Hernán Cortés",
-      "Francisco de Orellana"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la cartographie détaillée de l’océan Pacifique ?",
+    "answers": ["Magellan", "James Cook", "Drake", "Vespucci"],
+    "correctIndex": 1
   },
   {
     "id": "q101",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "James Cook",
-      "Francis Drake",
-      "Fernand de Magellan",
-      "Amerigo Vespucci"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a découvert les rayons X ?",
+    "answers": ["Wilhelm Röntgen", "Henri Becquerel", "Marie Curie", "Max Planck"],
+    "correctIndex": 0
   },
   {
     "id": "q102",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la pénicilline ?",
-    "answers": [
-      "Joseph Lister",
-      "Louis Pasteur",
-      "Alexander Fleming",
-      "Marie Curie"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est associé à la découverte de la Tasmanie ?",
+    "answers": ["James Cook", "Abel Tasman", "Magellan", "Dampier"],
+    "correctIndex": 1
   },
   {
     "id": "q103",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la radioactivité naturelle ?",
-    "answers": [
-      "Wilhelm Röntgen",
-      "Marie Curie",
-      "Henri Becquerel",
-      "Pierre Curie"
-    ],
+    "text": "Quel scientifique a formulé la théorie de l’évolution par sélection naturelle ?",
+    "answers": ["Lamarck", "Mendel", "Charles Darwin", "Wallace"],
     "correctIndex": 2
   },
   {
     "id": "q104",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Marco Polo",
-      "Fernand de Magellan",
-      "Christophe Colomb",
-      "Vasco de Gama"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est associé à la radio moderne ?",
+    "answers": ["Edison", "Tesla", "Bell", "Guglielmo Marconi"],
+    "correctIndex": 3
   },
   {
     "id": "q105",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "Fernand de Magellan",
-      "James Cook",
-      "Francis Drake",
-      "Amerigo Vespucci"
-    ],
+    "text": "Quel scientifique a posé les bases de la chimie moderne ?",
+    "answers": ["Antoine Lavoisier", "Dalton", "Boyle", "Priestley"],
     "correctIndex": 0
   },
   {
     "id": "q106",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur portugais a contourné le cap de Bonne-Espérance ?",
-    "answers": [
-      "Henry Hudson",
-      "Vasco de Gama",
-      "Fernand de Magellan",
-      "Bartolomeu Dias"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la découverte de la Nouvelle-Zélande ?",
+    "answers": ["Cook", "Abel Tasman", "Magellan", "Bougainville"],
+    "correctIndex": 1
   },
   {
     "id": "q107",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert le Canada pour la France ?",
-    "answers": [
-      "Samuel de Champlain",
-      "Jacques Cartier",
-      "Vasco de Gama",
-      "Jean Cabot"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert les lois de l’électricité statique ?",
+    "answers": ["Ampère", "Faraday", "Charles-Augustin de Coulomb", "Volta"],
+    "correctIndex": 2
   },
   {
     "id": "q108",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert le Canada pour la France ?",
-    "answers": [
-      "Jean Cabot",
-      "Jacques Cartier",
-      "Samuel de Champlain",
-      "Vasco de Gama"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé au téléphone ?",
+    "answers": ["Edison", "Tesla", "Marconi", "Alexander Graham Bell"],
+    "correctIndex": 3
   },
   {
     "id": "q109",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "Amerigo Vespucci",
-      "James Cook",
-      "Francis Drake",
-      "Fernand de Magellan"
-    ],
-    "correctIndex": 3
+    "text": "Quel savant grec a proposé que la Terre soit ronde ?",
+    "answers": ["Pythagore", "Platon", "Aristote", "Euclide"],
+    "correctIndex": 0
   },
   {
     "id": "q110",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la radioactivité naturelle ?",
-    "answers": [
-      "Marie Curie",
-      "Pierre Curie",
-      "Henri Becquerel",
-      "Wilhelm Röntgen"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur a donné son nom au détroit entre l’Asie et l’Amérique ?",
+    "answers": ["Cook", "Vitus Bering", "Magellan", "Dejnev"],
+    "correctIndex": 1
   },
+
   {
     "id": "q111",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la pénicilline ?",
-    "answers": [
-      "Marie Curie",
-      "Alexander Fleming",
-      "Louis Pasteur",
-      "Joseph Lister"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert l’existence des bactéries grâce au microscope ?",
+    "answers": ["Pasteur", "Lister", "Antonie van Leeuwenhoek", "Koch"],
+    "correctIndex": 2
   },
   {
     "id": "q112",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert le fleuve Amazone ?",
-    "answers": [
-      "Hernán Cortés",
-      "Francisco de Orellana",
-      "Pedro Álvares Cabral",
-      "Amerigo Vespucci"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé à la première machine à vapeur efficace ?",
+    "answers": ["Newcomen", "Stephenson", "Papin", "James Watt"],
+    "correctIndex": 3
   },
   {
     "id": "q113",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la radioactivité naturelle ?",
-    "answers": [
-      "Pierre Curie",
-      "Wilhelm Röntgen",
-      "Marie Curie",
-      "Henri Becquerel"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert la loi de la dilatation des gaz ?",
+    "answers": ["Joseph Gay-Lussac", "Boyle", "Charles", "Avogadro"],
+    "correctIndex": 0
   },
   {
     "id": "q114",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur portugais a contourné le cap de Bonne-Espérance ?",
-    "answers": [
-      "Fernand de Magellan",
-      "Vasco de Gama",
-      "Bartolomeu Dias",
-      "Henry Hudson"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est associé à la découverte du fleuve Congo ?",
+    "answers": ["Livingstone", "Henry Morton Stanley", "Speke", "Burton"],
+    "correctIndex": 1
   },
   {
     "id": "q115",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Vasco de Gama",
-      "Marco Polo",
-      "Christophe Colomb",
-      "Fernand de Magellan"
-    ],
+    "text": "Quel scientifique a identifié les lois du mouvement avant Newton ?",
+    "answers": ["Copernic", "Galilée", "Johannes Kepler", "Descartes"],
     "correctIndex": 2
   },
   {
     "id": "q116",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Christophe Colomb",
-      "Fernand de Magellan",
-      "Vasco de Gama",
-      "Marco Polo"
-    ],
-    "correctIndex": 0
+    "text": "Quel inventeur est associé à la première bicyclette moderne ?",
+    "answers": ["Drais", "Dunlop", "Ford", "Pierre Michaux"],
+    "correctIndex": 3
   },
   {
     "id": "q117",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel scientifique a découvert la gravitation universelle ?",
-    "answers": [
-      "Isaac Newton",
-      "Galilée",
-      "Johannes Kepler",
-      "Albert Einstein"
-    ],
+    "text": "Quel scientifique a introduit la notion d’atome moderne ?",
+    "answers": ["John Dalton", "Bohr", "Rutherford", "Thomson"],
     "correctIndex": 0
   },
   {
     "id": "q118",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "Fernand de Magellan",
-      "James Cook",
-      "Francis Drake",
-      "Amerigo Vespucci"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur a donné son nom à la mer située entre l’Asie et l’Amérique ?",
+    "answers": ["Cook", "Bering", "Magellan", "Dejnev"],
+    "correctIndex": 1
   },
   {
     "id": "q119",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur portugais a contourné le cap de Bonne-Espérance ?",
-    "answers": [
-      "Vasco de Gama",
-      "Bartolomeu Dias",
-      "Fernand de Magellan",
-      "Henry Hudson"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert la loi de la conservation de l’énergie ?",
+    "answers": ["Carnot", "Clausius", "James Prescott Joule", "Kelvin"],
+    "correctIndex": 2
   },
   {
     "id": "q120",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert le fleuve Amazone ?",
-    "answers": [
-      "Pedro Álvares Cabral",
-      "Hernán Cortés",
-      "Amerigo Vespucci",
-      "Francisco de Orellana"
-    ],
+    "text": "Quel inventeur est associé à l’ampoule électrique commerciale ?",
+    "answers": ["Tesla", "Swan", "Bell", "Thomas Edison"],
     "correctIndex": 3
   },
+
   {
     "id": "q121",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la pénicilline ?",
-    "answers": [
-      "Joseph Lister",
-      "Louis Pasteur",
-      "Alexander Fleming",
-      "Marie Curie"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a formulé la loi de la pression atmosphérique ?",
+    "answers": ["Blaise Pascal", "Torricelli", "Boyle", "Descartes"],
+    "correctIndex": 0
   },
   {
     "id": "q122",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Australie pour la première fois pour l'Europe ?",
-    "answers": [
-      "James Cook",
-      "Abel Tasman",
-      "Dirk Hartog",
-      "William Dampier"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur est associé à la découverte de la Polynésie pour l’Europe ?",
+    "answers": ["Magellan", "James Cook", "Bougainville", "Dampier"],
+    "correctIndex": 1
   },
   {
     "id": "q123",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "Fernand de Magellan",
-      "Amerigo Vespucci",
-      "James Cook",
-      "Francis Drake"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert les lois de l’hérédité ?",
+    "answers": ["Darwin", "Watson", "Gregor Mendel", "Crick"],
+    "correctIndex": 2
   },
   {
     "id": "q124",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert les lois du mouvement des planètes ?",
-    "answers": [
-      "Galilée",
-      "Tycho Brahe",
-      "Copernic",
-      "Johannes Kepler"
-    ],
+    "text": "Quel inventeur est associé au premier hélicoptère fonctionnel ?",
+    "answers": ["Ader", "Blériot", "Sikorsky", "Bell"],
     "correctIndex": 3
   },
   {
     "id": "q125",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert les lois du mouvement des planètes ?",
-    "answers": [
-      "Tycho Brahe",
-      "Copernic",
-      "Johannes Kepler",
-      "Galilée"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a découvert la loi de la réfraction de la lumière ?",
+    "answers": ["Snell", "Descartes", "Newton", "Huygens"],
+    "correctIndex": 0
   },
   {
     "id": "q126",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert les lois du mouvement des planètes ?",
-    "answers": [
-      "Johannes Kepler",
-      "Galilée",
-      "Copernic",
-      "Tycho Brahe"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur est associé à la découverte de la baie d’Hudson ?",
+    "answers": ["Cabot", "Henry Hudson", "Cook", "Cartier"],
+    "correctIndex": 1
   },
   {
     "id": "q127",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert le fleuve Amazone ?",
-    "answers": [
-      "Pedro Álvares Cabral",
-      "Francisco de Orellana",
-      "Amerigo Vespucci",
-      "Hernán Cortés"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert l’existence des virus ?",
+    "answers": ["Pasteur", "Koch", "Dmitri Ivanovski", "Fleming"],
+    "correctIndex": 2
   },
   {
     "id": "q128",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert le fleuve Amazone ?",
-    "answers": [
-      "Francisco de Orellana",
-      "Amerigo Vespucci",
-      "Pedro Álvares Cabral",
-      "Hernán Cortés"
-    ],
-    "correctIndex": 0
+    "text": "Quel inventeur est associé au premier sous-marin moderne ?",
+    "answers": ["Fulton", "Nautilus", "Holland", "John Philip Holland"],
+    "correctIndex": 3
   },
   {
     "id": "q129",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Christophe Colomb",
-      "Marco Polo",
-      "Vasco de Gama",
-      "Fernand de Magellan"
-    ],
+    "text": "Quel scientifique a établi les lois du mouvement des gaz ?",
+    "answers": ["Robert Boyle", "Charles", "Avogadro", "Gay-Lussac"],
     "correctIndex": 0
   },
   {
     "id": "q130",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert le Canada pour la France ?",
-    "answers": [
-      "Jean Cabot",
-      "Samuel de Champlain",
-      "Jacques Cartier",
-      "Vasco de Gama"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est associé à la découverte de Terre-Neuve ?",
+    "answers": ["Cartier", "Jean Cabot", "Colomb", "Hudson"],
+    "correctIndex": 1
   },
+
   {
     "id": "q131",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la radioactivité naturelle ?",
-    "answers": [
-      "Marie Curie",
-      "Henri Becquerel",
-      "Wilhelm Röntgen",
-      "Pierre Curie"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert l’électron ?",
+    "answers": ["Rutherford", "Bohr", "J. J. Thomson", "Planck"],
+    "correctIndex": 2
   },
   {
     "id": "q132",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert le Canada pour la France ?",
-    "answers": [
-      "Jean Cabot",
-      "Samuel de Champlain",
-      "Jacques Cartier",
-      "Vasco de Gama"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est associé au phonographe ?",
+    "answers": ["Bell", "Tesla", "Marconi", "Thomas Edison"],
+    "correctIndex": 3
   },
   {
     "id": "q133",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert le Canada pour la France ?",
-    "answers": [
-      "Jean Cabot",
-      "Jacques Cartier",
-      "Vasco de Gama",
-      "Samuel de Champlain"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a proposé le modèle héliocentrique du système solaire ?",
+    "answers": ["Nicolas Copernic", "Galilée", "Kepler", "Newton"],
+    "correctIndex": 0
   },
   {
     "id": "q134",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel scientifique a découvert la gravitation universelle ?",
-    "answers": [
-      "Galilée",
-      "Isaac Newton",
-      "Albert Einstein",
-      "Johannes Kepler"
-    ],
+    "text": "Quel explorateur a donné son nom à un courant marin majeur ?",
+    "answers": ["Cook", "Benjamin Franklin", "Magellan", "Vespucci"],
     "correctIndex": 1
   },
   {
     "id": "q135",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Vasco de Gama",
-      "Fernand de Magellan",
-      "Christophe Colomb",
-      "Marco Polo"
-    ],
+    "text": "Quel scientifique a découvert la loi de la gravitation universelle ?",
+    "answers": ["Galilée", "Kepler", "Isaac Newton", "Einstein"],
     "correctIndex": 2
   },
   {
     "id": "q136",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert les lois du mouvement des planètes ?",
-    "answers": [
-      "Tycho Brahe",
-      "Johannes Kepler",
-      "Copernic",
-      "Galilée"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé à la première caméra portable ?",
+    "answers": ["Lumière", "Edison", "Kodak", "George Eastman"],
+    "correctIndex": 3
   },
   {
     "id": "q137",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert le Canada pour la France ?",
-    "answers": [
-      "Vasco de Gama",
-      "Jean Cabot",
-      "Samuel de Champlain",
-      "Jacques Cartier"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert l’ozone ?",
+    "answers": ["Christian Friedrich Schönbein", "Faraday", "Priestley", "Cavendish"],
+    "correctIndex": 0
   },
   {
     "id": "q138",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert le Canada pour la France ?",
-    "answers": [
-      "Vasco de Gama",
-      "Samuel de Champlain",
-      "Jacques Cartier",
-      "Jean Cabot"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est associé à la découverte de l’embouchure du Mississippi ?",
+    "answers": ["De Soto", "Robert Cavelier de La Salle", "Marquette", "Champlain"],
+    "correctIndex": 1
   },
   {
     "id": "q139",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur portugais a contourné le cap de Bonne-Espérance ?",
-    "answers": [
-      "Fernand de Magellan",
-      "Bartolomeu Dias",
-      "Henry Hudson",
-      "Vasco de Gama"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a posé les bases de la thermodynamique ?",
+    "answers": ["Kelvin", "Carnot", "Sadi Carnot", "Clausius"],
+    "correctIndex": 2
   },
   {
     "id": "q140",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "Amerigo Vespucci",
-      "Francis Drake",
-      "Fernand de Magellan",
-      "James Cook"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est associé à la montre à quartz ?",
+    "answers": ["Rolex", "Seiko", "Casio", "Warren Marrison"],
+    "correctIndex": 3
   },
+
   {
     "id": "q141",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "Amerigo Vespucci",
-      "James Cook",
-      "Fernand de Magellan",
-      "Francis Drake"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a découvert la loi de l’induction électromagnétique ?",
+    "answers": ["Michael Faraday", "Ampère", "Tesla", "Maxwell"],
+    "correctIndex": 0
   },
   {
     "id": "q142",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la pénicilline ?",
-    "answers": [
-      "Joseph Lister",
-      "Louis Pasteur",
-      "Alexander Fleming",
-      "Marie Curie"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est associé à la découverte de la Louisiane ?",
+    "answers": ["Cartier", "La Salle", "Marquette", "De Soto"],
+    "correctIndex": 1
   },
   {
     "id": "q143",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert le fleuve Amazone ?",
-    "answers": [
-      "Hernán Cortés",
-      "Francisco de Orellana",
-      "Pedro Álvares Cabral",
-      "Amerigo Vespucci"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert l’existence des neutrons ?",
+    "answers": ["Rutherford", "Bohr", "James Chadwick", "Fermi"],
+    "correctIndex": 2
   },
   {
     "id": "q144",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Australie pour la première fois pour l'Europe ?",
-    "answers": [
-      "Abel Tasman",
-      "James Cook",
-      "Dirk Hartog",
-      "William Dampier"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé à la carte de crédit moderne ?",
+    "answers": ["Visa", "American Express", "Mastercard", "Frank McNamara"],
+    "correctIndex": 3
   },
   {
     "id": "q145",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert le Canada pour la France ?",
-    "answers": [
-      "Samuel de Champlain",
-      "Jacques Cartier",
-      "Vasco de Gama",
-      "Jean Cabot"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a établi la loi de la flottabilité ?",
+    "answers": ["Archimède", "Euclide", "Aristote", "Ptolémée"],
+    "correctIndex": 0
   },
   {
     "id": "q146",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Australie pour la première fois pour l'Europe ?",
-    "answers": [
-      "Abel Tasman",
-      "William Dampier",
-      "James Cook",
-      "Dirk Hartog"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est associé à la découverte de l’Antarctique ?",
+    "answers": ["Cook", "Fabian von Bellingshausen", "Amundsen", "Scott"],
+    "correctIndex": 1
   },
   {
     "id": "q147",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la pénicilline ?",
-    "answers": [
-      "Alexander Fleming",
-      "Louis Pasteur",
-      "Joseph Lister",
-      "Marie Curie"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la loi de la diffusion des gaz ?",
+    "answers": ["Graham", "Dalton", "Thomas Graham", "Avogadro"],
+    "correctIndex": 2
   },
   {
     "id": "q148",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "Francis Drake",
-      "Amerigo Vespucci",
-      "Fernand de Magellan",
-      "James Cook"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est associé à la souris d’ordinateur ?",
+    "answers": ["Jobs", "Gates", "Wozniak", "Douglas Engelbart"],
+    "correctIndex": 3
   },
   {
     "id": "q149",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert les lois du mouvement des planètes ?",
-    "answers": [
-      "Galilée",
-      "Tycho Brahe",
-      "Johannes Kepler",
-      "Copernic"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a proposé la théorie de la relativité ?",
+    "answers": ["Albert Einstein", "Newton", "Bohr", "Galilée"],
+    "correctIndex": 0
   },
   {
     "id": "q150",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur portugais a contourné le cap de Bonne-Espérance ?",
-    "answers": [
-      "Bartolomeu Dias",
-      "Vasco de Gama",
-      "Fernand de Magellan",
-      "Henry Hudson"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur est associé à la découverte du cap Horn ?",
+    "answers": ["Magellan", "Willem Schouten", "Drake", "Cook"],
+    "correctIndex": 1
   },
   {
     "id": "q151",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Australie pour la première fois pour l'Europe ?",
-    "answers": [
-      "Dirk Hartog",
-      "Abel Tasman",
-      "James Cook",
-      "William Dampier"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a découvert la loi de la réfraction de la lumière dans l’air et l’eau ?",
+    "answers": ["Willebrord Snell", "Descartes", "Newton", "Huygens"],
+    "correctIndex": 0
   },
   {
     "id": "q152",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Marco Polo",
-      "Fernand de Magellan",
-      "Vasco de Gama",
-      "Christophe Colomb"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la découverte du détroit de Magellan ?",
+    "answers": ["Drake", "Fernand de Magellan", "Cook", "Elcano"],
+    "correctIndex": 1
   },
   {
     "id": "q153",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "Francis Drake",
-      "Amerigo Vespucci",
-      "James Cook",
-      "Fernand de Magellan"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert le principe de la vaccination ?",
+    "answers": ["Pasteur", "Lister", "Edward Jenner", "Fleming"],
+    "correctIndex": 2
   },
   {
     "id": "q154",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Vasco de Gama",
-      "Marco Polo",
-      "Fernand de Magellan",
-      "Christophe Colomb"
-    ],
+    "text": "Quel inventeur est associé au premier moteur à combustion interne moderne ?",
+    "answers": ["Diesel", "Ford", "Benz", "Nikolaus Otto"],
     "correctIndex": 3
   },
   {
     "id": "q155",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur portugais a contourné le cap de Bonne-Espérance ?",
-    "answers": [
-      "Fernand de Magellan",
-      "Vasco de Gama",
-      "Bartolomeu Dias",
-      "Henry Hudson"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a établi la loi de la pression des gaz ?",
+    "answers": ["Robert Boyle", "Gay-Lussac", "Charles", "Avogadro"],
+    "correctIndex": 0
   },
   {
     "id": "q156",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Australie pour la première fois pour l'Europe ?",
-    "answers": [
-      "Abel Tasman",
-      "James Cook",
-      "Dirk Hartog",
-      "William Dampier"
-    ],
+    "text": "Quel explorateur est associé à la découverte du Groenland pour l’Europe médiévale ?",
+    "answers": ["Leif Erikson", "Erik le Rouge", "Colomb", "Cabot"],
     "correctIndex": 1
   },
   {
     "id": "q157",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Australie pour la première fois pour l'Europe ?",
-    "answers": [
-      "James Cook",
-      "William Dampier",
-      "Dirk Hartog",
-      "Abel Tasman"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la loi de l’effet photoélectrique ?",
+    "answers": ["Planck", "Bohr", "Albert Einstein", "Millikan"],
+    "correctIndex": 2
   },
   {
     "id": "q158",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur portugais a contourné le cap de Bonne-Espérance ?",
-    "answers": [
-      "Fernand de Magellan",
-      "Bartolomeu Dias",
-      "Vasco de Gama",
-      "Henry Hudson"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé au premier ascenseur de sécurité ?",
+    "answers": ["Otis", "Siemens", "Westinghouse", "Elisha Otis"],
+    "correctIndex": 3
   },
   {
     "id": "q159",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Vasco de Gama",
-      "Marco Polo",
-      "Fernand de Magellan",
-      "Christophe Colomb"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert la loi de la conduction thermique ?",
+    "answers": ["Joseph Fourier", "Kelvin", "Clausius", "Carnot"],
+    "correctIndex": 0
   },
   {
     "id": "q160",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la radioactivité naturelle ?",
-    "answers": [
-      "Henri Becquerel",
-      "Pierre Curie",
-      "Wilhelm Röntgen",
-      "Marie Curie"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur est associé à la découverte du Pacifique depuis l’Amérique ?",
+    "answers": ["Magellan", "Vasco Núñez de Balboa", "Colomb", "Cortés"],
+    "correctIndex": 1
   },
+
   {
     "id": "q161",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "Amerigo Vespucci",
-      "Francis Drake",
-      "Fernand de Magellan",
-      "James Cook"
-    ],
+    "text": "Quel scientifique a découvert les lois de la diffusion des gaz ?",
+    "answers": ["Dalton", "Avogadro", "Thomas Graham", "Boyle"],
     "correctIndex": 2
   },
   {
     "id": "q162",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert les lois du mouvement des planètes ?",
-    "answers": [
-      "Tycho Brahe",
-      "Johannes Kepler",
-      "Copernic",
-      "Galilée"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé au premier appareil de climatisation moderne ?",
+    "answers": ["Edison", "Tesla", "Westinghouse", "Willis Carrier"],
+    "correctIndex": 3
   },
   {
     "id": "q163",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Australie pour la première fois pour l'Europe ?",
-    "answers": [
-      "William Dampier",
-      "Dirk Hartog",
-      "Abel Tasman",
-      "James Cook"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a formulé la loi de l’élasticité des solides ?",
+    "answers": ["Robert Hooke", "Young", "Pascal", "Newton"],
+    "correctIndex": 0
   },
   {
     "id": "q164",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur portugais a contourné le cap de Bonne-Espérance ?",
-    "answers": [
-      "Bartolomeu Dias",
-      "Fernand de Magellan",
-      "Henry Hudson",
-      "Vasco de Gama"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur est associé à la découverte du fleuve Saint-Laurent ?",
+    "answers": ["Champlain", "Jacques Cartier", "Cabot", "Hudson"],
+    "correctIndex": 1
   },
   {
     "id": "q165",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Christophe Colomb",
-      "Vasco de Gama",
-      "Marco Polo",
-      "Fernand de Magellan"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert l’existence de l’ADN comme support génétique ?",
+    "answers": ["Mendel", "Watson", "Oswald Avery", "Crick"],
+    "correctIndex": 2
   },
   {
     "id": "q166",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "Fernand de Magellan",
-      "James Cook",
-      "Francis Drake",
-      "Amerigo Vespucci"
-    ],
-    "correctIndex": 0
+    "text": "Quel inventeur est associé au premier tracteur agricole moderne ?",
+    "answers": ["Ford", "Diesel", "Benz", "John Froelich"],
+    "correctIndex": 3
   },
   {
     "id": "q167",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert les lois du mouvement des planètes ?",
-    "answers": [
-      "Johannes Kepler",
-      "Galilée",
-      "Tycho Brahe",
-      "Copernic"
-    ],
+    "text": "Quel scientifique a découvert la loi de la viscosité des fluides ?",
+    "answers": ["George Stokes", "Bernoulli", "Pascal", "Navier"],
     "correctIndex": 0
   },
   {
     "id": "q168",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel scientifique a découvert la gravitation universelle ?",
-    "answers": [
-      "Isaac Newton",
-      "Galilée",
-      "Johannes Kepler",
-      "Albert Einstein"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur est associé à la découverte de l’île de Pâques pour l’Europe ?",
+    "answers": ["Cook", "Jacob Roggeveen", "Bougainville", "Magellan"],
+    "correctIndex": 1
   },
   {
     "id": "q169",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel scientifique a découvert la gravitation universelle ?",
-    "answers": [
-      "Albert Einstein",
-      "Johannes Kepler",
-      "Isaac Newton",
-      "Galilée"
-    ],
+    "text": "Quel scientifique a découvert la loi de la radioactivité artificielle ?",
+    "answers": ["Becquerel", "Fermi", "Frédéric Joliot-Curie", "Rutherford"],
     "correctIndex": 2
   },
   {
     "id": "q170",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur portugais a contourné le cap de Bonne-Espérance ?",
-    "answers": [
-      "Bartolomeu Dias",
-      "Fernand de Magellan",
-      "Vasco de Gama",
-      "Henry Hudson"
-    ],
-    "correctIndex": 0
+    "text": "Quel inventeur est associé au premier four électrique domestique ?",
+    "answers": ["Siemens", "Westinghouse", "Edison", "William Hadaway"],
+    "correctIndex": 3
   },
+
   {
     "id": "q171",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert le fleuve Amazone ?",
-    "answers": [
-      "Francisco de Orellana",
-      "Hernán Cortés",
-      "Pedro Álvares Cabral",
-      "Amerigo Vespucci"
-    ],
+    "text": "Quel scientifique a découvert la loi de la pression hydrostatique ?",
+    "answers": ["Blaise Pascal", "Archimède", "Torricelli", "Galilée"],
     "correctIndex": 0
   },
   {
     "id": "q172",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la pénicilline ?",
-    "answers": [
-      "Louis Pasteur",
-      "Joseph Lister",
-      "Marie Curie",
-      "Alexander Fleming"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la découverte de l’archipel des Philippines ?",
+    "answers": ["Cook", "Fernand de Magellan", "Drake", "Elcano"],
+    "correctIndex": 1
   },
   {
     "id": "q173",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert les lois du mouvement des planètes ?",
-    "answers": [
-      "Copernic",
-      "Galilée",
-      "Tycho Brahe",
-      "Johannes Kepler"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert la structure du noyau atomique ?",
+    "answers": ["Thomson", "Bohr", "Ernest Rutherford", "Chadwick"],
+    "correctIndex": 2
   },
   {
     "id": "q174",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "Fernand de Magellan",
-      "Amerigo Vespucci",
-      "Francis Drake",
-      "James Cook"
-    ],
-    "correctIndex": 0
+    "text": "Quel inventeur est associé au premier lave-vaisselle mécanique ?",
+    "answers": ["Westinghouse", "Whirlpool", "Bosch", "Josephine Cochrane"],
+    "correctIndex": 3
   },
   {
     "id": "q175",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la pénicilline ?",
-    "answers": [
-      "Marie Curie",
-      "Louis Pasteur",
-      "Alexander Fleming",
-      "Joseph Lister"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a établi la loi des cordes vibrantes ?",
+    "answers": ["Marin Mersenne", "Galilée", "Descartes", "Huygens"],
+    "correctIndex": 0
   },
   {
     "id": "q176",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la radioactivité naturelle ?",
-    "answers": [
-      "Pierre Curie",
-      "Marie Curie",
-      "Henri Becquerel",
-      "Wilhelm Röntgen"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est associé à la découverte de la mer de Tasman ?",
+    "answers": ["Cook", "Abel Tasman", "Magellan", "Dampier"],
+    "correctIndex": 1
   },
   {
     "id": "q177",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "James Cook",
-      "Francis Drake",
-      "Amerigo Vespucci",
-      "Fernand de Magellan"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert l’effet Doppler ?",
+    "answers": ["Faraday", "Hertz", "Christian Doppler", "Maxwell"],
+    "correctIndex": 2
   },
   {
     "id": "q178",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la radioactivité naturelle ?",
-    "answers": [
-      "Wilhelm Röntgen",
-      "Pierre Curie",
-      "Marie Curie",
-      "Henri Becquerel"
-    ],
+    "text": "Quel inventeur est associé au premier appareil photo numérique ?",
+    "answers": ["Sony", "Canon", "Kodak", "Steven Sasson"],
     "correctIndex": 3
   },
   {
     "id": "q179",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur portugais a contourné le cap de Bonne-Espérance ?",
-    "answers": [
-      "Bartolomeu Dias",
-      "Fernand de Magellan",
-      "Henry Hudson",
-      "Vasco de Gama"
-    ],
+    "text": "Quel scientifique a formulé le principe de la poussée dans les fluides ?",
+    "answers": ["Archimède", "Pascal", "Bernoulli", "Torricelli"],
     "correctIndex": 0
   },
   {
     "id": "q180",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la radioactivité naturelle ?",
-    "answers": [
-      "Pierre Curie",
-      "Wilhelm Röntgen",
-      "Marie Curie",
-      "Henri Becquerel"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la découverte de la Californie pour l’Europe ?",
+    "answers": ["Cortés", "Juan Rodríguez Cabrillo", "Colomb", "Balboa"],
+    "correctIndex": 1
   },
+
   {
     "id": "q181",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur portugais a contourné le cap de Bonne-Espérance ?",
-    "answers": [
-      "Bartolomeu Dias",
-      "Vasco de Gama",
-      "Fernand de Magellan",
-      "Henry Hudson"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la loi de la réfraction atmosphérique ?",
+    "answers": ["Newton", "Laplace", "Pierre-Simon Laplace", "Herschel"],
+    "correctIndex": 2
   },
   {
     "id": "q182",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Marco Polo",
-      "Vasco de Gama",
-      "Christophe Colomb",
-      "Fernand de Magellan"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est associé à la fermeture éclair moderne ?",
+    "answers": ["Howe", "Whitcomb Judson", "Singer", "Gideon Sundback"],
+    "correctIndex": 3
   },
   {
     "id": "q183",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert les lois du mouvement des planètes ?",
-    "answers": [
-      "Johannes Kepler",
-      "Copernic",
-      "Tycho Brahe",
-      "Galilée"
-    ],
+    "text": "Quel scientifique a découvert la loi de la diffraction de la lumière ?",
+    "answers": ["Augustin Fresnel", "Young", "Newton", "Huygens"],
     "correctIndex": 0
   },
   {
     "id": "q184",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "Amerigo Vespucci",
-      "James Cook",
-      "Fernand de Magellan",
-      "Francis Drake"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est associé à la découverte de l’île Maurice ?",
+    "answers": ["Dias", "Pedro Mascarenhas", "Gama", "Cabral"],
+    "correctIndex": 1
   },
   {
     "id": "q185",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la radioactivité naturelle ?",
-    "answers": [
-      "Henri Becquerel",
-      "Wilhelm Röntgen",
-      "Pierre Curie",
-      "Marie Curie"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la loi de la tension superficielle ?",
+    "answers": ["Laplace", "Young", "Thomas Young", "Kelvin"],
+    "correctIndex": 2
   },
   {
     "id": "q186",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la radioactivité naturelle ?",
-    "answers": [
-      "Pierre Curie",
-      "Henri Becquerel",
-      "Wilhelm Röntgen",
-      "Marie Curie"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé au premier radar opérationnel ?",
+    "answers": ["Tesla", "Marconi", "Edison", "Robert Watson-Watt"],
+    "correctIndex": 3
   },
   {
     "id": "q187",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "Fernand de Magellan",
-      "Amerigo Vespucci",
-      "James Cook",
-      "Francis Drake"
-    ],
+    "text": "Quel scientifique a formulé la loi de la conduction électrique ?",
+    "answers": ["Georg Ohm", "Ampère", "Faraday", "Volta"],
     "correctIndex": 0
   },
   {
     "id": "q188",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur portugais a contourné le cap de Bonne-Espérance ?",
-    "answers": [
-      "Henry Hudson",
-      "Vasco de Gama",
-      "Fernand de Magellan",
-      "Bartolomeu Dias"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la découverte de l’embouchure de l’Amazone ?",
+    "answers": ["Colomb", "Vicente Yáñez Pinzón", "Cabral", "Cortés"],
+    "correctIndex": 1
   },
   {
     "id": "q189",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Australie pour la première fois pour l'Europe ?",
-    "answers": [
-      "Dirk Hartog",
-      "James Cook",
-      "Abel Tasman",
-      "William Dampier"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert la loi de la conduction thermique des métaux ?",
+    "answers": ["Kelvin", "Fourier", "Jean-Baptiste Fourier", "Carnot"],
+    "correctIndex": 2
   },
   {
     "id": "q190",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la radioactivité naturelle ?",
-    "answers": [
-      "Henri Becquerel",
-      "Wilhelm Röntgen",
-      "Pierre Curie",
-      "Marie Curie"
-    ],
-    "correctIndex": 0
+    "text": "Quel inventeur est associé au premier four micro-ondes domestique ?",
+    "answers": ["Edison", "Tesla", "Westinghouse", "Percy Spencer"],
+    "correctIndex": 3
   },
+
   {
     "id": "q191",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "Amerigo Vespucci",
-      "James Cook",
-      "Fernand de Magellan",
-      "Francis Drake"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a découvert la loi de la réfraction des ondes ?",
+    "answers": ["Christiaan Huygens", "Young", "Newton", "Fresnel"],
+    "correctIndex": 0
   },
   {
     "id": "q192",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel scientifique a découvert la gravitation universelle ?",
-    "answers": [
-      "Johannes Kepler",
-      "Isaac Newton",
-      "Galilée",
-      "Albert Einstein"
-    ],
+    "text": "Quel explorateur est associé à la découverte du cap de Bonne-Espérance ?",
+    "answers": ["Gama", "Bartolomeu Dias", "Magellan", "Cabral"],
     "correctIndex": 1
   },
   {
     "id": "q193",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la pénicilline ?",
-    "answers": [
-      "Joseph Lister",
-      "Marie Curie",
-      "Louis Pasteur",
-      "Alexander Fleming"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert la loi de la radioactivité naturelle ?",
+    "answers": ["Curie", "Rutherford", "Henri Becquerel", "Fermi"],
+    "correctIndex": 2
   },
   {
     "id": "q194",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "Francis Drake",
-      "Amerigo Vespucci",
-      "Fernand de Magellan",
-      "James Cook"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est associé au premier système de navigation GPS ?",
+    "answers": ["NASA", "IBM", "Pentagone", "Roger L. Easton"],
+    "correctIndex": 3
   },
   {
     "id": "q195",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert l'Australie pour la première fois pour l'Europe ?",
-    "answers": [
-      "Abel Tasman",
-      "William Dampier",
-      "Dirk Hartog",
-      "James Cook"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert la loi de la propagation des ondes sonores ?",
+    "answers": ["Ernst Chladni", "Helmholtz", "Fourier", "Doppler"],
+    "correctIndex": 0
   },
   {
     "id": "q196",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la pénicilline ?",
-    "answers": [
-      "Marie Curie",
-      "Louis Pasteur",
-      "Joseph Lister",
-      "Alexander Fleming"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la découverte du fleuve Orénoque ?",
+    "answers": ["Cortés", "Christophe Colomb", "Pizarro", "Balboa"],
+    "correctIndex": 1
   },
   {
     "id": "q197",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert la radioactivité naturelle ?",
-    "answers": [
-      "Pierre Curie",
-      "Marie Curie",
-      "Wilhelm Röntgen",
-      "Henri Becquerel"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert la loi de la supraconductivité ?",
+    "answers": ["Tesla", "Onnes", "Heike Kamerlingh Onnes", "Bohr"],
+    "correctIndex": 2
   },
   {
     "id": "q198",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel scientifique a découvert la gravitation universelle ?",
-    "answers": [
-      "Albert Einstein",
-      "Isaac Newton",
-      "Johannes Kepler",
-      "Galilée"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé au premier casque de réalité virtuelle ?",
+    "answers": ["Jobs", "Gates", "Zuckerberg", "Ivan Sutherland"],
+    "correctIndex": 3
   },
   {
     "id": "q199",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "Fernand de Magellan",
-      "Amerigo Vespucci",
-      "James Cook",
-      "Francis Drake"
-    ],
+    "text": "Quel scientifique a découvert la loi de la réfraction des ondes sismiques ?",
+    "answers": ["Beno Gutenberg", "Richter", "Mohorovičić", "Wiechert"],
     "correctIndex": 0
   },
   {
     "id": "q200",
     "category": "Découvertes",
     "difficulty": "Facile",
-    "text": "Qui a découvert les lois du mouvement des planètes ?",
-    "answers": [
-      "Galilée",
-      "Tycho Brahe",
-      "Copernic",
-      "Johannes Kepler"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q201",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert le fleuve Amazone ?",
-    "answers": [
-      "Pedro Álvares Cabral",
-      "Hernán Cortés",
-      "Amerigo Vespucci",
-      "Francisco de Orellana"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q202",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Quel scientifique a découvert la gravitation universelle ?",
-    "answers": [
-      "Galilée",
-      "Albert Einstein",
-      "Johannes Kepler",
-      "Isaac Newton"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q203",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "Amerigo Vespucci",
-      "James Cook",
-      "Francis Drake",
-      "Fernand de Magellan"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q204",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "Francis Drake",
-      "Amerigo Vespucci",
-      "James Cook",
-      "Fernand de Magellan"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q205",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert la radioactivité naturelle ?",
-    "answers": [
-      "Pierre Curie",
-      "Wilhelm Röntgen",
-      "Henri Becquerel",
-      "Marie Curie"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q206",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert l'Australie pour la première fois pour l'Europe ?",
-    "answers": [
-      "William Dampier",
-      "Abel Tasman",
-      "James Cook",
-      "Dirk Hartog"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q207",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert le fleuve Amazone ?",
-    "answers": [
-      "Francisco de Orellana",
-      "Amerigo Vespucci",
-      "Pedro Álvares Cabral",
-      "Hernán Cortés"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q208",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "Fernand de Magellan",
-      "James Cook",
-      "Francis Drake",
-      "Amerigo Vespucci"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q209",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "James Cook",
-      "Fernand de Magellan",
-      "Amerigo Vespucci",
-      "Francis Drake"
-    ],
+    "text": "Quel explorateur est associé à la découverte de la Terre de Feu ?",
+    "answers": ["Magellan", "Ferdinand Magellan", "Drake", "Cook"],
     "correctIndex": 1
-  },
-  {
-    "id": "q210",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "Francis Drake",
-      "Fernand de Magellan",
-      "James Cook",
-      "Amerigo Vespucci"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q211",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert le fleuve Amazone ?",
-    "answers": [
-      "Pedro Álvares Cabral",
-      "Amerigo Vespucci",
-      "Francisco de Orellana",
-      "Hernán Cortés"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q212",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Christophe Colomb",
-      "Marco Polo",
-      "Fernand de Magellan",
-      "Vasco de Gama"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q213",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Quel scientifique a découvert la gravitation universelle ?",
-    "answers": [
-      "Albert Einstein",
-      "Johannes Kepler",
-      "Isaac Newton",
-      "Galilée"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q214",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert l'Australie pour la première fois pour l'Europe ?",
-    "answers": [
-      "James Cook",
-      "William Dampier",
-      "Abel Tasman",
-      "Dirk Hartog"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q215",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Quel explorateur portugais a contourné le cap de Bonne-Espérance ?",
-    "answers": [
-      "Bartolomeu Dias",
-      "Henry Hudson",
-      "Fernand de Magellan",
-      "Vasco de Gama"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q216",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert la radioactivité naturelle ?",
-    "answers": [
-      "Henri Becquerel",
-      "Pierre Curie",
-      "Marie Curie",
-      "Wilhelm Röntgen"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q217",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Christophe Colomb",
-      "Vasco de Gama",
-      "Marco Polo",
-      "Fernand de Magellan"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q218",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert le fleuve Amazone ?",
-    "answers": [
-      "Hernán Cortés",
-      "Pedro Álvares Cabral",
-      "Amerigo Vespucci",
-      "Francisco de Orellana"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q219",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Vasco de Gama",
-      "Marco Polo",
-      "Christophe Colomb",
-      "Fernand de Magellan"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q220",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert la pénicilline ?",
-    "answers": [
-      "Louis Pasteur",
-      "Marie Curie",
-      "Joseph Lister",
-      "Alexander Fleming"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q221",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert la pénicilline ?",
-    "answers": [
-      "Louis Pasteur",
-      "Alexander Fleming",
-      "Joseph Lister",
-      "Marie Curie"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q222",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert les lois du mouvement des planètes ?",
-    "answers": [
-      "Galilée",
-      "Tycho Brahe",
-      "Copernic",
-      "Johannes Kepler"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q223",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "Fernand de Magellan",
-      "Amerigo Vespucci",
-      "James Cook",
-      "Francis Drake"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q224",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Vasco de Gama",
-      "Christophe Colomb",
-      "Fernand de Magellan",
-      "Marco Polo"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q225",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert le Canada pour la France ?",
-    "answers": [
-      "Vasco de Gama",
-      "Jacques Cartier",
-      "Jean Cabot",
-      "Samuel de Champlain"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q226",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert la radioactivité naturelle ?",
-    "answers": [
-      "Pierre Curie",
-      "Wilhelm Röntgen",
-      "Henri Becquerel",
-      "Marie Curie"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q227",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert le Canada pour la France ?",
-    "answers": [
-      "Jacques Cartier",
-      "Jean Cabot",
-      "Samuel de Champlain",
-      "Vasco de Gama"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q228",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Christophe Colomb",
-      "Fernand de Magellan",
-      "Marco Polo",
-      "Vasco de Gama"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q229",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "Fernand de Magellan",
-      "James Cook",
-      "Francis Drake",
-      "Amerigo Vespucci"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q230",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert le Canada pour la France ?",
-    "answers": [
-      "Samuel de Champlain",
-      "Jacques Cartier",
-      "Vasco de Gama",
-      "Jean Cabot"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q231",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Quel explorateur portugais a contourné le cap de Bonne-Espérance ?",
-    "answers": [
-      "Henry Hudson",
-      "Bartolomeu Dias",
-      "Vasco de Gama",
-      "Fernand de Magellan"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q232",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Quel scientifique a découvert la gravitation universelle ?",
-    "answers": [
-      "Albert Einstein",
-      "Johannes Kepler",
-      "Galilée",
-      "Isaac Newton"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q233",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Quel explorateur portugais a contourné le cap de Bonne-Espérance ?",
-    "answers": [
-      "Bartolomeu Dias",
-      "Fernand de Magellan",
-      "Vasco de Gama",
-      "Henry Hudson"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q234",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert le Canada pour la France ?",
-    "answers": [
-      "Jean Cabot",
-      "Samuel de Champlain",
-      "Vasco de Gama",
-      "Jacques Cartier"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q235",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert les lois du mouvement des planètes ?",
-    "answers": [
-      "Tycho Brahe",
-      "Galilée",
-      "Copernic",
-      "Johannes Kepler"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q236",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert la radioactivité naturelle ?",
-    "answers": [
-      "Marie Curie",
-      "Wilhelm Röntgen",
-      "Henri Becquerel",
-      "Pierre Curie"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q237",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Quel explorateur portugais a contourné le cap de Bonne-Espérance ?",
-    "answers": [
-      "Fernand de Magellan",
-      "Henry Hudson",
-      "Bartolomeu Dias",
-      "Vasco de Gama"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q238",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Marco Polo",
-      "Christophe Colomb",
-      "Fernand de Magellan",
-      "Vasco de Gama"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q239",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert l'Australie pour la première fois pour l'Europe ?",
-    "answers": [
-      "Abel Tasman",
-      "Dirk Hartog",
-      "James Cook",
-      "William Dampier"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q240",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Quel scientifique a découvert la gravitation universelle ?",
-    "answers": [
-      "Isaac Newton",
-      "Albert Einstein",
-      "Galilée",
-      "Johannes Kepler"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q241",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Quel scientifique a découvert la gravitation universelle ?",
-    "answers": [
-      "Galilée",
-      "Johannes Kepler",
-      "Albert Einstein",
-      "Isaac Newton"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q242",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Quel scientifique a découvert la gravitation universelle ?",
-    "answers": [
-      "Galilée",
-      "Isaac Newton",
-      "Johannes Kepler",
-      "Albert Einstein"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q243",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert les lois du mouvement des planètes ?",
-    "answers": [
-      "Galilée",
-      "Copernic",
-      "Johannes Kepler",
-      "Tycho Brahe"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q244",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "James Cook",
-      "Amerigo Vespucci",
-      "Fernand de Magellan",
-      "Francis Drake"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q245",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Marco Polo",
-      "Christophe Colomb",
-      "Vasco de Gama",
-      "Fernand de Magellan"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q246",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "Francis Drake",
-      "James Cook",
-      "Fernand de Magellan",
-      "Amerigo Vespucci"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q247",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert le Canada pour la France ?",
-    "answers": [
-      "Jacques Cartier",
-      "Vasco de Gama",
-      "Jean Cabot",
-      "Samuel de Champlain"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q248",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Vasco de Gama",
-      "Fernand de Magellan",
-      "Marco Polo",
-      "Christophe Colomb"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q249",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Quel explorateur portugais a contourné le cap de Bonne-Espérance ?",
-    "answers": [
-      "Bartolomeu Dias",
-      "Vasco de Gama",
-      "Henry Hudson",
-      "Fernand de Magellan"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q250",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert le fleuve Amazone ?",
-    "answers": [
-      "Francisco de Orellana",
-      "Hernán Cortés",
-      "Amerigo Vespucci",
-      "Pedro Álvares Cabral"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q251",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert l'Australie pour la première fois pour l'Europe ?",
-    "answers": [
-      "William Dampier",
-      "Dirk Hartog",
-      "Abel Tasman",
-      "James Cook"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q252",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert les lois du mouvement des planètes ?",
-    "answers": [
-      "Copernic",
-      "Tycho Brahe",
-      "Galilée",
-      "Johannes Kepler"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q253",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Quel scientifique a découvert la gravitation universelle ?",
-    "answers": [
-      "Albert Einstein",
-      "Isaac Newton",
-      "Johannes Kepler",
-      "Galilée"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q254",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert les lois du mouvement des planètes ?",
-    "answers": [
-      "Johannes Kepler",
-      "Copernic",
-      "Tycho Brahe",
-      "Galilée"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q255",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert les lois du mouvement des planètes ?",
-    "answers": [
-      "Johannes Kepler",
-      "Copernic",
-      "Galilée",
-      "Tycho Brahe"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q256",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert la radioactivité naturelle ?",
-    "answers": [
-      "Pierre Curie",
-      "Wilhelm Röntgen",
-      "Henri Becquerel",
-      "Marie Curie"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q257",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert la radioactivité naturelle ?",
-    "answers": [
-      "Wilhelm Röntgen",
-      "Pierre Curie",
-      "Marie Curie",
-      "Henri Becquerel"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q258",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert la pénicilline ?",
-    "answers": [
-      "Louis Pasteur",
-      "Alexander Fleming",
-      "Marie Curie",
-      "Joseph Lister"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q259",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert la radioactivité naturelle ?",
-    "answers": [
-      "Henri Becquerel",
-      "Wilhelm Röntgen",
-      "Pierre Curie",
-      "Marie Curie"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q260",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Quel explorateur portugais a contourné le cap de Bonne-Espérance ?",
-    "answers": [
-      "Vasco de Gama",
-      "Fernand de Magellan",
-      "Henry Hudson",
-      "Bartolomeu Dias"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q261",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert le fleuve Amazone ?",
-    "answers": [
-      "Francisco de Orellana",
-      "Amerigo Vespucci",
-      "Pedro Álvares Cabral",
-      "Hernán Cortés"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q262",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert la pénicilline ?",
-    "answers": [
-      "Marie Curie",
-      "Alexander Fleming",
-      "Joseph Lister",
-      "Louis Pasteur"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q263",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert la pénicilline ?",
-    "answers": [
-      "Alexander Fleming",
-      "Marie Curie",
-      "Joseph Lister",
-      "Louis Pasteur"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q264",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert la radioactivité naturelle ?",
-    "answers": [
-      "Henri Becquerel",
-      "Pierre Curie",
-      "Marie Curie",
-      "Wilhelm Röntgen"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q265",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert le fleuve Amazone ?",
-    "answers": [
-      "Pedro Álvares Cabral",
-      "Francisco de Orellana",
-      "Hernán Cortés",
-      "Amerigo Vespucci"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q266",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert les lois du mouvement des planètes ?",
-    "answers": [
-      "Tycho Brahe",
-      "Copernic",
-      "Galilée",
-      "Johannes Kepler"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q267",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Quel scientifique a découvert la gravitation universelle ?",
-    "answers": [
-      "Johannes Kepler",
-      "Isaac Newton",
-      "Galilée",
-      "Albert Einstein"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q268",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert le Canada pour la France ?",
-    "answers": [
-      "Vasco de Gama",
-      "Jean Cabot",
-      "Jacques Cartier",
-      "Samuel de Champlain"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q269",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert le Canada pour la France ?",
-    "answers": [
-      "Samuel de Champlain",
-      "Jean Cabot",
-      "Vasco de Gama",
-      "Jacques Cartier"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q270",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert la pénicilline ?",
-    "answers": [
-      "Alexander Fleming",
-      "Joseph Lister",
-      "Louis Pasteur",
-      "Marie Curie"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q271",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert les lois du mouvement des planètes ?",
-    "answers": [
-      "Copernic",
-      "Tycho Brahe",
-      "Galilée",
-      "Johannes Kepler"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q272",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert le fleuve Amazone ?",
-    "answers": [
-      "Amerigo Vespucci",
-      "Hernán Cortés",
-      "Pedro Álvares Cabral",
-      "Francisco de Orellana"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q273",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert la radioactivité naturelle ?",
-    "answers": [
-      "Marie Curie",
-      "Henri Becquerel",
-      "Pierre Curie",
-      "Wilhelm Röntgen"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q274",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert l'Australie pour la première fois pour l'Europe ?",
-    "answers": [
-      "William Dampier",
-      "Dirk Hartog",
-      "James Cook",
-      "Abel Tasman"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q275",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert la pénicilline ?",
-    "answers": [
-      "Marie Curie",
-      "Louis Pasteur",
-      "Alexander Fleming",
-      "Joseph Lister"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q276",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert l'Australie pour la première fois pour l'Europe ?",
-    "answers": [
-      "James Cook",
-      "William Dampier",
-      "Abel Tasman",
-      "Dirk Hartog"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q277",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Quel scientifique a découvert la gravitation universelle ?",
-    "answers": [
-      "Isaac Newton",
-      "Galilée",
-      "Johannes Kepler",
-      "Albert Einstein"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q278",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Quel scientifique a découvert la gravitation universelle ?",
-    "answers": [
-      "Galilée",
-      "Isaac Newton",
-      "Albert Einstein",
-      "Johannes Kepler"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q279",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "James Cook",
-      "Amerigo Vespucci",
-      "Francis Drake",
-      "Fernand de Magellan"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q280",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Quel scientifique a découvert la gravitation universelle ?",
-    "answers": [
-      "Galilée",
-      "Albert Einstein",
-      "Johannes Kepler",
-      "Isaac Newton"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q281",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert les lois du mouvement des planètes ?",
-    "answers": [
-      "Tycho Brahe",
-      "Johannes Kepler",
-      "Copernic",
-      "Galilée"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q282",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "Amerigo Vespucci",
-      "James Cook",
-      "Francis Drake",
-      "Fernand de Magellan"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q283",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert le fleuve Amazone ?",
-    "answers": [
-      "Hernán Cortés",
-      "Amerigo Vespucci",
-      "Pedro Álvares Cabral",
-      "Francisco de Orellana"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q284",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert le Canada pour la France ?",
-    "answers": [
-      "Samuel de Champlain",
-      "Jean Cabot",
-      "Jacques Cartier",
-      "Vasco de Gama"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q285",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "James Cook",
-      "Amerigo Vespucci",
-      "Francis Drake",
-      "Fernand de Magellan"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q286",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Quel scientifique a découvert la gravitation universelle ?",
-    "answers": [
-      "Albert Einstein",
-      "Galilée",
-      "Johannes Kepler",
-      "Isaac Newton"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q287",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Christophe Colomb",
-      "Vasco de Gama",
-      "Fernand de Magellan",
-      "Marco Polo"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q288",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Quel explorateur a mené la première circumnavigation du globe ?",
-    "answers": [
-      "Fernand de Magellan",
-      "Amerigo Vespucci",
-      "James Cook",
-      "Francis Drake"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q289",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Fernand de Magellan",
-      "Christophe Colomb",
-      "Vasco de Gama",
-      "Marco Polo"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q290",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert les lois du mouvement des planètes ?",
-    "answers": [
-      "Johannes Kepler",
-      "Tycho Brahe",
-      "Galilée",
-      "Copernic"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q291",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert la radioactivité naturelle ?",
-    "answers": [
-      "Pierre Curie",
-      "Henri Becquerel",
-      "Wilhelm Röntgen",
-      "Marie Curie"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q292",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert la radioactivité naturelle ?",
-    "answers": [
-      "Marie Curie",
-      "Pierre Curie",
-      "Wilhelm Röntgen",
-      "Henri Becquerel"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q293",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Quel scientifique a découvert la gravitation universelle ?",
-    "answers": [
-      "Isaac Newton",
-      "Galilée",
-      "Johannes Kepler",
-      "Albert Einstein"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q294",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Quel explorateur portugais a contourné le cap de Bonne-Espérance ?",
-    "answers": [
-      "Henry Hudson",
-      "Bartolomeu Dias",
-      "Fernand de Magellan",
-      "Vasco de Gama"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q295",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert l'Amérique en 1492 ?",
-    "answers": [
-      "Marco Polo",
-      "Fernand de Magellan",
-      "Christophe Colomb",
-      "Vasco de Gama"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q296",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert la pénicilline ?",
-    "answers": [
-      "Alexander Fleming",
-      "Marie Curie",
-      "Louis Pasteur",
-      "Joseph Lister"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q297",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Quel scientifique a découvert la gravitation universelle ?",
-    "answers": [
-      "Galilée",
-      "Albert Einstein",
-      "Isaac Newton",
-      "Johannes Kepler"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q298",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert la radioactivité naturelle ?",
-    "answers": [
-      "Pierre Curie",
-      "Marie Curie",
-      "Wilhelm Röntgen",
-      "Henri Becquerel"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q299",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert le Canada pour la France ?",
-    "answers": [
-      "Samuel de Champlain",
-      "Jean Cabot",
-      "Vasco de Gama",
-      "Jacques Cartier"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q300",
-    "category": "Découvertes",
-    "difficulty": "Facile",
-    "text": "Qui a découvert la pénicilline ?",
-    "answers": [
-      "Joseph Lister",
-      "Marie Curie",
-      "Louis Pasteur",
-      "Alexander Fleming"
-    ],
-    "correctIndex": 3
   }
 ]
