@@ -3,3900 +3,1620 @@
     "id": "q1",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
-    "answers": [
-      "Poivron",
-      "Concombre",
-      "Courgette",
-      "Tomate"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal peut dormir debout sans tomber ?",
+    "answers": ["Cheval", "Chien", "Chat", "Vache"],
+    "correctIndex": 0
   },
   {
     "id": "q2",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est le plus petit pays du monde ?",
-    "answers": [
-      "Monaco",
-      "Saint-Marin",
-      "Nauru",
-      "Vatican"
-    ],
-    "correctIndex": 3
+    "text": "Quel objet du quotidien a été inventé en premier historiquement ?",
+    "answers": ["La roue", "Le savon", "Le papier", "Le verre"],
+    "correctIndex": 1
   },
   {
     "id": "q3",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est le plus petit pays du monde ?",
-    "answers": [
-      "Vatican",
-      "Saint-Marin",
-      "Nauru",
-      "Monaco"
-    ],
-    "correctIndex": 0
+    "text": "Quel animal peut changer de couleur pour se camoufler ?",
+    "answers": ["Pieuvre", "Caméléon", "Serpent", "Grenouille"],
+    "correctIndex": 1
   },
   {
     "id": "q4",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est le plus petit pays du monde ?",
-    "answers": [
-      "Monaco",
-      "Nauru",
-      "Saint-Marin",
-      "Vatican"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays a la plus longue ligne droite du monde ?",
+    "answers": ["Canada", "États-Unis", "Australie", "Russie"],
+    "correctIndex": 2
   },
   {
     "id": "q5",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
-    "answers": [
-      "Chouette",
-      "Iguane",
-      "Perroquet",
-      "Serpent"
-    ],
+    "text": "Quel animal possède une mémoire exceptionnelle, capable de reconnaître un humain des années plus tard ?",
+    "answers": ["Éléphant", "Cheval", "Chien", "Loup"],
     "correctIndex": 0
   },
   {
     "id": "q6",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
-    "answers": [
-      "Venise",
-      "Bruges",
-      "Bangkok",
-      "Amsterdam"
-    ],
+    "text": "Quel fruit était à l’origine de couleur violette avant sélection humaine ?",
+    "answers": ["Banane", "Orange", "Pomme", "Raisin"],
     "correctIndex": 0
   },
   {
     "id": "q7",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle est la capitale la plus au nord du monde ?",
-    "answers": [
-      "Moscou",
-      "Helsinki",
-      "Reykjavik",
-      "Oslo"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal peut respirer par la peau ?",
+    "answers": ["Serpent", "Grenouille", "Tortue", "Poisson"],
+    "correctIndex": 1
   },
   {
     "id": "q8",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
-    "answers": [
-      "Bruges",
-      "Venise",
-      "Amsterdam",
-      "Bangkok"
-    ],
-    "correctIndex": 1
+    "text": "Quelle partie du corps humain n’est jamais en contact direct avec le sol en marchant ?",
+    "answers": ["Le genou", "Le talon", "La cheville", "La rotule"],
+    "correctIndex": 3
   },
   {
     "id": "q9",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel objet est utilisé pour mesurer la température ?",
-    "answers": [
-      "Baromètre",
-      "Thermomètre",
-      "Altimètre",
-      "Hygromètre"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays possède la plus grande île du monde ?",
+    "answers": ["Canada", "Australie", "Groenland", "Indonésie"],
+    "correctIndex": 2
   },
   {
     "id": "q10",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est l'aliment principal des pandas géants ?",
-    "answers": [
-      "Riz",
-      "Bambou",
-      "Eucalyptus",
-      "Herbe"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal n’a pas de cerveau mais peut se déplacer ?",
+    "answers": ["Méduse", "Éponge", "Ver", "Corail"],
+    "correctIndex": 0
   },
+
   {
     "id": "q11",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est l'aliment principal des pandas géants ?",
-    "answers": [
-      "Eucalyptus",
-      "Riz",
-      "Herbe",
-      "Bambou"
-    ],
-    "correctIndex": 3
+    "text": "Quel est l’aliment le plus consommé au monde ?",
+    "answers": ["Riz", "Blé", "Maïs", "Pomme de terre"],
+    "correctIndex": 0
   },
   {
     "id": "q12",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
-    "answers": [
-      "Iguane",
-      "Chouette",
-      "Serpent",
-      "Perroquet"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal peut sentir les orages à plusieurs kilomètres ?",
+    "answers": ["Chien", "Chat", "Serpent", "Oiseau"],
+    "correctIndex": 2
   },
   {
     "id": "q13",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est le plus petit pays du monde ?",
-    "answers": [
-      "Monaco",
-      "Nauru",
-      "Vatican",
-      "Saint-Marin"
-    ],
+    "text": "Quel objet est utilisé pour mesurer la vitesse du vent ?",
+    "answers": ["Baromètre", "Thermomètre", "Anémomètre", "Altimètre"],
     "correctIndex": 2
   },
   {
     "id": "q14",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle est la capitale la plus au nord du monde ?",
-    "answers": [
-      "Reykjavik",
-      "Moscou",
-      "Oslo",
-      "Helsinki"
-    ],
-    "correctIndex": 0
+    "text": "Quel animal peut survivre plusieurs semaines sans manger ?",
+    "answers": ["Lapin", "Chien", "Serpent", "Cheval"],
+    "correctIndex": 2
   },
   {
     "id": "q15",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal dort debout ?",
-    "answers": [
-      "Chat",
-      "Chien",
-      "Dauphin",
-      "Cheval"
-    ],
-    "correctIndex": 3
+    "text": "Quelle couleur attire le plus les moustiques ?",
+    "answers": ["Bleu", "Vert", "Noir", "Jaune"],
+    "correctIndex": 2
   },
+
   {
     "id": "q16",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
-    "answers": [
-      "Amsterdam",
-      "Bruges",
-      "Bangkok",
-      "Venise"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal possède le plus grand cerveau terrestre ?",
+    "answers": ["Éléphant", "Baleine", "Gorille", "Humain"],
+    "correctIndex": 1
   },
   {
     "id": "q17",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle mer est connue pour sa forte salinité ?",
-    "answers": [
-      "Mer Rouge",
-      "Mer Noire",
-      "Mer Morte",
-      "Mer Caspienne"
-    ],
+    "text": "Quel pays a le plus de fuseaux horaires ?",
+    "answers": ["Russie", "États-Unis", "France", "Chine"],
     "correctIndex": 2
   },
   {
     "id": "q18",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
-    "answers": [
-      "Jamaïque",
-      "Afrique du Sud",
-      "Inde",
-      "Brésil"
-    ],
-    "correctIndex": 0
+    "text": "Quel animal peut voir à 360 degrés ?",
+    "answers": ["Chat", "Chouette", "Caméléon", "Poisson"],
+    "correctIndex": 2
   },
   {
     "id": "q19",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est l'aliment principal des pandas géants ?",
-    "answers": [
-      "Eucalyptus",
-      "Bambou",
-      "Riz",
-      "Herbe"
-    ],
-    "correctIndex": 1
+    "text": "Quel objet du quotidien fonctionne grâce à la pression atmosphérique ?",
+    "answers": ["Ventouse", "Aimant", "Ressort", "Élastique"],
+    "correctIndex": 0
   },
   {
     "id": "q20",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal dort debout ?",
-    "answers": [
-      "Chat",
-      "Dauphin",
-      "Cheval",
-      "Chien"
-    ],
+    "text": "Quel animal peut reconnaître son reflet dans un miroir ?",
+    "answers": ["Chien", "Chat", "Dauphin", "Mouton"],
     "correctIndex": 2
   },
+
   {
     "id": "q21",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle mer est connue pour sa forte salinité ?",
-    "answers": [
-      "Mer Noire",
-      "Mer Morte",
-      "Mer Caspienne",
-      "Mer Rouge"
-    ],
+    "text": "Quel pays a une capitale située sous le niveau de la mer ?",
+    "answers": ["Danemark", "Pays-Bas", "Belgique", "Allemagne"],
     "correctIndex": 1
   },
   {
     "id": "q22",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal dort debout ?",
-    "answers": [
-      "Dauphin",
-      "Cheval",
-      "Chat",
-      "Chien"
-    ],
+    "text": "Quel animal peut vivre sans tête pendant plusieurs jours ?",
+    "answers": ["Scarabée", "Cafard", "Fourmi", "Araignée"],
     "correctIndex": 1
   },
   {
     "id": "q23",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
-    "answers": [
-      "Brésil",
-      "Inde",
-      "Jamaïque",
-      "Afrique du Sud"
-    ],
+    "text": "Quel est l’os le plus long du corps humain ?",
+    "answers": ["Tibia", "Humérus", "Fémur", "Radius"],
     "correctIndex": 2
   },
   {
     "id": "q24",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
-    "answers": [
-      "Perroquet",
-      "Chouette",
-      "Serpent",
-      "Iguane"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal peut produire des ultrasons ?",
+    "answers": ["Chauve-souris", "Chat", "Chien", "Rat"],
+    "correctIndex": 0
   },
   {
     "id": "q25",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal dort debout ?",
-    "answers": [
-      "Chien",
-      "Chat",
-      "Cheval",
-      "Dauphin"
-    ],
-    "correctIndex": 2
+    "text": "Quelle boisson était à l’origine un médicament ?",
+    "answers": ["Coca-Cola", "Thé", "Café", "Bière"],
+    "correctIndex": 0
   },
+
   {
     "id": "q26",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel objet est utilisé pour mesurer la température ?",
-    "answers": [
-      "Altimètre",
-      "Baromètre",
-      "Hygromètre",
-      "Thermomètre"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal peut sentir une goutte de sang à plusieurs kilomètres ?",
+    "answers": ["Requin", "Baleine", "Dauphin", "Phoque"],
+    "correctIndex": 0
   },
   {
     "id": "q27",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle est la capitale la plus au nord du monde ?",
-    "answers": [
-      "Helsinki",
-      "Oslo",
-      "Reykjavik",
-      "Moscou"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays a un drapeau sans aucune couleur rouge, blanche ou bleue ?",
+    "answers": ["Jamaïque", "Brésil", "Inde", "Afrique du Sud"],
+    "correctIndex": 0
   },
   {
     "id": "q28",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est le plus petit pays du monde ?",
-    "answers": [
-      "Nauru",
-      "Vatican",
-      "Saint-Marin",
-      "Monaco"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal peut régénérer ses organes internes ?",
+    "answers": ["Étoile de mer", "Poisson", "Crabe", "Serpent"],
+    "correctIndex": 0
   },
   {
     "id": "q29",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est le plus petit pays du monde ?",
-    "answers": [
-      "Nauru",
-      "Saint-Marin",
-      "Monaco",
-      "Vatican"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays possède le plus de pyramides au monde ?",
+    "answers": ["Égypte", "Mexique", "Soudan", "Pérou"],
+    "correctIndex": 2
   },
   {
     "id": "q30",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est l'aliment principal des pandas géants ?",
-    "answers": [
-      "Herbe",
-      "Bambou",
-      "Riz",
-      "Eucalyptus"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal n’a pas de dents ?",
+    "answers": ["Fourmilier", "Chien", "Chat", "Serpent"],
+    "correctIndex": 0
   },
+
   {
     "id": "q31",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle mer est connue pour sa forte salinité ?",
-    "answers": [
-      "Mer Morte",
-      "Mer Caspienne",
-      "Mer Rouge",
-      "Mer Noire"
-    ],
+    "text": "Quel objet permet de mesurer un séisme ?",
+    "answers": ["Sismographe", "Baromètre", "Altimètre", "Thermomètre"],
     "correctIndex": 0
   },
   {
     "id": "q32",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle mer est connue pour sa forte salinité ?",
-    "answers": [
-      "Mer Caspienne",
-      "Mer Morte",
-      "Mer Noire",
-      "Mer Rouge"
-    ],
+    "text": "Quel animal peut survivre dans le vide spatial pendant un court instant ?",
+    "answers": ["Fourmi", "Tardigrade", "Araignée", "Scorpion"],
     "correctIndex": 1
   },
   {
     "id": "q33",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est le plus petit pays du monde ?",
-    "answers": [
-      "Vatican",
-      "Saint-Marin",
-      "Monaco",
-      "Nauru"
-    ],
+    "text": "Quel pays a le plus grand nombre de lacs naturels ?",
+    "answers": ["Canada", "Finlande", "Russie", "Suède"],
     "correctIndex": 0
   },
   {
     "id": "q34",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle est la capitale la plus au nord du monde ?",
-    "answers": [
-      "Moscou",
-      "Reykjavik",
-      "Helsinki",
-      "Oslo"
-    ],
+    "text": "Quel animal peut entendre des fréquences inaudibles pour l’homme ?",
+    "answers": ["Chat", "Chien", "Cheval", "Vache"],
     "correctIndex": 1
   },
   {
     "id": "q35",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle mer est connue pour sa forte salinité ?",
-    "answers": [
-      "Mer Morte",
-      "Mer Rouge",
-      "Mer Caspienne",
-      "Mer Noire"
-    ],
-    "correctIndex": 0
+    "text": "Quel aliment ne se périme jamais naturellement ?",
+    "answers": ["Sucre", "Sel", "Miel", "Riz"],
+    "correctIndex": 2
   },
+
   {
     "id": "q36",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est l'aliment principal des pandas géants ?",
-    "answers": [
-      "Riz",
-      "Herbe",
-      "Bambou",
-      "Eucalyptus"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal peut voir dans l’obscurité presque totale ?",
+    "answers": ["Chat", "Chien", "Lapin", "Cheval"],
+    "correctIndex": 0
   },
   {
     "id": "q37",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
-    "answers": [
-      "Amsterdam",
-      "Venise",
-      "Bangkok",
-      "Bruges"
-    ],
+    "text": "Quel pays a inventé le papier toilette ?",
+    "answers": ["Japon", "Chine", "Inde", "Égypte"],
     "correctIndex": 1
   },
   {
     "id": "q38",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal dort debout ?",
-    "answers": [
-      "Cheval",
-      "Dauphin",
-      "Chien",
-      "Chat"
-    ],
-    "correctIndex": 0
+    "text": "Quel animal peut vivre plus de 100 ans ?",
+    "answers": ["Perroquet", "Baleine", "Tortue", "Éléphant"],
+    "correctIndex": 2
   },
   {
     "id": "q39",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle est la capitale la plus au nord du monde ?",
-    "answers": [
-      "Moscou",
-      "Oslo",
-      "Helsinki",
-      "Reykjavik"
-    ],
-    "correctIndex": 3
+    "text": "Quel objet a été inventé avant l’ampoule électrique ?",
+    "answers": ["Bougie", "Télégraphe", "Téléphone", "Radio"],
+    "correctIndex": 0
   },
   {
     "id": "q40",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est l'aliment principal des pandas géants ?",
-    "answers": [
-      "Bambou",
-      "Riz",
-      "Herbe",
-      "Eucalyptus"
-    ],
-    "correctIndex": 0
+    "text": "Quel animal peut survivre sans boire directement de l’eau ?",
+    "answers": ["Chameau", "Rat-kangourou", "Serpent", "Fennec"],
+    "correctIndex": 1
   },
+
   {
     "id": "q41",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel objet est utilisé pour mesurer la température ?",
-    "answers": [
-      "Baromètre",
-      "Thermomètre",
-      "Hygromètre",
-      "Altimètre"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays possède une plage naturellement rose ?",
+    "answers": ["Grèce", "Mexique", "Bahamas", "Espagne"],
+    "correctIndex": 2
   },
   {
     "id": "q42",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
-    "answers": [
-      "Inde",
-      "Afrique du Sud",
-      "Brésil",
-      "Jamaïque"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal peut ressentir les vibrations du sol à distance ?",
+    "answers": ["Chien", "Serpent", "Chat", "Lapin"],
+    "correctIndex": 1
   },
   {
     "id": "q43",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
-    "answers": [
-      "Serpent",
-      "Chouette",
-      "Iguane",
-      "Perroquet"
-    ],
-    "correctIndex": 1
+    "text": "Quel objet permet de mesurer la pression atmosphérique ?",
+    "answers": ["Thermomètre", "Altimètre", "Baromètre", "Anémomètre"],
+    "correctIndex": 2
   },
   {
     "id": "q44",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
-    "answers": [
-      "Chouette",
-      "Perroquet",
-      "Iguane",
-      "Serpent"
-    ],
-    "correctIndex": 0
+    "text": "Quel animal peut retenir sa respiration le plus longtemps ?",
+    "answers": ["Dauphin", "Baleine", "Phoque", "Cachalot"],
+    "correctIndex": 3
   },
   {
     "id": "q45",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
-    "answers": [
-      "Brésil",
-      "Jamaïque",
-      "Afrique du Sud",
-      "Inde"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays a une ville entièrement souterraine encore visitable ?",
+    "answers": ["Turquie", "Iran", "Maroc", "Égypte"],
+    "correctIndex": 0
   },
+
   {
     "id": "q46",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel objet est utilisé pour mesurer la température ?",
-    "answers": [
-      "Hygromètre",
-      "Thermomètre",
-      "Baromètre",
-      "Altimètre"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal peut reconnaître son nom parmi d’autres mots ?",
+    "answers": ["Chat", "Chien", "Cheval", "Perroquet"],
+    "correctIndex": 0
   },
   {
     "id": "q47",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
-    "answers": [
-      "Bangkok",
-      "Bruges",
-      "Amsterdam",
-      "Venise"
-    ],
-    "correctIndex": 3
+    "text": "Quel objet est considéré comme l’un des plus sales du quotidien ?",
+    "answers": ["Clavier", "Téléphone", "Télécommande", "Poignée de porte"],
+    "correctIndex": 1
   },
   {
     "id": "q48",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel objet est utilisé pour mesurer la température ?",
-    "answers": [
-      "Hygromètre",
-      "Altimètre",
-      "Thermomètre",
-      "Baromètre"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal peut produire de l’électricité ?",
+    "answers": ["Anguille électrique", "Requin", "Raie manta", "Poisson-lune"],
+    "correctIndex": 0
   },
   {
     "id": "q49",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel objet est utilisé pour mesurer la température ?",
-    "answers": [
-      "Altimètre",
-      "Baromètre",
-      "Thermomètre",
-      "Hygromètre"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays a une frontière terrestre avec le plus de pays ?",
+    "answers": ["Chine", "Russie", "Brésil", "Inde"],
+    "correctIndex": 1
   },
   {
     "id": "q50",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle est la capitale la plus au nord du monde ?",
-    "answers": [
-      "Oslo",
-      "Moscou",
-      "Helsinki",
-      "Reykjavik"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal peut vivre le plus longtemps sans dormir ?",
+    "answers": ["Cheval", "Fourmi", "Serpent", "Grenouille"],
+    "correctIndex": 1
   },
   {
     "id": "q51",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel objet est utilisé pour mesurer la température ?",
-    "answers": [
-      "Altimètre",
-      "Thermomètre",
-      "Baromètre",
-      "Hygromètre"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal possède des empreintes digitales presque identiques à celles des humains ?",
+    "answers": ["Koala", "Chimpanzé", "Ours", "Lémurien"],
+    "correctIndex": 0
   },
   {
     "id": "q52",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle mer est connue pour sa forte salinité ?",
-    "answers": [
-      "Mer Noire",
-      "Mer Morte",
-      "Mer Rouge",
-      "Mer Caspienne"
-    ],
+    "text": "Quel objet est interdit dans certains pays car il est jugé trop bruyant ?",
+    "answers": ["Aspirateur", "Sèche-cheveux", "Klaxon", "Tondeuse"],
     "correctIndex": 1
   },
   {
     "id": "q53",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est l'aliment principal des pandas géants ?",
-    "answers": [
-      "Eucalyptus",
-      "Riz",
-      "Herbe",
-      "Bambou"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal peut survivre plusieurs jours sans tête ?",
+    "answers": ["Araignée", "Scorpion", "Cafard", "Fourmi"],
+    "correctIndex": 2
   },
   {
     "id": "q54",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
-    "answers": [
-      "Perroquet",
-      "Iguane",
-      "Serpent",
-      "Chouette"
-    ],
+    "text": "Quel pays a une loi interdisant de mâcher du chewing-gum dans la rue ?",
+    "answers": ["Japon", "Chine", "Corée du Sud", "Singapour"],
     "correctIndex": 3
   },
   {
     "id": "q55",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
-    "answers": [
-      "Iguane",
-      "Serpent",
-      "Perroquet",
-      "Chouette"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal peut détecter les champs électriques ?",
+    "answers": ["Requin", "Dauphin", "Tortue", "Pieuvre"],
+    "correctIndex": 0
   },
   {
     "id": "q56",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est le plus petit pays du monde ?",
-    "answers": [
-      "Vatican",
-      "Saint-Marin",
-      "Nauru",
-      "Monaco"
-    ],
-    "correctIndex": 0
+    "text": "Quel est le seul fruit qui flotte naturellement sur l’eau ?",
+    "answers": ["Orange", "Pomme", "Noix de coco", "Citron"],
+    "correctIndex": 2
   },
   {
     "id": "q57",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est l'aliment principal des pandas géants ?",
-    "answers": [
-      "Bambou",
-      "Herbe",
-      "Riz",
-      "Eucalyptus"
-    ],
-    "correctIndex": 0
+    "text": "Quel animal possède la langue la plus longue par rapport à son corps ?",
+    "answers": ["Girafe", "Caméléon", "Fourmilier", "Grenouille"],
+    "correctIndex": 1
   },
   {
     "id": "q58",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est le plus petit pays du monde ?",
-    "answers": [
-      "Saint-Marin",
-      "Monaco",
-      "Nauru",
-      "Vatican"
-    ],
+    "text": "Quel est le pays avec le plus de distributeurs automatiques par habitant ?",
+    "answers": ["Corée du Sud", "États-Unis", "Chine", "Japon"],
     "correctIndex": 3
   },
   {
     "id": "q59",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est l'aliment principal des pandas géants ?",
-    "answers": [
-      "Bambou",
-      "Eucalyptus",
-      "Herbe",
-      "Riz"
-    ],
-    "correctIndex": 0
+    "text": "Quel animal peut voir les couleurs ultraviolettes ?",
+    "answers": ["Chien", "Chat", "Abeille", "Souris"],
+    "correctIndex": 2
   },
   {
     "id": "q60",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
-    "answers": [
-      "Inde",
-      "Brésil",
-      "Afrique du Sud",
-      "Jamaïque"
-    ],
-    "correctIndex": 3
+    "text": "Quel objet du quotidien a été inventé à l’origine pour des raisons médicales ?",
+    "answers": ["Four micro-ondes", "Sucette", "Stylo", "Montre"],
+    "correctIndex": 1
   },
+
   {
     "id": "q61",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
-    "answers": [
-      "Chouette",
-      "Serpent",
-      "Perroquet",
-      "Iguane"
-    ],
+    "text": "Quel animal est capable de reconnaître un humain après plusieurs années ?",
+    "answers": ["Corbeau", "Poisson rouge", "Hamster", "Poule"],
     "correctIndex": 0
   },
   {
     "id": "q62",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
-    "answers": [
-      "Serpent",
-      "Chouette",
-      "Perroquet",
-      "Iguane"
-    ],
-    "correctIndex": 1
+    "text": "Quelle partie du corps humain produit le plus de chaleur ?",
+    "answers": ["Les mains", "Les pieds", "La tête", "Le torse"],
+    "correctIndex": 2
   },
   {
     "id": "q63",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est le plus petit pays du monde ?",
-    "answers": [
-      "Vatican",
-      "Nauru",
-      "Monaco",
-      "Saint-Marin"
-    ],
-    "correctIndex": 0
+    "text": "Quel animal peut survivre congelé puis revenir à la vie ?",
+    "answers": ["Grenouille", "Tardigrade", "Serpent", "Poisson"],
+    "correctIndex": 1
   },
   {
     "id": "q64",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel objet est utilisé pour mesurer la température ?",
-    "answers": [
-      "Baromètre",
-      "Thermomètre",
-      "Altimètre",
-      "Hygromètre"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays possède une route traversant un immeuble ?",
+    "answers": ["Chine", "Japon", "Corée du Sud", "Vietnam"],
+    "correctIndex": 0
   },
   {
     "id": "q65",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal dort debout ?",
-    "answers": [
-      "Chien",
-      "Dauphin",
-      "Chat",
-      "Cheval"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal peut ressentir les vibrations sismiques avant un séisme ?",
+    "answers": ["Chien", "Serpent", "Cheval", "Vache"],
+    "correctIndex": 1
   },
   {
     "id": "q66",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
-    "answers": [
-      "Tomate",
-      "Poivron",
-      "Courgette",
-      "Concombre"
-    ],
-    "correctIndex": 0
+    "text": "Quel est le seul continent sans fourmis indigènes ?",
+    "answers": ["Afrique", "Europe", "Antarctique", "Australie"],
+    "correctIndex": 2
   },
   {
     "id": "q67",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
-    "answers": [
-      "Inde",
-      "Jamaïque",
-      "Brésil",
-      "Afrique du Sud"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal possède des yeux plus grands que son cerveau ?",
+    "answers": ["Pieuvre", "Chouette", "Autruche", "Caméléon"],
+    "correctIndex": 2
   },
   {
     "id": "q68",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
-    "answers": [
-      "Perroquet",
-      "Serpent",
-      "Iguane",
-      "Chouette"
-    ],
-    "correctIndex": 3
+    "text": "Quel objet a été inventé par accident lors d’une expérience ratée ?",
+    "answers": ["Post-it", "Ampoule", "Parfum", "Radio"],
+    "correctIndex": 0
   },
   {
     "id": "q69",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel objet est utilisé pour mesurer la température ?",
-    "answers": [
-      "Thermomètre",
-      "Altimètre",
-      "Baromètre",
-      "Hygromètre"
-    ],
-    "correctIndex": 0
+    "text": "Quel animal peut vivre le plus longtemps sans manger ?",
+    "answers": ["Serpent", "Crocodile", "Ours", "Tortue"],
+    "correctIndex": 1
   },
   {
     "id": "q70",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle mer est connue pour sa forte salinité ?",
-    "answers": [
-      "Mer Rouge",
-      "Mer Morte",
-      "Mer Noire",
-      "Mer Caspienne"
-    ],
+    "text": "Quel pays a une plage avec du sable rose naturel ?",
+    "answers": ["Australie", "Bahamas", "Grèce", "Mexique"],
     "correctIndex": 1
   },
+
   {
     "id": "q71",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
-    "answers": [
-      "Perroquet",
-      "Iguane",
-      "Chouette",
-      "Serpent"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal est capable d’imiter des sons humains ?",
+    "answers": ["Perroquet", "Corbeau", "Pie", "Dauphin"],
+    "correctIndex": 0
   },
   {
     "id": "q72",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle mer est connue pour sa forte salinité ?",
-    "answers": [
-      "Mer Noire",
-      "Mer Rouge",
-      "Mer Caspienne",
-      "Mer Morte"
-    ],
+    "text": "Quelle odeur est impossible à sentir pour la majorité des humains ?",
+    "answers": ["Vanille", "Ozone", "Gaz naturel", "Méthane pur"],
     "correctIndex": 3
   },
   {
     "id": "q73",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal dort debout ?",
-    "answers": [
-      "Cheval",
-      "Chien",
-      "Dauphin",
-      "Chat"
-    ],
-    "correctIndex": 0
+    "text": "Quel animal peut marcher sur l’eau pendant quelques secondes ?",
+    "answers": ["Grenouille", "Basilic", "Libellule", "Araignée"],
+    "correctIndex": 1
   },
   {
     "id": "q74",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
-    "answers": [
-      "Chouette",
-      "Iguane",
-      "Perroquet",
-      "Serpent"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays a une loi obligeant à sourire sur les photos officielles ?",
+    "answers": ["France", "Brésil", "Espagne", "États-Unis"],
+    "correctIndex": 3
   },
   {
     "id": "q75",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
-    "answers": [
-      "Chouette",
-      "Serpent",
-      "Iguane",
-      "Perroquet"
-    ],
+    "text": "Quel animal n’a pas de paupières ?",
+    "answers": ["Serpent", "Lézard", "Grenouille", "Tortue"],
     "correctIndex": 0
   },
   {
     "id": "q76",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
-    "answers": [
-      "Bangkok",
-      "Amsterdam",
-      "Bruges",
-      "Venise"
-    ],
-    "correctIndex": 3
+    "text": "Quel est le seul os du corps humain qui n’est relié à aucun autre os ?",
+    "answers": ["Rotule", "Clavicule", "Os hyoïde", "Coccyx"],
+    "correctIndex": 2
   },
   {
     "id": "q77",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle est la capitale la plus au nord du monde ?",
-    "answers": [
-      "Reykjavik",
-      "Helsinki",
-      "Moscou",
-      "Oslo"
-    ],
+    "text": "Quel animal peut changer de sexe au cours de sa vie ?",
+    "answers": ["Poisson-clown", "Dauphin", "Requin", "Saumon"],
     "correctIndex": 0
   },
   {
     "id": "q78",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle mer est connue pour sa forte salinité ?",
-    "answers": [
-      "Mer Rouge",
-      "Mer Caspienne",
-      "Mer Noire",
-      "Mer Morte"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays possède un lac rose naturel ?",
+    "answers": ["Canada", "Australie", "Inde", "Argentine"],
+    "correctIndex": 1
   },
   {
     "id": "q79",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
-    "answers": [
-      "Concombre",
-      "Courgette",
-      "Tomate",
-      "Poivron"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal peut survivre dans l’espace pendant un court laps de temps ?",
+    "answers": ["Fourmi", "Tardigrade", "Araignée", "Scarabée"],
+    "correctIndex": 1
   },
   {
     "id": "q80",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel objet est utilisé pour mesurer la température ?",
-    "answers": [
-      "Altimètre",
-      "Hygromètre",
-      "Thermomètre",
-      "Baromètre"
-    ],
-    "correctIndex": 2
+    "text": "Quel objet est considéré comme le plus sale du quotidien ?",
+    "answers": ["Téléphone", "Clavier", "Poignée de porte", "Télécommande"],
+    "correctIndex": 0
   },
+
   {
     "id": "q81",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
-    "answers": [
-      "Perroquet",
-      "Iguane",
-      "Serpent",
-      "Chouette"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal peut produire sa propre lumière ?",
+    "answers": ["Méduse", "Poisson-clown", "Requin", "Hippocampe"],
+    "correctIndex": 0
   },
   {
     "id": "q82",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est le plus petit pays du monde ?",
-    "answers": [
-      "Saint-Marin",
-      "Nauru",
-      "Vatican",
-      "Monaco"
-    ],
+    "text": "Quel pays possède la plus grande grotte du monde ?",
+    "answers": ["Chine", "Mexique", "Vietnam", "Brésil"],
     "correctIndex": 2
   },
   {
     "id": "q83",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
-    "answers": [
-      "Chouette",
-      "Perroquet",
-      "Iguane",
-      "Serpent"
-    ],
-    "correctIndex": 0
+    "text": "Quel animal peut survivre sans oxygène pendant plusieurs heures ?",
+    "answers": ["Poisson", "Tortue", "Grenouille", "Serpent"],
+    "correctIndex": 1
   },
   {
     "id": "q84",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel objet est utilisé pour mesurer la température ?",
-    "answers": [
-      "Hygromètre",
-      "Thermomètre",
-      "Altimètre",
-      "Baromètre"
-    ],
-    "correctIndex": 1
+    "text": "Quel objet a été inventé avant la roue ?",
+    "answers": ["Bateau", "Couteau", "Aiguille", "Panier"],
+    "correctIndex": 2
   },
   {
     "id": "q85",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
-    "answers": [
-      "Serpent",
-      "Iguane",
-      "Chouette",
-      "Perroquet"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal peut entendre des sons à très haute fréquence ?",
+    "answers": ["Chien", "Chat", "Éléphant", "Vache"],
+    "correctIndex": 0
   },
   {
     "id": "q86",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est le plus petit pays du monde ?",
-    "answers": [
-      "Vatican",
-      "Nauru",
-      "Saint-Marin",
-      "Monaco"
-    ],
+    "text": "Quel pays a un hymne national sans paroles officielles ?",
+    "answers": ["Espagne", "Allemagne", "Italie", "Portugal"],
     "correctIndex": 0
   },
   {
     "id": "q87",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
-    "answers": [
-      "Bangkok",
-      "Venise",
-      "Amsterdam",
-      "Bruges"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal peut retenir sa respiration le plus longtemps ?",
+    "answers": ["Baleine", "Dauphin", "Phoque", "Cachalot"],
+    "correctIndex": 3
   },
   {
     "id": "q88",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
-    "answers": [
-      "Bruges",
-      "Bangkok",
-      "Venise",
-      "Amsterdam"
-    ],
-    "correctIndex": 2
+    "text": "Quel insecte peut porter plusieurs fois son propre poids ?",
+    "answers": ["Fourmi", "Scarabée", "Criquet", "Abeille"],
+    "correctIndex": 0
   },
   {
     "id": "q89",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
-    "answers": [
-      "Afrique du Sud",
-      "Jamaïque",
-      "Brésil",
-      "Inde"
-    ],
+    "text": "Quel pays a une frontière avec le plus grand nombre de pays ?",
+    "answers": ["Chine", "Russie", "Brésil", "Inde"],
     "correctIndex": 1
   },
   {
     "id": "q90",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est l'aliment principal des pandas géants ?",
-    "answers": [
-      "Bambou",
-      "Herbe",
-      "Eucalyptus",
-      "Riz"
-    ],
-    "correctIndex": 0
+    "text": "Quel animal peut dormir plus de 20 heures par jour ?",
+    "answers": ["Koala", "Chat", "Paresseux", "Hamster"],
+    "correctIndex": 2
   },
+
   {
     "id": "q91",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal dort debout ?",
-    "answers": [
-      "Chien",
-      "Cheval",
-      "Dauphin",
-      "Chat"
-    ],
-    "correctIndex": 1
+    "text": "Quel objet a été inventé pour aider à compter les moutons ?",
+    "answers": ["Boulier", "Montre", "Calendrier", "Horloge"],
+    "correctIndex": 0
   },
   {
     "id": "q92",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
-    "answers": [
-      "Serpent",
-      "Chouette",
-      "Perroquet",
-      "Iguane"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal peut reconnaître son nom ?",
+    "answers": ["Chat", "Chien", "Perroquet", "Cheval"],
+    "correctIndex": 0
   },
   {
     "id": "q93",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
-    "answers": [
-      "Bruges",
-      "Venise",
-      "Amsterdam",
-      "Bangkok"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays a un jour férié dédié au chat ?",
+    "answers": ["Japon", "Italie", "Turquie", "France"],
+    "correctIndex": 0
   },
   {
     "id": "q94",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est l'aliment principal des pandas géants ?",
-    "answers": [
-      "Herbe",
-      "Bambou",
-      "Riz",
-      "Eucalyptus"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal peut survivre après avoir perdu une grande partie de son corps ?",
+    "answers": ["Étoile de mer", "Poisson", "Crabe", "Mollusque"],
+    "correctIndex": 0
   },
   {
     "id": "q95",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
-    "answers": [
-      "Concombre",
-      "Poivron",
-      "Tomate",
-      "Courgette"
-    ],
+    "text": "Quel pays possède la plus grande chute d’eau du monde ?",
+    "answers": ["Brésil", "Canada", "Venezuela", "Afrique du Sud"],
     "correctIndex": 2
   },
   {
     "id": "q96",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal dort debout ?",
-    "answers": [
-      "Cheval",
-      "Chien",
-      "Chat",
-      "Dauphin"
-    ],
-    "correctIndex": 0
+    "text": "Quel animal peut ressentir la douleur dans ses dents comme un humain ?",
+    "answers": ["Crocodile", "Requin", "Chien", "Chat"],
+    "correctIndex": 2
   },
   {
     "id": "q97",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
-    "answers": [
-      "Amsterdam",
-      "Bangkok",
-      "Venise",
-      "Bruges"
-    ],
-    "correctIndex": 2
+    "text": "Quel objet est interdit dans certains pays car jugé trop dangereux ?",
+    "answers": ["Couteau", "Micro-ondes", "Parapluie pointu", "Laser puissant"],
+    "correctIndex": 3
   },
   {
     "id": "q98",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle mer est connue pour sa forte salinité ?",
-    "answers": [
-      "Mer Rouge",
-      "Mer Morte",
-      "Mer Caspienne",
-      "Mer Noire"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal peut vivre le plus longtemps sans dormir ?",
+    "answers": ["Cheval", "Serpent", "Fourmi", "Grenouille"],
+    "correctIndex": 2
   },
   {
     "id": "q99",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal dort debout ?",
-    "answers": [
-      "Cheval",
-      "Chat",
-      "Chien",
-      "Dauphin"
-    ],
+    "text": "Quel pays possède une ville souterraine habitée ?",
+    "answers": ["Turquie", "Iran", "Égypte", "Jordanie"],
     "correctIndex": 0
   },
   {
     "id": "q100",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle mer est connue pour sa forte salinité ?",
-    "answers": [
-      "Mer Morte",
-      "Mer Noire",
-      "Mer Rouge",
-      "Mer Caspienne"
-    ],
+    "text": "Quel animal peut produire des empreintes différentes à chaque pas ?",
+    "answers": ["Pieuvre", "Caméléon", "Serpent", "Crabe"],
     "correctIndex": 0
   },
   {
     "id": "q101",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel objet est utilisé pour mesurer la température ?",
-    "answers": [
-      "Baromètre",
-      "Thermomètre",
-      "Hygromètre",
-      "Altimètre"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal possède le plus grand œil du règne animal ?",
+    "answers": ["Calmar géant", "Baleine", "Autruche", "Requin"],
+    "correctIndex": 0
   },
   {
     "id": "q102",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel objet est utilisé pour mesurer la température ?",
-    "answers": [
-      "Altimètre",
-      "Hygromètre",
-      "Baromètre",
-      "Thermomètre"
-    ],
-    "correctIndex": 3
+    "text": "Quel objet a été inventé pour éviter que les bébés pleurent trop ?",
+    "answers": ["Hochet", "Sucette", "Biberon", "Berceau"],
+    "correctIndex": 1
   },
   {
     "id": "q103",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
-    "answers": [
-      "Perroquet",
-      "Serpent",
-      "Chouette",
-      "Iguane"
-    ],
+    "text": "Quel animal peut survivre plusieurs mois sans manger ?",
+    "answers": ["Ours", "Crocodile", "Serpent", "Chameau"],
     "correctIndex": 2
   },
   {
     "id": "q104",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal dort debout ?",
-    "answers": [
-      "Cheval",
-      "Dauphin",
-      "Chat",
-      "Chien"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays possède un lac entièrement gelé la majorité de l’année ?",
+    "answers": ["Canada", "Norvège", "Finlande", "Antarctique"],
+    "correctIndex": 3
   },
   {
     "id": "q105",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est le plus petit pays du monde ?",
-    "answers": [
-      "Nauru",
-      "Vatican",
-      "Monaco",
-      "Saint-Marin"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal peut voir la Terre depuis l’espace grâce à sa vision ?",
+    "answers": ["Aigle", "Faucon", "Condor", "Vautour"],
+    "correctIndex": 0
   },
   {
     "id": "q106",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
-    "answers": [
-      "Concombre",
-      "Poivron",
-      "Tomate",
-      "Courgette"
-    ],
-    "correctIndex": 2
+    "text": "Quel fruit était à l’origine amer avant d’être modifié par l’homme ?",
+    "answers": ["Citron", "Banane", "Pastèque", "Fraise"],
+    "correctIndex": 1
   },
   {
     "id": "q107",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle mer est connue pour sa forte salinité ?",
-    "answers": [
-      "Mer Noire",
-      "Mer Rouge",
-      "Mer Caspienne",
-      "Mer Morte"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal possède le plus grand nombre de dents ?",
+    "answers": ["Requin", "Escargot", "Crocodile", "Cheval"],
+    "correctIndex": 1
   },
   {
     "id": "q108",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle est la capitale la plus au nord du monde ?",
-    "answers": [
-      "Moscou",
-      "Oslo",
-      "Reykjavik",
-      "Helsinki"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays a une route traversant une montagne par ascenseur ?",
+    "answers": ["Japon", "Chine", "Suisse", "Autriche"],
+    "correctIndex": 1
   },
   {
     "id": "q109",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle mer est connue pour sa forte salinité ?",
-    "answers": [
-      "Mer Morte",
-      "Mer Noire",
-      "Mer Rouge",
-      "Mer Caspienne"
-    ],
-    "correctIndex": 0
+    "text": "Quel animal peut ressentir la douleur émotionnelle ?",
+    "answers": ["Chien", "Chat", "Éléphant", "Cheval"],
+    "correctIndex": 2
   },
   {
     "id": "q110",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
-    "answers": [
-      "Bruges",
-      "Bangkok",
-      "Amsterdam",
-      "Venise"
-    ],
-    "correctIndex": 3
+    "text": "Quel objet du quotidien a été inventé pour l’armée avant d’être civil ?",
+    "answers": ["Internet", "GPS", "Radio", "Télévision"],
+    "correctIndex": 1
   },
+
   {
     "id": "q111",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
-    "answers": [
-      "Courgette",
-      "Concombre",
-      "Poivron",
-      "Tomate"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal peut survivre après avoir été coupé en deux ?",
+    "answers": ["Ver de terre", "Étoile de mer", "Méduse", "Escargot"],
+    "correctIndex": 1
   },
   {
     "id": "q112",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel objet est utilisé pour mesurer la température ?",
-    "answers": [
-      "Baromètre",
-      "Hygromètre",
-      "Thermomètre",
-      "Altimètre"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays possède un désert de sel gigantesque ?",
+    "answers": ["Chili", "Bolivie", "Pérou", "Argentine"],
+    "correctIndex": 1
   },
   {
     "id": "q113",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est l'aliment principal des pandas géants ?",
-    "answers": [
-      "Herbe",
-      "Eucalyptus",
-      "Riz",
-      "Bambou"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal peut produire des sons inaudibles pour l’homme ?",
+    "answers": ["Chien", "Chat", "Dauphin", "Cheval"],
+    "correctIndex": 2
   },
   {
     "id": "q114",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est l'aliment principal des pandas géants ?",
-    "answers": [
-      "Eucalyptus",
-      "Herbe",
-      "Bambou",
-      "Riz"
-    ],
-    "correctIndex": 2
+    "text": "Quel objet permet de mesurer l’humidité de l’air ?",
+    "answers": ["Baromètre", "Altimètre", "Anémomètre", "Hygromètre"],
+    "correctIndex": 3
   },
   {
     "id": "q115",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle mer est connue pour sa forte salinité ?",
-    "answers": [
-      "Mer Rouge",
-      "Mer Noire",
-      "Mer Morte",
-      "Mer Caspienne"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal peut dormir pendant plusieurs mois d’affilée ?",
+    "answers": ["Ours", "Écureuil", "Hérisson", "Marmotte"],
+    "correctIndex": 0
   },
   {
     "id": "q116",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est le plus petit pays du monde ?",
-    "answers": [
-      "Monaco",
-      "Vatican",
-      "Saint-Marin",
-      "Nauru"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays possède la plus haute route asphaltée du monde ?",
+    "answers": ["Népal", "Pérou", "Chine", "Inde"],
+    "correctIndex": 2
   },
   {
     "id": "q117",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
-    "answers": [
-      "Tomate",
-      "Courgette",
-      "Concombre",
-      "Poivron"
-    ],
+    "text": "Quel animal peut reconnaître des expressions humaines ?",
+    "answers": ["Chien", "Chat", "Cheval", "Mouton"],
     "correctIndex": 0
   },
   {
     "id": "q118",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle mer est connue pour sa forte salinité ?",
-    "answers": [
-      "Mer Caspienne",
-      "Mer Morte",
-      "Mer Rouge",
-      "Mer Noire"
-    ],
-    "correctIndex": 1
+    "text": "Quel objet a été inventé avant l’avion ?",
+    "answers": ["Parachute", "Hélicoptère", "Fusée", "Planeur"],
+    "correctIndex": 0
   },
   {
     "id": "q119",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
-    "answers": [
-      "Bangkok",
-      "Bruges",
-      "Amsterdam",
-      "Venise"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal peut vivre à la fois dans l’eau et sur terre ?",
+    "answers": ["Crocodile", "Grenouille", "Serpent", "Tortue"],
+    "correctIndex": 1
   },
   {
     "id": "q120",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
-    "answers": [
-      "Iguane",
-      "Serpent",
-      "Chouette",
-      "Perroquet"
-    ],
+    "text": "Quel pays a une loi interdisant de mourir dans certaines villes ?",
+    "answers": ["France", "Norvège", "Italie", "Japon"],
     "correctIndex": 2
   },
+
   {
     "id": "q121",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
-    "answers": [
-      "Poivron",
-      "Courgette",
-      "Concombre",
-      "Tomate"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal peut entendre des infrasons ?",
+    "answers": ["Éléphant", "Chien", "Chat", "Cheval"],
+    "correctIndex": 0
   },
   {
     "id": "q122",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
-    "answers": [
-      "Concombre",
-      "Courgette",
-      "Poivron",
-      "Tomate"
-    ],
-    "correctIndex": 3
+    "text": "Quel objet a été inventé pour améliorer la sécurité routière ?",
+    "answers": ["Airbag", "Ceinture de sécurité", "Feux stop", "Clignotant"],
+    "correctIndex": 1
   },
   {
     "id": "q123",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel objet est utilisé pour mesurer la température ?",
-    "answers": [
-      "Hygromètre",
-      "Thermomètre",
-      "Altimètre",
-      "Baromètre"
-    ],
+    "text": "Quel animal peut survivre sans tête pendant plusieurs jours ?",
+    "answers": ["Araignée", "Cafard", "Fourmi", "Scorpion"],
     "correctIndex": 1
   },
   {
     "id": "q124",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
-    "answers": [
-      "Serpent",
-      "Iguane",
-      "Perroquet",
-      "Chouette"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays possède une capitale la plus élevée en altitude ?",
+    "answers": ["Bolivie", "Pérou", "Chili", "Équateur"],
+    "correctIndex": 0
   },
   {
     "id": "q125",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
-    "answers": [
-      "Chouette",
-      "Perroquet",
-      "Iguane",
-      "Serpent"
-    ],
+    "text": "Quel animal peut se reconnaître sur une photo ?",
+    "answers": ["Chimpanzé", "Chat", "Chien", "Lapin"],
     "correctIndex": 0
   },
   {
     "id": "q126",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
-    "answers": [
-      "Poivron",
-      "Tomate",
-      "Concombre",
-      "Courgette"
-    ],
+    "text": "Quel objet permet de mesurer le temps sans mécanisme ?",
+    "answers": ["Montre", "Sablier", "Chronomètre", "Horloge"],
     "correctIndex": 1
   },
   {
     "id": "q127",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est l'aliment principal des pandas géants ?",
-    "answers": [
-      "Bambou",
-      "Herbe",
-      "Eucalyptus",
-      "Riz"
-    ],
-    "correctIndex": 0
+    "text": "Quel animal peut produire des champs électriques faibles ?",
+    "answers": ["Anguille électrique", "Raie électrique", "Requin", "Poisson-chat"],
+    "correctIndex": 1
   },
   {
     "id": "q128",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
-    "answers": [
-      "Jamaïque",
-      "Afrique du Sud",
-      "Brésil",
-      "Inde"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays a un village entièrement peint en bleu ?",
+    "answers": ["Grèce", "Maroc", "Espagne", "Portugal"],
+    "correctIndex": 1
   },
   {
     "id": "q129",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel objet est utilisé pour mesurer la température ?",
-    "answers": [
-      "Hygromètre",
-      "Baromètre",
-      "Thermomètre",
-      "Altimètre"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal peut respirer à la fois par des poumons et par la peau ?",
+    "answers": ["Grenouille", "Salamandre", "Triton", "Crapaud"],
+    "correctIndex": 1
   },
   {
     "id": "q130",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est l'aliment principal des pandas géants ?",
-    "answers": [
-      "Herbe",
-      "Eucalyptus",
-      "Bambou",
-      "Riz"
-    ],
-    "correctIndex": 2
+    "text": "Quel objet a été inventé pour empêcher les vitres de se casser ?",
+    "answers": ["Verre feuilleté", "Verre trempé", "Plastique", "Résine"],
+    "correctIndex": 0
   },
+
   {
     "id": "q131",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est l'aliment principal des pandas géants ?",
-    "answers": [
-      "Riz",
-      "Eucalyptus",
-      "Herbe",
-      "Bambou"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal peut ressentir les battements de cœur d’un autre animal ?",
+    "answers": ["Requin", "Chien", "Chat", "Cheval"],
+    "correctIndex": 0
   },
   {
     "id": "q132",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle mer est connue pour sa forte salinité ?",
-    "answers": [
-      "Mer Noire",
-      "Mer Caspienne",
-      "Mer Rouge",
-      "Mer Morte"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays a un fleuve qui change de sens selon la saison ?",
+    "answers": ["Brésil", "Cambodge", "Vietnam", "Laos"],
+    "correctIndex": 1
   },
   {
     "id": "q133",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est l'aliment principal des pandas géants ?",
-    "answers": [
-      "Riz",
-      "Bambou",
-      "Herbe",
-      "Eucalyptus"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal peut vivre sans boire directement d’eau ?",
+    "answers": ["Fennec", "Chameau", "Rat-kangourou", "Lézard"],
+    "correctIndex": 2
   },
   {
     "id": "q134",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est l'aliment principal des pandas géants ?",
-    "answers": [
-      "Riz",
-      "Eucalyptus",
-      "Bambou",
-      "Herbe"
-    ],
-    "correctIndex": 2
+    "text": "Quel objet sert à mesurer la force d’un séisme ?",
+    "answers": ["Baromètre", "Sismographe", "Altimètre", "Anémomètre"],
+    "correctIndex": 1
   },
   {
     "id": "q135",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
-    "answers": [
-      "Venise",
-      "Amsterdam",
-      "Bangkok",
-      "Bruges"
-    ],
+    "text": "Quel animal peut produire des éclairs de lumière ?",
+    "answers": ["Luciole", "Méduse", "Calmar", "Poisson-lanterne"],
     "correctIndex": 0
   },
   {
     "id": "q136",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
-    "answers": [
-      "Chouette",
-      "Iguane",
-      "Perroquet",
-      "Serpent"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays possède la plus longue muraille du monde ?",
+    "answers": ["Mongolie", "Chine", "Inde", "Russie"],
+    "correctIndex": 1
   },
   {
     "id": "q137",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est l'aliment principal des pandas géants ?",
-    "answers": [
-      "Herbe",
-      "Bambou",
-      "Riz",
-      "Eucalyptus"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal peut entendre des sons provenant sous terre ?",
+    "answers": ["Taupe", "Chien", "Chat", "Lapin"],
+    "correctIndex": 0
   },
   {
     "id": "q138",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle est la capitale la plus au nord du monde ?",
-    "answers": [
-      "Moscou",
-      "Reykjavik",
-      "Oslo",
-      "Helsinki"
-    ],
-    "correctIndex": 1
+    "text": "Quel objet a été inventé pour mesurer la profondeur de l’eau ?",
+    "answers": ["Sonar", "Radar", "Altimètre", "Compas"],
+    "correctIndex": 0
   },
   {
     "id": "q139",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est le plus petit pays du monde ?",
-    "answers": [
-      "Vatican",
-      "Nauru",
-      "Saint-Marin",
-      "Monaco"
-    ],
+    "text": "Quel animal peut ressentir la peur chez un humain ?",
+    "answers": ["Chien", "Cheval", "Chat", "Mouton"],
     "correctIndex": 0
   },
   {
     "id": "q140",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
-    "answers": [
-      "Bruges",
-      "Bangkok",
-      "Amsterdam",
-      "Venise"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays a une île entièrement dédiée aux lapins ?",
+    "answers": ["Japon", "Australie", "Nouvelle-Zélande", "Chine"],
+    "correctIndex": 0
   },
+
   {
     "id": "q141",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est le plus petit pays du monde ?",
-    "answers": [
-      "Nauru",
-      "Vatican",
-      "Monaco",
-      "Saint-Marin"
-    ],
+    "text": "Quel animal peut survivre après une congélation complète ?",
+    "answers": ["Grenouille", "Tardigrade", "Serpent", "Poisson"],
     "correctIndex": 1
   },
   {
     "id": "q142",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
-    "answers": [
-      "Bangkok",
-      "Amsterdam",
-      "Venise",
-      "Bruges"
-    ],
-    "correctIndex": 2
+    "text": "Quel objet sert à mesurer l’intensité du vent ?",
+    "answers": ["Baromètre", "Anémomètre", "Hygromètre", "Altimètre"],
+    "correctIndex": 1
   },
   {
     "id": "q143",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est l'aliment principal des pandas géants ?",
-    "answers": [
-      "Eucalyptus",
-      "Herbe",
-      "Riz",
-      "Bambou"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal peut vivre à plus de 10 000 mètres de profondeur ?",
+    "answers": ["Poisson-lanterne", "Calmar géant", "Poisson abyssal", "Méduse"],
+    "correctIndex": 2
   },
   {
     "id": "q144",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est le plus petit pays du monde ?",
-    "answers": [
-      "Vatican",
-      "Nauru",
-      "Monaco",
-      "Saint-Marin"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays a une loi interdisant de nourrir les pigeons ?",
+    "answers": ["France", "Italie", "Espagne", "Suisse"],
+    "correctIndex": 1
   },
   {
     "id": "q145",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
-    "answers": [
-      "Inde",
-      "Jamaïque",
-      "Afrique du Sud",
-      "Brésil"
-    ],
+    "text": "Quel animal peut produire des vibrations pour communiquer ?",
+    "answers": ["Araignée", "Fourmi", "Abeille", "Sauterelle"],
     "correctIndex": 1
   },
   {
     "id": "q146",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
-    "answers": [
-      "Iguane",
-      "Serpent",
-      "Perroquet",
-      "Chouette"
-    ],
-    "correctIndex": 3
+    "text": "Quel objet permet de mesurer la masse d’un objet ?",
+    "answers": ["Balance", "Dynamomètre", "Règle", "Chronomètre"],
+    "correctIndex": 0
   },
   {
     "id": "q147",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel objet est utilisé pour mesurer la température ?",
-    "answers": [
-      "Altimètre",
-      "Thermomètre",
-      "Hygromètre",
-      "Baromètre"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal peut ressentir les champs magnétiques terrestres ?",
+    "answers": ["Oiseau migrateur", "Chat", "Chien", "Lapin"],
+    "correctIndex": 0
   },
   {
     "id": "q148",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel objet est utilisé pour mesurer la température ?",
-    "answers": [
-      "Thermomètre",
-      "Altimètre",
-      "Hygromètre",
-      "Baromètre"
-    ],
+    "text": "Quel pays possède un pont naturel en roche célèbre ?",
+    "answers": ["États-Unis", "Chine", "France", "Italie"],
     "correctIndex": 0
   },
   {
     "id": "q149",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
-    "answers": [
-      "Courgette",
-      "Poivron",
-      "Concombre",
-      "Tomate"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal peut produire des ondes sonores pour se repérer ?",
+    "answers": ["Dauphin", "Chauve-souris", "Requin", "Phoque"],
+    "correctIndex": 1
   },
   {
     "id": "q150",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle est la capitale la plus au nord du monde ?",
-    "answers": [
-      "Moscou",
-      "Reykjavik",
-      "Oslo",
-      "Helsinki"
-    ],
+    "text": "Quel objet a été inventé pour aider à lire dans l’obscurité ?",
+    "answers": ["Bougie", "Lampe torche", "Lunettes", "Allumette"],
     "correctIndex": 1
-  },
+  }?
   {
     "id": "q151",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est le plus petit pays du monde ?",
-    "answers": [
-      "Nauru",
-      "Saint-Marin",
-      "Monaco",
-      "Vatican"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal peut voir plus de couleurs que l’être humain ?",
+    "answers": ["Chien", "Chat", "Crevette-mante", "Cheval"],
+    "correctIndex": 2
   },
   {
     "id": "q152",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
-    "answers": [
-      "Amsterdam",
-      "Bangkok",
-      "Bruges",
-      "Venise"
-    ],
+    "text": "Quel pays a une loi interdisant de mâcher du chewing-gum en public ?",
+    "answers": ["Japon", "Corée du Sud", "Chine", "Singapour"],
     "correctIndex": 3
   },
   {
     "id": "q153",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
-    "answers": [
-      "Brésil",
-      "Inde",
-      "Jamaïque",
-      "Afrique du Sud"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal peut survivre sans oxygène pendant plusieurs heures ?",
+    "answers": ["Tortue", "Grenouille", "Poisson", "Serpent"],
+    "correctIndex": 0
   },
   {
     "id": "q154",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel objet est utilisé pour mesurer la température ?",
-    "answers": [
-      "Altimètre",
-      "Baromètre",
-      "Hygromètre",
-      "Thermomètre"
-    ],
-    "correctIndex": 3
+    "text": "Quel objet permet de mesurer la pression sanguine ?",
+    "answers": ["Thermomètre", "Tensiomètre", "Stéthoscope", "Oxymètre"],
+    "correctIndex": 1
   },
   {
     "id": "q155",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
-    "answers": [
-      "Venise",
-      "Bangkok",
-      "Amsterdam",
-      "Bruges"
-    ],
+    "text": "Quel animal peut produire de la soie ?",
+    "answers": ["Araignée", "Chenille", "Fourmi", "Scorpion"],
     "correctIndex": 0
   },
   {
     "id": "q156",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle est la capitale la plus au nord du monde ?",
-    "answers": [
-      "Helsinki",
-      "Oslo",
-      "Moscou",
-      "Reykjavik"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays possède un volcan constamment actif nommé Stromboli ?",
+    "answers": ["Islande", "Italie", "Indonésie", "Japon"],
+    "correctIndex": 1
   },
   {
     "id": "q157",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
-    "answers": [
-      "Serpent",
-      "Perroquet",
-      "Chouette",
-      "Iguane"
-    ],
+    "text": "Quel animal peut survivre à une forte radiation ?",
+    "answers": ["Fourmi", "Cafard", "Tardigrade", "Scorpion"],
     "correctIndex": 2
   },
   {
     "id": "q158",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
-    "answers": [
-      "Iguane",
-      "Perroquet",
-      "Chouette",
-      "Serpent"
-    ],
+    "text": "Quel objet sert à mesurer la luminosité ?",
+    "answers": ["Baromètre", "Hygromètre", "Luxmètre", "Altimètre"],
     "correctIndex": 2
   },
   {
     "id": "q159",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle est la capitale la plus au nord du monde ?",
-    "answers": [
-      "Helsinki",
-      "Reykjavik",
-      "Moscou",
-      "Oslo"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal peut produire des ondes pour communiquer sous l’eau ?",
+    "answers": ["Baleine", "Requin", "Poisson-lune", "Méduse"],
+    "correctIndex": 0
   },
   {
     "id": "q160",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est le plus petit pays du monde ?",
-    "answers": [
-      "Saint-Marin",
-      "Nauru",
-      "Vatican",
-      "Monaco"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays a une route traversant un immeuble résidentiel ?",
+    "answers": ["Japon", "Chine", "Corée du Sud", "Vietnam"],
+    "correctIndex": 1
   },
+
   {
     "id": "q161",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel objet est utilisé pour mesurer la température ?",
-    "answers": [
-      "Altimètre",
-      "Thermomètre",
-      "Hygromètre",
-      "Baromètre"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal peut régénérer son cœur ?",
+    "answers": ["Axolotl", "Grenouille", "Poisson", "Serpent"],
+    "correctIndex": 0
   },
   {
     "id": "q162",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est l'aliment principal des pandas géants ?",
-    "answers": [
-      "Riz",
-      "Herbe",
-      "Eucalyptus",
-      "Bambou"
-    ],
-    "correctIndex": 3
+    "text": "Quel objet permet de mesurer la vitesse d’un véhicule ?",
+    "answers": ["Compteur", "Altimètre", "Baromètre", "Chronomètre"],
+    "correctIndex": 0
   },
   {
     "id": "q163",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle mer est connue pour sa forte salinité ?",
-    "answers": [
-      "Mer Noire",
-      "Mer Caspienne",
-      "Mer Morte",
-      "Mer Rouge"
-    ],
+    "text": "Quel animal peut ressentir les infrasons émis par des tempêtes ?",
+    "answers": ["Chien", "Chat", "Éléphant", "Cheval"],
     "correctIndex": 2
   },
   {
     "id": "q164",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
-    "answers": [
-      "Tomate",
-      "Poivron",
-      "Courgette",
-      "Concombre"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays possède un désert recouvert de sel appelé Salar d’Uyuni ?",
+    "answers": ["Chili", "Argentine", "Pérou", "Bolivie"],
+    "correctIndex": 3
   },
   {
     "id": "q165",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
-    "answers": [
-      "Serpent",
-      "Perroquet",
-      "Iguane",
-      "Chouette"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal peut respirer par des branchies et des poumons ?",
+    "answers": ["Axolotl", "Grenouille", "Salamandre", "Triton"],
+    "correctIndex": 0
   },
   {
     "id": "q166",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal dort debout ?",
-    "answers": [
-      "Dauphin",
-      "Chien",
-      "Cheval",
-      "Chat"
-    ],
-    "correctIndex": 2
+    "text": "Quel objet sert à mesurer la profondeur de la mer ?",
+    "answers": ["Radar", "Sonar", "Altimètre", "Sextant"],
+    "correctIndex": 1
   },
   {
     "id": "q167",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
-    "answers": [
-      "Perroquet",
-      "Chouette",
-      "Serpent",
-      "Iguane"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal peut ressentir les champs électriques ?",
+    "answers": ["Requin", "Dauphin", "Tortue", "Pieuvre"],
+    "correctIndex": 0
   },
   {
     "id": "q168",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle mer est connue pour sa forte salinité ?",
-    "answers": [
-      "Mer Noire",
-      "Mer Caspienne",
-      "Mer Morte",
-      "Mer Rouge"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays possède une île surnommée l’île aux chats ?",
+    "answers": ["Grèce", "Japon", "Italie", "Turquie"],
+    "correctIndex": 1
   },
   {
     "id": "q169",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
-    "answers": [
-      "Inde",
-      "Brésil",
-      "Jamaïque",
-      "Afrique du Sud"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal peut rester conscient même en dormant partiellement ?",
+    "answers": ["Dauphin", "Oiseau", "Cheval", "Chat"],
+    "correctIndex": 0
   },
   {
     "id": "q170",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est le plus petit pays du monde ?",
-    "answers": [
-      "Saint-Marin",
-      "Nauru",
-      "Vatican",
-      "Monaco"
-    ],
-    "correctIndex": 2
+    "text": "Quel objet permet de mesurer la direction du vent ?",
+    "answers": ["Anémomètre", "Girouette", "Baromètre", "Altimètre"],
+    "correctIndex": 1
   },
+
   {
     "id": "q171",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
-    "answers": [
-      "Chouette",
-      "Iguane",
-      "Serpent",
-      "Perroquet"
-    ],
+    "text": "Quel animal peut survivre dans des environnements extrêmes comme les volcans sous-marins ?",
+    "answers": ["Ver tubicole", "Poisson", "Crabe", "Méduse"],
     "correctIndex": 0
   },
   {
     "id": "q172",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
-    "answers": [
-      "Tomate",
-      "Concombre",
-      "Poivron",
-      "Courgette"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays possède la plus haute chute d’eau du monde ?",
+    "answers": ["Brésil", "Canada", "Venezuela", "Afrique du Sud"],
+    "correctIndex": 2
   },
   {
     "id": "q173",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
-    "answers": [
-      "Poivron",
-      "Courgette",
-      "Concombre",
-      "Tomate"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal peut entendre les ultrasons ?",
+    "answers": ["Chat", "Chien", "Cheval", "Vache"],
+    "correctIndex": 1
   },
   {
     "id": "q174",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est le plus petit pays du monde ?",
-    "answers": [
-      "Saint-Marin",
-      "Nauru",
-      "Vatican",
-      "Monaco"
-    ],
-    "correctIndex": 2
+    "text": "Quel objet a été inventé pour protéger les yeux du soleil ?",
+    "answers": ["Casquette", "Lunettes de soleil", "Chapeau", "Visière"],
+    "correctIndex": 1
   },
   {
     "id": "q175",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle est la capitale la plus au nord du monde ?",
-    "answers": [
-      "Reykjavik",
-      "Helsinki",
-      "Oslo",
-      "Moscou"
-    ],
-    "correctIndex": 0
+    "text": "Quel animal peut vivre plus de 200 ans ?",
+    "answers": ["Baleine", "Requin du Groenland", "Tortue", "Éléphant"],
+    "correctIndex": 1
   },
   {
     "id": "q176",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est l'aliment principal des pandas géants ?",
-    "answers": [
-      "Eucalyptus",
-      "Riz",
-      "Herbe",
-      "Bambou"
-    ],
-    "correctIndex": 3
+    "text": "Quel objet permet de mesurer la force musculaire ?",
+    "answers": ["Balance", "Dynamomètre", "Tensiomètre", "Chronomètre"],
+    "correctIndex": 1
   },
   {
     "id": "q177",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
-    "answers": [
-      "Bangkok",
-      "Venise",
-      "Amsterdam",
-      "Bruges"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal peut se repérer grâce à l’écholocation ?",
+    "answers": ["Chauve-souris", "Requin", "Phoque", "Pingouin"],
+    "correctIndex": 0
   },
   {
     "id": "q178",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal dort debout ?",
-    "answers": [
-      "Dauphin",
-      "Cheval",
-      "Chien",
-      "Chat"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays possède un village entièrement blanc nommé Setenil de las Bodegas ?",
+    "answers": ["Italie", "Portugal", "Espagne", "Grèce"],
+    "correctIndex": 2
   },
   {
     "id": "q179",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
-    "answers": [
-      "Perroquet",
-      "Iguane",
-      "Serpent",
-      "Chouette"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal peut détecter les vibrations sonores dans l’eau ?",
+    "answers": ["Poisson", "Dauphin", "Méduse", "Étoile de mer"],
+    "correctIndex": 1
   },
   {
     "id": "q180",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
-    "answers": [
-      "Iguane",
-      "Chouette",
-      "Serpent",
-      "Perroquet"
-    ],
-    "correctIndex": 1
+    "text": "Quel objet permet de mesurer la distance parcourue par un véhicule ?",
+    "answers": ["Compteur kilométrique", "Chronomètre", "Altimètre", "Radar"],
+    "correctIndex": 0
   },
+
   {
     "id": "q181",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel objet est utilisé pour mesurer la température ?",
-    "answers": [
-      "Hygromètre",
-      "Baromètre",
-      "Altimètre",
-      "Thermomètre"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal peut survivre à une déshydratation extrême ?",
+    "answers": ["Tardigrade", "Fourmi", "Scorpion", "Cafard"],
+    "correctIndex": 0
   },
   {
     "id": "q182",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel objet est utilisé pour mesurer la température ?",
-    "answers": [
-      "Hygromètre",
-      "Altimètre",
-      "Thermomètre",
-      "Baromètre"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays possède un parc national entièrement dédié aux geysers ?",
+    "answers": ["Islande", "États-Unis", "Nouvelle-Zélande", "Japon"],
+    "correctIndex": 1
   },
   {
     "id": "q183",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est l'aliment principal des pandas géants ?",
-    "answers": [
-      "Riz",
-      "Eucalyptus",
-      "Bambou",
-      "Herbe"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal peut produire des champs magnétiques pour s’orienter ?",
+    "answers": ["Oiseau migrateur", "Chien", "Chat", "Lapin"],
+    "correctIndex": 0
   },
   {
     "id": "q184",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle mer est connue pour sa forte salinité ?",
-    "answers": [
-      "Mer Morte",
-      "Mer Caspienne",
-      "Mer Rouge",
-      "Mer Noire"
-    ],
-    "correctIndex": 0
+    "text": "Quel objet sert à mesurer la tension électrique ?",
+    "answers": ["Ampèremètre", "Voltmètre", "Ohmmètre", "Multimètre"],
+    "correctIndex": 1
   },
   {
     "id": "q185",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
-    "answers": [
-      "Jamaïque",
-      "Inde",
-      "Afrique du Sud",
-      "Brésil"
-    ],
+    "text": "Quel animal peut produire une lumière continue pour attirer des proies ?",
+    "answers": ["Poisson-lanterne", "Luciole", "Méduse", "Calmar"],
     "correctIndex": 0
   },
   {
     "id": "q186",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal dort debout ?",
-    "answers": [
-      "Cheval",
-      "Chat",
-      "Chien",
-      "Dauphin"
-    ],
+    "text": "Quel pays possède la plus grande forêt tropicale du monde ?",
+    "answers": ["Brésil", "Indonésie", "Congo", "Pérou"],
     "correctIndex": 0
   },
   {
     "id": "q187",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
-    "answers": [
-      "Amsterdam",
-      "Bruges",
-      "Venise",
-      "Bangkok"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal peut sentir une variation infime de température ?",
+    "answers": ["Serpent", "Chien", "Chat", "Cheval"],
+    "correctIndex": 0
   },
   {
     "id": "q188",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel objet est utilisé pour mesurer la température ?",
-    "answers": [
-      "Altimètre",
-      "Baromètre",
-      "Hygromètre",
-      "Thermomètre"
-    ],
-    "correctIndex": 3
+    "text": "Quel objet permet de mesurer la fréquence cardiaque ?",
+    "answers": ["Thermomètre", "Cardiofréquencemètre", "Oxymètre", "Stéthoscope"],
+    "correctIndex": 1
   },
   {
     "id": "q189",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal dort debout ?",
-    "answers": [
-      "Chien",
-      "Chat",
-      "Cheval",
-      "Dauphin"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal peut survivre après avoir été sectionné et se régénérer ?",
+    "answers": ["Planarie", "Ver de terre", "Étoile de mer", "Méduse"],
+    "correctIndex": 0
   },
   {
     "id": "q190",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est l'aliment principal des pandas géants ?",
-    "answers": [
-      "Bambou",
-      "Eucalyptus",
-      "Herbe",
-      "Riz"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays possède une ville construite à flanc de falaise appelée Ronda ?",
+    "answers": ["Portugal", "Italie", "Espagne", "Grèce"],
+    "correctIndex": 2
   },
+
   {
     "id": "q191",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
-    "answers": [
-      "Chouette",
-      "Serpent",
-      "Perroquet",
-      "Iguane"
-    ],
+    "text": "Quel animal peut reconnaître des visages humains ?",
+    "answers": ["Mouton", "Chat", "Chien", "Lapin"],
     "correctIndex": 0
   },
   {
     "id": "q192",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
-    "answers": [
-      "Concombre",
-      "Tomate",
-      "Poivron",
-      "Courgette"
-    ],
+    "text": "Quel objet sert à mesurer l’acidité d’un liquide ?",
+    "answers": ["Thermomètre", "pH-mètre", "Baromètre", "Altimètre"],
     "correctIndex": 1
   },
   {
     "id": "q193",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel est le plus petit pays du monde ?",
-    "answers": [
-      "Saint-Marin",
-      "Vatican",
-      "Monaco",
-      "Nauru"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal peut produire des vibrations pour détecter ses proies ?",
+    "answers": ["Araignée", "Fourmi", "Abeille", "Sauterelle"],
+    "correctIndex": 0
   },
   {
     "id": "q194",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
-    "answers": [
-      "Poivron",
-      "Tomate",
-      "Concombre",
-      "Courgette"
-    ],
+    "text": "Quel pays possède une île artificielle en forme de palmier ?",
+    "answers": ["Qatar", "Émirats arabes unis", "Arabie saoudite", "Bahreïn"],
     "correctIndex": 1
   },
   {
     "id": "q195",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle mer est connue pour sa forte salinité ?",
-    "answers": [
-      "Mer Rouge",
-      "Mer Noire",
-      "Mer Morte",
-      "Mer Caspienne"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal peut entendre les battements de cœur d’une proie à distance ?",
+    "answers": ["Requin", "Chien", "Chat", "Cheval"],
+    "correctIndex": 0
   },
   {
     "id": "q196",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle mer est connue pour sa forte salinité ?",
-    "answers": [
-      "Mer Noire",
-      "Mer Morte",
-      "Mer Rouge",
-      "Mer Caspienne"
-    ],
+    "text": "Quel objet permet de mesurer la force du vent sur une échelle de catégories ?",
+    "answers": ["Anémomètre", "Échelle de Beaufort", "Baromètre", "Hygromètre"],
     "correctIndex": 1
   },
   {
     "id": "q197",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
-    "answers": [
-      "Jamaïque",
-      "Inde",
-      "Brésil",
-      "Afrique du Sud"
-    ],
-    "correctIndex": 0
+    "text": "Quel animal peut ressentir les champs magnétiques pour migrer ?",
+    "answers": ["Oiseau", "Poisson", "Tortue", "Tous ces animaux"],
+    "correctIndex": 3
   },
   {
     "id": "q198",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle est la capitale la plus au nord du monde ?",
-    "answers": [
-      "Moscou",
-      "Helsinki",
-      "Reykjavik",
-      "Oslo"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays possède un volcan nommé Eyjafjallajökull ?",
+    "answers": ["Norvège", "Islande", "Finlande", "Suède"],
+    "correctIndex": 1
   },
   {
     "id": "q199",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle mer est connue pour sa forte salinité ?",
-    "answers": [
-      "Mer Morte",
-      "Mer Rouge",
-      "Mer Noire",
-      "Mer Caspienne"
-    ],
+    "text": "Quel animal peut vivre sans cerveau ?",
+    "answers": ["Méduse", "Éponge", "Ver", "Corail"],
     "correctIndex": 0
   },
   {
     "id": "q200",
     "category": "Insolites",
     "difficulty": "Facile",
-    "text": "Quelle est la capitale la plus au nord du monde ?",
-    "answers": [
-      "Helsinki",
-      "Moscou",
-      "Oslo",
-      "Reykjavik"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q201",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
-    "answers": [
-      "Concombre",
-      "Tomate",
-      "Poivron",
-      "Courgette"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q202",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel est le plus petit pays du monde ?",
-    "answers": [
-      "Monaco",
-      "Saint-Marin",
-      "Vatican",
-      "Nauru"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q203",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
-    "answers": [
-      "Brésil",
-      "Jamaïque",
-      "Afrique du Sud",
-      "Inde"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q204",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
-    "answers": [
-      "Inde",
-      "Jamaïque",
-      "Afrique du Sud",
-      "Brésil"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q205",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quelle est la capitale la plus au nord du monde ?",
-    "answers": [
-      "Helsinki",
-      "Moscou",
-      "Reykjavik",
-      "Oslo"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q206",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel objet est utilisé pour mesurer la température ?",
-    "answers": [
-      "Altimètre",
-      "Baromètre",
-      "Hygromètre",
-      "Thermomètre"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q207",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quelle mer est connue pour sa forte salinité ?",
-    "answers": [
-      "Mer Caspienne",
-      "Mer Morte",
-      "Mer Rouge",
-      "Mer Noire"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q208",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel animal dort debout ?",
-    "answers": [
-      "Cheval",
-      "Dauphin",
-      "Chien",
-      "Chat"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q209",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quelle est la capitale la plus au nord du monde ?",
-    "answers": [
-      "Oslo",
-      "Moscou",
-      "Reykjavik",
-      "Helsinki"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q210",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel objet est utilisé pour mesurer la température ?",
-    "answers": [
-      "Altimètre",
-      "Hygromètre",
-      "Baromètre",
-      "Thermomètre"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q211",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
-    "answers": [
-      "Inde",
-      "Brésil",
-      "Afrique du Sud",
-      "Jamaïque"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q212",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel est l'aliment principal des pandas géants ?",
-    "answers": [
-      "Riz",
-      "Herbe",
-      "Eucalyptus",
-      "Bambou"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q213",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel objet est utilisé pour mesurer la température ?",
-    "answers": [
-      "Altimètre",
-      "Thermomètre",
-      "Baromètre",
-      "Hygromètre"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q214",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
-    "answers": [
-      "Afrique du Sud",
-      "Jamaïque",
-      "Inde",
-      "Brésil"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q215",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel est le plus petit pays du monde ?",
-    "answers": [
-      "Saint-Marin",
-      "Monaco",
-      "Nauru",
-      "Vatican"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q216",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel animal dort debout ?",
-    "answers": [
-      "Cheval",
-      "Dauphin",
-      "Chien",
-      "Chat"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q217",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel animal dort debout ?",
-    "answers": [
-      "Chat",
-      "Dauphin",
-      "Cheval",
-      "Chien"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q218",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quelle est la capitale la plus au nord du monde ?",
-    "answers": [
-      "Helsinki",
-      "Reykjavik",
-      "Oslo",
-      "Moscou"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q219",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quelle mer est connue pour sa forte salinité ?",
-    "answers": [
-      "Mer Rouge",
-      "Mer Noire",
-      "Mer Caspienne",
-      "Mer Morte"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q220",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel animal dort debout ?",
-    "answers": [
-      "Chien",
-      "Cheval",
-      "Chat",
-      "Dauphin"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q221",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
-    "answers": [
-      "Afrique du Sud",
-      "Jamaïque",
-      "Brésil",
-      "Inde"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q222",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel animal dort debout ?",
-    "answers": [
-      "Chat",
-      "Dauphin",
-      "Cheval",
-      "Chien"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q223",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel objet est utilisé pour mesurer la température ?",
-    "answers": [
-      "Altimètre",
-      "Thermomètre",
-      "Hygromètre",
-      "Baromètre"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q224",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
-    "answers": [
-      "Inde",
-      "Brésil",
-      "Jamaïque",
-      "Afrique du Sud"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q225",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel est l'aliment principal des pandas géants ?",
-    "answers": [
-      "Bambou",
-      "Riz",
-      "Herbe",
-      "Eucalyptus"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q226",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
-    "answers": [
-      "Brésil",
-      "Afrique du Sud",
-      "Inde",
-      "Jamaïque"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q227",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
-    "answers": [
-      "Concombre",
-      "Poivron",
-      "Tomate",
-      "Courgette"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q228",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel objet est utilisé pour mesurer la température ?",
-    "answers": [
-      "Baromètre",
-      "Hygromètre",
-      "Thermomètre",
-      "Altimètre"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q229",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel est le plus petit pays du monde ?",
-    "answers": [
-      "Vatican",
-      "Monaco",
-      "Nauru",
-      "Saint-Marin"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q230",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel est l'aliment principal des pandas géants ?",
-    "answers": [
-      "Eucalyptus",
-      "Bambou",
-      "Herbe",
-      "Riz"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q231",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel est l'aliment principal des pandas géants ?",
-    "answers": [
-      "Riz",
-      "Bambou",
-      "Eucalyptus",
-      "Herbe"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q232",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
-    "answers": [
-      "Serpent",
-      "Iguane",
-      "Chouette",
-      "Perroquet"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q233",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
-    "answers": [
-      "Inde",
-      "Brésil",
-      "Jamaïque",
-      "Afrique du Sud"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q234",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
-    "answers": [
-      "Iguane",
-      "Perroquet",
-      "Chouette",
-      "Serpent"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q235",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
-    "answers": [
-      "Concombre",
-      "Courgette",
-      "Tomate",
-      "Poivron"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q236",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel est l'aliment principal des pandas géants ?",
-    "answers": [
-      "Riz",
-      "Eucalyptus",
-      "Herbe",
-      "Bambou"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q237",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
-    "answers": [
-      "Brésil",
-      "Afrique du Sud",
-      "Jamaïque",
-      "Inde"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q238",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel animal dort debout ?",
-    "answers": [
-      "Cheval",
-      "Chien",
-      "Chat",
-      "Dauphin"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q239",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quelle est la capitale la plus au nord du monde ?",
-    "answers": [
-      "Helsinki",
-      "Reykjavik",
-      "Oslo",
-      "Moscou"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q240",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quelle est la capitale la plus au nord du monde ?",
-    "answers": [
-      "Moscou",
-      "Reykjavik",
-      "Helsinki",
-      "Oslo"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q241",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quelle est la capitale la plus au nord du monde ?",
-    "answers": [
-      "Reykjavik",
-      "Moscou",
-      "Helsinki",
-      "Oslo"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q242",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
-    "answers": [
-      "Tomate",
-      "Poivron",
-      "Concombre",
-      "Courgette"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q243",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
-    "answers": [
-      "Bruges",
-      "Venise",
-      "Amsterdam",
-      "Bangkok"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q244",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quelle mer est connue pour sa forte salinité ?",
-    "answers": [
-      "Mer Caspienne",
-      "Mer Morte",
-      "Mer Rouge",
-      "Mer Noire"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q245",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
-    "answers": [
-      "Venise",
-      "Bruges",
-      "Amsterdam",
-      "Bangkok"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q246",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel objet est utilisé pour mesurer la température ?",
-    "answers": [
-      "Thermomètre",
-      "Altimètre",
-      "Hygromètre",
-      "Baromètre"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q247",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
-    "answers": [
-      "Amsterdam",
-      "Venise",
-      "Bangkok",
-      "Bruges"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q248",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quelle est la capitale la plus au nord du monde ?",
-    "answers": [
-      "Moscou",
-      "Helsinki",
-      "Oslo",
-      "Reykjavik"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q249",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
-    "answers": [
-      "Concombre",
-      "Tomate",
-      "Poivron",
-      "Courgette"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q250",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quelle est la capitale la plus au nord du monde ?",
-    "answers": [
-      "Reykjavik",
-      "Helsinki",
-      "Oslo",
-      "Moscou"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q251",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
-    "answers": [
-      "Brésil",
-      "Afrique du Sud",
-      "Inde",
-      "Jamaïque"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q252",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel objet est utilisé pour mesurer la température ?",
-    "answers": [
-      "Thermomètre",
-      "Altimètre",
-      "Hygromètre",
-      "Baromètre"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q253",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel animal dort debout ?",
-    "answers": [
-      "Chien",
-      "Cheval",
-      "Chat",
-      "Dauphin"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q254",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
-    "answers": [
-      "Bruges",
-      "Bangkok",
-      "Venise",
-      "Amsterdam"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q255",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quelle est la capitale la plus au nord du monde ?",
-    "answers": [
-      "Oslo",
-      "Reykjavik",
-      "Moscou",
-      "Helsinki"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q256",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
-    "answers": [
-      "Courgette",
-      "Poivron",
-      "Tomate",
-      "Concombre"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q257",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quelle est la capitale la plus au nord du monde ?",
-    "answers": [
-      "Reykjavik",
-      "Helsinki",
-      "Oslo",
-      "Moscou"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q258",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quelle est la capitale la plus au nord du monde ?",
-    "answers": [
-      "Helsinki",
-      "Reykjavik",
-      "Moscou",
-      "Oslo"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q259",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel est le plus petit pays du monde ?",
-    "answers": [
-      "Nauru",
-      "Monaco",
-      "Saint-Marin",
-      "Vatican"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q260",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
-    "answers": [
-      "Bangkok",
-      "Venise",
-      "Amsterdam",
-      "Bruges"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q261",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
-    "answers": [
-      "Iguane",
-      "Perroquet",
-      "Chouette",
-      "Serpent"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q262",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel est le plus petit pays du monde ?",
-    "answers": [
-      "Nauru",
-      "Saint-Marin",
-      "Vatican",
-      "Monaco"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q263",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel animal dort debout ?",
-    "answers": [
-      "Cheval",
-      "Dauphin",
-      "Chien",
-      "Chat"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q264",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel objet est utilisé pour mesurer la température ?",
-    "answers": [
-      "Hygromètre",
-      "Altimètre",
-      "Thermomètre",
-      "Baromètre"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q265",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel objet est utilisé pour mesurer la température ?",
-    "answers": [
-      "Baromètre",
-      "Altimètre",
-      "Thermomètre",
-      "Hygromètre"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q266",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quelle est la capitale la plus au nord du monde ?",
-    "answers": [
-      "Moscou",
-      "Helsinki",
-      "Reykjavik",
-      "Oslo"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q267",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel objet est utilisé pour mesurer la température ?",
-    "answers": [
-      "Altimètre",
-      "Baromètre",
-      "Hygromètre",
-      "Thermomètre"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q268",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
-    "answers": [
-      "Concombre",
-      "Poivron",
-      "Courgette",
-      "Tomate"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q269",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
-    "answers": [
-      "Bangkok",
-      "Amsterdam",
-      "Bruges",
-      "Venise"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q270",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel animal dort debout ?",
-    "answers": [
-      "Chat",
-      "Dauphin",
-      "Cheval",
-      "Chien"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q271",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
-    "answers": [
-      "Afrique du Sud",
-      "Jamaïque",
-      "Inde",
-      "Brésil"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q272",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
-    "answers": [
-      "Poivron",
-      "Courgette",
-      "Tomate",
-      "Concombre"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q273",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quelle est la capitale la plus au nord du monde ?",
-    "answers": [
-      "Helsinki",
-      "Moscou",
-      "Oslo",
-      "Reykjavik"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q274",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
-    "answers": [
-      "Chouette",
-      "Iguane",
-      "Perroquet",
-      "Serpent"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q275",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quelle mer est connue pour sa forte salinité ?",
-    "answers": [
-      "Mer Morte",
-      "Mer Rouge",
-      "Mer Caspienne",
-      "Mer Noire"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q276",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel est le plus petit pays du monde ?",
-    "answers": [
-      "Vatican",
-      "Saint-Marin",
-      "Nauru",
-      "Monaco"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q277",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
-    "answers": [
-      "Afrique du Sud",
-      "Inde",
-      "Jamaïque",
-      "Brésil"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q278",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel est le plus petit pays du monde ?",
-    "answers": [
-      "Vatican",
-      "Nauru",
-      "Monaco",
-      "Saint-Marin"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q279",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel objet est utilisé pour mesurer la température ?",
-    "answers": [
-      "Hygromètre",
-      "Altimètre",
-      "Thermomètre",
-      "Baromètre"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q280",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel est le plus petit pays du monde ?",
-    "answers": [
-      "Vatican",
-      "Monaco",
-      "Nauru",
-      "Saint-Marin"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q281",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quelle est la capitale la plus au nord du monde ?",
-    "answers": [
-      "Oslo",
-      "Helsinki",
-      "Moscou",
-      "Reykjavik"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q282",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
-    "answers": [
-      "Tomate",
-      "Courgette",
-      "Poivron",
-      "Concombre"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q283",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quelle mer est connue pour sa forte salinité ?",
-    "answers": [
-      "Mer Rouge",
-      "Mer Morte",
-      "Mer Caspienne",
-      "Mer Noire"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q284",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel objet est utilisé pour mesurer la température ?",
-    "answers": [
-      "Baromètre",
-      "Altimètre",
-      "Thermomètre",
-      "Hygromètre"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q285",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
-    "answers": [
-      "Courgette",
-      "Concombre",
-      "Poivron",
-      "Tomate"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q286",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
-    "answers": [
-      "Serpent",
-      "Chouette",
-      "Iguane",
-      "Perroquet"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q287",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel est l'aliment principal des pandas géants ?",
-    "answers": [
-      "Eucalyptus",
-      "Herbe",
-      "Riz",
-      "Bambou"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q288",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel est le plus petit pays du monde ?",
-    "answers": [
-      "Monaco",
-      "Vatican",
-      "Saint-Marin",
-      "Nauru"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q289",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
-    "answers": [
-      "Iguane",
-      "Perroquet",
-      "Serpent",
-      "Chouette"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q290",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel est le plus petit pays du monde ?",
-    "answers": [
-      "Nauru",
-      "Vatican",
-      "Monaco",
-      "Saint-Marin"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q291",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel est le plus petit pays du monde ?",
-    "answers": [
-      "Nauru",
-      "Monaco",
-      "Vatican",
-      "Saint-Marin"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q292",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
-    "answers": [
-      "Afrique du Sud",
-      "Inde",
-      "Jamaïque",
-      "Brésil"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q293",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel animal peut tourner sa tête à presque 270 degrés ?",
-    "answers": [
-      "Perroquet",
-      "Serpent",
-      "Chouette",
-      "Iguane"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q294",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quelle ville est célèbre pour ses canaux et ses gondoles ?",
-    "answers": [
-      "Venise",
-      "Bangkok",
-      "Bruges",
-      "Amsterdam"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q295",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quelle mer est connue pour sa forte salinité ?",
-    "answers": [
-      "Mer Rouge",
-      "Mer Caspienne",
-      "Mer Noire",
-      "Mer Morte"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q296",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quelle mer est connue pour sa forte salinité ?",
-    "answers": [
-      "Mer Caspienne",
-      "Mer Rouge",
-      "Mer Noire",
-      "Mer Morte"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q297",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel fruit est botanique mais considéré comme un légume en cuisine ?",
-    "answers": [
-      "Courgette",
-      "Poivron",
-      "Concombre",
-      "Tomate"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q298",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
-    "answers": [
-      "Afrique du Sud",
-      "Inde",
-      "Jamaïque",
-      "Brésil"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q299",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel est l'aliment principal des pandas géants ?",
-    "answers": [
-      "Herbe",
-      "Bambou",
-      "Eucalyptus",
-      "Riz"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q300",
-    "category": "Insolites",
-    "difficulty": "Facile",
-    "text": "Quel pays a un drapeau qui ne comporte pas de rouge, blanc ou bleu ?",
-    "answers": [
-      "Brésil",
-      "Inde",
-      "Jamaïque",
-      "Afrique du Sud"
-    ],
+    "text": "Quel objet a été inventé pour détecter les métaux ?",
+    "answers": ["Radar", "Scanner", "Détecteur de métaux", "Compas"],
     "correctIndex": 2
   }
 ]
