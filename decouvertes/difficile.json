@@ -1,3902 +1,1618 @@
 [
   {
-    "id": "q1",
+    "id": "q151",
     "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la planète Uranus en 1781 ?",
-    "answers": [
-      "William Herschel",
-      "Galilée",
-      "Charles Messier",
-      "Giovanni Cassini"
-    ],
+    "difficulty": "Moyen",
+    "text": "Quel scientifique a découvert la loi de la pression atmosphérique avec des expériences en altitude ?",
+    "answers": ["Blaise Pascal", "Torricelli", "Boyle", "Galilée"],
     "correctIndex": 0
   },
   {
-    "id": "q2",
+    "id": "q152",
     "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
-    "answers": [
-      "Alhazen",
-      "Al-Sufi",
-      "Al-Tusi",
-      "Al-Battani"
-    ],
+    "difficulty": "Moyen",
+    "text": "Quel explorateur est associé à la découverte européenne du détroit de Béring ?",
+    "answers": ["Cook", "Vitus Béring", "Nordenskiöld", "Amundsen"],
     "correctIndex": 1
   },
   {
-    "id": "q3",
+    "id": "q153",
     "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
-    "answers": [
-      "Joseph Priestley",
-      "Robert Boyle",
-      "Carl Scheele",
-      "Antoine Lavoisier"
-    ],
-    "correctIndex": 0
+    "difficulty": "Moyen",
+    "text": "Quel scientifique a découvert la loi de la conduction électrique dans les solutions ?",
+    "answers": ["Faraday", "Ohm", "Svante Arrhenius", "Nernst"],
+    "correctIndex": 2
   },
   {
-    "id": "q4",
+    "id": "q154",
     "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
-    "answers": [
-      "Vasco de Gama",
-      "Diogo Cão",
-      "Fernand de Magellan",
-      "Bartolomeu Dias"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q5",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la vitamine C en 1928 ?",
-    "answers": [
-      "Albert Szent-Györgyi",
-      "Frederick Hopkins",
-      "Casimir Funk",
-      "Linus Pauling"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q6",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
-    "answers": [
-      "Al-Battani",
-      "Alhazen",
-      "Al-Tusi",
-      "Al-Sufi"
-    ],
+    "difficulty": "Moyen",
+    "text": "Quel inventeur est associé au premier laser fonctionnel ?",
+    "answers": ["Tesla", "Edison", "Bell", "Theodore Maiman"],
     "correctIndex": 3
   },
   {
-    "id": "q7",
+    "id": "q155",
     "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
-    "answers": [
-      "Al-Tusi",
-      "Al-Sufi",
-      "Al-Battani",
-      "Alhazen"
-    ],
+    "difficulty": "Moyen",
+    "text": "Quel scientifique a établi les bases de la génétique moderne ?",
+    "answers": ["Gregor Mendel", "Darwin", "Watson", "Crick"],
+    "correctIndex": 0
+  },
+  {
+    "id": "q156",
+    "category": "Découvertes",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur est associé à la découverte européenne de la Nouvelle-Zélande ?",
+    "answers": ["Cook", "Abel Tasman", "Magellan", "Bougainville"],
     "correctIndex": 1
   },
   {
-    "id": "q8",
+    "id": "q157",
     "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
-    "answers": [
-      "Henri le Navigateur",
-      "Vasco de Gama",
-      "Bartolomeu Dias",
-      "Magellan"
-    ],
-    "correctIndex": 1
+    "difficulty": "Moyen",
+    "text": "Quel scientifique a découvert la structure de l’atome avec le modèle planétaire ?",
+    "answers": ["Thomson", "Bohr", "Ernest Rutherford", "Planck"],
+    "correctIndex": 2
   },
   {
-    "id": "q9",
+    "id": "q158",
     "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
-    "answers": [
-      "Alhazen",
-      "Al-Battani",
-      "Al-Tusi",
-      "Al-Sufi"
-    ],
+    "difficulty": "Moyen",
+    "text": "Quel inventeur est associé au premier appareil de photographie portable ?",
+    "answers": ["Daguerre", "Niepce", "Talbot", "George Eastman"],
     "correctIndex": 3
   },
   {
-    "id": "q10",
+    "id": "q159",
     "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la vitamine C en 1928 ?",
-    "answers": [
-      "Frederick Hopkins",
-      "Albert Szent-Györgyi",
-      "Linus Pauling",
-      "Casimir Funk"
-    ],
+    "difficulty": "Moyen",
+    "text": "Quel scientifique a formulé la loi de la conservation de la masse ?",
+    "answers": ["Antoine Lavoisier", "Dalton", "Boyle", "Proust"],
+    "correctIndex": 0
+  },
+  {
+    "id": "q160",
+    "category": "Découvertes",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur est associé à la découverte européenne du fleuve Niger ?",
+    "answers": ["Mungo Park", "Livingstone", "Stanley", "Burton"],
     "correctIndex": 1
   },
+
   {
-    "id": "q11",
+    "id": "q161",
     "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
-    "answers": [
-      "Magellan",
-      "Bartolomeu Dias",
-      "Vasco de Gama",
-      "Henri le Navigateur"
-    ],
+    "difficulty": "Moyen",
+    "text": "Quel scientifique a découvert la loi de la radioactivité alpha et bêta ?",
+    "answers": ["Becquerel", "Curie", "Ernest Rutherford", "Fermi"],
     "correctIndex": 2
   },
   {
-    "id": "q12",
+    "id": "q162",
     "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
-    "answers": [
-      "Antoine Lavoisier",
-      "Robert Boyle",
-      "Joseph Priestley",
-      "Carl Scheele"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q13",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
-    "answers": [
-      "Robert Boyle",
-      "Antoine Lavoisier",
-      "Carl Scheele",
-      "Joseph Priestley"
-    ],
+    "difficulty": "Moyen",
+    "text": "Quel inventeur est associé au premier avion supersonique ?",
+    "answers": ["Dassault", "Boeing", "Tupolev", "Andrei Tupolev"],
     "correctIndex": 3
   },
   {
-    "id": "q14",
+    "id": "q163",
     "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
-    "answers": [
-      "Vasco de Gama",
-      "Bartolomeu Dias",
-      "Fernand de Magellan",
-      "Diogo Cão"
-    ],
+    "difficulty": "Moyen",
+    "text": "Quel scientifique a découvert la loi de la diffusion des gaz ?",
+    "answers": ["Thomas Graham", "Boyle", "Dalton", "Avogadro"],
+    "correctIndex": 0
+  },
+  {
+    "id": "q164",
+    "category": "Découvertes",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur est associé à la découverte du pôle Sud géographique ?",
+    "answers": ["Scott", "Roald Amundsen", "Shackleton", "Peary"],
+    "correctIndex": 1
+  },
+  {
+    "id": "q165",
+    "category": "Découvertes",
+    "difficulty": "Moyen",
+    "text": "Quel scientifique a découvert la loi de l’effet photoélectrique ?",
+    "answers": ["Planck", "Hertz", "Albert Einstein", "Millikan"],
+    "correctIndex": 2
+  },
+  {
+    "id": "q166",
+    "category": "Découvertes",
+    "difficulty": "Moyen",
+    "text": "Quel inventeur est associé au premier cœur-poumon artificiel utilisé en chirurgie ?",
+    "answers": ["DeBakey", "Barnard", "Gibbon", "John Gibbon"],
     "correctIndex": 3
   },
   {
-    "id": "q15",
+    "id": "q167",
     "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
-    "answers": [
-      "Bartolomeu Dias",
-      "Diogo Cão",
-      "Fernand de Magellan",
-      "Vasco de Gama"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q16",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la planète Uranus en 1781 ?",
-    "answers": [
-      "William Herschel",
-      "Galilée",
-      "Charles Messier",
-      "Giovanni Cassini"
-    ],
+    "difficulty": "Moyen",
+    "text": "Quel scientifique a formulé la loi de la réfraction de la lumière ?",
+    "answers": ["Snell", "Descartes", "Newton", "Huygens"],
     "correctIndex": 0
   },
   {
-    "id": "q17",
+    "id": "q168",
     "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la planète Uranus en 1781 ?",
-    "answers": [
-      "Charles Messier",
-      "William Herschel",
-      "Giovanni Cassini",
-      "Galilée"
-    ],
+    "difficulty": "Moyen",
+    "text": "Quel explorateur est associé à la découverte européenne de la Tasmanie ?",
+    "answers": ["Cook", "Abel Tasman", "Hartog", "Flinders"],
     "correctIndex": 1
   },
   {
-    "id": "q18",
+    "id": "q169",
     "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la planète Uranus en 1781 ?",
-    "answers": [
-      "Galilée",
-      "Giovanni Cassini",
-      "William Herschel",
-      "Charles Messier"
-    ],
+    "difficulty": "Moyen",
+    "text": "Quel scientifique a découvert la loi de la pression des gaz parfaits ?",
+    "answers": ["Charles", "Gay-Lussac", "Émile Clapeyron", "Boyle"],
     "correctIndex": 2
   },
   {
-    "id": "q19",
+    "id": "q170",
     "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
-    "answers": [
-      "Bougainville",
-      "Samuel de Champlain",
-      "Jean-François de La Pérouse",
-      "Jacques Cartier"
-    ],
-    "correctIndex": 2
+    "difficulty": "Moyen",
+    "text": "Quel inventeur est associé au premier téléphone portable commercial ?",
+    "answers": ["Bell", "Nokia", "Ericsson", "Martin Cooper"],
+    "correctIndex": 3
   },
+
   {
-    "id": "q20",
+    "id": "q171",
     "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
-    "answers": [
-      "Bartolomeu Dias",
-      "Vasco de Gama",
-      "Magellan",
-      "Henri le Navigateur"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q21",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la planète Uranus en 1781 ?",
-    "answers": [
-      "Giovanni Cassini",
-      "William Herschel",
-      "Galilée",
-      "Charles Messier"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q22",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
-    "answers": [
-      "Jacques Cartier",
-      "Jean-François de La Pérouse",
-      "Samuel de Champlain",
-      "Bougainville"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q23",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la vitamine C en 1928 ?",
-    "answers": [
-      "Albert Szent-Györgyi",
-      "Casimir Funk",
-      "Frederick Hopkins",
-      "Linus Pauling"
-    ],
+    "difficulty": "Moyen",
+    "text": "Quel scientifique a découvert la loi de la pression hydrostatique ?",
+    "answers": ["Blaise Pascal", "Archimède", "Torricelli", "Galilée"],
     "correctIndex": 0
   },
   {
-    "id": "q24",
+    "id": "q172",
     "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
-    "answers": [
-      "Bartolomeu Dias",
-      "Vasco de Gama",
-      "Henri le Navigateur",
-      "Magellan"
-    ],
+    "difficulty": "Moyen",
+    "text": "Quel explorateur est associé à la découverte européenne du Groenland ?",
+    "answers": ["Leif Erikson", "Erik le Rouge", "Bjarni Herjólfsson", "Peary"],
     "correctIndex": 1
   },
   {
-    "id": "q25",
+    "id": "q173",
     "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la planète Uranus en 1781 ?",
-    "answers": [
-      "Giovanni Cassini",
-      "Galilée",
-      "Charles Messier",
-      "William Herschel"
-    ],
+    "difficulty": "Moyen",
+    "text": "Quel scientifique a découvert la loi de la radioactivité artificielle induite ?",
+    "answers": ["Rutherford", "Fermi", "Irène Joliot-Curie", "Becquerel"],
+    "correctIndex": 2
+  },
+  {
+    "id": "q174",
+    "category": "Découvertes",
+    "difficulty": "Moyen",
+    "text": "Quel inventeur est associé au premier robot humanoïde fonctionnel ?",
+    "answers": ["Honda", "Sony", "Toyota", "Ichiro Kato"],
     "correctIndex": 3
   },
   {
-    "id": "q26",
+    "id": "q175",
     "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
-    "answers": [
-      "Bougainville",
-      "Jean-François de La Pérouse",
-      "Samuel de Champlain",
-      "Jacques Cartier"
-    ],
+    "difficulty": "Moyen",
+    "text": "Quel scientifique a formulé la loi de l’élasticité des matériaux ?",
+    "answers": ["Robert Hooke", "Young", "Poisson", "Euler"],
+    "correctIndex": 0
+  },
+  {
+    "id": "q176",
+    "category": "Découvertes",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur est associé à la découverte européenne du fleuve Sénégal ?",
+    "answers": ["Mungo Park", "André Brüe", "Caillié", "Livingstone"],
     "correctIndex": 1
   },
   {
-    "id": "q27",
+    "id": "q177",
     "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
-    "answers": [
-      "Alhazen",
-      "Al-Battani",
-      "Al-Tusi",
-      "Al-Sufi"
-    ],
+    "difficulty": "Moyen",
+    "text": "Quel scientifique a découvert la loi de la quantification de l’énergie ?",
+    "answers": ["Einstein", "Bohr", "Max Planck", "Heisenberg"],
+    "correctIndex": 2
+  },
+  {
+    "id": "q178",
+    "category": "Découvertes",
+    "difficulty": "Moyen",
+    "text": "Quel inventeur est associé au premier appareil de radiographie médicale ?",
+    "answers": ["Curie", "Tesla", "Edison", "Wilhelm Röntgen"],
     "correctIndex": 3
   },
   {
-    "id": "q28",
+    "id": "q179",
     "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
-    "answers": [
-      "Dorothy Hodgkin",
-      "Frederick Sanger",
-      "Albert Szent-Györgyi",
-      "Hans Krebs"
-    ],
-    "correctIndex": 1
+    "difficulty": "Moyen",
+    "text": "Quel scientifique a établi la loi de la pression partielle des gaz ?",
+    "answers": ["John Dalton", "Boyle", "Avogadro", "Graham"],
+    "correctIndex": 0
   },
   {
-    "id": "q29",
+    "id": "q180",
     "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
-    "answers": [
-      "Pizarro",
-      "Magellan",
-      "Balboa",
-      "Elcano"
-    ],
+    "difficulty": "Moyen",
+    "text": "Quel explorateur est associé à la découverte du passage du Nord-Ouest ?",
+    "answers": ["Hudson", "Roald Amundsen", "Franklin", "Baffin"],
     "correctIndex": 1
   },
+
   {
-    "id": "q30",
+    "id": "q181",
     "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
-    "answers": [
-      "Robert Boyle",
-      "Carl Scheele",
-      "Antoine Lavoisier",
-      "Joseph Priestley"
-    ],
+    "difficulty": "Moyen",
+    "text": "Quel scientifique a découvert la loi de la conduction électrique des métaux ?",
+    "answers": ["Ohm", "Faraday", "Georg Ohm", "Ampère"],
+    "correctIndex": 2
+  },
+  {
+    "id": "q182",
+    "category": "Découvertes",
+    "difficulty": "Moyen",
+    "text": "Quel inventeur est associé au premier satellite de télécommunications ?",
+    "answers": ["NASA", "ESA", "Bell Labs", "Arthur C. Clarke"],
     "correctIndex": 3
   },
   {
-    "id": "q31",
+    "id": "q183",
     "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
-    "answers": [
-      "Vasco de Gama",
-      "Magellan",
-      "Henri le Navigateur",
-      "Bartolomeu Dias"
-    ],
+    "difficulty": "Moyen",
+    "text": "Quel scientifique a découvert la loi de la capillarité ?",
+    "answers": ["Thomas Young", "Laplace", "Poiseuille", "Pascal"],
     "correctIndex": 0
   },
   {
-    "id": "q32",
+    "id": "q184",
     "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
-    "answers": [
-      "Balboa",
-      "Magellan",
-      "Elcano",
-      "Pizarro"
-    ],
+    "difficulty": "Moyen",
+    "text": "Quel explorateur est associé à la découverte européenne de la baie d’Hudson ?",
+    "answers": ["Baffin", "Henry Hudson", "Cook", "Cartier"],
     "correctIndex": 1
   },
   {
-    "id": "q33",
+    "id": "q185",
     "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
-    "answers": [
-      "Howard Florey",
-      "Alexander Fleming",
-      "Selman Waksman",
-      "Gerhard Domagk"
-    ],
+    "difficulty": "Moyen",
+    "text": "Quel scientifique a découvert la loi de la radioactivité gamma ?",
+    "answers": ["Curie", "Rutherford", "Paul Villard", "Becquerel"],
     "correctIndex": 2
   },
   {
-    "id": "q34",
+    "id": "q186",
     "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
-    "answers": [
-      "Al-Sufi",
-      "Alhazen",
-      "Al-Tusi",
-      "Al-Battani"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q35",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
-    "answers": [
-      "Bougainville",
-      "Jean-François de La Pérouse",
-      "Samuel de Champlain",
-      "Jacques Cartier"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q36",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
-    "answers": [
-      "Hans Krebs",
-      "Frederick Sanger",
-      "Albert Szent-Györgyi",
-      "Dorothy Hodgkin"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q37",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
-    "answers": [
-      "Frederick Sanger",
-      "Albert Szent-Györgyi",
-      "Hans Krebs",
-      "Dorothy Hodgkin"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q38",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
-    "answers": [
-      "Vasco de Gama",
-      "Bartolomeu Dias",
-      "Fernand de Magellan",
-      "Diogo Cão"
-    ],
+    "difficulty": "Moyen",
+    "text": "Quel inventeur est associé au premier système GPS opérationnel ?",
+    "answers": ["NASA", "US Navy", "IBM", "Roger L. Easton"],
     "correctIndex": 3
   },
   {
-    "id": "q39",
+    "id": "q187",
     "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
-    "answers": [
-      "Magellan",
-      "Pizarro",
-      "Balboa",
-      "Elcano"
-    ],
+    "difficulty": "Moyen",
+    "text": "Quel scientifique a formulé la loi de la conduction thermique transitoire ?",
+    "answers": ["Fourier", "Kelvin", "Biot", "Carslaw"],
     "correctIndex": 0
   },
   {
-    "id": "q40",
+    "id": "q188",
     "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
-    "answers": [
-      "Henri le Navigateur",
-      "Magellan",
-      "Vasco de Gama",
-      "Bartolomeu Dias"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q41",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la planète Uranus en 1781 ?",
-    "answers": [
-      "Charles Messier",
-      "Giovanni Cassini",
-      "William Herschel",
-      "Galilée"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q42",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la planète Uranus en 1781 ?",
-    "answers": [
-      "William Herschel",
-      "Galilée",
-      "Giovanni Cassini",
-      "Charles Messier"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q43",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
-    "answers": [
-      "Fernand de Magellan",
-      "Diogo Cão",
-      "Bartolomeu Dias",
-      "Vasco de Gama"
-    ],
+    "difficulty": "Moyen",
+    "text": "Quel explorateur est associé à la découverte européenne du fleuve Mackenzie ?",
+    "answers": ["Cook", "Alexander Mackenzie", "Franklin", "Ross"],
     "correctIndex": 1
   },
   {
-    "id": "q44",
+    "id": "q189",
     "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
-    "answers": [
-      "Diogo Cão",
-      "Vasco de Gama",
-      "Bartolomeu Dias",
-      "Fernand de Magellan"
-    ],
+    "difficulty": "Moyen",
+    "text": "Quel scientifique a découvert la loi de la diffusion thermique ?",
+    "answers": ["Fourier", "Soret", "Charles Soret", "Kelvin"],
+    "correctIndex": 2
+  },
+  {
+    "id": "q190",
+    "category": "Découvertes",
+    "difficulty": "Moyen",
+    "text": "Quel inventeur est associé au premier scanner médical ?",
+    "answers": ["Siemens", "Philips", "GE", "Godfrey Hounsfield"],
+    "correctIndex": 3
+  },
+
+  {
+    "id": "q191",
+    "category": "Découvertes",
+    "difficulty": "Moyen",
+    "text": "Quel scientifique a formulé la loi de la flottabilité des corps ?",
+    "answers": ["Archimède", "Pascal", "Galilée", "Torricelli"],
     "correctIndex": 0
   },
   {
-    "id": "q45",
+    "id": "q192",
     "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la planète Uranus en 1781 ?",
-    "answers": [
-      "Charles Messier",
-      "Galilée",
-      "William Herschel",
-      "Giovanni Cassini"
-    ],
+    "difficulty": "Moyen",
+    "text": "Quel explorateur est associé à la découverte européenne du fleuve Zambèze ?",
+    "answers": ["Stanley", "David Livingstone", "Burton", "Speke"],
+    "correctIndex": 1
+  },
+  {
+    "id": "q193",
+    "category": "Découvertes",
+    "difficulty": "Moyen",
+    "text": "Quel scientifique a découvert la loi de la radioactivité naturelle des minerais ?",
+    "answers": ["Curie", "Rutherford", "Henri Becquerel", "Villard"],
     "correctIndex": 2
   },
   {
-    "id": "q46",
+    "id": "q194",
     "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
-    "answers": [
-      "Vasco de Gama",
-      "Bartolomeu Dias",
-      "Magellan",
-      "Henri le Navigateur"
-    ],
+    "difficulty": "Moyen",
+    "text": "Quel inventeur est associé au premier moteur à réaction civil ?",
+    "answers": ["Whittle", "Rolls-Royce", "General Electric", "Frank Whittle"],
+    "correctIndex": 3
+  },
+  {
+    "id": "q195",
+    "category": "Découvertes",
+    "difficulty": "Moyen",
+    "text": "Quel scientifique a découvert la loi de la réfraction des ondes sonores ?",
+    "answers": ["Snell", "Laplace", "Newton", "Helmholtz"],
     "correctIndex": 0
   },
   {
-    "id": "q47",
+    "id": "q196",
     "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
-    "answers": [
-      "Robert Boyle",
-      "Carl Scheele",
-      "Joseph Priestley",
-      "Antoine Lavoisier"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q48",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
-    "answers": [
-      "Bougainville",
-      "Jean-François de La Pérouse",
-      "Samuel de Champlain",
-      "Jacques Cartier"
-    ],
+    "difficulty": "Moyen",
+    "text": "Quel explorateur est associé à la découverte européenne du fleuve Orénoque ?",
+    "answers": ["Cortés", "Alexander von Humboldt", "Pizarro", "Balboa"],
     "correctIndex": 1
   },
   {
-    "id": "q49",
+    "id": "q197",
     "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
-    "answers": [
-      "Pizarro",
-      "Magellan",
-      "Balboa",
-      "Elcano"
-    ],
-    "correctIndex": 1
+    "difficulty": "Moyen",
+    "text": "Quel scientifique a découvert la loi de la radioactivité artificielle provoquée ?",
+    "answers": ["Fermi", "Rutherford", "Enrico Fermi", "Curie"],
+    "correctIndex": 2
   },
   {
-    "id": "q50",
+    "id": "q198",
     "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la vitamine C en 1928 ?",
-    "answers": [
-      "Casimir Funk",
-      "Frederick Hopkins",
-      "Albert Szent-Györgyi",
-      "Linus Pauling"
-    ],
-    "correctIndex": 2
+    "difficulty": "Moyen",
+    "text": "Quel inventeur est associé au premier avion électrique habité ?",
+    "answers": ["Airbus", "Boeing", "NASA", "Yuneec"],
+    "correctIndex": 3
+  },
+  {
+    "id": "q199",
+    "category": "Découvertes",
+    "difficulty": "Moyen",
+    "text": "Quel scientifique a formulé la loi de la conduction thermique stationnaire ?",
+    "answers": ["Joseph Fourier", "Kelvin", "Biot", "Carslaw"],
+    "correctIndex": 0
+  },
+  {
+    "id": "q200",
+    "category": "Découvertes",
+    "difficulty": "Moyen",
+    "text": "Quel explorateur est associé à la découverte européenne du cap Horn ?",
+    "answers": ["Magellan", "Willem Schouten", "Drake", "Cook"],
+    "correctIndex": 1
   },
   {
     "id": "q51",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
-    "answers": [
-      "Magellan",
-      "Balboa",
-      "Elcano",
-      "Pizarro"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a démontré l’existence des neutrinos pour expliquer la conservation de l’énergie dans la désintégration bêta ?",
+    "answers": ["Fermi", "Chadwick", "Wolfgang Pauli", "Dirac"],
+    "correctIndex": 2
   },
   {
     "id": "q52",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
-    "answers": [
-      "Al-Battani",
-      "Al-Tusi",
-      "Al-Sufi",
-      "Alhazen"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est associé au premier transistor à jonction fonctionnel ?",
+    "answers": ["Bell Labs", "Shockley", "Bardeen", "William Shockley"],
+    "correctIndex": 3
   },
   {
     "id": "q53",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
-    "answers": [
-      "Antoine Lavoisier",
-      "Joseph Priestley",
-      "Robert Boyle",
-      "Carl Scheele"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a formulé la loi reliant potentiel chimique et équilibre des phases ?",
+    "answers": ["Josiah Willard Gibbs", "Clausius", "Nernst", "Van't Hoff"],
+    "correctIndex": 0
   },
   {
     "id": "q54",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
-    "answers": [
-      "Balboa",
-      "Magellan",
-      "Elcano",
-      "Pizarro"
-    ],
+    "text": "Quel explorateur est associé à la première cartographie précise du fleuve Niger inférieur ?",
+    "answers": ["Caillié", "Mungo Park", "Clapperton", "Richard Lander"],
     "correctIndex": 1
   },
   {
     "id": "q55",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
-    "answers": [
-      "Frederick Sanger",
-      "Hans Krebs",
-      "Dorothy Hodgkin",
-      "Albert Szent-Györgyi"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la loi de la constante de désintégration radioactive ?",
+    "answers": ["Becquerel", "Curie", "Frederick Soddy", "Rutherford"],
+    "correctIndex": 2
   },
   {
     "id": "q56",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
-    "answers": [
-      "Fernand de Magellan",
-      "Diogo Cão",
-      "Vasco de Gama",
-      "Bartolomeu Dias"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé au premier système de reconnaissance optique de caractères (OCR) ?",
+    "answers": ["IBM", "Xerox", "Bell Labs", "Gustav Tauschek"],
+    "correctIndex": 3
   },
   {
     "id": "q57",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
-    "answers": [
-      "Al-Tusi",
-      "Al-Battani",
-      "Alhazen",
-      "Al-Sufi"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a formulé la loi décrivant l’effet Doppler-Fizeau relativiste ?",
+    "answers": ["Albert Einstein", "Doppler", "Fizeau", "Lorentz"],
+    "correctIndex": 0
   },
   {
     "id": "q58",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
-    "answers": [
-      "Dorothy Hodgkin",
-      "Frederick Sanger",
-      "Hans Krebs",
-      "Albert Szent-Györgyi"
-    ],
+    "text": "Quel explorateur est associé à la découverte européenne du bassin du Tarim ?",
+    "answers": ["Hedin", "Sven Hedin", "Stein", "Przhevalsky"],
     "correctIndex": 1
   },
   {
     "id": "q59",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
-    "answers": [
-      "Joseph Priestley",
-      "Robert Boyle",
-      "Antoine Lavoisier",
-      "Carl Scheele"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la loi de la diffusion des neutrons lents ?",
+    "answers": ["Fermi", "Chadwick", "Enrico Fermi", "Bethe"],
+    "correctIndex": 2
   },
   {
     "id": "q60",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
-    "answers": [
-      "Diogo Cão",
-      "Fernand de Magellan",
-      "Vasco de Gama",
-      "Bartolomeu Dias"
-    ],
-    "correctIndex": 0
+    "text": "Quel inventeur est associé au premier magnétoscope fonctionnel ?",
+    "answers": ["Sony", "Philips", "RCA", "Charles Ginsburg"],
+    "correctIndex": 3
   },
+
   {
     "id": "q61",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la planète Uranus en 1781 ?",
-    "answers": [
-      "Charles Messier",
-      "Galilée",
-      "William Herschel",
-      "Giovanni Cassini"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a formulé la loi de la conservation du nombre baryonique ?",
+    "answers": ["Eugene Wigner", "Pauli", "Dirac", "Fermi"],
+    "correctIndex": 0
   },
   {
     "id": "q62",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
-    "answers": [
-      "Selman Waksman",
-      "Howard Florey",
-      "Gerhard Domagk",
-      "Alexander Fleming"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur est associé à la première traversée documentée du désert de Gobi ?",
+    "answers": ["Hedin", "Nikolai Przhevalsky", "Stein", "Younghusband"],
+    "correctIndex": 1
   },
   {
     "id": "q63",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
-    "answers": [
-      "Al-Tusi",
-      "Al-Sufi",
-      "Al-Battani",
-      "Alhazen"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert la loi de la quantification du moment angulaire atomique ?",
+    "answers": ["Sommerfeld", "Pauli", "Niels Bohr", "Heisenberg"],
+    "correctIndex": 2
   },
   {
     "id": "q64",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
-    "answers": [
-      "Bartolomeu Dias",
-      "Diogo Cão",
-      "Vasco de Gama",
-      "Fernand de Magellan"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé au premier réseau informatique ARPANET ?",
+    "answers": ["IBM", "Xerox", "MIT", "Leonard Kleinrock"],
+    "correctIndex": 3
   },
   {
     "id": "q65",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
-    "answers": [
-      "Bartolomeu Dias",
-      "Vasco de Gama",
-      "Fernand de Magellan",
-      "Diogo Cão"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a formulé la loi décrivant la relaxation diélectrique ?",
+    "answers": ["Peter Debye", "Maxwell", "Lorentz", "Drude"],
+    "correctIndex": 0
   },
   {
     "id": "q66",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
-    "answers": [
-      "Bougainville",
-      "Jacques Cartier",
-      "Jean-François de La Pérouse",
-      "Samuel de Champlain"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est associé à la découverte européenne du fleuve Syr-Daria ?",
+    "answers": ["Hedin", "Alexey Butakov", "Przhevalsky", "Bering"],
+    "correctIndex": 1
   },
   {
     "id": "q67",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
-    "answers": [
-      "Henri le Navigateur",
-      "Vasco de Gama",
-      "Magellan",
-      "Bartolomeu Dias"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert la loi de l’émission stimulée, base du laser ?",
+    "answers": ["Einstein", "Planck", "Albert Einstein", "Townes"],
+    "correctIndex": 2
   },
   {
     "id": "q68",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la vitamine C en 1928 ?",
-    "answers": [
-      "Linus Pauling",
-      "Casimir Funk",
-      "Frederick Hopkins",
-      "Albert Szent-Györgyi"
-    ],
+    "text": "Quel inventeur est associé au premier ordinateur quantique expérimental ?",
+    "answers": ["IBM", "Google", "Microsoft", "David Deutsch"],
     "correctIndex": 3
   },
   {
     "id": "q69",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
-    "answers": [
-      "Fernand de Magellan",
-      "Diogo Cão",
-      "Vasco de Gama",
-      "Bartolomeu Dias"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a établi la loi de la conservation de l’isospin ?",
+    "answers": ["Werner Heisenberg", "Pauli", "Dirac", "Fermi"],
+    "correctIndex": 0
   },
   {
     "id": "q70",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
-    "answers": [
-      "Al-Tusi",
-      "Alhazen",
-      "Al-Sufi",
-      "Al-Battani"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est associé à la cartographie européenne du fleuve Irtych ?",
+    "answers": ["Dezhnev", "Semyon Remezov", "Bering", "Nordenskiöld"],
+    "correctIndex": 1
   },
+
   {
     "id": "q71",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
-    "answers": [
-      "Bougainville",
-      "Jacques Cartier",
-      "Jean-François de La Pérouse",
-      "Samuel de Champlain"
-    ],
+    "text": "Quel scientifique a découvert la loi de la diffusion thermique des alliages ?",
+    "answers": ["Fourier", "Soret", "Carl Wagner", "Fick"],
     "correctIndex": 2
   },
   {
     "id": "q72",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
-    "answers": [
-      "Bartolomeu Dias",
-      "Henri le Navigateur",
-      "Vasco de Gama",
-      "Magellan"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est associé au premier scanner à résonance magnétique (IRM) fonctionnel ?",
+    "answers": ["Siemens", "Philips", "GE", "Raymond Damadian"],
+    "correctIndex": 3
   },
   {
     "id": "q73",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la planète Uranus en 1781 ?",
-    "answers": [
-      "Giovanni Cassini",
-      "William Herschel",
-      "Charles Messier",
-      "Galilée"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a formulé la loi décrivant la stabilité nucléaire semi-empirique ?",
+    "answers": ["Carl Friedrich von Weizsäcker", "Bethe", "Bohr", "Fermi"],
+    "correctIndex": 0
   },
   {
     "id": "q74",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
-    "answers": [
-      "Joseph Priestley",
-      "Robert Boyle",
-      "Carl Scheele",
-      "Antoine Lavoisier"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur est associé à la découverte européenne du plateau du Pamir ?",
+    "answers": ["Hedin", "Nikolai Przhevalsky", "Younghusband", "Stein"],
+    "correctIndex": 1
   },
   {
     "id": "q75",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
-    "answers": [
-      "Frederick Sanger",
-      "Albert Szent-Györgyi",
-      "Hans Krebs",
-      "Dorothy Hodgkin"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la loi de la diffusion des particules chargées dans les plasmas ?",
+    "answers": ["Debye", "Langmuir", "Irving Langmuir", "Alfvén"],
+    "correctIndex": 2
   },
   {
     "id": "q76",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
-    "answers": [
-      "Bartolomeu Dias",
-      "Vasco de Gama",
-      "Fernand de Magellan",
-      "Diogo Cão"
-    ],
+    "text": "Quel inventeur est associé au premier satellite météorologique opérationnel ?",
+    "answers": ["NASA", "NOAA", "ESA", "TIROS-1"],
     "correctIndex": 3
   },
   {
     "id": "q77",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la vitamine C en 1928 ?",
-    "answers": [
-      "Frederick Hopkins",
-      "Albert Szent-Györgyi",
-      "Linus Pauling",
-      "Casimir Funk"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a établi la loi de la conservation du nombre leptonique ?",
+    "answers": ["Bruno Pontecorvo", "Fermi", "Pauli", "Majorana"],
+    "correctIndex": 0
   },
   {
     "id": "q78",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
-    "answers": [
-      "Vasco de Gama",
-      "Fernand de Magellan",
-      "Diogo Cão",
-      "Bartolomeu Dias"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Indus supérieur ?",
+    "answers": ["Burnes", "Alexander Burnes", "Younghusband", "Hedin"],
+    "correctIndex": 1
   },
   {
     "id": "q79",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
-    "answers": [
-      "Pizarro",
-      "Magellan",
-      "Balboa",
-      "Elcano"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert la loi de la supraconductivité de type II ?",
+    "answers": ["Meissner", "London", "Alexei Abrikosov", "BCS"],
+    "correctIndex": 2
   },
   {
     "id": "q80",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
-    "answers": [
-      "Samuel de Champlain",
-      "Jean-François de La Pérouse",
-      "Bougainville",
-      "Jacques Cartier"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé au premier réseau de fibres optiques longue distance ?",
+    "answers": ["AT&T", "Bell Labs", "Corning", "Charles Kao"],
+    "correctIndex": 3
   },
+
   {
     "id": "q81",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
-    "answers": [
-      "Bougainville",
-      "Jean-François de La Pérouse",
-      "Samuel de Champlain",
-      "Jacques Cartier"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a formulé la loi de la relaxation nucléaire spin-réseau ?",
+    "answers": ["Bloch", "Purcell", "Felix Bloch", "Pauli"],
+    "correctIndex": 0
   },
   {
     "id": "q82",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
-    "answers": [
-      "Al-Tusi",
-      "Al-Sufi",
-      "Alhazen",
-      "Al-Battani"
-    ],
+    "text": "Quel explorateur est associé à la découverte européenne du fleuve Salouen ?",
+    "answers": ["Hedin", "Francis Younghusband", "Stein", "Przhevalsky"],
     "correctIndex": 1
   },
   {
     "id": "q83",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
-    "answers": [
-      "Frederick Sanger",
-      "Dorothy Hodgkin",
-      "Hans Krebs",
-      "Albert Szent-Györgyi"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la loi de la conductivité thermique des cristaux ?",
+    "answers": ["Debye", "Peierls", "Rudolf Peierls", "Born"],
+    "correctIndex": 2
   },
   {
     "id": "q84",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
-    "answers": [
-      "Magellan",
-      "Elcano",
-      "Balboa",
-      "Pizarro"
-    ],
-    "correctIndex": 0
+    "text": "Quel inventeur est associé au premier drone militaire opérationnel ?",
+    "answers": ["DARPA", "Northrop", "General Atomics", "Abraham Karem"],
+    "correctIndex": 3
   },
   {
     "id": "q85",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la vitamine C en 1928 ?",
-    "answers": [
-      "Frederick Hopkins",
-      "Albert Szent-Györgyi",
-      "Casimir Funk",
-      "Linus Pauling"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a formulé la loi décrivant l’effet Mössbauer ?",
+    "answers": ["Rudolf Mössbauer", "Debye", "Fermi", "Bloch"],
+    "correctIndex": 0
   },
   {
     "id": "q86",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
-    "answers": [
-      "Jean-François de La Pérouse",
-      "Samuel de Champlain",
-      "Bougainville",
-      "Jacques Cartier"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur est associé à la découverte européenne du fleuve Mékong supérieur ?",
+    "answers": ["Pavie", "Francis Garnier", "Doudart de Lagrée", "Younghusband"],
+    "correctIndex": 1
   },
   {
     "id": "q87",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la planète Uranus en 1781 ?",
-    "answers": [
-      "William Herschel",
-      "Galilée",
-      "Giovanni Cassini",
-      "Charles Messier"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la loi de la symétrie CPT en physique des particules ?",
+    "answers": ["Pauli", "Dirac", "Gerhart Lüders", "Wigner"],
+    "correctIndex": 2
   },
   {
     "id": "q88",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
-    "answers": [
-      "Vasco de Gama",
-      "Henri le Navigateur",
-      "Bartolomeu Dias",
-      "Magellan"
-    ],
-    "correctIndex": 0
+    "text": "Quel inventeur est associé au premier accélérateur linéaire de particules ?",
+    "answers": ["CERN", "Lawrence", "Fermi", "Rolf Widerøe"],
+    "correctIndex": 3
   },
   {
     "id": "q89",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
-    "answers": [
-      "Henri le Navigateur",
-      "Vasco de Gama",
-      "Bartolomeu Dias",
-      "Magellan"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a formulé la loi décrivant la diffusion des électrons dans les métaux ?",
+    "answers": ["Paul Drude", "Lorentz", "Sommerfeld", "Bloch"],
+    "correctIndex": 0
   },
   {
     "id": "q90",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
-    "answers": [
-      "Robert Boyle",
-      "Joseph Priestley",
-      "Antoine Lavoisier",
-      "Carl Scheele"
-    ],
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Brahmapoutre supérieur ?",
+    "answers": ["Hedin", "Nain Singh Rawat", "Younghusband", "Przhevalsky"],
     "correctIndex": 1
   },
+
   {
     "id": "q91",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
-    "answers": [
-      "Robert Boyle",
-      "Antoine Lavoisier",
-      "Carl Scheele",
-      "Joseph Priestley"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert la loi de la conductivité électrique des semi-conducteurs dopés ?",
+    "answers": ["Shockley", "Bardeen", "William Shockley", "Brattain"],
+    "correctIndex": 2
   },
   {
     "id": "q92",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
-    "answers": [
-      "Diogo Cão",
-      "Vasco de Gama",
-      "Bartolomeu Dias",
-      "Fernand de Magellan"
-    ],
-    "correctIndex": 0
+    "text": "Quel inventeur est associé au premier réseau de téléphonie mobile numérique (2G) ?",
+    "answers": ["Nokia", "Ericsson", "Motorola", "GSM Consortium"],
+    "correctIndex": 3
   },
   {
     "id": "q93",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
-    "answers": [
-      "Magellan",
-      "Pizarro",
-      "Elcano",
-      "Balboa"
-    ],
+    "text": "Quel scientifique a formulé la loi de la décohérence quantique ?",
+    "answers": ["H. Dieter Zeh", "Zurek", "Everett", "Bohr"],
     "correctIndex": 0
   },
   {
     "id": "q94",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
-    "answers": [
-      "Dorothy Hodgkin",
-      "Hans Krebs",
-      "Albert Szent-Györgyi",
-      "Frederick Sanger"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la découverte européenne du fleuve Huang He supérieur ?",
+    "answers": ["Hedin", "Sven Andersson", "Stein", "Przhevalsky"],
+    "correctIndex": 1
   },
   {
     "id": "q95",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la vitamine C en 1928 ?",
-    "answers": [
-      "Albert Szent-Györgyi",
-      "Frederick Hopkins",
-      "Linus Pauling",
-      "Casimir Funk"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la loi de la superfluidité de l’hélium II ?",
+    "answers": ["Kapitza", "Landau", "Lev Landau", "London"],
+    "correctIndex": 2
   },
   {
     "id": "q96",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
-    "answers": [
-      "Samuel de Champlain",
-      "Jacques Cartier",
-      "Jean-François de La Pérouse",
-      "Bougainville"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est associé au premier processeur microprogrammable ?",
+    "answers": ["IBM", "Intel", "AMD", "Federico Faggin"],
+    "correctIndex": 3
   },
   {
     "id": "q97",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
-    "answers": [
-      "Fernand de Magellan",
-      "Bartolomeu Dias",
-      "Diogo Cão",
-      "Vasco de Gama"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a formulé la loi décrivant l’effet Casimir ?",
+    "answers": ["Hendrik Casimir", "Dirac", "Pauli", "Feynman"],
+    "correctIndex": 0
   },
   {
     "id": "q98",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la planète Uranus en 1781 ?",
-    "answers": [
-      "William Herschel",
-      "Charles Messier",
-      "Galilée",
-      "Giovanni Cassini"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Yenisei ?",
+    "answers": ["Nordenskiöld", "Adolf Erik Nordenskiöld", "Bering", "Dezhnev"],
+    "correctIndex": 1
   },
   {
     "id": "q99",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
-    "answers": [
-      "Robert Boyle",
-      "Joseph Priestley",
-      "Antoine Lavoisier",
-      "Carl Scheele"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert la loi de la violation de la parité en interaction faible ?",
+    "answers": ["Pauli", "Fermi", "Chien-Shiung Wu", "Yang"],
+    "correctIndex": 2
   },
   {
     "id": "q100",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
-    "answers": [
-      "Al-Sufi",
-      "Al-Tusi",
-      "Alhazen",
-      "Al-Battani"
-    ],
-    "correctIndex": 0
+    "text": "Quel inventeur est associé au premier ordinateur entièrement électronique programmable ?",
+    "answers": ["IBM", "Zuse", "Colossus", "Tommy Flowers"],
+    "correctIndex": 3
   },
   {
     "id": "q101",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la planète Uranus en 1781 ?",
-    "answers": [
-      "Galilée",
-      "William Herschel",
-      "Charles Messier",
-      "Giovanni Cassini"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a formulé la loi décrivant la quantification des niveaux d’énergie dans les atomes hydrogénoïdes ?",
+    "answers": ["Niels Bohr", "Sommerfeld", "Dirac", "Heisenberg"],
+    "correctIndex": 0
   },
   {
     "id": "q102",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la planète Uranus en 1781 ?",
-    "answers": [
-      "Galilée",
-      "Giovanni Cassini",
-      "William Herschel",
-      "Charles Messier"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Amour supérieur ?",
+    "answers": ["Prjevalski", "Nikolai Przhevalsky", "Hedin", "Dezhnev"],
+    "correctIndex": 1
   },
   {
     "id": "q103",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
-    "answers": [
-      "Balboa",
-      "Elcano",
-      "Magellan",
-      "Pizarro"
-    ],
+    "text": "Quel scientifique a démontré la loi de la conservation du moment angulaire en mécanique quantique ?",
+    "answers": ["Pauli", "Dirac", "Wolfgang Pauli", "Heisenberg"],
     "correctIndex": 2
   },
   {
     "id": "q104",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
-    "answers": [
-      "Magellan",
-      "Vasco de Gama",
-      "Henri le Navigateur",
-      "Bartolomeu Dias"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé au premier réseau expérimental de communication par paquets en Europe ?",
+    "answers": ["IBM", "Philips", "Siemens", "Louis Pouzin"],
+    "correctIndex": 3
   },
   {
     "id": "q105",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
-    "answers": [
-      "Carl Scheele",
-      "Robert Boyle",
-      "Antoine Lavoisier",
-      "Joseph Priestley"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a formulé la loi décrivant la transition de phase critique dans les systèmes thermodynamiques ?",
+    "answers": ["Lev Landau", "Onsager", "Wilson", "Ising"],
+    "correctIndex": 0
   },
   {
     "id": "q106",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
-    "answers": [
-      "Gerhard Domagk",
-      "Alexander Fleming",
-      "Howard Florey",
-      "Selman Waksman"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la reconnaissance européenne du plateau du Tibet occidental ?",
+    "answers": ["Hedin", "Sven Hedin", "Younghusband", "Stein"],
+    "correctIndex": 1
   },
   {
     "id": "q107",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la vitamine C en 1928 ?",
-    "answers": [
-      "Linus Pauling",
-      "Albert Szent-Györgyi",
-      "Casimir Funk",
-      "Frederick Hopkins"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert la loi de la diffusion ionique dans les électrolytes solides ?",
+    "answers": ["Nernst", "Arrhenius", "Walther Nernst", "Debye"],
+    "correctIndex": 2
   },
   {
     "id": "q108",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
-    "answers": [
-      "Howard Florey",
-      "Gerhard Domagk",
-      "Alexander Fleming",
-      "Selman Waksman"
-    ],
+    "text": "Quel inventeur est associé au premier gyroscope laser opérationnel ?",
+    "answers": ["Bell Labs", "Honeywell", "MIT", "Macek et Davis"],
     "correctIndex": 3
   },
   {
     "id": "q109",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la planète Uranus en 1781 ?",
-    "answers": [
-      "Charles Messier",
-      "Galilée",
-      "William Herschel",
-      "Giovanni Cassini"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a formulé la loi de la stabilité des étoiles à neutrons ?",
+    "answers": ["Oppenheimer", "Tolman", "Chandrasekhar", "Landau"],
+    "correctIndex": 0
   },
   {
     "id": "q110",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
-    "answers": [
-      "Carl Scheele",
-      "Robert Boyle",
-      "Joseph Priestley",
-      "Antoine Lavoisier"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est associé à la découverte européenne du lac Turkana ?",
+    "answers": ["Burton", "Sámuel Teleki", "Livingstone", "Speke"],
+    "correctIndex": 1
   },
+
   {
     "id": "q111",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
-    "answers": [
-      "Al-Tusi",
-      "Alhazen",
-      "Al-Sufi",
-      "Al-Battani"
-    ],
+    "text": "Quel scientifique a démontré la loi de la symétrie CP en physique des particules avant sa violation expérimentale ?",
+    "answers": ["Pauli", "Dirac", "Lev Landau", "Yang"],
     "correctIndex": 2
   },
   {
     "id": "q112",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
-    "answers": [
-      "Selman Waksman",
-      "Howard Florey",
-      "Gerhard Domagk",
-      "Alexander Fleming"
-    ],
-    "correctIndex": 0
+    "text": "Quel inventeur est associé au premier satellite scientifique dédié à l’astronomie X ?",
+    "answers": ["NASA", "ESA", "Roscosmos", "Riccardo Giacconi"],
+    "correctIndex": 3
   },
   {
     "id": "q113",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
-    "answers": [
-      "Albert Szent-Györgyi",
-      "Dorothy Hodgkin",
-      "Frederick Sanger",
-      "Hans Krebs"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a formulé la loi décrivant la diffusion anormale dans les milieux complexes ?",
+    "answers": ["Albert Einstein", "Smoluchowski", "Mandelbrot", "Lévy"],
+    "correctIndex": 0
   },
   {
     "id": "q114",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la vitamine C en 1928 ?",
-    "answers": [
-      "Casimir Funk",
-      "Linus Pauling",
-      "Albert Szent-Györgyi",
-      "Frederick Hopkins"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Salween supérieur ?",
+    "answers": ["Hedin", "Francis Younghusband", "Stein", "Przhevalsky"],
+    "correctIndex": 1
   },
   {
     "id": "q115",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
-    "answers": [
-      "Albert Szent-Györgyi",
-      "Hans Krebs",
-      "Dorothy Hodgkin",
-      "Frederick Sanger"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert la loi de la renormalisation en théorie quantique des champs ?",
+    "answers": ["Dirac", "Pauli", "Kenneth Wilson", "Feynman"],
+    "correctIndex": 2
   },
   {
     "id": "q116",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la vitamine C en 1928 ?",
-    "answers": [
-      "Linus Pauling",
-      "Casimir Funk",
-      "Frederick Hopkins",
-      "Albert Szent-Györgyi"
-    ],
+    "text": "Quel inventeur est associé au premier réseau de satellites de navigation opérationnel avant le GPS ?",
+    "answers": ["NASA", "US Navy", "ESA", "Transit"],
     "correctIndex": 3
   },
   {
     "id": "q117",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
-    "answers": [
-      "Alexander Fleming",
-      "Howard Florey",
-      "Gerhard Domagk",
-      "Selman Waksman"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a formulé la loi de la diffusion thermique non linéaire ?",
+    "answers": ["Joseph Fourier", "Biot", "Soret", "Carslaw"],
+    "correctIndex": 0
   },
   {
     "id": "q118",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
-    "answers": [
-      "Antoine Lavoisier",
-      "Carl Scheele",
-      "Robert Boyle",
-      "Joseph Priestley"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Zambèze supérieur ?",
+    "answers": ["Stanley", "David Livingstone", "Burton", "Speke"],
+    "correctIndex": 1
   },
   {
     "id": "q119",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
-    "answers": [
-      "Bartolomeu Dias",
-      "Vasco de Gama",
-      "Magellan",
-      "Henri le Navigateur"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert la loi de la condensation de Bose-Einstein ?",
+    "answers": ["Einstein", "Bose", "Satyendra Nath Bose", "Debye"],
+    "correctIndex": 2
   },
   {
     "id": "q120",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
-    "answers": [
-      "Alhazen",
-      "Al-Sufi",
-      "Al-Battani",
-      "Al-Tusi"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé au premier accélérateur synchrotron électronique ?",
+    "answers": ["CERN", "Lawrence", "Fermi", "Edwin McMillan"],
+    "correctIndex": 3
   },
+
   {
     "id": "q121",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
-    "answers": [
-      "Bougainville",
-      "Jean-François de La Pérouse",
-      "Samuel de Champlain",
-      "Jacques Cartier"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a formulé la loi de la conservation de la charge électrique en théorie quantique ?",
+    "answers": ["Emmy Noether", "Pauli", "Dirac", "Feynman"],
+    "correctIndex": 0
   },
   {
     "id": "q122",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
-    "answers": [
-      "Gerhard Domagk",
-      "Selman Waksman",
-      "Howard Florey",
-      "Alexander Fleming"
-    ],
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Omo ?",
+    "answers": ["Teleki", "Vittorio Bottego", "Livingstone", "Speke"],
     "correctIndex": 1
   },
   {
     "id": "q123",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
-    "answers": [
-      "Diogo Cão",
-      "Fernand de Magellan",
-      "Vasco de Gama",
-      "Bartolomeu Dias"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la loi de la diffusion électronique dans les semi-conducteurs désordonnés ?",
+    "answers": ["Mott", "Anderson", "Philip Anderson", "Bloch"],
+    "correctIndex": 2
   },
   {
     "id": "q124",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
-    "answers": [
-      "Henri le Navigateur",
-      "Magellan",
-      "Bartolomeu Dias",
-      "Vasco de Gama"
-    ],
+    "text": "Quel inventeur est associé au premier système de communication quantique expérimentale ?",
+    "answers": ["IBM", "MIT", "Bell Labs", "Anton Zeilinger"],
     "correctIndex": 3
   },
   {
     "id": "q125",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la planète Uranus en 1781 ?",
-    "answers": [
-      "Charles Messier",
-      "Giovanni Cassini",
-      "Galilée",
-      "William Herschel"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a formulé la loi de la turbulence isotrope ?",
+    "answers": ["Andrey Kolmogorov", "Taylor", "Reynolds", "Prandtl"],
+    "correctIndex": 0
   },
   {
     "id": "q126",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
-    "answers": [
-      "Carl Scheele",
-      "Joseph Priestley",
-      "Antoine Lavoisier",
-      "Robert Boyle"
-    ],
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Limpopo ?",
+    "answers": ["Burton", "David Livingstone", "Stanley", "Speke"],
     "correctIndex": 1
   },
   {
     "id": "q127",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
-    "answers": [
-      "Albert Szent-Györgyi",
-      "Dorothy Hodgkin",
-      "Hans Krebs",
-      "Frederick Sanger"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert la loi de la dissipation dans les systèmes hors équilibre ?",
+    "answers": ["Onsager", "Prigogine", "Ilya Prigogine", "Kubo"],
+    "correctIndex": 2
   },
   {
     "id": "q128",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
-    "answers": [
-      "Joseph Priestley",
-      "Robert Boyle",
-      "Antoine Lavoisier",
-      "Carl Scheele"
-    ],
-    "correctIndex": 0
+    "text": "Quel inventeur est associé au premier détecteur de particules à chambre à bulles ?",
+    "answers": ["CERN", "Fermi", "Lawrence", "Donald Glaser"],
+    "correctIndex": 3
   },
   {
     "id": "q129",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
-    "answers": [
-      "Hans Krebs",
-      "Albert Szent-Györgyi",
-      "Frederick Sanger",
-      "Dorothy Hodgkin"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a formulé la loi de la symétrie CPT en théorie quantique des champs ?",
+    "answers": ["Gerhart Lüders", "Pauli", "Dirac", "Wigner"],
+    "correctIndex": 0
   },
   {
     "id": "q130",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
-    "answers": [
-      "Robert Boyle",
-      "Antoine Lavoisier",
-      "Carl Scheele",
-      "Joseph Priestley"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Volta ?",
+    "answers": ["Caillié", "Joseph Dupuis", "Park", "Clapperton"],
+    "correctIndex": 1
   },
+
   {
     "id": "q131",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
-    "answers": [
-      "Gerhard Domagk",
-      "Howard Florey",
-      "Alexander Fleming",
-      "Selman Waksman"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert la loi de la transition métal-isolant de Mott ?",
+    "answers": ["Hubbard", "Anderson", "Nevill Mott", "Bloch"],
+    "correctIndex": 2
   },
   {
     "id": "q132",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
-    "answers": [
-      "Balboa",
-      "Pizarro",
-      "Elcano",
-      "Magellan"
-    ],
+    "text": "Quel inventeur est associé au premier microscope électronique à balayage ?",
+    "answers": ["Siemens", "Philips", "JEOL", "Manfred von Ardenne"],
     "correctIndex": 3
   },
   {
     "id": "q133",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la planète Uranus en 1781 ?",
-    "answers": [
-      "Galilée",
-      "Charles Messier",
-      "William Herschel",
-      "Giovanni Cassini"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a formulé la loi de la relativité générale décrivant la gravitation ?",
+    "answers": ["Albert Einstein", "Newton", "Hilbert", "Cartan"],
+    "correctIndex": 0
   },
   {
     "id": "q134",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
-    "answers": [
-      "Pizarro",
-      "Balboa",
-      "Elcano",
-      "Magellan"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Sepik ?",
+    "answers": ["D'Albertis", "Otto Finsch", "Wallace", "Miklouho-Maclay"],
+    "correctIndex": 1
   },
   {
     "id": "q135",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
-    "answers": [
-      "Bartolomeu Dias",
-      "Diogo Cão",
-      "Fernand de Magellan",
-      "Vasco de Gama"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert la loi de la supraconductivité à haute température critique ?",
+    "answers": ["BCS", "Anderson", "Johannes Bednorz", "Abrikosov"],
+    "correctIndex": 2
   },
   {
     "id": "q136",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
-    "answers": [
-      "Elcano",
-      "Magellan",
-      "Pizarro",
-      "Balboa"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé au premier ordinateur neuronal matériel ?",
+    "answers": ["IBM", "Intel", "Google", "Carver Mead"],
+    "correctIndex": 3
   },
   {
     "id": "q137",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la planète Uranus en 1781 ?",
-    "answers": [
-      "Charles Messier",
-      "Giovanni Cassini",
-      "William Herschel",
-      "Galilée"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a formulé la loi de la mécanique statistique hors équilibre ?",
+    "answers": ["Lars Onsager", "Prigogine", "Kubo", "Zwanzig"],
+    "correctIndex": 0
   },
   {
     "id": "q138",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
-    "answers": [
-      "Vasco de Gama",
-      "Magellan",
-      "Henri le Navigateur",
-      "Bartolomeu Dias"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Fly ?",
+    "answers": ["D'Albertis", "Luigi D'Albertis", "Wallace", "Miklouho-Maclay"],
+    "correctIndex": 1
   },
   {
     "id": "q139",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
-    "answers": [
-      "Bougainville",
-      "Jean-François de La Pérouse",
-      "Samuel de Champlain",
-      "Jacques Cartier"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert la loi de la localisation quantique des ondes ?",
+    "answers": ["Bloch", "Mott", "Philip Anderson", "Wigner"],
+    "correctIndex": 2
   },
   {
     "id": "q140",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
-    "answers": [
-      "Diogo Cão",
-      "Fernand de Magellan",
-      "Vasco de Gama",
-      "Bartolomeu Dias"
-    ],
-    "correctIndex": 0
+    "text": "Quel inventeur est associé au premier réseau expérimental de communications par fibres optiques ?",
+    "answers": ["AT&T", "Bell Labs", "Corning", "Charles Kao"],
+    "correctIndex": 3
   },
+
   {
     "id": "q141",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
-    "answers": [
-      "Al-Sufi",
-      "Alhazen",
-      "Al-Battani",
-      "Al-Tusi"
-    ],
+    "text": "Quel scientifique a formulé la loi décrivant la turbulence bidimensionnelle ?",
+    "answers": ["Robert Kraichnan", "Kolmogorov", "Taylor", "Prandtl"],
     "correctIndex": 0
   },
   {
     "id": "q142",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
-    "answers": [
-      "Magellan",
-      "Bartolomeu Dias",
-      "Henri le Navigateur",
-      "Vasco de Gama"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Lualaba ?",
+    "answers": ["Stanley", "David Livingstone", "Burton", "Speke"],
+    "correctIndex": 1
   },
   {
     "id": "q143",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
-    "answers": [
-      "Carl Scheele",
-      "Antoine Lavoisier",
-      "Joseph Priestley",
-      "Robert Boyle"
-    ],
+    "text": "Quel scientifique a découvert la loi de la fluctuation-dissipation ?",
+    "answers": ["Nyquist", "Onsager", "Callen", "Einstein"],
     "correctIndex": 2
   },
   {
     "id": "q144",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
-    "answers": [
-      "Al-Tusi",
-      "Al-Battani",
-      "Al-Sufi",
-      "Alhazen"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est associé au premier accélérateur linéaire médical ?",
+    "answers": ["Varian", "Siemens", "Philips", "Henry Kaplan"],
+    "correctIndex": 3
   },
   {
     "id": "q145",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
-    "answers": [
-      "Diogo Cão",
-      "Vasco de Gama",
-      "Fernand de Magellan",
-      "Bartolomeu Dias"
-    ],
+    "text": "Quel scientifique a formulé la loi de la conservation du courant topologique ?",
+    "answers": ["Chern", "Berry", "Thouless", "Witten"],
     "correctIndex": 0
   },
   {
     "id": "q146",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
-    "answers": [
-      "Samuel de Champlain",
-      "Jean-François de La Pérouse",
-      "Jacques Cartier",
-      "Bougainville"
-    ],
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Kasaï ?",
+    "answers": ["Stanley", "Hermann Wissmann", "Livingstone", "Burton"],
     "correctIndex": 1
   },
   {
     "id": "q147",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
-    "answers": [
-      "Elcano",
-      "Magellan",
-      "Pizarro",
-      "Balboa"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert la loi de la superposition quantique macroscopique ?",
+    "answers": ["Schrödinger", "Bohr", "Everett", "Leggett"],
+    "correctIndex": 2
   },
   {
     "id": "q148",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
-    "answers": [
-      "Al-Tusi",
-      "Al-Sufi",
-      "Al-Battani",
-      "Alhazen"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé au premier détecteur à semi-conducteurs pour rayons gamma ?",
+    "answers": ["Siemens", "Philips", "HP", "Raymond Davis Jr."],
+    "correctIndex": 3
   },
   {
     "id": "q149",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la planète Uranus en 1781 ?",
-    "answers": [
-      "Giovanni Cassini",
-      "Galilée",
-      "Charles Messier",
-      "William Herschel"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a formulé la loi de la quantification topologique des conductances ?",
+    "answers": ["David Thouless", "Chern", "Berry", "Klitzing"],
+    "correctIndex": 0
   },
   {
     "id": "q150",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la planète Uranus en 1781 ?",
-    "answers": [
-      "Galilée",
-      "William Herschel",
-      "Charles Messier",
-      "Giovanni Cassini"
-    ],
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Orange en Afrique australe ?",
+    "answers": ["Burton", "Robert Jacob Gordon", "Livingstone", "Caillié"],
     "correctIndex": 1
   },
   {
     "id": "q151",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la vitamine C en 1928 ?",
-    "answers": [
-      "Casimir Funk",
-      "Albert Szent-Györgyi",
-      "Linus Pauling",
-      "Frederick Hopkins"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a démontré l’existence théorique des trous noirs stellaires avant leur observation directe ?",
+    "answers": ["Einstein", "Schwarzschild", "Penrose", "Chandrasekhar"],
+    "correctIndex": 2
   },
   {
     "id": "q152",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
-    "answers": [
-      "Howard Florey",
-      "Gerhard Domagk",
-      "Selman Waksman",
-      "Alexander Fleming"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Niger moyen ?",
+    "answers": ["Mungo Park", "Clapperton", "Caillié", "Barth"],
+    "correctIndex": 3
   },
   {
     "id": "q153",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
-    "answers": [
-      "Magellan",
-      "Elcano",
-      "Balboa",
-      "Pizarro"
-    ],
+    "text": "Quel scientifique a formulé la loi décrivant l’expansion accélérée de l’Univers par l’énergie noire ?",
+    "answers": ["Hubble", "Perlmutter", "Riess", "Schmidt"],
     "correctIndex": 0
   },
   {
     "id": "q154",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la vitamine C en 1928 ?",
-    "answers": [
-      "Casimir Funk",
-      "Albert Szent-Györgyi",
-      "Frederick Hopkins",
-      "Linus Pauling"
-    ],
+    "text": "Quel inventeur est associé au premier laser à rubis fonctionnel ?",
+    "answers": ["Townes", "Maiman", "Gould", "Bloembergen"],
     "correctIndex": 1
   },
   {
     "id": "q155",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
-    "answers": [
-      "Jacques Cartier",
-      "Bougainville",
-      "Samuel de Champlain",
-      "Jean-François de La Pérouse"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert la loi de la structure en double hélice de l’ADN ?",
+    "answers": ["Watson", "Crick", "Franklin", "Chargaff"],
+    "correctIndex": 2
   },
   {
     "id": "q156",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
-    "answers": [
-      "Selman Waksman",
-      "Gerhard Domagk",
-      "Howard Florey",
-      "Alexander Fleming"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Colorado ?",
+    "answers": ["Powell", "Fremont", "Carson", "Escalante"],
+    "correctIndex": 3
   },
   {
     "id": "q157",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la vitamine C en 1928 ?",
-    "answers": [
-      "Casimir Funk",
-      "Frederick Hopkins",
-      "Albert Szent-Györgyi",
-      "Linus Pauling"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a formulé la loi de l’équivalence masse-énergie ?",
+    "answers": ["Newton", "Einstein", "Lorentz", "Planck"],
+    "correctIndex": 0
   },
   {
     "id": "q158",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la vitamine C en 1928 ?",
-    "answers": [
-      "Casimir Funk",
-      "Linus Pauling",
-      "Albert Szent-Györgyi",
-      "Frederick Hopkins"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est associé au premier transistor à jonction ?",
+    "answers": ["Shockley", "Bardeen", "Brattain", "Kilby"],
+    "correctIndex": 1
   },
   {
     "id": "q159",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
-    "answers": [
-      "Fernand de Magellan",
-      "Diogo Cão",
-      "Vasco de Gama",
-      "Bartolomeu Dias"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a démontré l’existence des quarks par diffusion inélastique profonde ?",
+    "answers": ["Gell-Mann", "Feynman", "Bjorken", "Friedman"],
+    "correctIndex": 2
   },
   {
     "id": "q160",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
-    "answers": [
-      "Pizarro",
-      "Magellan",
-      "Elcano",
-      "Balboa"
-    ],
-    "correctIndex": 1
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Indigirka en Sibérie ?",
+    "answers": ["Wrangel", "Dezhnev", "Laptev", "Bering"],
+    "correctIndex": 3
   },
+
   {
     "id": "q161",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la planète Uranus en 1781 ?",
-    "answers": [
-      "Giovanni Cassini",
-      "Charles Messier",
-      "Galilée",
-      "William Herschel"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a formulé la loi de la quantification de l’action en physique ?",
+    "answers": ["Planck", "Bohr", "Einstein", "Sommerfeld"],
+    "correctIndex": 0
   },
   {
     "id": "q162",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la planète Uranus en 1781 ?",
-    "answers": [
-      "William Herschel",
-      "Charles Messier",
-      "Giovanni Cassini",
-      "Galilée"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Columbia ?",
+    "answers": ["Lewis", "Clark", "Gray", "Vancouver"],
+    "correctIndex": 1
   },
   {
     "id": "q163",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
-    "answers": [
-      "Elcano",
-      "Balboa",
-      "Pizarro",
-      "Magellan"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert la loi de l’effet tunnel quantique ?",
+    "answers": ["Gamow", "Fowler", "Nordheim", "Dirac"],
+    "correctIndex": 2
   },
   {
     "id": "q164",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la planète Uranus en 1781 ?",
-    "answers": [
-      "Charles Messier",
-      "Galilée",
-      "Giovanni Cassini",
-      "William Herschel"
-    ],
+    "text": "Quel inventeur est associé au premier microprocesseur commercial ?",
+    "answers": ["IBM", "Intel", "Motorola", "Texas Instruments"],
     "correctIndex": 3
   },
   {
     "id": "q165",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
-    "answers": [
-      "Dorothy Hodgkin",
-      "Frederick Sanger",
-      "Hans Krebs",
-      "Albert Szent-Györgyi"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a formulé la loi de la sélection naturelle ?",
+    "answers": ["Darwin", "Wallace", "Lamarck", "Huxley"],
+    "correctIndex": 0
   },
   {
     "id": "q166",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
-    "answers": [
-      "Magellan",
-      "Henri le Navigateur",
-      "Bartolomeu Dias",
-      "Vasco de Gama"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Paraguay ?",
+    "answers": ["Cabeza de Vaca", "Irala", "Ayolas", "Solís"],
+    "correctIndex": 1
   },
   {
     "id": "q167",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
-    "answers": [
-      "Bartolomeu Dias",
-      "Henri le Navigateur",
-      "Vasco de Gama",
-      "Magellan"
-    ],
+    "text": "Quel scientifique a découvert la loi de la radioactivité artificielle ?",
+    "answers": ["Rutherford", "Curie", "Joliot-Curie", "Fermi"],
     "correctIndex": 2
   },
   {
     "id": "q168",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
-    "answers": [
-      "Elcano",
-      "Pizarro",
-      "Balboa",
-      "Magellan"
-    ],
+    "text": "Quel inventeur est associé au premier avion à réaction opérationnel ?",
+    "answers": ["Whittle", "Ohain", "Messerschmitt", "Gloster"],
     "correctIndex": 3
   },
   {
     "id": "q169",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
-    "answers": [
-      "Elcano",
-      "Balboa",
-      "Pizarro",
-      "Magellan"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a formulé la loi de la dérive des continents ?",
+    "answers": ["Wegener", "Hess", "Wilson", "Lyell"],
+    "correctIndex": 0
   },
   {
     "id": "q170",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
-    "answers": [
-      "Selman Waksman",
-      "Howard Florey",
-      "Alexander Fleming",
-      "Gerhard Domagk"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Yukon ?",
+    "answers": ["Schwatka", "McClure", "Dease", "Franklin"],
+    "correctIndex": 1
   },
+
   {
     "id": "q171",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
-    "answers": [
-      "Selman Waksman",
-      "Alexander Fleming",
-      "Howard Florey",
-      "Gerhard Domagk"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a démontré la loi de la diffraction des rayons X par les cristaux ?",
+    "answers": ["Laue", "Bragg", "Debye", "Ewald"],
+    "correctIndex": 2
   },
   {
     "id": "q172",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
-    "answers": [
-      "Bougainville",
-      "Jacques Cartier",
-      "Jean-François de La Pérouse",
-      "Samuel de Champlain"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est associé au premier vaccin contre la rage ?",
+    "answers": ["Jenner", "Pasteur", "Koch", "Metchnikoff"],
+    "correctIndex": 3
   },
   {
     "id": "q173",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
-    "answers": [
-      "Hans Krebs",
-      "Albert Szent-Györgyi",
-      "Frederick Sanger",
-      "Dorothy Hodgkin"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a formulé la loi de la pression osmotique ?",
+    "answers": ["Van't Hoff", "Arrhenius", "Nernst", "Raoult"],
+    "correctIndex": 0
   },
   {
     "id": "q174",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
-    "answers": [
-      "Selman Waksman",
-      "Gerhard Domagk",
-      "Alexander Fleming",
-      "Howard Florey"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Orénoque supérieur ?",
+    "answers": ["Humboldt", "Raleigh", "Bolívar", "Pizarro"],
+    "correctIndex": 1
   },
   {
     "id": "q175",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
-    "answers": [
-      "Al-Tusi",
-      "Al-Sufi",
-      "Alhazen",
-      "Al-Battani"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert la loi de la plasticité synaptique à long terme ?",
+    "answers": ["Hebb", "Bliss", "Lømo", "Kandel"],
+    "correctIndex": 2
   },
   {
     "id": "q176",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
-    "answers": [
-      "Vasco de Gama",
-      "Magellan",
-      "Bartolomeu Dias",
-      "Henri le Navigateur"
-    ],
-    "correctIndex": 0
+    "text": "Quel inventeur est associé au premier satellite artificiel de l’histoire ?",
+    "answers": ["NASA", "Korolev", "Von Braun", "Sputnik"],
+    "correctIndex": 3
   },
   {
     "id": "q177",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
-    "answers": [
-      "Hans Krebs",
-      "Frederick Sanger",
-      "Dorothy Hodgkin",
-      "Albert Szent-Györgyi"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a formulé la loi de la conservation de l’information quantique ?",
+    "answers": ["Hawking", "Bekenstein", "Page", "Susskind"],
+    "correctIndex": 0
   },
   {
     "id": "q178",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la planète Uranus en 1781 ?",
-    "answers": [
-      "Charles Messier",
-      "William Herschel",
-      "Galilée",
-      "Giovanni Cassini"
-    ],
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Okavango ?",
+    "answers": ["Livingstone", "Serpa Pinto", "Baines", "Selous"],
     "correctIndex": 1
   },
   {
     "id": "q179",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
-    "answers": [
-      "Antoine Lavoisier",
-      "Joseph Priestley",
-      "Carl Scheele",
-      "Robert Boyle"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert la loi de la résistance génétique aux antibiotiques ?",
+    "answers": ["Fleming", "Lederberg", "Luria", "Delbrück"],
+    "correctIndex": 2
   },
   {
     "id": "q180",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
-    "answers": [
-      "Elcano",
-      "Magellan",
-      "Pizarro",
-      "Balboa"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé au premier réseau mondial de satellites de télécommunication ?",
+    "answers": ["NASA", "ESA", "Intelsat", "COMSAT"],
+    "correctIndex": 3
   },
+
   {
     "id": "q181",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
-    "answers": [
-      "Hans Krebs",
-      "Dorothy Hodgkin",
-      "Albert Szent-Györgyi",
-      "Frederick Sanger"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a formulé la loi de la conservation de l’énergie ?",
+    "answers": ["Joule", "Helmholtz", "Carnot", "Mayer"],
+    "correctIndex": 0
   },
   {
     "id": "q182",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
-    "answers": [
-      "Samuel de Champlain",
-      "Jacques Cartier",
-      "Bougainville",
-      "Jean-François de La Pérouse"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Tapajós ?",
+    "answers": ["Orellana", "Castelnau", "Bates", "Rondon"],
+    "correctIndex": 1
   },
   {
     "id": "q183",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la vitamine C en 1928 ?",
-    "answers": [
-      "Casimir Funk",
-      "Frederick Hopkins",
-      "Linus Pauling",
-      "Albert Szent-Györgyi"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert la loi de l’induction électromagnétique ?",
+    "answers": ["Maxwell", "Faraday", "Ampère", "Tesla"],
+    "correctIndex": 2
   },
   {
     "id": "q184",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
-    "answers": [
-      "Selman Waksman",
-      "Howard Florey",
-      "Alexander Fleming",
-      "Gerhard Domagk"
-    ],
-    "correctIndex": 0
+    "text": "Quel inventeur est associé au premier scanner médical par tomodensitométrie ?",
+    "answers": ["Siemens", "Hounsfield", "Philips", "EMI"],
+    "correctIndex": 3
   },
   {
     "id": "q185",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
-    "answers": [
-      "Hans Krebs",
-      "Dorothy Hodgkin",
-      "Albert Szent-Györgyi",
-      "Frederick Sanger"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a formulé la loi de la transmission des caractères héréditaires ?",
+    "answers": ["Mendel", "Darwin", "Morgan", "Weismann"],
+    "correctIndex": 0
   },
   {
     "id": "q186",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
-    "answers": [
-      "Hans Krebs",
-      "Albert Szent-Györgyi",
-      "Dorothy Hodgkin",
-      "Frederick Sanger"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Brahmapoutre ?",
+    "answers": ["Hedin", "Younghusband", "Bailey", "Walker"],
+    "correctIndex": 1
   },
   {
     "id": "q187",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la planète Uranus en 1781 ?",
-    "answers": [
-      "Giovanni Cassini",
-      "Charles Messier",
-      "William Herschel",
-      "Galilée"
-    ],
+    "text": "Quel scientifique a découvert la loi de la propagation neuronale du potentiel d’action ?",
+    "answers": ["Sherrington", "Hodgkin", "Huxley", "Eccles"],
     "correctIndex": 2
   },
   {
     "id": "q188",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
-    "answers": [
-      "Alhazen",
-      "Al-Battani",
-      "Al-Tusi",
-      "Al-Sufi"
-    ],
+    "text": "Quel inventeur est associé au premier ordinateur programmable électronique ?",
+    "answers": ["Zuse", "Turing", "Atanasoff", "ENIAC"],
     "correctIndex": 3
   },
   {
     "id": "q189",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
-    "answers": [
-      "Al-Sufi",
-      "Al-Tusi",
-      "Al-Battani",
-      "Alhazen"
-    ],
+    "text": "Quel scientifique a formulé la loi de la viscosité des fluides ?",
+    "answers": ["Newton", "Navier", "Stokes", "Poiseuille"],
     "correctIndex": 0
   },
   {
     "id": "q190",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
-    "answers": [
-      "Al-Tusi",
-      "Al-Battani",
-      "Alhazen",
-      "Al-Sufi"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Mekong supérieur ?",
+    "answers": ["Garnier", "Doudart de Lagrée", "Pavie", "Mouhot"],
+    "correctIndex": 1
   },
+
   {
     "id": "q191",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
-    "answers": [
-      "Magellan",
-      "Balboa",
-      "Elcano",
-      "Pizarro"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la loi de la thermodynamique irréversible ?",
+    "answers": ["Carnot", "Clausius", "Prigogine", "Boltzmann"],
+    "correctIndex": 2
   },
   {
     "id": "q192",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
-    "answers": [
-      "Al-Sufi",
-      "Al-Battani",
-      "Al-Tusi",
-      "Alhazen"
-    ],
-    "correctIndex": 0
+    "text": "Quel inventeur est associé au premier moteur électrique fonctionnel ?",
+    "answers": ["Tesla", "Faraday", "Siemens", "Jacobi"],
+    "correctIndex": 3
   },
   {
     "id": "q193",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
-    "answers": [
-      "Robert Boyle",
-      "Carl Scheele",
-      "Antoine Lavoisier",
-      "Joseph Priestley"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a formulé la loi des proportions définies en chimie ?",
+    "answers": ["Proust", "Lavoisier", "Dalton", "Berthollet"],
+    "correctIndex": 0
   },
   {
     "id": "q194",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
-    "answers": [
-      "Jean-François de La Pérouse",
-      "Samuel de Champlain",
-      "Bougainville",
-      "Jacques Cartier"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Sénégal ?",
+    "answers": ["Caillié", "Park", "Duranton", "Mage"],
+    "correctIndex": 1
   },
   {
     "id": "q195",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
-    "answers": [
-      "Jean-François de La Pérouse",
-      "Samuel de Champlain",
-      "Jacques Cartier",
-      "Bougainville"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la loi de la transmission synaptique chimique ?",
+    "answers": ["Loewi", "Dale", "Eccles", "Sherrington"],
+    "correctIndex": 2
   },
   {
     "id": "q196",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
-    "answers": [
-      "Magellan",
-      "Vasco de Gama",
-      "Henri le Navigateur",
-      "Bartolomeu Dias"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé au premier téléphone fonctionnel ?",
+    "answers": ["Meucci", "Bell", "Gray", "Edison"],
+    "correctIndex": 3
   },
   {
     "id": "q197",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a découvert la vitamine C en 1928 ?",
-    "answers": [
-      "Frederick Hopkins",
-      "Albert Szent-Györgyi",
-      "Linus Pauling",
-      "Casimir Funk"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a formulé la loi de la chute des corps ?",
+    "answers": ["Galilée", "Newton", "Aristote", "Huygens"],
+    "correctIndex": 0
   },
   {
     "id": "q198",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
-    "answers": [
-      "Jacques Cartier",
-      "Bougainville",
-      "Samuel de Champlain",
-      "Jean-François de La Pérouse"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Volga supérieur ?",
+    "answers": ["Herberstein", "Olearius", "Marco Polo", "Plan Carpin"],
+    "correctIndex": 1
   },
   {
     "id": "q199",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
-    "answers": [
-      "Diogo Cão",
-      "Bartolomeu Dias",
-      "Vasco de Gama",
-      "Fernand de Magellan"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la loi de l’effet photoélectrique ?",
+    "answers": ["Planck", "Einstein", "Hertz", "Millikan"],
+    "correctIndex": 2
   },
   {
     "id": "q200",
     "category": "Découvertes",
     "difficulty": "Difficile",
-    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
-    "answers": [
-      "Jacques Cartier",
-      "Bougainville",
-      "Samuel de Champlain",
-      "Jean-François de La Pérouse"
-    ],
+    "text": "Quel inventeur est associé au premier moteur à combustion interne fonctionnel ?",
+    "answers": ["Otto", "Diesel", "Lenoir", "Daimler"],
     "correctIndex": 3
-  },
-  {
-    "id": "q201",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
-    "answers": [
-      "Hans Krebs",
-      "Albert Szent-Györgyi",
-      "Dorothy Hodgkin",
-      "Frederick Sanger"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q202",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
-    "answers": [
-      "Joseph Priestley",
-      "Robert Boyle",
-      "Antoine Lavoisier",
-      "Carl Scheele"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q203",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
-    "answers": [
-      "Magellan",
-      "Bartolomeu Dias",
-      "Vasco de Gama",
-      "Henri le Navigateur"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q204",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
-    "answers": [
-      "Dorothy Hodgkin",
-      "Albert Szent-Györgyi",
-      "Hans Krebs",
-      "Frederick Sanger"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q205",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
-    "answers": [
-      "Al-Sufi",
-      "Al-Battani",
-      "Alhazen",
-      "Al-Tusi"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q206",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
-    "answers": [
-      "Alhazen",
-      "Al-Tusi",
-      "Al-Battani",
-      "Al-Sufi"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q207",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
-    "answers": [
-      "Balboa",
-      "Magellan",
-      "Pizarro",
-      "Elcano"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q208",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
-    "answers": [
-      "Carl Scheele",
-      "Joseph Priestley",
-      "Antoine Lavoisier",
-      "Robert Boyle"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q209",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
-    "answers": [
-      "Carl Scheele",
-      "Joseph Priestley",
-      "Antoine Lavoisier",
-      "Robert Boyle"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q210",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
-    "answers": [
-      "Gerhard Domagk",
-      "Alexander Fleming",
-      "Selman Waksman",
-      "Howard Florey"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q211",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la vitamine C en 1928 ?",
-    "answers": [
-      "Albert Szent-Györgyi",
-      "Linus Pauling",
-      "Frederick Hopkins",
-      "Casimir Funk"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q212",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
-    "answers": [
-      "Dorothy Hodgkin",
-      "Hans Krebs",
-      "Albert Szent-Györgyi",
-      "Frederick Sanger"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q213",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
-    "answers": [
-      "Albert Szent-Györgyi",
-      "Frederick Sanger",
-      "Dorothy Hodgkin",
-      "Hans Krebs"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q214",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la planète Uranus en 1781 ?",
-    "answers": [
-      "Giovanni Cassini",
-      "Galilée",
-      "William Herschel",
-      "Charles Messier"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q215",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
-    "answers": [
-      "Albert Szent-Györgyi",
-      "Hans Krebs",
-      "Dorothy Hodgkin",
-      "Frederick Sanger"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q216",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la vitamine C en 1928 ?",
-    "answers": [
-      "Casimir Funk",
-      "Albert Szent-Györgyi",
-      "Frederick Hopkins",
-      "Linus Pauling"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q217",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
-    "answers": [
-      "Howard Florey",
-      "Selman Waksman",
-      "Gerhard Domagk",
-      "Alexander Fleming"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q218",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
-    "answers": [
-      "Hans Krebs",
-      "Frederick Sanger",
-      "Dorothy Hodgkin",
-      "Albert Szent-Györgyi"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q219",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la vitamine C en 1928 ?",
-    "answers": [
-      "Casimir Funk",
-      "Linus Pauling",
-      "Frederick Hopkins",
-      "Albert Szent-Györgyi"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q220",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
-    "answers": [
-      "Alexander Fleming",
-      "Howard Florey",
-      "Gerhard Domagk",
-      "Selman Waksman"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q221",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la planète Uranus en 1781 ?",
-    "answers": [
-      "Galilée",
-      "William Herschel",
-      "Charles Messier",
-      "Giovanni Cassini"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q222",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
-    "answers": [
-      "Magellan",
-      "Bartolomeu Dias",
-      "Henri le Navigateur",
-      "Vasco de Gama"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q223",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
-    "answers": [
-      "Carl Scheele",
-      "Antoine Lavoisier",
-      "Robert Boyle",
-      "Joseph Priestley"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q224",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
-    "answers": [
-      "Bartolomeu Dias",
-      "Vasco de Gama",
-      "Fernand de Magellan",
-      "Diogo Cão"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q225",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
-    "answers": [
-      "Al-Tusi",
-      "Alhazen",
-      "Al-Battani",
-      "Al-Sufi"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q226",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la planète Uranus en 1781 ?",
-    "answers": [
-      "Charles Messier",
-      "Giovanni Cassini",
-      "Galilée",
-      "William Herschel"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q227",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
-    "answers": [
-      "Gerhard Domagk",
-      "Alexander Fleming",
-      "Howard Florey",
-      "Selman Waksman"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q228",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
-    "answers": [
-      "Albert Szent-Györgyi",
-      "Frederick Sanger",
-      "Hans Krebs",
-      "Dorothy Hodgkin"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q229",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
-    "answers": [
-      "Elcano",
-      "Balboa",
-      "Magellan",
-      "Pizarro"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q230",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
-    "answers": [
-      "Selman Waksman",
-      "Alexander Fleming",
-      "Gerhard Domagk",
-      "Howard Florey"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q231",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
-    "answers": [
-      "Vasco de Gama",
-      "Magellan",
-      "Bartolomeu Dias",
-      "Henri le Navigateur"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q232",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
-    "answers": [
-      "Bartolomeu Dias",
-      "Henri le Navigateur",
-      "Vasco de Gama",
-      "Magellan"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q233",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
-    "answers": [
-      "Bougainville",
-      "Jean-François de La Pérouse",
-      "Jacques Cartier",
-      "Samuel de Champlain"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q234",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
-    "answers": [
-      "Alexander Fleming",
-      "Howard Florey",
-      "Selman Waksman",
-      "Gerhard Domagk"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q235",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
-    "answers": [
-      "Robert Boyle",
-      "Joseph Priestley",
-      "Antoine Lavoisier",
-      "Carl Scheele"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q236",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
-    "answers": [
-      "Frederick Sanger",
-      "Hans Krebs",
-      "Dorothy Hodgkin",
-      "Albert Szent-Györgyi"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q237",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
-    "answers": [
-      "Jean-François de La Pérouse",
-      "Jacques Cartier",
-      "Bougainville",
-      "Samuel de Champlain"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q238",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
-    "answers": [
-      "Howard Florey",
-      "Alexander Fleming",
-      "Selman Waksman",
-      "Gerhard Domagk"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q239",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
-    "answers": [
-      "Joseph Priestley",
-      "Carl Scheele",
-      "Robert Boyle",
-      "Antoine Lavoisier"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q240",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
-    "answers": [
-      "Al-Tusi",
-      "Al-Sufi",
-      "Al-Battani",
-      "Alhazen"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q241",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
-    "answers": [
-      "Magellan",
-      "Bartolomeu Dias",
-      "Henri le Navigateur",
-      "Vasco de Gama"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q242",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
-    "answers": [
-      "Joseph Priestley",
-      "Robert Boyle",
-      "Antoine Lavoisier",
-      "Carl Scheele"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q243",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
-    "answers": [
-      "Carl Scheele",
-      "Joseph Priestley",
-      "Antoine Lavoisier",
-      "Robert Boyle"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q244",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
-    "answers": [
-      "Gerhard Domagk",
-      "Selman Waksman",
-      "Alexander Fleming",
-      "Howard Florey"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q245",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
-    "answers": [
-      "Alexander Fleming",
-      "Gerhard Domagk",
-      "Selman Waksman",
-      "Howard Florey"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q246",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
-    "answers": [
-      "Magellan",
-      "Elcano",
-      "Balboa",
-      "Pizarro"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q247",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
-    "answers": [
-      "Gerhard Domagk",
-      "Selman Waksman",
-      "Howard Florey",
-      "Alexander Fleming"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q248",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
-    "answers": [
-      "Vasco de Gama",
-      "Bartolomeu Dias",
-      "Diogo Cão",
-      "Fernand de Magellan"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q249",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
-    "answers": [
-      "Vasco de Gama",
-      "Diogo Cão",
-      "Fernand de Magellan",
-      "Bartolomeu Dias"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q250",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
-    "answers": [
-      "Carl Scheele",
-      "Robert Boyle",
-      "Antoine Lavoisier",
-      "Joseph Priestley"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q251",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
-    "answers": [
-      "Samuel de Champlain",
-      "Bougainville",
-      "Jacques Cartier",
-      "Jean-François de La Pérouse"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q252",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la vitamine C en 1928 ?",
-    "answers": [
-      "Linus Pauling",
-      "Frederick Hopkins",
-      "Albert Szent-Györgyi",
-      "Casimir Funk"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q253",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
-    "answers": [
-      "Elcano",
-      "Balboa",
-      "Pizarro",
-      "Magellan"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q254",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
-    "answers": [
-      "Magellan",
-      "Bartolomeu Dias",
-      "Henri le Navigateur",
-      "Vasco de Gama"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q255",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la vitamine C en 1928 ?",
-    "answers": [
-      "Casimir Funk",
-      "Frederick Hopkins",
-      "Linus Pauling",
-      "Albert Szent-Györgyi"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q256",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
-    "answers": [
-      "Bougainville",
-      "Samuel de Champlain",
-      "Jean-François de La Pérouse",
-      "Jacques Cartier"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q257",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
-    "answers": [
-      "Selman Waksman",
-      "Alexander Fleming",
-      "Howard Florey",
-      "Gerhard Domagk"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q258",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la vitamine C en 1928 ?",
-    "answers": [
-      "Albert Szent-Györgyi",
-      "Linus Pauling",
-      "Casimir Funk",
-      "Frederick Hopkins"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q259",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
-    "answers": [
-      "Albert Szent-Györgyi",
-      "Dorothy Hodgkin",
-      "Frederick Sanger",
-      "Hans Krebs"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q260",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la planète Uranus en 1781 ?",
-    "answers": [
-      "William Herschel",
-      "Charles Messier",
-      "Galilée",
-      "Giovanni Cassini"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q261",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la vitamine C en 1928 ?",
-    "answers": [
-      "Linus Pauling",
-      "Albert Szent-Györgyi",
-      "Casimir Funk",
-      "Frederick Hopkins"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q262",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
-    "answers": [
-      "Robert Boyle",
-      "Carl Scheele",
-      "Antoine Lavoisier",
-      "Joseph Priestley"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q263",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
-    "answers": [
-      "Bartolomeu Dias",
-      "Diogo Cão",
-      "Fernand de Magellan",
-      "Vasco de Gama"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q264",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
-    "answers": [
-      "Bartolomeu Dias",
-      "Vasco de Gama",
-      "Magellan",
-      "Henri le Navigateur"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q265",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la planète Uranus en 1781 ?",
-    "answers": [
-      "Giovanni Cassini",
-      "Galilée",
-      "William Herschel",
-      "Charles Messier"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q266",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
-    "answers": [
-      "Gerhard Domagk",
-      "Alexander Fleming",
-      "Selman Waksman",
-      "Howard Florey"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q267",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
-    "answers": [
-      "Carl Scheele",
-      "Joseph Priestley",
-      "Antoine Lavoisier",
-      "Robert Boyle"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q268",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
-    "answers": [
-      "Frederick Sanger",
-      "Dorothy Hodgkin",
-      "Hans Krebs",
-      "Albert Szent-Györgyi"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q269",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
-    "answers": [
-      "Howard Florey",
-      "Alexander Fleming",
-      "Selman Waksman",
-      "Gerhard Domagk"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q270",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
-    "answers": [
-      "Dorothy Hodgkin",
-      "Frederick Sanger",
-      "Hans Krebs",
-      "Albert Szent-Györgyi"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q271",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
-    "answers": [
-      "Magellan",
-      "Pizarro",
-      "Balboa",
-      "Elcano"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q272",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
-    "answers": [
-      "Jean-François de La Pérouse",
-      "Jacques Cartier",
-      "Bougainville",
-      "Samuel de Champlain"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q273",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la planète Uranus en 1781 ?",
-    "answers": [
-      "Giovanni Cassini",
-      "Galilée",
-      "William Herschel",
-      "Charles Messier"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q274",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
-    "answers": [
-      "Alhazen",
-      "Al-Tusi",
-      "Al-Battani",
-      "Al-Sufi"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q275",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
-    "answers": [
-      "Carl Scheele",
-      "Joseph Priestley",
-      "Antoine Lavoisier",
-      "Robert Boyle"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q276",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
-    "answers": [
-      "Al-Battani",
-      "Al-Sufi",
-      "Alhazen",
-      "Al-Tusi"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q277",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
-    "answers": [
-      "Bartolomeu Dias",
-      "Diogo Cão",
-      "Fernand de Magellan",
-      "Vasco de Gama"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q278",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
-    "answers": [
-      "Magellan",
-      "Pizarro",
-      "Balboa",
-      "Elcano"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q279",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
-    "answers": [
-      "Albert Szent-Györgyi",
-      "Dorothy Hodgkin",
-      "Hans Krebs",
-      "Frederick Sanger"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q280",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
-    "answers": [
-      "Carl Scheele",
-      "Robert Boyle",
-      "Joseph Priestley",
-      "Antoine Lavoisier"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q281",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la planète Uranus en 1781 ?",
-    "answers": [
-      "Giovanni Cassini",
-      "Galilée",
-      "Charles Messier",
-      "William Herschel"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q282",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
-    "answers": [
-      "Samuel de Champlain",
-      "Bougainville",
-      "Jacques Cartier",
-      "Jean-François de La Pérouse"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q283",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la planète Uranus en 1781 ?",
-    "answers": [
-      "Charles Messier",
-      "Galilée",
-      "William Herschel",
-      "Giovanni Cassini"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q284",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
-    "answers": [
-      "Jacques Cartier",
-      "Bougainville",
-      "Jean-François de La Pérouse",
-      "Samuel de Champlain"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q285",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
-    "answers": [
-      "Fernand de Magellan",
-      "Diogo Cão",
-      "Vasco de Gama",
-      "Bartolomeu Dias"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q286",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la vitamine C en 1928 ?",
-    "answers": [
-      "Linus Pauling",
-      "Albert Szent-Györgyi",
-      "Casimir Funk",
-      "Frederick Hopkins"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q287",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la structure de l'insuline en 1958 ?",
-    "answers": [
-      "Dorothy Hodgkin",
-      "Albert Szent-Györgyi",
-      "Hans Krebs",
-      "Frederick Sanger"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q288",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
-    "answers": [
-      "Henri le Navigateur",
-      "Bartolomeu Dias",
-      "Magellan",
-      "Vasco de Gama"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q289",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
-    "answers": [
-      "Al-Battani",
-      "Al-Sufi",
-      "Al-Tusi",
-      "Alhazen"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q290",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel explorateur espagnol a découvert l'archipel des Philippines en 1521 ?",
-    "answers": [
-      "Pizarro",
-      "Magellan",
-      "Balboa",
-      "Elcano"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q291",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la vitamine C en 1928 ?",
-    "answers": [
-      "Frederick Hopkins",
-      "Linus Pauling",
-      "Casimir Funk",
-      "Albert Szent-Györgyi"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q292",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert le premier antibiotique naturel autre que la pénicilline ?",
-    "answers": [
-      "Gerhard Domagk",
-      "Alexander Fleming",
-      "Howard Florey",
-      "Selman Waksman"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q293",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la vitamine C en 1928 ?",
-    "answers": [
-      "Casimir Funk",
-      "Albert Szent-Györgyi",
-      "Linus Pauling",
-      "Frederick Hopkins"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q294",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
-    "answers": [
-      "Bougainville",
-      "Jean-François de La Pérouse",
-      "Jacques Cartier",
-      "Samuel de Champlain"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q295",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a été le premier Européen à atteindre l'embouchure du fleuve Congo ?",
-    "answers": [
-      "Bartolomeu Dias",
-      "Vasco de Gama",
-      "Fernand de Magellan",
-      "Diogo Cão"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q296",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a isolé pour la première fois l'oxygène en 1774 ?",
-    "answers": [
-      "Antoine Lavoisier",
-      "Joseph Priestley",
-      "Carl Scheele",
-      "Robert Boyle"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q297",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
-    "answers": [
-      "Al-Sufi",
-      "Alhazen",
-      "Al-Battani",
-      "Al-Tusi"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q298",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel astronome arabe a donné son nom à de nombreuses étoiles ?",
-    "answers": [
-      "Al-Battani",
-      "Al-Sufi",
-      "Alhazen",
-      "Al-Tusi"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q299",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Qui a découvert la planète Uranus en 1781 ?",
-    "answers": [
-      "Galilée",
-      "Charles Messier",
-      "William Herschel",
-      "Giovanni Cassini"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q300",
-    "category": "Découvertes",
-    "difficulty": "Difficile",
-    "text": "Quel navigateur français a exploré la côte ouest du Canada au XVIIIe siècle ?",
-    "answers": [
-      "Bougainville",
-      "Jacques Cartier",
-      "Jean-François de La Pérouse",
-      "Samuel de Champlain"
-    ],
-    "correctIndex": 2
   }
 ]
