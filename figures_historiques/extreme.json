@@ -3,3900 +3,1616 @@
     "id": "q1",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef de guerre hun a été arrêté aux Champs Catalauniques en 451 ?",
-    "answers": [
-      "Odoacre",
-      "Attila",
-      "Alaric Ier",
-      "Genséric"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain a officiellement séparé le commandement militaire du pouvoir civil au niveau provincial ?",
+    "answers": ["Dioclétien", "Constantin Ier", "Aurélien", "Valentinien Ier"],
+    "correctIndex": 0
   },
   {
     "id": "q2",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi de Macédoine a vaincu Darius III à Gaugamèles ?",
-    "answers": [
-      "Alexandre le Grand",
-      "Philippe II",
-      "Cassandre",
-      "Antigone le Borgne"
-    ],
-    "correctIndex": 0
+    "text": "Quel roi capétien a imposé le principe de l’indisponibilité de la couronne ?",
+    "answers": ["Louis IX", "Philippe III", "Philippe IV le Bel", "Charles V"],
+    "correctIndex": 1
   },
   {
     "id": "q3",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a divisé l'Empire en deux parties administratives ?",
-    "answers": [
-      "Dioclétien",
-      "Constantin Ier",
-      "Trajan",
-      "Marc Aurèle"
-    ],
-    "correctIndex": 0
+    "text": "Quel empereur romain a définitivement supprimé la garde prétorienne ?",
+    "answers": ["Dioclétien", "Aurélien", "Constantin Ier", "Théodose Ier"],
+    "correctIndex": 2
   },
   {
     "id": "q4",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire ottoman a conquis Constantinople en 1453 ?",
-    "answers": [
-      "Selim Ier",
-      "Suleiman le Magnifique",
-      "Bayezid II",
-      "Mehmet II"
-    ],
+    "text": "Quel souverain français a fait enregistrer l’édit de Nantes par lit de justice ?",
+    "answers": ["Henri III", "Charles IX", "Louis XIII", "Henri IV"],
     "correctIndex": 3
   },
   {
     "id": "q5",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel souverain inca a affronté Francisco Pizarro ?",
-    "answers": [
-      "Atahualpa",
-      "Pachacutec",
-      "Manco Inca",
-      "Huayna Capac"
-    ],
+    "text": "Quel empereur romain a institué le système du comes sacrarum largitionum ?",
+    "answers": ["Constantin Ier", "Dioclétien", "Théodose Ier", "Valentinien Ier"],
     "correctIndex": 0
   },
   {
     "id": "q6",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef indien apache a résisté aux forces américaines jusqu'en 1886 ?",
-    "answers": [
-      "Victorio",
-      "Mangas Coloradas",
-      "Cochise",
-      "Geronimo"
-    ],
-    "correctIndex": 3
+    "text": "Quel roi de France a rendu héréditaire la charge de gouverneur de province ?",
+    "answers": ["Louis XI", "François Ier", "Louis XIV", "Henri II"],
+    "correctIndex": 1
   },
   {
     "id": "q7",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi babylonien a promulgué un célèbre code de lois ?",
-    "answers": [
-      "Ashurbanipal",
-      "Hammurabi",
-      "Sargon d'Akkad",
-      "Nabuchodonosor II"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain a promulgué la Constitutio Antoniniana en 212 ?",
+    "answers": ["Septime Sévère", "Macrin", "Caracalla", "Élagabal"],
+    "correctIndex": 2
   },
   {
     "id": "q8",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi babylonien a promulgué un célèbre code de lois ?",
-    "answers": [
-      "Hammurabi",
-      "Ashurbanipal",
-      "Nabuchodonosor II",
-      "Sargon d'Akkad"
-    ],
-    "correctIndex": 0
+    "text": "Quel roi de France a instauré le principe de cassation des arrêts des parlements ?",
+    "answers": ["Louis XIII", "Louis XIV", "Louis XV", "Louis XVI"],
+    "correctIndex": 3
   },
   {
     "id": "q9",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef indien apache a résisté aux forces américaines jusqu'en 1886 ?",
-    "answers": [
-      "Mangas Coloradas",
-      "Geronimo",
-      "Victorio",
-      "Cochise"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain a établi la division de l’Empire en préfectures du prétoire ?",
+    "answers": ["Dioclétien", "Constantin Ier", "Théodose Ier", "Valens"],
+    "correctIndex": 0
   },
   {
     "id": "q10",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef de guerre hun a été arrêté aux Champs Catalauniques en 451 ?",
-    "answers": [
-      "Genséric",
-      "Attila",
-      "Alaric Ier",
-      "Odoacre"
-    ],
+    "text": "Quel roi de France a imposé le contrôle royal sur les universités par ordonnance ?",
+    "answers": ["Charles V", "Louis XI", "François Ier", "Louis XIII"],
     "correctIndex": 1
   },
+
   {
     "id": "q11",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi babylonien a promulgué un célèbre code de lois ?",
-    "answers": [
-      "Ashurbanipal",
-      "Sargon d'Akkad",
-      "Nabuchodonosor II",
-      "Hammurabi"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain a créé le titre de magister militum ?",
+    "answers": ["Aurélien", "Dioclétien", "Constantin Ier", "Théodose Ier"],
+    "correctIndex": 2
   },
   {
     "id": "q12",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel explorateur polaire norvégien a disparu lors d'une mission de sauvetage en 1928 ?",
-    "answers": [
-      "Fridtjof Nansen",
-      "Ernest Shackleton",
-      "Roald Amundsen",
-      "Umberto Nobile"
-    ],
-    "correctIndex": 2
+    "text": "Quel chef de l’État français a fait adopter la Constitution de 1958 par référendum ?",
+    "answers": ["René Coty", "Georges Pompidou", "Michel Debré", "Charles de Gaulle"],
+    "correctIndex": 3
   },
   {
     "id": "q13",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef de guerre hun a été arrêté aux Champs Catalauniques en 451 ?",
-    "answers": [
-      "Genséric",
-      "Odoacre",
-      "Alaric Ier",
-      "Attila"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain a instauré l’hérédité obligatoire des fonctions municipales ?",
+    "answers": ["Dioclétien", "Constantin Ier", "Aurélien", "Valentinien Ier"],
+    "correctIndex": 0
   },
   {
     "id": "q14",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi babylonien a promulgué un célèbre code de lois ?",
-    "answers": [
-      "Hammurabi",
-      "Ashurbanipal",
-      "Sargon d'Akkad",
-      "Nabuchodonosor II"
-    ],
-    "correctIndex": 0
+    "text": "Quel roi de France a légalisé la vénalité des charges judiciaires ?",
+    "answers": ["François Ier", "Henri II", "Louis XIII", "Henri IV"],
+    "correctIndex": 1
   },
   {
     "id": "q15",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef de guerre hun a été arrêté aux Champs Catalauniques en 451 ?",
-    "answers": [
-      "Attila",
-      "Odoacre",
-      "Genséric",
-      "Alaric Ier"
-    ],
-    "correctIndex": 0
+    "text": "Quel empereur romain a été vaincu et tué à la bataille d’Andrinople en 378 ?",
+    "answers": ["Gratien", "Valentinien Ier", "Valens", "Théodose Ier"],
+    "correctIndex": 2
   },
   {
     "id": "q16",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel explorateur polaire norvégien a disparu lors d'une mission de sauvetage en 1928 ?",
-    "answers": [
-      "Umberto Nobile",
-      "Ernest Shackleton",
-      "Roald Amundsen",
-      "Fridtjof Nansen"
-    ],
-    "correctIndex": 2
+    "text": "Quel roi de France a imposé l’enregistrement forcé des édits par lit de justice en 1766 ?",
+    "answers": ["Louis XIV", "Louis XV", "Louis XVI", "Charles X"],
+    "correctIndex": 3
   },
   {
     "id": "q17",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a divisé l'Empire en deux parties administratives ?",
-    "answers": [
-      "Trajan",
-      "Constantin Ier",
-      "Dioclétien",
-      "Marc Aurèle"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain a instauré la réforme monétaire fondée sur le solidus ?",
+    "answers": ["Constantin Ier", "Dioclétien", "Aurélien", "Théodose Ier"],
+    "correctIndex": 0
   },
   {
     "id": "q18",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef indien apache a résisté aux forces américaines jusqu'en 1886 ?",
-    "answers": [
-      "Victorio",
-      "Mangas Coloradas",
-      "Cochise",
-      "Geronimo"
-    ],
-    "correctIndex": 3
+    "text": "Quel roi de France a supprimé les États généraux après 1614 ?",
+    "answers": ["Louis XIII", "Louis XIV", "Louis XV", "Louis XVI"],
+    "correctIndex": 1
   },
   {
     "id": "q19",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel souverain inca a affronté Francisco Pizarro ?",
-    "answers": [
-      "Pachacutec",
-      "Atahualpa",
-      "Huayna Capac",
-      "Manco Inca"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain a promulgué l’édit de Thessalonique en 380 ?",
+    "answers": ["Gratien", "Valentinien II", "Théodose Ier", "Arcadius"],
+    "correctIndex": 2
   },
   {
     "id": "q20",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi babylonien a promulgué un célèbre code de lois ?",
-    "answers": [
-      "Sargon d'Akkad",
-      "Ashurbanipal",
-      "Hammurabi",
-      "Nabuchodonosor II"
-    ],
-    "correctIndex": 2
+    "text": "Quel président français a instauré le quinquennat par référendum en 2000 ?",
+    "answers": ["François Mitterrand", "Jacques Chirac", "Nicolas Sarkozy", "Jacques Chirac"],
+    "correctIndex": 3
   },
+
   {
     "id": "q21",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef de guerre hun a été arrêté aux Champs Catalauniques en 451 ?",
-    "answers": [
-      "Attila",
-      "Alaric Ier",
-      "Genséric",
-      "Odoacre"
-    ],
+    "text": "Quel empereur romain a instauré la réforme administrative dite du dominat ?",
+    "answers": ["Dioclétien", "Aurélien", "Constantin Ier", "Probus"],
     "correctIndex": 0
   },
   {
     "id": "q22",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a divisé l'Empire en deux parties administratives ?",
-    "answers": [
-      "Trajan",
-      "Constantin Ier",
-      "Marc Aurèle",
-      "Dioclétien"
-    ],
-    "correctIndex": 3
+    "text": "Quel roi de France a rendu la noblesse héréditaire par ordonnance ?",
+    "answers": ["Charles VII", "Louis XI", "François Ier", "Henri IV"],
+    "correctIndex": 1
   },
   {
     "id": "q23",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi babylonien a promulgué un célèbre code de lois ?",
-    "answers": [
-      "Hammurabi",
-      "Sargon d'Akkad",
-      "Ashurbanipal",
-      "Nabuchodonosor II"
-    ],
-    "correctIndex": 0
+    "text": "Quel empereur romain a fondé la ville de Constantinople en 330 ?",
+    "answers": ["Licinius", "Dioclétien", "Constantin Ier", "Théodose Ier"],
+    "correctIndex": 2
   },
   {
     "id": "q24",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel souverain inca a affronté Francisco Pizarro ?",
-    "answers": [
-      "Atahualpa",
-      "Manco Inca",
-      "Huayna Capac",
-      "Pachacutec"
-    ],
-    "correctIndex": 0
+    "text": "Quel roi de France a imposé le français comme langue judiciaire par l’ordonnance de Villers-Cotterêts ?",
+    "answers": ["Charles V", "Louis XII", "Henri II", "François Ier"],
+    "correctIndex": 3
   },
   {
     "id": "q25",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi babylonien a promulgué un célèbre code de lois ?",
-    "answers": [
-      "Nabuchodonosor II",
-      "Hammurabi",
-      "Sargon d'Akkad",
-      "Ashurbanipal"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain a instauré une hiérarchie stricte des dignités sénatoriales ?",
+    "answers": ["Dioclétien", "Constantin Ier", "Aurélien", "Valens"],
+    "correctIndex": 0
   },
   {
     "id": "q26",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel stratège athénien a conçu la victoire navale de Salamine ?",
-    "answers": [
-      "Thémistocle",
-      "Cimon",
-      "Miltiade",
-      "Périclès"
-    ],
-    "correctIndex": 0
+    "text": "Quel roi de France a instauré le contrôle royal des parlements au XVIIe siècle ?",
+    "answers": ["Louis XIII", "Louis XIV", "Louis XV", "Louis XVI"],
+    "correctIndex": 1
   },
   {
     "id": "q27",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a divisé l'Empire en deux parties administratives ?",
-    "answers": [
-      "Marc Aurèle",
-      "Constantin Ier",
-      "Trajan",
-      "Dioclétien"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain a été surnommé le Gothique après la bataille de Naissus ?",
+    "answers": ["Aurélien", "Claude II", "Probus", "Gallien"],
+    "correctIndex": 2
   },
   {
     "id": "q28",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire ottoman a conquis Constantinople en 1453 ?",
-    "answers": [
-      "Mehmet II",
-      "Bayezid II",
-      "Selim Ier",
-      "Suleiman le Magnifique"
-    ],
-    "correctIndex": 0
+    "text": "Quel chef de l’État français a aboli la peine de mort en 1981 ?",
+    "answers": ["Georges Pompidou", "Valéry Giscard d’Estaing", "Jacques Chirac", "François Mitterrand"],
+    "correctIndex": 3
   },
   {
     "id": "q29",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire ottoman a conquis Constantinople en 1453 ?",
-    "answers": [
-      "Selim Ier",
-      "Mehmet II",
-      "Suleiman le Magnifique",
-      "Bayezid II"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain a instauré le principe de coresponsabilité fiscale des cités ?",
+    "answers": ["Dioclétien", "Constantin Ier", "Aurélien", "Théodose Ier"],
+    "correctIndex": 0
   },
   {
     "id": "q30",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef de guerre hun a été arrêté aux Champs Catalauniques en 451 ?",
-    "answers": [
-      "Attila",
-      "Odoacre",
-      "Genséric",
-      "Alaric Ier"
-    ],
-    "correctIndex": 0
+    "text": "Quel roi de France a créé le Conseil des dépêches ?",
+    "answers": ["Louis XIII", "Louis XIV", "Louis XV", "Louis XVI"],
+    "correctIndex": 1
   },
+
   {
     "id": "q31",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel stratège athénien a conçu la victoire navale de Salamine ?",
-    "answers": [
-      "Miltiade",
-      "Thémistocle",
-      "Périclès",
-      "Cimon"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain a réorganisé l’Empire après la crise du IIIe siècle ?",
+    "answers": ["Aurélien", "Probus", "Dioclétien", "Claude II"],
+    "correctIndex": 2
   },
   {
     "id": "q32",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire ottoman a conquis Constantinople en 1453 ?",
-    "answers": [
-      "Mehmet II",
-      "Selim Ier",
-      "Bayezid II",
-      "Suleiman le Magnifique"
-    ],
-    "correctIndex": 0
+    "text": "Quel président français a instauré l’élection présidentielle au suffrage universel direct ?",
+    "answers": ["René Coty", "Georges Pompidou", "Valéry Giscard d’Estaing", "Charles de Gaulle"],
+    "correctIndex": 3
   },
   {
     "id": "q33",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel souverain inca a affronté Francisco Pizarro ?",
-    "answers": [
-      "Huayna Capac",
-      "Pachacutec",
-      "Atahualpa",
-      "Manco Inca"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain a promulgué la réforme fiscale dite capitatio-iugatio ?",
+    "answers": ["Dioclétien", "Constantin Ier", "Aurélien", "Valentinien Ier"],
+    "correctIndex": 0
   },
   {
     "id": "q34",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel explorateur polaire norvégien a disparu lors d'une mission de sauvetage en 1928 ?",
-    "answers": [
-      "Ernest Shackleton",
-      "Umberto Nobile",
-      "Fridtjof Nansen",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 3
+    "text": "Quel roi de France a instauré le contrôle royal des finances avec Colbert ?",
+    "answers": ["Louis XIII", "Louis XIV", "Louis XV", "Louis XVI"],
+    "correctIndex": 1
   },
   {
     "id": "q35",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel souverain inca a affronté Francisco Pizarro ?",
-    "answers": [
-      "Atahualpa",
-      "Manco Inca",
-      "Pachacutec",
-      "Huayna Capac"
-    ],
-    "correctIndex": 0
+    "text": "Quel empereur romain a été assassiné par ses officiers en 275 ?",
+    "answers": ["Claude II", "Probus", "Aurélien", "Tacite"],
+    "correctIndex": 2
   },
   {
     "id": "q36",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a divisé l'Empire en deux parties administratives ?",
-    "answers": [
-      "Trajan",
-      "Constantin Ier",
-      "Marc Aurèle",
-      "Dioclétien"
-    ],
+    "text": "Quel président français a instauré le droit de vote à 18 ans en 1974 ?",
+    "answers": ["Georges Pompidou", "François Mitterrand", "Jacques Chirac", "Valéry Giscard d’Estaing"],
     "correctIndex": 3
   },
   {
     "id": "q37",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel stratège athénien a conçu la victoire navale de Salamine ?",
-    "answers": [
-      "Périclès",
-      "Thémistocle",
-      "Cimon",
-      "Miltiade"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain a instauré une administration impériale centralisée ?",
+    "answers": ["Auguste", "Trajan", "Hadrien", "Dioclétien"],
+    "correctIndex": 0
   },
   {
     "id": "q38",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef de guerre hun a été arrêté aux Champs Catalauniques en 451 ?",
-    "answers": [
-      "Odoacre",
-      "Alaric Ier",
-      "Genséric",
-      "Attila"
-    ],
-    "correctIndex": 3
+    "text": "Quel roi de France a réformé profondément la fiscalité avec la taille permanente ?",
+    "answers": ["Charles V", "Charles VII", "Louis XI", "Philippe le Bel"],
+    "correctIndex": 1
   },
   {
     "id": "q39",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a divisé l'Empire en deux parties administratives ?",
-    "answers": [
-      "Constantin Ier",
-      "Dioclétien",
-      "Trajan",
-      "Marc Aurèle"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain a instauré le culte impérial obligatoire en Orient ?",
+    "answers": ["Auguste", "Tibère", "Domitien", "Claude"],
+    "correctIndex": 2
   },
   {
     "id": "q40",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur byzantin a reconquis temporairement l'Italie au VIe siècle ?",
-    "answers": [
-      "Basile II",
-      "Justinien Ier",
-      "Constantin XI",
-      "Héraclius"
-    ],
-    "correctIndex": 1
+    "text": "Quel chef d’État français a quitté le pouvoir après le référendum de 1969 ?",
+    "answers": ["Georges Pompidou", "Valéry Giscard d’Estaing", "François Mitterrand", "Charles de Gaulle"],
+    "correctIndex": 3
   },
+
   {
     "id": "q41",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi babylonien a promulgué un célèbre code de lois ?",
-    "answers": [
-      "Sargon d'Akkad",
-      "Nabuchodonosor II",
-      "Hammurabi",
-      "Ashurbanipal"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain a mis fin à l’autonomie fiscale des cités ?",
+    "answers": ["Dioclétien", "Constantin Ier", "Aurélien", "Valentinien Ier"],
+    "correctIndex": 0
   },
   {
     "id": "q42",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi de Macédoine a vaincu Darius III à Gaugamèles ?",
-    "answers": [
-      "Alexandre le Grand",
-      "Philippe II",
-      "Antigone le Borgne",
-      "Cassandre"
-    ],
-    "correctIndex": 0
+    "text": "Quel roi de France a instauré la censure royale sur les publications ?",
+    "answers": ["Louis XIII", "Louis XIV", "Louis XV", "Louis XVI"],
+    "correctIndex": 1
   },
   {
     "id": "q43",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel souverain inca a affronté Francisco Pizarro ?",
-    "answers": [
-      "Pachacutec",
-      "Manco Inca",
-      "Atahualpa",
-      "Huayna Capac"
-    ],
+    "text": "Quel empereur romain a tenté de restaurer le paganisme en tant que religion d’État ?",
+    "answers": ["Constantin Ier", "Théodose Ier", "Julien", "Valens"],
     "correctIndex": 2
   },
   {
     "id": "q44",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi babylonien a promulgué un célèbre code de lois ?",
-    "answers": [
-      "Hammurabi",
-      "Nabuchodonosor II",
-      "Sargon d'Akkad",
-      "Ashurbanipal"
-    ],
-    "correctIndex": 0
+    "text": "Quel président français a instauré la cohabitation en 1986 ?",
+    "answers": ["Valéry Giscard d’Estaing", "Jacques Chirac", "Georges Pompidou", "François Mitterrand"],
+    "correctIndex": 3
   },
   {
     "id": "q45",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi babylonien a promulgué un célèbre code de lois ?",
-    "answers": [
-      "Sargon d'Akkad",
-      "Hammurabi",
-      "Nabuchodonosor II",
-      "Ashurbanipal"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain a instauré la division fonctionnelle entre limitanei et comitatenses ?",
+    "answers": ["Dioclétien", "Constantin Ier", "Aurélien", "Théodose Ier"],
+    "correctIndex": 0
   },
   {
     "id": "q46",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur byzantin a reconquis temporairement l'Italie au VIe siècle ?",
-    "answers": [
-      "Basile II",
-      "Constantin XI",
-      "Justinien Ier",
-      "Héraclius"
-    ],
-    "correctIndex": 2
+    "text": "Quel roi de France a instauré l’absolutisme monarchique sans Premier ministre ?",
+    "answers": ["Louis XIII", "Louis XIV", "Louis XV", "Louis XVI"],
+    "correctIndex": 1
   },
   {
     "id": "q47",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef indien apache a résisté aux forces américaines jusqu'en 1886 ?",
-    "answers": [
-      "Mangas Coloradas",
-      "Geronimo",
-      "Victorio",
-      "Cochise"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain a été assassiné par ses propres soldats en 282 ?",
+    "answers": ["Aurélien", "Probus", "Carus", "Numérien"],
+    "correctIndex": 2
   },
   {
     "id": "q48",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel stratège athénien a conçu la victoire navale de Salamine ?",
-    "answers": [
-      "Périclès",
-      "Miltiade",
-      "Cimon",
-      "Thémistocle"
-    ],
+    "text": "Quel président français a engagé la France dans la CEE en 1957 ?",
+    "answers": ["René Coty", "Georges Pompidou", "Charles de Gaulle", "Aucun, gouvernement"],
     "correctIndex": 3
   },
   {
     "id": "q49",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel souverain inca a affronté Francisco Pizarro ?",
-    "answers": [
-      "Huayna Capac",
-      "Pachacutec",
-      "Atahualpa",
-      "Manco Inca"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain a instauré la hiérarchisation des rangs sénatoriaux en clarissimi, spectabiles et illustres ?",
+    "answers": ["Constantin Ier", "Dioclétien", "Aurélien", "Valentinien Ier"],
+    "correctIndex": 0
   },
   {
     "id": "q50",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel stratège athénien a conçu la victoire navale de Salamine ?",
-    "answers": [
-      "Périclès",
-      "Miltiade",
-      "Cimon",
-      "Thémistocle"
-    ],
-    "correctIndex": 3
+    "text": "Quel roi de France a définitivement supprimé les États généraux avant 1789 ?",
+    "answers": ["Louis XIII", "Louis XIV", "Louis XV", "Louis XVI"],
+    "correctIndex": 1
   },
   {
     "id": "q51",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur byzantin a reconquis temporairement l'Italie au VIe siècle ?",
-    "answers": [
-      "Basile II",
-      "Héraclius",
-      "Constantin XI",
-      "Justinien Ier"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain a instauré la division entre provinces civiles et militaires afin de limiter les usurpations ?",
+    "answers": ["Aurélien", "Constantin Ier", "Dioclétien", "Valentinien Ier"],
+    "correctIndex": 2
   },
   {
     "id": "q52",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel souverain inca a affronté Francisco Pizarro ?",
-    "answers": [
-      "Pachacutec",
-      "Atahualpa",
-      "Manco Inca",
-      "Huayna Capac"
-    ],
-    "correctIndex": 1
+    "text": "Quel roi de France a fait du Conseil d’en haut l’organe décisionnel suprême de la monarchie ?",
+    "answers": ["Louis XIII", "Louis XV", "Louis XVI", "Louis XIV"],
+    "correctIndex": 3
   },
   {
     "id": "q53",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi babylonien a promulgué un célèbre code de lois ?",
-    "answers": [
-      "Nabuchodonosor II",
-      "Sargon d'Akkad",
-      "Hammurabi",
-      "Ashurbanipal"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain a mis fin à l’autonomie politique des cités grecques d’Orient ?",
+    "answers": ["Auguste", "Hadrien", "Trajan", "Claude"],
+    "correctIndex": 0
   },
   {
     "id": "q54",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a divisé l'Empire en deux parties administratives ?",
-    "answers": [
-      "Marc Aurèle",
-      "Trajan",
-      "Dioclétien",
-      "Constantin Ier"
-    ],
-    "correctIndex": 2
+    "text": "Quel roi de France a instauré l’intendant comme relais permanent du pouvoir royal en province ?",
+    "answers": ["François Ier", "Louis XIII", "Louis XIV", "Louis XV"],
+    "correctIndex": 1
   },
   {
     "id": "q55",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef de guerre hun a été arrêté aux Champs Catalauniques en 451 ?",
-    "answers": [
-      "Genséric",
-      "Attila",
-      "Alaric Ier",
-      "Odoacre"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain a réorganisé l’armée en unités mobiles appelées comitatenses ?",
+    "answers": ["Dioclétien", "Théodose Ier", "Constantin Ier", "Aurélien"],
+    "correctIndex": 2
   },
   {
     "id": "q56",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel stratège athénien a conçu la victoire navale de Salamine ?",
-    "answers": [
-      "Miltiade",
-      "Cimon",
-      "Périclès",
-      "Thémistocle"
-    ],
+    "text": "Quel chef de l’État français a instauré la pratique du référendum sous la Ve République ?",
+    "answers": ["René Coty", "Georges Pompidou", "Valéry Giscard d’Estaing", "Charles de Gaulle"],
     "correctIndex": 3
   },
   {
     "id": "q57",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur byzantin a reconquis temporairement l'Italie au VIe siècle ?",
-    "answers": [
-      "Justinien Ier",
-      "Basile II",
-      "Constantin XI",
-      "Héraclius"
-    ],
+    "text": "Quel empereur romain a créé une bureaucratie impériale structurée autour de préfets civils ?",
+    "answers": ["Dioclétien", "Constantin Ier", "Trajan", "Auguste"],
     "correctIndex": 0
   },
   {
     "id": "q58",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur byzantin a reconquis temporairement l'Italie au VIe siècle ?",
-    "answers": [
-      "Justinien Ier",
-      "Basile II",
-      "Constantin XI",
-      "Héraclius"
-    ],
-    "correctIndex": 0
+    "text": "Quel roi de France a instauré l’obligation de résidence des officiers royaux ?",
+    "answers": ["Louis XI", "François Ier", "Louis XIV", "Henri II"],
+    "correctIndex": 1
   },
   {
     "id": "q59",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a divisé l'Empire en deux parties administratives ?",
-    "answers": [
-      "Marc Aurèle",
-      "Constantin Ier",
-      "Trajan",
-      "Dioclétien"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain a mis en place un système de contrôle strict des gouverneurs provinciaux ?",
+    "answers": ["Hadrien", "Trajan", "Dioclétien", "Claude"],
+    "correctIndex": 2
   },
   {
     "id": "q60",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a divisé l'Empire en deux parties administratives ?",
-    "answers": [
-      "Marc Aurèle",
-      "Trajan",
-      "Constantin Ier",
-      "Dioclétien"
-    ],
+    "text": "Quel président français a instauré l’élection des députés européens au suffrage universel ?",
+    "answers": ["Georges Pompidou", "François Mitterrand", "Jacques Chirac", "Valéry Giscard d’Estaing"],
     "correctIndex": 3
   },
+
   {
     "id": "q61",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef de guerre hun a été arrêté aux Champs Catalauniques en 451 ?",
-    "answers": [
-      "Odoacre",
-      "Attila",
-      "Genséric",
-      "Alaric Ier"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain a instauré l’hérédité des charges curiales dans les cités ?",
+    "answers": ["Dioclétien", "Constantin Ier", "Aurélien", "Valentinien Ier"],
+    "correctIndex": 0
   },
   {
     "id": "q62",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel explorateur polaire norvégien a disparu lors d'une mission de sauvetage en 1928 ?",
-    "answers": [
-      "Roald Amundsen",
-      "Ernest Shackleton",
-      "Fridtjof Nansen",
-      "Umberto Nobile"
-    ],
-    "correctIndex": 0
+    "text": "Quel roi de France a soumis les parlements à l’enregistrement obligatoire des édits ?",
+    "answers": ["Louis XIII", "Louis XIV", "Louis XV", "Louis XVI"],
+    "correctIndex": 1
   },
   {
     "id": "q63",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi de Macédoine a vaincu Darius III à Gaugamèles ?",
-    "answers": [
-      "Cassandre",
-      "Antigone le Borgne",
-      "Philippe II",
-      "Alexandre le Grand"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain a été le premier à gouverner exclusivement depuis Constantinople ?",
+    "answers": ["Constantin Ier", "Théodose Ier", "Arcadius", "Valens"],
+    "correctIndex": 2
   },
   {
     "id": "q64",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a divisé l'Empire en deux parties administratives ?",
-    "answers": [
-      "Constantin Ier",
-      "Trajan",
-      "Marc Aurèle",
-      "Dioclétien"
-    ],
+    "text": "Quel chef de l’État français a instauré le Conseil constitutionnel en 1958 ?",
+    "answers": ["René Coty", "Michel Debré", "Georges Pompidou", "Charles de Gaulle"],
     "correctIndex": 3
   },
   {
     "id": "q65",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi babylonien a promulgué un célèbre code de lois ?",
-    "answers": [
-      "Nabuchodonosor II",
-      "Sargon d'Akkad",
-      "Ashurbanipal",
-      "Hammurabi"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain a instauré une stricte hiérarchie entre ordres sénatoriaux et équestres ?",
+    "answers": ["Auguste", "Claude", "Hadrien", "Trajan"],
+    "correctIndex": 0
   },
   {
     "id": "q66",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef de guerre hun a été arrêté aux Champs Catalauniques en 451 ?",
-    "answers": [
-      "Odoacre",
-      "Genséric",
-      "Attila",
-      "Alaric Ier"
-    ],
-    "correctIndex": 2
+    "text": "Quel roi de France a renforcé le pouvoir royal par la destruction des grands apanages ?",
+    "answers": ["Charles VII", "Louis XI", "François Ier", "Louis XII"],
+    "correctIndex": 1
   },
   {
     "id": "q67",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel souverain inca a affronté Francisco Pizarro ?",
-    "answers": [
-      "Pachacutec",
-      "Huayna Capac",
-      "Atahualpa",
-      "Manco Inca"
-    ],
+    "text": "Quel empereur romain a promulgué un édit imposant le colonnat héréditaire ?",
+    "answers": ["Aurélien", "Constantin Ier", "Dioclétien", "Valentinien Ier"],
     "correctIndex": 2
   },
   {
     "id": "q68",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel explorateur polaire norvégien a disparu lors d'une mission de sauvetage en 1928 ?",
-    "answers": [
-      "Umberto Nobile",
-      "Roald Amundsen",
-      "Fridtjof Nansen",
-      "Ernest Shackleton"
-    ],
-    "correctIndex": 1
+    "text": "Quel président français a instauré la majorité civile à 18 ans ?",
+    "answers": ["Georges Pompidou", "François Mitterrand", "Jacques Chirac", "Valéry Giscard d’Estaing"],
+    "correctIndex": 3
   },
   {
     "id": "q69",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel explorateur polaire norvégien a disparu lors d'une mission de sauvetage en 1928 ?",
-    "answers": [
-      "Umberto Nobile",
-      "Fridtjof Nansen",
-      "Roald Amundsen",
-      "Ernest Shackleton"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain a systématisé le culte impérial comme instrument politique ?",
+    "answers": ["Auguste", "Tibère", "Domitien", "Claude"],
+    "correctIndex": 0
   },
   {
     "id": "q70",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel souverain inca a affronté Francisco Pizarro ?",
-    "answers": [
-      "Manco Inca",
-      "Huayna Capac",
-      "Pachacutec",
-      "Atahualpa"
-    ],
-    "correctIndex": 3
+    "text": "Quel roi de France a instauré le contrôle royal direct sur la fiscalité locale ?",
+    "answers": ["Louis XIII", "Louis XIV", "Louis XV", "Louis XVI"],
+    "correctIndex": 1
   },
+
   {
     "id": "q71",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef de guerre hun a été arrêté aux Champs Catalauniques en 451 ?",
-    "answers": [
-      "Attila",
-      "Genséric",
-      "Alaric Ier",
-      "Odoacre"
-    ],
-    "correctIndex": 0
+    "text": "Quel empereur romain a mis fin à l’élection sénatoriale des magistrats ?",
+    "answers": ["Auguste", "Tibère", "Dioclétien", "Claude"],
+    "correctIndex": 2
   },
   {
     "id": "q72",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur byzantin a reconquis temporairement l'Italie au VIe siècle ?",
-    "answers": [
-      "Justinien Ier",
-      "Constantin XI",
-      "Basile II",
-      "Héraclius"
-    ],
-    "correctIndex": 0
+    "text": "Quel chef de l’État français a engagé la France dans la construction européenne par le traité de Rome ?",
+    "answers": ["Georges Pompidou", "Charles de Gaulle", "Valéry Giscard d’Estaing", "Aucun, gouvernement de la IVe République"],
+    "correctIndex": 3
   },
   {
     "id": "q73",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur byzantin a reconquis temporairement l'Italie au VIe siècle ?",
-    "answers": [
-      "Héraclius",
-      "Basile II",
-      "Constantin XI",
-      "Justinien Ier"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain a instauré un système fiscal fondé sur l’évaluation cadastrale des terres ?",
+    "answers": ["Dioclétien", "Constantin Ier", "Aurélien", "Trajan"],
+    "correctIndex": 0
   },
   {
     "id": "q74",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel explorateur polaire norvégien a disparu lors d'une mission de sauvetage en 1928 ?",
-    "answers": [
-      "Umberto Nobile",
-      "Ernest Shackleton",
-      "Fridtjof Nansen",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 3
+    "text": "Quel roi de France a renforcé le contrôle royal sur les ordres religieux ?",
+    "answers": ["Louis XIII", "Louis XIV", "Louis XV", "François Ier"],
+    "correctIndex": 1
   },
   {
     "id": "q75",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi babylonien a promulgué un célèbre code de lois ?",
-    "answers": [
-      "Sargon d'Akkad",
-      "Hammurabi",
-      "Ashurbanipal",
-      "Nabuchodonosor II"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain a institué le titre d’Augusta pour les impératrices ?",
+    "answers": ["Claude", "Tibère", "Auguste", "Hadrien"],
+    "correctIndex": 2
   },
   {
     "id": "q76",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi babylonien a promulgué un célèbre code de lois ?",
-    "answers": [
-      "Nabuchodonosor II",
-      "Hammurabi",
-      "Sargon d'Akkad",
-      "Ashurbanipal"
-    ],
-    "correctIndex": 1
+    "text": "Quel président français a instauré la première cohabitation sous la Ve République ?",
+    "answers": ["Valéry Giscard d’Estaing", "Jacques Chirac", "Georges Pompidou", "François Mitterrand"],
+    "correctIndex": 3
   },
   {
     "id": "q77",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel souverain inca a affronté Francisco Pizarro ?",
-    "answers": [
-      "Manco Inca",
-      "Pachacutec",
-      "Atahualpa",
-      "Huayna Capac"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain a supprimé les assemblées populaires comme organes politiques ?",
+    "answers": ["Auguste", "Tibère", "Caligula", "Claude"],
+    "correctIndex": 0
   },
   {
     "id": "q78",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel stratège athénien a conçu la victoire navale de Salamine ?",
-    "answers": [
-      "Cimon",
-      "Miltiade",
-      "Thémistocle",
-      "Périclès"
-    ],
-    "correctIndex": 2
+    "text": "Quel roi de France a instauré une justice royale d’appel contre les justices seigneuriales ?",
+    "answers": ["Louis IX", "Louis XI", "Charles VII", "Philippe le Bel"],
+    "correctIndex": 1
   },
   {
     "id": "q79",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur byzantin a reconquis temporairement l'Italie au VIe siècle ?",
-    "answers": [
-      "Constantin XI",
-      "Basile II",
-      "Héraclius",
-      "Justinien Ier"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain a fait du christianisme nicéen la religion officielle de l’Empire ?",
+    "answers": ["Constantin Ier", "Gratien", "Théodose Ier", "Valentinien II"],
+    "correctIndex": 2
   },
   {
     "id": "q80",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi babylonien a promulgué un célèbre code de lois ?",
-    "answers": [
-      "Sargon d'Akkad",
-      "Hammurabi",
-      "Nabuchodonosor II",
-      "Ashurbanipal"
-    ],
-    "correctIndex": 1
+    "text": "Quel président français a instauré le septennat renouvelable sous la Ve République ?",
+    "answers": ["Georges Pompidou", "François Mitterrand", "Valéry Giscard d’Estaing", "Charles de Gaulle"],
+    "correctIndex": 3
   },
+
   {
     "id": "q81",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel explorateur polaire norvégien a disparu lors d'une mission de sauvetage en 1928 ?",
-    "answers": [
-      "Umberto Nobile",
-      "Fridtjof Nansen",
-      "Roald Amundsen",
-      "Ernest Shackleton"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain a instauré un contrôle centralisé des finances impériales ?",
+    "answers": ["Dioclétien", "Constantin Ier", "Auguste", "Trajan"],
+    "correctIndex": 0
   },
   {
     "id": "q82",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef indien apache a résisté aux forces américaines jusqu'en 1886 ?",
-    "answers": [
-      "Cochise",
-      "Mangas Coloradas",
-      "Victorio",
-      "Geronimo"
-    ],
-    "correctIndex": 3
+    "text": "Quel roi de France a fait primer la raison d’État sur les privilèges nobiliaires ?",
+    "answers": ["Louis XI", "Louis XIII", "Louis XIV", "Henri IV"],
+    "correctIndex": 1
   },
   {
     "id": "q83",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi babylonien a promulgué un célèbre code de lois ?",
-    "answers": [
-      "Sargon d'Akkad",
-      "Hammurabi",
-      "Nabuchodonosor II",
-      "Ashurbanipal"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain a instauré une fiscalité fondée sur les personnes et les terres ?",
+    "answers": ["Aurélien", "Trajan", "Dioclétien", "Claude"],
+    "correctIndex": 2
   },
   {
     "id": "q84",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef indien apache a résisté aux forces américaines jusqu'en 1886 ?",
-    "answers": [
-      "Victorio",
-      "Geronimo",
-      "Cochise",
-      "Mangas Coloradas"
-    ],
-    "correctIndex": 1
+    "text": "Quel chef de l’État français a instauré la loi sur la parité en politique en 2000 ?",
+    "answers": ["François Mitterrand", "Jacques Chirac", "Nicolas Sarkozy", "Jacques Chirac"],
+    "correctIndex": 3
   },
   {
     "id": "q85",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel explorateur polaire norvégien a disparu lors d'une mission de sauvetage en 1928 ?",
-    "answers": [
-      "Umberto Nobile",
-      "Fridtjof Nansen",
-      "Roald Amundsen",
-      "Ernest Shackleton"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain a renforcé l’administration impériale par la création de bureaux spécialisés ?",
+    "answers": ["Dioclétien", "Constantin Ier", "Hadrien", "Auguste"],
+    "correctIndex": 0
   },
   {
     "id": "q86",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef indien apache a résisté aux forces américaines jusqu'en 1886 ?",
-    "answers": [
-      "Cochise",
-      "Geronimo",
-      "Mangas Coloradas",
-      "Victorio"
-    ],
+    "text": "Quel roi de France a instauré un contrôle strict sur les finances du royaume par Colbert ?",
+    "answers": ["Louis XIII", "Louis XIV", "Louis XV", "Louis XVI"],
     "correctIndex": 1
   },
   {
     "id": "q87",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel stratège athénien a conçu la victoire navale de Salamine ?",
-    "answers": [
-      "Miltiade",
-      "Périclès",
-      "Thémistocle",
-      "Cimon"
-    ],
+    "text": "Quel empereur romain a mis fin à la liberté de déplacement des colons ?",
+    "answers": ["Constantin Ier", "Aurélien", "Dioclétien", "Valentinien Ier"],
     "correctIndex": 2
   },
   {
     "id": "q88",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a divisé l'Empire en deux parties administratives ?",
-    "answers": [
-      "Constantin Ier",
-      "Dioclétien",
-      "Marc Aurèle",
-      "Trajan"
-    ],
-    "correctIndex": 1
+    "text": "Quel président français a instauré le quinquennat présidentiel ?",
+    "answers": ["François Mitterrand", "Nicolas Sarkozy", "Emmanuel Macron", "Jacques Chirac"],
+    "correctIndex": 3
   },
   {
     "id": "q89",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi de Macédoine a vaincu Darius III à Gaugamèles ?",
-    "answers": [
-      "Antigone le Borgne",
-      "Cassandre",
-      "Philippe II",
-      "Alexandre le Grand"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain a instauré la réforme du Sénat sous le dominat ?",
+    "answers": ["Dioclétien", "Constantin Ier", "Aurélien", "Claude"],
+    "correctIndex": 0
   },
   {
     "id": "q90",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel stratège athénien a conçu la victoire navale de Salamine ?",
-    "answers": [
-      "Thémistocle",
-      "Miltiade",
-      "Périclès",
-      "Cimon"
-    ],
-    "correctIndex": 0
+    "text": "Quel roi de France a renforcé l’autorité royale par l’édit de Saint-Germain-en-Laye ?",
+    "answers": ["Henri IV", "Louis XIII", "Louis XIV", "Louis XV"],
+    "correctIndex": 1
   },
+
   {
     "id": "q91",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire ottoman a conquis Constantinople en 1453 ?",
-    "answers": [
-      "Selim Ier",
-      "Suleiman le Magnifique",
-      "Mehmet II",
-      "Bayezid II"
-    ],
+    "text": "Quel empereur romain a instauré un système de gouvernement collégial durable ?",
+    "answers": ["Dioclétien", "Constantin Ier", "Trajan", "Auguste"],
     "correctIndex": 2
   },
   {
     "id": "q92",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef de guerre hun a été arrêté aux Champs Catalauniques en 451 ?",
-    "answers": [
-      "Genséric",
-      "Odoacre",
-      "Attila",
-      "Alaric Ier"
-    ],
-    "correctIndex": 2
+    "text": "Quel président français a instauré le Conseil européen comme organe central de l’UE ?",
+    "answers": ["Valéry Giscard d’Estaing", "François Mitterrand", "Jacques Chirac", "Valéry Giscard d’Estaing"],
+    "correctIndex": 3
   },
   {
     "id": "q93",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef de guerre hun a été arrêté aux Champs Catalauniques en 451 ?",
-    "answers": [
-      "Attila",
-      "Odoacre",
-      "Alaric Ier",
-      "Genséric"
-    ],
+    "text": "Quel empereur romain a instauré une stricte hiérarchie administrative des provinces ?",
+    "answers": ["Dioclétien", "Constantin Ier", "Aurélien", "Hadrien"],
     "correctIndex": 0
   },
   {
     "id": "q94",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef de guerre hun a été arrêté aux Champs Catalauniques en 451 ?",
-    "answers": [
-      "Attila",
-      "Alaric Ier",
-      "Genséric",
-      "Odoacre"
-    ],
-    "correctIndex": 0
+    "text": "Quel roi de France a renforcé la souveraineté royale contre le pape lors de l’affaire d’Anagni ?",
+    "answers": ["Louis IX", "Philippe IV le Bel", "Charles V", "Louis XI"],
+    "correctIndex": 1
   },
   {
     "id": "q95",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a divisé l'Empire en deux parties administratives ?",
-    "answers": [
-      "Marc Aurèle",
-      "Dioclétien",
-      "Trajan",
-      "Constantin Ier"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain a instauré une fiscalité uniforme sur l’ensemble de l’Empire ?",
+    "answers": ["Auguste", "Trajan", "Dioclétien", "Claude"],
+    "correctIndex": 2
   },
   {
     "id": "q96",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi de Macédoine a vaincu Darius III à Gaugamèles ?",
-    "answers": [
-      "Philippe II",
-      "Antigone le Borgne",
-      "Alexandre le Grand",
-      "Cassandre"
-    ],
-    "correctIndex": 2
+    "text": "Quel président français a instauré la décentralisation par les lois Defferre ?",
+    "answers": ["Valéry Giscard d’Estaing", "Jacques Chirac", "Nicolas Sarkozy", "François Mitterrand"],
+    "correctIndex": 3
   },
   {
     "id": "q97",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef de guerre hun a été arrêté aux Champs Catalauniques en 451 ?",
-    "answers": [
-      "Genséric",
-      "Odoacre",
-      "Alaric Ier",
-      "Attila"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain a instauré un contrôle strict de la mobilité sociale ?",
+    "answers": ["Dioclétien", "Constantin Ier", "Aurélien", "Valentinien Ier"],
+    "correctIndex": 0
   },
   {
     "id": "q98",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire ottoman a conquis Constantinople en 1453 ?",
-    "answers": [
-      "Bayezid II",
-      "Mehmet II",
-      "Selim Ier",
-      "Suleiman le Magnifique"
-    ],
+    "text": "Quel roi de France a instauré le gallicanisme comme doctrine d’État ?",
+    "answers": ["Louis XIII", "Louis XIV", "Louis XV", "François Ier"],
     "correctIndex": 1
   },
   {
     "id": "q99",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef indien apache a résisté aux forces américaines jusqu'en 1886 ?",
-    "answers": [
-      "Geronimo",
-      "Cochise",
-      "Mangas Coloradas",
-      "Victorio"
-    ],
-    "correctIndex": 0
+    "text": "Quel empereur romain a réorganisé le Sénat comme simple organe honorifique ?",
+    "answers": ["Auguste", "Claude", "Dioclétien", "Trajan"],
+    "correctIndex": 2
   },
   {
     "id": "q100",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel stratège athénien a conçu la victoire navale de Salamine ?",
-    "answers": [
-      "Cimon",
-      "Périclès",
-      "Thémistocle",
-      "Miltiade"
-    ],
-    "correctIndex": 2
+    "text": "Quel président français a instauré l’état d’urgence constitutionnel en 1961 ?",
+    "answers": ["René Coty", "Georges Pompidou", "Valéry Giscard d’Estaing", "Charles de Gaulle"],
+    "correctIndex": 3
   },
   {
     "id": "q101",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a divisé l'Empire en deux parties administratives ?",
-    "answers": [
-      "Dioclétien",
-      "Constantin Ier",
-      "Marc Aurèle",
-      "Trajan"
-    ],
+    "text": "Quel empereur romain a instauré le système des diocèses administratifs ?",
+    "answers": ["Dioclétien", "Constantin Ier", "Aurélien", "Théodose Ier"],
     "correctIndex": 0
   },
   {
     "id": "q102",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel stratège athénien a conçu la victoire navale de Salamine ?",
-    "answers": [
-      "Miltiade",
-      "Cimon",
-      "Périclès",
-      "Thémistocle"
-    ],
-    "correctIndex": 3
+    "text": "Quel roi de France a interdit les guerres privées entre seigneurs par ordonnance royale ?",
+    "answers": ["Philippe Auguste", "Louis IX", "Charles V", "Louis XI"],
+    "correctIndex": 1
   },
   {
     "id": "q103",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi de Macédoine a vaincu Darius III à Gaugamèles ?",
-    "answers": [
-      "Philippe II",
-      "Antigone le Borgne",
-      "Cassandre",
-      "Alexandre le Grand"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain a instauré l’impôt en nature appelé annona militaris ?",
+    "answers": ["Trajan", "Auguste", "Dioclétien", "Claude"],
+    "correctIndex": 2
   },
   {
     "id": "q104",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a divisé l'Empire en deux parties administratives ?",
-    "answers": [
-      "Constantin Ier",
-      "Marc Aurèle",
-      "Dioclétien",
-      "Trajan"
-    ],
-    "correctIndex": 2
+    "text": "Quel président français a engagé la France dans la reconnaissance officielle de la Chine populaire ?",
+    "answers": ["Georges Pompidou", "François Mitterrand", "Valéry Giscard d’Estaing", "Charles de Gaulle"],
+    "correctIndex": 3
   },
   {
     "id": "q105",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur byzantin a reconquis temporairement l'Italie au VIe siècle ?",
-    "answers": [
-      "Justinien Ier",
-      "Constantin XI",
-      "Basile II",
-      "Héraclius"
-    ],
+    "text": "Quel empereur romain a réorganisé la garde prétorienne après sa dissolution ?",
+    "answers": ["Constantin Ier", "Dioclétien", "Hadrien", "Trajan"],
     "correctIndex": 0
   },
   {
     "id": "q106",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi de Macédoine a vaincu Darius III à Gaugamèles ?",
-    "answers": [
-      "Alexandre le Grand",
-      "Philippe II",
-      "Antigone le Borgne",
-      "Cassandre"
-    ],
-    "correctIndex": 0
+    "text": "Quel roi de France a imposé l’usage du français dans les actes administratifs ?",
+    "answers": ["Charles VII", "François Ier", "Louis XII", "Henri II"],
+    "correctIndex": 1
   },
   {
     "id": "q107",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire ottoman a conquis Constantinople en 1453 ?",
-    "answers": [
-      "Bayezid II",
-      "Mehmet II",
-      "Selim Ier",
-      "Suleiman le Magnifique"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain a instauré le dominat comme forme de gouvernement absolu ?",
+    "answers": ["Auguste", "Claude", "Dioclétien", "Néron"],
+    "correctIndex": 2
   },
   {
     "id": "q108",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef indien apache a résisté aux forces américaines jusqu'en 1886 ?",
-    "answers": [
-      "Victorio",
-      "Cochise",
-      "Geronimo",
-      "Mangas Coloradas"
-    ],
-    "correctIndex": 2
+    "text": "Quel président français a instauré le droit de vote à 18 ans ?",
+    "answers": ["Georges Pompidou", "François Mitterrand", "Jacques Chirac", "Valéry Giscard d’Estaing"],
+    "correctIndex": 3
   },
   {
     "id": "q109",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur byzantin a reconquis temporairement l'Italie au VIe siècle ?",
-    "answers": [
-      "Basile II",
-      "Justinien Ier",
-      "Héraclius",
-      "Constantin XI"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain a instauré le culte impérial obligatoire dans les provinces ?",
+    "answers": ["Auguste", "Tibère", "Domitien", "Claude"],
+    "correctIndex": 0
   },
   {
     "id": "q110",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire ottoman a conquis Constantinople en 1453 ?",
-    "answers": [
-      "Selim Ier",
-      "Bayezid II",
-      "Suleiman le Magnifique",
-      "Mehmet II"
-    ],
-    "correctIndex": 3
+    "text": "Quel roi de France a créé une armée permanente financée par l’État ?",
+    "answers": ["Charles VII", "Louis XI", "François Ier", "Louis XII"],
+    "correctIndex": 1
   },
+
   {
     "id": "q111",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef indien apache a résisté aux forces américaines jusqu'en 1886 ?",
-    "answers": [
-      "Victorio",
-      "Geronimo",
-      "Cochise",
-      "Mangas Coloradas"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain a fixé les prix par un édit pour lutter contre l’inflation ?",
+    "answers": ["Aurélien", "Trajan", "Dioclétien", "Constantin Ier"],
+    "correctIndex": 2
   },
   {
     "id": "q112",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel explorateur polaire norvégien a disparu lors d'une mission de sauvetage en 1928 ?",
-    "answers": [
-      "Roald Amundsen",
-      "Fridtjof Nansen",
-      "Umberto Nobile",
-      "Ernest Shackleton"
-    ],
-    "correctIndex": 0
+    "text": "Quel président français a instauré la Cour de sûreté de l’État ?",
+    "answers": ["René Coty", "Georges Pompidou", "Valéry Giscard d’Estaing", "Charles de Gaulle"],
+    "correctIndex": 3
   },
   {
     "id": "q113",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel stratège athénien a conçu la victoire navale de Salamine ?",
-    "answers": [
-      "Périclès",
-      "Cimon",
-      "Thémistocle",
-      "Miltiade"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain a instauré une séparation stricte entre pouvoir civil et militaire ?",
+    "answers": ["Dioclétien", "Constantin Ier", "Hadrien", "Auguste"],
+    "correctIndex": 0
   },
   {
     "id": "q114",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a divisé l'Empire en deux parties administratives ?",
-    "answers": [
-      "Constantin Ier",
-      "Marc Aurèle",
-      "Trajan",
-      "Dioclétien"
-    ],
-    "correctIndex": 3
+    "text": "Quel roi de France a renforcé l’autorité royale par la Pragmatique Sanction de Bourges ?",
+    "answers": ["Charles VII", "Louis XI", "François Ier", "Louis XII"],
+    "correctIndex": 1
   },
   {
     "id": "q115",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel stratège athénien a conçu la victoire navale de Salamine ?",
-    "answers": [
-      "Thémistocle",
-      "Miltiade",
-      "Cimon",
-      "Périclès"
-    ],
-    "correctIndex": 0
+    "text": "Quel empereur romain a rendu héréditaires les fonctions municipales ?",
+    "answers": ["Constantin Ier", "Aurélien", "Dioclétien", "Valentinien Ier"],
+    "correctIndex": 2
   },
   {
     "id": "q116",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef indien apache a résisté aux forces américaines jusqu'en 1886 ?",
-    "answers": [
-      "Victorio",
-      "Mangas Coloradas",
-      "Cochise",
-      "Geronimo"
-    ],
+    "text": "Quel président français a instauré la peine de mort comme question référendaire sans l’abolir ?",
+    "answers": ["Georges Pompidou", "Valéry Giscard d’Estaing", "Jacques Chirac", "François Mitterrand"],
     "correctIndex": 3
   },
   {
     "id": "q117",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef de guerre hun a été arrêté aux Champs Catalauniques en 451 ?",
-    "answers": [
-      "Genséric",
-      "Odoacre",
-      "Attila",
-      "Alaric Ier"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain a instauré la Tétrarchie comme système de gouvernement ?",
+    "answers": ["Dioclétien", "Constantin Ier", "Théodose Ier", "Auguste"],
+    "correctIndex": 0
   },
   {
     "id": "q118",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire ottoman a conquis Constantinople en 1453 ?",
-    "answers": [
-      "Mehmet II",
-      "Suleiman le Magnifique",
-      "Bayezid II",
-      "Selim Ier"
-    ],
-    "correctIndex": 0
+    "text": "Quel roi de France a créé le Parlement de Paris comme cour souveraine ?",
+    "answers": ["Philippe IV le Bel", "Louis IX", "Charles V", "Philippe Auguste"],
+    "correctIndex": 1
   },
   {
     "id": "q119",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef indien apache a résisté aux forces américaines jusqu'en 1886 ?",
-    "answers": [
-      "Mangas Coloradas",
-      "Geronimo",
-      "Victorio",
-      "Cochise"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain a rendu obligatoire le service public municipal ?",
+    "answers": ["Aurélien", "Claude", "Dioclétien", "Trajan"],
+    "correctIndex": 2
   },
   {
     "id": "q120",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel stratège athénien a conçu la victoire navale de Salamine ?",
-    "answers": [
-      "Périclès",
-      "Cimon",
-      "Miltiade",
-      "Thémistocle"
-    ],
+    "text": "Quel président français a instauré le référendum d’autodétermination en Algérie ?",
+    "answers": ["René Coty", "Georges Pompidou", "Valéry Giscard d’Estaing", "Charles de Gaulle"],
     "correctIndex": 3
   },
+
   {
     "id": "q121",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire ottoman a conquis Constantinople en 1453 ?",
-    "answers": [
-      "Mehmet II",
-      "Bayezid II",
-      "Selim Ier",
-      "Suleiman le Magnifique"
-    ],
+    "text": "Quel empereur romain a instauré un contrôle impérial sur les monnaies locales ?",
+    "answers": ["Auguste", "Trajan", "Hadrien", "Claude"],
     "correctIndex": 0
   },
   {
     "id": "q122",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi de Macédoine a vaincu Darius III à Gaugamèles ?",
-    "answers": [
-      "Antigone le Borgne",
-      "Cassandre",
-      "Alexandre le Grand",
-      "Philippe II"
-    ],
-    "correctIndex": 2
+    "text": "Quel roi de France a renforcé le pouvoir central en supprimant les grands offices héréditaires ?",
+    "answers": ["Louis XI", "François Ier", "Louis XII", "Charles VIII"],
+    "correctIndex": 1
   },
   {
     "id": "q123",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi babylonien a promulgué un célèbre code de lois ?",
-    "answers": [
-      "Ashurbanipal",
-      "Sargon d'Akkad",
-      "Nabuchodonosor II",
-      "Hammurabi"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain a instauré une hiérarchie stricte des fonctionnaires impériaux ?",
+    "answers": ["Trajan", "Hadrien", "Dioclétien", "Claude"],
+    "correctIndex": 2
   },
   {
     "id": "q124",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel stratège athénien a conçu la victoire navale de Salamine ?",
-    "answers": [
-      "Périclès",
-      "Cimon",
-      "Miltiade",
-      "Thémistocle"
-    ],
+    "text": "Quel président français a instauré l’élection présidentielle au suffrage universel direct ?",
+    "answers": ["Georges Pompidou", "François Mitterrand", "Valéry Giscard d’Estaing", "Charles de Gaulle"],
     "correctIndex": 3
   },
   {
     "id": "q125",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi babylonien a promulgué un célèbre code de lois ?",
-    "answers": [
-      "Ashurbanipal",
-      "Nabuchodonosor II",
-      "Hammurabi",
-      "Sargon d'Akkad"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain a transformé le Sénat en organe purement consultatif ?",
+    "answers": ["Dioclétien", "Auguste", "Claude", "Trajan"],
+    "correctIndex": 0
   },
   {
     "id": "q126",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi de Macédoine a vaincu Darius III à Gaugamèles ?",
-    "answers": [
-      "Antigone le Borgne",
-      "Alexandre le Grand",
-      "Philippe II",
-      "Cassandre"
-    ],
+    "text": "Quel roi de France a instauré une administration financière centralisée ?",
+    "answers": ["Louis XII", "François Ier", "Louis XIII", "Charles IX"],
     "correctIndex": 1
   },
   {
     "id": "q127",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi de Macédoine a vaincu Darius III à Gaugamèles ?",
-    "answers": [
-      "Philippe II",
-      "Cassandre",
-      "Antigone le Borgne",
-      "Alexandre le Grand"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain a rendu héréditaire l’appartenance aux corporations ?",
+    "answers": ["Constantin Ier", "Aurélien", "Dioclétien", "Théodose Ier"],
+    "correctIndex": 2
   },
   {
     "id": "q128",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi babylonien a promulgué un célèbre code de lois ?",
-    "answers": [
-      "Ashurbanipal",
-      "Hammurabi",
-      "Sargon d'Akkad",
-      "Nabuchodonosor II"
-    ],
-    "correctIndex": 1
+    "text": "Quel président français a instauré la régionalisation administrative en 1982 ?",
+    "answers": ["Valéry Giscard d’Estaing", "Jacques Chirac", "Nicolas Sarkozy", "François Mitterrand"],
+    "correctIndex": 3
   },
   {
     "id": "q129",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a divisé l'Empire en deux parties administratives ?",
-    "answers": [
-      "Trajan",
-      "Dioclétien",
-      "Marc Aurèle",
-      "Constantin Ier"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain a instauré un impôt capitation généralisé ?",
+    "answers": ["Dioclétien", "Trajan", "Auguste", "Claude"],
+    "correctIndex": 0
   },
   {
     "id": "q130",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef de guerre hun a été arrêté aux Champs Catalauniques en 451 ?",
-    "answers": [
-      "Alaric Ier",
-      "Odoacre",
-      "Genséric",
-      "Attila"
-    ],
-    "correctIndex": 3
+    "text": "Quel roi de France a fait du Conseil du roi l’organe central du pouvoir ?",
+    "answers": ["Louis XIII", "Louis XIV", "Louis XV", "François Ier"],
+    "correctIndex": 1
   },
+
   {
     "id": "q131",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef de guerre hun a été arrêté aux Champs Catalauniques en 451 ?",
-    "answers": [
-      "Alaric Ier",
-      "Attila",
-      "Genséric",
-      "Odoacre"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain a rendu obligatoire la transmission héréditaire des métiers ?",
+    "answers": ["Aurélien", "Constantin Ier", "Dioclétien", "Valentinien Ier"],
+    "correctIndex": 2
   },
   {
     "id": "q132",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef indien apache a résisté aux forces américaines jusqu'en 1886 ?",
-    "answers": [
-      "Geronimo",
-      "Cochise",
-      "Mangas Coloradas",
-      "Victorio"
-    ],
-    "correctIndex": 0
+    "text": "Quel président français a instauré la Constitution de la Ve République ?",
+    "answers": ["René Coty", "Georges Pompidou", "Valéry Giscard d’Estaing", "Charles de Gaulle"],
+    "correctIndex": 3
   },
   {
     "id": "q133",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel explorateur polaire norvégien a disparu lors d'une mission de sauvetage en 1928 ?",
-    "answers": [
-      "Umberto Nobile",
-      "Ernest Shackleton",
-      "Roald Amundsen",
-      "Fridtjof Nansen"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain a renforcé la sacralisation du pouvoir impérial ?",
+    "answers": ["Dioclétien", "Constantin Ier", "Hadrien", "Auguste"],
+    "correctIndex": 0
   },
   {
     "id": "q134",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire ottoman a conquis Constantinople en 1453 ?",
-    "answers": [
-      "Bayezid II",
-      "Selim Ier",
-      "Mehmet II",
-      "Suleiman le Magnifique"
-    ],
-    "correctIndex": 2
+    "text": "Quel roi de France a renforcé le contrôle royal sur la justice seigneuriale ?",
+    "answers": ["Louis IX", "Louis XI", "Charles VII", "Philippe le Bel"],
+    "correctIndex": 1
   },
   {
     "id": "q135",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel stratège athénien a conçu la victoire navale de Salamine ?",
-    "answers": [
-      "Miltiade",
-      "Cimon",
-      "Thémistocle",
-      "Périclès"
-    ],
+    "text": "Quel empereur romain a rendu les paysans juridiquement attachés à la terre ?",
+    "answers": ["Constantin Ier", "Aurélien", "Dioclétien", "Valentinien Ier"],
     "correctIndex": 2
   },
   {
     "id": "q136",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire ottoman a conquis Constantinople en 1453 ?",
-    "answers": [
-      "Selim Ier",
-      "Suleiman le Magnifique",
-      "Bayezid II",
-      "Mehmet II"
-    ],
+    "text": "Quel président français a instauré la suppression du service militaire obligatoire ?",
+    "answers": ["François Mitterrand", "Jacques Chirac", "Nicolas Sarkozy", "Emmanuel Macron"],
     "correctIndex": 3
   },
   {
     "id": "q137",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi babylonien a promulgué un célèbre code de lois ?",
-    "answers": [
-      "Sargon d'Akkad",
-      "Ashurbanipal",
-      "Nabuchodonosor II",
-      "Hammurabi"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain a instauré une hiérarchie stricte des titres honorifiques ?",
+    "answers": ["Dioclétien", "Constantin Ier", "Trajan", "Auguste"],
+    "correctIndex": 0
   },
   {
     "id": "q138",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel stratège athénien a conçu la victoire navale de Salamine ?",
-    "answers": [
-      "Périclès",
-      "Miltiade",
-      "Thémistocle",
-      "Cimon"
-    ],
-    "correctIndex": 2
+    "text": "Quel roi de France a centralisé l’administration judiciaire à Paris ?",
+    "answers": ["Philippe le Bel", "Louis IX", "Charles V", "Louis XI"],
+    "correctIndex": 1
   },
   {
     "id": "q139",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel souverain inca a affronté Francisco Pizarro ?",
-    "answers": [
-      "Huayna Capac",
-      "Manco Inca",
-      "Pachacutec",
-      "Atahualpa"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain a instauré une fiscalité uniforme par recensement ?",
+    "answers": ["Auguste", "Trajan", "Dioclétien", "Claude"],
+    "correctIndex": 2
   },
   {
     "id": "q140",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire ottoman a conquis Constantinople en 1453 ?",
-    "answers": [
-      "Suleiman le Magnifique",
-      "Bayezid II",
-      "Selim Ier",
-      "Mehmet II"
-    ],
+    "text": "Quel président français a instauré le droit de saisine du Conseil constitutionnel par les parlementaires ?",
+    "answers": ["Georges Pompidou", "Valéry Giscard d’Estaing", "Jacques Chirac", "François Mitterrand"],
     "correctIndex": 3
   },
+
   {
     "id": "q141",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi babylonien a promulgué un célèbre code de lois ?",
-    "answers": [
-      "Ashurbanipal",
-      "Sargon d'Akkad",
-      "Nabuchodonosor II",
-      "Hammurabi"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain a instauré une administration impériale hiérarchisée et salariale ?",
+    "answers": ["Dioclétien", "Auguste", "Claude", "Trajan"],
+    "correctIndex": 0
   },
   {
     "id": "q142",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur byzantin a reconquis temporairement l'Italie au VIe siècle ?",
-    "answers": [
-      "Héraclius",
-      "Basile II",
-      "Constantin XI",
-      "Justinien Ier"
-    ],
-    "correctIndex": 3
+    "text": "Quel roi de France a renforcé l’absolutisme monarchique par les lits de justice ?",
+    "answers": ["Louis XIII", "Louis XIV", "Louis XV", "Louis XVI"],
+    "correctIndex": 1
   },
   {
     "id": "q143",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef de guerre hun a été arrêté aux Champs Catalauniques en 451 ?",
-    "answers": [
-      "Alaric Ier",
-      "Odoacre",
-      "Genséric",
-      "Attila"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain a imposé une stricte fiscalité foncière et personnelle ?",
+    "answers": ["Trajan", "Auguste", "Dioclétien", "Claude"],
+    "correctIndex": 2
   },
   {
     "id": "q144",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef indien apache a résisté aux forces américaines jusqu'en 1886 ?",
-    "answers": [
-      "Mangas Coloradas",
-      "Cochise",
-      "Geronimo",
-      "Victorio"
-    ],
-    "correctIndex": 2
+    "text": "Quel président français a instauré la réforme constitutionnelle de 2008 élargissant les pouvoirs du Parlement ?",
+    "answers": ["Jacques Chirac", "Nicolas Sarkozy", "François Hollande", "Nicolas Sarkozy"],
+    "correctIndex": 3
   },
   {
     "id": "q145",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel stratège athénien a conçu la victoire navale de Salamine ?",
-    "answers": [
-      "Périclès",
-      "Miltiade",
-      "Thémistocle",
-      "Cimon"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain a instauré une stricte séparation entre ordres civils et militaires ?",
+    "answers": ["Dioclétien", "Constantin Ier", "Trajan", "Auguste"],
+    "correctIndex": 0
   },
   {
     "id": "q146",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire ottoman a conquis Constantinople en 1453 ?",
-    "answers": [
-      "Selim Ier",
-      "Bayezid II",
-      "Mehmet II",
-      "Suleiman le Magnifique"
-    ],
-    "correctIndex": 2
+    "text": "Quel roi de France a créé un système fiscal permanent avec la taille ?",
+    "answers": ["Charles VII", "Louis XI", "François Ier", "Louis XII"],
+    "correctIndex": 1
   },
   {
     "id": "q147",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur byzantin a reconquis temporairement l'Italie au VIe siècle ?",
-    "answers": [
-      "Constantin XI",
-      "Héraclius",
-      "Basile II",
-      "Justinien Ier"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain a rendu héréditaire la fonction de colon ?",
+    "answers": ["Constantin Ier", "Aurélien", "Dioclétien", "Valentinien Ier"],
+    "correctIndex": 2
   },
   {
     "id": "q148",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef de guerre hun a été arrêté aux Champs Catalauniques en 451 ?",
-    "answers": [
-      "Attila",
-      "Odoacre",
-      "Alaric Ier",
-      "Genséric"
-    ],
-    "correctIndex": 0
+    "text": "Quel président français a instauré l’état d’urgence en 1955 puis l’a réutilisé en 1961 ?",
+    "answers": ["René Coty", "Georges Pompidou", "Valéry Giscard d’Estaing", "Charles de Gaulle"],
+    "correctIndex": 3
   },
   {
     "id": "q149",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a divisé l'Empire en deux parties administratives ?",
-    "answers": [
-      "Dioclétien",
-      "Trajan",
-      "Constantin Ier",
-      "Marc Aurèle"
-    ],
+    "text": "Quel empereur romain a renforcé la centralisation impériale au détriment des cités ?",
+    "answers": ["Dioclétien", "Hadrien", "Trajan", "Auguste"],
     "correctIndex": 0
   },
   {
     "id": "q150",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur byzantin a reconquis temporairement l'Italie au VIe siècle ?",
-    "answers": [
-      "Basile II",
-      "Héraclius",
-      "Constantin XI",
-      "Justinien Ier"
-    ],
-    "correctIndex": 3
+    "text": "Quel roi de France a renforcé la souveraineté royale face aux grands féodaux ?",
+    "answers": ["Louis IX", "Louis XI", "Charles VII", "Philippe Auguste"],
+    "correctIndex": 1
   },
   {
     "id": "q151",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi babylonien a promulgué un célèbre code de lois ?",
-    "answers": [
-      "Ashurbanipal",
-      "Sargon d'Akkad",
-      "Nabuchodonosor II",
-      "Hammurabi"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain a fixé définitivement la hiérarchie des titres sous le dominat tardif ?",
+    "answers": ["Trajan", "Auguste", "Dioclétien", "Claude"],
+    "correctIndex": 2
   },
   {
     "id": "q152",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel explorateur polaire norvégien a disparu lors d'une mission de sauvetage en 1928 ?",
-    "answers": [
-      "Fridtjof Nansen",
-      "Ernest Shackleton",
-      "Roald Amundsen",
-      "Umberto Nobile"
-    ],
-    "correctIndex": 2
+    "text": "Quel président français a instauré la question prioritaire de constitutionnalité (QPC) ?",
+    "answers": ["Jacques Chirac", "François Hollande", "Emmanuel Macron", "Nicolas Sarkozy"],
+    "correctIndex": 3
   },
   {
     "id": "q153",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a divisé l'Empire en deux parties administratives ?",
-    "answers": [
-      "Marc Aurèle",
-      "Constantin Ier",
-      "Trajan",
-      "Dioclétien"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain a imposé l’hérédité des charges curiales dans tout l’Empire ?",
+    "answers": ["Dioclétien", "Constantin Ier", "Aurélien", "Valentinien Ier"],
+    "correctIndex": 0
   },
   {
     "id": "q154",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi de Macédoine a vaincu Darius III à Gaugamèles ?",
-    "answers": [
-      "Cassandre",
-      "Philippe II",
-      "Alexandre le Grand",
-      "Antigone le Borgne"
-    ],
-    "correctIndex": 2
+    "text": "Quel roi de France a imposé la supériorité de la loi royale sur les coutumes locales ?",
+    "answers": ["Philippe le Bel", "Louis XI", "François Ier", "Louis XIV"],
+    "correctIndex": 1
   },
   {
     "id": "q155",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel souverain inca a affronté Francisco Pizarro ?",
-    "answers": [
-      "Manco Inca",
-      "Atahualpa",
-      "Pachacutec",
-      "Huayna Capac"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain a rendu le colonnat juridiquement irréversible ?",
+    "answers": ["Constantin Ier", "Aurélien", "Dioclétien", "Théodose Ier"],
+    "correctIndex": 2
   },
   {
     "id": "q156",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire ottoman a conquis Constantinople en 1453 ?",
-    "answers": [
-      "Mehmet II",
-      "Suleiman le Magnifique",
-      "Selim Ier",
-      "Bayezid II"
-    ],
-    "correctIndex": 0
+    "text": "Quel président français a instauré la limitation à deux mandats présidentiels consécutifs ?",
+    "answers": ["François Hollande", "Jacques Chirac", "Emmanuel Macron", "Nicolas Sarkozy"],
+    "correctIndex": 3
   },
   {
     "id": "q157",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef indien apache a résisté aux forces américaines jusqu'en 1886 ?",
-    "answers": [
-      "Cochise",
-      "Mangas Coloradas",
-      "Geronimo",
-      "Victorio"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain a imposé une centralisation complète du système fiscal impérial ?",
+    "answers": ["Dioclétien", "Trajan", "Hadrien", "Claude"],
+    "correctIndex": 0
   },
   {
     "id": "q158",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef indien apache a résisté aux forces américaines jusqu'en 1886 ?",
-    "answers": [
-      "Geronimo",
-      "Victorio",
-      "Cochise",
-      "Mangas Coloradas"
-    ],
-    "correctIndex": 0
+    "text": "Quel roi de France a renforcé l’autorité monarchique par l’ordonnance de Villers-Cotterêts ?",
+    "answers": ["Louis XII", "François Ier", "Henri II", "Charles IX"],
+    "correctIndex": 1
   },
   {
     "id": "q159",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi de Macédoine a vaincu Darius III à Gaugamèles ?",
-    "answers": [
-      "Antigone le Borgne",
-      "Cassandre",
-      "Alexandre le Grand",
-      "Philippe II"
-    ],
+    "text": "Quel empereur romain a rendu obligatoire l’appartenance héréditaire aux corporations ?",
+    "answers": ["Aurélien", "Constantin Ier", "Dioclétien", "Valentinien Ier"],
     "correctIndex": 2
   },
   {
     "id": "q160",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef indien apache a résisté aux forces américaines jusqu'en 1886 ?",
-    "answers": [
-      "Geronimo",
-      "Mangas Coloradas",
-      "Victorio",
-      "Cochise"
-    ],
-    "correctIndex": 0
+    "text": "Quel président français a instauré la suppression de la peine de mort en France ?",
+    "answers": ["Valéry Giscard d’Estaing", "Jacques Chirac", "Georges Pompidou", "François Mitterrand"],
+    "correctIndex": 3
   },
+
   {
     "id": "q161",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef de guerre hun a été arrêté aux Champs Catalauniques en 451 ?",
-    "answers": [
-      "Alaric Ier",
-      "Odoacre",
-      "Attila",
-      "Genséric"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain a renforcé le caractère sacré de la personne impériale ?",
+    "answers": ["Dioclétien", "Auguste", "Claude", "Trajan"],
+    "correctIndex": 0
   },
   {
     "id": "q162",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a divisé l'Empire en deux parties administratives ?",
-    "answers": [
-      "Dioclétien",
-      "Marc Aurèle",
-      "Trajan",
-      "Constantin Ier"
-    ],
-    "correctIndex": 0
+    "text": "Quel roi de France a soumis les parlements à des lits de justice réguliers ?",
+    "answers": ["Louis XIII", "Louis XIV", "Louis XV", "Louis XVI"],
+    "correctIndex": 1
   },
   {
     "id": "q163",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef de guerre hun a été arrêté aux Champs Catalauniques en 451 ?",
-    "answers": [
-      "Genséric",
-      "Odoacre",
-      "Alaric Ier",
-      "Attila"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain a généralisé le recensement fiscal quinquennal ?",
+    "answers": ["Auguste", "Hadrien", "Dioclétien", "Claude"],
+    "correctIndex": 2
   },
   {
     "id": "q164",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire ottoman a conquis Constantinople en 1453 ?",
-    "answers": [
-      "Selim Ier",
-      "Suleiman le Magnifique",
-      "Bayezid II",
-      "Mehmet II"
-    ],
+    "text": "Quel président français a instauré le quinquennat présidentiel par référendum ?",
+    "answers": ["François Mitterrand", "Nicolas Sarkozy", "Emmanuel Macron", "Jacques Chirac"],
     "correctIndex": 3
   },
   {
     "id": "q165",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire ottoman a conquis Constantinople en 1453 ?",
-    "answers": [
-      "Bayezid II",
-      "Suleiman le Magnifique",
-      "Mehmet II",
-      "Selim Ier"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain a supprimé toute autonomie financière des cités ?",
+    "answers": ["Dioclétien", "Trajan", "Hadrien", "Auguste"],
+    "correctIndex": 0
   },
   {
     "id": "q166",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a divisé l'Empire en deux parties administratives ?",
-    "answers": [
-      "Dioclétien",
-      "Constantin Ier",
-      "Trajan",
-      "Marc Aurèle"
-    ],
-    "correctIndex": 0
+    "text": "Quel roi de France a imposé la souveraineté royale sur les juridictions ecclésiastiques ?",
+    "answers": ["Louis IX", "Louis XI", "Philippe le Bel", "Charles V"],
+    "correctIndex": 1
   },
   {
     "id": "q167",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef indien apache a résisté aux forces américaines jusqu'en 1886 ?",
-    "answers": [
-      "Mangas Coloradas",
-      "Cochise",
-      "Geronimo",
-      "Victorio"
-    ],
+    "text": "Quel empereur romain a institué une hiérarchie stricte entre provinces civiles et militaires ?",
+    "answers": ["Aurélien", "Constantin Ier", "Dioclétien", "Valens"],
     "correctIndex": 2
   },
   {
     "id": "q168",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire ottoman a conquis Constantinople en 1453 ?",
-    "answers": [
-      "Selim Ier",
-      "Suleiman le Magnifique",
-      "Mehmet II",
-      "Bayezid II"
-    ],
-    "correctIndex": 2
+    "text": "Quel président français a instauré la réforme constitutionnelle élargissant le référendum en 1995 ?",
+    "answers": ["François Mitterrand", "Nicolas Sarkozy", "Emmanuel Macron", "Jacques Chirac"],
+    "correctIndex": 3
   },
   {
     "id": "q169",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi de Macédoine a vaincu Darius III à Gaugamèles ?",
-    "answers": [
-      "Philippe II",
-      "Antigone le Borgne",
-      "Cassandre",
-      "Alexandre le Grand"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain a définitivement marginalisé le Sénat comme institution politique ?",
+    "answers": ["Dioclétien", "Auguste", "Claude", "Trajan"],
+    "correctIndex": 0
   },
   {
     "id": "q170",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi babylonien a promulgué un célèbre code de lois ?",
-    "answers": [
-      "Sargon d'Akkad",
-      "Ashurbanipal",
-      "Nabuchodonosor II",
-      "Hammurabi"
-    ],
-    "correctIndex": 3
+    "text": "Quel roi de France a instauré une fiscalité permanente sans convocation des États généraux ?",
+    "answers": ["Charles VII", "Louis XI", "Louis XII", "François Ier"],
+    "correctIndex": 1
   },
+
   {
     "id": "q171",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi babylonien a promulgué un célèbre code de lois ?",
-    "answers": [
-      "Sargon d'Akkad",
-      "Hammurabi",
-      "Nabuchodonosor II",
-      "Ashurbanipal"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain a imposé une stricte immobilité professionnelle aux populations ?",
+    "answers": ["Constantin Ier", "Aurélien", "Dioclétien", "Valentinien Ier"],
+    "correctIndex": 2
   },
   {
     "id": "q172",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a divisé l'Empire en deux parties administratives ?",
-    "answers": [
-      "Marc Aurèle",
-      "Dioclétien",
-      "Constantin Ier",
-      "Trajan"
-    ],
-    "correctIndex": 1
+    "text": "Quel président français a instauré l’abolition du service militaire obligatoire ?",
+    "answers": ["François Mitterrand", "Nicolas Sarkozy", "Emmanuel Macron", "Jacques Chirac"],
+    "correctIndex": 3
   },
   {
     "id": "q173",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire ottoman a conquis Constantinople en 1453 ?",
-    "answers": [
-      "Bayezid II",
-      "Suleiman le Magnifique",
-      "Mehmet II",
-      "Selim Ier"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain a renforcé le contrôle impérial sur les successions privées ?",
+    "answers": ["Dioclétien", "Trajan", "Hadrien", "Claude"],
+    "correctIndex": 0
   },
   {
     "id": "q174",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef indien apache a résisté aux forces américaines jusqu'en 1886 ?",
-    "answers": [
-      "Cochise",
-      "Geronimo",
-      "Mangas Coloradas",
-      "Victorio"
-    ],
+    "text": "Quel roi de France a affirmé la primauté de la monarchie sur la papauté en France ?",
+    "answers": ["Louis IX", "Louis XI", "Philippe le Bel", "François Ier"],
     "correctIndex": 1
   },
   {
     "id": "q175",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi babylonien a promulgué un célèbre code de lois ?",
-    "answers": [
-      "Nabuchodonosor II",
-      "Hammurabi",
-      "Sargon d'Akkad",
-      "Ashurbanipal"
-    ],
-    "correctIndex": 1
+    "text": "Quel empereur romain a uniformisé les statuts juridiques des habitants de l’Empire ?",
+    "answers": ["Trajan", "Hadrien", "Dioclétien", "Claude"],
+    "correctIndex": 2
   },
   {
     "id": "q176",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur byzantin a reconquis temporairement l'Italie au VIe siècle ?",
-    "answers": [
-      "Basile II",
-      "Héraclius",
-      "Justinien Ier",
-      "Constantin XI"
-    ],
-    "correctIndex": 2
+    "text": "Quel président français a instauré la loi constitutionnelle sur la parité hommes-femmes ?",
+    "answers": ["François Mitterrand", "Nicolas Sarkozy", "Emmanuel Macron", "Jacques Chirac"],
+    "correctIndex": 3
   },
   {
     "id": "q177",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef de guerre hun a été arrêté aux Champs Catalauniques en 451 ?",
-    "answers": [
-      "Attila",
-      "Odoacre",
-      "Alaric Ier",
-      "Genséric"
-    ],
+    "text": "Quel empereur romain a rendu le pouvoir impérial explicitement héréditaire ?",
+    "answers": ["Dioclétien", "Auguste", "Claude", "Trajan"],
     "correctIndex": 0
   },
   {
     "id": "q178",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef indien apache a résisté aux forces américaines jusqu'en 1886 ?",
-    "answers": [
-      "Geronimo",
-      "Victorio",
-      "Cochise",
-      "Mangas Coloradas"
-    ],
-    "correctIndex": 0
+    "text": "Quel roi de France a établi une justice royale supérieure à toutes les autres ?",
+    "answers": ["Louis IX", "Louis XI", "Charles V", "Philippe le Bel"],
+    "correctIndex": 1
   },
   {
     "id": "q179",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur byzantin a reconquis temporairement l'Italie au VIe siècle ?",
-    "answers": [
-      "Basile II",
-      "Constantin XI",
-      "Héraclius",
-      "Justinien Ier"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain a mis en place un contrôle strict des carrières administratives ?",
+    "answers": ["Aurélien", "Constantin Ier", "Dioclétien", "Valentinien Ier"],
+    "correctIndex": 2
   },
   {
     "id": "q180",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi de Macédoine a vaincu Darius III à Gaugamèles ?",
-    "answers": [
-      "Philippe II",
-      "Antigone le Borgne",
-      "Cassandre",
-      "Alexandre le Grand"
-    ],
+    "text": "Quel président français a instauré le référendum sur le traité de Maastricht ?",
+    "answers": ["Jacques Chirac", "Valéry Giscard d’Estaing", "Georges Pompidou", "François Mitterrand"],
     "correctIndex": 3
   },
+
   {
     "id": "q181",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef indien apache a résisté aux forces américaines jusqu'en 1886 ?",
-    "answers": [
-      "Mangas Coloradas",
-      "Victorio",
-      "Geronimo",
-      "Cochise"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain a renforcé la bureaucratie impériale par la salarisation des fonctionnaires ?",
+    "answers": ["Dioclétien", "Auguste", "Claude", "Trajan"],
+    "correctIndex": 0
   },
   {
     "id": "q182",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef de guerre hun a été arrêté aux Champs Catalauniques en 451 ?",
-    "answers": [
-      "Alaric Ier",
-      "Odoacre",
-      "Attila",
-      "Genséric"
-    ],
-    "correctIndex": 2
+    "text": "Quel roi de France a supprimé les grands apanages féodaux pour renforcer l’État ?",
+    "answers": ["Charles VII", "Louis XI", "Louis XII", "François Ier"],
+    "correctIndex": 1
   },
   {
     "id": "q183",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel stratège athénien a conçu la victoire navale de Salamine ?",
-    "answers": [
-      "Miltiade",
-      "Périclès",
-      "Cimon",
-      "Thémistocle"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain a instauré une fiscalité personnelle et foncière unifiée ?",
+    "answers": ["Trajan", "Auguste", "Dioclétien", "Claude"],
+    "correctIndex": 2
   },
   {
     "id": "q184",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef de guerre hun a été arrêté aux Champs Catalauniques en 451 ?",
-    "answers": [
-      "Alaric Ier",
-      "Attila",
-      "Odoacre",
-      "Genséric"
-    ],
-    "correctIndex": 1
+    "text": "Quel président français a instauré la reconnaissance constitutionnelle de l’environnement ?",
+    "answers": ["Jacques Chirac", "Nicolas Sarkozy", "Emmanuel Macron", "Jacques Chirac"],
+    "correctIndex": 3
   },
   {
     "id": "q185",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef de guerre hun a été arrêté aux Champs Catalauniques en 451 ?",
-    "answers": [
-      "Genséric",
-      "Alaric Ier",
-      "Odoacre",
-      "Attila"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain a définitivement subordonné les cités à l’administration impériale ?",
+    "answers": ["Dioclétien", "Trajan", "Hadrien", "Auguste"],
+    "correctIndex": 0
   },
   {
     "id": "q186",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel stratège athénien a conçu la victoire navale de Salamine ?",
-    "answers": [
-      "Périclès",
-      "Cimon",
-      "Miltiade",
-      "Thémistocle"
-    ],
-    "correctIndex": 3
+    "text": "Quel roi de France a instauré la souveraineté royale comme principe juridique fondamental ?",
+    "answers": ["Louis IX", "Louis XI", "Philippe le Bel", "Charles V"],
+    "correctIndex": 1
   },
   {
     "id": "q187",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire ottoman a conquis Constantinople en 1453 ?",
-    "answers": [
-      "Bayezid II",
-      "Suleiman le Magnifique",
-      "Mehmet II",
-      "Selim Ier"
-    ],
+    "text": "Quel empereur romain a rigidifié définitivement la société impériale tardive ?",
+    "answers": ["Constantin Ier", "Aurélien", "Dioclétien", "Valentinien Ier"],
     "correctIndex": 2
   },
   {
     "id": "q188",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel souverain inca a affronté Francisco Pizarro ?",
-    "answers": [
-      "Huayna Capac",
-      "Pachacutec",
-      "Atahualpa",
-      "Manco Inca"
-    ],
-    "correctIndex": 2
+    "text": "Quel président français a instauré le droit de vote des ressortissants européens aux élections municipales ?",
+    "answers": ["François Mitterrand", "Nicolas Sarkozy", "Emmanuel Macron", "François Mitterrand"],
+    "correctIndex": 3
   },
   {
     "id": "q189",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a divisé l'Empire en deux parties administratives ?",
-    "answers": [
-      "Constantin Ier",
-      "Trajan",
-      "Dioclétien",
-      "Marc Aurèle"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain a fait de l’administration impériale l’unique source de pouvoir ?",
+    "answers": ["Dioclétien", "Auguste", "Claude", "Trajan"],
+    "correctIndex": 0
   },
   {
     "id": "q190",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a divisé l'Empire en deux parties administratives ?",
-    "answers": [
-      "Constantin Ier",
-      "Marc Aurèle",
-      "Dioclétien",
-      "Trajan"
-    ],
-    "correctIndex": 2
+    "text": "Quel roi de France a définitivement imposé l’autorité de l’État sur les féodalités ?",
+    "answers": ["Charles VII", "Louis XI", "François Ier", "Louis XII"],
+    "correctIndex": 1
   },
+
   {
     "id": "q191",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi babylonien a promulgué un célèbre code de lois ?",
-    "answers": [
-      "Hammurabi",
-      "Ashurbanipal",
-      "Sargon d'Akkad",
-      "Nabuchodonosor II"
-    ],
-    "correctIndex": 0
+    "text": "Quel empereur romain a institutionnalisé le contrôle total des populations par l’État ?",
+    "answers": ["Aurélien", "Constantin Ier", "Dioclétien", "Valentinien Ier"],
+    "correctIndex": 2
   },
   {
     "id": "q192",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef indien apache a résisté aux forces américaines jusqu'en 1886 ?",
-    "answers": [
-      "Cochise",
-      "Mangas Coloradas",
-      "Victorio",
-      "Geronimo"
-    ],
+    "text": "Quel président français a instauré la réforme constitutionnelle de 2000 sur le quinquennat ?",
+    "answers": ["François Mitterrand", "Nicolas Sarkozy", "Emmanuel Macron", "Jacques Chirac"],
     "correctIndex": 3
   },
   {
     "id": "q193",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire ottoman a conquis Constantinople en 1453 ?",
-    "answers": [
-      "Suleiman le Magnifique",
-      "Selim Ier",
-      "Bayezid II",
-      "Mehmet II"
-    ],
-    "correctIndex": 3
+    "text": "Quel empereur romain a renforcé la centralisation politique au détriment des élites locales ?",
+    "answers": ["Dioclétien", "Trajan", "Hadrien", "Auguste"],
+    "correctIndex": 0
   },
   {
     "id": "q194",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur byzantin a reconquis temporairement l'Italie au VIe siècle ?",
-    "answers": [
-      "Constantin XI",
-      "Héraclius",
-      "Justinien Ier",
-      "Basile II"
-    ],
-    "correctIndex": 2
+    "text": "Quel roi de France a fait de la monarchie la source unique du droit ?",
+    "answers": ["Louis IX", "Louis XI", "Philippe le Bel", "Charles V"],
+    "correctIndex": 1
   },
   {
     "id": "q195",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur romain a divisé l'Empire en deux parties administratives ?",
-    "answers": [
-      "Constantin Ier",
-      "Trajan",
-      "Dioclétien",
-      "Marc Aurèle"
-    ],
+    "text": "Quel empereur romain a achevé la transformation autoritaire de l’Empire ?",
+    "answers": ["Trajan", "Auguste", "Dioclétien", "Claude"],
     "correctIndex": 2
   },
   {
     "id": "q196",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel souverain inca a affronté Francisco Pizarro ?",
-    "answers": [
-      "Pachacutec",
-      "Huayna Capac",
-      "Manco Inca",
-      "Atahualpa"
-    ],
+    "text": "Quel président français a instauré la révision constitutionnelle de 2008 ?",
+    "answers": ["Jacques Chirac", "François Hollande", "Emmanuel Macron", "Nicolas Sarkozy"],
     "correctIndex": 3
   },
   {
     "id": "q197",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel empereur byzantin a reconquis temporairement l'Italie au VIe siècle ?",
-    "answers": [
-      "Basile II",
-      "Constantin XI",
-      "Justinien Ier",
-      "Héraclius"
-    ],
-    "correctIndex": 2
+    "text": "Quel empereur romain a instauré un État impérial totalement bureaucratique ?",
+    "answers": ["Dioclétien", "Auguste", "Claude", "Trajan"],
+    "correctIndex": 0
   },
   {
     "id": "q198",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel roi babylonien a promulgué un célèbre code de lois ?",
-    "answers": [
-      "Nabuchodonosor II",
-      "Sargon d'Akkad",
-      "Ashurbanipal",
-      "Hammurabi"
-    ],
-    "correctIndex": 3
+    "text": "Quel roi de France a posé les bases de l’absolutisme monarchique moderne ?",
+    "answers": ["Louis IX", "Louis XI", "François Ier", "Charles V"],
+    "correctIndex": 1
   },
   {
     "id": "q199",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel souverain inca a affronté Francisco Pizarro ?",
-    "answers": [
-      "Atahualpa",
-      "Huayna Capac",
-      "Manco Inca",
-      "Pachacutec"
-    ],
-    "correctIndex": 0
+    "text": "Quel empereur romain a figé définitivement la société impériale tardive ?",
+    "answers": ["Constantin Ier", "Aurélien", "Dioclétien", "Valentinien Ier"],
+    "correctIndex": 2
   },
   {
     "id": "q200",
     "category": "Figures historiques",
     "difficulty": "Extrême",
-    "text": "Quel souverain inca a affronté Francisco Pizarro ?",
-    "answers": [
-      "Pachacutec",
-      "Huayna Capac",
-      "Atahualpa",
-      "Manco Inca"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q201",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel chef indien apache a résisté aux forces américaines jusqu'en 1886 ?",
-    "answers": [
-      "Geronimo",
-      "Mangas Coloradas",
-      "Cochise",
-      "Victorio"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q202",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel souverain inca a affronté Francisco Pizarro ?",
-    "answers": [
-      "Manco Inca",
-      "Huayna Capac",
-      "Pachacutec",
-      "Atahualpa"
-    ],
+    "text": "Quel président français a instauré l’état d’urgence constitutionnel lors de la guerre d’Algérie ?",
+    "answers": ["René Coty", "Georges Pompidou", "Valéry Giscard d’Estaing", "Charles de Gaulle"],
     "correctIndex": 3
-  },
-  {
-    "id": "q203",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel souverain inca a affronté Francisco Pizarro ?",
-    "answers": [
-      "Pachacutec",
-      "Atahualpa",
-      "Manco Inca",
-      "Huayna Capac"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q204",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel stratège athénien a conçu la victoire navale de Salamine ?",
-    "answers": [
-      "Cimon",
-      "Périclès",
-      "Miltiade",
-      "Thémistocle"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q205",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur polaire norvégien a disparu lors d'une mission de sauvetage en 1928 ?",
-    "answers": [
-      "Fridtjof Nansen",
-      "Roald Amundsen",
-      "Ernest Shackleton",
-      "Umberto Nobile"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q206",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel empereur byzantin a reconquis temporairement l'Italie au VIe siècle ?",
-    "answers": [
-      "Héraclius",
-      "Basile II",
-      "Constantin XI",
-      "Justinien Ier"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q207",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel chef indien apache a résisté aux forces américaines jusqu'en 1886 ?",
-    "answers": [
-      "Victorio",
-      "Geronimo",
-      "Cochise",
-      "Mangas Coloradas"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q208",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel stratège athénien a conçu la victoire navale de Salamine ?",
-    "answers": [
-      "Miltiade",
-      "Thémistocle",
-      "Cimon",
-      "Périclès"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q209",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur polaire norvégien a disparu lors d'une mission de sauvetage en 1928 ?",
-    "answers": [
-      "Fridtjof Nansen",
-      "Ernest Shackleton",
-      "Roald Amundsen",
-      "Umberto Nobile"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q210",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel chef indien apache a résisté aux forces américaines jusqu'en 1886 ?",
-    "answers": [
-      "Victorio",
-      "Cochise",
-      "Geronimo",
-      "Mangas Coloradas"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q211",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel souverain inca a affronté Francisco Pizarro ?",
-    "answers": [
-      "Atahualpa",
-      "Pachacutec",
-      "Huayna Capac",
-      "Manco Inca"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q212",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel roi de Macédoine a vaincu Darius III à Gaugamèles ?",
-    "answers": [
-      "Philippe II",
-      "Cassandre",
-      "Antigone le Borgne",
-      "Alexandre le Grand"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q213",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel souverain inca a affronté Francisco Pizarro ?",
-    "answers": [
-      "Huayna Capac",
-      "Manco Inca",
-      "Pachacutec",
-      "Atahualpa"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q214",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel chef indien apache a résisté aux forces américaines jusqu'en 1886 ?",
-    "answers": [
-      "Cochise",
-      "Geronimo",
-      "Victorio",
-      "Mangas Coloradas"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q215",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur polaire norvégien a disparu lors d'une mission de sauvetage en 1928 ?",
-    "answers": [
-      "Ernest Shackleton",
-      "Fridtjof Nansen",
-      "Umberto Nobile",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q216",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel empereur byzantin a reconquis temporairement l'Italie au VIe siècle ?",
-    "answers": [
-      "Constantin XI",
-      "Justinien Ier",
-      "Basile II",
-      "Héraclius"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q217",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel stratège athénien a conçu la victoire navale de Salamine ?",
-    "answers": [
-      "Cimon",
-      "Miltiade",
-      "Périclès",
-      "Thémistocle"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q218",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel empereur romain a divisé l'Empire en deux parties administratives ?",
-    "answers": [
-      "Trajan",
-      "Constantin Ier",
-      "Dioclétien",
-      "Marc Aurèle"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q219",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur polaire norvégien a disparu lors d'une mission de sauvetage en 1928 ?",
-    "answers": [
-      "Umberto Nobile",
-      "Ernest Shackleton",
-      "Roald Amundsen",
-      "Fridtjof Nansen"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q220",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel chef de guerre hun a été arrêté aux Champs Catalauniques en 451 ?",
-    "answers": [
-      "Genséric",
-      "Odoacre",
-      "Alaric Ier",
-      "Attila"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q221",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel empereur byzantin a reconquis temporairement l'Italie au VIe siècle ?",
-    "answers": [
-      "Justinien Ier",
-      "Constantin XI",
-      "Basile II",
-      "Héraclius"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q222",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel roi de Macédoine a vaincu Darius III à Gaugamèles ?",
-    "answers": [
-      "Cassandre",
-      "Alexandre le Grand",
-      "Antigone le Borgne",
-      "Philippe II"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q223",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur polaire norvégien a disparu lors d'une mission de sauvetage en 1928 ?",
-    "answers": [
-      "Umberto Nobile",
-      "Fridtjof Nansen",
-      "Roald Amundsen",
-      "Ernest Shackleton"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q224",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel empereur byzantin a reconquis temporairement l'Italie au VIe siècle ?",
-    "answers": [
-      "Justinien Ier",
-      "Héraclius",
-      "Basile II",
-      "Constantin XI"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q225",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur polaire norvégien a disparu lors d'une mission de sauvetage en 1928 ?",
-    "answers": [
-      "Umberto Nobile",
-      "Fridtjof Nansen",
-      "Roald Amundsen",
-      "Ernest Shackleton"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q226",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel empereur byzantin a reconquis temporairement l'Italie au VIe siècle ?",
-    "answers": [
-      "Héraclius",
-      "Constantin XI",
-      "Justinien Ier",
-      "Basile II"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q227",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur polaire norvégien a disparu lors d'une mission de sauvetage en 1928 ?",
-    "answers": [
-      "Umberto Nobile",
-      "Roald Amundsen",
-      "Ernest Shackleton",
-      "Fridtjof Nansen"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q228",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel roi de Macédoine a vaincu Darius III à Gaugamèles ?",
-    "answers": [
-      "Cassandre",
-      "Philippe II",
-      "Alexandre le Grand",
-      "Antigone le Borgne"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q229",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel chef militaire ottoman a conquis Constantinople en 1453 ?",
-    "answers": [
-      "Selim Ier",
-      "Suleiman le Magnifique",
-      "Bayezid II",
-      "Mehmet II"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q230",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel empereur byzantin a reconquis temporairement l'Italie au VIe siècle ?",
-    "answers": [
-      "Justinien Ier",
-      "Héraclius",
-      "Constantin XI",
-      "Basile II"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q231",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel roi babylonien a promulgué un célèbre code de lois ?",
-    "answers": [
-      "Ashurbanipal",
-      "Hammurabi",
-      "Nabuchodonosor II",
-      "Sargon d'Akkad"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q232",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel stratège athénien a conçu la victoire navale de Salamine ?",
-    "answers": [
-      "Miltiade",
-      "Thémistocle",
-      "Cimon",
-      "Périclès"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q233",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel chef indien apache a résisté aux forces américaines jusqu'en 1886 ?",
-    "answers": [
-      "Cochise",
-      "Geronimo",
-      "Mangas Coloradas",
-      "Victorio"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q234",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel empereur byzantin a reconquis temporairement l'Italie au VIe siècle ?",
-    "answers": [
-      "Héraclius",
-      "Constantin XI",
-      "Basile II",
-      "Justinien Ier"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q235",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel stratège athénien a conçu la victoire navale de Salamine ?",
-    "answers": [
-      "Cimon",
-      "Périclès",
-      "Thémistocle",
-      "Miltiade"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q236",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel souverain inca a affronté Francisco Pizarro ?",
-    "answers": [
-      "Atahualpa",
-      "Pachacutec",
-      "Huayna Capac",
-      "Manco Inca"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q237",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel empereur byzantin a reconquis temporairement l'Italie au VIe siècle ?",
-    "answers": [
-      "Héraclius",
-      "Constantin XI",
-      "Justinien Ier",
-      "Basile II"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q238",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur polaire norvégien a disparu lors d'une mission de sauvetage en 1928 ?",
-    "answers": [
-      "Fridtjof Nansen",
-      "Ernest Shackleton",
-      "Umberto Nobile",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q239",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel souverain inca a affronté Francisco Pizarro ?",
-    "answers": [
-      "Huayna Capac",
-      "Atahualpa",
-      "Pachacutec",
-      "Manco Inca"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q240",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel roi de Macédoine a vaincu Darius III à Gaugamèles ?",
-    "answers": [
-      "Philippe II",
-      "Cassandre",
-      "Alexandre le Grand",
-      "Antigone le Borgne"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q241",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel chef indien apache a résisté aux forces américaines jusqu'en 1886 ?",
-    "answers": [
-      "Victorio",
-      "Geronimo",
-      "Cochise",
-      "Mangas Coloradas"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q242",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur polaire norvégien a disparu lors d'une mission de sauvetage en 1928 ?",
-    "answers": [
-      "Fridtjof Nansen",
-      "Ernest Shackleton",
-      "Umberto Nobile",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q243",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel chef de guerre hun a été arrêté aux Champs Catalauniques en 451 ?",
-    "answers": [
-      "Odoacre",
-      "Genséric",
-      "Alaric Ier",
-      "Attila"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q244",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel chef indien apache a résisté aux forces américaines jusqu'en 1886 ?",
-    "answers": [
-      "Geronimo",
-      "Cochise",
-      "Victorio",
-      "Mangas Coloradas"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q245",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel empereur byzantin a reconquis temporairement l'Italie au VIe siècle ?",
-    "answers": [
-      "Basile II",
-      "Héraclius",
-      "Justinien Ier",
-      "Constantin XI"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q246",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur polaire norvégien a disparu lors d'une mission de sauvetage en 1928 ?",
-    "answers": [
-      "Umberto Nobile",
-      "Ernest Shackleton",
-      "Fridtjof Nansen",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q247",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel roi babylonien a promulgué un célèbre code de lois ?",
-    "answers": [
-      "Nabuchodonosor II",
-      "Hammurabi",
-      "Sargon d'Akkad",
-      "Ashurbanipal"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q248",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel empereur byzantin a reconquis temporairement l'Italie au VIe siècle ?",
-    "answers": [
-      "Héraclius",
-      "Justinien Ier",
-      "Basile II",
-      "Constantin XI"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q249",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel chef indien apache a résisté aux forces américaines jusqu'en 1886 ?",
-    "answers": [
-      "Mangas Coloradas",
-      "Geronimo",
-      "Cochise",
-      "Victorio"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q250",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur polaire norvégien a disparu lors d'une mission de sauvetage en 1928 ?",
-    "answers": [
-      "Fridtjof Nansen",
-      "Umberto Nobile",
-      "Ernest Shackleton",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q251",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel empereur byzantin a reconquis temporairement l'Italie au VIe siècle ?",
-    "answers": [
-      "Héraclius",
-      "Basile II",
-      "Constantin XI",
-      "Justinien Ier"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q252",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel chef de guerre hun a été arrêté aux Champs Catalauniques en 451 ?",
-    "answers": [
-      "Attila",
-      "Genséric",
-      "Alaric Ier",
-      "Odoacre"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q253",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel souverain inca a affronté Francisco Pizarro ?",
-    "answers": [
-      "Manco Inca",
-      "Atahualpa",
-      "Huayna Capac",
-      "Pachacutec"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q254",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel stratège athénien a conçu la victoire navale de Salamine ?",
-    "answers": [
-      "Thémistocle",
-      "Miltiade",
-      "Cimon",
-      "Périclès"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q255",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel empereur romain a divisé l'Empire en deux parties administratives ?",
-    "answers": [
-      "Trajan",
-      "Marc Aurèle",
-      "Dioclétien",
-      "Constantin Ier"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q256",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel empereur byzantin a reconquis temporairement l'Italie au VIe siècle ?",
-    "answers": [
-      "Constantin XI",
-      "Basile II",
-      "Héraclius",
-      "Justinien Ier"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q257",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel roi babylonien a promulgué un célèbre code de lois ?",
-    "answers": [
-      "Ashurbanipal",
-      "Sargon d'Akkad",
-      "Nabuchodonosor II",
-      "Hammurabi"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q258",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel empereur romain a divisé l'Empire en deux parties administratives ?",
-    "answers": [
-      "Trajan",
-      "Constantin Ier",
-      "Dioclétien",
-      "Marc Aurèle"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q259",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel empereur byzantin a reconquis temporairement l'Italie au VIe siècle ?",
-    "answers": [
-      "Héraclius",
-      "Basile II",
-      "Justinien Ier",
-      "Constantin XI"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q260",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel chef de guerre hun a été arrêté aux Champs Catalauniques en 451 ?",
-    "answers": [
-      "Attila",
-      "Genséric",
-      "Odoacre",
-      "Alaric Ier"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q261",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel chef indien apache a résisté aux forces américaines jusqu'en 1886 ?",
-    "answers": [
-      "Victorio",
-      "Mangas Coloradas",
-      "Cochise",
-      "Geronimo"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q262",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel stratège athénien a conçu la victoire navale de Salamine ?",
-    "answers": [
-      "Miltiade",
-      "Cimon",
-      "Périclès",
-      "Thémistocle"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q263",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel stratège athénien a conçu la victoire navale de Salamine ?",
-    "answers": [
-      "Périclès",
-      "Thémistocle",
-      "Cimon",
-      "Miltiade"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q264",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel stratège athénien a conçu la victoire navale de Salamine ?",
-    "answers": [
-      "Périclès",
-      "Cimon",
-      "Thémistocle",
-      "Miltiade"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q265",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel empereur byzantin a reconquis temporairement l'Italie au VIe siècle ?",
-    "answers": [
-      "Basile II",
-      "Justinien Ier",
-      "Constantin XI",
-      "Héraclius"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q266",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel empereur romain a divisé l'Empire en deux parties administratives ?",
-    "answers": [
-      "Trajan",
-      "Marc Aurèle",
-      "Constantin Ier",
-      "Dioclétien"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q267",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel chef militaire ottoman a conquis Constantinople en 1453 ?",
-    "answers": [
-      "Bayezid II",
-      "Selim Ier",
-      "Mehmet II",
-      "Suleiman le Magnifique"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q268",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel roi de Macédoine a vaincu Darius III à Gaugamèles ?",
-    "answers": [
-      "Philippe II",
-      "Cassandre",
-      "Alexandre le Grand",
-      "Antigone le Borgne"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q269",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel roi de Macédoine a vaincu Darius III à Gaugamèles ?",
-    "answers": [
-      "Cassandre",
-      "Antigone le Borgne",
-      "Philippe II",
-      "Alexandre le Grand"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q270",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel empereur romain a divisé l'Empire en deux parties administratives ?",
-    "answers": [
-      "Marc Aurèle",
-      "Trajan",
-      "Constantin Ier",
-      "Dioclétien"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q271",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel roi de Macédoine a vaincu Darius III à Gaugamèles ?",
-    "answers": [
-      "Alexandre le Grand",
-      "Philippe II",
-      "Antigone le Borgne",
-      "Cassandre"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q272",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur polaire norvégien a disparu lors d'une mission de sauvetage en 1928 ?",
-    "answers": [
-      "Ernest Shackleton",
-      "Fridtjof Nansen",
-      "Roald Amundsen",
-      "Umberto Nobile"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q273",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel empereur byzantin a reconquis temporairement l'Italie au VIe siècle ?",
-    "answers": [
-      "Justinien Ier",
-      "Basile II",
-      "Héraclius",
-      "Constantin XI"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q274",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel roi de Macédoine a vaincu Darius III à Gaugamèles ?",
-    "answers": [
-      "Alexandre le Grand",
-      "Cassandre",
-      "Philippe II",
-      "Antigone le Borgne"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q275",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel souverain inca a affronté Francisco Pizarro ?",
-    "answers": [
-      "Atahualpa",
-      "Manco Inca",
-      "Pachacutec",
-      "Huayna Capac"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q276",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel stratège athénien a conçu la victoire navale de Salamine ?",
-    "answers": [
-      "Périclès",
-      "Cimon",
-      "Miltiade",
-      "Thémistocle"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q277",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel empereur romain a divisé l'Empire en deux parties administratives ?",
-    "answers": [
-      "Dioclétien",
-      "Marc Aurèle",
-      "Constantin Ier",
-      "Trajan"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q278",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel chef militaire ottoman a conquis Constantinople en 1453 ?",
-    "answers": [
-      "Bayezid II",
-      "Selim Ier",
-      "Mehmet II",
-      "Suleiman le Magnifique"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q279",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel chef militaire ottoman a conquis Constantinople en 1453 ?",
-    "answers": [
-      "Selim Ier",
-      "Mehmet II",
-      "Bayezid II",
-      "Suleiman le Magnifique"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q280",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel stratège athénien a conçu la victoire navale de Salamine ?",
-    "answers": [
-      "Périclès",
-      "Thémistocle",
-      "Miltiade",
-      "Cimon"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q281",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel souverain inca a affronté Francisco Pizarro ?",
-    "answers": [
-      "Manco Inca",
-      "Atahualpa",
-      "Pachacutec",
-      "Huayna Capac"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q282",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel roi de Macédoine a vaincu Darius III à Gaugamèles ?",
-    "answers": [
-      "Cassandre",
-      "Philippe II",
-      "Alexandre le Grand",
-      "Antigone le Borgne"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q283",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel stratège athénien a conçu la victoire navale de Salamine ?",
-    "answers": [
-      "Thémistocle",
-      "Cimon",
-      "Miltiade",
-      "Périclès"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q284",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel souverain inca a affronté Francisco Pizarro ?",
-    "answers": [
-      "Huayna Capac",
-      "Pachacutec",
-      "Manco Inca",
-      "Atahualpa"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q285",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel empereur romain a divisé l'Empire en deux parties administratives ?",
-    "answers": [
-      "Trajan",
-      "Constantin Ier",
-      "Dioclétien",
-      "Marc Aurèle"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q286",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel chef militaire ottoman a conquis Constantinople en 1453 ?",
-    "answers": [
-      "Mehmet II",
-      "Bayezid II",
-      "Suleiman le Magnifique",
-      "Selim Ier"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q287",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel stratège athénien a conçu la victoire navale de Salamine ?",
-    "answers": [
-      "Cimon",
-      "Thémistocle",
-      "Périclès",
-      "Miltiade"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q288",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur polaire norvégien a disparu lors d'une mission de sauvetage en 1928 ?",
-    "answers": [
-      "Fridtjof Nansen",
-      "Umberto Nobile",
-      "Ernest Shackleton",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q289",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel roi de Macédoine a vaincu Darius III à Gaugamèles ?",
-    "answers": [
-      "Cassandre",
-      "Antigone le Borgne",
-      "Philippe II",
-      "Alexandre le Grand"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q290",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel roi de Macédoine a vaincu Darius III à Gaugamèles ?",
-    "answers": [
-      "Antigone le Borgne",
-      "Alexandre le Grand",
-      "Philippe II",
-      "Cassandre"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q291",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel roi de Macédoine a vaincu Darius III à Gaugamèles ?",
-    "answers": [
-      "Antigone le Borgne",
-      "Philippe II",
-      "Cassandre",
-      "Alexandre le Grand"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q292",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel empereur romain a divisé l'Empire en deux parties administratives ?",
-    "answers": [
-      "Marc Aurèle",
-      "Dioclétien",
-      "Trajan",
-      "Constantin Ier"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q293",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel chef militaire ottoman a conquis Constantinople en 1453 ?",
-    "answers": [
-      "Bayezid II",
-      "Mehmet II",
-      "Selim Ier",
-      "Suleiman le Magnifique"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q294",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel empereur romain a divisé l'Empire en deux parties administratives ?",
-    "answers": [
-      "Trajan",
-      "Dioclétien",
-      "Constantin Ier",
-      "Marc Aurèle"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q295",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur polaire norvégien a disparu lors d'une mission de sauvetage en 1928 ?",
-    "answers": [
-      "Ernest Shackleton",
-      "Roald Amundsen",
-      "Fridtjof Nansen",
-      "Umberto Nobile"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q296",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel chef militaire ottoman a conquis Constantinople en 1453 ?",
-    "answers": [
-      "Mehmet II",
-      "Suleiman le Magnifique",
-      "Selim Ier",
-      "Bayezid II"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q297",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel chef de guerre hun a été arrêté aux Champs Catalauniques en 451 ?",
-    "answers": [
-      "Attila",
-      "Genséric",
-      "Alaric Ier",
-      "Odoacre"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q298",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel empereur byzantin a reconquis temporairement l'Italie au VIe siècle ?",
-    "answers": [
-      "Constantin XI",
-      "Justinien Ier",
-      "Héraclius",
-      "Basile II"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q299",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel stratège athénien a conçu la victoire navale de Salamine ?",
-    "answers": [
-      "Périclès",
-      "Miltiade",
-      "Cimon",
-      "Thémistocle"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q300",
-    "category": "Figures historiques",
-    "difficulty": "Extrême",
-    "text": "Quel empereur byzantin a reconquis temporairement l'Italie au VIe siècle ?",
-    "answers": [
-      "Justinien Ier",
-      "Basile II",
-      "Constantin XI",
-      "Héraclius"
-    ],
-    "correctIndex": 0
   }
 ]
