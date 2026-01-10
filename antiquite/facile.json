@@ -648,5 +648,1955 @@
       "Stèles"
     ],
     "correctIndex": 0
+  },
+  {
+    "id": "q51",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel métal a donné son nom à l'âge du bronze ?",
+    "answers": [
+      "Fer",
+      "Cuivre",
+      "Bronze",
+      "Or"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q52",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel empire était dirigé par l'empereur Auguste ?",
+    "answers": [
+      "Empire romain",
+      "Empire perse",
+      "Empire grec",
+      "Empire égyptien"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q53",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel animal est associé au dieu grec Zeus ?",
+    "answers": [
+      "Le serpent",
+      "L'aigle",
+      "Le taureau",
+      "Le cheval"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q54",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel fleuve traversait la ville de Rome antique ?",
+    "answers": [
+      "Le Tibre",
+      "Le Danube",
+      "Le Rhin",
+      "Le Nil"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q55",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel dieu grec est le dieu de la guerre ?",
+    "answers": [
+      "Apollon",
+      "Arès",
+      "Hermès",
+      "Dionysos"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q56",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple a construit la ville de Babylone ?",
+    "answers": [
+      "Les Babyloniens",
+      "Les Égyptiens",
+      "Les Grecs",
+      "Les Romains"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q57",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel monument romain servait aux combats de gladiateurs ?",
+    "answers": [
+      "Le Parthénon",
+      "Le Colisée",
+      "Le Panthéon",
+      "Le Sénat"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q58",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel dieu égyptien est représenté avec une tête de faucon ?",
+    "answers": [
+      "Anubis",
+      "Horus",
+      "Rê",
+      "Seth"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q59",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle civilisation antique utilisait l'écriture cunéiforme ?",
+    "answers": [
+      "Les Sumériens",
+      "Les Grecs",
+      "Les Romains",
+      "Les Égyptiens"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q60",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu romain de la guerre ?",
+    "answers": [
+      "Jupiter",
+      "Mars",
+      "Mercure",
+      "Neptune"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q61",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du célèbre phare antique situé en Égypte ?",
+    "answers": [
+      "Phare d'Alexandrie",
+      "Phare de Rhodes",
+      "Phare de Delphes",
+      "Phare de Carthage"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q62",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique est associé à la cité de Troie ?",
+    "answers": [
+      "Les Troyens",
+      "Les Perses",
+      "Les Égyptiens",
+      "Les Romains"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q63",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel empereur romain a donné son nom au mois d'août ?",
+    "answers": [
+      "César",
+      "Auguste",
+      "Néron",
+      "Trajan"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q64",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom de la reine d'Égypte célèbre pour sa beauté ?",
+    "answers": [
+      "Néfertiti",
+      "Cléopâtre",
+      "Hatchepsout",
+      "Isis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q65",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle civilisation a bâti le Parthénon ?",
+    "answers": [
+      "Les Grecs",
+      "Les Romains",
+      "Les Perses",
+      "Les Égyptiens"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q66",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu grec du commerce ?",
+    "answers": [
+      "Hermès",
+      "Apollon",
+      "Hadès",
+      "Arès"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q67",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique est connu pour ses légions ?",
+    "answers": [
+      "Les Romains",
+      "Les Grecs",
+      "Les Perses",
+      "Les Celtes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q68",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel animal est sacré dans l'Égypte antique ?",
+    "answers": [
+      "Le chat",
+      "Le chien",
+      "Le cheval",
+      "Le lion"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q69",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique a fondé la ville d'Athènes ?",
+    "answers": [
+      "Les Grecs",
+      "Les Romains",
+      "Les Phéniciens",
+      "Les Perses"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q70",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu grec du vin ?",
+    "answers": [
+      "Dionysos",
+      "Apollon",
+      "Hermès",
+      "Zeus"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q71",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique est associé aux pyramides ?",
+    "answers": [
+      "Les Égyptiens",
+      "Les Grecs",
+      "Les Romains",
+      "Les Perses"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q72",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu grec de la lumière ?",
+    "answers": [
+      "Apollon",
+      "Hadès",
+      "Arès",
+      "Hermès"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q73",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel empire antique avait pour capitale Alexandrie ?",
+    "answers": [
+      "Empire égyptien",
+      "Empire romain",
+      "Empire perse",
+      "Empire grec"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q74",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du célèbre héros grec invulnérable sauf au talon ?",
+    "answers": [
+      "Achille",
+      "Ulysse",
+      "Hector",
+      "Persée"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q75",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique est à l'origine des hiéroglyphes ?",
+    "answers": [
+      "Les Égyptiens",
+      "Les Grecs",
+      "Les Romains",
+      "Les Perses"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q76",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom de la grande route romaine pavée ?",
+    "answers": [
+      "Voie Appienne",
+      "Route de la soie",
+      "Via Sacra",
+      "Chemin gaulois"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q77",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel dieu romain est le dieu de la mer ?",
+    "answers": [
+      "Neptune",
+      "Mars",
+      "Jupiter",
+      "Vulcain"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q78",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle civilisation antique est liée au Minotaure ?",
+    "answers": [
+      "Les Minoens",
+      "Les Mycéniens",
+      "Les Perses",
+      "Les Romains"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q79",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu égyptien du Soleil ?",
+    "answers": [
+      "Rê",
+      "Osiris",
+      "Anubis",
+      "Thot"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q80",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom de la cité détruite par le Vésuve avec Pompéi ?",
+    "answers": [
+      "Herculanum",
+      "Carthage",
+      "Troie",
+      "Athènes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q81",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique a inventé le théâtre ?",
+    "answers": [
+      "Les Grecs",
+      "Les Romains",
+      "Les Perses",
+      "Les Égyptiens"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q82",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du fleuve sacré de l'Inde antique ?",
+    "answers": [
+      "Le Gange",
+      "L'Indus",
+      "Le Tigre",
+      "Le Nil"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q83",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique est associé à l'alphabet latin ?",
+    "answers": [
+      "Les Romains",
+      "Les Grecs",
+      "Les Phéniciens",
+      "Les Perses"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q84",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu grec de la sagesse ?",
+    "answers": [
+      "Athéna",
+      "Héra",
+      "Artémis",
+      "Aphrodite"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q85",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle cité grecque était célèbre pour ses philosophes ?",
+    "answers": [
+      "Athènes",
+      "Sparte",
+      "Corinthe",
+      "Delphes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q86",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu romain du feu ?",
+    "answers": [
+      "Vulcain",
+      "Mars",
+      "Mercure",
+      "Neptune"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q87",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique a bâti les routes pavées en Europe ?",
+    "answers": [
+      "Les Romains",
+      "Les Grecs",
+      "Les Celtes",
+      "Les Germains"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q88",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel héros grec est connu pour son long voyage après Troie ?",
+    "answers": [
+      "Ulysse",
+      "Achille",
+      "Ajax",
+      "Hector"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q89",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique est associé aux légendes nordiques ?",
+    "answers": [
+      "Les Vikings",
+      "Les Grecs",
+      "Les Romains",
+      "Les Perses"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q90",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu égyptien des morts ?",
+    "answers": [
+      "Osiris",
+      "Rê",
+      "Horus",
+      "Seth"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q91",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle civilisation antique est associée aux cités de Tyrus et Sidon ?",
+    "answers": [
+      "Les Phéniciens",
+      "Les Grecs",
+      "Les Perses",
+      "Les Égyptiens"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q92",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du célèbre roi perse ?",
+    "answers": [
+      "Darius",
+      "Alexandre",
+      "César",
+      "Auguste"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q93",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique utilisait les chars de guerre ?",
+    "answers": [
+      "Les Égyptiens",
+      "Les Romains",
+      "Les Grecs",
+      "Les Celtes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q94",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du temple romain dédié à tous les dieux ?",
+    "answers": [
+      "Panthéon",
+      "Parthénon",
+      "Colisée",
+      "Forum"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q95",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique est associé à la cité de Mycènes ?",
+    "answers": [
+      "Les Mycéniens",
+      "Les Minoens",
+      "Les Romains",
+      "Les Perses"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q96",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu grec de la guerre stratégique ?",
+    "answers": [
+      "Athéna",
+      "Arès",
+      "Hermès",
+      "Apollon"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q97",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom de la célèbre bibliothèque antique d'Égypte ?",
+    "answers": [
+      "Bibliothèque d'Alexandrie",
+      "Bibliothèque de Rome",
+      "Bibliothèque d'Athènes",
+      "Bibliothèque de Carthage"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q98",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique a bâti le labyrinthe de Crète ?",
+    "answers": [
+      "Les Minoens",
+      "Les Mycéniens",
+      "Les Perses",
+      "Les Grecs"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q99",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu romain messager des dieux ?",
+    "answers": [
+      "Mercure",
+      "Mars",
+      "Jupiter",
+      "Neptune"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q100",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique est à l'origine des premiers Jeux Olympiques ?",
+    "answers": [
+      "Les Grecs",
+      "Les Romains",
+      "Les Perses",
+      "Les Égyptiens"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q101",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique est associé aux pyramides de Gizeh ?",
+    "answers": [
+      "Les Égyptiens",
+      "Les Grecs",
+      "Les Romains",
+      "Les Perses"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q102",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu grec des mers ?",
+    "answers": [
+      "Poséidon",
+      "Hadès",
+      "Apollon",
+      "Hermès"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q103",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle civilisation antique a inventé l'écriture alphabétique ?",
+    "answers": [
+      "Les Phéniciens",
+      "Les Égyptiens",
+      "Les Grecs",
+      "Les Romains"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q104",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu grec du ciel et des dieux ?",
+    "answers": [
+      "Zeus",
+      "Arès",
+      "Hadès",
+      "Hermès"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q105",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du fleuve qui traverse la Mésopotamie avec l'Euphrate ?",
+    "answers": [
+      "Le Tigre",
+      "Le Nil",
+      "Le Jourdain",
+      "L'Indus"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q106",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique est associé aux temples appelés ziggourats ?",
+    "answers": [
+      "Les Sumériens",
+      "Les Grecs",
+      "Les Romains",
+      "Les Égyptiens"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q107",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel empereur romain a succédé à Jules César ?",
+    "answers": [
+      "Auguste",
+      "Néron",
+      "Trajan",
+      "Hadrien"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q108",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique est célèbre pour la cité de Carthage ?",
+    "answers": [
+      "Les Phéniciens",
+      "Les Grecs",
+      "Les Romains",
+      "Les Égyptiens"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q109",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu grec de la musique ?",
+    "answers": [
+      "Apollon",
+      "Hermès",
+      "Arès",
+      "Hadès"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q110",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle civilisation antique est associée à la ville de Troie ?",
+    "answers": [
+      "Les Troyens",
+      "Les Romains",
+      "Les Perses",
+      "Les Égyptiens"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q111",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu romain équivalent de Poséidon ?",
+    "answers": [
+      "Neptune",
+      "Mars",
+      "Jupiter",
+      "Vulcain"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q112",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique a bâti le Parthénon ?",
+    "answers": [
+      "Les Grecs",
+      "Les Romains",
+      "Les Perses",
+      "Les Phéniciens"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q113",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu égyptien à tête de chacal ?",
+    "answers": [
+      "Anubis",
+      "Horus",
+      "Rê",
+      "Osiris"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q114",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom de la célèbre route commerciale antique reliant l'Orient et l'Occident ?",
+    "answers": [
+      "La route de la soie",
+      "La voie Appienne",
+      "La via Sacra",
+      "Le chemin des Gaules"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q115",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique est associé à la cité de Babylone ?",
+    "answers": [
+      "Les Babyloniens",
+      "Les Assyriens",
+      "Les Grecs",
+      "Les Romains"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q116",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu grec des morts ?",
+    "answers": [
+      "Hadès",
+      "Hermès",
+      "Arès",
+      "Dionysos"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q117",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel empereur romain est connu pour avoir construit un mur en Bretagne ?",
+    "answers": [
+      "Hadrien",
+      "Auguste",
+      "Trajan",
+      "Néron"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q118",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle civilisation antique est associée au labyrinthe de Crète ?",
+    "answers": [
+      "Les Minoens",
+      "Les Mycéniens",
+      "Les Grecs",
+      "Les Perses"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q119",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu romain du commerce ?",
+    "answers": [
+      "Mercure",
+      "Mars",
+      "Neptune",
+      "Vulcain"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q120",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique est connu pour ses philosophes comme Socrate et Platon ?",
+    "answers": [
+      "Les Grecs",
+      "Les Romains",
+      "Les Perses",
+      "Les Égyptiens"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q121",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu grec de la guerre violente ?",
+    "answers": [
+      "Arès",
+      "Athéna",
+      "Hermès",
+      "Apollon"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q122",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle civilisation antique est associée aux hiéroglyphes ?",
+    "answers": [
+      "Les Égyptiens",
+      "Les Grecs",
+      "Les Romains",
+      "Les Phéniciens"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q123",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du célèbre roi macédonien conquérant ?",
+    "answers": [
+      "Alexandre le Grand",
+      "Philippe II",
+      "César",
+      "Darius"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q124",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique a fondé la ville de Rome selon la légende ?",
+    "answers": [
+      "Les Romains",
+      "Les Grecs",
+      "Les Étrusques",
+      "Les Phéniciens"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q125",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu romain du ciel ?",
+    "answers": [
+      "Jupiter",
+      "Mars",
+      "Mercure",
+      "Vulcain"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q126",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle civilisation antique est associée aux Jeux Olympiques ?",
+    "answers": [
+      "Les Grecs",
+      "Les Romains",
+      "Les Perses",
+      "Les Égyptiens"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q127",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu égyptien du Soleil ?",
+    "answers": [
+      "Rê",
+      "Osiris",
+      "Anubis",
+      "Thot"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q128",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique est associé à la cité de Persépolis ?",
+    "answers": [
+      "Les Perses",
+      "Les Grecs",
+      "Les Romains",
+      "Les Babyloniens"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q129",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du célèbre code de lois babylonien ?",
+    "answers": [
+      "Code d'Hammurabi",
+      "Lois des Douze Tables",
+      "Code Justinien",
+      "Lex Romana"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q130",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle civilisation antique est associée aux cités de Ur et Uruk ?",
+    "answers": [
+      "Les Sumériens",
+      "Les Égyptiens",
+      "Les Grecs",
+      "Les Perses"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q131",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu grec messager des dieux ?",
+    "answers": [
+      "Hermès",
+      "Apollon",
+      "Arès",
+      "Hadès"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q132",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique est associé aux mosaïques romaines ?",
+    "answers": [
+      "Les Romains",
+      "Les Grecs",
+      "Les Perses",
+      "Les Égyptiens"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q133",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom de la cité antique ensevelie par le Vésuve avec Pompéi ?",
+    "answers": [
+      "Herculanum",
+      "Carthage",
+      "Troie",
+      "Athènes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q134",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle civilisation antique est associée au Parthénon ?",
+    "answers": [
+      "Les Grecs",
+      "Les Romains",
+      "Les Perses",
+      "Les Phéniciens"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q135",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu romain forgeron ?",
+    "answers": [
+      "Vulcain",
+      "Mars",
+      "Mercure",
+      "Jupiter"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q136",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique est associé aux temples de Karnak et Louxor ?",
+    "answers": [
+      "Les Égyptiens",
+      "Les Grecs",
+      "Les Romains",
+      "Les Perses"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q137",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu grec de l'amour ?",
+    "answers": [
+      "Aphrodite",
+      "Héra",
+      "Artémis",
+      "Athéna"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q138",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle civilisation antique est associée à la cité de Sparte ?",
+    "answers": [
+      "Les Grecs",
+      "Les Romains",
+      "Les Perses",
+      "Les Phéniciens"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q139",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du fleuve sacré de l'Égypte antique ?",
+    "answers": [
+      "Le Nil",
+      "Le Tigre",
+      "L'Euphrate",
+      "Le Jourdain"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q140",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique est associé à la ville de Byzance ?",
+    "answers": [
+      "Les Grecs",
+      "Les Romains",
+      "Les Perses",
+      "Les Égyptiens"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q141",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu romain des enfers ?",
+    "answers": [
+      "Pluton",
+      "Mars",
+      "Mercure",
+      "Jupiter"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q142",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle civilisation antique est associée à la Grande Muraille ?",
+    "answers": [
+      "La Chine antique",
+      "Les Romains",
+      "Les Perses",
+      "Les Grecs"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q143",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du célèbre héros grec roi d'Ithaque ?",
+    "answers": [
+      "Ulysse",
+      "Achille",
+      "Ajax",
+      "Persée"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q144",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique est associé à la cité de Delphes ?",
+    "answers": [
+      "Les Grecs",
+      "Les Romains",
+      "Les Perses",
+      "Les Égyptiens"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q145",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu égyptien de la sagesse ?",
+    "answers": [
+      "Thot",
+      "Rê",
+      "Anubis",
+      "Horus"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q146",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle civilisation antique est associée aux statues colossales des pharaons ?",
+    "answers": [
+      "Les Égyptiens",
+      "Les Grecs",
+      "Les Romains",
+      "Les Perses"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q147",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu grec des enfers chez les Romains ?",
+    "answers": [
+      "Pluton",
+      "Neptune",
+      "Mars",
+      "Vulcain"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q148",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique est associé à la cité de Pétra ?",
+    "answers": [
+      "Les Nabatéens",
+      "Les Grecs",
+      "Les Romains",
+      "Les Perses"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q149",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du célèbre philosophe grec condamné à mort à Athènes ?",
+    "answers": [
+      "Socrate",
+      "Platon",
+      "Aristote",
+      "Épicure"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q150",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle civilisation antique est associée aux aqueducs monumentaux ?",
+    "answers": [
+      "Les Romains",
+      "Les Grecs",
+      "Les Perses",
+      "Les Égyptiens"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q151",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique est associé à la cité de Carthage avant sa destruction ?",
+    "answers": [
+      "Les Phéniciens",
+      "Les Grecs",
+      "Les Romains",
+      "Les Perses"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q152",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu grec du feu et des forges ?",
+    "answers": [
+      "Héphaïstos",
+      "Apollon",
+      "Arès",
+      "Hermès"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q153",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique est associé aux premiers empires de Mésopotamie ?",
+    "answers": [
+      "Les Sumériens",
+      "Les Égyptiens",
+      "Les Grecs",
+      "Les Romains"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q154",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom de la cité grecque connue pour ses guerriers disciplinés ?",
+    "answers": [
+      "Sparte",
+      "Athènes",
+      "Corinthe",
+      "Thèbes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q155",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu romain de l'agriculture ?",
+    "answers": [
+      "Saturne",
+      "Mars",
+      "Mercure",
+      "Vulcain"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q156",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle civilisation antique est associée aux pyramides à degrés ?",
+    "answers": [
+      "Les Égyptiens",
+      "Les Grecs",
+      "Les Romains",
+      "Les Perses"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q157",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du célèbre général carthaginois ayant traversé les Alpes ?",
+    "answers": [
+      "Hannibal",
+      "Scipion",
+      "César",
+      "Alexandre"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q158",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique est associé aux temples d'Angkor ?",
+    "answers": [
+      "Les Khmers",
+      "Les Indiens",
+      "Les Chinois",
+      "Les Perses"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q159",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu grec du sommeil ?",
+    "answers": [
+      "Hypnos",
+      "Hadès",
+      "Hermès",
+      "Arès"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q160",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique est associé à l'invention du calendrier solaire ?",
+    "answers": [
+      "Les Égyptiens",
+      "Les Grecs",
+      "Les Romains",
+      "Les Celtes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q161",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu romain des océans ?",
+    "answers": [
+      "Neptune",
+      "Mars",
+      "Mercure",
+      "Jupiter"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q162",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle civilisation antique est associée à la cité de Persépolis ?",
+    "answers": [
+      "Les Perses",
+      "Les Grecs",
+      "Les Romains",
+      "Les Babyloniens"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q163",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du héros grec qui tua le Minotaure ?",
+    "answers": [
+      "Thésée",
+      "Héraclès",
+      "Persée",
+      "Achille"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q164",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique est associé à l'alphabet grec ?",
+    "answers": [
+      "Les Grecs",
+      "Les Romains",
+      "Les Phéniciens",
+      "Les Perses"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q165",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu égyptien à tête d'ibis ?",
+    "answers": [
+      "Thot",
+      "Horus",
+      "Anubis",
+      "Osiris"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q166",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle civilisation antique est associée aux thermes publics ?",
+    "answers": [
+      "Les Romains",
+      "Les Grecs",
+      "Les Égyptiens",
+      "Les Perses"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q167",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu grec de la chasse ?",
+    "answers": [
+      "Artémis",
+      "Héra",
+      "Athéna",
+      "Aphrodite"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q168",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique est associé à la construction du Colisée ?",
+    "answers": [
+      "Les Romains",
+      "Les Grecs",
+      "Les Perses",
+      "Les Égyptiens"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q169",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du fleuve sacré de la Mésopotamie avec le Tigre ?",
+    "answers": [
+      "L'Euphrate",
+      "Le Nil",
+      "Le Gange",
+      "Le Danube"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q170",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle civilisation antique est associée aux statues de l'île de Pâques ?",
+    "answers": [
+      "Les Rapa Nui",
+      "Les Mayas",
+      "Les Incas",
+      "Les Aztèques"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q171",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu romain du temps ?",
+    "answers": [
+      "Janus",
+      "Saturne",
+      "Mars",
+      "Mercure"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q172",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique est associé à la cité de Troie dans l'Iliade ?",
+    "answers": [
+      "Les Troyens",
+      "Les Grecs",
+      "Les Perses",
+      "Les Romains"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q173",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu grec du vent du nord ?",
+    "answers": [
+      "Borée",
+      "Zéphyr",
+      "Notos",
+      "Eurus"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q174",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle civilisation antique est associée aux temples de Palmyre ?",
+    "answers": [
+      "Les Romains",
+      "Les Grecs",
+      "Les Perses",
+      "Les Égyptiens"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q175",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du héros grec aux douze travaux ?",
+    "answers": [
+      "Héraclès",
+      "Thésée",
+      "Persée",
+      "Achille"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q176",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique est associé à la cité de Pékin ancienne ?",
+    "answers": [
+      "Les Chinois",
+      "Les Mongols",
+      "Les Perses",
+      "Les Indiens"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q177",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu égyptien protecteur des morts ?",
+    "answers": [
+      "Anubis",
+      "Rê",
+      "Horus",
+      "Seth"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q178",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle civilisation antique est associée aux cités de Tikal et Palenque ?",
+    "answers": [
+      "Les Mayas",
+      "Les Aztèques",
+      "Les Incas",
+      "Les Olmèques"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q179",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu romain de la chance ?",
+    "answers": [
+      "Fortuna",
+      "Vénus",
+      "Junon",
+      "Cérès"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q180",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique est associé à l'invention du papier ?",
+    "answers": [
+      "Les Chinois",
+      "Les Égyptiens",
+      "Les Grecs",
+      "Les Romains"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q181",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu grec du vin ?",
+    "answers": [
+      "Dionysos",
+      "Apollon",
+      "Hermès",
+      "Zeus"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q182",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle civilisation antique est associée à la cité de Machu Picchu ?",
+    "answers": [
+      "Les Incas",
+      "Les Mayas",
+      "Les Aztèques",
+      "Les Olmèques"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q183",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu romain du foyer ?",
+    "answers": [
+      "Vesta",
+      "Junon",
+      "Cérès",
+      "Vénus"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q184",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique est associé aux célèbres moaï ?",
+    "answers": [
+      "Les Rapa Nui",
+      "Les Mayas",
+      "Les Incas",
+      "Les Aztèques"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q185",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu grec de la mer ?",
+    "answers": [
+      "Poséidon",
+      "Zeus",
+      "Hadès",
+      "Apollon"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q186",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle civilisation antique est associée aux cités de Memphis et Thèbes ?",
+    "answers": [
+      "Les Égyptiens",
+      "Les Grecs",
+      "Les Perses",
+      "Les Romains"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q187",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu grec de la forge chez les Romains ?",
+    "answers": [
+      "Vulcain",
+      "Mars",
+      "Mercure",
+      "Neptune"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q188",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique est associé à la cité de Babylone et ses murailles ?",
+    "answers": [
+      "Les Babyloniens",
+      "Les Assyriens",
+      "Les Perses",
+      "Les Grecs"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q189",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du héros grec qui vainquit Méduse ?",
+    "answers": [
+      "Persée",
+      "Héraclès",
+      "Thésée",
+      "Achille"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q190",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle civilisation antique est associée aux cités de Teotihuacan ?",
+    "answers": [
+      "Les Mésoaméricains",
+      "Les Mayas",
+      "Les Aztèques",
+      "Les Incas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q191",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu romain du mariage ?",
+    "answers": [
+      "Junon",
+      "Vénus",
+      "Cérès",
+      "Vesta"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q192",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique est associé à la cité de Jéricho, l'une des plus anciennes villes ?",
+    "answers": [
+      "Les Cananéens",
+      "Les Grecs",
+      "Les Romains",
+      "Les Perses"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q193",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu grec du soleil ?",
+    "answers": [
+      "Hélios",
+      "Apollon",
+      "Zeus",
+      "Hermès"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q194",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle civilisation antique est associée aux cités de Mohenjo-Daro et Harappa ?",
+    "answers": [
+      "La civilisation de l'Indus",
+      "Les Perses",
+      "Les Sumériens",
+      "Les Chinois"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q195",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu romain de la médecine ?",
+    "answers": [
+      "Esculape",
+      "Apollon",
+      "Mercure",
+      "Vulcain"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q196",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique est associé aux temples de Baalbek ?",
+    "answers": [
+      "Les Romains",
+      "Les Grecs",
+      "Les Phéniciens",
+      "Les Perses"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q197",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu grec de la fertilité masculine ?",
+    "answers": [
+      "Priape",
+      "Pan",
+      "Hermès",
+      "Arès"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q198",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quelle civilisation antique est associée aux cités de Chichén Itzá ?",
+    "answers": [
+      "Les Mayas",
+      "Les Aztèques",
+      "Les Incas",
+      "Les Olmèques"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q199",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel est le nom du dieu romain de la vigne ?",
+    "answers": [
+      "Bacchus",
+      "Mars",
+      "Mercure",
+      "Vulcain"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q200",
+    "category": "Antiquité",
+    "difficulty": "Facile",
+    "text": "Quel peuple antique est à l'origine des premiers Jeux Olympiques antiques ?",
+    "answers": [
+      "Les Grecs",
+      "Les Romains",
+      "Les Perses",
+      "Les Égyptiens"
+    ],
+    "correctIndex": 0
   }
 ]
