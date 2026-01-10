@@ -3,3900 +3,1616 @@
     "id": "q1",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert le pôle Nord géographique ?",
-    "answers": [
-      "Robert Peary",
-      "Roald Amundsen",
-      "Fridtjof Nansen",
-      "Frederick Cook"
-    ],
+    "text": "Quel scientifique a formulé l’équation décrivant le rayonnement d’un corps noir en 1900 ?",
+    "answers": ["Max Planck", "Einstein", "Wien", "Rayleigh"],
     "correctIndex": 0
   },
   {
     "id": "q2",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
-    "answers": [
-      "Ernest Shackleton",
-      "Robert Falcon Scott",
-      "Douglas Mawson",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur est associé à la première traversée européenne documentée du désert du Taklamakan ?",
+    "answers": ["Aurel Stein", "Sven Hedin", "Prjevalski", "Younghusband"],
+    "correctIndex": 1
   },
   {
     "id": "q3",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
-    "answers": [
-      "Henry Hudson",
-      "Roald Amundsen",
-      "James Clark Ross",
-      "Willem Barentsz"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert l’existence du fond diffus cosmologique par observation accidentelle ?",
+    "answers": ["Gamow", "Dicke", "Penzias", "Alpher"],
+    "correctIndex": 2
   },
   {
     "id": "q4",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert la baie de San Francisco ?",
-    "answers": [
-      "Juan Rodríguez Cabrillo",
-      "Gaspar de Portolá",
-      "Sebastián Vizcaíno",
-      "Francisco de Ulloa"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé au premier réacteur nucléaire expérimental auto-entretenu ?",
+    "answers": ["Fermi", "Szilard", "Oppenheimer", "Chicago Pile-1"],
+    "correctIndex": 3
   },
   {
     "id": "q5",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert la baie de San Francisco ?",
-    "answers": [
-      "Francisco de Ulloa",
-      "Sebastián Vizcaíno",
-      "Juan Rodríguez Cabrillo",
-      "Gaspar de Portolá"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a formulé le théorème d’incomplétude démontrant les limites des systèmes formels ?",
+    "answers": ["Kurt Gödel", "Turing", "Hilbert", "Church"],
+    "correctIndex": 0
   },
   {
     "id": "q6",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert l'archipel Juan Fernández ?",
-    "answers": [
-      "William Dampier",
-      "Francis Drake",
-      "Juan Fernández",
-      "Pedro Sarmiento de Gamboa"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est associé à la reconnaissance européenne du bassin du Tarim ?",
+    "answers": ["Stein", "Sven Hedin", "Younghusband", "Aurel Le Coq"],
+    "correctIndex": 1
   },
   {
     "id": "q7",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert la baie de San Francisco ?",
-    "answers": [
-      "Gaspar de Portolá",
-      "Juan Rodríguez Cabrillo",
-      "Sebastián Vizcaíno",
-      "Francisco de Ulloa"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la violation de la symétrie CP dans les mésons kaons ?",
+    "answers": ["Pauli", "Fitch", "Cronin", "Gell-Mann"],
+    "correctIndex": 2
   },
   {
     "id": "q8",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
-    "answers": [
-      "Roald Amundsen",
-      "Robert Falcon Scott",
-      "Ernest Shackleton",
-      "Douglas Mawson"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est associé au premier dispositif fonctionnel de mémoire informatique à tores magnétiques ?",
+    "answers": ["IBM", "Bell Labs", "MIT", "Jay Forrester"],
+    "correctIndex": 3
   },
   {
     "id": "q9",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert l'île de Pâques en 1722 ?",
-    "answers": [
-      "James Cook",
-      "Pedro Fernandes de Queirós",
-      "Jacob Roggeveen",
-      "Abel Tasman"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a formulé la théorie de la tectonique des plaques moderne ?",
+    "answers": ["J. Tuzo Wilson", "Wegener", "Hess", "Lyell"],
+    "correctIndex": 0
   },
   {
     "id": "q10",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
-    "answers": [
-      "Ibn Battuta",
-      "Ma Huan",
-      "Zheng He",
-      "Wang Dayuan"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est associé à la première reconnaissance européenne du fleuve Syr-Daria supérieur ?",
+    "answers": ["Fedchenko", "Semenov-Tian-Shansky", "Prjevalski", "Obruchev"],
+    "correctIndex": 1
   },
+
   {
     "id": "q11",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
-    "answers": [
-      "Willem Barentsz",
-      "Roald Amundsen",
-      "Henry Hudson",
-      "James Clark Ross"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la loi de la diffusion anormale fractale ?",
+    "answers": ["Einstein", "Smoluchowski", "Benoît Mandelbrot", "Lévy"],
+    "correctIndex": 2
   },
   {
     "id": "q12",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
-    "answers": [
-      "Vitous Béring",
-      "Alexei Chirikov",
-      "Mikhail Gvozdev",
-      "Ivan Kruzenshtern"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé au premier accélérateur de particules cyclotron ?",
+    "answers": ["Fermi", "Cockcroft", "Walton", "Ernest Lawrence"],
+    "correctIndex": 3
   },
   {
     "id": "q13",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert la baie de San Francisco ?",
-    "answers": [
-      "Juan Rodríguez Cabrillo",
-      "Francisco de Ulloa",
-      "Sebastián Vizcaíno",
-      "Gaspar de Portolá"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a formulé le principe d’incertitude en mécanique quantique ?",
+    "answers": ["Werner Heisenberg", "Bohr", "Pauli", "Dirac"],
+    "correctIndex": 0
   },
   {
     "id": "q14",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
-    "answers": [
-      "Willem Barentsz",
-      "Henry Hudson",
-      "Roald Amundsen",
-      "James Clark Ross"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur est associé à la reconnaissance européenne du plateau de l’Oust-Ourt ?",
+    "answers": ["Krasnov", "Nikolai Prjevalski", "Potanin", "Obruchev"],
+    "correctIndex": 1
   },
   {
     "id": "q15",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert l'île de Pâques en 1722 ?",
-    "answers": [
-      "James Cook",
-      "Pedro Fernandes de Queirós",
-      "Jacob Roggeveen",
-      "Abel Tasman"
-    ],
+    "text": "Quel scientifique a découvert l’effet Mössbauer ?",
+    "answers": ["Debye", "Bloch", "Rudolf Mössbauer", "Pauli"],
     "correctIndex": 2
   },
   {
     "id": "q16",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
-    "answers": [
-      "Wang Dayuan",
-      "Ma Huan",
-      "Zheng He",
-      "Ibn Battuta"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est associé au premier réseau expérimental ARPANET ?",
+    "answers": ["IBM", "Bell Labs", "RAND", "Lawrence Roberts"],
+    "correctIndex": 3
   },
   {
     "id": "q17",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
-    "answers": [
-      "Ernest Shackleton",
-      "Robert Falcon Scott",
-      "Douglas Mawson",
-      "Roald Amundsen"
-    ],
+    "text": "Quel scientifique a formulé la théorie de l’inflation cosmique ?",
+    "answers": ["Alan Guth", "Linde", "Hawking", "Starobinsky"],
     "correctIndex": 0
   },
   {
     "id": "q18",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
-    "answers": [
-      "Ivan Kruzenshtern",
-      "Vitous Béring",
-      "Alexei Chirikov",
-      "Mikhail Gvozdev"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Amou-Daria inférieur ?",
+    "answers": ["Burnes", "Arminius Vámbéry", "Prjevalski", "Semenov"],
+    "correctIndex": 1
   },
   {
     "id": "q19",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
-    "answers": [
-      "Henry Morton Stanley",
-      "John Hanning Speke",
-      "David Livingstone",
-      "Richard Francis Burton"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert la structure cristalline de l’ADN par diffraction des rayons X ?",
+    "answers": ["Watson", "Crick", "Rosalind Franklin", "Wilkins"],
+    "correctIndex": 2
   },
   {
     "id": "q20",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert le pôle Nord géographique ?",
-    "answers": [
-      "Fridtjof Nansen",
-      "Frederick Cook",
-      "Robert Peary",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est associé au premier système GPS opérationnel complet ?",
+    "answers": ["NASA", "US Navy", "ESA", "Navstar"],
+    "correctIndex": 3
   },
+
   {
     "id": "q21",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
-    "answers": [
-      "Zheng He",
-      "Ibn Battuta",
-      "Al-Masudi",
-      "Ahmad ibn Majid"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a formulé le théorème de Noether reliant symétries et lois de conservation ?",
+    "answers": ["Emmy Noether", "Hilbert", "Einstein", "Weyl"],
+    "correctIndex": 0
   },
   {
     "id": "q22",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert l'île de Pâques en 1722 ?",
-    "answers": [
-      "Jacob Roggeveen",
-      "Pedro Fernandes de Queirós",
-      "James Cook",
-      "Abel Tasman"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur est associé à la reconnaissance européenne du massif du Pamir oriental ?",
+    "answers": ["Hedin", "Younghusband", "Prjevalski", "Fedchenko"],
+    "correctIndex": 1
   },
   {
     "id": "q23",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
-    "answers": [
-      "Vitous Béring",
-      "Alexei Chirikov",
-      "Ivan Kruzenshtern",
-      "Mikhail Gvozdev"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert la loi de la localisation quantique d’Anderson ?",
+    "answers": ["Mott", "Bloch", "Philip Anderson", "Wigner"],
+    "correctIndex": 2
   },
   {
     "id": "q24",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert l'île de Pâques en 1722 ?",
-    "answers": [
-      "James Cook",
-      "Pedro Fernandes de Queirós",
-      "Jacob Roggeveen",
-      "Abel Tasman"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est associé au premier ordinateur électronique programmable opérationnel ?",
+    "answers": ["Zuse", "Turing", "Atanasoff", "ENIAC"],
+    "correctIndex": 3
   },
   {
     "id": "q25",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert l'archipel Juan Fernández ?",
-    "answers": [
-      "Pedro Sarmiento de Gamboa",
-      "Francis Drake",
-      "Juan Fernández",
-      "William Dampier"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a formulé l’équation de Dirac unifiant mécanique quantique et relativité restreinte ?",
+    "answers": ["Paul Dirac", "Feynman", "Pauli", "Schrödinger"],
+    "correctIndex": 0
   },
   {
     "id": "q26",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
-    "answers": [
-      "Vitous Béring",
-      "Mikhail Gvozdev",
-      "Alexei Chirikov",
-      "Ivan Kruzenshtern"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est associé à la reconnaissance européenne du désert de Gobi méridional ?",
+    "answers": ["Hedin", "Roy Chapman Andrews", "Prjevalski", "Potanin"],
+    "correctIndex": 1
   },
   {
     "id": "q27",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert l'île de Pâques en 1722 ?",
-    "answers": [
-      "Jacob Roggeveen",
-      "James Cook",
-      "Abel Tasman",
-      "Pedro Fernandes de Queirós"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la loi de la fluctuation-dissipation en physique statistique ?",
+    "answers": ["Nyquist", "Onsager", "Callen", "Einstein"],
+    "correctIndex": 2
   },
   {
     "id": "q28",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
-    "answers": [
-      "Al-Masudi",
-      "Zheng He",
-      "Ahmad ibn Majid",
-      "Ibn Battuta"
-    ],
+    "text": "Quel inventeur est associé au premier microscope électronique à transmission ?",
+    "answers": ["Siemens", "Philips", "RCA", "Ernst Ruska"],
     "correctIndex": 3
   },
   {
     "id": "q29",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
-    "answers": [
-      "Ernest Shackleton",
-      "Roald Amundsen",
-      "Robert Falcon Scott",
-      "Douglas Mawson"
-    ],
+    "text": "Quel scientifique a formulé la théorie des cordes bosoniques initiales ?",
+    "answers": ["Gabriele Veneziano", "Witten", "Nambu", "Gross"],
     "correctIndex": 0
   },
   {
     "id": "q30",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
-    "answers": [
-      "Alexei Chirikov",
-      "Vitous Béring",
-      "Mikhail Gvozdev",
-      "Ivan Kruzenshtern"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Irtych supérieur ?",
+    "answers": ["Semenov", "Potanin", "Prjevalski", "Obruchev"],
+    "correctIndex": 1
   },
+
   {
     "id": "q31",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
-    "answers": [
-      "Henry Morton Stanley",
-      "David Livingstone",
-      "John Hanning Speke",
-      "Richard Francis Burton"
-    ],
+    "text": "Quel scientifique a découvert la loi de la supraconductivité BCS ?",
+    "answers": ["Abrikosov", "Ginzburg", "Bardeen", "Cooper"],
     "correctIndex": 2
   },
   {
     "id": "q32",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
-    "answers": [
-      "Ahmad ibn Majid",
-      "Al-Masudi",
-      "Zheng He",
-      "Ibn Battuta"
-    ],
+    "text": "Quel inventeur est associé au premier réseau mondial de satellites météorologiques ?",
+    "answers": ["NASA", "ESA", "EUMETSAT", "TIROS"],
     "correctIndex": 3
   },
   {
     "id": "q33",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
-    "answers": [
-      "Wang Dayuan",
-      "Ibn Battuta",
-      "Ma Huan",
-      "Zheng He"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a formulé la loi de l’entropie statistique ?",
+    "answers": ["Ludwig Boltzmann", "Clausius", "Gibbs", "Maxwell"],
+    "correctIndex": 0
   },
   {
     "id": "q34",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
-    "answers": [
-      "Roald Amundsen",
-      "Ernest Shackleton",
-      "Robert Falcon Scott",
-      "Douglas Mawson"
-    ],
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Lena inférieur ?",
+    "answers": ["Wrangel", "Toll", "Chekanovsky", "Nordenskiöld"],
     "correctIndex": 1
   },
   {
     "id": "q35",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
-    "answers": [
-      "Zheng He",
-      "Wang Dayuan",
-      "Ma Huan",
-      "Ibn Battuta"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la loi de la recombinaison génétique chez les bactéries ?",
+    "answers": ["Delbrück", "Luria", "Joshua Lederberg", "Watson"],
+    "correctIndex": 2
   },
   {
     "id": "q36",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
-    "answers": [
-      "Willem Barentsz",
-      "Henry Hudson",
-      "James Clark Ross",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 0
+    "text": "Quel inventeur est associé au premier avion supersonique opérationnel ?",
+    "answers": ["North American", "Dassault", "Tupolev", "Bell X-1"],
+    "correctIndex": 3
   },
   {
     "id": "q37",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
-    "answers": [
-      "Douglas Mawson",
-      "Robert Falcon Scott",
-      "Roald Amundsen",
-      "Ernest Shackleton"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a formulé la théorie des transitions de phase critiques modernes ?",
+    "answers": ["Kenneth Wilson", "Landau", "Onsager", "Fisher"],
+    "correctIndex": 0
   },
   {
     "id": "q38",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
-    "answers": [
-      "James Clark Ross",
-      "Willem Barentsz",
-      "Roald Amundsen",
-      "Henry Hudson"
-    ],
+    "text": "Quel explorateur est associé à la reconnaissance européenne du bassin du Kouban ?",
+    "answers": ["Dubois de Montpéreux", "Potocki", "Gmelin", "Pallas"],
     "correctIndex": 1
   },
   {
     "id": "q39",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
-    "answers": [
-      "Ibn Battuta",
-      "Wang Dayuan",
-      "Ma Huan",
-      "Zheng He"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert la loi de la plasticité neuronale dépendante du temps ?",
+    "answers": ["Hebb", "Bliss", "Bi et Poo", "Kandel"],
+    "correctIndex": 2
   },
   {
     "id": "q40",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
-    "answers": [
-      "Roald Amundsen",
-      "Willem Barentsz",
-      "Henry Hudson",
-      "James Clark Ross"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé au premier détecteur de neutrinos opérationnel ?",
+    "answers": ["CERN", "Kamiokande", "Super-K", "Raymond Davis Jr."],
+    "correctIndex": 3
   },
+
   {
     "id": "q41",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert l'archipel Juan Fernández ?",
-    "answers": [
-      "Francis Drake",
-      "Juan Fernández",
-      "William Dampier",
-      "Pedro Sarmiento de Gamboa"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a formulé la loi de la conservation du nombre baryonique ?",
+    "answers": ["Gell-Mann", "Sakharov", "Fermi", "Weinberg"],
+    "correctIndex": 0
   },
   {
     "id": "q42",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
-    "answers": [
-      "Ibn Battuta",
-      "Zheng He",
-      "Ma Huan",
-      "Wang Dayuan"
-    ],
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Kolyma ?",
+    "answers": ["Dezhnev", "Stadukhin", "Wrangel", "Laptev"],
     "correctIndex": 1
   },
   {
     "id": "q43",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert le pôle Nord géographique ?",
-    "answers": [
-      "Fridtjof Nansen",
-      "Roald Amundsen",
-      "Frederick Cook",
-      "Robert Peary"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert la loi de la superfluidité de l’hélium II ?",
+    "answers": ["Landau", "Kapitza", "Fritz London", "Onsager"],
+    "correctIndex": 2
   },
   {
     "id": "q44",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
-    "answers": [
-      "Mikhail Gvozdev",
-      "Ivan Kruzenshtern",
-      "Vitous Béring",
-      "Alexei Chirikov"
-    ],
+    "text": "Quel inventeur est associé au premier réseau de téléphonie mobile cellulaire ?",
+    "answers": ["AT&T", "Motorola", "Bell Labs", "Martin Cooper"],
     "correctIndex": 3
   },
   {
     "id": "q45",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert l'île de Pâques en 1722 ?",
-    "answers": [
-      "James Cook",
-      "Pedro Fernandes de Queirós",
-      "Jacob Roggeveen",
-      "Abel Tasman"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a formulé l’équation de Schrödinger dépendante du temps ?",
+    "answers": ["Erwin Schrödinger", "Heisenberg", "Dirac", "Born"],
+    "correctIndex": 0
   },
   {
     "id": "q46",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert l'île de Pâques en 1722 ?",
-    "answers": [
-      "James Cook",
-      "Jacob Roggeveen",
-      "Pedro Fernandes de Queirós",
-      "Abel Tasman"
-    ],
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Oleniok ?",
+    "answers": ["Wrangel", "Chekanovsky", "Nordenskiöld", "Toll"],
     "correctIndex": 1
   },
   {
     "id": "q47",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert le pôle Nord géographique ?",
-    "answers": [
-      "Roald Amundsen",
-      "Frederick Cook",
-      "Robert Peary",
-      "Fridtjof Nansen"
-    ],
+    "text": "Quel scientifique a découvert la loi de la transmission chimique synaptique ?",
+    "answers": ["Sherrington", "Eccles", "Otto Loewi", "Dale"],
     "correctIndex": 2
   },
   {
     "id": "q48",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
-    "answers": [
-      "Henry Hudson",
-      "Willem Barentsz",
-      "Roald Amundsen",
-      "James Clark Ross"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé au premier moteur ionique spatial opérationnel ?",
+    "answers": ["NASA", "ESA", "JAXA", "Harold Kaufman"],
+    "correctIndex": 3
   },
   {
     "id": "q49",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
-    "answers": [
-      "Alexei Chirikov",
-      "Vitous Béring",
-      "Ivan Kruzenshtern",
-      "Mikhail Gvozdev"
-    ],
+    "text": "Quel scientifique a formulé la théorie quantique des champs moderne renormalisable ?",
+    "answers": ["Steven Weinberg", "Feynman", "Schwinger", "Dyson"],
     "correctIndex": 0
   },
   {
     "id": "q50",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert l'archipel Juan Fernández ?",
-    "answers": [
-      "Pedro Sarmiento de Gamboa",
-      "Juan Fernández",
-      "William Dampier",
-      "Francis Drake"
-    ],
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Vitim ?",
+    "answers": ["Chekanovsky", "Stadukhin", "Dezhnev", "Wrangel"],
     "correctIndex": 1
   },
   {
     "id": "q51",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert l'archipel Juan Fernández ?",
-    "answers": [
-      "Pedro Sarmiento de Gamboa",
-      "Francis Drake",
-      "Juan Fernández",
-      "William Dampier"
-    ],
+    "text": "Quel scientifique a démontré la violation de la symétrie T en physique des particules ?",
+    "answers": ["Pauli", "Cronin", "Val Fitch", "Sakharov"],
     "correctIndex": 2
   },
   {
     "id": "q52",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert le pôle Nord géographique ?",
-    "answers": [
-      "Frederick Cook",
-      "Roald Amundsen",
-      "Robert Peary",
-      "Fridtjof Nansen"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Aldan en Sibérie orientale ?",
+    "answers": ["Wrangel", "Chekanovsky", "Middendorff", "Stadukhin"],
+    "correctIndex": 3
   },
   {
     "id": "q53",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
-    "answers": [
-      "Richard Francis Burton",
-      "Henry Morton Stanley",
-      "John Hanning Speke",
-      "David Livingstone"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a formulé la loi de la brisure spontanée de symétrie en théorie quantique des champs ?",
+    "answers": ["Higgs", "Nambu", "Goldstone", "Weinberg"],
+    "correctIndex": 0
   },
   {
     "id": "q54",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert la baie de San Francisco ?",
-    "answers": [
-      "Sebastián Vizcaíno",
-      "Gaspar de Portolá",
-      "Juan Rodríguez Cabrillo",
-      "Francisco de Ulloa"
-    ],
+    "text": "Quel inventeur est associé au premier circuit intégré monolithique fonctionnel ?",
+    "answers": ["Kilby", "Noyce", "Shockley", "Fairchild"],
     "correctIndex": 1
   },
   {
     "id": "q55",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
-    "answers": [
-      "David Livingstone",
-      "John Hanning Speke",
-      "Henry Morton Stanley",
-      "Richard Francis Burton"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert l’effet Hall quantique entier ?",
+    "answers": ["Laughlin", "Tsui", "Klaus von Klitzing", "Halperin"],
+    "correctIndex": 2
   },
   {
     "id": "q56",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert l'île de Pâques en 1722 ?",
-    "answers": [
-      "James Cook",
-      "Jacob Roggeveen",
-      "Abel Tasman",
-      "Pedro Fernandes de Queirós"
-    ],
-    "correctIndex": 1
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Usuri ?",
+    "answers": ["Nevelskoy", "Muravyov-Amursky", "Prjevalski", "Arseniev"],
+    "correctIndex": 3
   },
   {
     "id": "q57",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
-    "answers": [
-      "Zheng He",
-      "Al-Masudi",
-      "Ahmad ibn Majid",
-      "Ibn Battuta"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a formulé l’équation de Gross–Pitaevskii pour les condensats de Bose-Einstein ?",
+    "answers": ["Gross", "Bogolioubov", "Pitaevskii", "Landau"],
+    "correctIndex": 0
   },
   {
     "id": "q58",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
-    "answers": [
-      "Willem Barentsz",
-      "James Clark Ross",
-      "Roald Amundsen",
-      "Henry Hudson"
-    ],
-    "correctIndex": 0
+    "text": "Quel inventeur est associé au premier réacteur nucléaire surgénérateur expérimental ?",
+    "answers": ["Fermi", "Seaborg", "Bethe", "EBR-I"],
+    "correctIndex": 1
   },
   {
     "id": "q59",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
-    "answers": [
-      "Wang Dayuan",
-      "Ma Huan",
-      "Zheng He",
-      "Ibn Battuta"
-    ],
+    "text": "Quel scientifique a découvert la loi de la percolation critique ?",
+    "answers": ["Stauffer", "Fisher", "Hammersley", "Broadbent"],
     "correctIndex": 2
   },
   {
     "id": "q60",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
-    "answers": [
-      "Ibn Battuta",
-      "Zheng He",
-      "Al-Masudi",
-      "Ahmad ibn Majid"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Katoun ?",
+    "answers": ["Potanin", "Semenov", "Obruchev", "Sapozhnikov"],
+    "correctIndex": 3
   },
+
   {
     "id": "q61",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert la baie de San Francisco ?",
-    "answers": [
-      "Gaspar de Portolá",
-      "Juan Rodríguez Cabrillo",
-      "Sebastián Vizcaíno",
-      "Francisco de Ulloa"
-    ],
+    "text": "Quel scientifique a formulé la loi de la baryogénèse hors équilibre ?",
+    "answers": ["Sakharov", "Gell-Mann", "Weinberg", "Zeldovich"],
     "correctIndex": 0
   },
   {
     "id": "q62",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert la baie de San Francisco ?",
-    "answers": [
-      "Juan Rodríguez Cabrillo",
-      "Francisco de Ulloa",
-      "Sebastián Vizcaíno",
-      "Gaspar de Portolá"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Salouen supérieur ?",
+    "answers": ["Hedin", "Francis Younghusband", "Rockhill", "Bailey"],
+    "correctIndex": 1
   },
   {
     "id": "q63",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
-    "answers": [
-      "Ibn Battuta",
-      "Ahmad ibn Majid",
-      "Al-Masudi",
-      "Zheng He"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la loi de la superposition macroscopique quantique expérimentale ?",
+    "answers": ["Leggett", "Schrödinger", "Zeilinger", "Everett"],
+    "correctIndex": 2
   },
   {
     "id": "q64",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
-    "answers": [
-      "Robert Falcon Scott",
-      "Roald Amundsen",
-      "Douglas Mawson",
-      "Ernest Shackleton"
-    ],
+    "text": "Quel inventeur est associé au premier calculateur électronique binaire programmable en Europe ?",
+    "answers": ["Zuse", "Turing", "Babbage", "Colossus"],
     "correctIndex": 3
   },
   {
     "id": "q65",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert l'île de Pâques en 1722 ?",
-    "answers": [
-      "Abel Tasman",
-      "Jacob Roggeveen",
-      "Pedro Fernandes de Queirós",
-      "James Cook"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a formulé la théorie de la décohérence quantique moderne ?",
+    "answers": ["Wojciech Zurek", "Everett", "Zeilinger", "Bohr"],
+    "correctIndex": 0
   },
   {
     "id": "q66",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
-    "answers": [
-      "Zheng He",
-      "Ma Huan",
-      "Ibn Battuta",
-      "Wang Dayuan"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Tchoulychman ?",
+    "answers": ["Potanin", "Sapozhnikov", "Semenov", "Obruchev"],
+    "correctIndex": 1
   },
   {
     "id": "q67",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert le pôle Nord géographique ?",
-    "answers": [
-      "Roald Amundsen",
-      "Robert Peary",
-      "Frederick Cook",
-      "Fridtjof Nansen"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert la loi de la dynamique chaotique déterministe ?",
+    "answers": ["Lorenz", "Feigenbaum", "Poincaré", "Smale"],
+    "correctIndex": 2
   },
   {
     "id": "q68",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
-    "answers": [
-      "Richard Francis Burton",
-      "Henry Morton Stanley",
-      "David Livingstone",
-      "John Hanning Speke"
-    ],
+    "text": "Quel inventeur est associé au premier réacteur nucléaire refroidi au sodium ?",
+    "answers": ["Seaborg", "Fermi", "Bethe", "Clementine"],
     "correctIndex": 3
   },
   {
     "id": "q69",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
-    "answers": [
-      "Alexei Chirikov",
-      "Vitous Béring",
-      "Ivan Kruzenshtern",
-      "Mikhail Gvozdev"
-    ],
+    "text": "Quel scientifique a formulé la théorie des transitions topologiques de phase ?",
+    "answers": ["Kosterlitz", "Berezinskii", "Thouless", "Haldane"],
     "correctIndex": 0
   },
   {
     "id": "q70",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert la baie de San Francisco ?",
-    "answers": [
-      "Sebastián Vizcaíno",
-      "Francisco de Ulloa",
-      "Juan Rodríguez Cabrillo",
-      "Gaspar de Portolá"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Indus supérieur ?",
+    "answers": ["Younghusband", "Francis Younghusband", "Godwin-Austen", "Biddulph"],
+    "correctIndex": 1
   },
+
   {
     "id": "q71",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert la baie de San Francisco ?",
-    "answers": [
-      "Francisco de Ulloa",
-      "Juan Rodríguez Cabrillo",
-      "Gaspar de Portolá",
-      "Sebastián Vizcaíno"
-    ],
+    "text": "Quel scientifique a découvert la loi de l’effet Casimir quantique ?",
+    "answers": ["Dirac", "Lifshitz", "Hendrik Casimir", "Schwinger"],
     "correctIndex": 2
   },
   {
     "id": "q72",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
-    "answers": [
-      "Henry Morton Stanley",
-      "Richard Francis Burton",
-      "John Hanning Speke",
-      "David Livingstone"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est associé au premier système de communication quantique par satellite ?",
+    "answers": ["NASA", "ESA", "JAXA", "Micius"],
+    "correctIndex": 3
   },
   {
     "id": "q73",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert l'archipel Juan Fernández ?",
-    "answers": [
-      "Francis Drake",
-      "Pedro Sarmiento de Gamboa",
-      "Juan Fernández",
-      "William Dampier"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a formulé la loi de la gravité quantique asymptotiquement sûre ?",
+    "answers": ["Steven Weinberg", "Hawking", "Rovelli", "Ashtekar"],
+    "correctIndex": 0
   },
   {
     "id": "q74",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
-    "answers": [
-      "Mikhail Gvozdev",
-      "Ivan Kruzenshtern",
-      "Alexei Chirikov",
-      "Vitous Béring"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Ili ?",
+    "answers": ["Semenov", "Valikhanov", "Prjevalski", "Potanin"],
+    "correctIndex": 1
   },
   {
     "id": "q75",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
-    "answers": [
-      "Ma Huan",
-      "Wang Dayuan",
-      "Ibn Battuta",
-      "Zheng He"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert la loi de la dynamique des réseaux neuronaux artificiels ?",
+    "answers": ["McCulloch", "Hopfield", "Rumelhart", "LeCun"],
+    "correctIndex": 2
   },
   {
     "id": "q76",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
-    "answers": [
-      "Ivan Kruzenshtern",
-      "Alexei Chirikov",
-      "Mikhail Gvozdev",
-      "Vitous Béring"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé au premier laser à électrons libres ?",
+    "answers": ["Fermi", "Madey", "Bloembergen", "Townes"],
+    "correctIndex": 3
   },
   {
     "id": "q77",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert la baie de San Francisco ?",
-    "answers": [
-      "Sebastián Vizcaíno",
-      "Juan Rodríguez Cabrillo",
-      "Gaspar de Portolá",
-      "Francisco de Ulloa"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a formulé la théorie mathématique des catastrophes ?",
+    "answers": ["René Thom", "Smale", "Arnold", "Poincaré"],
+    "correctIndex": 0
   },
   {
     "id": "q78",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
-    "answers": [
-      "Henry Morton Stanley",
-      "Richard Francis Burton",
-      "David Livingstone",
-      "John Hanning Speke"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Sary-Djaz ?",
+    "answers": ["Semenov", "Merzbacher", "Prjevalski", "Potanin"],
+    "correctIndex": 1
   },
   {
     "id": "q79",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
-    "answers": [
-      "Henry Morton Stanley",
-      "David Livingstone",
-      "Richard Francis Burton",
-      "John Hanning Speke"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert la loi de la transition métal-isolant d’Anderson ?",
+    "answers": ["Mott", "Bloch", "Philip Anderson", "Hubbard"],
+    "correctIndex": 2
   },
   {
     "id": "q80",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
-    "answers": [
-      "Willem Barentsz",
-      "Henry Hudson",
-      "James Clark Ross",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 0
+    "text": "Quel inventeur est associé au premier satellite artificiel chinois ?",
+    "answers": ["CNSA", "CAS", "Long March", "Dong Fang Hong 1"],
+    "correctIndex": 3
   },
+
   {
     "id": "q81",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
-    "answers": [
-      "Richard Francis Burton",
-      "John Hanning Speke",
-      "David Livingstone",
-      "Henry Morton Stanley"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a formulé la loi de la conservation topologique des défauts quantiques ?",
+    "answers": ["Thouless", "Kibble", "Zurek", "Vilenkin"],
+    "correctIndex": 0
   },
   {
     "id": "q82",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
-    "answers": [
-      "John Hanning Speke",
-      "Henry Morton Stanley",
-      "Richard Francis Burton",
-      "David Livingstone"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Oka supérieur ?",
+    "answers": ["Herberstein", "Olearius", "Tatishchev", "Karamzin"],
+    "correctIndex": 1
   },
   {
     "id": "q83",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
-    "answers": [
-      "Willem Barentsz",
-      "Henry Hudson",
-      "James Clark Ross",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la loi de la croissance fractale par agrégation limitée par diffusion ?",
+    "answers": ["Eden", "Witten", "Witten et Sander", "Mandelbrot"],
+    "correctIndex": 2
   },
   {
     "id": "q84",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
-    "answers": [
-      "Willem Barentsz",
-      "James Clark Ross",
-      "Henry Hudson",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 0
+    "text": "Quel inventeur est associé au premier ordinateur quantique programmable supraconducteur ?",
+    "answers": ["IBM", "Google", "D-Wave", "Yale"],
+    "correctIndex": 3
   },
   {
     "id": "q85",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert la baie de San Francisco ?",
-    "answers": [
-      "Juan Rodríguez Cabrillo",
-      "Sebastián Vizcaíno",
-      "Francisco de Ulloa",
-      "Gaspar de Portolá"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a formulé la théorie des groupes de renormalisation ?",
+    "answers": ["Kenneth Wilson", "Gell-Mann", "Weinberg", "Fisher"],
+    "correctIndex": 0
   },
   {
     "id": "q86",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert le pôle Nord géographique ?",
-    "answers": [
-      "Roald Amundsen",
-      "Robert Peary",
-      "Fridtjof Nansen",
-      "Frederick Cook"
-    ],
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Chulyshman ?",
+    "answers": ["Sapozhnikov", "Potanin", "Semenov", "Obruchev"],
     "correctIndex": 1
   },
   {
     "id": "q87",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
-    "answers": [
-      "Willem Barentsz",
-      "Roald Amundsen",
-      "Henry Hudson",
-      "James Clark Ross"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la loi de la plasticité synaptique STDP ?",
+    "answers": ["Hebb", "Bliss", "Bi et Poo", "Kandel"],
+    "correctIndex": 2
   },
   {
     "id": "q88",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
-    "answers": [
-      "Henry Hudson",
-      "Willem Barentsz",
-      "James Clark Ross",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé au premier accélérateur de particules linéaire médical ?",
+    "answers": ["Varian", "Siemens", "Philips", "Kaplan"],
+    "correctIndex": 3
   },
   {
     "id": "q89",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert la baie de San Francisco ?",
-    "answers": [
-      "Sebastián Vizcaíno",
-      "Francisco de Ulloa",
-      "Juan Rodríguez Cabrillo",
-      "Gaspar de Portolá"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a formulé la théorie des anomalies quantiques ?",
+    "answers": ["Adler", "Bell", "Jackiw", "Weinberg"],
+    "correctIndex": 0
   },
   {
     "id": "q90",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert l'archipel Juan Fernández ?",
-    "answers": [
-      "William Dampier",
-      "Juan Fernández",
-      "Francis Drake",
-      "Pedro Sarmiento de Gamboa"
-    ],
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Tom ?",
+    "answers": ["Potanin", "Radlov", "Semenov", "Obruchev"],
     "correctIndex": 1
   },
+
   {
     "id": "q91",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
-    "answers": [
-      "Henry Morton Stanley",
-      "Richard Francis Burton",
-      "John Hanning Speke",
-      "David Livingstone"
-    ],
+    "text": "Quel scientifique a découvert la loi de la quantification du flux magnétique ?",
+    "answers": ["London", "Ginzburg", "Abrikosov", "Onsager"],
     "correctIndex": 2
   },
   {
     "id": "q92",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
-    "answers": [
-      "Douglas Mawson",
-      "Ernest Shackleton",
-      "Roald Amundsen",
-      "Robert Falcon Scott"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé au premier satellite d’observation terrestre à haute résolution ?",
+    "answers": ["NASA", "ESA", "CNES", "Landsat"],
+    "correctIndex": 3
   },
   {
     "id": "q93",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert le pôle Nord géographique ?",
-    "answers": [
-      "Robert Peary",
-      "Roald Amundsen",
-      "Fridtjof Nansen",
-      "Frederick Cook"
-    ],
+    "text": "Quel scientifique a formulé la loi de la relativité générale en termes de géométrie différentielle ?",
+    "answers": ["Einstein", "Cartan", "Riemann", "Hilbert"],
     "correctIndex": 0
   },
   {
     "id": "q94",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert l'île de Pâques en 1722 ?",
-    "answers": [
-      "Jacob Roggeveen",
-      "Abel Tasman",
-      "James Cook",
-      "Pedro Fernandes de Queirós"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Pechora ?",
+    "answers": ["Baer", "Krestinin", "Lütke", "Pallas"],
+    "correctIndex": 1
   },
   {
     "id": "q95",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert l'île de Pâques en 1722 ?",
-    "answers": [
-      "Jacob Roggeveen",
-      "James Cook",
-      "Abel Tasman",
-      "Pedro Fernandes de Queirós"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la loi de l’entropie quantique ?",
+    "answers": ["Von Neumann", "Shannon", "Landauer", "Jaynes"],
+    "correctIndex": 2
   },
   {
     "id": "q96",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert le pôle Nord géographique ?",
-    "answers": [
-      "Fridtjof Nansen",
-      "Roald Amundsen",
-      "Frederick Cook",
-      "Robert Peary"
-    ],
+    "text": "Quel inventeur est associé au premier avion spatial réutilisable ?",
+    "answers": ["NASA", "Boeing", "Lockheed", "Space Shuttle"],
     "correctIndex": 3
   },
   {
     "id": "q97",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
-    "answers": [
-      "Vitous Béring",
-      "Alexei Chirikov",
-      "Mikhail Gvozdev",
-      "Ivan Kruzenshtern"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a formulé la théorie de la gravité quantique à boucles ?",
+    "answers": ["Carlo Rovelli", "Ashtekar", "Smolin", "Penrose"],
+    "correctIndex": 0
   },
   {
     "id": "q98",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
-    "answers": [
-      "Zheng He",
-      "Ma Huan",
-      "Ibn Battuta",
-      "Wang Dayuan"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Vitim inférieur ?",
+    "answers": ["Chekanovsky", "Middendorff", "Wrangel", "Dezhnev"],
+    "correctIndex": 1
   },
   {
     "id": "q99",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert la baie de San Francisco ?",
-    "answers": [
-      "Juan Rodríguez Cabrillo",
-      "Gaspar de Portolá",
-      "Sebastián Vizcaíno",
-      "Francisco de Ulloa"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert la loi de la dynamique non linéaire universelle ?",
+    "answers": ["Lorenz", "Feigenbaum", "Poincaré", "Kolmogorov"],
+    "correctIndex": 2
   },
   {
     "id": "q100",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
-    "answers": [
-      "Zheng He",
-      "Al-Masudi",
-      "Ibn Battuta",
-      "Ahmad ibn Majid"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est associé au premier réseau mondial de communications par fibres optiques sous-marines ?",
+    "answers": ["AT&T", "Bell Labs", "Alcatel", "TAT-8"],
+    "correctIndex": 3
   },
   {
     "id": "q101",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
-    "answers": [
-      "Ahmad ibn Majid",
-      "Al-Masudi",
-      "Ibn Battuta",
-      "Zheng He"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a formulé la conjecture holographique reliant gravité et théorie conforme des champs ?",
+    "answers": ["Juan Maldacena", "Edward Witten", "Leonard Susskind", "Stephen Hawking"],
+    "correctIndex": 0
   },
   {
     "id": "q102",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert l'archipel Juan Fernández ?",
-    "answers": [
-      "Francis Drake",
-      "William Dampier",
-      "Pedro Sarmiento de Gamboa",
-      "Juan Fernández"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Khatanga en Sibérie ?",
+    "answers": ["Wrangel", "Chekanovsky", "Nordenskiöld", "Toll"],
+    "correctIndex": 1
   },
   {
     "id": "q103",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert la baie de San Francisco ?",
-    "answers": [
-      "Gaspar de Portolá",
-      "Francisco de Ulloa",
-      "Sebastián Vizcaíno",
-      "Juan Rodríguez Cabrillo"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la loi de la superradiance de Dicke ?",
+    "answers": ["Bloch", "Purcell", "Robert Dicke", "Fermi"],
+    "correctIndex": 2
   },
   {
     "id": "q104",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert la baie de San Francisco ?",
-    "answers": [
-      "Francisco de Ulloa",
-      "Sebastián Vizcaíno",
-      "Juan Rodríguez Cabrillo",
-      "Gaspar de Portolá"
-    ],
+    "text": "Quel inventeur est associé au premier système opérationnel de calcul distribué sur Internet (grid computing) ?",
+    "answers": ["IBM", "Sun Microsystems", "DEC", "SETI@home"],
     "correctIndex": 3
   },
   {
     "id": "q105",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
-    "answers": [
-      "Roald Amundsen",
-      "Willem Barentsz",
-      "James Clark Ross",
-      "Henry Hudson"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a formulé la théorie de la gravité émergente ?",
+    "answers": ["Erik Verlinde", "Jacobson", "Padmanabhan", "Rovelli"],
+    "correctIndex": 0
   },
   {
     "id": "q106",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert le pôle Nord géographique ?",
-    "answers": [
-      "Fridtjof Nansen",
-      "Roald Amundsen",
-      "Robert Peary",
-      "Frederick Cook"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Olenek supérieur ?",
+    "answers": ["Chekanovsky", "Wrangel", "Nordenskiöld", "Toll"],
+    "correctIndex": 1
   },
   {
     "id": "q107",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
-    "answers": [
-      "Robert Falcon Scott",
-      "Douglas Mawson",
-      "Ernest Shackleton",
-      "Roald Amundsen"
-    ],
+    "text": "Quel scientifique a découvert la loi de la condensation de Bose-Einstein dans les gaz dilués en 1995 ?",
+    "answers": ["Einstein", "Bose", "Cornell et Wieman", "Pitaevskii"],
     "correctIndex": 2
   },
   {
     "id": "q108",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert la baie de San Francisco ?",
-    "answers": [
-      "Juan Rodríguez Cabrillo",
-      "Gaspar de Portolá",
-      "Francisco de Ulloa",
-      "Sebastián Vizcaíno"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé au premier détecteur gravitationnel interférométrique opérationnel ?",
+    "answers": ["VIRGO", "LIGO", "GEO600", "Joseph Weber"],
+    "correctIndex": 3
   },
   {
     "id": "q109",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
-    "answers": [
-      "Richard Francis Burton",
-      "David Livingstone",
-      "John Hanning Speke",
-      "Henry Morton Stanley"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a formulé la théorie de l’information quantique appliquée aux trous noirs ?",
+    "answers": ["Jacob Bekenstein", "Hawking", "Page", "Susskind"],
+    "correctIndex": 0
   },
   {
     "id": "q110",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
-    "answers": [
-      "Ivan Kruzenshtern",
-      "Alexei Chirikov",
-      "Mikhail Gvozdev",
-      "Vitous Béring"
-    ],
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Yana en Sibérie ?",
+    "answers": ["Wrangel", "Middendorff", "Chekanovsky", "Dezhnev"],
     "correctIndex": 1
   },
+
   {
     "id": "q111",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
-    "answers": [
-      "Ahmad ibn Majid",
-      "Al-Masudi",
-      "Ibn Battuta",
-      "Zheng He"
-    ],
+    "text": "Quel scientifique a découvert la loi de la matière condensée topologique (isolants topologiques) ?",
+    "answers": ["Haldane", "Kane", "Charles Kane", "Hasan"],
     "correctIndex": 2
   },
   {
     "id": "q112",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
-    "answers": [
-      "Douglas Mawson",
-      "Ernest Shackleton",
-      "Robert Falcon Scott",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé au premier réseau mondial d’horloges atomiques synchronisées ?",
+    "answers": ["NIST", "ESA", "CERN", "GPS"],
+    "correctIndex": 3
   },
   {
     "id": "q113",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert la baie de San Francisco ?",
-    "answers": [
-      "Gaspar de Portolá",
-      "Francisco de Ulloa",
-      "Sebastián Vizcaíno",
-      "Juan Rodríguez Cabrillo"
-    ],
+    "text": "Quel scientifique a formulé la théorie de la gravité entropique ?",
+    "answers": ["Erik Verlinde", "Padmanabhan", "Jacobson", "Rovelli"],
     "correctIndex": 0
   },
   {
     "id": "q114",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
-    "answers": [
-      "Ernest Shackleton",
-      "Roald Amundsen",
-      "Robert Falcon Scott",
-      "Douglas Mawson"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Indigirka supérieur ?",
+    "answers": ["Dezhnev", "Wrangel", "Chekanovsky", "Middendorff"],
+    "correctIndex": 1
   },
   {
     "id": "q115",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert la baie de San Francisco ?",
-    "answers": [
-      "Francisco de Ulloa",
-      "Sebastián Vizcaíno",
-      "Juan Rodríguez Cabrillo",
-      "Gaspar de Portolá"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert la loi de la transition superfluide quantique de Kosterlitz–Thouless ?",
+    "answers": ["Landau", "Berezinskii", "Thouless", "Haldane"],
+    "correctIndex": 2
   },
   {
     "id": "q116",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
-    "answers": [
-      "Henry Hudson",
-      "James Clark Ross",
-      "Willem Barentsz",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est associé au premier système opérationnel de navigation par satellite européen ?",
+    "answers": ["ESA", "CNES", "EUMETSAT", "Galileo"],
+    "correctIndex": 3
   },
   {
     "id": "q117",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
-    "answers": [
-      "Roald Amundsen",
-      "Willem Barentsz",
-      "James Clark Ross",
-      "Henry Hudson"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a formulé la théorie de la causalité quantique rétrograde ?",
+    "answers": ["John Cramer", "Aharonov", "Wheeler", "Feynman"],
+    "correctIndex": 0
   },
   {
     "id": "q118",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
-    "answers": [
-      "Vitous Béring",
-      "Alexei Chirikov",
-      "Mikhail Gvozdev",
-      "Ivan Kruzenshtern"
-    ],
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Anabar ?",
+    "answers": ["Wrangel", "Chekanovsky", "Nordenskiöld", "Toll"],
     "correctIndex": 1
   },
   {
     "id": "q119",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
-    "answers": [
-      "Douglas Mawson",
-      "Robert Falcon Scott",
-      "Ernest Shackleton",
-      "Roald Amundsen"
-    ],
+    "text": "Quel scientifique a découvert la loi de la gravité quantique à deux dimensions (Liouville) ?",
+    "answers": ["Polyakov", "Knizhnik", "Zamolodchikov", "Distler"],
     "correctIndex": 2
   },
   {
     "id": "q120",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
-    "answers": [
-      "Willem Barentsz",
-      "Roald Amundsen",
-      "James Clark Ross",
-      "Henry Hudson"
-    ],
-    "correctIndex": 0
+    "text": "Quel inventeur est associé au premier réseau expérimental mondial de capteurs neutrino ?",
+    "answers": ["CERN", "Kamiokande", "Super-Kamiokande", "IceCube"],
+    "correctIndex": 3
   },
+
   {
     "id": "q121",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
-    "answers": [
-      "Zheng He",
-      "Al-Masudi",
-      "Ibn Battuta",
-      "Ahmad ibn Majid"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a formulé la théorie des amplitudes de diffusion modernes (on-shell) ?",
+    "answers": ["Edward Witten", "Arkani-Hamed", "Britto", "Cachazo"],
+    "correctIndex": 0
   },
   {
     "id": "q122",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert l'île de Pâques en 1722 ?",
-    "answers": [
-      "Jacob Roggeveen",
-      "James Cook",
-      "Pedro Fernandes de Queirós",
-      "Abel Tasman"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Podkamennaya Toungouska ?",
+    "answers": ["Middendorff", "Chekanovsky", "Wrangel", "Nordenskiöld"],
+    "correctIndex": 1
   },
   {
     "id": "q123",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
-    "answers": [
-      "Robert Falcon Scott",
-      "Ernest Shackleton",
-      "Roald Amundsen",
-      "Douglas Mawson"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert la loi de la quantification topologique des phases de Berry ?",
+    "answers": ["Berry", "Zak", "Michael Berry", "Simon"],
+    "correctIndex": 2
   },
   {
     "id": "q124",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert l'île de Pâques en 1722 ?",
-    "answers": [
-      "James Cook",
-      "Abel Tasman",
-      "Pedro Fernandes de Queirós",
-      "Jacob Roggeveen"
-    ],
+    "text": "Quel inventeur est associé au premier ordinateur exascale opérationnel ?",
+    "answers": ["IBM", "Cray", "HPE", "Frontier"],
     "correctIndex": 3
   },
   {
     "id": "q125",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert l'archipel Juan Fernández ?",
-    "answers": [
-      "Francis Drake",
-      "William Dampier",
-      "Pedro Sarmiento de Gamboa",
-      "Juan Fernández"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a formulé la théorie des états liés topologiques (Majorana) en matière condensée ?",
+    "answers": ["Alexei Kitaev", "Majorana", "Fu", "Kane"],
+    "correctIndex": 0
   },
   {
     "id": "q126",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
-    "answers": [
-      "Ahmad ibn Majid",
-      "Ibn Battuta",
-      "Al-Masudi",
-      "Zheng He"
-    ],
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Viluy ?",
+    "answers": ["Wrangel", "Chekanovsky", "Middendorff", "Nordenskiöld"],
     "correctIndex": 1
   },
   {
     "id": "q127",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
-    "answers": [
-      "James Clark Ross",
-      "Willem Barentsz",
-      "Roald Amundsen",
-      "Henry Hudson"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert la loi de la supraconductivité non conventionnelle p-wave ?",
+    "answers": ["BCS", "Leggett", "Mackenzie", "Rice"],
+    "correctIndex": 2
   },
   {
     "id": "q128",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert l'archipel Juan Fernández ?",
-    "answers": [
-      "Pedro Sarmiento de Gamboa",
-      "William Dampier",
-      "Francis Drake",
-      "Juan Fernández"
-    ],
+    "text": "Quel inventeur est associé au premier réseau mondial de calcul quantique accessible au cloud ?",
+    "answers": ["IBM", "Google", "Microsoft", "IBM Quantum"],
     "correctIndex": 3
   },
   {
     "id": "q129",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
-    "answers": [
-      "Wang Dayuan",
-      "Ma Huan",
-      "Zheng He",
-      "Ibn Battuta"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a formulé la théorie de la complexité computationnelle quantique ?",
+    "answers": ["Scott Aaronson", "Shor", "Grover", "Deutsch"],
+    "correctIndex": 0
   },
   {
     "id": "q130",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
-    "answers": [
-      "Zheng He",
-      "Ahmad ibn Majid",
-      "Ibn Battuta",
-      "Al-Masudi"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Amga ?",
+    "answers": ["Wrangel", "Chekanovsky", "Middendorff", "Nordenskiöld"],
+    "correctIndex": 1
   },
+
   {
     "id": "q131",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
-    "answers": [
-      "Henry Morton Stanley",
-      "Richard Francis Burton",
-      "David Livingstone",
-      "John Hanning Speke"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert la loi de la supraconductivité topologique ?",
+    "answers": ["Kitaev", "Read", "Green", "Haldane"],
+    "correctIndex": 2
   },
   {
     "id": "q132",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert l'archipel Juan Fernández ?",
-    "answers": [
-      "William Dampier",
-      "Juan Fernández",
-      "Francis Drake",
-      "Pedro Sarmiento de Gamboa"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé au premier réseau mondial de communication laser intersatellite ?",
+    "answers": ["NASA", "ESA", "JAXA", "EDRS"],
+    "correctIndex": 3
   },
   {
     "id": "q133",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
-    "answers": [
-      "Vitous Béring",
-      "Ivan Kruzenshtern",
-      "Alexei Chirikov",
-      "Mikhail Gvozdev"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a formulé la théorie des trous de ver traversables soutenus par énergie négative ?",
+    "answers": ["Morris", "Thorne", "Kip Thorne", "Hawking"],
+    "correctIndex": 0
   },
   {
     "id": "q134",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
-    "answers": [
-      "Mikhail Gvozdev",
-      "Ivan Kruzenshtern",
-      "Vitous Béring",
-      "Alexei Chirikov"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Kolyma supérieur ?",
+    "answers": ["Dezhnev", "Wrangel", "Chekanovsky", "Middendorff"],
+    "correctIndex": 1
   },
   {
     "id": "q135",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert l'archipel Juan Fernández ?",
-    "answers": [
-      "Pedro Sarmiento de Gamboa",
-      "William Dampier",
-      "Francis Drake",
-      "Juan Fernández"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert la loi de la dynamique topologique des défauts cosmiques ?",
+    "answers": ["Kibble", "Vilenkin", "Zurek", "Hindmarsh"],
+    "correctIndex": 2
   },
   {
     "id": "q136",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
-    "answers": [
-      "Zheng He",
-      "Al-Masudi",
-      "Ibn Battuta",
-      "Ahmad ibn Majid"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est associé au premier réseau mondial de télescopes interférométriques (EHT) ?",
+    "answers": ["ESO", "NASA", "ALMA", "Event Horizon Telescope"],
+    "correctIndex": 3
   },
   {
     "id": "q137",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
-    "answers": [
-      "David Livingstone",
-      "Richard Francis Burton",
-      "John Hanning Speke",
-      "Henry Morton Stanley"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a formulé la théorie de la causalité rétrocausale quantique à deux états ?",
+    "answers": ["Aharonov", "Cramer", "Wheeler", "Feynman"],
+    "correctIndex": 0
   },
   {
     "id": "q138",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
-    "answers": [
-      "Richard Francis Burton",
-      "David Livingstone",
-      "Henry Morton Stanley",
-      "John Hanning Speke"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Markha ?",
+    "answers": ["Wrangel", "Chekanovsky", "Middendorff", "Nordenskiöld"],
+    "correctIndex": 1
   },
   {
     "id": "q139",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
-    "answers": [
-      "Ernest Shackleton",
-      "Roald Amundsen",
-      "Robert Falcon Scott",
-      "Douglas Mawson"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la loi de la quantification topologique des nombres de Chern ?",
+    "answers": ["Chern", "Berry", "Thouless", "Klitzing"],
+    "correctIndex": 2
   },
   {
     "id": "q140",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
-    "answers": [
-      "James Clark Ross",
-      "Roald Amundsen",
-      "Willem Barentsz",
-      "Henry Hudson"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est associé au premier système mondial de détection d’ondes gravitationnelles spatiales ?",
+    "answers": ["NASA", "ESA", "CNES", "LISA"],
+    "correctIndex": 3
   },
+
   {
     "id": "q141",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert le pôle Nord géographique ?",
-    "answers": [
-      "Fridtjof Nansen",
-      "Roald Amundsen",
-      "Robert Peary",
-      "Frederick Cook"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a formulé la théorie de l’holographie cosmologique ?",
+    "answers": ["Leonard Susskind", "Maldacena", "Bousso", "Banks"],
+    "correctIndex": 0
   },
   {
     "id": "q142",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
-    "answers": [
-      "John Hanning Speke",
-      "Richard Francis Burton",
-      "Henry Morton Stanley",
-      "David Livingstone"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Olenek inférieur ?",
+    "answers": ["Wrangel", "Chekanovsky", "Nordenskiöld", "Toll"],
+    "correctIndex": 1
   },
   {
     "id": "q143",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
-    "answers": [
-      "Al-Masudi",
-      "Ibn Battuta",
-      "Zheng He",
-      "Ahmad ibn Majid"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert la loi de la dynamique des systèmes complexes auto-organisés ?",
+    "answers": ["Bak", "Prigogine", "Haken", "Kauffman"],
+    "correctIndex": 2
   },
   {
     "id": "q144",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
-    "answers": [
-      "James Clark Ross",
-      "Willem Barentsz",
-      "Henry Hudson",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé au premier réseau mondial de communication quantique terrestre ?",
+    "answers": ["CAS", "ESA", "NIST", "Beijing–Shanghai QKD"],
+    "correctIndex": 3
   },
   {
     "id": "q145",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
-    "answers": [
-      "Alexei Chirikov",
-      "Vitous Béring",
-      "Ivan Kruzenshtern",
-      "Mikhail Gvozdev"
-    ],
+    "text": "Quel scientifique a formulé la théorie de la gravité quantique causale dynamique (CDT) ?",
+    "answers": ["Renate Loll", "Ambjørn", "Jurkje Ambjørn", "Rovelli"],
     "correctIndex": 0
   },
   {
     "id": "q146",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
-    "answers": [
-      "Ivan Kruzenshtern",
-      "Mikhail Gvozdev",
-      "Vitous Béring",
-      "Alexei Chirikov"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Alazeya ?",
+    "answers": ["Wrangel", "Chekanovsky", "Middendorff", "Nordenskiöld"],
+    "correctIndex": 1
   },
   {
     "id": "q147",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert la baie de San Francisco ?",
-    "answers": [
-      "Sebastián Vizcaíno",
-      "Juan Rodríguez Cabrillo",
-      "Francisco de Ulloa",
-      "Gaspar de Portolá"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a découvert la loi de la thermodynamique quantique hors équilibre ?",
+    "answers": ["Jarzynski", "Crooks", "Seifert", "Esposito"],
+    "correctIndex": 2
   },
   {
     "id": "q148",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
-    "answers": [
-      "John Hanning Speke",
-      "Richard Francis Burton",
-      "David Livingstone",
-      "Henry Morton Stanley"
-    ],
-    "correctIndex": 0
+    "text": "Quel inventeur est associé au premier système mondial de positionnement lunaire expérimental ?",
+    "answers": ["NASA", "ESA", "JAXA", "LunaNet"],
+    "correctIndex": 3
   },
   {
     "id": "q149",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
-    "answers": [
-      "Vitous Béring",
-      "Mikhail Gvozdev",
-      "Alexei Chirikov",
-      "Ivan Kruzenshtern"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a formulé la théorie de la complexité algorithmique (Kolmogorov) ?",
+    "answers": ["Andrey Kolmogorov", "Chaitin", "Turing", "Solomonoff"],
+    "correctIndex": 0
   },
   {
     "id": "q150",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
-    "answers": [
-      "Zheng He",
-      "Ahmad ibn Majid",
-      "Al-Masudi",
-      "Ibn Battuta"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Taz ?",
+    "answers": ["Wrangel", "Chekanovsky", "Middendorff", "Nordenskiöld"],
+    "correctIndex": 1
   },
   {
     "id": "q151",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
-    "answers": [
-      "Ahmad ibn Majid",
-      "Zheng He",
-      "Ibn Battuta",
-      "Al-Masudi"
-    ],
+    "text": "Quel scientifique a démontré la correspondance AdS/CFT comme outil calculatoire en physique des hautes énergies ?",
+    "answers": ["Witten", "Susskind", "Juan Maldacena", "Polchinski"],
     "correctIndex": 2
   },
   {
     "id": "q152",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
-    "answers": [
-      "Ma Huan",
-      "Wang Dayuan",
-      "Ibn Battuta",
-      "Zheng He"
-    ],
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Piasina en Sibérie ?",
+    "answers": ["Wrangel", "Chekanovsky", "Nordenskiöld", "Toll"],
     "correctIndex": 3
   },
   {
     "id": "q153",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
-    "answers": [
-      "Al-Masudi",
-      "Zheng He",
-      "Ahmad ibn Majid",
-      "Ibn Battuta"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a formulé le principe ER=EPR reliant trous de ver et intrication quantique ?",
+    "answers": ["Leonard Susskind", "Maldacena", "Hawking", "Penrose"],
+    "correctIndex": 0
   },
   {
     "id": "q154",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
-    "answers": [
-      "David Livingstone",
-      "Henry Morton Stanley",
-      "Richard Francis Burton",
-      "John Hanning Speke"
-    ],
-    "correctIndex": 3
+    "text": "Quel inventeur est associé au premier réseau expérimental de distribution quantique de clés interurbain ?",
+    "answers": ["CAS", "NIST", "ESA", "SECOQC"],
+    "correctIndex": 1
   },
   {
     "id": "q155",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert l'île de Pâques en 1722 ?",
-    "answers": [
-      "Pedro Fernandes de Queirós",
-      "James Cook",
-      "Jacob Roggeveen",
-      "Abel Tasman"
-    ],
+    "text": "Quel scientifique a découvert la loi de la thermalisation quantique via l’hypothèse ETH ?",
+    "answers": ["Deutsch", "Srednicki", "Mark Srednicki", "Rigol"],
     "correctIndex": 2
   },
   {
     "id": "q156",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
-    "answers": [
-      "Ivan Kruzenshtern",
-      "Mikhail Gvozdev",
-      "Vitous Béring",
-      "Alexei Chirikov"
-    ],
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Selenga ?",
+    "answers": ["Pallas", "Wrangel", "Chekanovsky", "Nordenskiöld"],
     "correctIndex": 3
   },
   {
     "id": "q157",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
-    "answers": [
-      "Ahmad ibn Majid",
-      "Al-Masudi",
-      "Zheng He",
-      "Ibn Battuta"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a formulé la théorie de la gravité quantique induite ?",
+    "answers": ["Sakharov", "Zeldovich", "Weinberg", "Padmanabhan"],
+    "correctIndex": 0
   },
   {
     "id": "q158",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
-    "answers": [
-      "Roald Amundsen",
-      "Robert Falcon Scott",
-      "Douglas Mawson",
-      "Ernest Shackleton"
-    ],
-    "correctIndex": 3
+    "text": "Quel inventeur est associé au premier processeur neuromorphique commercial ?",
+    "answers": ["Intel", "IBM", "Qualcomm", "Loihi"],
+    "correctIndex": 1
   },
   {
     "id": "q159",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
-    "answers": [
-      "Willem Barentsz",
-      "James Clark Ross",
-      "Henry Hudson",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la loi de la transition de phase dynamique hors équilibre ?",
+    "answers": ["Hohenberg", "Halperin", "Janssen", "Tauber"],
+    "correctIndex": 2
   },
   {
     "id": "q160",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert l'archipel Juan Fernández ?",
-    "answers": [
-      "William Dampier",
-      "Pedro Sarmiento de Gamboa",
-      "Juan Fernández",
-      "Francis Drake"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Uda (Extrême-Orient russe) ?",
+    "answers": ["Nevelskoy", "Middendorff", "Wrangel", "Arseniev"],
+    "correctIndex": 3
   },
+
   {
     "id": "q161",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert la baie de San Francisco ?",
-    "answers": [
-      "Francisco de Ulloa",
-      "Juan Rodríguez Cabrillo",
-      "Sebastián Vizcaíno",
-      "Gaspar de Portolá"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a formulé la théorie des réseaux complexes auto-organisés ?",
+    "answers": ["Albert-László Barabási", "Watts", "Strogatz", "Newman"],
+    "correctIndex": 0
   },
   {
     "id": "q162",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
-    "answers": [
-      "Ibn Battuta",
-      "Zheng He",
-      "Al-Masudi",
-      "Ahmad ibn Majid"
-    ],
-    "correctIndex": 0
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Argoun ?",
+    "answers": ["Wrangel", "Chekanovsky", "Middendorff", "Potanin"],
+    "correctIndex": 1
   },
   {
     "id": "q163",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert l'archipel Juan Fernández ?",
-    "answers": [
-      "Pedro Sarmiento de Gamboa",
-      "Francis Drake",
-      "Juan Fernández",
-      "William Dampier"
-    ],
+    "text": "Quel scientifique a découvert la loi de la turbulence quantique dans les superfluides ?",
+    "answers": ["Feynman", "Vinen", "Gennady Volovik", "Landau"],
     "correctIndex": 2
   },
   {
     "id": "q164",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
-    "answers": [
-      "Willem Barentsz",
-      "James Clark Ross",
-      "Roald Amundsen",
-      "Henry Hudson"
-    ],
-    "correctIndex": 0
+    "text": "Quel inventeur est associé au premier ordinateur optique programmable expérimental ?",
+    "answers": ["IBM", "Bell Labs", "MIT", "Goodman"],
+    "correctIndex": 3
   },
   {
     "id": "q165",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
-    "answers": [
-      "Douglas Mawson",
-      "Ernest Shackleton",
-      "Roald Amundsen",
-      "Robert Falcon Scott"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a formulé la conjecture de Maldacena sur la viscosité minimale ?",
+    "answers": ["Policastro", "Son", "Kovtun", "Kovtun–Son–Starinets"],
+    "correctIndex": 0
   },
   {
     "id": "q166",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert l'archipel Juan Fernández ?",
-    "answers": [
-      "Francis Drake",
-      "William Dampier",
-      "Juan Fernández",
-      "Pedro Sarmiento de Gamboa"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Vitim moyen ?",
+    "answers": ["Wrangel", "Chekanovsky", "Middendorff", "Nordenskiöld"],
+    "correctIndex": 1
   },
   {
     "id": "q167",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
-    "answers": [
-      "Mikhail Gvozdev",
-      "Ivan Kruzenshtern",
-      "Alexei Chirikov",
-      "Vitous Béring"
-    ],
+    "text": "Quel scientifique a découvert la loi de la biologie synthétique minimale (cellule minimale) ?",
+    "answers": ["Watson", "Crick", "Craig Venter", "Church"],
     "correctIndex": 2
   },
   {
     "id": "q168",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
-    "answers": [
-      "Zheng He",
-      "Ibn Battuta",
-      "Al-Masudi",
-      "Ahmad ibn Majid"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé au premier réseau mondial de communications laser sol-espace ?",
+    "answers": ["NASA", "ESA", "DLR", "EDRS"],
+    "correctIndex": 3
   },
   {
     "id": "q169",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert la baie de San Francisco ?",
-    "answers": [
-      "Gaspar de Portolá",
-      "Francisco de Ulloa",
-      "Juan Rodríguez Cabrillo",
-      "Sebastián Vizcaíno"
-    ],
+    "text": "Quel scientifique a formulé la théorie de l’espace-temps émergent à partir de l’intrication ?",
+    "answers": ["Mark Van Raamsdonk", "Maldacena", "Susskind", "Verlinde"],
     "correctIndex": 0
   },
   {
     "id": "q170",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
-    "answers": [
-      "Zheng He",
-      "Al-Masudi",
-      "Ahmad ibn Majid",
-      "Ibn Battuta"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Shilka ?",
+    "answers": ["Nevelskoy", "Chekanovsky", "Wrangel", "Middendorff"],
+    "correctIndex": 1
   },
+
   {
     "id": "q171",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert la baie de San Francisco ?",
-    "answers": [
-      "Francisco de Ulloa",
-      "Gaspar de Portolá",
-      "Juan Rodríguez Cabrillo",
-      "Sebastián Vizcaíno"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert la loi de la cryptographie quantique sûre inconditionnellement (BB84) ?",
+    "answers": ["Wiesner", "Ekert", "Bennett et Brassard", "Shor"],
+    "correctIndex": 2
   },
   {
     "id": "q172",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert le pôle Nord géographique ?",
-    "answers": [
-      "Frederick Cook",
-      "Fridtjof Nansen",
-      "Roald Amundsen",
-      "Robert Peary"
-    ],
+    "text": "Quel inventeur est associé au premier réseau de satellites quantiques opérationnels ?",
+    "answers": ["NASA", "ESA", "CNSA", "Micius"],
     "correctIndex": 3
   },
   {
     "id": "q173",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert l'archipel Juan Fernández ?",
-    "answers": [
-      "Pedro Sarmiento de Gamboa",
-      "Francis Drake",
-      "Juan Fernández",
-      "William Dampier"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a formulé la théorie des états critiques sans échelle (SOC) ?",
+    "answers": ["Per Bak", "Haken", "Prigogine", "Kauffman"],
+    "correctIndex": 0
   },
   {
     "id": "q174",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert la baie de San Francisco ?",
-    "answers": [
-      "Francisco de Ulloa",
-      "Sebastián Vizcaíno",
-      "Juan Rodríguez Cabrillo",
-      "Gaspar de Portolá"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Aldan supérieur ?",
+    "answers": ["Wrangel", "Middendorff", "Chekanovsky", "Stadukhin"],
+    "correctIndex": 1
   },
   {
     "id": "q175",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert le pôle Nord géographique ?",
-    "answers": [
-      "Roald Amundsen",
-      "Frederick Cook",
-      "Robert Peary",
-      "Fridtjof Nansen"
-    ],
+    "text": "Quel scientifique a découvert la loi de la complexité algorithmique appliquée aux systèmes physiques ?",
+    "answers": ["Kolmogorov", "Chaitin", "Zurek", "Bennett"],
     "correctIndex": 2
   },
   {
     "id": "q176",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
-    "answers": [
-      "Ernest Shackleton",
-      "Robert Falcon Scott",
-      "Roald Amundsen",
-      "Douglas Mawson"
-    ],
-    "correctIndex": 0
+    "text": "Quel inventeur est associé au premier système mondial de navigation martienne expérimental ?",
+    "answers": ["NASA", "ESA", "JPL", "MarsNet"],
+    "correctIndex": 3
   },
   {
     "id": "q177",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
-    "answers": [
-      "Al-Masudi",
-      "Ahmad ibn Majid",
-      "Zheng He",
-      "Ibn Battuta"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a formulé la conjecture de la censure cosmique faible ?",
+    "answers": ["Roger Penrose", "Hawking", "Geroch", "Israel"],
+    "correctIndex": 0
   },
   {
     "id": "q178",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
-    "answers": [
-      "Wang Dayuan",
-      "Ibn Battuta",
-      "Ma Huan",
-      "Zheng He"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Omolon ?",
+    "answers": ["Wrangel", "Chekanovsky", "Middendorff", "Nordenskiöld"],
+    "correctIndex": 1
   },
   {
     "id": "q179",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
-    "answers": [
-      "Alexei Chirikov",
-      "Mikhail Gvozdev",
-      "Vitous Béring",
-      "Ivan Kruzenshtern"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la loi des circuits supraconducteurs quantiques (qubits flux) ?",
+    "answers": ["Clarke", "Devoret", "Michel Devoret", "Martinis"],
+    "correctIndex": 2
   },
   {
     "id": "q180",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
-    "answers": [
-      "Ahmad ibn Majid",
-      "Zheng He",
-      "Ibn Battuta",
-      "Al-Masudi"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est associé au premier ordinateur quantique tolérant aux fautes expérimental ?",
+    "answers": ["IBM", "Google", "Microsoft", "Surface code"],
+    "correctIndex": 3
   },
+
   {
     "id": "q181",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
-    "answers": [
-      "Wang Dayuan",
-      "Ibn Battuta",
-      "Zheng He",
-      "Ma Huan"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a formulé la théorie de l’entropie gravitationnelle cosmologique ?",
+    "answers": ["Roger Penrose", "Hawking", "Bekenstein", "Gibbons"],
+    "correctIndex": 0
   },
   {
     "id": "q182",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert l'île de Pâques en 1722 ?",
-    "answers": [
-      "James Cook",
-      "Abel Tasman",
-      "Jacob Roggeveen",
-      "Pedro Fernandes de Queirós"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Maya (Yakoutie) ?",
+    "answers": ["Wrangel", "Chekanovsky", "Middendorff", "Nordenskiöld"],
+    "correctIndex": 1
   },
   {
     "id": "q183",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
-    "answers": [
-      "Wang Dayuan",
-      "Zheng He",
-      "Ma Huan",
-      "Ibn Battuta"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert la loi de la thermodynamique de l’information (Landauer) ?",
+    "answers": ["Shannon", "Bennett", "Rolf Landauer", "Jaynes"],
+    "correctIndex": 2
   },
   {
     "id": "q184",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
-    "answers": [
-      "James Clark Ross",
-      "Henry Hudson",
-      "Roald Amundsen",
-      "Willem Barentsz"
-    ],
+    "text": "Quel inventeur est associé au premier réseau mondial de communications quantiques spatiales-sol ?",
+    "answers": ["NASA", "ESA", "CNSA", "QUESS"],
     "correctIndex": 3
   },
   {
     "id": "q185",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert le pôle Nord géographique ?",
-    "answers": [
-      "Fridtjof Nansen",
-      "Robert Peary",
-      "Roald Amundsen",
-      "Frederick Cook"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a formulé la théorie des automates cellulaires universels ?",
+    "answers": ["Stephen Wolfram", "Conway", "von Neumann", "Ulam"],
+    "correctIndex": 0
   },
   {
     "id": "q186",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
-    "answers": [
-      "Robert Falcon Scott",
-      "Ernest Shackleton",
-      "Roald Amundsen",
-      "Douglas Mawson"
-    ],
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Kulu (Sibérie) ?",
+    "answers": ["Wrangel", "Chekanovsky", "Middendorff", "Nordenskiöld"],
     "correctIndex": 1
   },
   {
     "id": "q187",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert l'archipel Juan Fernández ?",
-    "answers": [
-      "Francis Drake",
-      "Pedro Sarmiento de Gamboa",
-      "Juan Fernández",
-      "William Dampier"
-    ],
+    "text": "Quel scientifique a découvert la loi de la décohérence gravitationnelle hypothétique ?",
+    "answers": ["Penrose", "Diósi", "Diósi–Penrose", "Zeh"],
     "correctIndex": 2
   },
   {
     "id": "q188",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert le pôle Nord géographique ?",
-    "answers": [
-      "Frederick Cook",
-      "Roald Amundsen",
-      "Robert Peary",
-      "Fridtjof Nansen"
-    ],
-    "correctIndex": 2
+    "text": "Quel inventeur est associé au premier réseau expérimental de navigation spatiale interplanétaire ?",
+    "answers": ["NASA", "ESA", "DSN", "Deep Space Network"],
+    "correctIndex": 3
   },
   {
     "id": "q189",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
-    "answers": [
-      "Ma Huan",
-      "Wang Dayuan",
-      "Ibn Battuta",
-      "Zheng He"
-    ],
-    "correctIndex": 3
+    "text": "Quel scientifique a formulé la théorie des champs topologiques (TQFT) ?",
+    "answers": ["Edward Witten", "Atiyah", "Chern", "Segal"],
+    "correctIndex": 0
   },
   {
     "id": "q190",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
-    "answers": [
-      "Robert Falcon Scott",
-      "Roald Amundsen",
-      "Ernest Shackleton",
-      "Douglas Mawson"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Indigirka inférieur ?",
+    "answers": ["Dezhnev", "Wrangel", "Chekanovsky", "Middendorff"],
+    "correctIndex": 1
   },
+
   {
     "id": "q191",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert l'île de Pâques en 1722 ?",
-    "answers": [
-      "Jacob Roggeveen",
-      "James Cook",
-      "Pedro Fernandes de Queirós",
-      "Abel Tasman"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la loi de la computation quantique topologique ?",
+    "answers": ["Kitaev", "Nayak", "Michael Freedman", "Preskill"],
+    "correctIndex": 2
   },
   {
     "id": "q192",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
-    "answers": [
-      "Roald Amundsen",
-      "Ernest Shackleton",
-      "Robert Falcon Scott",
-      "Douglas Mawson"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé au premier réseau mondial de capteurs gravitationnels spatiaux ?",
+    "answers": ["NASA", "ESA", "CNES", "LISA Pathfinder"],
+    "correctIndex": 3
   },
   {
     "id": "q193",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert le pôle Nord géographique ?",
-    "answers": [
-      "Frederick Cook",
-      "Roald Amundsen",
-      "Robert Peary",
-      "Fridtjof Nansen"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a formulé la théorie de l’émergence du temps thermodynamique ?",
+    "answers": ["Carlo Rovelli", "Prigogine", "Page", "Wootters"],
+    "correctIndex": 0
   },
   {
     "id": "q194",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
-    "answers": [
-      "Ivan Kruzenshtern",
-      "Mikhail Gvozdev",
-      "Vitous Béring",
-      "Alexei Chirikov"
-    ],
-    "correctIndex": 3
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Kheta ?",
+    "answers": ["Wrangel", "Chekanovsky", "Middendorff", "Nordenskiöld"],
+    "correctIndex": 1
   },
   {
     "id": "q195",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
-    "answers": [
-      "John Hanning Speke",
-      "David Livingstone",
-      "Richard Francis Burton",
-      "Henry Morton Stanley"
-    ],
-    "correctIndex": 0
+    "text": "Quel scientifique a découvert la loi de la matière noire auto-interagissante ?",
+    "answers": ["Spergel", "Steinhardt", "Spergel et Steinhardt", "Zwicky"],
+    "correctIndex": 2
   },
   {
     "id": "q196",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
-    "answers": [
-      "Richard Francis Burton",
-      "John Hanning Speke",
-      "Henry Morton Stanley",
-      "David Livingstone"
-    ],
-    "correctIndex": 1
+    "text": "Quel inventeur est associé au premier réseau mondial de communication quantique optique libre ?",
+    "answers": ["NASA", "ESA", "CNSA", "Free-space QKD"],
+    "correctIndex": 3
   },
   {
     "id": "q197",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
-    "answers": [
-      "Roald Amundsen",
-      "Douglas Mawson",
-      "Ernest Shackleton",
-      "Robert Falcon Scott"
-    ],
-    "correctIndex": 2
+    "text": "Quel scientifique a formulé la théorie de l’univers cyclique conforme ?",
+    "answers": ["Roger Penrose", "Steinhardt", "Turok", "Vilenkin"],
+    "correctIndex": 0
   },
   {
     "id": "q198",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert l'île de Pâques en 1722 ?",
-    "answers": [
-      "Pedro Fernandes de Queirós",
-      "James Cook",
-      "Jacob Roggeveen",
-      "Abel Tasman"
-    ],
-    "correctIndex": 2
+    "text": "Quel explorateur est associé à la reconnaissance européenne du fleuve Kotuy ?",
+    "answers": ["Wrangel", "Chekanovsky", "Middendorff", "Nordenskiöld"],
+    "correctIndex": 1
   },
   {
     "id": "q199",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
-    "answers": [
-      "Richard Francis Burton",
-      "John Hanning Speke",
-      "Henry Morton Stanley",
-      "David Livingstone"
-    ],
-    "correctIndex": 1
+    "text": "Quel scientifique a découvert la loi de l’apprentissage profond par rétropropagation généralisée ?",
+    "answers": ["Rosenblatt", "Rumelhart", "Geoffrey Hinton", "LeCun"],
+    "correctIndex": 2
   },
   {
     "id": "q200",
     "category": "Découvertes",
     "difficulty": "Extrême",
-    "text": "Qui a découvert la baie de San Francisco ?",
-    "answers": [
-      "Francisco de Ulloa",
-      "Juan Rodríguez Cabrillo",
-      "Gaspar de Portolá",
-      "Sebastián Vizcaíno"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q201",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
-    "answers": [
-      "David Livingstone",
-      "John Hanning Speke",
-      "Henry Morton Stanley",
-      "Richard Francis Burton"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q202",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Qui a découvert l'île de Pâques en 1722 ?",
-    "answers": [
-      "Pedro Fernandes de Queirós",
-      "Abel Tasman",
-      "James Cook",
-      "Jacob Roggeveen"
-    ],
+    "text": "Quel inventeur est associé au premier réseau mondial de communication interplanétaire conceptuel ?",
+    "answers": ["NASA", "ESA", "JPL", "Interplanetary Internet"],
     "correctIndex": 3
-  },
-  {
-    "id": "q203",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
-    "answers": [
-      "James Clark Ross",
-      "Willem Barentsz",
-      "Henry Hudson",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q204",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
-    "answers": [
-      "Zheng He",
-      "Ibn Battuta",
-      "Al-Masudi",
-      "Ahmad ibn Majid"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q205",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Qui a découvert le pôle Nord géographique ?",
-    "answers": [
-      "Fridtjof Nansen",
-      "Frederick Cook",
-      "Roald Amundsen",
-      "Robert Peary"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q206",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
-    "answers": [
-      "Henry Morton Stanley",
-      "David Livingstone",
-      "Richard Francis Burton",
-      "John Hanning Speke"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q207",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
-    "answers": [
-      "Roald Amundsen",
-      "Robert Falcon Scott",
-      "Douglas Mawson",
-      "Ernest Shackleton"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q208",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Qui a découvert le pôle Nord géographique ?",
-    "answers": [
-      "Fridtjof Nansen",
-      "Roald Amundsen",
-      "Robert Peary",
-      "Frederick Cook"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q209",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
-    "answers": [
-      "Henry Morton Stanley",
-      "John Hanning Speke",
-      "Richard Francis Burton",
-      "David Livingstone"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q210",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
-    "answers": [
-      "Ibn Battuta",
-      "Wang Dayuan",
-      "Zheng He",
-      "Ma Huan"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q211",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
-    "answers": [
-      "Roald Amundsen",
-      "James Clark Ross",
-      "Henry Hudson",
-      "Willem Barentsz"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q212",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
-    "answers": [
-      "Henry Hudson",
-      "Roald Amundsen",
-      "James Clark Ross",
-      "Willem Barentsz"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q213",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Qui a découvert l'archipel Juan Fernández ?",
-    "answers": [
-      "Juan Fernández",
-      "William Dampier",
-      "Pedro Sarmiento de Gamboa",
-      "Francis Drake"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q214",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Qui a découvert le pôle Nord géographique ?",
-    "answers": [
-      "Roald Amundsen",
-      "Robert Peary",
-      "Fridtjof Nansen",
-      "Frederick Cook"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q215",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
-    "answers": [
-      "Ibn Battuta",
-      "Al-Masudi",
-      "Ahmad ibn Majid",
-      "Zheng He"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q216",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Qui a découvert l'île de Pâques en 1722 ?",
-    "answers": [
-      "Pedro Fernandes de Queirós",
-      "Abel Tasman",
-      "James Cook",
-      "Jacob Roggeveen"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q217",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
-    "answers": [
-      "Ernest Shackleton",
-      "Robert Falcon Scott",
-      "Roald Amundsen",
-      "Douglas Mawson"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q218",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
-    "answers": [
-      "Roald Amundsen",
-      "Henry Hudson",
-      "James Clark Ross",
-      "Willem Barentsz"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q219",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
-    "answers": [
-      "Ma Huan",
-      "Zheng He",
-      "Wang Dayuan",
-      "Ibn Battuta"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q220",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
-    "answers": [
-      "John Hanning Speke",
-      "Richard Francis Burton",
-      "David Livingstone",
-      "Henry Morton Stanley"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q221",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
-    "answers": [
-      "Ahmad ibn Majid",
-      "Ibn Battuta",
-      "Al-Masudi",
-      "Zheng He"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q222",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
-    "answers": [
-      "James Clark Ross",
-      "Henry Hudson",
-      "Willem Barentsz",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q223",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Qui a découvert l'archipel Juan Fernández ?",
-    "answers": [
-      "Juan Fernández",
-      "Pedro Sarmiento de Gamboa",
-      "Francis Drake",
-      "William Dampier"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q224",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Qui a découvert le pôle Nord géographique ?",
-    "answers": [
-      "Roald Amundsen",
-      "Frederick Cook",
-      "Fridtjof Nansen",
-      "Robert Peary"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q225",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
-    "answers": [
-      "Ma Huan",
-      "Wang Dayuan",
-      "Ibn Battuta",
-      "Zheng He"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q226",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Qui a découvert l'île de Pâques en 1722 ?",
-    "answers": [
-      "Pedro Fernandes de Queirós",
-      "Abel Tasman",
-      "Jacob Roggeveen",
-      "James Cook"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q227",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
-    "answers": [
-      "Ibn Battuta",
-      "Ahmad ibn Majid",
-      "Al-Masudi",
-      "Zheng He"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q228",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Qui a découvert l'archipel Juan Fernández ?",
-    "answers": [
-      "Pedro Sarmiento de Gamboa",
-      "Juan Fernández",
-      "William Dampier",
-      "Francis Drake"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q229",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
-    "answers": [
-      "Ahmad ibn Majid",
-      "Al-Masudi",
-      "Ibn Battuta",
-      "Zheng He"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q230",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
-    "answers": [
-      "Willem Barentsz",
-      "James Clark Ross",
-      "Roald Amundsen",
-      "Henry Hudson"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q231",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Qui a découvert l'archipel Juan Fernández ?",
-    "answers": [
-      "Pedro Sarmiento de Gamboa",
-      "Francis Drake",
-      "William Dampier",
-      "Juan Fernández"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q232",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
-    "answers": [
-      "Roald Amundsen",
-      "Robert Falcon Scott",
-      "Douglas Mawson",
-      "Ernest Shackleton"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q233",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
-    "answers": [
-      "Al-Masudi",
-      "Zheng He",
-      "Ahmad ibn Majid",
-      "Ibn Battuta"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q234",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
-    "answers": [
-      "Ma Huan",
-      "Wang Dayuan",
-      "Zheng He",
-      "Ibn Battuta"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q235",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Qui a découvert l'archipel Juan Fernández ?",
-    "answers": [
-      "Juan Fernández",
-      "Pedro Sarmiento de Gamboa",
-      "Francis Drake",
-      "William Dampier"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q236",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
-    "answers": [
-      "Roald Amundsen",
-      "Robert Falcon Scott",
-      "Douglas Mawson",
-      "Ernest Shackleton"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q237",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
-    "answers": [
-      "Douglas Mawson",
-      "Ernest Shackleton",
-      "Robert Falcon Scott",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q238",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
-    "answers": [
-      "Roald Amundsen",
-      "Douglas Mawson",
-      "Robert Falcon Scott",
-      "Ernest Shackleton"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q239",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Qui a découvert l'archipel Juan Fernández ?",
-    "answers": [
-      "Francis Drake",
-      "Juan Fernández",
-      "Pedro Sarmiento de Gamboa",
-      "William Dampier"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q240",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
-    "answers": [
-      "Zheng He",
-      "Al-Masudi",
-      "Ahmad ibn Majid",
-      "Ibn Battuta"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q241",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Qui a découvert le pôle Nord géographique ?",
-    "answers": [
-      "Fridtjof Nansen",
-      "Roald Amundsen",
-      "Frederick Cook",
-      "Robert Peary"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q242",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
-    "answers": [
-      "Roald Amundsen",
-      "Henry Hudson",
-      "James Clark Ross",
-      "Willem Barentsz"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q243",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
-    "answers": [
-      "Willem Barentsz",
-      "Roald Amundsen",
-      "James Clark Ross",
-      "Henry Hudson"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q244",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Qui a découvert l'archipel Juan Fernández ?",
-    "answers": [
-      "Juan Fernández",
-      "William Dampier",
-      "Francis Drake",
-      "Pedro Sarmiento de Gamboa"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q245",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
-    "answers": [
-      "Alexei Chirikov",
-      "Vitous Béring",
-      "Mikhail Gvozdev",
-      "Ivan Kruzenshtern"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q246",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Qui a découvert l'archipel Juan Fernández ?",
-    "answers": [
-      "William Dampier",
-      "Juan Fernández",
-      "Pedro Sarmiento de Gamboa",
-      "Francis Drake"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q247",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Qui a découvert l'archipel Juan Fernández ?",
-    "answers": [
-      "Pedro Sarmiento de Gamboa",
-      "Francis Drake",
-      "Juan Fernández",
-      "William Dampier"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q248",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
-    "answers": [
-      "Ahmad ibn Majid",
-      "Zheng He",
-      "Ibn Battuta",
-      "Al-Masudi"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q249",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
-    "answers": [
-      "Douglas Mawson",
-      "Robert Falcon Scott",
-      "Ernest Shackleton",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q250",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
-    "answers": [
-      "David Livingstone",
-      "John Hanning Speke",
-      "Henry Morton Stanley",
-      "Richard Francis Burton"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q251",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
-    "answers": [
-      "Al-Masudi",
-      "Ahmad ibn Majid",
-      "Ibn Battuta",
-      "Zheng He"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q252",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Qui a découvert l'île de Pâques en 1722 ?",
-    "answers": [
-      "James Cook",
-      "Jacob Roggeveen",
-      "Abel Tasman",
-      "Pedro Fernandes de Queirós"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q253",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Qui a découvert le pôle Nord géographique ?",
-    "answers": [
-      "Frederick Cook",
-      "Roald Amundsen",
-      "Fridtjof Nansen",
-      "Robert Peary"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q254",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
-    "answers": [
-      "Mikhail Gvozdev",
-      "Vitous Béring",
-      "Alexei Chirikov",
-      "Ivan Kruzenshtern"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q255",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
-    "answers": [
-      "John Hanning Speke",
-      "Richard Francis Burton",
-      "Henry Morton Stanley",
-      "David Livingstone"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q256",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
-    "answers": [
-      "Ibn Battuta",
-      "Al-Masudi",
-      "Ahmad ibn Majid",
-      "Zheng He"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q257",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
-    "answers": [
-      "Roald Amundsen",
-      "Henry Hudson",
-      "Willem Barentsz",
-      "James Clark Ross"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q258",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
-    "answers": [
-      "Ernest Shackleton",
-      "Robert Falcon Scott",
-      "Douglas Mawson",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q259",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
-    "answers": [
-      "Al-Masudi",
-      "Ibn Battuta",
-      "Ahmad ibn Majid",
-      "Zheng He"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q260",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
-    "answers": [
-      "Vitous Béring",
-      "Mikhail Gvozdev",
-      "Ivan Kruzenshtern",
-      "Alexei Chirikov"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q261",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
-    "answers": [
-      "Ibn Battuta",
-      "Zheng He",
-      "Ahmad ibn Majid",
-      "Al-Masudi"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q262",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Qui a découvert l'île de Pâques en 1722 ?",
-    "answers": [
-      "Jacob Roggeveen",
-      "Abel Tasman",
-      "James Cook",
-      "Pedro Fernandes de Queirós"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q263",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
-    "answers": [
-      "Roald Amundsen",
-      "Willem Barentsz",
-      "Henry Hudson",
-      "James Clark Ross"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q264",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
-    "answers": [
-      "Robert Falcon Scott",
-      "Douglas Mawson",
-      "Ernest Shackleton",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q265",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
-    "answers": [
-      "Vitous Béring",
-      "Ivan Kruzenshtern",
-      "Alexei Chirikov",
-      "Mikhail Gvozdev"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q266",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Qui a découvert l'île de Pâques en 1722 ?",
-    "answers": [
-      "Abel Tasman",
-      "Jacob Roggeveen",
-      "Pedro Fernandes de Queirós",
-      "James Cook"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q267",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Qui a découvert l'archipel Juan Fernández ?",
-    "answers": [
-      "Pedro Sarmiento de Gamboa",
-      "William Dampier",
-      "Francis Drake",
-      "Juan Fernández"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q268",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Qui a découvert l'archipel Juan Fernández ?",
-    "answers": [
-      "Juan Fernández",
-      "Pedro Sarmiento de Gamboa",
-      "Francis Drake",
-      "William Dampier"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q269",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
-    "answers": [
-      "Willem Barentsz",
-      "James Clark Ross",
-      "Roald Amundsen",
-      "Henry Hudson"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q270",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
-    "answers": [
-      "David Livingstone",
-      "Henry Morton Stanley",
-      "Richard Francis Burton",
-      "John Hanning Speke"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q271",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Qui a découvert le pôle Nord géographique ?",
-    "answers": [
-      "Robert Peary",
-      "Frederick Cook",
-      "Fridtjof Nansen",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q272",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
-    "answers": [
-      "Zheng He",
-      "Ibn Battuta",
-      "Ma Huan",
-      "Wang Dayuan"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q273",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur polaire a dirigé l'expédition Endurance ?",
-    "answers": [
-      "Robert Falcon Scott",
-      "Ernest Shackleton",
-      "Douglas Mawson",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q274",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
-    "answers": [
-      "Ibn Battuta",
-      "Wang Dayuan",
-      "Ma Huan",
-      "Zheng He"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q275",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
-    "answers": [
-      "Alexei Chirikov",
-      "Vitous Béring",
-      "Ivan Kruzenshtern",
-      "Mikhail Gvozdev"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q276",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Qui a découvert la baie de San Francisco ?",
-    "answers": [
-      "Sebastián Vizcaíno",
-      "Gaspar de Portolá",
-      "Juan Rodríguez Cabrillo",
-      "Francisco de Ulloa"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q277",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
-    "answers": [
-      "Roald Amundsen",
-      "Willem Barentsz",
-      "Henry Hudson",
-      "James Clark Ross"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q278",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
-    "answers": [
-      "Willem Barentsz",
-      "Roald Amundsen",
-      "James Clark Ross",
-      "Henry Hudson"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q279",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Qui a découvert la baie de San Francisco ?",
-    "answers": [
-      "Gaspar de Portolá",
-      "Sebastián Vizcaíno",
-      "Juan Rodríguez Cabrillo",
-      "Francisco de Ulloa"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q280",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
-    "answers": [
-      "Richard Francis Burton",
-      "John Hanning Speke",
-      "Henry Morton Stanley",
-      "David Livingstone"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q281",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
-    "answers": [
-      "Zheng He",
-      "Ahmad ibn Majid",
-      "Al-Masudi",
-      "Ibn Battuta"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q282",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
-    "answers": [
-      "Ahmad ibn Majid",
-      "Zheng He",
-      "Al-Masudi",
-      "Ibn Battuta"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q283",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Qui a découvert le pôle Nord géographique ?",
-    "answers": [
-      "Robert Peary",
-      "Roald Amundsen",
-      "Frederick Cook",
-      "Fridtjof Nansen"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q284",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
-    "answers": [
-      "Richard Francis Burton",
-      "Henry Morton Stanley",
-      "John Hanning Speke",
-      "David Livingstone"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q285",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Qui a découvert l'île de Pâques en 1722 ?",
-    "answers": [
-      "Jacob Roggeveen",
-      "Abel Tasman",
-      "Pedro Fernandes de Queirós",
-      "James Cook"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q286",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
-    "answers": [
-      "Henry Hudson",
-      "James Clark Ross",
-      "Roald Amundsen",
-      "Willem Barentsz"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q287",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
-    "answers": [
-      "Henry Morton Stanley",
-      "John Hanning Speke",
-      "David Livingstone",
-      "Richard Francis Burton"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q288",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
-    "answers": [
-      "John Hanning Speke",
-      "David Livingstone",
-      "Richard Francis Burton",
-      "Henry Morton Stanley"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q289",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur russe a atteint l'Alaska en 1741 ?",
-    "answers": [
-      "Ivan Kruzenshtern",
-      "Alexei Chirikov",
-      "Vitous Béring",
-      "Mikhail Gvozdev"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q290",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
-    "answers": [
-      "Zheng He",
-      "Ibn Battuta",
-      "Ma Huan",
-      "Wang Dayuan"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q291",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Qui a découvert la baie de San Francisco ?",
-    "answers": [
-      "Sebastián Vizcaíno",
-      "Francisco de Ulloa",
-      "Juan Rodríguez Cabrillo",
-      "Gaspar de Portolá"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q292",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel navigateur chinois a mené de vastes expéditions maritimes au XVe siècle ?",
-    "answers": [
-      "Ibn Battuta",
-      "Wang Dayuan",
-      "Zheng He",
-      "Ma Huan"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q293",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel navigateur arabe a exploré les côtes de l'Afrique de l'Est au XIVe siècle ?",
-    "answers": [
-      "Ahmad ibn Majid",
-      "Zheng He",
-      "Al-Masudi",
-      "Ibn Battuta"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q294",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
-    "answers": [
-      "John Hanning Speke",
-      "Richard Francis Burton",
-      "Henry Morton Stanley",
-      "David Livingstone"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q295",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Qui a découvert l'archipel Juan Fernández ?",
-    "answers": [
-      "Pedro Sarmiento de Gamboa",
-      "Juan Fernández",
-      "Francis Drake",
-      "William Dampier"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q296",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Qui a découvert la baie de San Francisco ?",
-    "answers": [
-      "Gaspar de Portolá",
-      "Juan Rodríguez Cabrillo",
-      "Sebastián Vizcaíno",
-      "Francisco de Ulloa"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q297",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
-    "answers": [
-      "Richard Francis Burton",
-      "David Livingstone",
-      "Henry Morton Stanley",
-      "John Hanning Speke"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q298",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur a cartographié l'archipel du Svalbard au XVIIe siècle ?",
-    "answers": [
-      "Henry Hudson",
-      "Roald Amundsen",
-      "Willem Barentsz",
-      "James Clark Ross"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q299",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Quel explorateur a découvert le lac Victoria pour l'Europe ?",
-    "answers": [
-      "Richard Francis Burton",
-      "John Hanning Speke",
-      "David Livingstone",
-      "Henry Morton Stanley"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q300",
-    "category": "Découvertes",
-    "difficulty": "Extrême",
-    "text": "Qui a découvert le pôle Nord géographique ?",
-    "answers": [
-      "Roald Amundsen",
-      "Frederick Cook",
-      "Robert Peary",
-      "Fridtjof Nansen"
-    ],
-    "correctIndex": 2
   }
 ]
