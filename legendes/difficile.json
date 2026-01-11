@@ -3,3900 +3,1648 @@
     "id": "q1",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quelle légende bretonne parle d'une ville engloutie en mer ?",
-    "answers": [
-      "Broceliande",
-      "Ys",
-      "Atlantide",
-      "Avalon"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est parfois identifié comme le premier roi mythique d’Argos après Phoronée ?",
+    "answers": ["Argos Panoptès", "Danaos", "Inachos", "Acrisios"],
+    "correctIndex": 0
   },
   {
     "id": "q2",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Dans la mythologie nordique, qui tue le dieu Baldr ?",
-    "answers": [
-      "Fenrir",
-      "Surt",
-      "Loki",
-      "Hodr"
-    ],
-    "correctIndex": 3
+    "text": "Dans la mythologie nordique, quel géant garde le pont Bifröst contre les intrusions ?",
+    "answers": ["Thrym", "Heimdall", "Skrymir", "Surt"],
+    "correctIndex": 1
   },
   {
     "id": "q3",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Dans la mythologie nordique, qui tue le dieu Baldr ?",
-    "answers": [
-      "Hodr",
-      "Surt",
-      "Loki",
-      "Fenrir"
-    ],
-    "correctIndex": 0
+    "text": "Quel personnage grec, fils de Laïos, est à l’origine de la malédiction thébaine ?",
+    "answers": ["Créon", "Polynice", "Œdipe", "Étéocle"],
+    "correctIndex": 2
   },
   {
     "id": "q4",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du chien à deux têtes frère de Cerbère ?",
-    "answers": [
-      "Argos",
-      "Fenrir",
-      "Anubis",
-      "Orthros"
-    ],
+    "text": "Dans la mythologie celtique irlandaise, quel dieu possède un chaudron inépuisable ?",
+    "answers": ["Nuada", "Lugh", "Brân", "Dagda"],
     "correctIndex": 3
   },
+
   {
     "id": "q5",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du chien à deux têtes frère de Cerbère ?",
-    "answers": [
-      "Anubis",
-      "Orthros",
-      "Argos",
-      "Fenrir"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est réputé avoir fondé la dynastie des Atrides ?",
+    "answers": ["Pélops", "Atrée", "Agamemnon", "Thyeste"],
+    "correctIndex": 0
   },
   {
     "id": "q6",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel roi mythique grec a été condamné à pousser un rocher éternellement ?",
-    "answers": [
-      "Sisyphe",
-      "Tantale",
-      "Ixion",
-      "Minos"
-    ],
-    "correctIndex": 0
+    "text": "Quel fleuve des Enfers grecs est explicitement associé au feu selon les sources antiques ?",
+    "answers": ["Styx", "Phlégéthon", "Cocyte", "Léthé"],
+    "correctIndex": 1
   },
   {
     "id": "q7",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du chien à deux têtes frère de Cerbère ?",
-    "answers": [
-      "Orthros",
-      "Anubis",
-      "Argos",
-      "Fenrir"
-    ],
-    "correctIndex": 0
+    "text": "Quel héros grec est le père de Télèphe dans la tradition mythologique ?",
+    "answers": ["Héraclès", "Jason", "Achille", "Persée"],
+    "correctIndex": 2
   },
   {
     "id": "q8",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel roi mythique grec a été condamné à pousser un rocher éternellement ?",
-    "answers": [
-      "Minos",
-      "Tantale",
-      "Ixion",
-      "Sisyphe"
-    ],
+    "text": "Dans la mythologie japonaise, quel yōkai est réputé pour allonger son cou durant la nuit ?",
+    "answers": ["Oni", "Tengu", "Kappa", "Rokurokubi"],
     "correctIndex": 3
   },
+
   {
     "id": "q9",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Qui est le père de Thésée ?",
-    "answers": [
-      "Poséidon",
-      "Minos",
-      "Zeus",
-      "Égée"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est associé au meurtre accidentel d’Iphitos ?",
+    "answers": ["Héraclès", "Thésée", "Jason", "Ulysse"],
+    "correctIndex": 0
   },
   {
     "id": "q10",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Dans la mythologie nordique, qui tue le dieu Baldr ?",
-    "answers": [
-      "Loki",
-      "Surt",
-      "Fenrir",
-      "Hodr"
-    ],
-    "correctIndex": 3
+    "text": "Dans la mythologie nordique, quel animal ronge les racines d’Yggdrasil ?",
+    "answers": ["Fenrir", "Níðhöggr", "Garm", "Hati"],
+    "correctIndex": 1
   },
   {
     "id": "q11",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel roi mythique grec a été condamné à pousser un rocher éternellement ?",
-    "answers": [
-      "Ixion",
-      "Tantale",
-      "Minos",
-      "Sisyphe"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est tué par sa propre épouse Déjanire sans intention meurtrière ?",
+    "answers": ["Persée", "Achille", "Héraclès", "Ajax"],
+    "correctIndex": 2
   },
   {
     "id": "q12",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Arachne",
-      "Eurydice",
-      "Philonoe",
-      "Arachnéa"
-    ],
-    "correctIndex": 0
+    "text": "Dans la mythologie slave, quel esprit féminin des eaux est réputé dangereux pour les hommes ?",
+    "answers": ["Leshy", "Domovoï", "Bannik", "Rusalka"],
+    "correctIndex": 3
   },
+
   {
     "id": "q13",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Arachnéa",
-      "Philonoe",
-      "Arachne",
-      "Eurydice"
-    ],
-    "correctIndex": 2
+    "text": "Quel héros grec est parfois présenté comme le fondateur mythique de Mycènes ?",
+    "answers": ["Persée", "Pélops", "Atrée", "Danaos"],
+    "correctIndex": 0
   },
   {
     "id": "q14",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quelle créature marine aurait coulé l'USS Scorpion selon une légende urbaine ?",
-    "answers": [
-      "Hydre",
-      "Kraken",
-      "Leviathan",
-      "Mégalodon"
-    ],
+    "text": "Quel dieu grec est assimilé au temps dévorant ses enfants dans certaines interprétations ?",
+    "answers": ["Zeus", "Cronos", "Hadès", "Océan"],
     "correctIndex": 1
   },
   {
     "id": "q15",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Eurydice",
-      "Arachne",
-      "Arachnéa",
-      "Philonoe"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est l’architecte du navire Argo selon les traditions ?",
+    "answers": ["Tiphys", "Argos", "Jason", "Orphée"],
+    "correctIndex": 2
   },
   {
     "id": "q16",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'épée de Siegfried ?",
-    "answers": [
-      "Excalibur",
-      "Balmung",
-      "Durandal",
-      "Gram"
-    ],
-    "correctIndex": 1
+    "text": "Dans la mythologie nordique, quel royaume est gouverné par la déesse Hel ?",
+    "answers": ["Asgard", "Niflheim", "Jötunheim", "Helheim"],
+    "correctIndex": 3
   },
+
   {
     "id": "q17",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Qui est le père de Thésée ?",
-    "answers": [
-      "Poséidon",
-      "Zeus",
-      "Minos",
-      "Égée"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est puni pour avoir tenté de tromper la mort à deux reprises ?",
+    "answers": ["Sisyphe", "Tantale", "Ixion", "Orion"],
+    "correctIndex": 0
   },
   {
     "id": "q18",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quelle créature marine aurait coulé l'USS Scorpion selon une légende urbaine ?",
-    "answers": [
-      "Hydre",
-      "Mégalodon",
-      "Kraken",
-      "Leviathan"
-    ],
-    "correctIndex": 2
+    "text": "Quelle déesse grecque est associée aux sortilèges, aux carrefours et à la nuit ?",
+    "answers": ["Nyx", "Hécate", "Artémis", "Perséphone"],
+    "correctIndex": 1
   },
   {
     "id": "q19",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du géant qui aide Arthur dans certaines légendes ?",
-    "answers": [
-      "Goliath",
-      "Géant de Mont-Saint-Michel",
-      "Grendel",
-      "Humbaba"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est le père de Méduse selon certaines traditions tardives ?",
+    "answers": ["Phorcys", "Nérée", "Océan", "Triton"],
+    "correctIndex": 2
   },
   {
     "id": "q20",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Qui est le père de Thésée ?",
-    "answers": [
-      "Poséidon",
-      "Zeus",
-      "Minos",
-      "Égée"
-    ],
+    "text": "Dans le folklore germanique, quel esprit aquatique féminin est parfois appelé Undine ?",
+    "answers": ["Nixe", "Kelpie", "Selkie", "Ondine"],
     "correctIndex": 3
   },
+
   {
     "id": "q21",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Arachnéa",
-      "Eurydice",
-      "Philonoe",
-      "Arachne"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est l’instigateur du serment des prétendants d’Hélène ?",
+    "answers": ["Ulysse", "Ménélas", "Agamemnon", "Nestor"],
+    "correctIndex": 0
   },
   {
     "id": "q22",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel roi mythique grec a été condamné à pousser un rocher éternellement ?",
-    "answers": [
-      "Minos",
-      "Sisyphe",
-      "Tantale",
-      "Ixion"
-    ],
+    "text": "Dans la mythologie nordique, quelle déesse est associée à la prophétie et à la mort ?",
+    "answers": ["Frigg", "Freyja", "Skadi", "Hel"],
     "correctIndex": 1
   },
   {
     "id": "q23",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'épée de Siegfried ?",
-    "answers": [
-      "Durandal",
-      "Gram",
-      "Excalibur",
-      "Balmung"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est lié à la fondation mythique de Cyrène ?",
+    "answers": ["Battos", "Jason", "Énée", "Cadmos"],
+    "correctIndex": 2
   },
   {
     "id": "q24",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quelle légende bretonne parle d'une ville engloutie en mer ?",
-    "answers": [
-      "Broceliande",
-      "Atlantide",
-      "Avalon",
-      "Ys"
-    ],
+    "text": "Dans la mythologie hindoue, quel démon à dix têtes est vaincu par Rama ?",
+    "answers": ["Indra", "Kumbhakarna", "Hanuman", "Ravana"],
     "correctIndex": 3
   },
+
   {
     "id": "q25",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du navire fantôme légendaire aperçu au Cap de Bonne-Espérance ?",
-    "answers": [
-      "Endeavour",
-      "Flying Cloud",
-      "Mary Celeste",
-      "Le Hollandais volant"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est lié à la constellation du Lion de Némée ?",
+    "answers": ["Héraclès", "Persée", "Orion", "Achille"],
+    "correctIndex": 0
   },
   {
     "id": "q26",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du géant qui aide Arthur dans certaines légendes ?",
-    "answers": [
-      "Géant de Mont-Saint-Michel",
-      "Grendel",
-      "Goliath",
-      "Humbaba"
-    ],
-    "correctIndex": 0
+    "text": "Quel dieu grec est la personnification de la peur panique ?",
+    "answers": ["Arès", "Pan", "Phobos", "Deimos"],
+    "correctIndex": 1
   },
   {
     "id": "q27",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quelle créature marine aurait coulé l'USS Scorpion selon une légende urbaine ?",
-    "answers": [
-      "Mégalodon",
-      "Leviathan",
-      "Kraken",
-      "Hydre"
-    ],
+    "text": "Quel héros grec est le père d’Œdipe ?",
+    "answers": ["Créon", "Polynice", "Laïos", "Cadmos"],
     "correctIndex": 2
   },
   {
     "id": "q28",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du géant qui aide Arthur dans certaines légendes ?",
-    "answers": [
-      "Grendel",
-      "Goliath",
-      "Humbaba",
-      "Géant de Mont-Saint-Michel"
-    ],
+    "text": "Dans le folklore finlandais, quel instrument magique apparaît dans le Kalevala ?",
+    "answers": ["La lyre", "Le tambour", "La flûte", "Le kantele"],
     "correctIndex": 3
   },
+
   {
     "id": "q29",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du navire fantôme légendaire aperçu au Cap de Bonne-Espérance ?",
-    "answers": [
-      "Flying Cloud",
-      "Le Hollandais volant",
-      "Endeavour",
-      "Mary Celeste"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est associé à la chasse au sanglier d’Érymanthe ?",
+    "answers": ["Héraclès", "Thésée", "Jason", "Persée"],
+    "correctIndex": 0
   },
   {
     "id": "q30",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du géant qui aide Arthur dans certaines légendes ?",
-    "answers": [
-      "Géant de Mont-Saint-Michel",
-      "Goliath",
-      "Humbaba",
-      "Grendel"
-    ],
-    "correctIndex": 0
+    "text": "Quel dieu grec est spécifiquement lié aux mystères d’Éleusis ?",
+    "answers": ["Apollon", "Déméter", "Dionysos", "Hadès"],
+    "correctIndex": 1
   },
   {
     "id": "q31",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Qui est le père de Thésée ?",
-    "answers": [
-      "Égée",
-      "Poséidon",
-      "Zeus",
-      "Minos"
-    ],
-    "correctIndex": 0
+    "text": "Quel héros grec est l’ennemi juré de Thésée sur la route d’Athènes ?",
+    "answers": ["Cercyon", "Sciron", "Procuste", "Sinis"],
+    "correctIndex": 2
   },
   {
     "id": "q32",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'épée de Siegfried ?",
-    "answers": [
-      "Durandal",
-      "Gram",
-      "Excalibur",
-      "Balmung"
-    ],
+    "text": "Dans la mythologie nordique, quel géant de feu combat lors du Ragnarök ?",
+    "answers": ["Ymir", "Skrymir", "Thrym", "Surt"],
     "correctIndex": 3
   },
+
   {
     "id": "q33",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du géant qui aide Arthur dans certaines légendes ?",
-    "answers": [
-      "Goliath",
-      "Géant de Mont-Saint-Michel",
-      "Grendel",
-      "Humbaba"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est le compagnon d’Achille et meurt sous les coups d’Hector ?",
+    "answers": ["Patrocle", "Ajax", "Diomède", "Nestor"],
+    "correctIndex": 0
   },
   {
     "id": "q34",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du navire fantôme légendaire aperçu au Cap de Bonne-Espérance ?",
-    "answers": [
-      "Le Hollandais volant",
-      "Flying Cloud",
-      "Mary Celeste",
-      "Endeavour"
-    ],
-    "correctIndex": 0
+    "text": "Quelle déesse grecque est la personnification de la vengeance divine ?",
+    "answers": ["Héra", "Némésis", "Hécate", "Nyx"],
+    "correctIndex": 1
   },
   {
     "id": "q35",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Arachnéa",
-      "Philonoe",
-      "Eurydice",
-      "Arachne"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est associé au meurtre du roi Créon dans certaines traditions ?",
+    "answers": ["Œdipe", "Thésée", "Jason", "Persée"],
+    "correctIndex": 2
   },
   {
     "id": "q36",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du chien à deux têtes frère de Cerbère ?",
-    "answers": [
-      "Argos",
-      "Anubis",
-      "Orthros",
-      "Fenrir"
-    ],
-    "correctIndex": 2
+    "text": "Dans le folklore breton, quel être est la personnification de la mort ?",
+    "answers": ["La fée", "La korrigane", "La lavandière", "L’Ankou"],
+    "correctIndex": 3
   },
+
   {
     "id": "q37",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Dans la mythologie nordique, qui tue le dieu Baldr ?",
-    "answers": [
-      "Loki",
-      "Hodr",
-      "Fenrir",
-      "Surt"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est le fondateur mythique de Thèbes ?",
+    "answers": ["Cadmos", "Œdipe", "Amphion", "Zéthos"],
+    "correctIndex": 0
   },
   {
     "id": "q38",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du navire fantôme légendaire aperçu au Cap de Bonne-Espérance ?",
-    "answers": [
-      "Flying Cloud",
-      "Le Hollandais volant",
-      "Mary Celeste",
-      "Endeavour"
-    ],
+    "text": "Quel dieu grec est associé à la mort paisible ?",
+    "answers": ["Hadès", "Thanatos", "Hypnos", "Hermès"],
     "correctIndex": 1
   },
   {
     "id": "q39",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Arachne",
-      "Arachnéa",
-      "Philonoe",
-      "Eurydice"
-    ],
-    "correctIndex": 0
+    "text": "Quel héros grec est célèbre pour avoir vaincu la Chimère ?",
+    "answers": ["Persée", "Jason", "Bellérophon", "Héraclès"],
+    "correctIndex": 2
   },
   {
     "id": "q40",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du chien à deux têtes frère de Cerbère ?",
-    "answers": [
-      "Argos",
-      "Fenrir",
-      "Orthros",
-      "Anubis"
-    ],
-    "correctIndex": 2
+    "text": "Dans la mythologie nordique, quel navire est construit avec les ongles des morts ?",
+    "answers": ["Skidbladnir", "Hringhorni", "Gjallar", "Naglfar"],
+    "correctIndex": 3
   },
+
   {
     "id": "q41",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Eurydice",
-      "Philonoe",
-      "Arachnéa",
-      "Arachne"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est lié au mythe du ruban d’Ariane ?",
+    "answers": ["Thésée", "Persée", "Jason", "Héraclès"],
+    "correctIndex": 0
   },
   {
     "id": "q42",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quelle créature marine aurait coulé l'USS Scorpion selon une légende urbaine ?",
-    "answers": [
-      "Hydre",
-      "Mégalodon",
-      "Leviathan",
-      "Kraken"
-    ],
-    "correctIndex": 3
+    "text": "Quelle déesse grecque est associée à la nuit primordiale ?",
+    "answers": ["Hécate", "Nyx", "Artémis", "Perséphone"],
+    "correctIndex": 1
   },
   {
     "id": "q43",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Dans la mythologie nordique, qui tue le dieu Baldr ?",
-    "answers": [
-      "Hodr",
-      "Surt",
-      "Fenrir",
-      "Loki"
-    ],
-    "correctIndex": 0
+    "text": "Quel héros grec est l’ancêtre mythique du peuple romain ?",
+    "answers": ["Romulus", "Numa", "Énée", "Remus"],
+    "correctIndex": 2
   },
   {
     "id": "q44",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Qui est le père de Thésée ?",
-    "answers": [
-      "Zeus",
-      "Minos",
-      "Égée",
-      "Poséidon"
-    ],
-    "correctIndex": 2
+    "text": "Dans le folklore écossais, quel esprit aquatique prend la forme d’un cheval ?",
+    "answers": ["Nixe", "Selkie", "Banshee", "Kelpie"],
+    "correctIndex": 3
   },
+
   {
     "id": "q45",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel roi mythique grec a été condamné à pousser un rocher éternellement ?",
-    "answers": [
-      "Ixion",
-      "Minos",
-      "Sisyphe",
-      "Tantale"
-    ],
-    "correctIndex": 2
+    "text": "Quel héros grec est condamné à une faim et une soif éternelles aux Enfers ?",
+    "answers": ["Tantale", "Sisyphe", "Ixion", "Atlas"],
+    "correctIndex": 0
   },
   {
     "id": "q46",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Qui est le père de Thésée ?",
-    "answers": [
-      "Minos",
-      "Égée",
-      "Poséidon",
-      "Zeus"
-    ],
+    "text": "Quel dieu grec est le messager des dieux et le guide des âmes ?",
+    "answers": ["Apollon", "Hermès", "Arès", "Héphaïstos"],
     "correctIndex": 1
   },
   {
     "id": "q47",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel roi mythique grec a été condamné à pousser un rocher éternellement ?",
-    "answers": [
-      "Minos",
-      "Sisyphe",
-      "Tantale",
-      "Ixion"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est fils de Zeus et de Danaé ?",
+    "answers": ["Achille", "Héraclès", "Persée", "Jason"],
+    "correctIndex": 2
   },
   {
     "id": "q48",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du géant qui aide Arthur dans certaines légendes ?",
-    "answers": [
-      "Goliath",
-      "Géant de Mont-Saint-Michel",
-      "Humbaba",
-      "Grendel"
-    ],
-    "correctIndex": 1
+    "text": "Dans la mythologie japonaise, quel esprit est associé aux montagnes et à la guerre ?",
+    "answers": ["Oni", "Kappa", "Kitsune", "Tengu"],
+    "correctIndex": 3
   },
+
   {
     "id": "q49",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'épée de Siegfried ?",
-    "answers": [
-      "Balmung",
-      "Excalibur",
-      "Durandal",
-      "Gram"
-    ],
+    "text": "Quel héros grec est associé à la fondation mythique de Marseille (Massalia) ?",
+    "answers": ["Protis", "Énée", "Jason", "Ulysse"],
     "correctIndex": 0
   },
   {
     "id": "q50",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du chien à deux têtes frère de Cerbère ?",
-    "answers": [
-      "Anubis",
-      "Orthros",
-      "Argos",
-      "Fenrir"
-    ],
+    "text": "Quel dieu grec est le souverain de l’Olympe ?",
+    "answers": ["Poséidon", "Zeus", "Hadès", "Apollon"],
     "correctIndex": 1
   },
   {
     "id": "q51",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Philonoe",
-      "Eurydice",
-      "Arachne",
-      "Arachnéa"
-    ],
-    "correctIndex": 2
+    "text": "Quel héros grec est condamné à porter la voûte céleste après avoir trompé Zeus ?",
+    "answers": ["Atlas", "Prométhée", "Ixion", "Tantale"],
+    "correctIndex": 0
   },
   {
     "id": "q52",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Arachnéa",
-      "Eurydice",
-      "Philonoe",
-      "Arachne"
-    ],
-    "correctIndex": 3
+    "text": "Quelle déesse grecque protège spécifiquement les accouchements ?",
+    "answers": ["Artémis", "Ilithyie", "Héra", "Déméter"],
+    "correctIndex": 1
   },
   {
     "id": "q53",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Qui est le père de Thésée ?",
-    "answers": [
-      "Zeus",
-      "Minos",
-      "Poséidon",
-      "Égée"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est l’auteur du meurtre de son propre fils Itys selon la légende ?",
+    "answers": ["Jason", "Thésée", "Térée", "Cadmos"],
+    "correctIndex": 2
   },
   {
     "id": "q54",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Qui est le père de Thésée ?",
-    "answers": [
-      "Égée",
-      "Zeus",
-      "Poséidon",
-      "Minos"
-    ],
-    "correctIndex": 0
+    "text": "Dans la mythologie nordique, quel animal poursuit la Lune jusqu’au Ragnarök ?",
+    "answers": ["Fenrir", "Sköll", "Jörmungandr", "Hati"],
+    "correctIndex": 3
   },
+
   {
     "id": "q55",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du géant qui aide Arthur dans certaines légendes ?",
-    "answers": [
-      "Géant de Mont-Saint-Michel",
-      "Humbaba",
-      "Goliath",
-      "Grendel"
-    ],
+    "text": "Quel héros grec est associé au mythe de la reine Médée ?",
+    "answers": ["Jason", "Héraclès", "Orphée", "Achille"],
     "correctIndex": 0
   },
   {
     "id": "q56",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quelle légende bretonne parle d'une ville engloutie en mer ?",
-    "answers": [
-      "Ys",
-      "Atlantide",
-      "Avalon",
-      "Broceliande"
-    ],
-    "correctIndex": 0
+    "text": "Quel fleuve des Enfers est associé à l’oubli des souvenirs ?",
+    "answers": ["Styx", "Léthé", "Cocyte", "Achéron"],
+    "correctIndex": 1
   },
   {
     "id": "q57",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du navire fantôme légendaire aperçu au Cap de Bonne-Espérance ?",
-    "answers": [
-      "Le Hollandais volant",
-      "Mary Celeste",
-      "Flying Cloud",
-      "Endeavour"
-    ],
-    "correctIndex": 0
+    "text": "Quel héros grec fonde la cité de Corinthe selon la tradition mythologique ?",
+    "answers": ["Sisyphe", "Bellérophon", "Glaucos", "Pélops"],
+    "correctIndex": 2
   },
   {
     "id": "q58",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Qui est le père de Thésée ?",
-    "answers": [
-      "Zeus",
-      "Égée",
-      "Poséidon",
-      "Minos"
-    ],
-    "correctIndex": 1
+    "text": "Dans le folklore slave, quel esprit domestique protège la maison ?",
+    "answers": ["Bannik", "Leshy", "Vodyanoï", "Domovoï"],
+    "correctIndex": 3
   },
+
   {
     "id": "q59",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel roi mythique grec a été condamné à pousser un rocher éternellement ?",
-    "answers": [
-      "Tantale",
-      "Ixion",
-      "Minos",
-      "Sisyphe"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est responsable de la mort d’Hector ?",
+    "answers": ["Achille", "Ajax", "Patrocle", "Diomède"],
+    "correctIndex": 0
   },
   {
     "id": "q60",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du navire fantôme légendaire aperçu au Cap de Bonne-Espérance ?",
-    "answers": [
-      "Mary Celeste",
-      "Endeavour",
-      "Flying Cloud",
-      "Le Hollandais volant"
-    ],
-    "correctIndex": 3
+    "text": "Quel dieu grec est associé au sommeil ?",
+    "answers": ["Thanatos", "Hypnos", "Hermès", "Hadès"],
+    "correctIndex": 1
   },
   {
     "id": "q61",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Qui est le père de Thésée ?",
-    "answers": [
-      "Zeus",
-      "Minos",
-      "Poséidon",
-      "Égée"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est condamné à tourner éternellement une roue enflammée ?",
+    "answers": ["Sisyphe", "Tantale", "Ixion", "Atlas"],
+    "correctIndex": 2
   },
   {
     "id": "q62",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du chien à deux têtes frère de Cerbère ?",
-    "answers": [
-      "Orthros",
-      "Anubis",
-      "Fenrir",
-      "Argos"
-    ],
-    "correctIndex": 0
+    "text": "Dans la mythologie japonaise, quel esprit est associé aux renards magiques ?",
+    "answers": ["Oni", "Tengu", "Yūrei", "Kitsune"],
+    "correctIndex": 3
   },
+
   {
     "id": "q63",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Arachne",
-      "Eurydice",
-      "Philonoe",
-      "Arachnéa"
-    ],
+    "text": "Quel héros grec descend aux Enfers pour tenter de ramener Eurydice ?",
+    "answers": ["Orphée", "Héraclès", "Thésée", "Ulysse"],
     "correctIndex": 0
   },
   {
     "id": "q64",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quelle créature marine aurait coulé l'USS Scorpion selon une légende urbaine ?",
-    "answers": [
-      "Leviathan",
-      "Hydre",
-      "Mégalodon",
-      "Kraken"
-    ],
-    "correctIndex": 3
+    "text": "Quelle déesse grecque est associée à la chasse et à la virginité ?",
+    "answers": ["Athéna", "Artémis", "Héra", "Hécate"],
+    "correctIndex": 1
   },
   {
     "id": "q65",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'épée de Siegfried ?",
-    "answers": [
-      "Balmung",
-      "Gram",
-      "Excalibur",
-      "Durandal"
-    ],
-    "correctIndex": 0
+    "text": "Quel héros grec est lié au cheval ailé Pégase ?",
+    "answers": ["Persée", "Bellérophon", "Jason", "Héraclès"],
+    "correctIndex": 2
   },
   {
     "id": "q66",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel roi mythique grec a été condamné à pousser un rocher éternellement ?",
-    "answers": [
-      "Sisyphe",
-      "Minos",
-      "Tantale",
-      "Ixion"
-    ],
-    "correctIndex": 0
+    "text": "Dans la mythologie nordique, quel serpent encercle le monde ?",
+    "answers": ["Fenrir", "Níðhöggr", "Sköll", "Jörmungandr"],
+    "correctIndex": 3
   },
+
   {
     "id": "q67",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du chien à deux têtes frère de Cerbère ?",
-    "answers": [
-      "Argos",
-      "Orthros",
-      "Fenrir",
-      "Anubis"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est connu pour son intelligence lors de la guerre de Troie ?",
+    "answers": ["Ulysse", "Nestor", "Ajax", "Diomède"],
+    "correctIndex": 0
   },
   {
     "id": "q68",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'épée de Siegfried ?",
-    "answers": [
-      "Durandal",
-      "Excalibur",
-      "Gram",
-      "Balmung"
-    ],
-    "correctIndex": 3
+    "text": "Quel dieu grec est le forgeron des dieux ?",
+    "answers": ["Arès", "Héphaïstos", "Apollon", "Hermès"],
+    "correctIndex": 1
   },
   {
     "id": "q69",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'épée de Siegfried ?",
-    "answers": [
-      "Durandal",
-      "Excalibur",
-      "Balmung",
-      "Gram"
-    ],
+    "text": "Quel héros grec est associé à la fondation de Rome selon la tradition romaine ?",
+    "answers": ["Romulus", "Numa", "Énée", "Remus"],
     "correctIndex": 2
   },
   {
     "id": "q70",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du navire fantôme légendaire aperçu au Cap de Bonne-Espérance ?",
-    "answers": [
-      "Endeavour",
-      "Flying Cloud",
-      "Le Hollandais volant",
-      "Mary Celeste"
-    ],
-    "correctIndex": 2
+    "text": "Dans le folklore irlandais, quel peuple mythique précède les Celtes ?",
+    "answers": ["Fir Bolg", "Fomoires", "Milesiens", "Tuatha Dé Danann"],
+    "correctIndex": 3
   },
+
   {
     "id": "q71",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du géant qui aide Arthur dans certaines légendes ?",
-    "answers": [
-      "Grendel",
-      "Géant de Mont-Saint-Michel",
-      "Goliath",
-      "Humbaba"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est tué par une flèche empoisonnée de Pâris ?",
+    "answers": ["Achille", "Ajax", "Patrocle", "Diomède"],
+    "correctIndex": 0
   },
   {
     "id": "q72",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quelle créature marine aurait coulé l'USS Scorpion selon une légende urbaine ?",
-    "answers": [
-      "Kraken",
-      "Hydre",
-      "Leviathan",
-      "Mégalodon"
-    ],
-    "correctIndex": 0
+    "text": "Quelle déesse grecque est la protectrice d’Athènes ?",
+    "answers": ["Héra", "Athéna", "Artémis", "Déméter"],
+    "correctIndex": 1
   },
   {
     "id": "q73",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du chien à deux têtes frère de Cerbère ?",
-    "answers": [
-      "Argos",
-      "Anubis",
-      "Fenrir",
-      "Orthros"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est condamné à pousser éternellement un rocher ?",
+    "answers": ["Atlas", "Tantale", "Sisyphe", "Ixion"],
+    "correctIndex": 2
   },
   {
     "id": "q74",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quelle légende bretonne parle d'une ville engloutie en mer ?",
-    "answers": [
-      "Ys",
-      "Atlantide",
-      "Avalon",
-      "Broceliande"
-    ],
-    "correctIndex": 0
+    "text": "Dans la mythologie nordique, quel loup dévore Odin lors du Ragnarök ?",
+    "answers": ["Sköll", "Hati", "Garm", "Fenrir"],
+    "correctIndex": 3
   },
+
   {
     "id": "q75",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'épée de Siegfried ?",
-    "answers": [
-      "Balmung",
-      "Excalibur",
-      "Gram",
-      "Durandal"
-    ],
+    "text": "Quel héros grec est le père de Télémaque ?",
+    "answers": ["Ulysse", "Agamemnon", "Ménélas", "Nestor"],
     "correctIndex": 0
   },
   {
     "id": "q76",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Qui est le père de Thésée ?",
-    "answers": [
-      "Minos",
-      "Égée",
-      "Poséidon",
-      "Zeus"
-    ],
+    "text": "Quel dieu grec préside aux arts et à la musique ?",
+    "answers": ["Hermès", "Apollon", "Dionysos", "Pan"],
     "correctIndex": 1
   },
   {
     "id": "q77",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Dans la mythologie nordique, qui tue le dieu Baldr ?",
-    "answers": [
-      "Loki",
-      "Fenrir",
-      "Hodr",
-      "Surt"
-    ],
+    "text": "Quel héros grec est l’époux de Pénélope ?",
+    "answers": ["Achille", "Jason", "Ulysse", "Agamemnon"],
     "correctIndex": 2
   },
   {
     "id": "q78",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Arachnéa",
-      "Eurydice",
-      "Arachne",
-      "Philonoe"
-    ],
-    "correctIndex": 2
+    "text": "Dans la mythologie japonaise, quel dieu solaire fonde la lignée impériale ?",
+    "answers": ["Izanagi", "Susanoo", "Tsukuyomi", "Amaterasu"],
+    "correctIndex": 3
   },
+
   {
     "id": "q79",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel roi mythique grec a été condamné à pousser un rocher éternellement ?",
-    "answers": [
-      "Tantale",
-      "Minos",
-      "Sisyphe",
-      "Ixion"
-    ],
-    "correctIndex": 2
+    "text": "Quel héros grec est lié au mythe du cheval de Troie ?",
+    "answers": ["Ulysse", "Achille", "Ajax", "Diomède"],
+    "correctIndex": 0
   },
   {
     "id": "q80",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quelle créature marine aurait coulé l'USS Scorpion selon une légende urbaine ?",
-    "answers": [
-      "Kraken",
-      "Leviathan",
-      "Hydre",
-      "Mégalodon"
-    ],
-    "correctIndex": 0
+    "text": "Quelle déesse grecque est associée à l’amour et à la beauté ?",
+    "answers": ["Héra", "Aphrodite", "Artémis", "Athéna"],
+    "correctIndex": 1
   },
   {
     "id": "q81",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quelle créature marine aurait coulé l'USS Scorpion selon une légende urbaine ?",
-    "answers": [
-      "Kraken",
-      "Leviathan",
-      "Hydre",
-      "Mégalodon"
-    ],
-    "correctIndex": 0
+    "text": "Quel héros grec est le roi d’Ithaque ?",
+    "answers": ["Agamemnon", "Ménélas", "Ulysse", "Nestor"],
+    "correctIndex": 2
   },
   {
     "id": "q82",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'épée de Siegfried ?",
-    "answers": [
-      "Gram",
-      "Balmung",
-      "Durandal",
-      "Excalibur"
-    ],
-    "correctIndex": 1
+    "text": "Dans le folklore breton, quel esprit lave les linceuls près des rivières ?",
+    "answers": ["La fée", "La korrigane", "L’Ankou", "La lavandière de nuit"],
+    "correctIndex": 3
   },
+
   {
     "id": "q83",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Arachnéa",
-      "Arachne",
-      "Philonoe",
-      "Eurydice"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est associé au mythe de la toison d’or ?",
+    "answers": ["Jason", "Héraclès", "Persée", "Thésée"],
+    "correctIndex": 0
   },
   {
     "id": "q84",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du géant qui aide Arthur dans certaines légendes ?",
-    "answers": [
-      "Humbaba",
-      "Géant de Mont-Saint-Michel",
-      "Goliath",
-      "Grendel"
-    ],
+    "text": "Quel dieu grec règne sur le monde souterrain ?",
+    "answers": ["Zeus", "Hadès", "Poséidon", "Hermès"],
     "correctIndex": 1
   },
   {
     "id": "q85",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quelle légende bretonne parle d'une ville engloutie en mer ?",
-    "answers": [
-      "Ys",
-      "Broceliande",
-      "Avalon",
-      "Atlantide"
-    ],
-    "correctIndex": 0
+    "text": "Quel héros grec affronte le Minotaure ?",
+    "answers": ["Persée", "Héraclès", "Thésée", "Jason"],
+    "correctIndex": 2
   },
   {
     "id": "q86",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quelle légende bretonne parle d'une ville engloutie en mer ?",
-    "answers": [
-      "Avalon",
-      "Ys",
-      "Broceliande",
-      "Atlantide"
-    ],
-    "correctIndex": 1
+    "text": "Dans la mythologie nordique, quel cheval à huit jambes transporte Odin ?",
+    "answers": ["Hrimfaxi", "Skinfaxi", "Gullfaxi", "Sleipnir"],
+    "correctIndex": 3
   },
+
   {
     "id": "q87",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Qui est le père de Thésée ?",
-    "answers": [
-      "Poséidon",
-      "Zeus",
-      "Égée",
-      "Minos"
-    ],
-    "correctIndex": 2
+    "text": "Quel héros grec est connu pour sa ruse face au Cyclope Polyphème ?",
+    "answers": ["Ulysse", "Achille", "Jason", "Thésée"],
+    "correctIndex": 0
   },
   {
     "id": "q88",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Dans la mythologie nordique, qui tue le dieu Baldr ?",
-    "answers": [
-      "Fenrir",
-      "Hodr",
-      "Loki",
-      "Surt"
-    ],
+    "text": "Quelle déesse grecque est l’épouse de Zeus ?",
+    "answers": ["Déméter", "Héra", "Athéna", "Hécate"],
     "correctIndex": 1
   },
   {
     "id": "q89",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Qui est le père de Thésée ?",
-    "answers": [
-      "Égée",
-      "Zeus",
-      "Minos",
-      "Poséidon"
-    ],
-    "correctIndex": 0
+    "text": "Quel héros grec est fils de Pélée et de Thétis ?",
+    "answers": ["Persée", "Héraclès", "Achille", "Ajax"],
+    "correctIndex": 2
   },
   {
     "id": "q90",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Dans la mythologie nordique, qui tue le dieu Baldr ?",
-    "answers": [
-      "Loki",
-      "Surt",
-      "Fenrir",
-      "Hodr"
-    ],
+    "text": "Dans le folklore gallois, quel roi est associé au chaudron de résurrection ?",
+    "answers": ["Arthur", "Taliesin", "Llew", "Brân le Béni"],
     "correctIndex": 3
   },
+
   {
     "id": "q91",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Arachne",
-      "Eurydice",
-      "Philonoe",
-      "Arachnéa"
-    ],
+    "text": "Quel héros grec est lié au mythe de la guerre de Troie dès son origine ?",
+    "answers": ["Pâris", "Achille", "Hector", "Énée"],
     "correctIndex": 0
   },
   {
     "id": "q92",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Qui est le père de Thésée ?",
-    "answers": [
-      "Zeus",
-      "Poséidon",
-      "Égée",
-      "Minos"
-    ],
-    "correctIndex": 2
+    "text": "Quel dieu grec gouverne les mers ?",
+    "answers": ["Zeus", "Poséidon", "Hadès", "Apollon"],
+    "correctIndex": 1
   },
   {
     "id": "q93",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel roi mythique grec a été condamné à pousser un rocher éternellement ?",
-    "answers": [
-      "Ixion",
-      "Minos",
-      "Tantale",
-      "Sisyphe"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est le fondateur mythique de Thèbes avec son frère ?",
+    "answers": ["Cadmos", "Œdipe", "Amphion", "Zéthos"],
+    "correctIndex": 2
   },
   {
     "id": "q94",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel roi mythique grec a été condamné à pousser un rocher éternellement ?",
-    "answers": [
-      "Tantale",
-      "Sisyphe",
-      "Minos",
-      "Ixion"
-    ],
-    "correctIndex": 1
+    "text": "Dans la mythologie nordique, quel arbre soutient les neuf mondes ?",
+    "answers": ["Irminsul", "Mímameiðr", "Hliðskjálf", "Yggdrasil"],
+    "correctIndex": 3
   },
+
   {
     "id": "q95",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'épée de Siegfried ?",
-    "answers": [
-      "Gram",
-      "Durandal",
-      "Balmung",
-      "Excalibur"
-    ],
-    "correctIndex": 2
+    "text": "Quel héros grec est le père d’Hector ?",
+    "answers": ["Priam", "Anchise", "Laomédon", "Tros"],
+    "correctIndex": 0
   },
   {
     "id": "q96",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du géant qui aide Arthur dans certaines légendes ?",
-    "answers": [
-      "Grendel",
-      "Géant de Mont-Saint-Michel",
-      "Humbaba",
-      "Goliath"
-    ],
+    "text": "Quelle déesse grecque est associée aux moissons ?",
+    "answers": ["Héra", "Déméter", "Perséphone", "Hécate"],
     "correctIndex": 1
   },
   {
     "id": "q97",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Arachnéa",
-      "Eurydice",
-      "Philonoe",
-      "Arachne"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est connu pour avoir survécu au chant des Sirènes ?",
+    "answers": ["Jason", "Achille", "Ulysse", "Orphée"],
+    "correctIndex": 2
   },
   {
     "id": "q98",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Arachne",
-      "Arachnéa",
-      "Philonoe",
-      "Eurydice"
-    ],
-    "correctIndex": 0
+    "text": "Dans le folklore irlandais, quel héros manie la lance invincible Gáe Bolg ?",
+    "answers": ["Fionn", "Conchobar", "Diarmuid", "Cúchulainn"],
+    "correctIndex": 3
   },
+
   {
     "id": "q99",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quelle légende bretonne parle d'une ville engloutie en mer ?",
-    "answers": [
-      "Atlantide",
-      "Broceliande",
-      "Avalon",
-      "Ys"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est associé au mythe de la princesse Andromède ?",
+    "answers": ["Persée", "Thésée", "Jason", "Héraclès"],
+    "correctIndex": 0
   },
   {
     "id": "q100",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'épée de Siegfried ?",
-    "answers": [
-      "Durandal",
-      "Gram",
-      "Excalibur",
-      "Balmung"
-    ],
-    "correctIndex": 3
+    "text": "Quel dieu grec est le maître du tonnerre et de la foudre ?",
+    "answers": ["Poséidon", "Zeus", "Arès", "Apollon"],
+    "correctIndex": 1
   },
   {
     "id": "q101",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du chien à deux têtes frère de Cerbère ?",
-    "answers": [
-      "Fenrir",
-      "Orthros",
-      "Anubis",
-      "Argos"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est associé à la purification d’Apollon après le meurtre de Python ?",
+    "answers": ["Héraclès", "Ulysse", "Orion", "Persée"],
+    "correctIndex": 0
   },
   {
     "id": "q102",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Dans la mythologie nordique, qui tue le dieu Baldr ?",
-    "answers": [
-      "Loki",
-      "Hodr",
-      "Surt",
-      "Fenrir"
-    ],
+    "text": "Quel dieu grec est le père des Muses selon la tradition la plus répandue ?",
+    "answers": ["Apollon", "Zeus", "Hermès", "Arès"],
     "correctIndex": 1
   },
   {
     "id": "q103",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du chien à deux têtes frère de Cerbère ?",
-    "answers": [
-      "Anubis",
-      "Orthros",
-      "Argos",
-      "Fenrir"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est condamné à rester éternellement debout dans un lac inaccessible ?",
+    "answers": ["Sisyphe", "Ixion", "Tantale", "Atlas"],
+    "correctIndex": 2
   },
   {
     "id": "q104",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'épée de Siegfried ?",
-    "answers": [
-      "Gram",
-      "Balmung",
-      "Excalibur",
-      "Durandal"
-    ],
-    "correctIndex": 1
+    "text": "Dans la mythologie nordique, quel dieu manie la lance nommée Gungnir ?",
+    "answers": ["Thor", "Tyr", "Baldr", "Odin"],
+    "correctIndex": 3
   },
+
   {
     "id": "q105",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quelle légende bretonne parle d'une ville engloutie en mer ?",
-    "answers": [
-      "Ys",
-      "Atlantide",
-      "Broceliande",
-      "Avalon"
-    ],
+    "text": "Quel héros grec est parfois présenté comme le fondateur mythique de la cité d’Argos ?",
+    "answers": ["Danaos", "Persée", "Inachos", "Acrisios"],
     "correctIndex": 0
   },
   {
     "id": "q106",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quelle légende bretonne parle d'une ville engloutie en mer ?",
-    "answers": [
-      "Ys",
-      "Avalon",
-      "Atlantide",
-      "Broceliande"
-    ],
-    "correctIndex": 0
+    "text": "Quelle déesse grecque préside aux mariages légitimes ?",
+    "answers": ["Déméter", "Héra", "Aphrodite", "Artémis"],
+    "correctIndex": 1
   },
   {
     "id": "q107",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quelle légende bretonne parle d'une ville engloutie en mer ?",
-    "answers": [
-      "Ys",
-      "Avalon",
-      "Broceliande",
-      "Atlantide"
-    ],
-    "correctIndex": 0
+    "text": "Quel héros grec est le père d’Asclépios, dieu de la médecine ?",
+    "answers": ["Ulysse", "Jason", "Apollon", "Héraclès"],
+    "correctIndex": 2
   },
   {
     "id": "q108",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quelle créature marine aurait coulé l'USS Scorpion selon une légende urbaine ?",
-    "answers": [
-      "Leviathan",
-      "Hydre",
-      "Mégalodon",
-      "Kraken"
-    ],
+    "text": "Dans le folklore japonais, quel esprit est associé aux morts vengeurs ?",
+    "answers": ["Kappa", "Oni", "Kitsune", "Yūrei"],
     "correctIndex": 3
   },
+
   {
     "id": "q109",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du chien à deux têtes frère de Cerbère ?",
-    "answers": [
-      "Argos",
-      "Anubis",
-      "Orthros",
-      "Fenrir"
-    ],
-    "correctIndex": 2
+    "text": "Quel héros grec est le seul mortel à avoir assisté au banquet des dieux sur l’Olympe ?",
+    "answers": ["Tantale", "Ixion", "Orphée", "Cadmos"],
+    "correctIndex": 0
   },
   {
     "id": "q110",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'épée de Siegfried ?",
-    "answers": [
-      "Excalibur",
-      "Balmung",
-      "Durandal",
-      "Gram"
-    ],
+    "text": "Quel dieu grec est la personnification du sommeil ?",
+    "answers": ["Thanatos", "Hypnos", "Morphée", "Pan"],
     "correctIndex": 1
   },
   {
     "id": "q111",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du navire fantôme légendaire aperçu au Cap de Bonne-Espérance ?",
-    "answers": [
-      "Flying Cloud",
-      "Endeavour",
-      "Mary Celeste",
-      "Le Hollandais volant"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est lié au mythe de la reine Pasiphaé ?",
+    "answers": ["Thésée", "Minos", "Dédale", "Icare"],
+    "correctIndex": 2
   },
   {
     "id": "q112",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Philonoe",
-      "Arachne",
-      "Eurydice",
-      "Arachnéa"
-    ],
-    "correctIndex": 1
+    "text": "Dans la mythologie celtique, quel héros est le père du dieu Lugh ?",
+    "answers": ["Nuada", "Balor", "Brân", "Cian"],
+    "correctIndex": 3
   },
+
   {
     "id": "q113",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel roi mythique grec a été condamné à pousser un rocher éternellement ?",
-    "answers": [
-      "Minos",
-      "Sisyphe",
-      "Ixion",
-      "Tantale"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est associé à la construction des murailles de Troie ?",
+    "answers": ["Laomédon", "Apollon", "Héraclès", "Énée"],
+    "correctIndex": 0
   },
   {
     "id": "q114",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'épée de Siegfried ?",
-    "answers": [
-      "Excalibur",
-      "Durandal",
-      "Balmung",
-      "Gram"
-    ],
-    "correctIndex": 2
+    "text": "Quel dieu grec est assimilé au feu créateur et destructeur ?",
+    "answers": ["Arès", "Héphaïstos", "Apollon", "Prométhée"],
+    "correctIndex": 1
   },
   {
     "id": "q115",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'épée de Siegfried ?",
-    "answers": [
-      "Durandal",
-      "Excalibur",
-      "Balmung",
-      "Gram"
-    ],
+    "text": "Quel héros grec est le père de Bellérophon selon la version la plus courante ?",
+    "answers": ["Glaucos", "Sisyphe", "Poséidon", "Pélops"],
     "correctIndex": 2
   },
   {
     "id": "q116",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel roi mythique grec a été condamné à pousser un rocher éternellement ?",
-    "answers": [
-      "Minos",
-      "Ixion",
-      "Tantale",
-      "Sisyphe"
-    ],
+    "text": "Dans la mythologie nordique, quel royaume est celui des morts glorieux ?",
+    "answers": ["Helheim", "Niflheim", "Asgard", "Valhalla"],
     "correctIndex": 3
   },
+
   {
     "id": "q117",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'épée de Siegfried ?",
-    "answers": [
-      "Excalibur",
-      "Durandal",
-      "Gram",
-      "Balmung"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est condamné à être attaché à une roue ardente ?",
+    "answers": ["Ixion", "Sisyphe", "Tantale", "Prométhée"],
+    "correctIndex": 0
   },
   {
     "id": "q118",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du géant qui aide Arthur dans certaines légendes ?",
-    "answers": [
-      "Grendel",
-      "Géant de Mont-Saint-Michel",
-      "Humbaba",
-      "Goliath"
-    ],
+    "text": "Quelle déesse grecque est associée à la vengeance implacable ?",
+    "answers": ["Hécate", "Némésis", "Érinye", "Nyx"],
     "correctIndex": 1
   },
   {
     "id": "q119",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du géant qui aide Arthur dans certaines légendes ?",
-    "answers": [
-      "Goliath",
-      "Grendel",
-      "Humbaba",
-      "Géant de Mont-Saint-Michel"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est le fondateur mythique de Corinthe ?",
+    "answers": ["Bellérophon", "Glaucos", "Sisyphe", "Pélops"],
+    "correctIndex": 2
   },
   {
     "id": "q120",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du géant qui aide Arthur dans certaines légendes ?",
-    "answers": [
-      "Géant de Mont-Saint-Michel",
-      "Humbaba",
-      "Grendel",
-      "Goliath"
-    ],
-    "correctIndex": 0
+    "text": "Dans la mythologie nordique, quel loup dévore la Lune ?",
+    "answers": ["Fenrir", "Garm", "Sköll", "Hati"],
+    "correctIndex": 3
   },
+
   {
     "id": "q121",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Eurydice",
-      "Philonoe",
-      "Arachnéa",
-      "Arachne"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est le père d’Hylas, compagnon d’Héraclès ?",
+    "answers": ["Théiodamas", "Jason", "Pélops", "Laomédon"],
+    "correctIndex": 0
   },
   {
     "id": "q122",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du navire fantôme légendaire aperçu au Cap de Bonne-Espérance ?",
-    "answers": [
-      "Endeavour",
-      "Le Hollandais volant",
-      "Flying Cloud",
-      "Mary Celeste"
-    ],
+    "text": "Quel dieu grec est le garant des serments ?",
+    "answers": ["Arès", "Zeus", "Apollon", "Hermès"],
     "correctIndex": 1
   },
   {
     "id": "q123",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Dans la mythologie nordique, qui tue le dieu Baldr ?",
-    "answers": [
-      "Loki",
-      "Hodr",
-      "Surt",
-      "Fenrir"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est lié au mythe de la lyre ensorcelante ?",
+    "answers": ["Amphion", "Linus", "Orphée", "Thamyris"],
+    "correctIndex": 2
   },
   {
     "id": "q124",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Qui est le père de Thésée ?",
-    "answers": [
-      "Minos",
-      "Égée",
-      "Zeus",
-      "Poséidon"
-    ],
-    "correctIndex": 1
+    "text": "Dans le folklore slave, quel esprit malveillant hante les bains publics ?",
+    "answers": ["Domovoï", "Leshy", "Vodyanoï", "Bannik"],
+    "correctIndex": 3
   },
+
   {
     "id": "q125",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du chien à deux têtes frère de Cerbère ?",
-    "answers": [
-      "Anubis",
-      "Orthros",
-      "Fenrir",
-      "Argos"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est parfois identifié comme le premier roi d’Athènes ?",
+    "answers": ["Cécrops", "Érechthée", "Thésée", "Ion"],
+    "correctIndex": 0
   },
   {
     "id": "q126",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quelle légende bretonne parle d'une ville engloutie en mer ?",
-    "answers": [
-      "Ys",
-      "Broceliande",
-      "Atlantide",
-      "Avalon"
-    ],
-    "correctIndex": 0
+    "text": "Quelle déesse grecque est associée à la magie nocturne ?",
+    "answers": ["Artémis", "Hécate", "Perséphone", "Nyx"],
+    "correctIndex": 1
   },
   {
     "id": "q127",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du chien à deux têtes frère de Cerbère ?",
-    "answers": [
-      "Anubis",
-      "Fenrir",
-      "Orthros",
-      "Argos"
-    ],
+    "text": "Quel héros grec est le père d’Ajax le Grand ?",
+    "answers": ["Pélée", "Télamon", "Oïlée", "Laërte"],
     "correctIndex": 2
   },
   {
     "id": "q128",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Dans la mythologie nordique, qui tue le dieu Baldr ?",
-    "answers": [
-      "Loki",
-      "Hodr",
-      "Surt",
-      "Fenrir"
-    ],
-    "correctIndex": 1
+    "text": "Dans la mythologie nordique, quel géant tue le dieu Baldr indirectement ?",
+    "answers": ["Surt", "Ymir", "Thrym", "Höðr"],
+    "correctIndex": 3
   },
+
   {
     "id": "q129",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quelle légende bretonne parle d'une ville engloutie en mer ?",
-    "answers": [
-      "Avalon",
-      "Ys",
-      "Broceliande",
-      "Atlantide"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est associé au mythe de la musique bâtisseuse de murailles ?",
+    "answers": ["Amphion", "Orphée", "Linus", "Dédale"],
+    "correctIndex": 0
   },
   {
     "id": "q130",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quelle légende bretonne parle d'une ville engloutie en mer ?",
-    "answers": [
-      "Atlantide",
-      "Broceliande",
-      "Avalon",
-      "Ys"
-    ],
-    "correctIndex": 3
+    "text": "Quel dieu grec est le gardien des frontières et des passages ?",
+    "answers": ["Pan", "Hermès", "Apollon", "Hadès"],
+    "correctIndex": 1
   },
   {
     "id": "q131",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Arachne",
-      "Arachnéa",
-      "Philonoe",
-      "Eurydice"
-    ],
-    "correctIndex": 0
+    "text": "Quel héros grec est le fils de Télamon et combat à Troie ?",
+    "answers": ["Patrocle", "Achille", "Ajax", "Diomède"],
+    "correctIndex": 2
   },
   {
     "id": "q132",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Qui est le père de Thésée ?",
-    "answers": [
-      "Minos",
-      "Zeus",
-      "Poséidon",
-      "Égée"
-    ],
+    "text": "Dans le folklore écossais, quel esprit aquatique attire les voyageurs sous l’eau ?",
+    "answers": ["Nixe", "Selkie", "Banshee", "Kelpie"],
     "correctIndex": 3
   },
+
   {
     "id": "q133",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Qui est le père de Thésée ?",
-    "answers": [
-      "Poséidon",
-      "Minos",
-      "Égée",
-      "Zeus"
-    ],
-    "correctIndex": 2
+    "text": "Quel héros grec est lié au mythe de la vache Io ?",
+    "answers": ["Argos Panoptès", "Hermès", "Persée", "Cadmos"],
+    "correctIndex": 0
   },
   {
     "id": "q134",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Qui est le père de Thésée ?",
-    "answers": [
-      "Égée",
-      "Zeus",
-      "Minos",
-      "Poséidon"
-    ],
-    "correctIndex": 0
+    "text": "Quel dieu grec est la personnification du désir amoureux ?",
+    "answers": ["Pan", "Éros", "Hyménée", "Dionysos"],
+    "correctIndex": 1
   },
   {
     "id": "q135",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quelle créature marine aurait coulé l'USS Scorpion selon une légende urbaine ?",
-    "answers": [
-      "Kraken",
-      "Leviathan",
-      "Mégalodon",
-      "Hydre"
-    ],
-    "correctIndex": 0
+    "text": "Quel héros grec est le père d’Andromaque ?",
+    "answers": ["Anchise", "Priam", "Éétion", "Laomédon"],
+    "correctIndex": 2
   },
   {
     "id": "q136",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quelle créature marine aurait coulé l'USS Scorpion selon une légende urbaine ?",
-    "answers": [
-      "Kraken",
-      "Leviathan",
-      "Mégalodon",
-      "Hydre"
-    ],
-    "correctIndex": 0
+    "text": "Dans la mythologie nordique, quel dieu perd sa main face à Fenrir ?",
+    "answers": ["Odin", "Baldr", "Loki", "Tyr"],
+    "correctIndex": 3
   },
+
   {
     "id": "q137",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Qui est le père de Thésée ?",
-    "answers": [
-      "Minos",
-      "Zeus",
-      "Égée",
-      "Poséidon"
-    ],
-    "correctIndex": 2
+    "text": "Quel héros grec est l’ancêtre mythique des Arcadiens ?",
+    "answers": ["Lycaon", "Pélasgos", "Danaos", "Inachos"],
+    "correctIndex": 0
   },
   {
     "id": "q138",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Philonoe",
-      "Arachnéa",
-      "Arachne",
-      "Eurydice"
-    ],
-    "correctIndex": 2
+    "text": "Quelle déesse grecque est associée aux carrefours et aux sortilèges ?",
+    "answers": ["Nyx", "Hécate", "Artémis", "Perséphone"],
+    "correctIndex": 1
   },
   {
     "id": "q139",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quelle créature marine aurait coulé l'USS Scorpion selon une légende urbaine ?",
-    "answers": [
-      "Kraken",
-      "Leviathan",
-      "Hydre",
-      "Mégalodon"
-    ],
-    "correctIndex": 0
+    "text": "Quel héros grec est lié au mythe du géant Antée ?",
+    "answers": ["Persée", "Thésée", "Héraclès", "Jason"],
+    "correctIndex": 2
   },
   {
     "id": "q140",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du géant qui aide Arthur dans certaines légendes ?",
-    "answers": [
-      "Géant de Mont-Saint-Michel",
-      "Humbaba",
-      "Grendel",
-      "Goliath"
-    ],
-    "correctIndex": 0
+    "text": "Dans le folklore nordique, quel chien garde l’entrée du royaume des morts ?",
+    "answers": ["Fenrir", "Hati", "Sköll", "Garm"],
+    "correctIndex": 3
   },
+
   {
     "id": "q141",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du chien à deux têtes frère de Cerbère ?",
-    "answers": [
-      "Orthros",
-      "Argos",
-      "Anubis",
-      "Fenrir"
-    ],
+    "text": "Quel héros grec est parfois identifié comme le fondateur mythique de Troie ?",
+    "answers": ["Ilos", "Laomédon", "Priam", "Dardanos"],
     "correctIndex": 0
   },
   {
     "id": "q142",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Dans la mythologie nordique, qui tue le dieu Baldr ?",
-    "answers": [
-      "Fenrir",
-      "Surt",
-      "Loki",
-      "Hodr"
-    ],
-    "correctIndex": 3
+    "text": "Quel dieu grec est associé aux oracles et à la prophétie ?",
+    "answers": ["Hermès", "Apollon", "Zeus", "Dionysos"],
+    "correctIndex": 1
   },
   {
     "id": "q143",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Qui est le père de Thésée ?",
-    "answers": [
-      "Égée",
-      "Zeus",
-      "Minos",
-      "Poséidon"
-    ],
-    "correctIndex": 0
+    "text": "Quel héros grec est le père de Cassandre ?",
+    "answers": ["Anchise", "Laomédon", "Priam", "Tros"],
+    "correctIndex": 2
   },
   {
     "id": "q144",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Arachnéa",
-      "Eurydice",
-      "Philonoe",
-      "Arachne"
-    ],
+    "text": "Dans la mythologie japonaise, quel dieu est associé aux tempêtes ?",
+    "answers": ["Izanagi", "Tsukuyomi", "Raijin", "Susanoo"],
     "correctIndex": 3
   },
+
   {
     "id": "q145",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Qui est le père de Thésée ?",
-    "answers": [
-      "Poséidon",
-      "Zeus",
-      "Égée",
-      "Minos"
-    ],
-    "correctIndex": 2
+    "text": "Quel héros grec est le père de Patrocle ?",
+    "answers": ["Ménœtios", "Pélée", "Laërte", "Télamon"],
+    "correctIndex": 0
   },
   {
     "id": "q146",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Philonoe",
-      "Arachnéa",
-      "Arachne",
-      "Eurydice"
-    ],
-    "correctIndex": 2
+    "text": "Quel dieu grec est le protecteur des troupeaux et des bergers ?",
+    "answers": ["Hermès", "Pan", "Apollon", "Arès"],
+    "correctIndex": 1
   },
   {
     "id": "q147",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du navire fantôme légendaire aperçu au Cap de Bonne-Espérance ?",
-    "answers": [
-      "Endeavour",
-      "Mary Celeste",
-      "Flying Cloud",
-      "Le Hollandais volant"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est associé au mythe du chien Cerbère ?",
+    "answers": ["Orphée", "Thésée", "Héraclès", "Ulysse"],
+    "correctIndex": 2
   },
   {
     "id": "q148",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Arachne",
-      "Philonoe",
-      "Eurydice",
-      "Arachnéa"
-    ],
-    "correctIndex": 0
+    "text": "Dans la mythologie nordique, quel pont relie Midgard à Asgard ?",
+    "answers": ["Gjallar", "Himinbjörg", "Ífing", "Bifröst"],
+    "correctIndex": 3
   },
+
   {
     "id": "q149",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Qui est le père de Thésée ?",
-    "answers": [
-      "Égée",
-      "Minos",
-      "Zeus",
-      "Poséidon"
-    ],
+    "text": "Quel héros grec est le père d’Œnomaos, roi de Pise ?",
+    "answers": ["Arès", "Pélops", "Tantale", "Énée"],
     "correctIndex": 0
   },
   {
     "id": "q150",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du géant qui aide Arthur dans certaines légendes ?",
-    "answers": [
-      "Grendel",
-      "Goliath",
-      "Géant de Mont-Saint-Michel",
-      "Humbaba"
-    ],
-    "correctIndex": 2
+    "text": "Quel dieu grec est associé à l’ivresse rituelle et à l’extase ?",
+    "answers": ["Apollon", "Dionysos", "Pan", "Hermès"],
+    "correctIndex": 1
   },
   {
     "id": "q151",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'épée de Siegfried ?",
-    "answers": [
-      "Excalibur",
-      "Gram",
-      "Durandal",
-      "Balmung"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est associé au mythe de la descendance des rois de Sparte ?",
+    "answers": ["Héraclès", "Persée", "Cadmos", "Jason"],
+    "correctIndex": 0
   },
   {
     "id": "q152",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du chien à deux têtes frère de Cerbère ?",
-    "answers": [
-      "Orthros",
-      "Argos",
-      "Anubis",
-      "Fenrir"
-    ],
-    "correctIndex": 0
+    "text": "Quelle déesse grecque est spécifiquement honorée lors des Thesmophories ?",
+    "answers": ["Héra", "Déméter", "Aphrodite", "Artémis"],
+    "correctIndex": 1
   },
   {
     "id": "q153",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du navire fantôme légendaire aperçu au Cap de Bonne-Espérance ?",
-    "answers": [
-      "Endeavour",
-      "Le Hollandais volant",
-      "Mary Celeste",
-      "Flying Cloud"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est le père d’Antigone ?",
+    "answers": ["Créon", "Laïos", "Œdipe", "Cadmos"],
+    "correctIndex": 2
   },
   {
     "id": "q154",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel roi mythique grec a été condamné à pousser un rocher éternellement ?",
-    "answers": [
-      "Ixion",
-      "Sisyphe",
-      "Tantale",
-      "Minos"
-    ],
-    "correctIndex": 1
+    "text": "Dans la mythologie nordique, quel géant est le premier être vivant issu du chaos ?",
+    "answers": ["Surt", "Thrym", "Skrymir", "Ymir"],
+    "correctIndex": 3
   },
+
   {
     "id": "q155",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Qui est le père de Thésée ?",
-    "answers": [
-      "Poséidon",
-      "Minos",
-      "Zeus",
-      "Égée"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est lié au mythe du roi Lycurgue de Thrace ?",
+    "answers": ["Dionysos", "Héraclès", "Orphée", "Persée"],
+    "correctIndex": 0
   },
   {
     "id": "q156",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quelle légende bretonne parle d'une ville engloutie en mer ?",
-    "answers": [
-      "Broceliande",
-      "Atlantide",
-      "Ys",
-      "Avalon"
-    ],
-    "correctIndex": 2
+    "text": "Quel dieu grec est le protecteur des voyageurs et des carrefours ?",
+    "answers": ["Apollon", "Hermès", "Pan", "Arès"],
+    "correctIndex": 1
   },
   {
     "id": "q157",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du navire fantôme légendaire aperçu au Cap de Bonne-Espérance ?",
-    "answers": [
-      "Flying Cloud",
-      "Endeavour",
-      "Le Hollandais volant",
-      "Mary Celeste"
-    ],
+    "text": "Quel héros grec est le père de Téléphos ?",
+    "answers": ["Jason", "Persée", "Héraclès", "Achille"],
     "correctIndex": 2
   },
   {
     "id": "q158",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Philonoe",
-      "Eurydice",
-      "Arachnéa",
-      "Arachne"
-    ],
+    "text": "Dans le folklore japonais, quel esprit féminin apparaît souvent comme une femme sans visage ?",
+    "answers": ["Yūrei", "Kappa", "Oni", "Noppera-bō"],
     "correctIndex": 3
   },
+
   {
     "id": "q159",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Qui est le père de Thésée ?",
-    "answers": [
-      "Poséidon",
-      "Zeus",
-      "Minos",
-      "Égée"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est condamné à soutenir éternellement la voûte céleste ?",
+    "answers": ["Atlas", "Prométhée", "Ixion", "Tantale"],
+    "correctIndex": 0
   },
   {
     "id": "q160",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quelle légende bretonne parle d'une ville engloutie en mer ?",
-    "answers": [
-      "Broceliande",
-      "Ys",
-      "Atlantide",
-      "Avalon"
-    ],
+    "text": "Quelle déesse grecque est associée à la justice divine et humaine ?",
+    "answers": ["Héra", "Thémis", "Némésis", "Hécate"],
     "correctIndex": 1
   },
   {
     "id": "q161",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quelle créature marine aurait coulé l'USS Scorpion selon une légende urbaine ?",
-    "answers": [
-      "Mégalodon",
-      "Kraken",
-      "Leviathan",
-      "Hydre"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est le fils de Glaucos et combat la Chimère ?",
+    "answers": ["Persée", "Jason", "Bellérophon", "Héraclès"],
+    "correctIndex": 2
   },
   {
     "id": "q162",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du chien à deux têtes frère de Cerbère ?",
-    "answers": [
-      "Argos",
-      "Orthros",
-      "Fenrir",
-      "Anubis"
-    ],
-    "correctIndex": 1
+    "text": "Dans la mythologie nordique, quel oiseau rapporte des nouvelles à Odin ?",
+    "answers": ["Hati", "Sköll", "Garm", "Huginn et Muninn"],
+    "correctIndex": 3
   },
+
   {
     "id": "q163",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du géant qui aide Arthur dans certaines légendes ?",
-    "answers": [
-      "Goliath",
-      "Géant de Mont-Saint-Michel",
-      "Grendel",
-      "Humbaba"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est lié au mythe de la fondation de Cyrène ?",
+    "answers": ["Battos", "Énée", "Cadmos", "Jason"],
+    "correctIndex": 0
   },
   {
     "id": "q164",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel roi mythique grec a été condamné à pousser un rocher éternellement ?",
-    "answers": [
-      "Sisyphe",
-      "Tantale",
-      "Minos",
-      "Ixion"
-    ],
-    "correctIndex": 0
+    "text": "Quelle déesse grecque est la personnification de la victoire ?",
+    "answers": ["Athéna", "Niké", "Héra", "Artémis"],
+    "correctIndex": 1
   },
   {
     "id": "q165",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du chien à deux têtes frère de Cerbère ?",
-    "answers": [
-      "Anubis",
-      "Fenrir",
-      "Argos",
-      "Orthros"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est le père de Polynice et d’Étéocle ?",
+    "answers": ["Laïos", "Créon", "Œdipe", "Cadmos"],
+    "correctIndex": 2
   },
   {
     "id": "q166",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Philonoe",
-      "Arachne",
-      "Eurydice",
-      "Arachnéa"
-    ],
-    "correctIndex": 1
+    "text": "Dans le folklore breton, quel être annonce la mort par sa présence nocturne ?",
+    "answers": ["La fée", "La korrigane", "La lavandière", "L’Ankou"],
+    "correctIndex": 3
   },
+
   {
     "id": "q167",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du géant qui aide Arthur dans certaines légendes ?",
-    "answers": [
-      "Humbaba",
-      "Goliath",
-      "Grendel",
-      "Géant de Mont-Saint-Michel"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est associé à la constellation d’Orion ?",
+    "answers": ["Orion", "Persée", "Héraclès", "Achille"],
+    "correctIndex": 0
   },
   {
     "id": "q168",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Dans la mythologie nordique, qui tue le dieu Baldr ?",
-    "answers": [
-      "Surt",
-      "Fenrir",
-      "Loki",
-      "Hodr"
-    ],
-    "correctIndex": 3
+    "text": "Quel dieu grec est associé aux rêves prophétiques ?",
+    "answers": ["Hypnos", "Morphée", "Thanatos", "Hermès"],
+    "correctIndex": 1
   },
   {
     "id": "q169",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel roi mythique grec a été condamné à pousser un rocher éternellement ?",
-    "answers": [
-      "Minos",
-      "Sisyphe",
-      "Tantale",
-      "Ixion"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est l’époux de Médée ?",
+    "answers": ["Persée", "Thésée", "Jason", "Orphée"],
+    "correctIndex": 2
   },
   {
     "id": "q170",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Arachne",
-      "Eurydice",
-      "Philonoe",
-      "Arachnéa"
-    ],
-    "correctIndex": 0
+    "text": "Dans la mythologie nordique, quel lieu est le domaine des Vanes ?",
+    "answers": ["Asgard", "Midgard", "Jötunheim", "Vanaheim"],
+    "correctIndex": 3
   },
+
   {
     "id": "q171",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du navire fantôme légendaire aperçu au Cap de Bonne-Espérance ?",
-    "answers": [
-      "Le Hollandais volant",
-      "Flying Cloud",
-      "Endeavour",
-      "Mary Celeste"
-    ],
+    "text": "Quel héros grec est lié au mythe de la fondation de Dardanie ?",
+    "answers": ["Dardanos", "Énée", "Ilos", "Tros"],
     "correctIndex": 0
   },
   {
     "id": "q172",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du chien à deux têtes frère de Cerbère ?",
-    "answers": [
-      "Fenrir",
-      "Anubis",
-      "Orthros",
-      "Argos"
-    ],
-    "correctIndex": 2
+    "text": "Quelle déesse grecque est associée à la chasteté et à la lune ?",
+    "answers": ["Athéna", "Artémis", "Hécate", "Séléné"],
+    "correctIndex": 1
   },
   {
     "id": "q173",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quelle créature marine aurait coulé l'USS Scorpion selon une légende urbaine ?",
-    "answers": [
-      "Hydre",
-      "Kraken",
-      "Mégalodon",
-      "Leviathan"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est le père de Télamon ?",
+    "answers": ["Éaque", "Pélée", "Laërte", "Minos"],
+    "correctIndex": 2
   },
   {
     "id": "q174",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Qui est le père de Thésée ?",
-    "answers": [
-      "Égée",
-      "Poséidon",
-      "Minos",
-      "Zeus"
-    ],
-    "correctIndex": 0
+    "text": "Dans la mythologie nordique, quel pont relie les mondes et brûle au Ragnarök ?",
+    "answers": ["Gjallar", "Ífing", "Himinbjörg", "Bifröst"],
+    "correctIndex": 3
   },
+
   {
     "id": "q175",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'épée de Siegfried ?",
-    "answers": [
-      "Gram",
-      "Durandal",
-      "Balmung",
-      "Excalibur"
-    ],
-    "correctIndex": 2
+    "text": "Quel héros grec est lié au mythe de la fondation d’Ilion ?",
+    "answers": ["Ilos", "Laomédon", "Priam", "Anchise"],
+    "correctIndex": 0
   },
   {
     "id": "q176",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Arachnéa",
-      "Arachne",
-      "Philonoe",
-      "Eurydice"
-    ],
+    "text": "Quel dieu grec est associé à la fureur guerrière ?",
+    "answers": ["Apollon", "Arès", "Athéna", "Zeus"],
     "correctIndex": 1
   },
   {
     "id": "q177",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du chien à deux têtes frère de Cerbère ?",
-    "answers": [
-      "Argos",
-      "Orthros",
-      "Anubis",
-      "Fenrir"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est le fils de Minos et combat Thésée ?",
+    "answers": ["Glaucos", "Androgée", "Astérion", "Radamanthe"],
+    "correctIndex": 2
   },
   {
     "id": "q178",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quelle créature marine aurait coulé l'USS Scorpion selon une légende urbaine ?",
-    "answers": [
-      "Hydre",
-      "Leviathan",
-      "Mégalodon",
-      "Kraken"
-    ],
+    "text": "Dans le folklore écossais, quel esprit féminin est lié aux cris funèbres ?",
+    "answers": ["Selkie", "Kelpie", "Nixe", "Banshee"],
     "correctIndex": 3
   },
+
   {
     "id": "q179",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Arachnéa",
-      "Philonoe",
-      "Eurydice",
-      "Arachne"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est associé au mythe de la fondation d’Arcadie ?",
+    "answers": ["Pélasgos", "Lycaon", "Danaos", "Inachos"],
+    "correctIndex": 0
   },
   {
     "id": "q180",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'épée de Siegfried ?",
-    "answers": [
-      "Balmung",
-      "Durandal",
-      "Gram",
-      "Excalibur"
-    ],
-    "correctIndex": 0
+    "text": "Quel dieu grec est le maître des Enfers ?",
+    "answers": ["Zeus", "Hadès", "Poséidon", "Hermès"],
+    "correctIndex": 1
   },
   {
     "id": "q181",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du chien à deux têtes frère de Cerbère ?",
-    "answers": [
-      "Fenrir",
-      "Orthros",
-      "Argos",
-      "Anubis"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est lié au mythe du roi Œnomaos ?",
+    "answers": ["Pélops", "Atrée", "Thyeste", "Tantale"],
+    "correctIndex": 2
   },
   {
     "id": "q182",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Qui est le père de Thésée ?",
-    "answers": [
-      "Zeus",
-      "Égée",
-      "Minos",
-      "Poséidon"
-    ],
-    "correctIndex": 1
+    "text": "Dans la mythologie japonaise, quel dieu du tonnerre est souvent représenté avec des tambours ?",
+    "answers": ["Susanoo", "Fūjin", "Tsukuyomi", "Raijin"],
+    "correctIndex": 3
   },
+
   {
     "id": "q183",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Qui est le père de Thésée ?",
-    "answers": [
-      "Minos",
-      "Zeus",
-      "Poséidon",
-      "Égée"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est lié au mythe du sanglier de Calydon ?",
+    "answers": ["Méléagre", "Héraclès", "Thésée", "Jason"],
+    "correctIndex": 0
   },
   {
     "id": "q184",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Qui est le père de Thésée ?",
-    "answers": [
-      "Égée",
-      "Poséidon",
-      "Zeus",
-      "Minos"
-    ],
-    "correctIndex": 0
+    "text": "Quelle déesse grecque est associée aux saisons et au cycle agricole ?",
+    "answers": ["Héra", "Déméter", "Perséphone", "Hécate"],
+    "correctIndex": 1
   },
   {
     "id": "q185",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du navire fantôme légendaire aperçu au Cap de Bonne-Espérance ?",
-    "answers": [
-      "Mary Celeste",
-      "Flying Cloud",
-      "Le Hollandais volant",
-      "Endeavour"
-    ],
+    "text": "Quel héros grec est le père de Déiphobe, prince troyen ?",
+    "answers": ["Anchise", "Laomédon", "Priam", "Tros"],
     "correctIndex": 2
   },
   {
     "id": "q186",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel roi mythique grec a été condamné à pousser un rocher éternellement ?",
-    "answers": [
-      "Minos",
-      "Sisyphe",
-      "Ixion",
-      "Tantale"
-    ],
-    "correctIndex": 1
+    "text": "Dans la mythologie nordique, quel royaume est celui des morts ordinaires ?",
+    "answers": ["Asgard", "Vanaheim", "Niflheim", "Helheim"],
+    "correctIndex": 3
   },
+
   {
     "id": "q187",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Eurydice",
-      "Philonoe",
-      "Arachne",
-      "Arachnéa"
-    ],
-    "correctIndex": 2
+    "text": "Quel héros grec est associé à la fondation mythique de Mycènes ?",
+    "answers": ["Persée", "Atrée", "Pélops", "Danaos"],
+    "correctIndex": 0
   },
   {
     "id": "q188",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Eurydice",
-      "Arachne",
-      "Philonoe",
-      "Arachnéa"
-    ],
+    "text": "Quel dieu grec est le protecteur des artisans et des forgerons ?",
+    "answers": ["Apollon", "Héphaïstos", "Hermès", "Arès"],
     "correctIndex": 1
   },
   {
     "id": "q189",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Qui est le père de Thésée ?",
-    "answers": [
-      "Minos",
-      "Zeus",
-      "Égée",
-      "Poséidon"
-    ],
+    "text": "Quel héros grec est le fils de Laërte ?",
+    "answers": ["Achille", "Persée", "Ulysse", "Ajax"],
     "correctIndex": 2
   },
   {
     "id": "q190",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Eurydice",
-      "Arachnéa",
-      "Arachne",
-      "Philonoe"
-    ],
-    "correctIndex": 2
+    "text": "Dans le folklore nordique, quel loup poursuit le Soleil ?",
+    "answers": ["Fenrir", "Garm", "Hati", "Sköll"],
+    "correctIndex": 3
   },
+
   {
     "id": "q191",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quelle légende bretonne parle d'une ville engloutie en mer ?",
-    "answers": [
-      "Avalon",
-      "Atlantide",
-      "Broceliande",
-      "Ys"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est associé au mythe du ruban d’Ariane ?",
+    "answers": ["Thésée", "Persée", "Jason", "Héraclès"],
+    "correctIndex": 0
   },
   {
     "id": "q192",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du chien à deux têtes frère de Cerbère ?",
-    "answers": [
-      "Orthros",
-      "Anubis",
-      "Fenrir",
-      "Argos"
-    ],
-    "correctIndex": 0
+    "text": "Quelle déesse grecque est associée à la vengeance divine ?",
+    "answers": ["Héra", "Némésis", "Hécate", "Athéna"],
+    "correctIndex": 1
   },
   {
     "id": "q193",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom du chien à deux têtes frère de Cerbère ?",
-    "answers": [
-      "Argos",
-      "Anubis",
-      "Fenrir",
-      "Orthros"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est lié au mythe de la lyre capable d’émouvoir les pierres ?",
+    "answers": ["Amphion", "Linus", "Orphée", "Thamyris"],
+    "correctIndex": 2
   },
   {
     "id": "q194",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Qui est le père de Thésée ?",
-    "answers": [
-      "Zeus",
-      "Égée",
-      "Minos",
-      "Poséidon"
-    ],
-    "correctIndex": 1
+    "text": "Dans la mythologie celtique, quel peuple mythique maîtrise la magie et les arts ?",
+    "answers": ["Fomoires", "Fir Bolg", "Milesiens", "Tuatha Dé Danann"],
+    "correctIndex": 3
   },
+
   {
     "id": "q195",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Arachnéa",
-      "Arachne",
-      "Eurydice",
-      "Philonoe"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est associé au mythe de la mort de Patrocle ?",
+    "answers": ["Achille", "Ajax", "Diomède", "Nestor"],
+    "correctIndex": 0
   },
   {
     "id": "q196",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'épée de Siegfried ?",
-    "answers": [
-      "Gram",
-      "Excalibur",
-      "Durandal",
-      "Balmung"
-    ],
-    "correctIndex": 3
+    "text": "Quel dieu grec est le garant de l’hospitalité sacrée ?",
+    "answers": ["Hermès", "Zeus", "Apollon", "Arès"],
+    "correctIndex": 1
   },
   {
     "id": "q197",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quelle légende bretonne parle d'une ville engloutie en mer ?",
-    "answers": [
-      "Ys",
-      "Broceliande",
-      "Avalon",
-      "Atlantide"
-    ],
-    "correctIndex": 0
+    "text": "Quel héros grec est le père d’Icare ?",
+    "answers": ["Minos", "Thésée", "Dédale", "Cadmos"],
+    "correctIndex": 2
   },
   {
     "id": "q198",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Qui est le père de Thésée ?",
-    "answers": [
-      "Minos",
-      "Zeus",
-      "Égée",
-      "Poséidon"
-    ],
-    "correctIndex": 2
+    "text": "Dans la mythologie japonaise, quel esprit aquatique attire les enfants dans les rivières ?",
+    "answers": ["Oni", "Tengu", "Yūrei", "Kappa"],
+    "correctIndex": 3
   },
+
   {
     "id": "q199",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'épée de Siegfried ?",
-    "answers": [
-      "Durandal",
-      "Gram",
-      "Balmung",
-      "Excalibur"
-    ],
-    "correctIndex": 2
+    "text": "Quel héros grec est lié au mythe de la fondation de Salamine ?",
+    "answers": ["Ajax", "Thésée", "Pélops", "Cécrops"],
+    "correctIndex": 0
   },
   {
     "id": "q200",
     "category": "Légendes",
     "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Arachne",
-      "Eurydice",
-      "Arachnéa",
-      "Philonoe"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q201",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom du chien à deux têtes frère de Cerbère ?",
-    "answers": [
-      "Argos",
-      "Orthros",
-      "Anubis",
-      "Fenrir"
-    ],
+    "text": "Quel dieu grec est le maître de l’Olympe ?",
+    "answers": ["Poséidon", "Zeus", "Hadès", "Apollon"],
     "correctIndex": 1
-  },
-  {
-    "id": "q202",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom du chien à deux têtes frère de Cerbère ?",
-    "answers": [
-      "Argos",
-      "Orthros",
-      "Fenrir",
-      "Anubis"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q203",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom de l'épée de Siegfried ?",
-    "answers": [
-      "Gram",
-      "Excalibur",
-      "Balmung",
-      "Durandal"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q204",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Eurydice",
-      "Arachnéa",
-      "Philonoe",
-      "Arachne"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q205",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quelle légende bretonne parle d'une ville engloutie en mer ?",
-    "answers": [
-      "Broceliande",
-      "Avalon",
-      "Atlantide",
-      "Ys"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q206",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom du chien à deux têtes frère de Cerbère ?",
-    "answers": [
-      "Argos",
-      "Fenrir",
-      "Orthros",
-      "Anubis"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q207",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quelle légende bretonne parle d'une ville engloutie en mer ?",
-    "answers": [
-      "Avalon",
-      "Broceliande",
-      "Ys",
-      "Atlantide"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q208",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom du géant qui aide Arthur dans certaines légendes ?",
-    "answers": [
-      "Géant de Mont-Saint-Michel",
-      "Goliath",
-      "Grendel",
-      "Humbaba"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q209",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom du navire fantôme légendaire aperçu au Cap de Bonne-Espérance ?",
-    "answers": [
-      "Endeavour",
-      "Le Hollandais volant",
-      "Flying Cloud",
-      "Mary Celeste"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q210",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Dans la mythologie nordique, qui tue le dieu Baldr ?",
-    "answers": [
-      "Fenrir",
-      "Surt",
-      "Loki",
-      "Hodr"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q211",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Arachnéa",
-      "Arachne",
-      "Philonoe",
-      "Eurydice"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q212",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Arachnéa",
-      "Eurydice",
-      "Philonoe",
-      "Arachne"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q213",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom du géant qui aide Arthur dans certaines légendes ?",
-    "answers": [
-      "Goliath",
-      "Géant de Mont-Saint-Michel",
-      "Humbaba",
-      "Grendel"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q214",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom du navire fantôme légendaire aperçu au Cap de Bonne-Espérance ?",
-    "answers": [
-      "Le Hollandais volant",
-      "Mary Celeste",
-      "Endeavour",
-      "Flying Cloud"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q215",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom du navire fantôme légendaire aperçu au Cap de Bonne-Espérance ?",
-    "answers": [
-      "Mary Celeste",
-      "Endeavour",
-      "Flying Cloud",
-      "Le Hollandais volant"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q216",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom du navire fantôme légendaire aperçu au Cap de Bonne-Espérance ?",
-    "answers": [
-      "Endeavour",
-      "Mary Celeste",
-      "Flying Cloud",
-      "Le Hollandais volant"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q217",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Arachnéa",
-      "Eurydice",
-      "Arachne",
-      "Philonoe"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q218",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom du navire fantôme légendaire aperçu au Cap de Bonne-Espérance ?",
-    "answers": [
-      "Le Hollandais volant",
-      "Endeavour",
-      "Flying Cloud",
-      "Mary Celeste"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q219",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom du géant qui aide Arthur dans certaines légendes ?",
-    "answers": [
-      "Géant de Mont-Saint-Michel",
-      "Grendel",
-      "Humbaba",
-      "Goliath"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q220",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom du géant qui aide Arthur dans certaines légendes ?",
-    "answers": [
-      "Humbaba",
-      "Géant de Mont-Saint-Michel",
-      "Goliath",
-      "Grendel"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q221",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Arachnéa",
-      "Philonoe",
-      "Arachne",
-      "Eurydice"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q222",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Qui est le père de Thésée ?",
-    "answers": [
-      "Égée",
-      "Zeus",
-      "Minos",
-      "Poséidon"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q223",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel roi mythique grec a été condamné à pousser un rocher éternellement ?",
-    "answers": [
-      "Tantale",
-      "Ixion",
-      "Minos",
-      "Sisyphe"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q224",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom du géant qui aide Arthur dans certaines légendes ?",
-    "answers": [
-      "Grendel",
-      "Géant de Mont-Saint-Michel",
-      "Goliath",
-      "Humbaba"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q225",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom de l'épée de Siegfried ?",
-    "answers": [
-      "Balmung",
-      "Gram",
-      "Durandal",
-      "Excalibur"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q226",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom du géant qui aide Arthur dans certaines légendes ?",
-    "answers": [
-      "Goliath",
-      "Géant de Mont-Saint-Michel",
-      "Humbaba",
-      "Grendel"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q227",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom de l'épée de Siegfried ?",
-    "answers": [
-      "Excalibur",
-      "Durandal",
-      "Gram",
-      "Balmung"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q228",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quelle créature marine aurait coulé l'USS Scorpion selon une légende urbaine ?",
-    "answers": [
-      "Hydre",
-      "Kraken",
-      "Leviathan",
-      "Mégalodon"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q229",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel roi mythique grec a été condamné à pousser un rocher éternellement ?",
-    "answers": [
-      "Minos",
-      "Ixion",
-      "Tantale",
-      "Sisyphe"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q230",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom de l'épée de Siegfried ?",
-    "answers": [
-      "Balmung",
-      "Excalibur",
-      "Gram",
-      "Durandal"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q231",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom du navire fantôme légendaire aperçu au Cap de Bonne-Espérance ?",
-    "answers": [
-      "Flying Cloud",
-      "Le Hollandais volant",
-      "Mary Celeste",
-      "Endeavour"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q232",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom du géant qui aide Arthur dans certaines légendes ?",
-    "answers": [
-      "Humbaba",
-      "Grendel",
-      "Goliath",
-      "Géant de Mont-Saint-Michel"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q233",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Philonoe",
-      "Arachnéa",
-      "Arachne",
-      "Eurydice"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q234",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom du navire fantôme légendaire aperçu au Cap de Bonne-Espérance ?",
-    "answers": [
-      "Flying Cloud",
-      "Le Hollandais volant",
-      "Mary Celeste",
-      "Endeavour"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q235",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Dans la mythologie nordique, qui tue le dieu Baldr ?",
-    "answers": [
-      "Hodr",
-      "Surt",
-      "Loki",
-      "Fenrir"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q236",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Dans la mythologie nordique, qui tue le dieu Baldr ?",
-    "answers": [
-      "Surt",
-      "Fenrir",
-      "Loki",
-      "Hodr"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q237",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Eurydice",
-      "Philonoe",
-      "Arachne",
-      "Arachnéa"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q238",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom du navire fantôme légendaire aperçu au Cap de Bonne-Espérance ?",
-    "answers": [
-      "Flying Cloud",
-      "Endeavour",
-      "Mary Celeste",
-      "Le Hollandais volant"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q239",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom du géant qui aide Arthur dans certaines légendes ?",
-    "answers": [
-      "Grendel",
-      "Goliath",
-      "Géant de Mont-Saint-Michel",
-      "Humbaba"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q240",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Eurydice",
-      "Arachnéa",
-      "Philonoe",
-      "Arachne"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q241",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Dans la mythologie nordique, qui tue le dieu Baldr ?",
-    "answers": [
-      "Loki",
-      "Fenrir",
-      "Surt",
-      "Hodr"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q242",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quelle créature marine aurait coulé l'USS Scorpion selon une légende urbaine ?",
-    "answers": [
-      "Mégalodon",
-      "Hydre",
-      "Leviathan",
-      "Kraken"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q243",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel roi mythique grec a été condamné à pousser un rocher éternellement ?",
-    "answers": [
-      "Ixion",
-      "Sisyphe",
-      "Minos",
-      "Tantale"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q244",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Qui est le père de Thésée ?",
-    "answers": [
-      "Zeus",
-      "Poséidon",
-      "Égée",
-      "Minos"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q245",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Dans la mythologie nordique, qui tue le dieu Baldr ?",
-    "answers": [
-      "Loki",
-      "Fenrir",
-      "Surt",
-      "Hodr"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q246",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quelle légende bretonne parle d'une ville engloutie en mer ?",
-    "answers": [
-      "Avalon",
-      "Ys",
-      "Atlantide",
-      "Broceliande"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q247",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Qui est le père de Thésée ?",
-    "answers": [
-      "Poséidon",
-      "Minos",
-      "Zeus",
-      "Égée"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q248",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Qui est le père de Thésée ?",
-    "answers": [
-      "Poséidon",
-      "Zeus",
-      "Égée",
-      "Minos"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q249",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom du chien à deux têtes frère de Cerbère ?",
-    "answers": [
-      "Fenrir",
-      "Anubis",
-      "Orthros",
-      "Argos"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q250",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quelle créature marine aurait coulé l'USS Scorpion selon une légende urbaine ?",
-    "answers": [
-      "Leviathan",
-      "Hydre",
-      "Kraken",
-      "Mégalodon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q251",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom du chien à deux têtes frère de Cerbère ?",
-    "answers": [
-      "Anubis",
-      "Orthros",
-      "Argos",
-      "Fenrir"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q252",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Qui est le père de Thésée ?",
-    "answers": [
-      "Égée",
-      "Zeus",
-      "Poséidon",
-      "Minos"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q253",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quelle créature marine aurait coulé l'USS Scorpion selon une légende urbaine ?",
-    "answers": [
-      "Leviathan",
-      "Hydre",
-      "Kraken",
-      "Mégalodon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q254",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom du chien à deux têtes frère de Cerbère ?",
-    "answers": [
-      "Orthros",
-      "Fenrir",
-      "Anubis",
-      "Argos"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q255",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom du navire fantôme légendaire aperçu au Cap de Bonne-Espérance ?",
-    "answers": [
-      "Endeavour",
-      "Flying Cloud",
-      "Mary Celeste",
-      "Le Hollandais volant"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q256",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Philonoe",
-      "Eurydice",
-      "Arachnéa",
-      "Arachne"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q257",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Philonoe",
-      "Arachnéa",
-      "Eurydice",
-      "Arachne"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q258",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom du chien à deux têtes frère de Cerbère ?",
-    "answers": [
-      "Anubis",
-      "Argos",
-      "Fenrir",
-      "Orthros"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q259",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom du navire fantôme légendaire aperçu au Cap de Bonne-Espérance ?",
-    "answers": [
-      "Le Hollandais volant",
-      "Mary Celeste",
-      "Flying Cloud",
-      "Endeavour"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q260",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom de l'épée de Siegfried ?",
-    "answers": [
-      "Balmung",
-      "Gram",
-      "Durandal",
-      "Excalibur"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q261",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom du géant qui aide Arthur dans certaines légendes ?",
-    "answers": [
-      "Grendel",
-      "Humbaba",
-      "Géant de Mont-Saint-Michel",
-      "Goliath"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q262",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel roi mythique grec a été condamné à pousser un rocher éternellement ?",
-    "answers": [
-      "Ixion",
-      "Minos",
-      "Tantale",
-      "Sisyphe"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q263",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Qui est le père de Thésée ?",
-    "answers": [
-      "Minos",
-      "Poséidon",
-      "Égée",
-      "Zeus"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q264",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quelle créature marine aurait coulé l'USS Scorpion selon une légende urbaine ?",
-    "answers": [
-      "Mégalodon",
-      "Kraken",
-      "Hydre",
-      "Leviathan"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q265",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom du chien à deux têtes frère de Cerbère ?",
-    "answers": [
-      "Fenrir",
-      "Argos",
-      "Anubis",
-      "Orthros"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q266",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quelle créature marine aurait coulé l'USS Scorpion selon une légende urbaine ?",
-    "answers": [
-      "Leviathan",
-      "Mégalodon",
-      "Hydre",
-      "Kraken"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q267",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom de l'épée de Siegfried ?",
-    "answers": [
-      "Excalibur",
-      "Balmung",
-      "Durandal",
-      "Gram"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q268",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Arachne",
-      "Philonoe",
-      "Arachnéa",
-      "Eurydice"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q269",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom de l'épée de Siegfried ?",
-    "answers": [
-      "Gram",
-      "Excalibur",
-      "Durandal",
-      "Balmung"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q270",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Dans la mythologie nordique, qui tue le dieu Baldr ?",
-    "answers": [
-      "Surt",
-      "Hodr",
-      "Loki",
-      "Fenrir"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q271",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom du chien à deux têtes frère de Cerbère ?",
-    "answers": [
-      "Fenrir",
-      "Anubis",
-      "Argos",
-      "Orthros"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q272",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom du navire fantôme légendaire aperçu au Cap de Bonne-Espérance ?",
-    "answers": [
-      "Mary Celeste",
-      "Flying Cloud",
-      "Endeavour",
-      "Le Hollandais volant"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q273",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom du navire fantôme légendaire aperçu au Cap de Bonne-Espérance ?",
-    "answers": [
-      "Endeavour",
-      "Mary Celeste",
-      "Le Hollandais volant",
-      "Flying Cloud"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q274",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quelle créature marine aurait coulé l'USS Scorpion selon une légende urbaine ?",
-    "answers": [
-      "Mégalodon",
-      "Kraken",
-      "Leviathan",
-      "Hydre"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q275",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Philonoe",
-      "Arachnéa",
-      "Arachne",
-      "Eurydice"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q276",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Philonoe",
-      "Arachnéa",
-      "Eurydice",
-      "Arachne"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q277",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quelle légende bretonne parle d'une ville engloutie en mer ?",
-    "answers": [
-      "Atlantide",
-      "Broceliande",
-      "Ys",
-      "Avalon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q278",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom de l'épée de Siegfried ?",
-    "answers": [
-      "Excalibur",
-      "Balmung",
-      "Durandal",
-      "Gram"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q279",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Arachnéa",
-      "Philonoe",
-      "Eurydice",
-      "Arachne"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q280",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quelle légende bretonne parle d'une ville engloutie en mer ?",
-    "answers": [
-      "Avalon",
-      "Atlantide",
-      "Broceliande",
-      "Ys"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q281",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quelle créature marine aurait coulé l'USS Scorpion selon une légende urbaine ?",
-    "answers": [
-      "Leviathan",
-      "Kraken",
-      "Hydre",
-      "Mégalodon"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q282",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom du géant qui aide Arthur dans certaines légendes ?",
-    "answers": [
-      "Géant de Mont-Saint-Michel",
-      "Grendel",
-      "Humbaba",
-      "Goliath"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q283",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quelle légende bretonne parle d'une ville engloutie en mer ?",
-    "answers": [
-      "Atlantide",
-      "Broceliande",
-      "Avalon",
-      "Ys"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q284",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Dans la mythologie nordique, qui tue le dieu Baldr ?",
-    "answers": [
-      "Hodr",
-      "Loki",
-      "Fenrir",
-      "Surt"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q285",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom du chien à deux têtes frère de Cerbère ?",
-    "answers": [
-      "Argos",
-      "Fenrir",
-      "Orthros",
-      "Anubis"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q286",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Dans la mythologie nordique, qui tue le dieu Baldr ?",
-    "answers": [
-      "Loki",
-      "Surt",
-      "Fenrir",
-      "Hodr"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q287",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel héros grec a été transformé en araignée par Athéna ?",
-    "answers": [
-      "Eurydice",
-      "Arachnéa",
-      "Arachne",
-      "Philonoe"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q288",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom de l'épée de Siegfried ?",
-    "answers": [
-      "Gram",
-      "Durandal",
-      "Excalibur",
-      "Balmung"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q289",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom du géant qui aide Arthur dans certaines légendes ?",
-    "answers": [
-      "Géant de Mont-Saint-Michel",
-      "Grendel",
-      "Humbaba",
-      "Goliath"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q290",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom de l'épée de Siegfried ?",
-    "answers": [
-      "Gram",
-      "Balmung",
-      "Durandal",
-      "Excalibur"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q291",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Dans la mythologie nordique, qui tue le dieu Baldr ?",
-    "answers": [
-      "Fenrir",
-      "Hodr",
-      "Surt",
-      "Loki"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q292",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom de l'épée de Siegfried ?",
-    "answers": [
-      "Balmung",
-      "Gram",
-      "Excalibur",
-      "Durandal"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q293",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom du navire fantôme légendaire aperçu au Cap de Bonne-Espérance ?",
-    "answers": [
-      "Endeavour",
-      "Le Hollandais volant",
-      "Mary Celeste",
-      "Flying Cloud"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q294",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quelle légende bretonne parle d'une ville engloutie en mer ?",
-    "answers": [
-      "Avalon",
-      "Broceliande",
-      "Ys",
-      "Atlantide"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q295",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom du navire fantôme légendaire aperçu au Cap de Bonne-Espérance ?",
-    "answers": [
-      "Endeavour",
-      "Flying Cloud",
-      "Le Hollandais volant",
-      "Mary Celeste"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q296",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom du navire fantôme légendaire aperçu au Cap de Bonne-Espérance ?",
-    "answers": [
-      "Endeavour",
-      "Mary Celeste",
-      "Le Hollandais volant",
-      "Flying Cloud"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q297",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom du géant qui aide Arthur dans certaines légendes ?",
-    "answers": [
-      "Goliath",
-      "Humbaba",
-      "Grendel",
-      "Géant de Mont-Saint-Michel"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q298",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel roi mythique grec a été condamné à pousser un rocher éternellement ?",
-    "answers": [
-      "Minos",
-      "Ixion",
-      "Sisyphe",
-      "Tantale"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q299",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom du navire fantôme légendaire aperçu au Cap de Bonne-Espérance ?",
-    "answers": [
-      "Mary Celeste",
-      "Flying Cloud",
-      "Endeavour",
-      "Le Hollandais volant"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q300",
-    "category": "Légendes",
-    "difficulty": "Difficile",
-    "text": "Quel roi mythique grec a été condamné à pousser un rocher éternellement ?",
-    "answers": [
-      "Tantale",
-      "Minos",
-      "Sisyphe",
-      "Ixion"
-    ],
-    "correctIndex": 2
   }
 ]
