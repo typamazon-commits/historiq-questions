@@ -3,3900 +3,1678 @@
     "id": "q1",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel traité de 843 partagea l'empire carolingien entre trois héritiers ?",
-    "answers": [
-      "Traité de Paris",
-      "Traité de Verdun",
-      "Traité de Meerssen",
-      "Traité de Saint-Clair-sur-Epte"
-    ],
-    "correctIndex": 1
+    "text": "Quel capitulaire carolingien impose l’obligation du service militaire à tous les hommes libres ?",
+    "answers": ["Le capitulaire de Herstal","Le capitulaire de Quierzy","Le capitulaire de Coulaines","Le capitulaire de Villis"],
+    "correctIndex": 0
   },
   {
     "id": "q2",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel philosophe médiéval est l'auteur de 'Somme théologique' ?",
-    "answers": [
-      "Albert le Grand",
-      "Duns Scot",
-      "Pierre Abélard",
-      "Thomas d'Aquin"
-    ],
-    "correctIndex": 3
+    "text": "Quel document de 877 consacre l’hérédité de fait des charges comtales ?",
+    "answers": ["Le traité de Verdun","Le capitulaire de Quierzy-sur-Oise","Le traité de Meerssen","Le capitulaire de Mersen"],
+    "correctIndex": 1
   },
   {
     "id": "q3",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle forteresse anglaise servit de prison à Jeanne d'Arc ?",
-    "answers": [
-      "Château de Vincennes",
-      "Tour de Londres",
-      "Château de Chinon",
-      "Château de Rouen"
-    ],
-    "correctIndex": 1
+    "text": "Quelle institution ecclésiastique médiévale jugeait les crimes de foi ?",
+    "answers": ["Le synode diocésain","Le consistoire","L’Inquisition","La curie romaine"],
+    "correctIndex": 2
   },
   {
     "id": "q4",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle université médiévale fut la première fondée en Europe ?",
-    "answers": [
-      "Université de Bologne",
-      "Université de Salamanque",
-      "Université d'Oxford",
-      "Université de Paris"
-    ],
-    "correctIndex": 0
+    "text": "Quel terme désigne l’ensemble des droits seigneuriaux sur les hommes et les terres ?",
+    "answers": ["La vassalité","La féodalité","La coutume","La seigneurie banale"],
+    "correctIndex": 3
   },
+
   {
     "id": "q5",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi de France a fait édifier le Louvre comme forteresse ?",
-    "answers": [
-      "François Ier",
-      "Philippe Auguste",
-      "Charles V",
-      "Louis IX"
-    ],
-    "correctIndex": 1
+    "text": "Quel serment lie juridiquement le vassal à son seigneur ?",
+    "answers": ["L’hommage lige","Le sacre","La bénédiction","La fidélitas"],
+    "correctIndex": 0
   },
   {
     "id": "q6",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi viking régna sur l'Angleterre au XIe siècle ?",
-    "answers": [
-      "Olaf Tryggvason",
-      "Leif Erikson",
-      "Knud le Grand",
-      "Harald à la Dent Bleue"
-    ],
-    "correctIndex": 2
+    "text": "Quel texte définit les droits respectifs du roi et de la noblesse en 843 ?",
+    "answers": ["Le capitulaire de Villis","Le traité de Verdun","Le traité de Prüm","Le capitulaire de Meaux"],
+    "correctIndex": 1
   },
   {
     "id": "q7",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle bataille mit fin à la présence musulmane en Provence au Xe siècle ?",
-    "answers": [
-      "Bataille de Tourtour",
-      "Bataille de Covadonga",
-      "Bataille de Poitiers",
-      "Bataille de Simancas"
-    ],
-    "correctIndex": 0
+    "text": "Quelle activité intellectuelle médiévale visait à concilier foi et raison ?",
+    "answers": ["L’exégèse","La patristique","La scolastique","La dialectique antique"],
+    "correctIndex": 2
   },
   {
     "id": "q8",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle bataille mit fin à la présence musulmane en Provence au Xe siècle ?",
-    "answers": [
-      "Bataille de Covadonga",
-      "Bataille de Poitiers",
-      "Bataille de Simancas",
-      "Bataille de Tourtour"
-    ],
+    "text": "Quel terme désigne le pouvoir de commander, juger et punir exercé par un seigneur ?",
+    "answers": ["La seigneurie foncière","La vassalité","Le dominium","Le ban"],
     "correctIndex": 3
   },
+
   {
     "id": "q9",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle université médiévale fut la première fondée en Europe ?",
-    "answers": [
-      "Université de Salamanque",
-      "Université de Bologne",
-      "Université d'Oxford",
-      "Université de Paris"
-    ],
-    "correctIndex": 1
+    "text": "Quel acte formalise la remise symbolique du fief au vassal ?",
+    "answers": ["L’investiture","L’adoubement","La commendatio","La féauté"],
+    "correctIndex": 0
   },
   {
     "id": "q10",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi de France a fait édifier le Louvre comme forteresse ?",
-    "answers": [
-      "Philippe Auguste",
-      "Charles V",
-      "François Ier",
-      "Louis IX"
-    ],
-    "correctIndex": 0
+    "text": "Quelle assemblée ecclésiastique tranche les questions doctrinales majeures ?",
+    "answers": ["Le synode","Le concile","Le consistoire","Le chapitre"],
+    "correctIndex": 1
   },
+
   {
     "id": "q11",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel manuscrit irlandais du IXe siècle est célèbre pour ses enluminures ?",
-    "answers": [
-      "Évangiles de Lindisfarne",
-      "Livre de Durrow",
-      "Livre de Kells",
-      "Psautier de Stuttgart"
-    ],
+    "text": "Quelle technique permettait la datation des manuscrits par l’écriture ?",
+    "answers": ["La codicologie","La diplomatique","La paléographie","L’archivistique"],
     "correctIndex": 2
   },
   {
     "id": "q12",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle forteresse anglaise servit de prison à Jeanne d'Arc ?",
-    "answers": [
-      "Tour de Londres",
-      "Château de Rouen",
-      "Château de Vincennes",
-      "Château de Chinon"
-    ],
-    "correctIndex": 0
+    "text": "Quel terme désigne un territoire relevant directement du roi sans intermédiaire ?",
+    "answers": ["Un fief","Un alleu","Un marquisat","Le domaine royal"],
+    "correctIndex": 3
   },
+
   {
     "id": "q13",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel pape a excommunié Frédéric II à plusieurs reprises ?",
-    "answers": [
-      "Boniface VIII",
-      "Grégoire IX",
-      "Innocent III",
-      "Alexandre IV"
-    ],
-    "correctIndex": 1
+    "text": "Quel lien vassalique prime sur tous les autres ?",
+    "answers": ["L’hommage lige","La fidélité simple","Le serment royal","La coutume"],
+    "correctIndex": 0
   },
   {
     "id": "q14",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle université médiévale fut la première fondée en Europe ?",
-    "answers": [
-      "Université de Salamanque",
-      "Université d'Oxford",
-      "Université de Bologne",
-      "Université de Paris"
-    ],
-    "correctIndex": 2
+    "text": "Quelle institution centralise la justice pontificale au Moyen Âge ?",
+    "answers": ["Le synode","La curie romaine","Le concile","L’Inquisition"],
+    "correctIndex": 1
   },
   {
     "id": "q15",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel traité de 843 partagea l'empire carolingien entre trois héritiers ?",
-    "answers": [
-      "Traité de Meerssen",
-      "Traité de Paris",
-      "Traité de Verdun",
-      "Traité de Saint-Clair-sur-Epte"
-    ],
+    "text": "Quelle science auxiliaire de l’histoire étudie les actes officiels ?",
+    "answers": ["La paléographie","La codicologie","La diplomatique","L’héraldique"],
     "correctIndex": 2
   },
   {
     "id": "q16",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel philosophe médiéval est l'auteur de 'Somme théologique' ?",
-    "answers": [
-      "Duns Scot",
-      "Pierre Abélard",
-      "Albert le Grand",
-      "Thomas d'Aquin"
-    ],
+    "text": "Quel type de justice relève directement du seigneur haut justicier ?",
+    "answers": ["La basse justice","La moyenne justice","La justice coutumière","La haute justice"],
     "correctIndex": 3
   },
+
   {
     "id": "q17",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel traité de 843 partagea l'empire carolingien entre trois héritiers ?",
-    "answers": [
-      "Traité de Saint-Clair-sur-Epte",
-      "Traité de Meerssen",
-      "Traité de Verdun",
-      "Traité de Paris"
-    ],
-    "correctIndex": 2
+    "text": "Quel serment médiéval engageait l’âme du vassal devant Dieu ?",
+    "answers": ["Le serment de fidélité","L’adoubement","L’investiture","La commendatio"],
+    "correctIndex": 0
   },
   {
     "id": "q18",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle forteresse anglaise servit de prison à Jeanne d'Arc ?",
-    "answers": [
-      "Château de Vincennes",
-      "Château de Rouen",
-      "Tour de Londres",
-      "Château de Chinon"
-    ],
-    "correctIndex": 2
+    "text": "Quelle taxe seigneuriale portait sur l’usage obligatoire du moulin ?",
+    "answers": ["La taille","La banalité","Le cens","Le tonlieu"],
+    "correctIndex": 1
   },
   {
     "id": "q19",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel pape a excommunié Frédéric II à plusieurs reprises ?",
-    "answers": [
-      "Innocent III",
-      "Alexandre IV",
-      "Grégoire IX",
-      "Boniface VIII"
-    ],
+    "text": "Quelle discipline médiévale classe et interprète les armoiries ?",
+    "answers": ["La sigillographie","La généalogie","L’héraldique","La vexillologie"],
     "correctIndex": 2
   },
   {
     "id": "q20",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle bataille mit fin à la présence musulmane en Provence au Xe siècle ?",
-    "answers": [
-      "Bataille de Simancas",
-      "Bataille de Tourtour",
-      "Bataille de Poitiers",
-      "Bataille de Covadonga"
-    ],
-    "correctIndex": 1
+    "text": "Quel terme désigne la justice exercée sur les délits mineurs ?",
+    "answers": ["La haute justice","La justice royale","La justice ecclésiastique","La basse justice"],
+    "correctIndex": 3
   },
+
   {
     "id": "q21",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi de France a fait édifier le Louvre comme forteresse ?",
-    "answers": [
-      "Charles V",
-      "François Ier",
-      "Louis IX",
-      "Philippe Auguste"
-    ],
-    "correctIndex": 3
+    "text": "Quel document médiéval consigne les possessions foncières d’un seigneur ?",
+    "answers": ["Le terrier","Le cartulaire","La chronique","Le polyptyque"],
+    "correctIndex": 0
   },
   {
     "id": "q22",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi viking régna sur l'Angleterre au XIe siècle ?",
-    "answers": [
-      "Olaf Tryggvason",
-      "Knud le Grand",
-      "Harald à la Dent Bleue",
-      "Leif Erikson"
-    ],
+    "text": "Quelle assemblée carolingienne adopte les capitulaires ?",
+    "answers": ["Le synode","Le plaid général","Le concile","La diète"],
     "correctIndex": 1
   },
   {
     "id": "q23",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel manuscrit irlandais du IXe siècle est célèbre pour ses enluminures ?",
-    "answers": [
-      "Psautier de Stuttgart",
-      "Livre de Kells",
-      "Livre de Durrow",
-      "Évangiles de Lindisfarne"
-    ],
-    "correctIndex": 1
+    "text": "Quelle méthode permettait l’identification de faux actes médiévaux ?",
+    "answers": ["La paléographie","La codicologie","La diplomatique","L’archivistique"],
+    "correctIndex": 2
   },
   {
     "id": "q24",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi de France a fait édifier le Louvre comme forteresse ?",
-    "answers": [
-      "Louis IX",
-      "Charles V",
-      "François Ier",
-      "Philippe Auguste"
-    ],
+    "text": "Quel terme désigne une terre possédée sans obligation féodale ?",
+    "answers": ["Un fief","Un domaine","Un cens","Un alleu"],
     "correctIndex": 3
   },
+
   {
     "id": "q25",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi de France a fait édifier le Louvre comme forteresse ?",
-    "answers": [
-      "Louis IX",
-      "Charles V",
-      "Philippe Auguste",
-      "François Ier"
-    ],
-    "correctIndex": 2
+    "text": "Quel lien personnel fonde la hiérarchie féodale ?",
+    "answers": ["La vassalité","La suzeraineté","La seigneurie","La féauté"],
+    "correctIndex": 0
   },
   {
     "id": "q26",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel philosophe médiéval est l'auteur de 'Somme théologique' ?",
-    "answers": [
-      "Pierre Abélard",
-      "Thomas d'Aquin",
-      "Duns Scot",
-      "Albert le Grand"
-    ],
+    "text": "Quelle institution contrôlait la conformité des enseignements universitaires ?",
+    "answers": ["Le synode","L’autorité ecclésiastique","La faculté","Le concile"],
     "correctIndex": 1
   },
   {
     "id": "q27",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi de France a fait édifier le Louvre comme forteresse ?",
-    "answers": [
-      "Charles V",
-      "Philippe Auguste",
-      "Louis IX",
-      "François Ier"
-    ],
-    "correctIndex": 1
+    "text": "Quelle science médiévale étudiait les sceaux ?",
+    "answers": ["L’héraldique","La paléographie","La sigillographie","La diplomatique"],
+    "correctIndex": 2
   },
   {
     "id": "q28",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle bataille mit fin à la présence musulmane en Provence au Xe siècle ?",
-    "answers": [
-      "Bataille de Simancas",
-      "Bataille de Covadonga",
-      "Bataille de Poitiers",
-      "Bataille de Tourtour"
-    ],
+    "text": "Quel niveau de justice impliquait le droit de mort ?",
+    "answers": ["La justice foncière","La justice ecclésiastique","La moyenne justice","La haute justice"],
     "correctIndex": 3
   },
+
   {
     "id": "q29",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel philosophe médiéval est l'auteur de 'Somme théologique' ?",
-    "answers": [
-      "Duns Scot",
-      "Thomas d'Aquin",
-      "Albert le Grand",
-      "Pierre Abélard"
-    ],
-    "correctIndex": 1
+    "text": "Quel serment renforçait l’exclusivité du lien féodal ?",
+    "answers": ["L’hommage lige","La fidélité simple","Le serment royal","La commendatio"],
+    "correctIndex": 0
   },
   {
     "id": "q30",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel moine médiéval a inventé un système de notation musicale encore utilisé aujourd'hui ?",
-    "answers": [
-      "Jean Cotton",
-      "Isidore de Séville",
-      "Guido d'Arezzo",
-      "Boèce"
-    ],
-    "correctIndex": 2
+    "text": "Quel impôt médiéval finançait directement la guerre royale ?",
+    "answers": ["La dîme","La taille","Le cens","La banalité"],
+    "correctIndex": 1
   },
+
   {
     "id": "q31",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel traité de 843 partagea l'empire carolingien entre trois héritiers ?",
-    "answers": [
-      "Traité de Verdun",
-      "Traité de Saint-Clair-sur-Epte",
-      "Traité de Meerssen",
-      "Traité de Paris"
-    ],
-    "correctIndex": 0
+    "text": "Quelle discipline analyse la structure matérielle du livre médiéval ?",
+    "answers": ["La paléographie","La diplomatique","La codicologie","La bibliologie"],
+    "correctIndex": 2
   },
   {
     "id": "q32",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle université médiévale fut la première fondée en Europe ?",
-    "answers": [
-      "Université de Salamanque",
-      "Université d'Oxford",
-      "Université de Paris",
-      "Université de Bologne"
-    ],
+    "text": "Quel terme désigne l’autorité suprême du seigneur sur son territoire ?",
+    "answers": ["La vassalité","La féodalité","La coutume","La seigneurie"],
     "correctIndex": 3
   },
+
   {
     "id": "q33",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel traité de 843 partagea l'empire carolingien entre trois héritiers ?",
-    "answers": [
-      "Traité de Meerssen",
-      "Traité de Saint-Clair-sur-Epte",
-      "Traité de Verdun",
-      "Traité de Paris"
-    ],
-    "correctIndex": 2
+    "text": "Quel lien personnel unissait le suzerain et le vassal ?",
+    "answers": ["La fidélité","La coutume","La hiérarchie","La dépendance"],
+    "correctIndex": 0
   },
   {
     "id": "q34",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel pape a excommunié Frédéric II à plusieurs reprises ?",
-    "answers": [
-      "Grégoire IX",
-      "Boniface VIII",
-      "Alexandre IV",
-      "Innocent III"
-    ],
-    "correctIndex": 0
+    "text": "Quelle autorité validait les décisions conciliaires ?",
+    "answers": ["Le roi","Le pape","L’empereur","Le synode"],
+    "correctIndex": 1
   },
   {
     "id": "q35",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel manuscrit irlandais du IXe siècle est célèbre pour ses enluminures ?",
-    "answers": [
-      "Livre de Durrow",
-      "Livre de Kells",
-      "Psautier de Stuttgart",
-      "Évangiles de Lindisfarne"
-    ],
-    "correctIndex": 1
+    "text": "Quelle science médiévale étudiait les lignées nobles ?",
+    "answers": ["L’héraldique","La diplomatique","La généalogie","La sigillographie"],
+    "correctIndex": 2
   },
   {
     "id": "q36",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel manuscrit irlandais du IXe siècle est célèbre pour ses enluminures ?",
-    "answers": [
-      "Livre de Kells",
-      "Psautier de Stuttgart",
-      "Évangiles de Lindisfarne",
-      "Livre de Durrow"
-    ],
-    "correctIndex": 0
+    "text": "Quel type de pouvoir seigneurial portait sur les personnes ?",
+    "answers": ["Le pouvoir foncier","Le pouvoir militaire","Le pouvoir ecclésiastique","Le pouvoir banal"],
+    "correctIndex": 3
   },
+
   {
     "id": "q37",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel philosophe médiéval est l'auteur de 'Somme théologique' ?",
-    "answers": [
-      "Duns Scot",
-      "Pierre Abélard",
-      "Thomas d'Aquin",
-      "Albert le Grand"
-    ],
-    "correctIndex": 2
+    "text": "Quel acte officialisait l’entrée d’un chevalier dans la vassalité ?",
+    "answers": ["L’hommage","L’adoubement","L’investiture","La bénédiction"],
+    "correctIndex": 0
   },
   {
     "id": "q38",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle bataille mit fin à la présence musulmane en Provence au Xe siècle ?",
-    "answers": [
-      "Bataille de Poitiers",
-      "Bataille de Covadonga",
-      "Bataille de Simancas",
-      "Bataille de Tourtour"
-    ],
-    "correctIndex": 3
+    "text": "Quelle taxe ecclésiastique pesait sur la production agricole ?",
+    "answers": ["Le cens","La dîme","La taille","Le tonlieu"],
+    "correctIndex": 1
   },
   {
     "id": "q39",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel traité de 843 partagea l'empire carolingien entre trois héritiers ?",
-    "answers": [
-      "Traité de Paris",
-      "Traité de Meerssen",
-      "Traité de Saint-Clair-sur-Epte",
-      "Traité de Verdun"
-    ],
-    "correctIndex": 3
+    "text": "Quelle discipline permet l’analyse des faux diplômes médiévaux ?",
+    "answers": ["La codicologie","La paléographie","La diplomatique","La sigillographie"],
+    "correctIndex": 2
   },
   {
     "id": "q40",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi viking régna sur l'Angleterre au XIe siècle ?",
-    "answers": [
-      "Leif Erikson",
-      "Knud le Grand",
-      "Harald à la Dent Bleue",
-      "Olaf Tryggvason"
-    ],
-    "correctIndex": 1
+    "text": "Quel terme désigne l’ensemble des droits liés au ban seigneurial ?",
+    "answers": ["La seigneurie foncière","La vassalité","La féodalité","La seigneurie banale"],
+    "correctIndex": 3
   },
+
   {
     "id": "q41",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel pape a excommunié Frédéric II à plusieurs reprises ?",
-    "answers": [
-      "Grégoire IX",
-      "Innocent III",
-      "Boniface VIII",
-      "Alexandre IV"
-    ],
+    "text": "Quel lien féodal est considéré comme indissoluble ?",
+    "answers": ["L’hommage lige","La fidélité simple","La dépendance","La coutume"],
     "correctIndex": 0
   },
   {
     "id": "q42",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel philosophe médiéval est l'auteur de 'Somme théologique' ?",
-    "answers": [
-      "Pierre Abélard",
-      "Duns Scot",
-      "Albert le Grand",
-      "Thomas d'Aquin"
-    ],
-    "correctIndex": 3
+    "text": "Quelle juridiction traitait les conflits entre clercs ?",
+    "answers": ["La justice seigneuriale","La justice royale","La justice ecclésiastique","La justice coutumière"],
+    "correctIndex": 1
   },
   {
     "id": "q43",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel manuscrit irlandais du IXe siècle est célèbre pour ses enluminures ?",
-    "answers": [
-      "Livre de Durrow",
-      "Psautier de Stuttgart",
-      "Livre de Kells",
-      "Évangiles de Lindisfarne"
-    ],
+    "text": "Quelle science auxiliaire étudie la composition des encres médiévales ?",
+    "answers": ["La paléographie","La codicologie","La chimie historique","La diplomatique"],
     "correctIndex": 2
   },
   {
     "id": "q44",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel moine médiéval a inventé un système de notation musicale encore utilisé aujourd'hui ?",
-    "answers": [
-      "Isidore de Séville",
-      "Boèce",
-      "Jean Cotton",
-      "Guido d'Arezzo"
-    ],
+    "text": "Quel terme désigne le droit exclusif du seigneur d’imposer ses ordres ?",
+    "answers": ["La vassalité","La coutume","La féodalité","Le ban"],
     "correctIndex": 3
   },
+
   {
     "id": "q45",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel traité de 843 partagea l'empire carolingien entre trois héritiers ?",
-    "answers": [
-      "Traité de Meerssen",
-      "Traité de Verdun",
-      "Traité de Saint-Clair-sur-Epte",
-      "Traité de Paris"
-    ],
-    "correctIndex": 1
+    "text": "Quel acte médiéval liait définitivement le vassal à son suzerain ?",
+    "answers": ["L’hommage","L’investiture","La commendatio","L’adoubement"],
+    "correctIndex": 0
   },
   {
     "id": "q46",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel moine médiéval a inventé un système de notation musicale encore utilisé aujourd'hui ?",
-    "answers": [
-      "Guido d'Arezzo",
-      "Jean Cotton",
-      "Isidore de Séville",
-      "Boèce"
-    ],
-    "correctIndex": 0
+    "text": "Quelle institution tranche les hérésies au XIIIe siècle ?",
+    "answers": ["Le synode","L’Inquisition","Le concile","La curie"],
+    "correctIndex": 1
   },
   {
     "id": "q47",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel traité de 843 partagea l'empire carolingien entre trois héritiers ?",
-    "answers": [
-      "Traité de Verdun",
-      "Traité de Paris",
-      "Traité de Saint-Clair-sur-Epte",
-      "Traité de Meerssen"
-    ],
-    "correctIndex": 0
+    "text": "Quelle discipline étudie la fabrication matérielle des manuscrits ?",
+    "answers": ["La paléographie","La diplomatique","La codicologie","La bibliographie"],
+    "correctIndex": 2
   },
   {
     "id": "q48",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle université médiévale fut la première fondée en Europe ?",
-    "answers": [
-      "Université de Paris",
-      "Université d'Oxford",
-      "Université de Salamanque",
-      "Université de Bologne"
-    ],
+    "text": "Quel type de seigneurie portait sur les hommes plus que sur les terres ?",
+    "answers": ["La seigneurie foncière","La seigneurie domaniale","La seigneurie coutumière","La seigneurie banale"],
     "correctIndex": 3
   },
+
   {
     "id": "q49",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel traité de 843 partagea l'empire carolingien entre trois héritiers ?",
-    "answers": [
-      "Traité de Saint-Clair-sur-Epte",
-      "Traité de Paris",
-      "Traité de Meerssen",
-      "Traité de Verdun"
-    ],
-    "correctIndex": 3
+    "text": "Quel serment impliquait une fidélité exclusive ?",
+    "answers": ["L’hommage lige","La fidélité simple","Le serment royal","La coutume"],
+    "correctIndex": 0
   },
   {
     "id": "q50",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi viking régna sur l'Angleterre au XIe siècle ?",
-    "answers": [
-      "Knud le Grand",
-      "Olaf Tryggvason",
-      "Leif Erikson",
-      "Harald à la Dent Bleue"
-    ],
-    "correctIndex": 0
+    "text": "Quelle taxe médiévale finançait directement l’administration royale ?",
+    "answers": ["Le cens","La taille","La dîme","La banalité"],
+    "correctIndex": 1
   },
   {
     "id": "q51",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel pape a excommunié Frédéric II à plusieurs reprises ?",
-    "answers": [
-      "Alexandre IV",
-      "Grégoire IX",
-      "Innocent III",
-      "Boniface VIII"
-    ],
-    "correctIndex": 1
+    "text": "Quel document carolingien recense précisément les domaines royaux et leur gestion ?",
+    "answers": ["Le capitulaire De Villis","Le polyptyque","Le cartulaire","La chronique"],
+    "correctIndex": 0
   },
   {
     "id": "q52",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle forteresse anglaise servit de prison à Jeanne d'Arc ?",
-    "answers": [
-      "Château de Vincennes",
-      "Château de Rouen",
-      "Château de Chinon",
-      "Tour de Londres"
-    ],
-    "correctIndex": 3
+    "text": "Quelle institution médiévale détenait le monopole de l’enseignement universitaire ?",
+    "answers": ["Les guildes","L’Église","La royauté","Les communes"],
+    "correctIndex": 1
   },
   {
     "id": "q53",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle forteresse anglaise servit de prison à Jeanne d'Arc ?",
-    "answers": [
-      "Château de Rouen",
-      "Château de Vincennes",
-      "Tour de Londres",
-      "Château de Chinon"
-    ],
+    "text": "Quelle discipline permet d’identifier l’origine géographique d’un parchemin ?",
+    "answers": ["La paléographie","La sigillographie","La codicologie","La diplomatique"],
     "correctIndex": 2
   },
   {
     "id": "q54",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel pape a excommunié Frédéric II à plusieurs reprises ?",
-    "answers": [
-      "Boniface VIII",
-      "Grégoire IX",
-      "Alexandre IV",
-      "Innocent III"
-    ],
-    "correctIndex": 1
+    "text": "Quel terme désigne la capacité d’un seigneur à lever une armée ?",
+    "answers": ["La vassalité","La féodalité","La suzeraineté","Le ban militaire"],
+    "correctIndex": 3
   },
+
   {
     "id": "q55",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel moine médiéval a inventé un système de notation musicale encore utilisé aujourd'hui ?",
-    "answers": [
-      "Boèce",
-      "Isidore de Séville",
-      "Jean Cotton",
-      "Guido d'Arezzo"
-    ],
-    "correctIndex": 3
+    "text": "Quel serment féodal engageait prioritairement le vassal envers un seul seigneur ?",
+    "answers": ["L’hommage lige","La fidélité simple","La commendatio","L’investiture"],
+    "correctIndex": 0
   },
   {
     "id": "q56",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle forteresse anglaise servit de prison à Jeanne d'Arc ?",
-    "answers": [
-      "Château de Vincennes",
-      "Tour de Londres",
-      "Château de Chinon",
-      "Château de Rouen"
-    ],
+    "text": "Quelle juridiction médiévale jugeait les clercs exclusivement ?",
+    "answers": ["La justice royale","La justice ecclésiastique","La justice seigneuriale","La justice urbaine"],
     "correctIndex": 1
   },
   {
     "id": "q57",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi de France a fait édifier le Louvre comme forteresse ?",
-    "answers": [
-      "Louis IX",
-      "François Ier",
-      "Philippe Auguste",
-      "Charles V"
-    ],
+    "text": "Quelle science auxiliaire étudie les chartes et diplômes médiévaux ?",
+    "answers": ["La paléographie","La sigillographie","La diplomatique","La codicologie"],
     "correctIndex": 2
   },
   {
     "id": "q58",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi viking régna sur l'Angleterre au XIe siècle ?",
-    "answers": [
-      "Leif Erikson",
-      "Olaf Tryggvason",
-      "Harald à la Dent Bleue",
-      "Knud le Grand"
-    ],
+    "text": "Quel droit permettait au seigneur d’imposer des taxes sur les marchés ?",
+    "answers": ["Le cens","La taille","La dîme","Le droit de ban"],
     "correctIndex": 3
   },
+
   {
     "id": "q59",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel pape a excommunié Frédéric II à plusieurs reprises ?",
-    "answers": [
-      "Boniface VIII",
-      "Alexandre IV",
-      "Innocent III",
-      "Grégoire IX"
-    ],
-    "correctIndex": 3
+    "text": "Quel acte marque juridiquement l’entrée d’un vassal dans la dépendance féodale ?",
+    "answers": ["L’hommage","L’adoubement","L’investiture","La fidélité"],
+    "correctIndex": 0
   },
   {
     "id": "q60",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi de France a fait édifier le Louvre comme forteresse ?",
-    "answers": [
-      "Louis IX",
-      "Philippe Auguste",
-      "Charles V",
-      "François Ier"
-    ],
+    "text": "Quelle assemblée ecclésiastique locale règle les affaires diocésaines ?",
+    "answers": ["Le concile","Le synode","Le chapitre","La curie"],
     "correctIndex": 1
   },
+
   {
     "id": "q61",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi viking régna sur l'Angleterre au XIe siècle ?",
-    "answers": [
-      "Harald à la Dent Bleue",
-      "Knud le Grand",
-      "Olaf Tryggvason",
-      "Leif Erikson"
-    ],
-    "correctIndex": 1
+    "text": "Quelle discipline permet de dater un manuscrit par son écriture ?",
+    "answers": ["La codicologie","La diplomatique","La paléographie","L’archivistique"],
+    "correctIndex": 2
   },
   {
     "id": "q62",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel pape a excommunié Frédéric II à plusieurs reprises ?",
-    "answers": [
-      "Grégoire IX",
-      "Boniface VIII",
-      "Alexandre IV",
-      "Innocent III"
-    ],
-    "correctIndex": 0
+    "text": "Quel terme désigne la justice exercée sur les crimes capitaux ?",
+    "answers": ["La basse justice","La moyenne justice","La justice coutumière","La haute justice"],
+    "correctIndex": 3
   },
+
   {
     "id": "q63",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel pape a excommunié Frédéric II à plusieurs reprises ?",
-    "answers": [
-      "Boniface VIII",
-      "Alexandre IV",
-      "Innocent III",
-      "Grégoire IX"
-    ],
-    "correctIndex": 3
+    "text": "Quel lien personnel fonde la hiérarchie féodale ?",
+    "answers": ["La vassalité","La suzeraineté","La seigneurie","La féodalité"],
+    "correctIndex": 0
   },
   {
     "id": "q64",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi viking régna sur l'Angleterre au XIe siècle ?",
-    "answers": [
-      "Olaf Tryggvason",
-      "Knud le Grand",
-      "Harald à la Dent Bleue",
-      "Leif Erikson"
-    ],
+    "text": "Quelle institution médiévale validait les diplômes universitaires ?",
+    "answers": ["La commune","L’Église","La corporation","Le roi"],
     "correctIndex": 1
   },
   {
     "id": "q65",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel moine médiéval a inventé un système de notation musicale encore utilisé aujourd'hui ?",
-    "answers": [
-      "Isidore de Séville",
-      "Jean Cotton",
-      "Guido d'Arezzo",
-      "Boèce"
-    ],
+    "text": "Quelle science auxiliaire étudie les sceaux médiévaux ?",
+    "answers": ["L’héraldique","La diplomatique","La sigillographie","La paléographie"],
     "correctIndex": 2
   },
   {
     "id": "q66",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle université médiévale fut la première fondée en Europe ?",
-    "answers": [
-      "Université de Paris",
-      "Université d'Oxford",
-      "Université de Salamanque",
-      "Université de Bologne"
-    ],
+    "text": "Quel droit seigneurial portait sur les personnes plutôt que sur les terres ?",
+    "answers": ["La seigneurie foncière","La seigneurie domaniale","La seigneurie coutumière","La seigneurie banale"],
     "correctIndex": 3
   },
+
   {
     "id": "q67",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle forteresse anglaise servit de prison à Jeanne d'Arc ?",
-    "answers": [
-      "Château de Rouen",
-      "Tour de Londres",
-      "Château de Chinon",
-      "Château de Vincennes"
-    ],
-    "correctIndex": 1
+    "text": "Quel acte officialise la remise symbolique du fief ?",
+    "answers": ["L’investiture","L’hommage","L’adoubement","La fidélité"],
+    "correctIndex": 0
   },
   {
     "id": "q68",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi viking régna sur l'Angleterre au XIe siècle ?",
-    "answers": [
-      "Olaf Tryggvason",
-      "Harald à la Dent Bleue",
-      "Knud le Grand",
-      "Leif Erikson"
-    ],
-    "correctIndex": 2
+    "text": "Quelle taxe médiévale finance directement la monarchie capétienne ?",
+    "answers": ["La dîme","La taille","Le cens","La banalité"],
+    "correctIndex": 1
   },
+
   {
     "id": "q69",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel traité de 843 partagea l'empire carolingien entre trois héritiers ?",
-    "answers": [
-      "Traité de Meerssen",
-      "Traité de Verdun",
-      "Traité de Paris",
-      "Traité de Saint-Clair-sur-Epte"
-    ],
-    "correctIndex": 1
+    "text": "Quelle discipline analyse la structure matérielle du codex médiéval ?",
+    "answers": ["La paléographie","La diplomatique","La codicologie","La bibliologie"],
+    "correctIndex": 2
   },
   {
     "id": "q70",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel pape a excommunié Frédéric II à plusieurs reprises ?",
-    "answers": [
-      "Boniface VIII",
-      "Innocent III",
-      "Grégoire IX",
-      "Alexandre IV"
-    ],
-    "correctIndex": 2
+    "text": "Quel terme désigne l’ensemble des pouvoirs seigneuriaux de commandement ?",
+    "answers": ["La vassalité","La féodalité","La seigneurie foncière","Le ban"],
+    "correctIndex": 3
   },
+
   {
     "id": "q71",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle bataille mit fin à la présence musulmane en Provence au Xe siècle ?",
-    "answers": [
-      "Bataille de Tourtour",
-      "Bataille de Poitiers",
-      "Bataille de Simancas",
-      "Bataille de Covadonga"
-    ],
+    "text": "Quel serment féodal impliquait une fidélité exclusive ?",
+    "answers": ["L’hommage lige","La fidélité simple","La commendatio","Le serment royal"],
     "correctIndex": 0
   },
   {
     "id": "q72",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel philosophe médiéval est l'auteur de 'Somme théologique' ?",
-    "answers": [
-      "Albert le Grand",
-      "Duns Scot",
-      "Thomas d'Aquin",
-      "Pierre Abélard"
-    ],
-    "correctIndex": 2
+    "text": "Quelle autorité tranche les hérésies au XIIIe siècle ?",
+    "answers": ["Le concile","L’Inquisition","Le synode","La curie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q73",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi viking régna sur l'Angleterre au XIe siècle ?",
-    "answers": [
-      "Leif Erikson",
-      "Harald à la Dent Bleue",
-      "Knud le Grand",
-      "Olaf Tryggvason"
-    ],
+    "text": "Quelle science permet d’identifier les faux manuscrits médiévaux ?",
+    "answers": ["La codicologie","La paléographie","La diplomatique","La sigillographie"],
     "correctIndex": 2
   },
   {
     "id": "q74",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi de France a fait édifier le Louvre comme forteresse ?",
-    "answers": [
-      "Charles V",
-      "Philippe Auguste",
-      "Louis IX",
-      "François Ier"
-    ],
-    "correctIndex": 1
+    "text": "Quel type de justice relevait des infractions mineures ?",
+    "answers": ["La haute justice","La justice ecclésiastique","La justice royale","La basse justice"],
+    "correctIndex": 3
   },
+
   {
     "id": "q75",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel moine médiéval a inventé un système de notation musicale encore utilisé aujourd'hui ?",
-    "answers": [
-      "Isidore de Séville",
-      "Boèce",
-      "Jean Cotton",
-      "Guido d'Arezzo"
-    ],
-    "correctIndex": 3
+    "text": "Quel document médiéval recense les revenus d’une abbaye ?",
+    "answers": ["Le polyptyque","La chronique","Le capitulaire","Le missel"],
+    "correctIndex": 0
   },
   {
     "id": "q76",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi viking régna sur l'Angleterre au XIe siècle ?",
-    "answers": [
-      "Harald à la Dent Bleue",
-      "Olaf Tryggvason",
-      "Leif Erikson",
-      "Knud le Grand"
-    ],
-    "correctIndex": 3
+    "text": "Quelle institution médiévale réglemente la foi officielle ?",
+    "answers": ["La royauté","L’Église","Les universités","Les communes"],
+    "correctIndex": 1
   },
+
   {
     "id": "q77",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel philosophe médiéval est l'auteur de 'Somme théologique' ?",
-    "answers": [
-      "Thomas d'Aquin",
-      "Albert le Grand",
-      "Pierre Abélard",
-      "Duns Scot"
-    ],
-    "correctIndex": 0
+    "text": "Quelle discipline étudie les lignées nobles médiévales ?",
+    "answers": ["La sigillographie","La diplomatique","La généalogie","L’héraldique"],
+    "correctIndex": 2
   },
   {
     "id": "q78",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel manuscrit irlandais du IXe siècle est célèbre pour ses enluminures ?",
-    "answers": [
-      "Psautier de Stuttgart",
-      "Évangiles de Lindisfarne",
-      "Livre de Durrow",
-      "Livre de Kells"
-    ],
+    "text": "Quel terme désigne l’ensemble des droits économiques du seigneur ?",
+    "answers": ["La vassalité","La coutume","La féodalité","La seigneurie"],
     "correctIndex": 3
   },
+
   {
     "id": "q79",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi de France a fait édifier le Louvre comme forteresse ?",
-    "answers": [
-      "Philippe Auguste",
-      "Charles V",
-      "Louis IX",
-      "François Ier"
-    ],
+    "text": "Quel serment médiéval engageait le vassal devant Dieu ?",
+    "answers": ["Le serment de fidélité","L’investiture","L’adoubement","La commendatio"],
     "correctIndex": 0
   },
   {
     "id": "q80",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel manuscrit irlandais du IXe siècle est célèbre pour ses enluminures ?",
-    "answers": [
-      "Psautier de Stuttgart",
-      "Livre de Kells",
-      "Évangiles de Lindisfarne",
-      "Livre de Durrow"
-    ],
+    "text": "Quelle taxe seigneuriale pesait sur l’usage des fours ?",
+    "answers": ["Le cens","La banalité","La taille","Le tonlieu"],
     "correctIndex": 1
   },
+
   {
     "id": "q81",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle forteresse anglaise servit de prison à Jeanne d'Arc ?",
-    "answers": [
-      "Château de Chinon",
-      "Château de Vincennes",
-      "Tour de Londres",
-      "Château de Rouen"
-    ],
+    "text": "Quelle science auxiliaire étudie les emblèmes héraldiques ?",
+    "answers": ["La paléographie","La diplomatique","L’héraldique","La sigillographie"],
     "correctIndex": 2
   },
   {
     "id": "q82",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle université médiévale fut la première fondée en Europe ?",
-    "answers": [
-      "Université de Salamanque",
-      "Université de Bologne",
-      "Université d'Oxford",
-      "Université de Paris"
-    ],
-    "correctIndex": 1
+    "text": "Quel type de seigneurie portait principalement sur les terres ?",
+    "answers": ["La seigneurie banale","La seigneurie personnelle","La seigneurie militaire","La seigneurie foncière"],
+    "correctIndex": 3
   },
+
   {
     "id": "q83",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle université médiévale fut la première fondée en Europe ?",
-    "answers": [
-      "Université de Salamanque",
-      "Université de Bologne",
-      "Université de Paris",
-      "Université d'Oxford"
-    ],
-    "correctIndex": 1
+    "text": "Quel acte médiéval officialise la dépendance personnelle du vassal ?",
+    "answers": ["L’hommage","L’adoubement","La bénédiction","L’investiture"],
+    "correctIndex": 0
   },
   {
     "id": "q84",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle forteresse anglaise servit de prison à Jeanne d'Arc ?",
-    "answers": [
-      "Tour de Londres",
-      "Château de Vincennes",
-      "Château de Chinon",
-      "Château de Rouen"
-    ],
-    "correctIndex": 0
+    "text": "Quelle institution contrôle la conformité doctrinale des écrits ?",
+    "answers": ["Les universités","L’Église","La royauté","Les guildes"],
+    "correctIndex": 1
   },
+
   {
     "id": "q85",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi viking régna sur l'Angleterre au XIe siècle ?",
-    "answers": [
-      "Knud le Grand",
-      "Harald à la Dent Bleue",
-      "Leif Erikson",
-      "Olaf Tryggvason"
-    ],
-    "correctIndex": 0
+    "text": "Quelle discipline étudie la fabrication des encres médiévales ?",
+    "answers": ["La paléographie","La codicologie","La chimie historique","La diplomatique"],
+    "correctIndex": 2
   },
   {
     "id": "q86",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel traité de 843 partagea l'empire carolingien entre trois héritiers ?",
-    "answers": [
-      "Traité de Verdun",
-      "Traité de Meerssen",
-      "Traité de Paris",
-      "Traité de Saint-Clair-sur-Epte"
-    ],
-    "correctIndex": 0
+    "text": "Quel droit seigneurial permettait de lever des corvées ?",
+    "answers": ["La dîme","La vassalité","La féodalité","Le ban"],
+    "correctIndex": 3
   },
+
   {
     "id": "q87",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle université médiévale fut la première fondée en Europe ?",
-    "answers": [
-      "Université de Salamanque",
-      "Université de Paris",
-      "Université de Bologne",
-      "Université d'Oxford"
-    ],
-    "correctIndex": 2
+    "text": "Quel lien personnel était scellé lors de la cérémonie d’hommage ?",
+    "answers": ["La fidélité","La coutume","La dépendance","La hiérarchie"],
+    "correctIndex": 0
   },
   {
     "id": "q88",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle bataille mit fin à la présence musulmane en Provence au Xe siècle ?",
-    "answers": [
-      "Bataille de Simancas",
-      "Bataille de Poitiers",
-      "Bataille de Tourtour",
-      "Bataille de Covadonga"
-    ],
-    "correctIndex": 2
+    "text": "Quelle juridiction médiévale jugeait les litiges entre seigneurs ?",
+    "answers": ["La justice seigneuriale","La justice royale","La justice ecclésiastique","La justice communale"],
+    "correctIndex": 1
   },
+
   {
     "id": "q89",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi viking régna sur l'Angleterre au XIe siècle ?",
-    "answers": [
-      "Knud le Grand",
-      "Harald à la Dent Bleue",
-      "Leif Erikson",
-      "Olaf Tryggvason"
-    ],
-    "correctIndex": 0
+    "text": "Quelle science permet l’analyse des faux sceaux médiévaux ?",
+    "answers": ["La diplomatique","La paléographie","La sigillographie","L’héraldique"],
+    "correctIndex": 2
   },
   {
     "id": "q90",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel pape a excommunié Frédéric II à plusieurs reprises ?",
-    "answers": [
-      "Alexandre IV",
-      "Innocent III",
-      "Boniface VIII",
-      "Grégoire IX"
-    ],
+    "text": "Quel type de justice relevait des délits ordinaires ?",
+    "answers": ["La haute justice","La justice ecclésiastique","La justice royale","La moyenne justice"],
     "correctIndex": 3
   },
+
   {
     "id": "q91",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle forteresse anglaise servit de prison à Jeanne d'Arc ?",
-    "answers": [
-      "Château de Chinon",
-      "Château de Rouen",
-      "Tour de Londres",
-      "Château de Vincennes"
-    ],
-    "correctIndex": 2
+    "text": "Quel document médiéval recense les droits et devoirs seigneuriaux ?",
+    "answers": ["Le terrier","Le cartulaire","La chronique","Le capitulaire"],
+    "correctIndex": 0
   },
   {
     "id": "q92",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel philosophe médiéval est l'auteur de 'Somme théologique' ?",
-    "answers": [
-      "Pierre Abélard",
-      "Duns Scot",
-      "Albert le Grand",
-      "Thomas d'Aquin"
-    ],
-    "correctIndex": 3
+    "text": "Quelle institution médiévale domine l’organisation intellectuelle ?",
+    "answers": ["La royauté","L’Église","Les universités","Les communes"],
+    "correctIndex": 1
   },
+
   {
     "id": "q93",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel philosophe médiéval est l'auteur de 'Somme théologique' ?",
-    "answers": [
-      "Duns Scot",
-      "Thomas d'Aquin",
-      "Albert le Grand",
-      "Pierre Abélard"
-    ],
-    "correctIndex": 1
+    "text": "Quelle discipline auxiliaire étudie les faux diplômes ?",
+    "answers": ["La paléographie","La codicologie","La diplomatique","La sigillographie"],
+    "correctIndex": 2
   },
   {
     "id": "q94",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle université médiévale fut la première fondée en Europe ?",
-    "answers": [
-      "Université de Bologne",
-      "Université d'Oxford",
-      "Université de Salamanque",
-      "Université de Paris"
-    ],
-    "correctIndex": 0
+    "text": "Quel terme désigne le pouvoir de commandement seigneurial ?",
+    "answers": ["La vassalité","La féodalité","La seigneurie","Le ban"],
+    "correctIndex": 3
   },
+
   {
     "id": "q95",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel moine médiéval a inventé un système de notation musicale encore utilisé aujourd'hui ?",
-    "answers": [
-      "Isidore de Séville",
-      "Jean Cotton",
-      "Boèce",
-      "Guido d'Arezzo"
-    ],
-    "correctIndex": 3
+    "text": "Quel serment impliquait une priorité absolue sur les autres liens féodaux ?",
+    "answers": ["L’hommage lige","La fidélité simple","Le serment royal","La commendatio"],
+    "correctIndex": 0
   },
   {
     "id": "q96",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel philosophe médiéval est l'auteur de 'Somme théologique' ?",
-    "answers": [
-      "Duns Scot",
-      "Albert le Grand",
-      "Pierre Abélard",
-      "Thomas d'Aquin"
-    ],
-    "correctIndex": 3
+    "text": "Quelle institution médiévale définissait l’orthodoxie religieuse ?",
+    "answers": ["Les universités","L’Église","La royauté","Les communes"],
+    "correctIndex": 1
   },
+
   {
     "id": "q97",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel philosophe médiéval est l'auteur de 'Somme théologique' ?",
-    "answers": [
-      "Pierre Abélard",
-      "Thomas d'Aquin",
-      "Albert le Grand",
-      "Duns Scot"
-    ],
-    "correctIndex": 1
+    "text": "Quelle discipline étudie les livres manuscrits comme objets matériels ?",
+    "answers": ["La paléographie","La diplomatique","La codicologie","La bibliographie"],
+    "correctIndex": 2
   },
   {
     "id": "q98",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle université médiévale fut la première fondée en Europe ?",
-    "answers": [
-      "Université de Bologne",
-      "Université de Salamanque",
-      "Université de Paris",
-      "Université d'Oxford"
-    ],
-    "correctIndex": 0
+    "text": "Quel droit permettait au seigneur de réquisitionner les hommes ?",
+    "answers": ["La vassalité","La féodalité","La coutume","Le ban"],
+    "correctIndex": 3
   },
+
   {
     "id": "q99",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel moine médiéval a inventé un système de notation musicale encore utilisé aujourd'hui ?",
-    "answers": [
-      "Guido d'Arezzo",
-      "Boèce",
-      "Isidore de Séville",
-      "Jean Cotton"
-    ],
+    "text": "Quel document scellé officialise une concession féodale ?",
+    "answers": ["La charte","Le capitulaire","Le polyptyque","La chronique"],
     "correctIndex": 0
   },
   {
     "id": "q100",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi viking régna sur l'Angleterre au XIe siècle ?",
-    "answers": [
-      "Knud le Grand",
-      "Harald à la Dent Bleue",
-      "Olaf Tryggvason",
-      "Leif Erikson"
-    ],
-    "correctIndex": 0
+    "text": "Quelle juridiction médiévale était compétente pour les crimes contre la foi ?",
+    "answers": ["La justice royale","L’Inquisition","La justice seigneuriale","La justice communale"],
+    "correctIndex": 1
   },
   {
     "id": "q101",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi viking régna sur l'Angleterre au XIe siècle ?",
-    "answers": [
-      "Knud le Grand",
-      "Olaf Tryggvason",
-      "Harald à la Dent Bleue",
-      "Leif Erikson"
-    ],
+    "text": "Quel acte juridique médiéval établissait formellement la relation personnelle entre un seigneur et son homme ?",
+    "answers": ["La commendatio", "L’investiture", "La charte", "L’adoubement"],
     "correctIndex": 0
   },
   {
     "id": "q102",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel manuscrit irlandais du IXe siècle est célèbre pour ses enluminures ?",
-    "answers": [
-      "Évangiles de Lindisfarne",
-      "Livre de Kells",
-      "Psautier de Stuttgart",
-      "Livre de Durrow"
-    ],
+    "text": "Quelle autorité ecclésiastique possédait le pouvoir suprême de législation canonique au Moyen Âge ?",
+    "answers": ["Le concile", "La papauté", "Le synode", "Le chapitre cathédral"],
     "correctIndex": 1
   },
   {
     "id": "q103",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel traité de 843 partagea l'empire carolingien entre trois héritiers ?",
-    "answers": [
-      "Traité de Saint-Clair-sur-Epte",
-      "Traité de Paris",
-      "Traité de Verdun",
-      "Traité de Meerssen"
-    ],
+    "text": "Quelle discipline historique analyse la validité juridique et formelle des actes médiévaux ?",
+    "answers": ["La paléographie", "La codicologie", "La diplomatique", "La sigillographie"],
     "correctIndex": 2
   },
   {
     "id": "q104",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle bataille mit fin à la présence musulmane en Provence au Xe siècle ?",
-    "answers": [
-      "Bataille de Poitiers",
-      "Bataille de Simancas",
-      "Bataille de Tourtour",
-      "Bataille de Covadonga"
-    ],
-    "correctIndex": 2
+    "text": "Quel pouvoir seigneurial permettait d’imposer des obligations collectives aux populations locales ?",
+    "answers": ["La seigneurie foncière", "La seigneurie personnelle", "La coutume locale", "Le ban seigneurial"],
+    "correctIndex": 3
   },
+
   {
     "id": "q105",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi de France a fait édifier le Louvre comme forteresse ?",
-    "answers": [
-      "François Ier",
-      "Charles V",
-      "Louis IX",
-      "Philippe Auguste"
-    ],
-    "correctIndex": 3
+    "text": "Quel lien féodal impliquait l’obligation militaire directe du vassal envers son seigneur ?",
+    "answers": ["La vassalité", "La fidélité simple", "La suzeraineté", "La commendatio"],
+    "correctIndex": 0
   },
   {
     "id": "q106",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle université médiévale fut la première fondée en Europe ?",
-    "answers": [
-      "Université de Bologne",
-      "Université d'Oxford",
-      "Université de Salamanque",
-      "Université de Paris"
-    ],
-    "correctIndex": 0
+    "text": "Quelle juridiction médiévale jugeait prioritairement les membres du clergé ?",
+    "answers": ["La justice royale", "La justice ecclésiastique", "La justice seigneuriale", "La justice urbaine"],
+    "correctIndex": 1
   },
   {
     "id": "q107",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel pape a excommunié Frédéric II à plusieurs reprises ?",
-    "answers": [
-      "Boniface VIII",
-      "Alexandre IV",
-      "Grégoire IX",
-      "Innocent III"
-    ],
+    "text": "Quelle science auxiliaire étudie les formes d’écriture et leurs évolutions chronologiques ?",
+    "answers": ["La diplomatique", "La codicologie", "La paléographie", "L’héraldique"],
     "correctIndex": 2
   },
   {
     "id": "q108",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel pape a excommunié Frédéric II à plusieurs reprises ?",
-    "answers": [
-      "Boniface VIII",
-      "Innocent III",
-      "Grégoire IX",
-      "Alexandre IV"
-    ],
-    "correctIndex": 2
+    "text": "Quel type de seigneurie reposait principalement sur l’exploitation directe des terres ?",
+    "answers": ["La seigneurie banale", "La seigneurie militaire", "La seigneurie personnelle", "La seigneurie foncière"],
+    "correctIndex": 3
   },
+
   {
     "id": "q109",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel moine médiéval a inventé un système de notation musicale encore utilisé aujourd'hui ?",
-    "answers": [
-      "Boèce",
-      "Isidore de Séville",
-      "Jean Cotton",
-      "Guido d'Arezzo"
-    ],
-    "correctIndex": 3
+    "text": "Quel serment féodal établissait une fidélité prioritaire envers un seul seigneur ?",
+    "answers": ["L’hommage lige", "La fidélité simple", "La commendatio", "L’adoubement"],
+    "correctIndex": 0
   },
   {
     "id": "q110",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle université médiévale fut la première fondée en Europe ?",
-    "answers": [
-      "Université de Paris",
-      "Université d'Oxford",
-      "Université de Salamanque",
-      "Université de Bologne"
-    ],
-    "correctIndex": 3
+    "text": "Quelle institution ecclésiastique validait les décisions des conciles œcuméniques ?",
+    "answers": ["Le synode", "Le pape", "Le chapitre", "La curie romaine"],
+    "correctIndex": 1
   },
+
   {
     "id": "q111",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi de France a fait édifier le Louvre comme forteresse ?",
-    "answers": [
-      "François Ier",
-      "Philippe Auguste",
-      "Charles V",
-      "Louis IX"
-    ],
-    "correctIndex": 1
+    "text": "Quelle discipline permet d’identifier les faux diplômes et chartes médiévaux ?",
+    "answers": ["La paléographie", "La codicologie", "La diplomatique", "La bibliographie"],
+    "correctIndex": 2
   },
   {
     "id": "q112",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel manuscrit irlandais du IXe siècle est célèbre pour ses enluminures ?",
-    "answers": [
-      "Livre de Durrow",
-      "Évangiles de Lindisfarne",
-      "Livre de Kells",
-      "Psautier de Stuttgart"
-    ],
-    "correctIndex": 2
+    "text": "Quel droit seigneurial imposait l’usage obligatoire des moulins et fours ?",
+    "answers": ["Le cens", "La taille", "La dîme", "La banalité"],
+    "correctIndex": 3
   },
+
   {
     "id": "q113",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle université médiévale fut la première fondée en Europe ?",
-    "answers": [
-      "Université de Salamanque",
-      "Université de Bologne",
-      "Université d'Oxford",
-      "Université de Paris"
-    ],
-    "correctIndex": 1
+    "text": "Quel acte symbolique accompagnait traditionnellement l’investiture féodale ?",
+    "answers": ["La remise d’un objet", "Le serment oral", "La bénédiction", "La charte écrite"],
+    "correctIndex": 0
   },
   {
     "id": "q114",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel traité de 843 partagea l'empire carolingien entre trois héritiers ?",
-    "answers": [
-      "Traité de Paris",
-      "Traité de Verdun",
-      "Traité de Meerssen",
-      "Traité de Saint-Clair-sur-Epte"
-    ],
+    "text": "Quelle autorité contrôlait la conformité doctrinale de l’enseignement universitaire médiéval ?",
+    "answers": ["La royauté", "L’Église", "Les communes", "Les corporations"],
     "correctIndex": 1
   },
+
   {
     "id": "q115",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel moine médiéval a inventé un système de notation musicale encore utilisé aujourd'hui ?",
-    "answers": [
-      "Guido d'Arezzo",
-      "Boèce",
-      "Jean Cotton",
-      "Isidore de Séville"
-    ],
-    "correctIndex": 0
+    "text": "Quelle science auxiliaire étudie la structure matérielle des manuscrits ?",
+    "answers": ["La paléographie", "La diplomatique", "La codicologie", "L’archivistique"],
+    "correctIndex": 2
   },
   {
     "id": "q116",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel manuscrit irlandais du IXe siècle est célèbre pour ses enluminures ?",
-    "answers": [
-      "Évangiles de Lindisfarne",
-      "Psautier de Stuttgart",
-      "Livre de Kells",
-      "Livre de Durrow"
-    ],
-    "correctIndex": 2
+    "text": "Quel type de justice jugeait les crimes passibles de la peine capitale ?",
+    "answers": ["La basse justice", "La justice coutumière", "La justice seigneuriale", "La haute justice"],
+    "correctIndex": 3
   },
+
   {
     "id": "q117",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel moine médiéval a inventé un système de notation musicale encore utilisé aujourd'hui ?",
-    "answers": [
-      "Boèce",
-      "Isidore de Séville",
-      "Jean Cotton",
-      "Guido d'Arezzo"
-    ],
-    "correctIndex": 3
+    "text": "Quel lien personnel fondait l’obligation de conseil et d’assistance envers le seigneur ?",
+    "answers": ["La vassalité", "La suzeraineté", "La seigneurie", "La féodalité"],
+    "correctIndex": 0
   },
   {
     "id": "q118",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi viking régna sur l'Angleterre au XIe siècle ?",
-    "answers": [
-      "Olaf Tryggvason",
-      "Leif Erikson",
-      "Knud le Grand",
-      "Harald à la Dent Bleue"
-    ],
-    "correctIndex": 2
+    "text": "Quelle juridiction connaissait des litiges opposant des institutions ecclésiastiques ?",
+    "answers": ["La justice royale", "La justice ecclésiastique", "La justice seigneuriale", "La justice communale"],
+    "correctIndex": 1
   },
+
   {
     "id": "q119",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel philosophe médiéval est l'auteur de 'Somme théologique' ?",
-    "answers": [
-      "Duns Scot",
-      "Thomas d'Aquin",
-      "Albert le Grand",
-      "Pierre Abélard"
-    ],
-    "correctIndex": 1
+    "text": "Quelle discipline analyse l’authenticité des sceaux médiévaux ?",
+    "answers": ["L’héraldique", "La diplomatique", "La sigillographie", "La paléographie"],
+    "correctIndex": 2
   },
   {
     "id": "q120",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi de France a fait édifier le Louvre comme forteresse ?",
-    "answers": [
-      "Philippe Auguste",
-      "Louis IX",
-      "François Ier",
-      "Charles V"
-    ],
-    "correctIndex": 0
+    "text": "Quel pouvoir permettait au seigneur de lever des taxes sur les marchés ?",
+    "answers": ["Le cens", "La taille", "La dîme", "Le droit de ban"],
+    "correctIndex": 3
   },
+
   {
     "id": "q121",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle université médiévale fut la première fondée en Europe ?",
-    "answers": [
-      "Université d'Oxford",
-      "Université de Bologne",
-      "Université de Paris",
-      "Université de Salamanque"
-    ],
-    "correctIndex": 1
+    "text": "Quel document médiéval fixait durablement les privilèges d’une communauté urbaine ?",
+    "answers": ["La charte de franchise", "Le capitulaire", "Le polyptyque", "La chronique"],
+    "correctIndex": 0
   },
   {
     "id": "q122",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel pape a excommunié Frédéric II à plusieurs reprises ?",
-    "answers": [
-      "Boniface VIII",
-      "Alexandre IV",
-      "Innocent III",
-      "Grégoire IX"
-    ],
-    "correctIndex": 3
+    "text": "Quelle autorité pouvait excommunier un souverain médiéval ?",
+    "answers": ["Le concile", "Le pape", "L’évêque", "Le synode"],
+    "correctIndex": 1
   },
+
   {
     "id": "q123",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle forteresse anglaise servit de prison à Jeanne d'Arc ?",
-    "answers": [
-      "Château de Vincennes",
-      "Château de Chinon",
-      "Château de Rouen",
-      "Tour de Londres"
-    ],
-    "correctIndex": 3
+    "text": "Quelle discipline permet d’analyser les incohérences internes d’un acte juridique ?",
+    "answers": ["La paléographie", "La codicologie", "La critique diplomatique", "La bibliographie"],
+    "correctIndex": 2
   },
   {
     "id": "q124",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel traité de 843 partagea l'empire carolingien entre trois héritiers ?",
-    "answers": [
-      "Traité de Meerssen",
-      "Traité de Saint-Clair-sur-Epte",
-      "Traité de Verdun",
-      "Traité de Paris"
-    ],
-    "correctIndex": 2
+    "text": "Quel type de pouvoir seigneurial reposait principalement sur la contrainte militaire ?",
+    "answers": ["La seigneurie foncière", "La seigneurie personnelle", "La seigneurie banale", "La seigneurie militaire"],
+    "correctIndex": 3
   },
+
   {
     "id": "q125",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel moine médiéval a inventé un système de notation musicale encore utilisé aujourd'hui ?",
-    "answers": [
-      "Jean Cotton",
-      "Guido d'Arezzo",
-      "Isidore de Séville",
-      "Boèce"
-    ],
-    "correctIndex": 1
+    "text": "Quel serment liait moralement et religieusement le vassal à son seigneur ?",
+    "answers": ["Le serment de fidélité", "L’investiture", "La charte", "La coutume"],
+    "correctIndex": 0
   },
   {
     "id": "q126",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel traité de 843 partagea l'empire carolingien entre trois héritiers ?",
-    "answers": [
-      "Traité de Paris",
-      "Traité de Verdun",
-      "Traité de Meerssen",
-      "Traité de Saint-Clair-sur-Epte"
-    ],
+    "text": "Quelle institution contrôlait la légitimité canonique des évêques ?",
+    "answers": ["La royauté", "L’Église", "Les universités", "Les communes"],
     "correctIndex": 1
   },
+
   {
     "id": "q127",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel traité de 843 partagea l'empire carolingien entre trois héritiers ?",
-    "answers": [
-      "Traité de Paris",
-      "Traité de Verdun",
-      "Traité de Saint-Clair-sur-Epte",
-      "Traité de Meerssen"
-    ],
-    "correctIndex": 1
+    "text": "Quelle science auxiliaire étudie les supports matériels des actes écrits ?",
+    "answers": ["La paléographie", "La diplomatique", "La codicologie", "L’héraldique"],
+    "correctIndex": 2
   },
   {
     "id": "q128",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel moine médiéval a inventé un système de notation musicale encore utilisé aujourd'hui ?",
-    "answers": [
-      "Boèce",
-      "Jean Cotton",
-      "Isidore de Séville",
-      "Guido d'Arezzo"
-    ],
+    "text": "Quel droit seigneurial imposait des travaux collectifs obligatoires ?",
+    "answers": ["Le cens", "La taille", "La dîme", "La corvée"],
     "correctIndex": 3
   },
+
   {
     "id": "q129",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel moine médiéval a inventé un système de notation musicale encore utilisé aujourd'hui ?",
-    "answers": [
-      "Isidore de Séville",
-      "Jean Cotton",
-      "Boèce",
-      "Guido d'Arezzo"
-    ],
-    "correctIndex": 3
+    "text": "Quel acte marquait l’entrée officielle d’un homme dans la vassalité ?",
+    "answers": ["L’hommage", "L’adoubement", "La charte", "La fidélité"],
+    "correctIndex": 0
   },
   {
     "id": "q130",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi de France a fait édifier le Louvre comme forteresse ?",
-    "answers": [
-      "Philippe Auguste",
-      "Louis IX",
-      "François Ier",
-      "Charles V"
-    ],
-    "correctIndex": 0
+    "text": "Quelle autorité détenait la primauté spirituelle suprême en Occident médiéval ?",
+    "answers": ["Le concile", "Le pape", "L’empereur", "Le patriarche"],
+    "correctIndex": 1
   },
+
   {
     "id": "q131",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle forteresse anglaise servit de prison à Jeanne d'Arc ?",
-    "answers": [
-      "Tour de Londres",
-      "Château de Vincennes",
-      "Château de Chinon",
-      "Château de Rouen"
-    ],
-    "correctIndex": 0
+    "text": "Quelle discipline permet l’étude critique des privilèges seigneuriaux écrits ?",
+    "answers": ["La paléographie", "La codicologie", "La diplomatique", "La sigillographie"],
+    "correctIndex": 2
   },
   {
     "id": "q132",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi viking régna sur l'Angleterre au XIe siècle ?",
-    "answers": [
-      "Olaf Tryggvason",
-      "Knud le Grand",
-      "Leif Erikson",
-      "Harald à la Dent Bleue"
-    ],
-    "correctIndex": 1
+    "text": "Quel type de justice relevait exclusivement de l’autorité royale ?",
+    "answers": ["La justice seigneuriale", "La justice ecclésiastique", "La justice coutumière", "La justice royale"],
+    "correctIndex": 3
   },
+
   {
     "id": "q133",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel pape a excommunié Frédéric II à plusieurs reprises ?",
-    "answers": [
-      "Innocent III",
-      "Boniface VIII",
-      "Grégoire IX",
-      "Alexandre IV"
-    ],
-    "correctIndex": 2
+    "text": "Quel document recensait précisément les revenus d’un domaine seigneurial ?",
+    "answers": ["Le polyptyque", "Le capitulaire", "La chronique", "Le missel"],
+    "correctIndex": 0
   },
   {
     "id": "q134",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi viking régna sur l'Angleterre au XIe siècle ?",
-    "answers": [
-      "Knud le Grand",
-      "Harald à la Dent Bleue",
-      "Olaf Tryggvason",
-      "Leif Erikson"
-    ],
-    "correctIndex": 0
+    "text": "Quelle institution dominait l’encadrement intellectuel et moral de la société médiévale ?",
+    "answers": ["La royauté", "L’Église", "Les communes", "Les guildes"],
+    "correctIndex": 1
   },
+
   {
     "id": "q135",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi viking régna sur l'Angleterre au XIe siècle ?",
-    "answers": [
-      "Leif Erikson",
-      "Olaf Tryggvason",
-      "Knud le Grand",
-      "Harald à la Dent Bleue"
-    ],
+    "text": "Quelle discipline étudie les variations de mise en page des manuscrits ?",
+    "answers": ["La paléographie", "La diplomatique", "La codicologie", "La bibliographie"],
     "correctIndex": 2
   },
   {
     "id": "q136",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel pape a excommunié Frédéric II à plusieurs reprises ?",
-    "answers": [
-      "Grégoire IX",
-      "Innocent III",
-      "Alexandre IV",
-      "Boniface VIII"
-    ],
-    "correctIndex": 0
+    "text": "Quel pouvoir permettait au seigneur de convoquer ses sujets à l’ost ?",
+    "answers": ["La vassalité", "La féodalité", "La coutume", "Le ban militaire"],
+    "correctIndex": 3
   },
+
   {
     "id": "q137",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi de France a fait édifier le Louvre comme forteresse ?",
-    "answers": [
-      "Louis IX",
-      "Philippe Auguste",
-      "Charles V",
-      "François Ier"
-    ],
-    "correctIndex": 1
+    "text": "Quel serment féodal impliquait une fidélité exclusive et prioritaire ?",
+    "answers": ["L’hommage lige", "La fidélité simple", "La commendatio", "L’adoubement"],
+    "correctIndex": 0
   },
   {
     "id": "q138",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle forteresse anglaise servit de prison à Jeanne d'Arc ?",
-    "answers": [
-      "Tour de Londres",
-      "Château de Vincennes",
-      "Château de Chinon",
-      "Château de Rouen"
-    ],
-    "correctIndex": 0
+    "text": "Quelle juridiction médiévale jugeait les crimes d’hérésie ?",
+    "answers": ["La justice royale", "L’Inquisition", "La justice seigneuriale", "La justice urbaine"],
+    "correctIndex": 1
   },
+
   {
     "id": "q139",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel traité de 843 partagea l'empire carolingien entre trois héritiers ?",
-    "answers": [
-      "Traité de Saint-Clair-sur-Epte",
-      "Traité de Paris",
-      "Traité de Verdun",
-      "Traité de Meerssen"
-    ],
+    "text": "Quelle science auxiliaire permet l’analyse comparative des chartes médiévales ?",
+    "answers": ["La paléographie", "La codicologie", "La diplomatique", "L’archivistique"],
     "correctIndex": 2
   },
   {
     "id": "q140",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi viking régna sur l'Angleterre au XIe siècle ?",
-    "answers": [
-      "Olaf Tryggvason",
-      "Leif Erikson",
-      "Knud le Grand",
-      "Harald à la Dent Bleue"
-    ],
-    "correctIndex": 2
+    "text": "Quel type de pouvoir permettait la perception d’amendes judiciaires ?",
+    "answers": ["La seigneurie foncière", "La seigneurie personnelle", "La seigneurie militaire", "La seigneurie banale"],
+    "correctIndex": 3
   },
+
   {
     "id": "q141",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel pape a excommunié Frédéric II à plusieurs reprises ?",
-    "answers": [
-      "Alexandre IV",
-      "Grégoire IX",
-      "Boniface VIII",
-      "Innocent III"
-    ],
-    "correctIndex": 1
+    "text": "Quel acte juridique officialisait la dépendance personnelle du vassal ?",
+    "answers": ["L’hommage", "L’investiture", "La charte", "La coutume"],
+    "correctIndex": 0
   },
   {
     "id": "q142",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi de France a fait édifier le Louvre comme forteresse ?",
-    "answers": [
-      "Charles V",
-      "Philippe Auguste",
-      "Louis IX",
-      "François Ier"
-    ],
+    "text": "Quelle autorité validait les règles internes des universités médiévales ?",
+    "answers": ["La royauté", "L’Église", "Les communes", "Les corporations"],
     "correctIndex": 1
   },
+
   {
     "id": "q143",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel manuscrit irlandais du IXe siècle est célèbre pour ses enluminures ?",
-    "answers": [
-      "Psautier de Stuttgart",
-      "Livre de Durrow",
-      "Livre de Kells",
-      "Évangiles de Lindisfarne"
-    ],
+    "text": "Quelle discipline étudie la fabrication et la reliure des manuscrits ?",
+    "answers": ["La paléographie", "La diplomatique", "La codicologie", "La bibliologie"],
     "correctIndex": 2
   },
   {
     "id": "q144",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle bataille mit fin à la présence musulmane en Provence au Xe siècle ?",
-    "answers": [
-      "Bataille de Tourtour",
-      "Bataille de Poitiers",
-      "Bataille de Simancas",
-      "Bataille de Covadonga"
-    ],
-    "correctIndex": 0
+    "text": "Quel droit seigneurial permettait d’imposer des péages ?",
+    "answers": ["Le cens", "La taille", "La dîme", "Le droit de ban"],
+    "correctIndex": 3
   },
+
   {
     "id": "q145",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel philosophe médiéval est l'auteur de 'Somme théologique' ?",
-    "answers": [
-      "Duns Scot",
-      "Albert le Grand",
-      "Thomas d'Aquin",
-      "Pierre Abélard"
-    ],
-    "correctIndex": 2
+    "text": "Quel lien féodal impliquait un devoir permanent de conseil ?",
+    "answers": ["La vassalité", "La suzeraineté", "La seigneurie", "La féodalité"],
+    "correctIndex": 0
   },
   {
     "id": "q146",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel philosophe médiéval est l'auteur de 'Somme théologique' ?",
-    "answers": [
-      "Duns Scot",
-      "Thomas d'Aquin",
-      "Pierre Abélard",
-      "Albert le Grand"
-    ],
+    "text": "Quelle institution contrôlait la conformité théologique des écrits savants ?",
+    "answers": ["Les universités", "L’Église", "La royauté", "Les communes"],
     "correctIndex": 1
   },
+
   {
     "id": "q147",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle université médiévale fut la première fondée en Europe ?",
-    "answers": [
-      "Université de Salamanque",
-      "Université de Paris",
-      "Université de Bologne",
-      "Université d'Oxford"
-    ],
+    "text": "Quelle discipline permet d’identifier les ajouts postérieurs dans un acte ?",
+    "answers": ["La paléographie", "La codicologie", "La critique diplomatique", "La sigillographie"],
     "correctIndex": 2
   },
   {
     "id": "q148",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel philosophe médiéval est l'auteur de 'Somme théologique' ?",
-    "answers": [
-      "Duns Scot",
-      "Thomas d'Aquin",
-      "Pierre Abélard",
-      "Albert le Grand"
-    ],
-    "correctIndex": 1
+    "text": "Quel type de justice s’exerçait sur les délits mineurs ?",
+    "answers": ["La haute justice", "La justice royale", "La justice ecclésiastique", "La basse justice"],
+    "correctIndex": 3
   },
+
   {
     "id": "q149",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel traité de 843 partagea l'empire carolingien entre trois héritiers ?",
-    "answers": [
-      "Traité de Verdun",
-      "Traité de Saint-Clair-sur-Epte",
-      "Traité de Meerssen",
-      "Traité de Paris"
-    ],
+    "text": "Quel document fixait par écrit les droits d’une seigneurie ?",
+    "answers": ["Le terrier", "Le capitulaire", "La chronique", "Le missel"],
     "correctIndex": 0
   },
   {
     "id": "q150",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel traité de 843 partagea l'empire carolingien entre trois héritiers ?",
-    "answers": [
-      "Traité de Meerssen",
-      "Traité de Saint-Clair-sur-Epte",
-      "Traité de Paris",
-      "Traité de Verdun"
-    ],
-    "correctIndex": 3
+    "text": "Quelle autorité détenait la compétence suprême en matière de foi ?",
+    "answers": ["Le concile", "Le pape", "L’empereur", "Le patriarche"],
+    "correctIndex": 1
   },
   {
     "id": "q151",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel moine médiéval a inventé un système de notation musicale encore utilisé aujourd'hui ?",
-    "answers": [
-      "Guido d'Arezzo",
-      "Isidore de Séville",
-      "Jean Cotton",
-      "Boèce"
-    ],
+    "text": "Quel acte juridique médiéval établissait officiellement la dépendance personnelle d’un vassal envers son seigneur ?",
+    "answers": ["L’hommage", "L’investiture", "La charte", "La coutume"],
     "correctIndex": 0
   },
   {
     "id": "q152",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle université médiévale fut la première fondée en Europe ?",
-    "answers": [
-      "Université d'Oxford",
-      "Université de Paris",
-      "Université de Bologne",
-      "Université de Salamanque"
-    ],
-    "correctIndex": 2
+    "text": "Quelle autorité ecclésiastique détenait le pouvoir exclusif de canonisation au Moyen Âge ?",
+    "answers": ["Le concile", "Le pape", "L’évêque", "Le synode"],
+    "correctIndex": 1
   },
   {
     "id": "q153",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi viking régna sur l'Angleterre au XIe siècle ?",
-    "answers": [
-      "Knud le Grand",
-      "Olaf Tryggvason",
-      "Harald à la Dent Bleue",
-      "Leif Erikson"
-    ],
-    "correctIndex": 0
+    "text": "Quelle discipline historique permet l’analyse critique des formules juridiques des chartes médiévales ?",
+    "answers": ["La paléographie", "La codicologie", "La diplomatique", "La bibliographie"],
+    "correctIndex": 2
   },
   {
     "id": "q154",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel moine médiéval a inventé un système de notation musicale encore utilisé aujourd'hui ?",
-    "answers": [
-      "Guido d'Arezzo",
-      "Isidore de Séville",
-      "Jean Cotton",
-      "Boèce"
-    ],
-    "correctIndex": 0
+    "text": "Quel type de seigneurie reposait principalement sur l’exercice de pouvoirs judiciaires et fiscaux ?",
+    "answers": ["La seigneurie foncière", "La seigneurie personnelle", "La seigneurie militaire", "La seigneurie banale"],
+    "correctIndex": 3
   },
+
   {
     "id": "q155",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi de France a fait édifier le Louvre comme forteresse ?",
-    "answers": [
-      "Charles V",
-      "Louis IX",
-      "François Ier",
-      "Philippe Auguste"
-    ],
-    "correctIndex": 3
+    "text": "Quel lien féodal impliquait l’obligation de conseil et d’assistance envers le seigneur ?",
+    "answers": ["La vassalité", "La suzeraineté", "La féodalité", "La seigneurie"],
+    "correctIndex": 0
   },
   {
     "id": "q156",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle forteresse anglaise servit de prison à Jeanne d'Arc ?",
-    "answers": [
-      "Château de Rouen",
-      "Château de Chinon",
-      "Château de Vincennes",
-      "Tour de Londres"
-    ],
-    "correctIndex": 3
+    "text": "Quelle juridiction médiévale jugeait prioritairement les affaires impliquant des clercs ?",
+    "answers": ["La justice royale", "La justice ecclésiastique", "La justice seigneuriale", "La justice urbaine"],
+    "correctIndex": 1
   },
   {
     "id": "q157",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel traité de 843 partagea l'empire carolingien entre trois héritiers ?",
-    "answers": [
-      "Traité de Verdun",
-      "Traité de Saint-Clair-sur-Epte",
-      "Traité de Paris",
-      "Traité de Meerssen"
-    ],
-    "correctIndex": 0
+    "text": "Quelle science auxiliaire étudie l’évolution des formes d’écriture médiévales ?",
+    "answers": ["La diplomatique", "La codicologie", "La paléographie", "L’héraldique"],
+    "correctIndex": 2
   },
   {
     "id": "q158",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi viking régna sur l'Angleterre au XIe siècle ?",
-    "answers": [
-      "Harald à la Dent Bleue",
-      "Leif Erikson",
-      "Knud le Grand",
-      "Olaf Tryggvason"
-    ],
-    "correctIndex": 2
+    "text": "Quel droit seigneurial permettait d’imposer l’usage obligatoire des installations seigneuriales ?",
+    "answers": ["Le cens", "La taille", "La dîme", "La banalité"],
+    "correctIndex": 3
   },
+
   {
     "id": "q159",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle université médiévale fut la première fondée en Europe ?",
-    "answers": [
-      "Université de Salamanque",
-      "Université de Bologne",
-      "Université d'Oxford",
-      "Université de Paris"
-    ],
-    "correctIndex": 1
+    "text": "Quel serment féodal établissait une fidélité prioritaire envers un seul seigneur ?",
+    "answers": ["L’hommage lige", "La fidélité simple", "La commendatio", "L’adoubement"],
+    "correctIndex": 0
   },
   {
     "id": "q160",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle forteresse anglaise servit de prison à Jeanne d'Arc ?",
-    "answers": [
-      "Château de Rouen",
-      "Château de Chinon",
-      "Tour de Londres",
-      "Château de Vincennes"
-    ],
-    "correctIndex": 2
+    "text": "Quelle institution ecclésiastique contrôlait l’orthodoxie doctrinale des universités médiévales ?",
+    "answers": ["Les communes", "L’Église", "La royauté", "Les corporations"],
+    "correctIndex": 1
   },
+
   {
     "id": "q161",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel pape a excommunié Frédéric II à plusieurs reprises ?",
-    "answers": [
-      "Innocent III",
-      "Alexandre IV",
-      "Boniface VIII",
-      "Grégoire IX"
-    ],
-    "correctIndex": 3
+    "text": "Quelle discipline permet l’étude matérielle des manuscrits médiévaux en tant qu’objets ?",
+    "answers": ["La paléographie", "La diplomatique", "La codicologie", "L’archivistique"],
+    "correctIndex": 2
   },
   {
     "id": "q162",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel pape a excommunié Frédéric II à plusieurs reprises ?",
-    "answers": [
-      "Alexandre IV",
-      "Innocent III",
-      "Grégoire IX",
-      "Boniface VIII"
-    ],
-    "correctIndex": 2
+    "text": "Quel type de justice était compétent pour juger les crimes capitaux ?",
+    "answers": ["La basse justice", "La justice coutumière", "La justice seigneuriale", "La haute justice"],
+    "correctIndex": 3
   },
+
   {
     "id": "q163",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel moine médiéval a inventé un système de notation musicale encore utilisé aujourd'hui ?",
-    "answers": [
-      "Jean Cotton",
-      "Isidore de Séville",
-      "Guido d'Arezzo",
-      "Boèce"
-    ],
-    "correctIndex": 2
+    "text": "Quel document médiéval recensait de manière détaillée les revenus d’un domaine seigneurial ?",
+    "answers": ["Le polyptyque", "Le capitulaire", "La chronique", "Le missel"],
+    "correctIndex": 0
   },
   {
     "id": "q164",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi de France a fait édifier le Louvre comme forteresse ?",
-    "answers": [
-      "Louis IX",
-      "François Ier",
-      "Charles V",
-      "Philippe Auguste"
-    ],
-    "correctIndex": 3
+    "text": "Quelle autorité ecclésiastique pouvait excommunier un souverain au Moyen Âge ?",
+    "answers": ["Le concile", "Le pape", "L’évêque", "Le synode"],
+    "correctIndex": 1
   },
   {
     "id": "q165",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle bataille mit fin à la présence musulmane en Provence au Xe siècle ?",
-    "answers": [
-      "Bataille de Tourtour",
-      "Bataille de Poitiers",
-      "Bataille de Simancas",
-      "Bataille de Covadonga"
-    ],
-    "correctIndex": 0
+    "text": "Quelle discipline auxiliaire analyse l’authenticité des sceaux médiévaux ?",
+    "answers": ["L’héraldique", "La diplomatique", "La sigillographie", "La paléographie"],
+    "correctIndex": 2
   },
   {
     "id": "q166",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi viking régna sur l'Angleterre au XIe siècle ?",
-    "answers": [
-      "Knud le Grand",
-      "Leif Erikson",
-      "Olaf Tryggvason",
-      "Harald à la Dent Bleue"
-    ],
-    "correctIndex": 0
+    "text": "Quel pouvoir permettait au seigneur de lever des amendes judiciaires ?",
+    "answers": ["La seigneurie foncière", "La seigneurie personnelle", "La seigneurie militaire", "La seigneurie banale"],
+    "correctIndex": 3
   },
+
   {
     "id": "q167",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle bataille mit fin à la présence musulmane en Provence au Xe siècle ?",
-    "answers": [
-      "Bataille de Tourtour",
-      "Bataille de Poitiers",
-      "Bataille de Simancas",
-      "Bataille de Covadonga"
-    ],
+    "text": "Quel acte marquait l’entrée officielle d’un homme libre dans la hiérarchie féodale ?",
+    "answers": ["L’hommage", "L’adoubement", "La charte", "La fidélité"],
     "correctIndex": 0
   },
   {
     "id": "q168",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel pape a excommunié Frédéric II à plusieurs reprises ?",
-    "answers": [
-      "Boniface VIII",
-      "Grégoire IX",
-      "Alexandre IV",
-      "Innocent III"
-    ],
+    "text": "Quelle institution validait les décisions doctrinales des conciles œcuméniques ?",
+    "answers": ["Le synode", "Le pape", "Le chapitre", "La curie"],
     "correctIndex": 1
   },
+
   {
     "id": "q169",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel philosophe médiéval est l'auteur de 'Somme théologique' ?",
-    "answers": [
-      "Duns Scot",
-      "Thomas d'Aquin",
-      "Pierre Abélard",
-      "Albert le Grand"
-    ],
-    "correctIndex": 1
+    "text": "Quelle discipline permet d’identifier les interpolations dans un acte juridique médiéval ?",
+    "answers": ["La paléographie", "La codicologie", "La critique diplomatique", "La bibliographie"],
+    "correctIndex": 2
   },
   {
     "id": "q170",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel manuscrit irlandais du IXe siècle est célèbre pour ses enluminures ?",
-    "answers": [
-      "Livre de Durrow",
-      "Livre de Kells",
-      "Psautier de Stuttgart",
-      "Évangiles de Lindisfarne"
-    ],
-    "correctIndex": 1
+    "text": "Quel droit seigneurial permettait de percevoir des péages et tonlieux ?",
+    "answers": ["Le cens", "La taille", "La dîme", "Le droit de ban"],
+    "correctIndex": 3
   },
+
   {
     "id": "q171",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel traité de 843 partagea l'empire carolingien entre trois héritiers ?",
-    "answers": [
-      "Traité de Saint-Clair-sur-Epte",
-      "Traité de Paris",
-      "Traité de Verdun",
-      "Traité de Meerssen"
-    ],
-    "correctIndex": 2
+    "text": "Quel serment liait moralement et religieusement le vassal à son seigneur ?",
+    "answers": ["Le serment de fidélité", "L’investiture", "La charte", "La coutume"],
+    "correctIndex": 0
   },
   {
     "id": "q172",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle université médiévale fut la première fondée en Europe ?",
-    "answers": [
-      "Université de Salamanque",
-      "Université de Paris",
-      "Université de Bologne",
-      "Université d'Oxford"
-    ],
-    "correctIndex": 2
+    "text": "Quelle juridiction médiévale jugeait les crimes d’hérésie ?",
+    "answers": ["La justice royale", "L’Inquisition", "La justice seigneuriale", "La justice urbaine"],
+    "correctIndex": 1
   },
+
   {
     "id": "q173",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel pape a excommunié Frédéric II à plusieurs reprises ?",
-    "answers": [
-      "Grégoire IX",
-      "Boniface VIII",
-      "Innocent III",
-      "Alexandre IV"
-    ],
-    "correctIndex": 0
+    "text": "Quelle science auxiliaire étudie la mise en page et la structure des manuscrits ?",
+    "answers": ["La paléographie", "La diplomatique", "La codicologie", "La bibliologie"],
+    "correctIndex": 2
   },
   {
     "id": "q174",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel pape a excommunié Frédéric II à plusieurs reprises ?",
-    "answers": [
-      "Boniface VIII",
-      "Alexandre IV",
-      "Innocent III",
-      "Grégoire IX"
-    ],
+    "text": "Quel type de pouvoir seigneurial reposait sur la contrainte militaire directe ?",
+    "answers": ["La seigneurie foncière", "La seigneurie personnelle", "La seigneurie banale", "La seigneurie militaire"],
     "correctIndex": 3
   },
+
   {
     "id": "q175",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle université médiévale fut la première fondée en Europe ?",
-    "answers": [
-      "Université de Salamanque",
-      "Université d'Oxford",
-      "Université de Paris",
-      "Université de Bologne"
-    ],
-    "correctIndex": 3
+    "text": "Quel document médiéval fixait durablement les droits et devoirs seigneuriaux locaux ?",
+    "answers": ["Le terrier", "Le capitulaire", "La chronique", "Le missel"],
+    "correctIndex": 0
   },
   {
     "id": "q176",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel pape a excommunié Frédéric II à plusieurs reprises ?",
-    "answers": [
-      "Alexandre IV",
-      "Boniface VIII",
-      "Grégoire IX",
-      "Innocent III"
-    ],
-    "correctIndex": 2
+    "text": "Quelle autorité ecclésiastique détenait la primauté spirituelle suprême en Occident médiéval ?",
+    "answers": ["Le concile", "Le pape", "L’empereur", "Le patriarche"],
+    "correctIndex": 1
   },
+
   {
     "id": "q177",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel moine médiéval a inventé un système de notation musicale encore utilisé aujourd'hui ?",
-    "answers": [
-      "Jean Cotton",
-      "Guido d'Arezzo",
-      "Isidore de Séville",
-      "Boèce"
-    ],
-    "correctIndex": 1
+    "text": "Quelle discipline permet l’analyse comparative des chartes médiévales ?",
+    "answers": ["La paléographie", "La codicologie", "La diplomatique", "L’archivistique"],
+    "correctIndex": 2
   },
   {
     "id": "q178",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi viking régna sur l'Angleterre au XIe siècle ?",
-    "answers": [
-      "Harald à la Dent Bleue",
-      "Knud le Grand",
-      "Leif Erikson",
-      "Olaf Tryggvason"
-    ],
-    "correctIndex": 1
+    "text": "Quel droit seigneurial imposait des journées de travail obligatoire ?",
+    "answers": ["Le cens", "La taille", "La dîme", "La corvée"],
+    "correctIndex": 3
   },
+
   {
     "id": "q179",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel pape a excommunié Frédéric II à plusieurs reprises ?",
-    "answers": [
-      "Boniface VIII",
-      "Innocent III",
-      "Alexandre IV",
-      "Grégoire IX"
-    ],
-    "correctIndex": 3
+    "text": "Quel acte juridique scellait la hiérarchie féodale par un rituel solennel ?",
+    "answers": ["L’hommage", "L’adoubement", "La charte", "La fidélité"],
+    "correctIndex": 0
   },
   {
     "id": "q180",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel roi viking régna sur l'Angleterre au XIe siècle ?",
-    "answers": [
-      "Harald à la Dent Bleue",
-      "Olaf Tryggvason",
-      "Leif Erikson",
-      "Knud le Grand"
-    ],
-    "correctIndex": 3
+    "text": "Quelle institution contrôlait la conformité théologique des manuscrits savants ?",
+    "answers": ["Les universités", "L’Église", "La royauté", "Les communes"],
+    "correctIndex": 1
   },
+
   {
     "id": "q181",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle université médiévale fut la première fondée en Europe ?",
-    "answers": [
-      "Université de Bologne",
-      "Université de Paris",
-      "Université d'Oxford",
-      "Université de Salamanque"
-    ],
-    "correctIndex": 0
+    "text": "Quelle discipline auxiliaire permet l’étude critique des privilèges écrits ?",
+    "answers": ["La paléographie", "La codicologie", "La diplomatique", "La sigillographie"],
+    "correctIndex": 2
   },
   {
     "id": "q182",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel philosophe médiéval est l'auteur de 'Somme théologique' ?",
-    "answers": [
-      "Duns Scot",
-      "Pierre Abélard",
-      "Thomas d'Aquin",
-      "Albert le Grand"
-    ],
-    "correctIndex": 2
+    "text": "Quel type de justice relevait exclusivement de l’autorité royale ?",
+    "answers": ["La justice seigneuriale", "La justice ecclésiastique", "La justice coutumière", "La justice royale"],
+    "correctIndex": 3
   },
+
   {
     "id": "q183",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel traité de 843 partagea l'empire carolingien entre trois héritiers ?",
-    "answers": [
-      "Traité de Verdun",
-      "Traité de Paris",
-      "Traité de Saint-Clair-sur-Epte",
-      "Traité de Meerssen"
-    ],
+    "text": "Quel document établissait formellement les privilèges d’une ville médiévale ?",
+    "answers": ["La charte de franchise", "Le capitulaire", "Le polyptyque", "La chronique"],
     "correctIndex": 0
   },
   {
     "id": "q184",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel pape a excommunié Frédéric II à plusieurs reprises ?",
-    "answers": [
-      "Alexandre IV",
-      "Grégoire IX",
-      "Boniface VIII",
-      "Innocent III"
-    ],
+    "text": "Quelle autorité validait les statuts internes des universités médiévales ?",
+    "answers": ["La royauté", "L’Église", "Les communes", "Les corporations"],
     "correctIndex": 1
   },
+
   {
     "id": "q185",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel philosophe médiéval est l'auteur de 'Somme théologique' ?",
-    "answers": [
-      "Pierre Abélard",
-      "Thomas d'Aquin",
-      "Duns Scot",
-      "Albert le Grand"
-    ],
-    "correctIndex": 1
+    "text": "Quelle discipline permet d’étudier la fabrication matérielle des manuscrits ?",
+    "answers": ["La paléographie", "La diplomatique", "La codicologie", "La bibliographie"],
+    "correctIndex": 2
   },
   {
     "id": "q186",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel pape a excommunié Frédéric II à plusieurs reprises ?",
-    "answers": [
-      "Alexandre IV",
-      "Boniface VIII",
-      "Grégoire IX",
-      "Innocent III"
-    ],
-    "correctIndex": 2
+    "text": "Quel pouvoir permettait au seigneur de convoquer ses hommes à l’ost ?",
+    "answers": ["La vassalité", "La féodalité", "La coutume", "Le ban militaire"],
+    "correctIndex": 3
   },
+
   {
     "id": "q187",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle bataille mit fin à la présence musulmane en Provence au Xe siècle ?",
-    "answers": [
-      "Bataille de Tourtour",
-      "Bataille de Simancas",
-      "Bataille de Poitiers",
-      "Bataille de Covadonga"
-    ],
+    "text": "Quel serment féodal impliquait une fidélité exclusive et prioritaire ?",
+    "answers": ["L’hommage lige", "La fidélité simple", "La commendatio", "L’adoubement"],
     "correctIndex": 0
   },
   {
     "id": "q188",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle université médiévale fut la première fondée en Europe ?",
-    "answers": [
-      "Université de Bologne",
-      "Université d'Oxford",
-      "Université de Salamanque",
-      "Université de Paris"
-    ],
-    "correctIndex": 0
+    "text": "Quelle juridiction jugeait les litiges entre institutions ecclésiastiques ?",
+    "answers": ["La justice royale", "La justice ecclésiastique", "La justice seigneuriale", "La justice communale"],
+    "correctIndex": 1
   },
+
   {
     "id": "q189",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle forteresse anglaise servit de prison à Jeanne d'Arc ?",
-    "answers": [
-      "Tour de Londres",
-      "Château de Rouen",
-      "Château de Vincennes",
-      "Château de Chinon"
-    ],
-    "correctIndex": 0
+    "text": "Quelle science auxiliaire étudie les matrices de sceaux médiévaux ?",
+    "answers": ["La paléographie", "La diplomatique", "La sigillographie", "L’héraldique"],
+    "correctIndex": 2
   },
   {
     "id": "q190",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel traité de 843 partagea l'empire carolingien entre trois héritiers ?",
-    "answers": [
-      "Traité de Meerssen",
-      "Traité de Verdun",
-      "Traité de Saint-Clair-sur-Epte",
-      "Traité de Paris"
-    ],
-    "correctIndex": 1
+    "text": "Quel type de justice traitait les délits mineurs ?",
+    "answers": ["La haute justice", "La justice royale", "La justice ecclésiastique", "La basse justice"],
+    "correctIndex": 3
   },
+
   {
     "id": "q191",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle bataille mit fin à la présence musulmane en Provence au Xe siècle ?",
-    "answers": [
-      "Bataille de Simancas",
-      "Bataille de Covadonga",
-      "Bataille de Tourtour",
-      "Bataille de Poitiers"
-    ],
-    "correctIndex": 2
+    "text": "Quel document recensait précisément les obligations paysannes envers le seigneur ?",
+    "answers": ["Le polyptyque", "Le capitulaire", "La chronique", "Le missel"],
+    "correctIndex": 0
   },
   {
     "id": "q192",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel manuscrit irlandais du IXe siècle est célèbre pour ses enluminures ?",
-    "answers": [
-      "Évangiles de Lindisfarne",
-      "Psautier de Stuttgart",
-      "Livre de Kells",
-      "Livre de Durrow"
-    ],
-    "correctIndex": 2
+    "text": "Quelle autorité détenait la compétence suprême en matière de foi chrétienne ?",
+    "answers": ["Le concile", "Le pape", "L’empereur", "Le patriarche"],
+    "correctIndex": 1
   },
+
   {
     "id": "q193",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel philosophe médiéval est l'auteur de 'Somme théologique' ?",
-    "answers": [
-      "Thomas d'Aquin",
-      "Pierre Abélard",
-      "Duns Scot",
-      "Albert le Grand"
-    ],
-    "correctIndex": 0
+    "text": "Quelle discipline permet l’analyse de la cohérence juridique interne d’un acte médiéval ?",
+    "answers": ["La paléographie", "La codicologie", "La diplomatique", "La bibliographie"],
+    "correctIndex": 2
   },
   {
     "id": "q194",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel manuscrit irlandais du IXe siècle est célèbre pour ses enluminures ?",
-    "answers": [
-      "Livre de Durrow",
-      "Évangiles de Lindisfarne",
-      "Livre de Kells",
-      "Psautier de Stuttgart"
-    ],
-    "correctIndex": 2
+    "text": "Quel type de pouvoir seigneurial reposait sur l’exploitation directe des terres ?",
+    "answers": ["La seigneurie personnelle", "La seigneurie militaire", "La seigneurie banale", "La seigneurie foncière"],
+    "correctIndex": 3
   },
+
   {
     "id": "q195",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle forteresse anglaise servit de prison à Jeanne d'Arc ?",
-    "answers": [
-      "Château de Vincennes",
-      "Château de Chinon",
-      "Château de Rouen",
-      "Tour de Londres"
-    ],
-    "correctIndex": 3
+    "text": "Quel acte juridique scellait durablement la relation féodale ?",
+    "answers": ["L’hommage", "L’adoubement", "La charte", "La coutume"],
+    "correctIndex": 0
   },
   {
     "id": "q196",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle bataille mit fin à la présence musulmane en Provence au Xe siècle ?",
-    "answers": [
-      "Bataille de Simancas",
-      "Bataille de Tourtour",
-      "Bataille de Poitiers",
-      "Bataille de Covadonga"
-    ],
+    "text": "Quelle institution ecclésiastique contrôlait la validité canonique des évêques ?",
+    "answers": ["La royauté", "L’Église", "Les universités", "Les communes"],
     "correctIndex": 1
   },
+
   {
     "id": "q197",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quelle université médiévale fut la première fondée en Europe ?",
-    "answers": [
-      "Université de Bologne",
-      "Université de Salamanque",
-      "Université de Paris",
-      "Université d'Oxford"
-    ],
-    "correctIndex": 0
+    "text": "Quelle discipline permet d’identifier les ajouts postérieurs dans les chartes ?",
+    "answers": ["La paléographie", "La codicologie", "La critique diplomatique", "La sigillographie"],
+    "correctIndex": 2
   },
   {
     "id": "q198",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel moine médiéval a inventé un système de notation musicale encore utilisé aujourd'hui ?",
-    "answers": [
-      "Boèce",
-      "Isidore de Séville",
-      "Guido d'Arezzo",
-      "Jean Cotton"
-    ],
-    "correctIndex": 2
+    "text": "Quel droit seigneurial imposait des prestations de travail collectif ?",
+    "answers": ["Le cens", "La taille", "La dîme", "La corvée"],
+    "correctIndex": 3
   },
+
   {
     "id": "q199",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel manuscrit irlandais du IXe siècle est célèbre pour ses enluminures ?",
-    "answers": [
-      "Psautier de Stuttgart",
-      "Livre de Kells",
-      "Évangiles de Lindisfarne",
-      "Livre de Durrow"
-    ],
-    "correctIndex": 1
+    "text": "Quel acte marquait symboliquement l’entrée dans la hiérarchie féodale ?",
+    "answers": ["L’hommage", "L’adoubement", "La charte", "La fidélité"],
+    "correctIndex": 0
   },
   {
     "id": "q200",
     "category": "Moyen-Âge",
     "difficulty": "Extrême",
-    "text": "Quel moine médiéval a inventé un système de notation musicale encore utilisé aujourd'hui ?",
-    "answers": [
-      "Boèce",
-      "Guido d'Arezzo",
-      "Isidore de Séville",
-      "Jean Cotton"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q201",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quelle bataille mit fin à la présence musulmane en Provence au Xe siècle ?",
-    "answers": [
-      "Bataille de Poitiers",
-      "Bataille de Tourtour",
-      "Bataille de Simancas",
-      "Bataille de Covadonga"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q202",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel pape a excommunié Frédéric II à plusieurs reprises ?",
-    "answers": [
-      "Innocent III",
-      "Alexandre IV",
-      "Grégoire IX",
-      "Boniface VIII"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q203",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel manuscrit irlandais du IXe siècle est célèbre pour ses enluminures ?",
-    "answers": [
-      "Livre de Kells",
-      "Évangiles de Lindisfarne",
-      "Psautier de Stuttgart",
-      "Livre de Durrow"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q204",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel pape a excommunié Frédéric II à plusieurs reprises ?",
-    "answers": [
-      "Innocent III",
-      "Boniface VIII",
-      "Alexandre IV",
-      "Grégoire IX"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q205",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quelle bataille mit fin à la présence musulmane en Provence au Xe siècle ?",
-    "answers": [
-      "Bataille de Poitiers",
-      "Bataille de Covadonga",
-      "Bataille de Tourtour",
-      "Bataille de Simancas"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q206",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quelle bataille mit fin à la présence musulmane en Provence au Xe siècle ?",
-    "answers": [
-      "Bataille de Tourtour",
-      "Bataille de Poitiers",
-      "Bataille de Covadonga",
-      "Bataille de Simancas"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q207",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel pape a excommunié Frédéric II à plusieurs reprises ?",
-    "answers": [
-      "Boniface VIII",
-      "Innocent III",
-      "Grégoire IX",
-      "Alexandre IV"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q208",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel pape a excommunié Frédéric II à plusieurs reprises ?",
-    "answers": [
-      "Grégoire IX",
-      "Alexandre IV",
-      "Innocent III",
-      "Boniface VIII"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q209",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel roi de France a fait édifier le Louvre comme forteresse ?",
-    "answers": [
-      "François Ier",
-      "Philippe Auguste",
-      "Charles V",
-      "Louis IX"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q210",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel roi viking régna sur l'Angleterre au XIe siècle ?",
-    "answers": [
-      "Harald à la Dent Bleue",
-      "Knud le Grand",
-      "Leif Erikson",
-      "Olaf Tryggvason"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q211",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel traité de 843 partagea l'empire carolingien entre trois héritiers ?",
-    "answers": [
-      "Traité de Saint-Clair-sur-Epte",
-      "Traité de Paris",
-      "Traité de Meerssen",
-      "Traité de Verdun"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q212",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel roi viking régna sur l'Angleterre au XIe siècle ?",
-    "answers": [
-      "Leif Erikson",
-      "Knud le Grand",
-      "Olaf Tryggvason",
-      "Harald à la Dent Bleue"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q213",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel traité de 843 partagea l'empire carolingien entre trois héritiers ?",
-    "answers": [
-      "Traité de Saint-Clair-sur-Epte",
-      "Traité de Paris",
-      "Traité de Verdun",
-      "Traité de Meerssen"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q214",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quelle université médiévale fut la première fondée en Europe ?",
-    "answers": [
-      "Université d'Oxford",
-      "Université de Salamanque",
-      "Université de Paris",
-      "Université de Bologne"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q215",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel philosophe médiéval est l'auteur de 'Somme théologique' ?",
-    "answers": [
-      "Albert le Grand",
-      "Pierre Abélard",
-      "Thomas d'Aquin",
-      "Duns Scot"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q216",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quelle bataille mit fin à la présence musulmane en Provence au Xe siècle ?",
-    "answers": [
-      "Bataille de Simancas",
-      "Bataille de Tourtour",
-      "Bataille de Poitiers",
-      "Bataille de Covadonga"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q217",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quelle université médiévale fut la première fondée en Europe ?",
-    "answers": [
-      "Université de Salamanque",
-      "Université de Bologne",
-      "Université d'Oxford",
-      "Université de Paris"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q218",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quelle bataille mit fin à la présence musulmane en Provence au Xe siècle ?",
-    "answers": [
-      "Bataille de Covadonga",
-      "Bataille de Tourtour",
-      "Bataille de Poitiers",
-      "Bataille de Simancas"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q219",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel roi viking régna sur l'Angleterre au XIe siècle ?",
-    "answers": [
-      "Olaf Tryggvason",
-      "Harald à la Dent Bleue",
-      "Knud le Grand",
-      "Leif Erikson"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q220",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel traité de 843 partagea l'empire carolingien entre trois héritiers ?",
-    "answers": [
-      "Traité de Meerssen",
-      "Traité de Saint-Clair-sur-Epte",
-      "Traité de Verdun",
-      "Traité de Paris"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q221",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quelle bataille mit fin à la présence musulmane en Provence au Xe siècle ?",
-    "answers": [
-      "Bataille de Simancas",
-      "Bataille de Poitiers",
-      "Bataille de Covadonga",
-      "Bataille de Tourtour"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q222",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel philosophe médiéval est l'auteur de 'Somme théologique' ?",
-    "answers": [
-      "Thomas d'Aquin",
-      "Pierre Abélard",
-      "Albert le Grand",
-      "Duns Scot"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q223",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel philosophe médiéval est l'auteur de 'Somme théologique' ?",
-    "answers": [
-      "Duns Scot",
-      "Pierre Abélard",
-      "Albert le Grand",
-      "Thomas d'Aquin"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q224",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel manuscrit irlandais du IXe siècle est célèbre pour ses enluminures ?",
-    "answers": [
-      "Évangiles de Lindisfarne",
-      "Psautier de Stuttgart",
-      "Livre de Durrow",
-      "Livre de Kells"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q225",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel pape a excommunié Frédéric II à plusieurs reprises ?",
-    "answers": [
-      "Boniface VIII",
-      "Alexandre IV",
-      "Innocent III",
-      "Grégoire IX"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q226",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel pape a excommunié Frédéric II à plusieurs reprises ?",
-    "answers": [
-      "Alexandre IV",
-      "Innocent III",
-      "Boniface VIII",
-      "Grégoire IX"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q227",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel roi de France a fait édifier le Louvre comme forteresse ?",
-    "answers": [
-      "Philippe Auguste",
-      "Charles V",
-      "Louis IX",
-      "François Ier"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q228",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel manuscrit irlandais du IXe siècle est célèbre pour ses enluminures ?",
-    "answers": [
-      "Évangiles de Lindisfarne",
-      "Psautier de Stuttgart",
-      "Livre de Kells",
-      "Livre de Durrow"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q229",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel pape a excommunié Frédéric II à plusieurs reprises ?",
-    "answers": [
-      "Boniface VIII",
-      "Alexandre IV",
-      "Innocent III",
-      "Grégoire IX"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q230",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quelle université médiévale fut la première fondée en Europe ?",
-    "answers": [
-      "Université de Bologne",
-      "Université de Salamanque",
-      "Université de Paris",
-      "Université d'Oxford"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q231",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel moine médiéval a inventé un système de notation musicale encore utilisé aujourd'hui ?",
-    "answers": [
-      "Boèce",
-      "Isidore de Séville",
-      "Jean Cotton",
-      "Guido d'Arezzo"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q232",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quelle bataille mit fin à la présence musulmane en Provence au Xe siècle ?",
-    "answers": [
-      "Bataille de Covadonga",
-      "Bataille de Simancas",
-      "Bataille de Poitiers",
-      "Bataille de Tourtour"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q233",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel philosophe médiéval est l'auteur de 'Somme théologique' ?",
-    "answers": [
-      "Albert le Grand",
-      "Pierre Abélard",
-      "Thomas d'Aquin",
-      "Duns Scot"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q234",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quelle forteresse anglaise servit de prison à Jeanne d'Arc ?",
-    "answers": [
-      "Château de Vincennes",
-      "Tour de Londres",
-      "Château de Chinon",
-      "Château de Rouen"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q235",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel philosophe médiéval est l'auteur de 'Somme théologique' ?",
-    "answers": [
-      "Pierre Abélard",
-      "Albert le Grand",
-      "Thomas d'Aquin",
-      "Duns Scot"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q236",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel traité de 843 partagea l'empire carolingien entre trois héritiers ?",
-    "answers": [
-      "Traité de Verdun",
-      "Traité de Saint-Clair-sur-Epte",
-      "Traité de Meerssen",
-      "Traité de Paris"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q237",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quelle forteresse anglaise servit de prison à Jeanne d'Arc ?",
-    "answers": [
-      "Tour de Londres",
-      "Château de Chinon",
-      "Château de Rouen",
-      "Château de Vincennes"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q238",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quelle forteresse anglaise servit de prison à Jeanne d'Arc ?",
-    "answers": [
-      "Château de Rouen",
-      "Château de Chinon",
-      "Tour de Londres",
-      "Château de Vincennes"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q239",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel manuscrit irlandais du IXe siècle est célèbre pour ses enluminures ?",
-    "answers": [
-      "Livre de Durrow",
-      "Psautier de Stuttgart",
-      "Livre de Kells",
-      "Évangiles de Lindisfarne"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q240",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel roi viking régna sur l'Angleterre au XIe siècle ?",
-    "answers": [
-      "Harald à la Dent Bleue",
-      "Leif Erikson",
-      "Knud le Grand",
-      "Olaf Tryggvason"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q241",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel manuscrit irlandais du IXe siècle est célèbre pour ses enluminures ?",
-    "answers": [
-      "Livre de Durrow",
-      "Psautier de Stuttgart",
-      "Évangiles de Lindisfarne",
-      "Livre de Kells"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q242",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quelle université médiévale fut la première fondée en Europe ?",
-    "answers": [
-      "Université d'Oxford",
-      "Université de Salamanque",
-      "Université de Bologne",
-      "Université de Paris"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q243",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel traité de 843 partagea l'empire carolingien entre trois héritiers ?",
-    "answers": [
-      "Traité de Saint-Clair-sur-Epte",
-      "Traité de Verdun",
-      "Traité de Meerssen",
-      "Traité de Paris"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q244",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel philosophe médiéval est l'auteur de 'Somme théologique' ?",
-    "answers": [
-      "Thomas d'Aquin",
-      "Pierre Abélard",
-      "Duns Scot",
-      "Albert le Grand"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q245",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quelle université médiévale fut la première fondée en Europe ?",
-    "answers": [
-      "Université de Salamanque",
-      "Université de Paris",
-      "Université d'Oxford",
-      "Université de Bologne"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q246",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quelle bataille mit fin à la présence musulmane en Provence au Xe siècle ?",
-    "answers": [
-      "Bataille de Covadonga",
-      "Bataille de Tourtour",
-      "Bataille de Simancas",
-      "Bataille de Poitiers"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q247",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel manuscrit irlandais du IXe siècle est célèbre pour ses enluminures ?",
-    "answers": [
-      "Livre de Kells",
-      "Psautier de Stuttgart",
-      "Livre de Durrow",
-      "Évangiles de Lindisfarne"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q248",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel pape a excommunié Frédéric II à plusieurs reprises ?",
-    "answers": [
-      "Innocent III",
-      "Alexandre IV",
-      "Boniface VIII",
-      "Grégoire IX"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q249",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quelle forteresse anglaise servit de prison à Jeanne d'Arc ?",
-    "answers": [
-      "Château de Vincennes",
-      "Tour de Londres",
-      "Château de Chinon",
-      "Château de Rouen"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q250",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quelle université médiévale fut la première fondée en Europe ?",
-    "answers": [
-      "Université de Salamanque",
-      "Université de Paris",
-      "Université de Bologne",
-      "Université d'Oxford"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q251",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel philosophe médiéval est l'auteur de 'Somme théologique' ?",
-    "answers": [
-      "Duns Scot",
-      "Pierre Abélard",
-      "Albert le Grand",
-      "Thomas d'Aquin"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q252",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quelle forteresse anglaise servit de prison à Jeanne d'Arc ?",
-    "answers": [
-      "Château de Vincennes",
-      "Château de Chinon",
-      "Château de Rouen",
-      "Tour de Londres"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q253",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel traité de 843 partagea l'empire carolingien entre trois héritiers ?",
-    "answers": [
-      "Traité de Paris",
-      "Traité de Saint-Clair-sur-Epte",
-      "Traité de Verdun",
-      "Traité de Meerssen"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q254",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel traité de 843 partagea l'empire carolingien entre trois héritiers ?",
-    "answers": [
-      "Traité de Verdun",
-      "Traité de Meerssen",
-      "Traité de Paris",
-      "Traité de Saint-Clair-sur-Epte"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q255",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel philosophe médiéval est l'auteur de 'Somme théologique' ?",
-    "answers": [
-      "Pierre Abélard",
-      "Duns Scot",
-      "Albert le Grand",
-      "Thomas d'Aquin"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q256",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel philosophe médiéval est l'auteur de 'Somme théologique' ?",
-    "answers": [
-      "Albert le Grand",
-      "Thomas d'Aquin",
-      "Duns Scot",
-      "Pierre Abélard"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q257",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel traité de 843 partagea l'empire carolingien entre trois héritiers ?",
-    "answers": [
-      "Traité de Meerssen",
-      "Traité de Saint-Clair-sur-Epte",
-      "Traité de Paris",
-      "Traité de Verdun"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q258",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quelle université médiévale fut la première fondée en Europe ?",
-    "answers": [
-      "Université de Bologne",
-      "Université de Salamanque",
-      "Université d'Oxford",
-      "Université de Paris"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q259",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel pape a excommunié Frédéric II à plusieurs reprises ?",
-    "answers": [
-      "Boniface VIII",
-      "Grégoire IX",
-      "Alexandre IV",
-      "Innocent III"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q260",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel pape a excommunié Frédéric II à plusieurs reprises ?",
-    "answers": [
-      "Innocent III",
-      "Boniface VIII",
-      "Grégoire IX",
-      "Alexandre IV"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q261",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel philosophe médiéval est l'auteur de 'Somme théologique' ?",
-    "answers": [
-      "Albert le Grand",
-      "Duns Scot",
-      "Pierre Abélard",
-      "Thomas d'Aquin"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q262",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel moine médiéval a inventé un système de notation musicale encore utilisé aujourd'hui ?",
-    "answers": [
-      "Guido d'Arezzo",
-      "Isidore de Séville",
-      "Boèce",
-      "Jean Cotton"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q263",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel pape a excommunié Frédéric II à plusieurs reprises ?",
-    "answers": [
-      "Innocent III",
-      "Grégoire IX",
-      "Alexandre IV",
-      "Boniface VIII"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q264",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel moine médiéval a inventé un système de notation musicale encore utilisé aujourd'hui ?",
-    "answers": [
-      "Isidore de Séville",
-      "Guido d'Arezzo",
-      "Jean Cotton",
-      "Boèce"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q265",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel moine médiéval a inventé un système de notation musicale encore utilisé aujourd'hui ?",
-    "answers": [
-      "Guido d'Arezzo",
-      "Jean Cotton",
-      "Isidore de Séville",
-      "Boèce"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q266",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel moine médiéval a inventé un système de notation musicale encore utilisé aujourd'hui ?",
-    "answers": [
-      "Isidore de Séville",
-      "Jean Cotton",
-      "Boèce",
-      "Guido d'Arezzo"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q267",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel traité de 843 partagea l'empire carolingien entre trois héritiers ?",
-    "answers": [
-      "Traité de Paris",
-      "Traité de Verdun",
-      "Traité de Saint-Clair-sur-Epte",
-      "Traité de Meerssen"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q268",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quelle bataille mit fin à la présence musulmane en Provence au Xe siècle ?",
-    "answers": [
-      "Bataille de Covadonga",
-      "Bataille de Simancas",
-      "Bataille de Poitiers",
-      "Bataille de Tourtour"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q269",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel manuscrit irlandais du IXe siècle est célèbre pour ses enluminures ?",
-    "answers": [
-      "Livre de Kells",
-      "Psautier de Stuttgart",
-      "Évangiles de Lindisfarne",
-      "Livre de Durrow"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q270",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quelle forteresse anglaise servit de prison à Jeanne d'Arc ?",
-    "answers": [
-      "Château de Chinon",
-      "Château de Vincennes",
-      "Tour de Londres",
-      "Château de Rouen"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q271",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quelle forteresse anglaise servit de prison à Jeanne d'Arc ?",
-    "answers": [
-      "Château de Vincennes",
-      "Château de Rouen",
-      "Château de Chinon",
-      "Tour de Londres"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q272",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel roi de France a fait édifier le Louvre comme forteresse ?",
-    "answers": [
-      "Charles V",
-      "Philippe Auguste",
-      "François Ier",
-      "Louis IX"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q273",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quelle bataille mit fin à la présence musulmane en Provence au Xe siècle ?",
-    "answers": [
-      "Bataille de Covadonga",
-      "Bataille de Tourtour",
-      "Bataille de Simancas",
-      "Bataille de Poitiers"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q274",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quelle forteresse anglaise servit de prison à Jeanne d'Arc ?",
-    "answers": [
-      "Tour de Londres",
-      "Château de Chinon",
-      "Château de Rouen",
-      "Château de Vincennes"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q275",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quelle bataille mit fin à la présence musulmane en Provence au Xe siècle ?",
-    "answers": [
-      "Bataille de Simancas",
-      "Bataille de Covadonga",
-      "Bataille de Tourtour",
-      "Bataille de Poitiers"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q276",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel moine médiéval a inventé un système de notation musicale encore utilisé aujourd'hui ?",
-    "answers": [
-      "Isidore de Séville",
-      "Guido d'Arezzo",
-      "Jean Cotton",
-      "Boèce"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q277",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quelle université médiévale fut la première fondée en Europe ?",
-    "answers": [
-      "Université de Salamanque",
-      "Université de Bologne",
-      "Université d'Oxford",
-      "Université de Paris"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q278",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel philosophe médiéval est l'auteur de 'Somme théologique' ?",
-    "answers": [
-      "Albert le Grand",
-      "Duns Scot",
-      "Thomas d'Aquin",
-      "Pierre Abélard"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q279",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quelle bataille mit fin à la présence musulmane en Provence au Xe siècle ?",
-    "answers": [
-      "Bataille de Simancas",
-      "Bataille de Covadonga",
-      "Bataille de Poitiers",
-      "Bataille de Tourtour"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q280",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quelle forteresse anglaise servit de prison à Jeanne d'Arc ?",
-    "answers": [
-      "Tour de Londres",
-      "Château de Vincennes",
-      "Château de Rouen",
-      "Château de Chinon"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q281",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel traité de 843 partagea l'empire carolingien entre trois héritiers ?",
-    "answers": [
-      "Traité de Verdun",
-      "Traité de Saint-Clair-sur-Epte",
-      "Traité de Meerssen",
-      "Traité de Paris"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q282",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel traité de 843 partagea l'empire carolingien entre trois héritiers ?",
-    "answers": [
-      "Traité de Meerssen",
-      "Traité de Paris",
-      "Traité de Verdun",
-      "Traité de Saint-Clair-sur-Epte"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q283",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel traité de 843 partagea l'empire carolingien entre trois héritiers ?",
-    "answers": [
-      "Traité de Meerssen",
-      "Traité de Saint-Clair-sur-Epte",
-      "Traité de Paris",
-      "Traité de Verdun"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q284",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quelle université médiévale fut la première fondée en Europe ?",
-    "answers": [
-      "Université de Paris",
-      "Université de Bologne",
-      "Université de Salamanque",
-      "Université d'Oxford"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q285",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quelle université médiévale fut la première fondée en Europe ?",
-    "answers": [
-      "Université de Bologne",
-      "Université de Salamanque",
-      "Université d'Oxford",
-      "Université de Paris"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q286",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel manuscrit irlandais du IXe siècle est célèbre pour ses enluminures ?",
-    "answers": [
-      "Livre de Kells",
-      "Évangiles de Lindisfarne",
-      "Livre de Durrow",
-      "Psautier de Stuttgart"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q287",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel manuscrit irlandais du IXe siècle est célèbre pour ses enluminures ?",
-    "answers": [
-      "Psautier de Stuttgart",
-      "Évangiles de Lindisfarne",
-      "Livre de Durrow",
-      "Livre de Kells"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q288",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel moine médiéval a inventé un système de notation musicale encore utilisé aujourd'hui ?",
-    "answers": [
-      "Guido d'Arezzo",
-      "Jean Cotton",
-      "Isidore de Séville",
-      "Boèce"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q289",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel traité de 843 partagea l'empire carolingien entre trois héritiers ?",
-    "answers": [
-      "Traité de Paris",
-      "Traité de Meerssen",
-      "Traité de Verdun",
-      "Traité de Saint-Clair-sur-Epte"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q290",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel traité de 843 partagea l'empire carolingien entre trois héritiers ?",
-    "answers": [
-      "Traité de Saint-Clair-sur-Epte",
-      "Traité de Meerssen",
-      "Traité de Verdun",
-      "Traité de Paris"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q291",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel philosophe médiéval est l'auteur de 'Somme théologique' ?",
-    "answers": [
-      "Duns Scot",
-      "Thomas d'Aquin",
-      "Pierre Abélard",
-      "Albert le Grand"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q292",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel moine médiéval a inventé un système de notation musicale encore utilisé aujourd'hui ?",
-    "answers": [
-      "Guido d'Arezzo",
-      "Jean Cotton",
-      "Isidore de Séville",
-      "Boèce"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q293",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel manuscrit irlandais du IXe siècle est célèbre pour ses enluminures ?",
-    "answers": [
-      "Livre de Kells",
-      "Livre de Durrow",
-      "Psautier de Stuttgart",
-      "Évangiles de Lindisfarne"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q294",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quelle université médiévale fut la première fondée en Europe ?",
-    "answers": [
-      "Université de Salamanque",
-      "Université de Paris",
-      "Université d'Oxford",
-      "Université de Bologne"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q295",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel manuscrit irlandais du IXe siècle est célèbre pour ses enluminures ?",
-    "answers": [
-      "Livre de Kells",
-      "Évangiles de Lindisfarne",
-      "Psautier de Stuttgart",
-      "Livre de Durrow"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q296",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quelle université médiévale fut la première fondée en Europe ?",
-    "answers": [
-      "Université d'Oxford",
-      "Université de Paris",
-      "Université de Bologne",
-      "Université de Salamanque"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q297",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quelle bataille mit fin à la présence musulmane en Provence au Xe siècle ?",
-    "answers": [
-      "Bataille de Poitiers",
-      "Bataille de Covadonga",
-      "Bataille de Tourtour",
-      "Bataille de Simancas"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q298",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel manuscrit irlandais du IXe siècle est célèbre pour ses enluminures ?",
-    "answers": [
-      "Évangiles de Lindisfarne",
-      "Psautier de Stuttgart",
-      "Livre de Kells",
-      "Livre de Durrow"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q299",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quel traité de 843 partagea l'empire carolingien entre trois héritiers ?",
-    "answers": [
-      "Traité de Meerssen",
-      "Traité de Saint-Clair-sur-Epte",
-      "Traité de Verdun",
-      "Traité de Paris"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q300",
-    "category": "Moyen-Âge",
-    "difficulty": "Extrême",
-    "text": "Quelle bataille mit fin à la présence musulmane en Provence au Xe siècle ?",
-    "answers": [
-      "Bataille de Simancas",
-      "Bataille de Tourtour",
-      "Bataille de Covadonga",
-      "Bataille de Poitiers"
-    ],
+    "text": "Quelle autorité détenait la primauté spirituelle absolue en Occident médiéval ?",
+    "answers": ["Le concile", "Le pape", "L’empereur", "Le patriarche"],
     "correctIndex": 1
   }
 ]
