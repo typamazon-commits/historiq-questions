@@ -3,3900 +3,1690 @@
     "id": "q1",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel temple cambodgien est resté caché dans la jungle jusqu'à sa redécouverte au XIXe siècle ?",
-    "answers": [
-      "Ta Prohm",
-      "Banteay Srei",
-      "Bayon",
-      "Angkor Wat"
-    ],
-    "correctIndex": 3
+    "text": "Quel texte médiéval illustré demeure largement indéchiffré malgré des siècles d’études linguistiques ?",
+    "answers": ["Le manuscrit de Voynich", "Le Codex Gigas", "Le Livre de Kells", "Le Codex Sinaiticus"],
+    "correctIndex": 0
   },
   {
     "id": "q2",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel pilote disparu est associé au 'Flight 19' dans le Triangle des Bermudes ?",
-    "answers": [
-      "Charles Taylor",
-      "Glenn Miller",
-      "Fred Noonan",
-      "Antoine de Saint-Exupéry"
-    ],
-    "correctIndex": 0
+    "text": "Quel site préhistorique irlandais est interprété comme un observatoire solaire rituel ?",
+    "answers": ["Avebury", "Newgrange", "Carnac", "Callanish"],
+    "correctIndex": 1
   },
   {
     "id": "q3",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel temple cambodgien est resté caché dans la jungle jusqu'à sa redécouverte au XIXe siècle ?",
-    "answers": [
-      "Ta Prohm",
-      "Banteay Srei",
-      "Angkor Wat",
-      "Bayon"
-    ],
+    "text": "Quel phénomène lumineux rare est parfois observé à proximité de lignes de faille sismique ?",
+    "answers": ["Les aurores polaires", "Les feux follets", "Les lumières sismiques", "Les météores"],
     "correctIndex": 2
   },
   {
     "id": "q4",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'expédition disparue dans l'Arctique en 1845 dirigée par John Franklin ?",
-    "answers": [
-      "Expédition Endurance",
-      "Expédition Erebus",
-      "Expédition Franklin",
-      "Expédition Jeannette"
-    ],
-    "correctIndex": 2
+    "text": "Dans quel pays se trouvent les temples rupestres de Göbekli Tepe, souvent qualifiés de plus anciens du monde ?",
+    "answers": ["Syrie", "Irak", "Iran", "Turquie"],
+    "correctIndex": 3
   },
+
   {
     "id": "q5",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'expédition disparue dans l'Arctique en 1845 dirigée par John Franklin ?",
-    "answers": [
-      "Expédition Erebus",
-      "Expédition Jeannette",
-      "Expédition Endurance",
-      "Expédition Franklin"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal mythique est associé à la fonction de gardien du seuil dans plusieurs traditions antiques ?",
+    "answers": ["Le sphinx", "Le dragon", "Le griffon", "Le lion"],
+    "correctIndex": 0
   },
   {
     "id": "q6",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel monolithe mystérieux se trouve en Écosse et reste inexpliqué ?",
-    "answers": [
-      "Pierre de Rosette",
-      "Piedra del Sol",
-      "Piedra de Cochno",
-      "Menhir de Callanish"
-    ],
-    "correctIndex": 2
+    "text": "Quel site andin présente des blocs cyclopéens ajustés avec une précision millimétrique sans mortier ?",
+    "answers": ["Tiwanaku", "Sacsayhuamán", "Machu Picchu", "Chan Chan"],
+    "correctIndex": 1
   },
   {
     "id": "q7",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel temple cambodgien est resté caché dans la jungle jusqu'à sa redécouverte au XIXe siècle ?",
-    "answers": [
-      "Ta Prohm",
-      "Angkor Wat",
-      "Bayon",
-      "Banteay Srei"
-    ],
-    "correctIndex": 1
+    "text": "Quel terme désigne la capacité supposée d’accéder à des informations sans médiation sensorielle ?",
+    "answers": ["La médiumnité", "La télépathie", "La clairvoyance", "La synesthésie"],
+    "correctIndex": 2
   },
   {
     "id": "q8",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle civilisation a sculpté les têtes géantes de l'île de Pâques ?",
-    "answers": [
-      "Maoris",
-      "Chamorro",
-      "Polynésiens",
-      "Rapa Nui"
-    ],
+    "text": "Quel pays est associé aux lignes géantes gravées dans le désert d’Atacama ?",
+    "answers": ["Pérou", "Bolivie", "Argentine", "Chili"],
     "correctIndex": 3
   },
+
   {
     "id": "q9",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel étrange signal radio capté en 1977 reste inexpliqué ?",
-    "answers": [
-      "Bruit Bloop",
-      "Whistler",
-      "Signal Wow!",
-      "Chorus"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal mythique symbolise la renaissance cyclique par le feu ?",
+    "answers": ["Le phénix", "Le dragon", "Le griffon", "La licorne"],
+    "correctIndex": 0
   },
   {
     "id": "q10",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'expédition disparue dans l'Arctique en 1845 dirigée par John Franklin ?",
-    "answers": [
-      "Expédition Franklin",
-      "Expédition Endurance",
-      "Expédition Erebus",
-      "Expédition Jeannette"
-    ],
-    "correctIndex": 0
+    "text": "Quel site étrusque est célèbre pour ses nécropoles monumentales et mystérieuses ?",
+    "answers": ["Tarquinia", "Cerveteri", "Volterra", "Veies"],
+    "correctIndex": 1
   },
+
   {
     "id": "q11",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle mystérieuse civilisation a construit la cité de Teotihuacan ?",
-    "answers": [
-      "Inconnue",
-      "Mayas",
-      "Olmèques",
-      "Aztèques"
-    ],
-    "correctIndex": 0
+    "text": "Quel phénomène désigne l’interprétation symbolique de coïncidences significatives selon Carl Jung ?",
+    "answers": ["La causalité", "La superstition", "La synchronicité", "La divination"],
+    "correctIndex": 2
   },
   {
     "id": "q12",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel pilote disparu est associé au 'Flight 19' dans le Triangle des Bermudes ?",
-    "answers": [
-      "Glenn Miller",
-      "Fred Noonan",
-      "Charles Taylor",
-      "Antoine de Saint-Exupéry"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays abrite le site mégalithique de Mnajdra ?",
+    "answers": ["Grèce", "Italie", "Chypre", "Malte"],
+    "correctIndex": 3
   },
+
   {
     "id": "q13",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel pilote disparu est associé au 'Flight 19' dans le Triangle des Bermudes ?",
-    "answers": [
-      "Antoine de Saint-Exupéry",
-      "Charles Taylor",
-      "Glenn Miller",
-      "Fred Noonan"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal mythique est associé à la transmission du savoir interdit dans de nombreuses mythologies ?",
+    "answers": ["Le serpent", "Le dragon", "Le corbeau", "Le sphinx"],
+    "correctIndex": 0
   },
   {
     "id": "q14",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'expédition disparue dans l'Arctique en 1845 dirigée par John Franklin ?",
-    "answers": [
-      "Expédition Endurance",
-      "Expédition Franklin",
-      "Expédition Erebus",
-      "Expédition Jeannette"
-    ],
+    "text": "Quel site antique est associé aux oracles sibyllins du monde romain ?",
+    "answers": ["Rome", "Cumes", "Delphes", "Ostie"],
     "correctIndex": 1
   },
+
   {
     "id": "q15",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel monolithe mystérieux se trouve en Écosse et reste inexpliqué ?",
-    "answers": [
-      "Piedra del Sol",
-      "Menhir de Callanish",
-      "Pierre de Rosette",
-      "Piedra de Cochno"
-    ],
-    "correctIndex": 3
+    "text": "Quel terme désigne la divination pratiquée par l’interprétation des rêves ?",
+    "answers": ["La mantique", "La prophétie", "L’oniromancie", "La théurgie"],
+    "correctIndex": 2
   },
   {
     "id": "q16",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle forteresse du désert syrien a été un mystère archéologique ?",
-    "answers": [
-      "Palmyre",
-      "Mari",
-      "Ugarit",
-      "Ebla"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé aux temples rupestres de Lalibela ?",
+    "answers": ["Égypte", "Soudan", "Érythrée", "Éthiopie"],
+    "correctIndex": 3
   },
+
   {
     "id": "q17",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel temple cambodgien est resté caché dans la jungle jusqu'à sa redécouverte au XIXe siècle ?",
-    "answers": [
-      "Angkor Wat",
-      "Bayon",
-      "Ta Prohm",
-      "Banteay Srei"
-    ],
+    "text": "Quel animal mythique est gardien des Enfers dans la mythologie grecque ?",
+    "answers": ["Cerbère", "Hadès", "Le minotaure", "Le sphinx"],
     "correctIndex": 0
   },
   {
     "id": "q18",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle civilisation a sculpté les têtes géantes de l'île de Pâques ?",
-    "answers": [
-      "Rapa Nui",
-      "Polynésiens",
-      "Maoris",
-      "Chamorro"
-    ],
-    "correctIndex": 0
+    "text": "Quel site précolombien est associé aux têtes colossales olmèques ?",
+    "answers": ["Monte Albán", "La Venta", "Teotihuacan", "Tikal"],
+    "correctIndex": 1
   },
+
   {
     "id": "q19",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'expédition disparue dans l'Arctique en 1845 dirigée par John Franklin ?",
-    "answers": [
-      "Expédition Erebus",
-      "Expédition Jeannette",
-      "Expédition Endurance",
-      "Expédition Franklin"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène désigne la communication supposée avec les morts par un intermédiaire ?",
+    "answers": ["La nécromancie", "La divination", "La médiumnité", "La prophétie"],
+    "correctIndex": 2
   },
   {
     "id": "q20",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel temple cambodgien est resté caché dans la jungle jusqu'à sa redécouverte au XIXe siècle ?",
-    "answers": [
-      "Angkor Wat",
-      "Banteay Srei",
-      "Bayon",
-      "Ta Prohm"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays est associé aux temples antiques de Prambanan ?",
+    "answers": ["Thaïlande", "Malaisie", "Cambodge", "Indonésie"],
+    "correctIndex": 3
   },
+
   {
     "id": "q21",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel étrange signal radio capté en 1977 reste inexpliqué ?",
-    "answers": [
-      "Signal Wow!",
-      "Chorus",
-      "Whistler",
-      "Bruit Bloop"
-    ],
+    "text": "Quel animal mythique est symbole de vigilance et de passage entre deux mondes ?",
+    "answers": ["Le sphinx", "Le lion", "Le dragon", "Le chien"],
     "correctIndex": 0
   },
   {
     "id": "q22",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel manuscrit médiéval contient des illustrations botaniques étranges et illisibles ?",
-    "answers": [
-      "Codex Seraphinianus",
-      "Livre de Kells",
-      "Codex Rohonczi",
-      "Manuscrit de Voynich"
-    ],
-    "correctIndex": 3
+    "text": "Quel site antique est associé aux mystères de la civilisation hittite ?",
+    "answers": ["Troie", "Hattusa", "Pergame", "Sardes"],
+    "correctIndex": 1
   },
+
   {
     "id": "q23",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel étrange signal radio capté en 1977 reste inexpliqué ?",
-    "answers": [
-      "Bruit Bloop",
-      "Signal Wow!",
-      "Whistler",
-      "Chorus"
-    ],
-    "correctIndex": 1
+    "text": "Quel phénomène désigne la croyance selon laquelle certains lieux influencent l’état psychique ?",
+    "answers": ["La suggestion", "La superstition", "La géobiologie", "La psychologie environnementale"],
+    "correctIndex": 2
   },
   {
     "id": "q24",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle forteresse du désert syrien a été un mystère archéologique ?",
-    "answers": [
-      "Ebla",
-      "Ugarit",
-      "Palmyre",
-      "Mari"
-    ],
+    "text": "Quel pays est associé aux temples antiques de Sigiriya ?",
+    "answers": ["Inde", "Népal", "Bangladesh", "Sri Lanka"],
     "correctIndex": 3
   },
+
   {
     "id": "q25",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel étrange signal radio capté en 1977 reste inexpliqué ?",
-    "answers": [
-      "Signal Wow!",
-      "Chorus",
-      "Bruit Bloop",
-      "Whistler"
-    ],
+    "text": "Quel animal mythique est symbole d’équilibre cosmique entre ordre et chaos ?",
+    "answers": ["Le dragon", "Le lion", "Le taureau", "Le griffon"],
     "correctIndex": 0
   },
   {
     "id": "q26",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle forteresse du désert syrien a été un mystère archéologique ?",
-    "answers": [
-      "Ugarit",
-      "Palmyre",
-      "Ebla",
-      "Mari"
-    ],
-    "correctIndex": 3
+    "text": "Quel site antique est associé aux mystères de la civilisation nabatéenne ?",
+    "answers": ["Palmyre", "Pétra", "Byblos", "Tyr"],
+    "correctIndex": 1
   },
+
   {
     "id": "q27",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel pilote disparu est associé au 'Flight 19' dans le Triangle des Bermudes ?",
-    "answers": [
-      "Fred Noonan",
-      "Antoine de Saint-Exupéry",
-      "Charles Taylor",
-      "Glenn Miller"
-    ],
+    "text": "Quel phénomène désigne la perception supposée d’événements futurs ?",
+    "answers": ["La divination", "La prophétie", "La précognition", "La clairaudience"],
     "correctIndex": 2
   },
   {
     "id": "q28",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel monolithe mystérieux se trouve en Écosse et reste inexpliqué ?",
-    "answers": [
-      "Pierre de Rosette",
-      "Piedra de Cochno",
-      "Menhir de Callanish",
-      "Piedra del Sol"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé aux temples antiques d’Ellora ?",
+    "answers": ["Pakistan", "Népal", "Sri Lanka", "Inde"],
+    "correctIndex": 3
   },
+
   {
     "id": "q29",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel étrange signal radio capté en 1977 reste inexpliqué ?",
-    "answers": [
-      "Signal Wow!",
-      "Chorus",
-      "Bruit Bloop",
-      "Whistler"
-    ],
+    "text": "Quel animal mythique est associé à la connaissance et aux énigmes dans l’Antiquité ?",
+    "answers": ["Le sphinx", "Le dragon", "Le corbeau", "Le griffon"],
     "correctIndex": 0
   },
   {
     "id": "q30",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel pilote disparu est associé au 'Flight 19' dans le Triangle des Bermudes ?",
-    "answers": [
-      "Antoine de Saint-Exupéry",
-      "Glenn Miller",
-      "Fred Noonan",
-      "Charles Taylor"
-    ],
-    "correctIndex": 3
+    "text": "Quel site antique est associé aux mystères de la civilisation minoenne ?",
+    "answers": ["Mycènes", "Cnossos", "Phaistos", "Mallia"],
+    "correctIndex": 1
   },
+
   {
     "id": "q31",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel temple cambodgien est resté caché dans la jungle jusqu'à sa redécouverte au XIXe siècle ?",
-    "answers": [
-      "Ta Prohm",
-      "Bayon",
-      "Banteay Srei",
-      "Angkor Wat"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène désigne la lecture symbolique des présages naturels ?",
+    "answers": ["L’astrologie", "La prophétie", "L’augure", "La divination"],
+    "correctIndex": 2
   },
   {
     "id": "q32",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel manuscrit médiéval contient des illustrations botaniques étranges et illisibles ?",
-    "answers": [
-      "Codex Rohonczi",
-      "Manuscrit de Voynich",
-      "Codex Seraphinianus",
-      "Livre de Kells"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé aux temples antiques de Karnak ?",
+    "answers": ["Libye", "Soudan", "Nubie", "Égypte"],
+    "correctIndex": 3
   },
+
   {
     "id": "q33",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel monolithe mystérieux se trouve en Écosse et reste inexpliqué ?",
-    "answers": [
-      "Piedra del Sol",
-      "Menhir de Callanish",
-      "Pierre de Rosette",
-      "Piedra de Cochno"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal mythique est symbole de passage initiatique et d’épreuve ?",
+    "answers": ["Le dragon", "Le lion", "Le taureau", "Le cheval"],
+    "correctIndex": 0
   },
   {
     "id": "q34",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel étrange signal radio capté en 1977 reste inexpliqué ?",
-    "answers": [
-      "Chorus",
-      "Whistler",
-      "Signal Wow!",
-      "Bruit Bloop"
-    ],
-    "correctIndex": 2
+    "text": "Quel site antique est associé aux mystères de la civilisation sumérienne ?",
+    "answers": ["Lagash", "Uruk", "Nippur", "Eridu"],
+    "correctIndex": 1
   },
+
   {
     "id": "q35",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel manuscrit médiéval contient des illustrations botaniques étranges et illisibles ?",
-    "answers": [
-      "Codex Seraphinianus",
-      "Livre de Kells",
-      "Manuscrit de Voynich",
-      "Codex Rohonczi"
-    ],
+    "text": "Quel phénomène désigne l’étude symbolique des nombres sacrés ?",
+    "answers": ["La mathématique", "La géométrie", "La numérologie", "L’arithmétique"],
     "correctIndex": 2
   },
   {
     "id": "q36",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle mystérieuse civilisation a construit la cité de Teotihuacan ?",
-    "answers": [
-      "Olmèques",
-      "Inconnue",
-      "Aztèques",
-      "Mayas"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé aux temples antiques de Hampi ?",
+    "answers": ["Sri Lanka", "Pakistan", "Bangladesh", "Inde"],
+    "correctIndex": 3
   },
+
   {
     "id": "q37",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle forteresse du désert syrien a été un mystère archéologique ?",
-    "answers": [
-      "Palmyre",
-      "Mari",
-      "Ugarit",
-      "Ebla"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal mythique est associé à la protection des secrets cosmiques ?",
+    "answers": ["Le griffon", "Le dragon", "Le lion", "Le sphinx"],
+    "correctIndex": 0
   },
   {
     "id": "q38",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel explorateur a disparu en 1848 en cherchant un passage dans l'Arctique ?",
-    "answers": [
-      "Sir John Franklin",
-      "Roald Amundsen",
-      "Henry Hudson",
-      "Robert Falcon Scott"
-    ],
-    "correctIndex": 0
+    "text": "Quel site antique est associé aux mystères de la civilisation zapotèque ?",
+    "answers": ["Mitla", "Monte Albán", "El Tajín", "Teotihuacan"],
+    "correctIndex": 1
   },
+
   {
     "id": "q39",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle mystérieuse civilisation a construit la cité de Teotihuacan ?",
-    "answers": [
-      "Olmèques",
-      "Mayas",
-      "Aztèques",
-      "Inconnue"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène désigne la communication supposée avec des entités par écriture ?",
+    "answers": ["La clairvoyance", "La médiumnité", "L’écriture automatique", "La divination"],
+    "correctIndex": 2
   },
   {
     "id": "q40",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'expédition disparue dans l'Arctique en 1845 dirigée par John Franklin ?",
-    "answers": [
-      "Expédition Franklin",
-      "Expédition Jeannette",
-      "Expédition Erebus",
-      "Expédition Endurance"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays est associé aux temples antiques de Borobudur ?",
+    "answers": ["Thaïlande", "Cambodge", "Malaisie", "Indonésie"],
+    "correctIndex": 3
   },
+
   {
     "id": "q41",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel temple cambodgien est resté caché dans la jungle jusqu'à sa redécouverte au XIXe siècle ?",
-    "answers": [
-      "Banteay Srei",
-      "Bayon",
-      "Angkor Wat",
-      "Ta Prohm"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal mythique est symbole de seuil entre vie et mort ?",
+    "answers": ["Le corbeau", "Le serpent", "Le chien", "Le taureau"],
+    "correctIndex": 0
   },
   {
     "id": "q42",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel étrange signal radio capté en 1977 reste inexpliqué ?",
-    "answers": [
-      "Signal Wow!",
-      "Bruit Bloop",
-      "Whistler",
-      "Chorus"
-    ],
-    "correctIndex": 0
+    "text": "Quel site antique est associé aux mystères funéraires de la Nubie ?",
+    "answers": ["Mérowé", "Kerma", "Napata", "Dongola"],
+    "correctIndex": 1
   },
+
   {
     "id": "q43",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel temple cambodgien est resté caché dans la jungle jusqu'à sa redécouverte au XIXe siècle ?",
-    "answers": [
-      "Banteay Srei",
-      "Ta Prohm",
-      "Angkor Wat",
-      "Bayon"
-    ],
+    "text": "Quel phénomène désigne l’influence supposée des astres sur la destinée humaine ?",
+    "answers": ["L’astronomie", "La cosmologie", "L’astrologie", "La mythologie"],
     "correctIndex": 2
   },
   {
     "id": "q44",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle forteresse du désert syrien a été un mystère archéologique ?",
-    "answers": [
-      "Palmyre",
-      "Ugarit",
-      "Mari",
-      "Ebla"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé aux cercles mégalithiques de Callanish ?",
+    "answers": ["Irlande", "Pays de Galles", "Angleterre", "Écosse"],
+    "correctIndex": 3
   },
+
   {
     "id": "q45",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle forteresse du désert syrien a été un mystère archéologique ?",
-    "answers": [
-      "Ugarit",
-      "Ebla",
-      "Mari",
-      "Palmyre"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal mythique est symbole de transmission du savoir ancien ?",
+    "answers": ["Le corbeau", "Le dragon", "Le serpent", "Le griffon"],
+    "correctIndex": 0
   },
   {
     "id": "q46",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel manuscrit médiéval contient des illustrations botaniques étranges et illisibles ?",
-    "answers": [
-      "Codex Rohonczi",
-      "Manuscrit de Voynich",
-      "Livre de Kells",
-      "Codex Seraphinianus"
-    ],
+    "text": "Quel site antique est associé aux mystères de la civilisation carthaginoise ?",
+    "answers": ["Utique", "Carthage", "Hippo Regius", "Byrsa"],
     "correctIndex": 1
   },
+
   {
     "id": "q47",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel étrange signal radio capté en 1977 reste inexpliqué ?",
-    "answers": [
-      "Bruit Bloop",
-      "Chorus",
-      "Whistler",
-      "Signal Wow!"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène désigne la capacité supposée d’entrer en contact avec l’au-delà ?",
+    "answers": ["La clairaudience", "La divination", "La médiumnité", "La prophétie"],
+    "correctIndex": 2
   },
   {
     "id": "q48",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel monolithe mystérieux se trouve en Écosse et reste inexpliqué ?",
-    "answers": [
-      "Piedra del Sol",
-      "Pierre de Rosette",
-      "Piedra de Cochno",
-      "Menhir de Callanish"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé aux temples antiques de Luxor ?",
+    "answers": ["Soudan", "Libye", "Nubie", "Égypte"],
+    "correctIndex": 3
   },
+
   {
     "id": "q49",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle civilisation a sculpté les têtes géantes de l'île de Pâques ?",
-    "answers": [
-      "Chamorro",
-      "Polynésiens",
-      "Maoris",
-      "Rapa Nui"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal mythique est symbole de protection spirituelle suprême ?",
+    "answers": ["Le sphinx", "Le dragon", "Le griffon", "Le lion"],
+    "correctIndex": 0
   },
   {
     "id": "q50",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle mystérieuse civilisation a construit la cité de Teotihuacan ?",
-    "answers": [
-      "Aztèques",
-      "Inconnue",
-      "Olmèques",
-      "Mayas"
-    ],
-    "correctIndex": 1
+    "text": "Quel site antique est associé aux grands mystères religieux de l’Égypte ancienne ?",
+    "answers": ["Memphis", "Thèbes", "Abydos", "Gizeh"],
+    "correctIndex": 3
   },
   {
     "id": "q51",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel pilote disparu est associé au 'Flight 19' dans le Triangle des Bermudes ?",
-    "answers": [
-      "Antoine de Saint-Exupéry",
-      "Fred Noonan",
-      "Glenn Miller",
-      "Charles Taylor"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal mythique est associé au passage des âmes dans plusieurs traditions chamaniques ?",
+    "answers": ["Le corbeau", "Le serpent", "Le cheval", "Le loup"],
+    "correctIndex": 0
   },
   {
     "id": "q52",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel temple cambodgien est resté caché dans la jungle jusqu'à sa redécouverte au XIXe siècle ?",
-    "answers": [
-      "Bayon",
-      "Angkor Wat",
-      "Banteay Srei",
-      "Ta Prohm"
-    ],
+    "text": "Quel site antique est réputé pour ses chambres souterraines liées à des cultes initiatiques ?",
+    "answers": ["Éphèse", "Éleusis", "Pergame", "Sardes"],
     "correctIndex": 1
   },
   {
     "id": "q53",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel temple cambodgien est resté caché dans la jungle jusqu'à sa redécouverte au XIXe siècle ?",
-    "answers": [
-      "Angkor Wat",
-      "Banteay Srei",
-      "Bayon",
-      "Ta Prohm"
-    ],
-    "correctIndex": 0
+    "text": "Quel phénomène désigne l’apparition supposée de sons sans source identifiable ?",
+    "answers": ["L’écho", "La résonance", "La paréidolie auditive", "La synesthésie"],
+    "correctIndex": 2
   },
   {
     "id": "q54",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle forteresse du désert syrien a été un mystère archéologique ?",
-    "answers": [
-      "Ebla",
-      "Palmyre",
-      "Ugarit",
-      "Mari"
-    ],
+    "text": "Quel pays est associé aux pyramides de Méroé, longtemps méconnues ?",
+    "answers": ["Égypte", "Libye", "Éthiopie", "Soudan"],
     "correctIndex": 3
   },
+
   {
     "id": "q55",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle mystérieuse civilisation a construit la cité de Teotihuacan ?",
-    "answers": [
-      "Aztèques",
-      "Inconnue",
-      "Olmèques",
-      "Mayas"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal mythique est symbole de transformation et de métamorphose ?",
+    "answers": ["Le serpent", "Le lion", "Le taureau", "Le griffon"],
+    "correctIndex": 0
   },
   {
     "id": "q56",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle forteresse du désert syrien a été un mystère archéologique ?",
-    "answers": [
-      "Mari",
-      "Ugarit",
-      "Ebla",
-      "Palmyre"
-    ],
-    "correctIndex": 0
+    "text": "Quel site antique est associé aux cultes solaires incas ?",
+    "answers": ["Chan Chan", "Coricancha", "Nazca", "Tiwanaku"],
+    "correctIndex": 1
   },
+
   {
     "id": "q57",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel explorateur a disparu en 1848 en cherchant un passage dans l'Arctique ?",
-    "answers": [
-      "Robert Falcon Scott",
-      "Roald Amundsen",
-      "Sir John Franklin",
-      "Henry Hudson"
-    ],
+    "text": "Quel terme désigne la capacité supposée de percevoir des auras énergétiques ?",
+    "answers": ["La clairvoyance", "La télépathie", "La vision éthérique", "La médiumnité"],
     "correctIndex": 2
   },
   {
     "id": "q58",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'expédition disparue dans l'Arctique en 1845 dirigée par John Franklin ?",
-    "answers": [
-      "Expédition Jeannette",
-      "Expédition Franklin",
-      "Expédition Endurance",
-      "Expédition Erebus"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé aux alignements mégalithiques de Carnac ?",
+    "answers": ["Irlande", "Angleterre", "Écosse", "France"],
+    "correctIndex": 3
   },
+
   {
     "id": "q59",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel temple cambodgien est resté caché dans la jungle jusqu'à sa redécouverte au XIXe siècle ?",
-    "answers": [
-      "Ta Prohm",
-      "Banteay Srei",
-      "Bayon",
-      "Angkor Wat"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal mythique est gardien des trésors sacrés dans de nombreuses légendes ?",
+    "answers": ["Le dragon", "Le griffon", "Le sphinx", "Le lion"],
+    "correctIndex": 0
   },
   {
     "id": "q60",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel explorateur a disparu en 1848 en cherchant un passage dans l'Arctique ?",
-    "answers": [
-      "Sir John Franklin",
-      "Henry Hudson",
-      "Roald Amundsen",
-      "Robert Falcon Scott"
-    ],
-    "correctIndex": 0
+    "text": "Quel site antique est associé aux mystères funéraires des Mayas ?",
+    "answers": ["Copán", "Palenque", "Uxmal", "Chichén Itzá"],
+    "correctIndex": 1
   },
+
   {
     "id": "q61",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel manuscrit médiéval contient des illustrations botaniques étranges et illisibles ?",
-    "answers": [
-      "Manuscrit de Voynich",
-      "Livre de Kells",
-      "Codex Rohonczi",
-      "Codex Seraphinianus"
-    ],
-    "correctIndex": 0
+    "text": "Quel phénomène désigne la perception d’images familières dans des formes aléatoires ?",
+    "answers": ["La synesthésie", "L’illusion", "La paréidolie", "L’hallucination"],
+    "correctIndex": 2
   },
   {
     "id": "q62",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle mystérieuse civilisation a construit la cité de Teotihuacan ?",
-    "answers": [
-      "Aztèques",
-      "Inconnue",
-      "Mayas",
-      "Olmèques"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé au site de Stonehenge ?",
+    "answers": ["Irlande", "Pays de Galles", "Écosse", "Angleterre"],
+    "correctIndex": 3
   },
+
   {
     "id": "q63",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle forteresse du désert syrien a été un mystère archéologique ?",
-    "answers": [
-      "Palmyre",
-      "Ebla",
-      "Mari",
-      "Ugarit"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal mythique est associé à la sagesse ancienne et au temps ?",
+    "answers": ["La tortue", "Le serpent", "Le corbeau", "Le dragon"],
+    "correctIndex": 0
   },
   {
     "id": "q64",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'expédition disparue dans l'Arctique en 1845 dirigée par John Franklin ?",
-    "answers": [
-      "Expédition Jeannette",
-      "Expédition Endurance",
-      "Expédition Erebus",
-      "Expédition Franklin"
-    ],
-    "correctIndex": 3
+    "text": "Quel site antique est réputé pour ses hypogées mégalithiques ?",
+    "answers": ["Delphes", "Ħal Saflieni", "Cnossos", "Mycènes"],
+    "correctIndex": 1
   },
+
   {
     "id": "q65",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel monolithe mystérieux se trouve en Écosse et reste inexpliqué ?",
-    "answers": [
-      "Pierre de Rosette",
-      "Piedra de Cochno",
-      "Piedra del Sol",
-      "Menhir de Callanish"
-    ],
-    "correctIndex": 1
+    "text": "Quel terme désigne l’art divinatoire fondé sur l’observation des entrailles animales ?",
+    "answers": ["L’augure", "La mantique", "L’haruspicine", "La nécromancie"],
+    "correctIndex": 2
   },
   {
     "id": "q66",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'expédition disparue dans l'Arctique en 1845 dirigée par John Franklin ?",
-    "answers": [
-      "Expédition Jeannette",
-      "Expédition Franklin",
-      "Expédition Endurance",
-      "Expédition Erebus"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé aux statues monumentales de l’île de Pâques ?",
+    "answers": ["Chili", "Pérou", "Bolivie", "Chili"],
+    "correctIndex": 3
   },
+
   {
     "id": "q67",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel explorateur a disparu en 1848 en cherchant un passage dans l'Arctique ?",
-    "answers": [
-      "Henry Hudson",
-      "Robert Falcon Scott",
-      "Roald Amundsen",
-      "Sir John Franklin"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal mythique est symbole de la frontière entre monde humain et monde divin ?",
+    "answers": ["Le sphinx", "Le lion", "Le dragon", "Le cheval"],
+    "correctIndex": 0
   },
   {
     "id": "q68",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel pilote disparu est associé au 'Flight 19' dans le Triangle des Bermudes ?",
-    "answers": [
-      "Antoine de Saint-Exupéry",
-      "Glenn Miller",
-      "Fred Noonan",
-      "Charles Taylor"
-    ],
-    "correctIndex": 3
+    "text": "Quel site antique est associé aux oracles les plus célèbres de la Grèce antique ?",
+    "answers": ["Olympie", "Delphes", "Dodone", "Épidaure"],
+    "correctIndex": 1
   },
+
   {
     "id": "q69",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle mystérieuse civilisation a construit la cité de Teotihuacan ?",
-    "answers": [
-      "Mayas",
-      "Aztèques",
-      "Inconnue",
-      "Olmèques"
-    ],
+    "text": "Quel phénomène désigne l’impression de déjà-vu interprétée de manière ésotérique ?",
+    "answers": ["La réminiscence", "La mémoire implicite", "La précognition", "La dissociation"],
     "correctIndex": 2
   },
   {
     "id": "q70",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel temple cambodgien est resté caché dans la jungle jusqu'à sa redécouverte au XIXe siècle ?",
-    "answers": [
-      "Banteay Srei",
-      "Ta Prohm",
-      "Angkor Wat",
-      "Bayon"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé aux temples antiques d’Angkor ?",
+    "answers": ["Thaïlande", "Vietnam", "Laos", "Cambodge"],
+    "correctIndex": 3
   },
+
   {
     "id": "q71",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'expédition disparue dans l'Arctique en 1845 dirigée par John Franklin ?",
-    "answers": [
-      "Expédition Erebus",
-      "Expédition Jeannette",
-      "Expédition Endurance",
-      "Expédition Franklin"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal mythique est associé à la mémoire ancestrale collective ?",
+    "answers": ["L’éléphant", "Le corbeau", "Le serpent", "Le dragon"],
+    "correctIndex": 0
   },
   {
     "id": "q72",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel monolithe mystérieux se trouve en Écosse et reste inexpliqué ?",
-    "answers": [
-      "Piedra de Cochno",
-      "Piedra del Sol",
-      "Pierre de Rosette",
-      "Menhir de Callanish"
-    ],
-    "correctIndex": 0
+    "text": "Quel site antique est lié aux mystères religieux de l’Égypte prédynastique ?",
+    "answers": ["Saqqarah", "Abydos", "Gizeh", "Memphis"],
+    "correctIndex": 1
   },
+
   {
     "id": "q73",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel monolithe mystérieux se trouve en Écosse et reste inexpliqué ?",
-    "answers": [
-      "Piedra del Sol",
-      "Pierre de Rosette",
-      "Piedra de Cochno",
-      "Menhir de Callanish"
-    ],
+    "text": "Quel terme désigne l’interprétation symbolique des songes prophétiques ?",
+    "answers": ["La divination", "La prophétie", "L’oniromancie", "La théurgie"],
     "correctIndex": 2
   },
   {
     "id": "q74",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel temple cambodgien est resté caché dans la jungle jusqu'à sa redécouverte au XIXe siècle ?",
-    "answers": [
-      "Angkor Wat",
-      "Bayon",
-      "Banteay Srei",
-      "Ta Prohm"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays est associé aux temples rupestres d’Abou Simbel ?",
+    "answers": ["Libye", "Nubie", "Soudan", "Égypte"],
+    "correctIndex": 3
   },
+
   {
     "id": "q75",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel temple cambodgien est resté caché dans la jungle jusqu'à sa redécouverte au XIXe siècle ?",
-    "answers": [
-      "Banteay Srei",
-      "Ta Prohm",
-      "Bayon",
-      "Angkor Wat"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal mythique est symbole de protection des savoirs interdits ?",
+    "answers": ["Le griffon", "Le dragon", "Le lion", "Le sphinx"],
+    "correctIndex": 0
   },
   {
     "id": "q76",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle mystérieuse civilisation a construit la cité de Teotihuacan ?",
-    "answers": [
-      "Mayas",
-      "Aztèques",
-      "Olmèques",
-      "Inconnue"
-    ],
-    "correctIndex": 3
+    "text": "Quel site antique est associé aux rites funéraires royaux de Mycènes ?",
+    "answers": ["Tirynthe", "Mycènes", "Pylos", "Argos"],
+    "correctIndex": 1
   },
+
   {
     "id": "q77",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel explorateur a disparu en 1848 en cherchant un passage dans l'Arctique ?",
-    "answers": [
-      "Robert Falcon Scott",
-      "Sir John Franklin",
-      "Roald Amundsen",
-      "Henry Hudson"
-    ],
-    "correctIndex": 1
+    "text": "Quel phénomène désigne l’influence supposée des lieux sur le comportement humain ?",
+    "answers": ["La suggestion", "La superstition", "La géobiologie", "La psychosociologie"],
+    "correctIndex": 2
   },
   {
     "id": "q78",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel pilote disparu est associé au 'Flight 19' dans le Triangle des Bermudes ?",
-    "answers": [
-      "Fred Noonan",
-      "Antoine de Saint-Exupéry",
-      "Charles Taylor",
-      "Glenn Miller"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé aux temples antiques de Baalbek ?",
+    "answers": ["Syrie", "Jordanie", "Israël", "Liban"],
+    "correctIndex": 3
   },
+
   {
     "id": "q79",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'expédition disparue dans l'Arctique en 1845 dirigée par John Franklin ?",
-    "answers": [
-      "Expédition Franklin",
-      "Expédition Erebus",
-      "Expédition Jeannette",
-      "Expédition Endurance"
-    ],
+    "text": "Quel animal mythique est symbole de force primordiale et de chaos maîtrisé ?",
+    "answers": ["Le dragon", "Le taureau", "Le lion", "Le serpent"],
     "correctIndex": 0
   },
   {
     "id": "q80",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle civilisation a sculpté les têtes géantes de l'île de Pâques ?",
-    "answers": [
-      "Polynésiens",
-      "Rapa Nui",
-      "Chamorro",
-      "Maoris"
-    ],
+    "text": "Quel site antique est associé aux mystères de la civilisation phénicienne ?",
+    "answers": ["Sidon", "Byblos", "Tyr", "Arwad"],
     "correctIndex": 1
   },
+
   {
     "id": "q81",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle mystérieuse civilisation a construit la cité de Teotihuacan ?",
-    "answers": [
-      "Aztèques",
-      "Olmèques",
-      "Inconnue",
-      "Mayas"
-    ],
+    "text": "Quel terme désigne la tentative de prédire l’avenir par l’observation des astres ?",
+    "answers": ["L’astronomie", "La cosmologie", "L’astrologie", "La mythologie"],
     "correctIndex": 2
   },
   {
     "id": "q82",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel explorateur a disparu en 1848 en cherchant un passage dans l'Arctique ?",
-    "answers": [
-      "Roald Amundsen",
-      "Robert Falcon Scott",
-      "Sir John Franklin",
-      "Henry Hudson"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé aux temples antiques de Tikal ?",
+    "answers": ["Mexique", "Belize", "Honduras", "Guatemala"],
+    "correctIndex": 3
   },
+
   {
     "id": "q83",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel explorateur a disparu en 1848 en cherchant un passage dans l'Arctique ?",
-    "answers": [
-      "Roald Amundsen",
-      "Henry Hudson",
-      "Sir John Franklin",
-      "Robert Falcon Scott"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal mythique est associé à la prophétie et à la vision du futur ?",
+    "answers": ["Le corbeau", "Le serpent", "Le dragon", "Le cheval"],
+    "correctIndex": 0
   },
   {
     "id": "q84",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle civilisation a sculpté les têtes géantes de l'île de Pâques ?",
-    "answers": [
-      "Rapa Nui",
-      "Polynésiens",
-      "Chamorro",
-      "Maoris"
-    ],
-    "correctIndex": 0
+    "text": "Quel site antique est lié aux mystères religieux de la Perse antique ?",
+    "answers": ["Suse", "Persépolis", "Ecbatane", "Pasargades"],
+    "correctIndex": 1
   },
+
   {
     "id": "q85",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'expédition disparue dans l'Arctique en 1845 dirigée par John Franklin ?",
-    "answers": [
-      "Expédition Endurance",
-      "Expédition Jeannette",
-      "Expédition Franklin",
-      "Expédition Erebus"
-    ],
+    "text": "Quel phénomène désigne l’expérience de sortie supposée du corps physique ?",
+    "answers": ["La lévitation", "La transe", "La décorporation", "La méditation"],
     "correctIndex": 2
   },
   {
     "id": "q86",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel explorateur a disparu en 1848 en cherchant un passage dans l'Arctique ?",
-    "answers": [
-      "Robert Falcon Scott",
-      "Roald Amundsen",
-      "Sir John Franklin",
-      "Henry Hudson"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé aux temples antiques de Petra ?",
+    "answers": ["Syrie", "Arabie saoudite", "Israël", "Jordanie"],
+    "correctIndex": 3
   },
+
   {
     "id": "q87",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle civilisation a sculpté les têtes géantes de l'île de Pâques ?",
-    "answers": [
-      "Polynésiens",
-      "Chamorro",
-      "Maoris",
-      "Rapa Nui"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal mythique est symbole de l’épreuve initiatique suprême ?",
+    "answers": ["Le dragon", "Le lion", "Le taureau", "Le griffon"],
+    "correctIndex": 0
   },
   {
     "id": "q88",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle civilisation a sculpté les têtes géantes de l'île de Pâques ?",
-    "answers": [
-      "Chamorro",
-      "Rapa Nui",
-      "Maoris",
-      "Polynésiens"
-    ],
+    "text": "Quel site antique est associé aux mystères de la civilisation olmèque ?",
+    "answers": ["Monte Albán", "La Venta", "Teotihuacan", "Palenque"],
     "correctIndex": 1
   },
+
   {
     "id": "q89",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel temple cambodgien est resté caché dans la jungle jusqu'à sa redécouverte au XIXe siècle ?",
-    "answers": [
-      "Angkor Wat",
-      "Bayon",
-      "Ta Prohm",
-      "Banteay Srei"
-    ],
-    "correctIndex": 0
+    "text": "Quel terme désigne la croyance en une connaissance cachée réservée aux initiés ?",
+    "answers": ["La religion", "La mystique", "L’ésotérisme", "La théologie"],
+    "correctIndex": 2
   },
   {
     "id": "q90",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel explorateur a disparu en 1848 en cherchant un passage dans l'Arctique ?",
-    "answers": [
-      "Sir John Franklin",
-      "Henry Hudson",
-      "Roald Amundsen",
-      "Robert Falcon Scott"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays est associé aux temples antiques de Louxor ?",
+    "answers": ["Soudan", "Libye", "Nubie", "Égypte"],
+    "correctIndex": 3
   },
+
   {
     "id": "q91",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel manuscrit médiéval contient des illustrations botaniques étranges et illisibles ?",
-    "answers": [
-      "Manuscrit de Voynich",
-      "Codex Seraphinianus",
-      "Codex Rohonczi",
-      "Livre de Kells"
-    ],
+    "text": "Quel animal mythique est symbole de vigilance éternelle ?",
+    "answers": ["Le sphinx", "Le dragon", "Le lion", "Le griffon"],
     "correctIndex": 0
   },
   {
     "id": "q92",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel explorateur a disparu en 1848 en cherchant un passage dans l'Arctique ?",
-    "answers": [
-      "Roald Amundsen",
-      "Henry Hudson",
-      "Sir John Franklin",
-      "Robert Falcon Scott"
-    ],
-    "correctIndex": 2
+    "text": "Quel site antique est associé aux mystères du culte de Mithra ?",
+    "answers": ["Rome", "Ostie", "Pergame", "Antioche"],
+    "correctIndex": 1
   },
+
   {
     "id": "q93",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel temple cambodgien est resté caché dans la jungle jusqu'à sa redécouverte au XIXe siècle ?",
-    "answers": [
-      "Ta Prohm",
-      "Bayon",
-      "Angkor Wat",
-      "Banteay Srei"
-    ],
+    "text": "Quel phénomène désigne la croyance en la réincarnation de l’âme ?",
+    "answers": ["La transmigration", "La résurrection", "La métempsycose", "La spiritualité"],
     "correctIndex": 2
   },
   {
     "id": "q94",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel étrange signal radio capté en 1977 reste inexpliqué ?",
-    "answers": [
-      "Signal Wow!",
-      "Chorus",
-      "Bruit Bloop",
-      "Whistler"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays est associé aux temples antiques de Bagan ?",
+    "answers": ["Thaïlande", "Cambodge", "Laos", "Myanmar"],
+    "correctIndex": 3
   },
+
   {
     "id": "q95",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel étrange signal radio capté en 1977 reste inexpliqué ?",
-    "answers": [
-      "Whistler",
-      "Signal Wow!",
-      "Bruit Bloop",
-      "Chorus"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal mythique est associé à la justice cosmique ?",
+    "answers": ["Le lion", "Le dragon", "Le griffon", "Le taureau"],
+    "correctIndex": 0
   },
   {
     "id": "q96",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel monolithe mystérieux se trouve en Écosse et reste inexpliqué ?",
-    "answers": [
-      "Piedra de Cochno",
-      "Pierre de Rosette",
-      "Piedra del Sol",
-      "Menhir de Callanish"
-    ],
-    "correctIndex": 0
+    "text": "Quel site antique est lié aux mystères de la civilisation étrusque ?",
+    "answers": ["Tarquinia", "Cerveteri", "Volterra", "Veies"],
+    "correctIndex": 1
   },
+
   {
     "id": "q97",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel manuscrit médiéval contient des illustrations botaniques étranges et illisibles ?",
-    "answers": [
-      "Codex Seraphinianus",
-      "Livre de Kells",
-      "Codex Rohonczi",
-      "Manuscrit de Voynich"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène désigne l’interprétation symbolique des éclipses ?",
+    "answers": ["L’astronomie", "La cosmologie", "L’astromancie", "La mythologie"],
+    "correctIndex": 2
   },
   {
     "id": "q98",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle mystérieuse civilisation a construit la cité de Teotihuacan ?",
-    "answers": [
-      "Olmèques",
-      "Mayas",
-      "Inconnue",
-      "Aztèques"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé aux temples antiques de Delphes ?",
+    "answers": ["Italie", "Macédoine", "Crète", "Grèce"],
+    "correctIndex": 3
   },
+
   {
     "id": "q99",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel manuscrit médiéval contient des illustrations botaniques étranges et illisibles ?",
-    "answers": [
-      "Manuscrit de Voynich",
-      "Codex Seraphinianus",
-      "Codex Rohonczi",
-      "Livre de Kells"
-    ],
+    "text": "Quel animal mythique est symbole d’éternité cyclique ?",
+    "answers": ["Le serpent", "Le dragon", "Le corbeau", "Le sphinx"],
     "correctIndex": 0
   },
   {
     "id": "q100",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel monolithe mystérieux se trouve en Écosse et reste inexpliqué ?",
-    "answers": [
-      "Piedra del Sol",
-      "Pierre de Rosette",
-      "Menhir de Callanish",
-      "Piedra de Cochno"
-    ],
-    "correctIndex": 3
+    "text": "Quel site antique est associé aux mystères religieux les plus anciens de l’Inde ?",
+    "answers": ["Harappa", "Mohenjo-daro", "Varanasi", "Lothal"],
+    "correctIndex": 1
   },
   {
     "id": "q101",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel monolithe mystérieux se trouve en Écosse et reste inexpliqué ?",
-    "answers": [
-      "Pierre de Rosette",
-      "Piedra de Cochno",
-      "Menhir de Callanish",
-      "Piedra del Sol"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal mythique est associé à la surveillance des lieux sacrés dans l’Antiquité ?",
+    "answers": ["Le sphinx", "Le dragon", "Le lion", "Le griffon"],
+    "correctIndex": 0
   },
   {
     "id": "q102",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle mystérieuse civilisation a construit la cité de Teotihuacan ?",
-    "answers": [
-      "Inconnue",
-      "Mayas",
-      "Olmèques",
-      "Aztèques"
-    ],
-    "correctIndex": 0
+    "text": "Quel site antique est associé aux mystères religieux de la cité de Samothrace ?",
+    "answers": ["Delphes", "Samothrace", "Éleusis", "Dodone"],
+    "correctIndex": 1
   },
   {
     "id": "q103",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel explorateur a disparu en 1848 en cherchant un passage dans l'Arctique ?",
-    "answers": [
-      "Sir John Franklin",
-      "Henry Hudson",
-      "Robert Falcon Scott",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 0
+    "text": "Quel phénomène désigne la perception de voix sans stimulus auditif externe ?",
+    "answers": ["La synesthésie", "La paréidolie", "L’hallucination auditive", "La télépathie"],
+    "correctIndex": 2
   },
   {
     "id": "q104",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle mystérieuse civilisation a construit la cité de Teotihuacan ?",
-    "answers": [
-      "Aztèques",
-      "Olmèques",
-      "Mayas",
-      "Inconnue"
-    ],
+    "text": "Quel pays est associé aux temples antiques de Göreme ?",
+    "answers": ["Grèce", "Iran", "Arménie", "Turquie"],
     "correctIndex": 3
   },
+
   {
     "id": "q105",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel étrange signal radio capté en 1977 reste inexpliqué ?",
-    "answers": [
-      "Chorus",
-      "Signal Wow!",
-      "Bruit Bloop",
-      "Whistler"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal mythique est symbole de la connaissance énigmatique et des épreuves intellectuelles ?",
+    "answers": ["Le sphinx", "Le dragon", "Le serpent", "Le corbeau"],
+    "correctIndex": 0
   },
   {
     "id": "q106",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'expédition disparue dans l'Arctique en 1845 dirigée par John Franklin ?",
-    "answers": [
-      "Expédition Franklin",
-      "Expédition Erebus",
-      "Expédition Jeannette",
-      "Expédition Endurance"
-    ],
-    "correctIndex": 0
+    "text": "Quel site antique est associé aux cultes orphiques de la Grèce ancienne ?",
+    "answers": ["Delphes", "Éleusis", "Thèbes", "Corinthe"],
+    "correctIndex": 1
   },
   {
     "id": "q107",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle mystérieuse civilisation a construit la cité de Teotihuacan ?",
-    "answers": [
-      "Mayas",
-      "Aztèques",
-      "Olmèques",
-      "Inconnue"
-    ],
-    "correctIndex": 3
+    "text": "Quel terme désigne l’art divinatoire fondé sur l’observation du feu ?",
+    "answers": ["La pyromancie", "La nécromancie", "La théurgie", "L’augure"],
+    "correctIndex": 2
   },
   {
     "id": "q108",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel explorateur a disparu en 1848 en cherchant un passage dans l'Arctique ?",
-    "answers": [
-      "Robert Falcon Scott",
-      "Henry Hudson",
-      "Sir John Franklin",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé aux temples antiques de Borobudur ?",
+    "answers": ["Thaïlande", "Cambodge", "Malaisie", "Indonésie"],
+    "correctIndex": 3
   },
+
   {
     "id": "q109",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle mystérieuse civilisation a construit la cité de Teotihuacan ?",
-    "answers": [
-      "Aztèques",
-      "Inconnue",
-      "Mayas",
-      "Olmèques"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal mythique est symbole de la frontière entre le monde des vivants et celui des morts ?",
+    "answers": ["Le chien", "Le serpent", "Le dragon", "Le taureau"],
+    "correctIndex": 0
   },
   {
     "id": "q110",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'expédition disparue dans l'Arctique en 1845 dirigée par John Franklin ?",
-    "answers": [
-      "Expédition Endurance",
-      "Expédition Erebus",
-      "Expédition Jeannette",
-      "Expédition Franklin"
-    ],
-    "correctIndex": 3
+    "text": "Quel site antique est associé aux mystères du culte d’Isis hors d’Égypte ?",
+    "answers": ["Alexandrie", "Délos", "Athènes", "Rome"],
+    "correctIndex": 1
   },
+
   {
     "id": "q111",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel pilote disparu est associé au 'Flight 19' dans le Triangle des Bermudes ?",
-    "answers": [
-      "Glenn Miller",
-      "Fred Noonan",
-      "Antoine de Saint-Exupéry",
-      "Charles Taylor"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène désigne l’interprétation symbolique des rêves lucides ?",
+    "answers": ["La mantique", "La divination", "L’onirologie", "La théurgie"],
+    "correctIndex": 2
   },
   {
     "id": "q112",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle civilisation a sculpté les têtes géantes de l'île de Pâques ?",
-    "answers": [
-      "Rapa Nui",
-      "Polynésiens",
-      "Maoris",
-      "Chamorro"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays est associé aux temples antiques d’Angkor Vat ?",
+    "answers": ["Thaïlande", "Vietnam", "Laos", "Cambodge"],
+    "correctIndex": 3
   },
+
   {
     "id": "q113",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle mystérieuse civilisation a construit la cité de Teotihuacan ?",
-    "answers": [
-      "Inconnue",
-      "Aztèques",
-      "Mayas",
-      "Olmèques"
-    ],
+    "text": "Quel animal mythique est associé à la transmission du savoir occulte ?",
+    "answers": ["Le serpent", "Le dragon", "Le griffon", "Le lion"],
     "correctIndex": 0
   },
   {
     "id": "q114",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'expédition disparue dans l'Arctique en 1845 dirigée par John Franklin ?",
-    "answers": [
-      "Expédition Erebus",
-      "Expédition Franklin",
-      "Expédition Jeannette",
-      "Expédition Endurance"
-    ],
+    "text": "Quel site antique est associé aux mystères de la civilisation lydienne ?",
+    "answers": ["Pergame", "Sardes", "Milet", "Éphèse"],
     "correctIndex": 1
   },
+
   {
     "id": "q115",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle mystérieuse civilisation a construit la cité de Teotihuacan ?",
-    "answers": [
-      "Aztèques",
-      "Inconnue",
-      "Mayas",
-      "Olmèques"
-    ],
-    "correctIndex": 1
+    "text": "Quel terme désigne la croyance en une connaissance réservée aux initiés ?",
+    "answers": ["La mystique", "La théologie", "L’ésotérisme", "La superstition"],
+    "correctIndex": 2
   },
   {
     "id": "q116",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel explorateur a disparu en 1848 en cherchant un passage dans l'Arctique ?",
-    "answers": [
-      "Robert Falcon Scott",
-      "Roald Amundsen",
-      "Sir John Franklin",
-      "Henry Hudson"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé aux temples antiques de Lalibela ?",
+    "answers": ["Soudan", "Égypte", "Érythrée", "Éthiopie"],
+    "correctIndex": 3
   },
+
   {
     "id": "q117",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'expédition disparue dans l'Arctique en 1845 dirigée par John Franklin ?",
-    "answers": [
-      "Expédition Jeannette",
-      "Expédition Franklin",
-      "Expédition Endurance",
-      "Expédition Erebus"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal mythique est symbole de renaissance et de cycle éternel ?",
+    "answers": ["Le phénix", "Le dragon", "Le serpent", "Le griffon"],
+    "correctIndex": 0
   },
   {
     "id": "q118",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel étrange signal radio capté en 1977 reste inexpliqué ?",
-    "answers": [
-      "Chorus",
-      "Bruit Bloop",
-      "Signal Wow!",
-      "Whistler"
-    ],
-    "correctIndex": 2
+    "text": "Quel site antique est associé aux mystères funéraires royaux de l’Égypte ancienne ?",
+    "answers": ["Memphis", "Abydos", "Thèbes", "Saqqarah"],
+    "correctIndex": 1
   },
+
   {
     "id": "q119",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel monolithe mystérieux se trouve en Écosse et reste inexpliqué ?",
-    "answers": [
-      "Piedra del Sol",
-      "Piedra de Cochno",
-      "Menhir de Callanish",
-      "Pierre de Rosette"
-    ],
-    "correctIndex": 1
+    "text": "Quel phénomène désigne la croyance en la transmigration de l’âme ?",
+    "answers": ["La réincarnation", "La résurrection", "La métempsycose", "La spiritualité"],
+    "correctIndex": 2
   },
   {
     "id": "q120",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'expédition disparue dans l'Arctique en 1845 dirigée par John Franklin ?",
-    "answers": [
-      "Expédition Erebus",
-      "Expédition Endurance",
-      "Expédition Franklin",
-      "Expédition Jeannette"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé aux temples antiques de Baalbek ?",
+    "answers": ["Syrie", "Jordanie", "Israël", "Liban"],
+    "correctIndex": 3
   },
+
   {
     "id": "q121",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel manuscrit médiéval contient des illustrations botaniques étranges et illisibles ?",
-    "answers": [
-      "Codex Seraphinianus",
-      "Codex Rohonczi",
-      "Livre de Kells",
-      "Manuscrit de Voynich"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal mythique est associé à la justice divine et cosmique ?",
+    "answers": ["Le lion", "Le dragon", "Le taureau", "Le griffon"],
+    "correctIndex": 0
   },
   {
     "id": "q122",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel explorateur a disparu en 1848 en cherchant un passage dans l'Arctique ?",
-    "answers": [
-      "Robert Falcon Scott",
-      "Sir John Franklin",
-      "Roald Amundsen",
-      "Henry Hudson"
-    ],
+    "text": "Quel site antique est associé aux mystères de la civilisation phrygienne ?",
+    "answers": ["Gordion", "Sardes", "Pergame", "Hattusa"],
     "correctIndex": 1
   },
+
   {
     "id": "q123",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel pilote disparu est associé au 'Flight 19' dans le Triangle des Bermudes ?",
-    "answers": [
-      "Glenn Miller",
-      "Charles Taylor",
-      "Fred Noonan",
-      "Antoine de Saint-Exupéry"
-    ],
-    "correctIndex": 1
+    "text": "Quel terme désigne la divination par l’observation des nuages ?",
+    "answers": ["L’aéromancie", "La néphomancie", "La météorologie", "L’augure"],
+    "correctIndex": 2
   },
   {
     "id": "q124",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel explorateur a disparu en 1848 en cherchant un passage dans l'Arctique ?",
-    "answers": [
-      "Roald Amundsen",
-      "Robert Falcon Scott",
-      "Henry Hudson",
-      "Sir John Franklin"
-    ],
+    "text": "Quel pays est associé aux temples antiques de Tikal ?",
+    "answers": ["Mexique", "Belize", "Honduras", "Guatemala"],
     "correctIndex": 3
   },
+
   {
     "id": "q125",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle forteresse du désert syrien a été un mystère archéologique ?",
-    "answers": [
-      "Palmyre",
-      "Ebla",
-      "Ugarit",
-      "Mari"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal mythique est associé à la vigilance nocturne et aux présages ?",
+    "answers": ["Le hibou", "Le corbeau", "Le serpent", "Le chien"],
+    "correctIndex": 0
   },
   {
     "id": "q126",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel étrange signal radio capté en 1977 reste inexpliqué ?",
-    "answers": [
-      "Whistler",
-      "Bruit Bloop",
-      "Signal Wow!",
-      "Chorus"
-    ],
-    "correctIndex": 2
+    "text": "Quel site antique est associé aux mystères du zoroastrisme ancien ?",
+    "answers": ["Suse", "Persépolis", "Pasargades", "Ecbatane"],
+    "correctIndex": 1
   },
+
   {
     "id": "q127",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel manuscrit médiéval contient des illustrations botaniques étranges et illisibles ?",
-    "answers": [
-      "Livre de Kells",
-      "Manuscrit de Voynich",
-      "Codex Seraphinianus",
-      "Codex Rohonczi"
-    ],
-    "correctIndex": 1
+    "text": "Quel phénomène désigne la capacité supposée de prédire des catastrophes ?",
+    "answers": ["La prophétie", "La divination", "La précognition", "La superstition"],
+    "correctIndex": 2
   },
   {
     "id": "q128",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle mystérieuse civilisation a construit la cité de Teotihuacan ?",
-    "answers": [
-      "Inconnue",
-      "Mayas",
-      "Olmèques",
-      "Aztèques"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays est associé aux temples antiques de Louxor ?",
+    "answers": ["Libye", "Soudan", "Nubie", "Égypte"],
+    "correctIndex": 3
   },
+
   {
     "id": "q129",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel explorateur a disparu en 1848 en cherchant un passage dans l'Arctique ?",
-    "answers": [
-      "Robert Falcon Scott",
-      "Henry Hudson",
-      "Roald Amundsen",
-      "Sir John Franklin"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal mythique est symbole de sagesse silencieuse et d’observation ?",
+    "answers": ["Le hibou", "Le serpent", "Le dragon", "Le sphinx"],
+    "correctIndex": 0
   },
   {
     "id": "q130",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel manuscrit médiéval contient des illustrations botaniques étranges et illisibles ?",
-    "answers": [
-      "Codex Rohonczi",
-      "Codex Seraphinianus",
-      "Manuscrit de Voynich",
-      "Livre de Kells"
-    ],
-    "correctIndex": 2
+    "text": "Quel site antique est associé aux mystères de la civilisation étrusque tardive ?",
+    "answers": ["Tarquinia", "Cerveteri", "Veies", "Volterra"],
+    "correctIndex": 1
   },
+
   {
     "id": "q131",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel monolithe mystérieux se trouve en Écosse et reste inexpliqué ?",
-    "answers": [
-      "Piedra de Cochno",
-      "Menhir de Callanish",
-      "Pierre de Rosette",
-      "Piedra del Sol"
-    ],
-    "correctIndex": 0
+    "text": "Quel terme désigne l’interprétation symbolique des éclairs et du tonnerre ?",
+    "answers": ["La céraunomancie", "La pyromancie", "La théurgie", "L’astrologie"],
+    "correctIndex": 2
   },
   {
     "id": "q132",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel manuscrit médiéval contient des illustrations botaniques étranges et illisibles ?",
-    "answers": [
-      "Manuscrit de Voynich",
-      "Codex Seraphinianus",
-      "Codex Rohonczi",
-      "Livre de Kells"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays est associé aux temples antiques de Chichén Itzá ?",
+    "answers": ["Guatemala", "Belize", "Honduras", "Mexique"],
+    "correctIndex": 3
   },
+
   {
     "id": "q133",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel explorateur a disparu en 1848 en cherchant un passage dans l'Arctique ?",
-    "answers": [
-      "Robert Falcon Scott",
-      "Sir John Franklin",
-      "Roald Amundsen",
-      "Henry Hudson"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal mythique est symbole de protection des seuils initiatiques ?",
+    "answers": ["Le griffon", "Le dragon", "Le lion", "Le taureau"],
+    "correctIndex": 0
   },
   {
     "id": "q134",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel temple cambodgien est resté caché dans la jungle jusqu'à sa redécouverte au XIXe siècle ?",
-    "answers": [
-      "Banteay Srei",
-      "Ta Prohm",
-      "Bayon",
-      "Angkor Wat"
-    ],
-    "correctIndex": 3
+    "text": "Quel site antique est associé aux mystères du culte de Mithra ?",
+    "answers": ["Rome", "Ostie", "Pergame", "Antioche"],
+    "correctIndex": 1
   },
+
   {
     "id": "q135",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel monolithe mystérieux se trouve en Écosse et reste inexpliqué ?",
-    "answers": [
-      "Menhir de Callanish",
-      "Pierre de Rosette",
-      "Piedra del Sol",
-      "Piedra de Cochno"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène désigne la croyance en une énergie vitale universelle ?",
+    "answers": ["La force", "Le magnétisme", "Le chi", "La spiritualité"],
+    "correctIndex": 2
   },
   {
     "id": "q136",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel pilote disparu est associé au 'Flight 19' dans le Triangle des Bermudes ?",
-    "answers": [
-      "Fred Noonan",
-      "Charles Taylor",
-      "Glenn Miller",
-      "Antoine de Saint-Exupéry"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé aux temples antiques de Mohenjo-daro ?",
+    "answers": ["Inde", "Népal", "Sri Lanka", "Pakistan"],
+    "correctIndex": 3
   },
+
   {
     "id": "q137",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle forteresse du désert syrien a été un mystère archéologique ?",
-    "answers": [
-      "Ugarit",
-      "Palmyre",
-      "Mari",
-      "Ebla"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal mythique est associé à la maîtrise du chaos primordial ?",
+    "answers": ["Le dragon", "Le serpent", "Le taureau", "Le lion"],
+    "correctIndex": 0
   },
   {
     "id": "q138",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle forteresse du désert syrien a été un mystère archéologique ?",
-    "answers": [
-      "Ebla",
-      "Ugarit",
-      "Mari",
-      "Palmyre"
-    ],
-    "correctIndex": 2
+    "text": "Quel site antique est associé aux mystères de la civilisation carthaginoise ?",
+    "answers": ["Utique", "Carthage", "Hippo Regius", "Byrsa"],
+    "correctIndex": 1
   },
+
   {
     "id": "q139",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel pilote disparu est associé au 'Flight 19' dans le Triangle des Bermudes ?",
-    "answers": [
-      "Fred Noonan",
-      "Charles Taylor",
-      "Antoine de Saint-Exupéry",
-      "Glenn Miller"
-    ],
-    "correctIndex": 1
+    "text": "Quel terme désigne la communication supposée avec des entités non humaines ?",
+    "answers": ["La médiumnité", "La théurgie", "Le channeling", "La divination"],
+    "correctIndex": 2
   },
   {
     "id": "q140",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel manuscrit médiéval contient des illustrations botaniques étranges et illisibles ?",
-    "answers": [
-      "Manuscrit de Voynich",
-      "Livre de Kells",
-      "Codex Seraphinianus",
-      "Codex Rohonczi"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays est associé aux temples antiques de Delphes ?",
+    "answers": ["Italie", "Macédoine", "Crète", "Grèce"],
+    "correctIndex": 3
   },
+
   {
     "id": "q141",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle forteresse du désert syrien a été un mystère archéologique ?",
-    "answers": [
-      "Mari",
-      "Palmyre",
-      "Ebla",
-      "Ugarit"
-    ],
+    "text": "Quel animal mythique est symbole de l’énigme et du savoir caché ?",
+    "answers": ["Le sphinx", "Le dragon", "Le serpent", "Le corbeau"],
     "correctIndex": 0
   },
   {
     "id": "q142",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel pilote disparu est associé au 'Flight 19' dans le Triangle des Bermudes ?",
-    "answers": [
-      "Charles Taylor",
-      "Glenn Miller",
-      "Fred Noonan",
-      "Antoine de Saint-Exupéry"
-    ],
-    "correctIndex": 0
+    "text": "Quel site antique est associé aux mystères religieux de l’île de Délos ?",
+    "answers": ["Rhodes", "Délos", "Naxos", "Paros"],
+    "correctIndex": 1
   },
+
   {
     "id": "q143",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel pilote disparu est associé au 'Flight 19' dans le Triangle des Bermudes ?",
-    "answers": [
-      "Fred Noonan",
-      "Charles Taylor",
-      "Glenn Miller",
-      "Antoine de Saint-Exupéry"
-    ],
-    "correctIndex": 1
+    "text": "Quel phénomène désigne l’étude symbolique des signes célestes ?",
+    "answers": ["L’astronomie", "La cosmologie", "L’astromancie", "La physique"],
+    "correctIndex": 2
   },
   {
     "id": "q144",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel monolithe mystérieux se trouve en Écosse et reste inexpliqué ?",
-    "answers": [
-      "Menhir de Callanish",
-      "Piedra de Cochno",
-      "Pierre de Rosette",
-      "Piedra del Sol"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé aux temples antiques de Bagan ?",
+    "answers": ["Thaïlande", "Cambodge", "Laos", "Myanmar"],
+    "correctIndex": 3
   },
+
   {
     "id": "q145",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'expédition disparue dans l'Arctique en 1845 dirigée par John Franklin ?",
-    "answers": [
-      "Expédition Franklin",
-      "Expédition Jeannette",
-      "Expédition Endurance",
-      "Expédition Erebus"
-    ],
+    "text": "Quel animal mythique est symbole d’épreuve initiatique ultime ?",
+    "answers": ["Le dragon", "Le lion", "Le taureau", "Le griffon"],
     "correctIndex": 0
   },
   {
     "id": "q146",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel pilote disparu est associé au 'Flight 19' dans le Triangle des Bermudes ?",
-    "answers": [
-      "Antoine de Saint-Exupéry",
-      "Fred Noonan",
-      "Glenn Miller",
-      "Charles Taylor"
-    ],
-    "correctIndex": 3
+    "text": "Quel site antique est associé aux mystères de la civilisation sumérienne ?",
+    "answers": ["Lagash", "Uruk", "Nippur", "Eridu"],
+    "correctIndex": 1
   },
+
   {
     "id": "q147",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'expédition disparue dans l'Arctique en 1845 dirigée par John Franklin ?",
-    "answers": [
-      "Expédition Endurance",
-      "Expédition Erebus",
-      "Expédition Franklin",
-      "Expédition Jeannette"
-    ],
+    "text": "Quel terme désigne la croyance en des forces invisibles gouvernant le monde ?",
+    "answers": ["Le mysticisme", "La superstition", "L’animisme", "La mythologie"],
     "correctIndex": 2
   },
   {
     "id": "q148",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel explorateur a disparu en 1848 en cherchant un passage dans l'Arctique ?",
-    "answers": [
-      "Robert Falcon Scott",
-      "Roald Amundsen",
-      "Henry Hudson",
-      "Sir John Franklin"
-    ],
+    "text": "Quel pays est associé aux temples antiques de Karnak ?",
+    "answers": ["Libye", "Soudan", "Nubie", "Égypte"],
     "correctIndex": 3
   },
+
   {
     "id": "q149",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle forteresse du désert syrien a été un mystère archéologique ?",
-    "answers": [
-      "Ugarit",
-      "Ebla",
-      "Mari",
-      "Palmyre"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal mythique est symbole de protection spirituelle absolue ?",
+    "answers": ["Le griffon", "Le dragon", "Le lion", "Le sphinx"],
+    "correctIndex": 0
   },
   {
     "id": "q150",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel explorateur a disparu en 1848 en cherchant un passage dans l'Arctique ?",
-    "answers": [
-      "Robert Falcon Scott",
-      "Henry Hudson",
-      "Roald Amundsen",
-      "Sir John Franklin"
-    ],
-    "correctIndex": 3
+    "text": "Quel site antique est associé aux mystères les plus anciens de la Mésopotamie ?",
+    "answers": ["Ur", "Uruk", "Nippur", "Babylone"],
+    "correctIndex": 1
   },
   {
     "id": "q151",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel pilote disparu est associé au 'Flight 19' dans le Triangle des Bermudes ?",
-    "answers": [
-      "Glenn Miller",
-      "Fred Noonan",
-      "Antoine de Saint-Exupéry",
-      "Charles Taylor"
-    ],
-    "correctIndex": 3
+    "text": "Quel terme désigne l’interprétation symbolique des signes observés dans la nature à des fins divinatoires ?",
+    "answers": ["La théurgie", "La mystique", "La mantique", "La superstition"],
+    "correctIndex": 2
   },
   {
     "id": "q152",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel manuscrit médiéval contient des illustrations botaniques étranges et illisibles ?",
-    "answers": [
-      "Codex Rohonczi",
-      "Manuscrit de Voynich",
-      "Codex Seraphinianus",
-      "Livre de Kells"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé aux temples antiques de Teotihuacan ?",
+    "answers": ["Guatemala", "Pérou", "Honduras", "Mexique"],
+    "correctIndex": 3
   },
   {
     "id": "q153",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel monolithe mystérieux se trouve en Écosse et reste inexpliqué ?",
-    "answers": [
-      "Pierre de Rosette",
-      "Piedra de Cochno",
-      "Piedra del Sol",
-      "Menhir de Callanish"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal mythique est symbole de savoir interdit et de ruse ?",
+    "answers": ["Le serpent", "Le dragon", "Le corbeau", "Le sphinx"],
+    "correctIndex": 0
   },
   {
     "id": "q154",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle civilisation a sculpté les têtes géantes de l'île de Pâques ?",
-    "answers": [
-      "Polynésiens",
-      "Maoris",
-      "Rapa Nui",
-      "Chamorro"
-    ],
-    "correctIndex": 2
+    "text": "Quel site antique est associé aux mystères religieux de l’île de Philae ?",
+    "answers": ["Abydos", "Philae", "Saqqarah", "Memphis"],
+    "correctIndex": 1
   },
+
   {
     "id": "q155",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel manuscrit médiéval contient des illustrations botaniques étranges et illisibles ?",
-    "answers": [
-      "Livre de Kells",
-      "Codex Rohonczi",
-      "Manuscrit de Voynich",
-      "Codex Seraphinianus"
-    ],
+    "text": "Quel phénomène désigne la croyance selon laquelle certains individus perçoivent des réalités invisibles ?",
+    "answers": ["La superstition", "La foi", "La clairvoyance", "La suggestion"],
     "correctIndex": 2
   },
   {
     "id": "q156",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle forteresse du désert syrien a été un mystère archéologique ?",
-    "answers": [
-      "Ebla",
-      "Ugarit",
-      "Palmyre",
-      "Mari"
-    ],
+    "text": "Quel pays est associé aux temples antiques de Sukhothai ?",
+    "answers": ["Laos", "Cambodge", "Myanmar", "Thaïlande"],
     "correctIndex": 3
   },
+
   {
     "id": "q157",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle civilisation a sculpté les têtes géantes de l'île de Pâques ?",
-    "answers": [
-      "Chamorro",
-      "Rapa Nui",
-      "Polynésiens",
-      "Maoris"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal mythique est associé à la protection des lieux sacrés souterrains ?",
+    "answers": ["Le griffon", "Le dragon", "Le lion", "Le serpent"],
+    "correctIndex": 0
   },
   {
     "id": "q158",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle forteresse du désert syrien a été un mystère archéologique ?",
-    "answers": [
-      "Ugarit",
-      "Ebla",
-      "Mari",
-      "Palmyre"
-    ],
-    "correctIndex": 2
+    "text": "Quel site antique est associé aux mystères du culte d’Apollon ?",
+    "answers": ["Olympie", "Delphes", "Dodone", "Épidaure"],
+    "correctIndex": 1
   },
+
   {
     "id": "q159",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel monolithe mystérieux se trouve en Écosse et reste inexpliqué ?",
-    "answers": [
-      "Piedra de Cochno",
-      "Menhir de Callanish",
-      "Pierre de Rosette",
-      "Piedra del Sol"
-    ],
-    "correctIndex": 0
+    "text": "Quel terme désigne la divination par l’observation des mouvements de l’eau ?",
+    "answers": ["La pyromancie", "La chiromancie", "L’hydromancie", "La géomancie"],
+    "correctIndex": 2
   },
   {
     "id": "q160",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle forteresse du désert syrien a été un mystère archéologique ?",
-    "answers": [
-      "Palmyre",
-      "Ebla",
-      "Mari",
-      "Ugarit"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé aux temples antiques de Persepolis ?",
+    "answers": ["Irak", "Syrie", "Turquie", "Iran"],
+    "correctIndex": 3
   },
+
   {
     "id": "q161",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel étrange signal radio capté en 1977 reste inexpliqué ?",
-    "answers": [
-      "Signal Wow!",
-      "Chorus",
-      "Whistler",
-      "Bruit Bloop"
-    ],
+    "text": "Quel animal mythique est symbole de renaissance spirituelle après l’épreuve ?",
+    "answers": ["Le phénix", "Le dragon", "Le serpent", "Le griffon"],
     "correctIndex": 0
   },
   {
     "id": "q162",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle civilisation a sculpté les têtes géantes de l'île de Pâques ?",
-    "answers": [
-      "Rapa Nui",
-      "Maoris",
-      "Chamorro",
-      "Polynésiens"
-    ],
-    "correctIndex": 0
+    "text": "Quel site antique est associé aux mystères du culte d’Osiris ?",
+    "answers": ["Memphis", "Abydos", "Thèbes", "Saqqarah"],
+    "correctIndex": 1
   },
+
   {
     "id": "q163",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel monolithe mystérieux se trouve en Écosse et reste inexpliqué ?",
-    "answers": [
-      "Piedra del Sol",
-      "Menhir de Callanish",
-      "Pierre de Rosette",
-      "Piedra de Cochno"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène désigne la croyance en une influence occulte des nombres ?",
+    "answers": ["La géométrie sacrée", "La mathématique", "La numérologie", "La symbolique"],
+    "correctIndex": 2
   },
   {
     "id": "q164",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel manuscrit médiéval contient des illustrations botaniques étranges et illisibles ?",
-    "answers": [
-      "Codex Seraphinianus",
-      "Codex Rohonczi",
-      "Manuscrit de Voynich",
-      "Livre de Kells"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé aux temples antiques de Sigiriya ?",
+    "answers": ["Inde", "Pakistan", "Bangladesh", "Sri Lanka"],
+    "correctIndex": 3
   },
+
   {
     "id": "q165",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'expédition disparue dans l'Arctique en 1845 dirigée par John Franklin ?",
-    "answers": [
-      "Expédition Jeannette",
-      "Expédition Endurance",
-      "Expédition Franklin",
-      "Expédition Erebus"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal mythique est symbole de vigilance éternelle des savoirs cachés ?",
+    "answers": ["Le sphinx", "Le lion", "Le dragon", "Le taureau"],
+    "correctIndex": 0
   },
   {
     "id": "q166",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel pilote disparu est associé au 'Flight 19' dans le Triangle des Bermudes ?",
-    "answers": [
-      "Glenn Miller",
-      "Antoine de Saint-Exupéry",
-      "Fred Noonan",
-      "Charles Taylor"
-    ],
-    "correctIndex": 3
+    "text": "Quel site antique est associé aux mystères du culte de Dionysos ?",
+    "answers": ["Delphes", "Éleusis", "Thèbes", "Athènes"],
+    "correctIndex": 1
   },
+
   {
     "id": "q167",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'expédition disparue dans l'Arctique en 1845 dirigée par John Franklin ?",
-    "answers": [
-      "Expédition Endurance",
-      "Expédition Erebus",
-      "Expédition Jeannette",
-      "Expédition Franklin"
-    ],
-    "correctIndex": 3
+    "text": "Quel terme désigne la croyance en l’existence d’un principe vital universel ?",
+    "answers": ["La foi", "Le mysticisme", "L’animisme", "La métaphysique"],
+    "correctIndex": 2
   },
   {
     "id": "q168",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'expédition disparue dans l'Arctique en 1845 dirigée par John Franklin ?",
-    "answers": [
-      "Expédition Erebus",
-      "Expédition Endurance",
-      "Expédition Franklin",
-      "Expédition Jeannette"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé aux temples antiques de Hattusa ?",
+    "answers": ["Grèce", "Iran", "Syrie", "Turquie"],
+    "correctIndex": 3
   },
+
   {
     "id": "q169",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel manuscrit médiéval contient des illustrations botaniques étranges et illisibles ?",
-    "answers": [
-      "Livre de Kells",
-      "Codex Rohonczi",
-      "Manuscrit de Voynich",
-      "Codex Seraphinianus"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal mythique est associé à la frontière entre chaos et ordre cosmique ?",
+    "answers": ["Le dragon", "Le lion", "Le serpent", "Le griffon"],
+    "correctIndex": 0
   },
   {
     "id": "q170",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle forteresse du désert syrien a été un mystère archéologique ?",
-    "answers": [
-      "Mari",
-      "Ebla",
-      "Palmyre",
-      "Ugarit"
-    ],
-    "correctIndex": 0
+    "text": "Quel site antique est associé aux mystères de la civilisation hittite ?",
+    "answers": ["Troie", "Hattusa", "Pergame", "Sardes"],
+    "correctIndex": 1
   },
+
   {
     "id": "q171",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle civilisation a sculpté les têtes géantes de l'île de Pâques ?",
-    "answers": [
-      "Chamorro",
-      "Rapa Nui",
-      "Maoris",
-      "Polynésiens"
-    ],
-    "correctIndex": 1
+    "text": "Quel phénomène désigne la communication supposée avec des esprits par transe ?",
+    "answers": ["La divination", "La prophétie", "La médiumnité", "La suggestion"],
+    "correctIndex": 2
   },
   {
     "id": "q172",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle civilisation a sculpté les têtes géantes de l'île de Pâques ?",
-    "answers": [
-      "Maoris",
-      "Chamorro",
-      "Polynésiens",
-      "Rapa Nui"
-    ],
+    "text": "Quel pays est associé aux temples antiques de Karnak ?",
+    "answers": ["Libye", "Soudan", "Nubie", "Égypte"],
     "correctIndex": 3
   },
+
   {
     "id": "q173",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel temple cambodgien est resté caché dans la jungle jusqu'à sa redécouverte au XIXe siècle ?",
-    "answers": [
-      "Angkor Wat",
-      "Banteay Srei",
-      "Ta Prohm",
-      "Bayon"
-    ],
+    "text": "Quel animal mythique est symbole de protection céleste et terrestre ?",
+    "answers": ["Le griffon", "Le dragon", "Le lion", "Le sphinx"],
     "correctIndex": 0
   },
   {
     "id": "q174",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel temple cambodgien est resté caché dans la jungle jusqu'à sa redécouverte au XIXe siècle ?",
-    "answers": [
-      "Bayon",
-      "Angkor Wat",
-      "Banteay Srei",
-      "Ta Prohm"
-    ],
+    "text": "Quel site antique est associé aux mystères de la civilisation phénicienne ?",
+    "answers": ["Sidon", "Byblos", "Tyr", "Arwad"],
     "correctIndex": 1
   },
+
   {
     "id": "q175",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel pilote disparu est associé au 'Flight 19' dans le Triangle des Bermudes ?",
-    "answers": [
-      "Glenn Miller",
-      "Fred Noonan",
-      "Antoine de Saint-Exupéry",
-      "Charles Taylor"
-    ],
-    "correctIndex": 3
+    "text": "Quel terme désigne la divination par l’observation des pierres ou du sol ?",
+    "answers": ["La lithomancie", "La chiromancie", "La géomancie", "La céraunomancie"],
+    "correctIndex": 2
   },
   {
     "id": "q176",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'expédition disparue dans l'Arctique en 1845 dirigée par John Franklin ?",
-    "answers": [
-      "Expédition Jeannette",
-      "Expédition Franklin",
-      "Expédition Endurance",
-      "Expédition Erebus"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé aux temples antiques de Palenque ?",
+    "answers": ["Guatemala", "Belize", "Honduras", "Mexique"],
+    "correctIndex": 3
   },
+
   {
     "id": "q177",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel étrange signal radio capté en 1977 reste inexpliqué ?",
-    "answers": [
-      "Signal Wow!",
-      "Whistler",
-      "Chorus",
-      "Bruit Bloop"
-    ],
+    "text": "Quel animal mythique est symbole de transmission ancestrale du savoir ?",
+    "answers": ["Le corbeau", "Le serpent", "Le dragon", "Le sphinx"],
     "correctIndex": 0
   },
   {
     "id": "q178",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel manuscrit médiéval contient des illustrations botaniques étranges et illisibles ?",
-    "answers": [
-      "Codex Seraphinianus",
-      "Codex Rohonczi",
-      "Manuscrit de Voynich",
-      "Livre de Kells"
-    ],
-    "correctIndex": 2
+    "text": "Quel site antique est associé aux mystères de la civilisation minoenne ?",
+    "answers": ["Mycènes", "Cnossos", "Phaistos", "Mallia"],
+    "correctIndex": 1
   },
+
   {
     "id": "q179",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle civilisation a sculpté les têtes géantes de l'île de Pâques ?",
-    "answers": [
-      "Polynésiens",
-      "Rapa Nui",
-      "Maoris",
-      "Chamorro"
-    ],
-    "correctIndex": 1
+    "text": "Quel phénomène désigne la croyance en la sortie de l’âme hors du corps ?",
+    "answers": ["La transe", "La méditation", "La décorporation", "La lévitation"],
+    "correctIndex": 2
   },
   {
     "id": "q180",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel explorateur a disparu en 1848 en cherchant un passage dans l'Arctique ?",
-    "answers": [
-      "Sir John Franklin",
-      "Robert Falcon Scott",
-      "Henry Hudson",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays est associé aux temples antiques de Baalbek ?",
+    "answers": ["Syrie", "Israël", "Jordanie", "Liban"],
+    "correctIndex": 3
   },
+
   {
     "id": "q181",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle mystérieuse civilisation a construit la cité de Teotihuacan ?",
-    "answers": [
-      "Aztèques",
-      "Mayas",
-      "Inconnue",
-      "Olmèques"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal mythique est symbole d’énigme et de passage initiatique ?",
+    "answers": ["Le sphinx", "Le dragon", "Le lion", "Le taureau"],
+    "correctIndex": 0
   },
   {
     "id": "q182",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel temple cambodgien est resté caché dans la jungle jusqu'à sa redécouverte au XIXe siècle ?",
-    "answers": [
-      "Angkor Wat",
-      "Bayon",
-      "Ta Prohm",
-      "Banteay Srei"
-    ],
-    "correctIndex": 0
+    "text": "Quel site antique est associé aux mystères de la civilisation étrusque ?",
+    "answers": ["Tarquinia", "Cerveteri", "Volterra", "Veies"],
+    "correctIndex": 1
   },
+
   {
     "id": "q183",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel pilote disparu est associé au 'Flight 19' dans le Triangle des Bermudes ?",
-    "answers": [
-      "Fred Noonan",
-      "Glenn Miller",
-      "Antoine de Saint-Exupéry",
-      "Charles Taylor"
-    ],
-    "correctIndex": 3
+    "text": "Quel terme désigne l’interprétation symbolique des éclipses célestes ?",
+    "answers": ["L’astronomie", "La cosmologie", "L’astromancie", "La physique"],
+    "correctIndex": 2
   },
   {
     "id": "q184",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel temple cambodgien est resté caché dans la jungle jusqu'à sa redécouverte au XIXe siècle ?",
-    "answers": [
-      "Ta Prohm",
-      "Bayon",
-      "Banteay Srei",
-      "Angkor Wat"
-    ],
+    "text": "Quel pays est associé aux temples antiques de Chichén Itzá ?",
+    "answers": ["Guatemala", "Belize", "Honduras", "Mexique"],
     "correctIndex": 3
   },
+
   {
     "id": "q185",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle civilisation a sculpté les têtes géantes de l'île de Pâques ?",
-    "answers": [
-      "Rapa Nui",
-      "Maoris",
-      "Polynésiens",
-      "Chamorro"
-    ],
+    "text": "Quel animal mythique est symbole de maîtrise des forces invisibles ?",
+    "answers": ["Le dragon", "Le serpent", "Le griffon", "Le lion"],
     "correctIndex": 0
   },
   {
     "id": "q186",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel manuscrit médiéval contient des illustrations botaniques étranges et illisibles ?",
-    "answers": [
-      "Codex Rohonczi",
-      "Manuscrit de Voynich",
-      "Livre de Kells",
-      "Codex Seraphinianus"
-    ],
+    "text": "Quel site antique est associé aux mystères de la civilisation sumérienne ?",
+    "answers": ["Lagash", "Uruk", "Nippur", "Eridu"],
     "correctIndex": 1
   },
+
   {
     "id": "q187",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle mystérieuse civilisation a construit la cité de Teotihuacan ?",
-    "answers": [
-      "Mayas",
-      "Inconnue",
-      "Olmèques",
-      "Aztèques"
-    ],
-    "correctIndex": 1
+    "text": "Quel phénomène désigne la croyance en des messages transmis par les rêves ?",
+    "answers": ["La prophétie", "La divination", "L’oniromancie", "La méditation"],
+    "correctIndex": 2
   },
   {
     "id": "q188",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel étrange signal radio capté en 1977 reste inexpliqué ?",
-    "answers": [
-      "Bruit Bloop",
-      "Whistler",
-      "Chorus",
-      "Signal Wow!"
-    ],
+    "text": "Quel pays est associé aux temples antiques de Delphes ?",
+    "answers": ["Italie", "Macédoine", "Crète", "Grèce"],
     "correctIndex": 3
   },
+
   {
     "id": "q189",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle forteresse du désert syrien a été un mystère archéologique ?",
-    "answers": [
-      "Palmyre",
-      "Mari",
-      "Ugarit",
-      "Ebla"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal mythique est symbole de justice cosmique et d’équilibre ?",
+    "answers": ["Le lion", "Le dragon", "Le taureau", "Le griffon"],
+    "correctIndex": 0
   },
   {
     "id": "q190",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel manuscrit médiéval contient des illustrations botaniques étranges et illisibles ?",
-    "answers": [
-      "Livre de Kells",
-      "Codex Rohonczi",
-      "Manuscrit de Voynich",
-      "Codex Seraphinianus"
-    ],
-    "correctIndex": 2
+    "text": "Quel site antique est associé aux mystères du culte de Mithra ?",
+    "answers": ["Rome", "Ostie", "Pergame", "Antioche"],
+    "correctIndex": 1
   },
+
   {
     "id": "q191",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel manuscrit médiéval contient des illustrations botaniques étranges et illisibles ?",
-    "answers": [
-      "Codex Rohonczi",
-      "Codex Seraphinianus",
-      "Manuscrit de Voynich",
-      "Livre de Kells"
-    ],
+    "text": "Quel terme désigne la croyance en la survie de l’âme après la mort ?",
+    "answers": ["La résurrection", "La spiritualité", "L’immortalité de l’âme", "La mythologie"],
     "correctIndex": 2
   },
   {
     "id": "q192",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'expédition disparue dans l'Arctique en 1845 dirigée par John Franklin ?",
-    "answers": [
-      "Expédition Erebus",
-      "Expédition Endurance",
-      "Expédition Jeannette",
-      "Expédition Franklin"
-    ],
+    "text": "Quel pays est associé aux temples antiques de Louxor ?",
+    "answers": ["Libye", "Soudan", "Nubie", "Égypte"],
     "correctIndex": 3
   },
+
   {
     "id": "q193",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel pilote disparu est associé au 'Flight 19' dans le Triangle des Bermudes ?",
-    "answers": [
-      "Charles Taylor",
-      "Antoine de Saint-Exupéry",
-      "Glenn Miller",
-      "Fred Noonan"
-    ],
+    "text": "Quel animal mythique est symbole de protection ultime des secrets sacrés ?",
+    "answers": ["Le griffon", "Le dragon", "Le sphinx", "Le lion"],
     "correctIndex": 0
   },
   {
     "id": "q194",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel explorateur a disparu en 1848 en cherchant un passage dans l'Arctique ?",
-    "answers": [
-      "Sir John Franklin",
-      "Robert Falcon Scott",
-      "Roald Amundsen",
-      "Henry Hudson"
-    ],
-    "correctIndex": 0
+    "text": "Quel site antique est associé aux mystères les plus anciens de la Mésopotamie ?",
+    "answers": ["Ur", "Uruk", "Babylone", "Nippur"],
+    "correctIndex": 1
   },
+
   {
     "id": "q195",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel est le nom de l'expédition disparue dans l'Arctique en 1845 dirigée par John Franklin ?",
-    "answers": [
-      "Expédition Endurance",
-      "Expédition Franklin",
-      "Expédition Erebus",
-      "Expédition Jeannette"
-    ],
-    "correctIndex": 1
+    "text": "Quel phénomène désigne la croyance en une force universelle reliant tous les êtres ?",
+    "answers": ["La religion", "La cosmologie", "L’énergie vitale", "La science"],
+    "correctIndex": 2
   },
   {
     "id": "q196",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel pilote disparu est associé au 'Flight 19' dans le Triangle des Bermudes ?",
-    "answers": [
-      "Antoine de Saint-Exupéry",
-      "Glenn Miller",
-      "Fred Noonan",
-      "Charles Taylor"
-    ],
+    "text": "Quel pays est associé aux temples antiques de Bagan ?",
+    "answers": ["Thaïlande", "Cambodge", "Laos", "Myanmar"],
     "correctIndex": 3
   },
+
   {
     "id": "q197",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quelle civilisation a sculpté les têtes géantes de l'île de Pâques ?",
-    "answers": [
-      "Polynésiens",
-      "Rapa Nui",
-      "Chamorro",
-      "Maoris"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal mythique est symbole de passage entre les cycles du monde ?",
+    "answers": ["Le serpent", "Le dragon", "Le corbeau", "Le sphinx"],
+    "correctIndex": 0
   },
   {
     "id": "q198",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel explorateur a disparu en 1848 en cherchant un passage dans l'Arctique ?",
-    "answers": [
-      "Sir John Franklin",
-      "Henry Hudson",
-      "Roald Amundsen",
-      "Robert Falcon Scott"
-    ],
-    "correctIndex": 0
+    "text": "Quel site antique est associé aux mystères de la civilisation maya ?",
+    "answers": ["Palenque", "Chichén Itzá", "Copán", "Uxmal"],
+    "correctIndex": 1
   },
+
   {
     "id": "q199",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel explorateur a disparu en 1848 en cherchant un passage dans l'Arctique ?",
-    "answers": [
-      "Henry Hudson",
-      "Sir John Franklin",
-      "Robert Falcon Scott",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 1
+    "text": "Quel terme désigne l’étude ésotérique des symboles anciens ?",
+    "answers": ["La sémiologie", "La linguistique", "L’herméneutique", "La philologie"],
+    "correctIndex": 2
   },
   {
     "id": "q200",
     "category": "Mystères",
     "difficulty": "Difficile",
-    "text": "Quel monolithe mystérieux se trouve en Écosse et reste inexpliqué ?",
-    "answers": [
-      "Piedra de Cochno",
-      "Menhir de Callanish",
-      "Piedra del Sol",
-      "Pierre de Rosette"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q201",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel pilote disparu est associé au 'Flight 19' dans le Triangle des Bermudes ?",
-    "answers": [
-      "Fred Noonan",
-      "Antoine de Saint-Exupéry",
-      "Glenn Miller",
-      "Charles Taylor"
-    ],
+    "text": "Quel pays est associé aux temples antiques d’Abydos ?",
+    "answers": ["Soudan", "Libye", "Nubie", "Égypte"],
     "correctIndex": 3
-  },
-  {
-    "id": "q202",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel manuscrit médiéval contient des illustrations botaniques étranges et illisibles ?",
-    "answers": [
-      "Codex Seraphinianus",
-      "Codex Rohonczi",
-      "Manuscrit de Voynich",
-      "Livre de Kells"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q203",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel manuscrit médiéval contient des illustrations botaniques étranges et illisibles ?",
-    "answers": [
-      "Manuscrit de Voynich",
-      "Codex Rohonczi",
-      "Livre de Kells",
-      "Codex Seraphinianus"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q204",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel monolithe mystérieux se trouve en Écosse et reste inexpliqué ?",
-    "answers": [
-      "Piedra de Cochno",
-      "Pierre de Rosette",
-      "Piedra del Sol",
-      "Menhir de Callanish"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q205",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel explorateur a disparu en 1848 en cherchant un passage dans l'Arctique ?",
-    "answers": [
-      "Henry Hudson",
-      "Robert Falcon Scott",
-      "Sir John Franklin",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q206",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quelle forteresse du désert syrien a été un mystère archéologique ?",
-    "answers": [
-      "Ebla",
-      "Ugarit",
-      "Palmyre",
-      "Mari"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q207",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel pilote disparu est associé au 'Flight 19' dans le Triangle des Bermudes ?",
-    "answers": [
-      "Glenn Miller",
-      "Fred Noonan",
-      "Charles Taylor",
-      "Antoine de Saint-Exupéry"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q208",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel pilote disparu est associé au 'Flight 19' dans le Triangle des Bermudes ?",
-    "answers": [
-      "Charles Taylor",
-      "Antoine de Saint-Exupéry",
-      "Fred Noonan",
-      "Glenn Miller"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q209",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom de l'expédition disparue dans l'Arctique en 1845 dirigée par John Franklin ?",
-    "answers": [
-      "Expédition Erebus",
-      "Expédition Jeannette",
-      "Expédition Endurance",
-      "Expédition Franklin"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q210",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quelle mystérieuse civilisation a construit la cité de Teotihuacan ?",
-    "answers": [
-      "Inconnue",
-      "Aztèques",
-      "Mayas",
-      "Olmèques"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q211",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom de l'expédition disparue dans l'Arctique en 1845 dirigée par John Franklin ?",
-    "answers": [
-      "Expédition Jeannette",
-      "Expédition Endurance",
-      "Expédition Franklin",
-      "Expédition Erebus"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q212",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel manuscrit médiéval contient des illustrations botaniques étranges et illisibles ?",
-    "answers": [
-      "Codex Seraphinianus",
-      "Codex Rohonczi",
-      "Manuscrit de Voynich",
-      "Livre de Kells"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q213",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel monolithe mystérieux se trouve en Écosse et reste inexpliqué ?",
-    "answers": [
-      "Pierre de Rosette",
-      "Menhir de Callanish",
-      "Piedra del Sol",
-      "Piedra de Cochno"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q214",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom de l'expédition disparue dans l'Arctique en 1845 dirigée par John Franklin ?",
-    "answers": [
-      "Expédition Jeannette",
-      "Expédition Franklin",
-      "Expédition Erebus",
-      "Expédition Endurance"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q215",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom de l'expédition disparue dans l'Arctique en 1845 dirigée par John Franklin ?",
-    "answers": [
-      "Expédition Endurance",
-      "Expédition Franklin",
-      "Expédition Erebus",
-      "Expédition Jeannette"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q216",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel manuscrit médiéval contient des illustrations botaniques étranges et illisibles ?",
-    "answers": [
-      "Livre de Kells",
-      "Manuscrit de Voynich",
-      "Codex Seraphinianus",
-      "Codex Rohonczi"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q217",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quelle mystérieuse civilisation a construit la cité de Teotihuacan ?",
-    "answers": [
-      "Olmèques",
-      "Mayas",
-      "Aztèques",
-      "Inconnue"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q218",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel pilote disparu est associé au 'Flight 19' dans le Triangle des Bermudes ?",
-    "answers": [
-      "Fred Noonan",
-      "Charles Taylor",
-      "Antoine de Saint-Exupéry",
-      "Glenn Miller"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q219",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel manuscrit médiéval contient des illustrations botaniques étranges et illisibles ?",
-    "answers": [
-      "Codex Seraphinianus",
-      "Manuscrit de Voynich",
-      "Livre de Kells",
-      "Codex Rohonczi"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q220",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quelle civilisation a sculpté les têtes géantes de l'île de Pâques ?",
-    "answers": [
-      "Chamorro",
-      "Polynésiens",
-      "Rapa Nui",
-      "Maoris"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q221",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quelle mystérieuse civilisation a construit la cité de Teotihuacan ?",
-    "answers": [
-      "Olmèques",
-      "Mayas",
-      "Inconnue",
-      "Aztèques"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q222",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quelle mystérieuse civilisation a construit la cité de Teotihuacan ?",
-    "answers": [
-      "Inconnue",
-      "Mayas",
-      "Aztèques",
-      "Olmèques"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q223",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel monolithe mystérieux se trouve en Écosse et reste inexpliqué ?",
-    "answers": [
-      "Pierre de Rosette",
-      "Menhir de Callanish",
-      "Piedra de Cochno",
-      "Piedra del Sol"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q224",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel manuscrit médiéval contient des illustrations botaniques étranges et illisibles ?",
-    "answers": [
-      "Manuscrit de Voynich",
-      "Codex Seraphinianus",
-      "Codex Rohonczi",
-      "Livre de Kells"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q225",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quelle civilisation a sculpté les têtes géantes de l'île de Pâques ?",
-    "answers": [
-      "Rapa Nui",
-      "Chamorro",
-      "Polynésiens",
-      "Maoris"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q226",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel monolithe mystérieux se trouve en Écosse et reste inexpliqué ?",
-    "answers": [
-      "Piedra de Cochno",
-      "Piedra del Sol",
-      "Pierre de Rosette",
-      "Menhir de Callanish"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q227",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel manuscrit médiéval contient des illustrations botaniques étranges et illisibles ?",
-    "answers": [
-      "Codex Rohonczi",
-      "Codex Seraphinianus",
-      "Manuscrit de Voynich",
-      "Livre de Kells"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q228",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quelle mystérieuse civilisation a construit la cité de Teotihuacan ?",
-    "answers": [
-      "Olmèques",
-      "Aztèques",
-      "Inconnue",
-      "Mayas"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q229",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quelle mystérieuse civilisation a construit la cité de Teotihuacan ?",
-    "answers": [
-      "Aztèques",
-      "Inconnue",
-      "Olmèques",
-      "Mayas"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q230",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel explorateur a disparu en 1848 en cherchant un passage dans l'Arctique ?",
-    "answers": [
-      "Sir John Franklin",
-      "Roald Amundsen",
-      "Robert Falcon Scott",
-      "Henry Hudson"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q231",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel manuscrit médiéval contient des illustrations botaniques étranges et illisibles ?",
-    "answers": [
-      "Livre de Kells",
-      "Codex Rohonczi",
-      "Codex Seraphinianus",
-      "Manuscrit de Voynich"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q232",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quelle mystérieuse civilisation a construit la cité de Teotihuacan ?",
-    "answers": [
-      "Aztèques",
-      "Olmèques",
-      "Inconnue",
-      "Mayas"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q233",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel manuscrit médiéval contient des illustrations botaniques étranges et illisibles ?",
-    "answers": [
-      "Codex Rohonczi",
-      "Codex Seraphinianus",
-      "Livre de Kells",
-      "Manuscrit de Voynich"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q234",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel monolithe mystérieux se trouve en Écosse et reste inexpliqué ?",
-    "answers": [
-      "Piedra del Sol",
-      "Pierre de Rosette",
-      "Piedra de Cochno",
-      "Menhir de Callanish"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q235",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel monolithe mystérieux se trouve en Écosse et reste inexpliqué ?",
-    "answers": [
-      "Piedra del Sol",
-      "Pierre de Rosette",
-      "Piedra de Cochno",
-      "Menhir de Callanish"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q236",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel manuscrit médiéval contient des illustrations botaniques étranges et illisibles ?",
-    "answers": [
-      "Manuscrit de Voynich",
-      "Livre de Kells",
-      "Codex Rohonczi",
-      "Codex Seraphinianus"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q237",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel manuscrit médiéval contient des illustrations botaniques étranges et illisibles ?",
-    "answers": [
-      "Manuscrit de Voynich",
-      "Livre de Kells",
-      "Codex Seraphinianus",
-      "Codex Rohonczi"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q238",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel étrange signal radio capté en 1977 reste inexpliqué ?",
-    "answers": [
-      "Chorus",
-      "Whistler",
-      "Bruit Bloop",
-      "Signal Wow!"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q239",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quelle civilisation a sculpté les têtes géantes de l'île de Pâques ?",
-    "answers": [
-      "Rapa Nui",
-      "Polynésiens",
-      "Maoris",
-      "Chamorro"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q240",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quelle forteresse du désert syrien a été un mystère archéologique ?",
-    "answers": [
-      "Mari",
-      "Ebla",
-      "Palmyre",
-      "Ugarit"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q241",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quelle civilisation a sculpté les têtes géantes de l'île de Pâques ?",
-    "answers": [
-      "Polynésiens",
-      "Rapa Nui",
-      "Maoris",
-      "Chamorro"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q242",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel manuscrit médiéval contient des illustrations botaniques étranges et illisibles ?",
-    "answers": [
-      "Manuscrit de Voynich",
-      "Codex Seraphinianus",
-      "Codex Rohonczi",
-      "Livre de Kells"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q243",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel explorateur a disparu en 1848 en cherchant un passage dans l'Arctique ?",
-    "answers": [
-      "Robert Falcon Scott",
-      "Roald Amundsen",
-      "Henry Hudson",
-      "Sir John Franklin"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q244",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel explorateur a disparu en 1848 en cherchant un passage dans l'Arctique ?",
-    "answers": [
-      "Henry Hudson",
-      "Robert Falcon Scott",
-      "Sir John Franklin",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q245",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel temple cambodgien est resté caché dans la jungle jusqu'à sa redécouverte au XIXe siècle ?",
-    "answers": [
-      "Bayon",
-      "Ta Prohm",
-      "Banteay Srei",
-      "Angkor Wat"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q246",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom de l'expédition disparue dans l'Arctique en 1845 dirigée par John Franklin ?",
-    "answers": [
-      "Expédition Endurance",
-      "Expédition Jeannette",
-      "Expédition Erebus",
-      "Expédition Franklin"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q247",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quelle forteresse du désert syrien a été un mystère archéologique ?",
-    "answers": [
-      "Ugarit",
-      "Mari",
-      "Palmyre",
-      "Ebla"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q248",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quelle forteresse du désert syrien a été un mystère archéologique ?",
-    "answers": [
-      "Palmyre",
-      "Mari",
-      "Ebla",
-      "Ugarit"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q249",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel monolithe mystérieux se trouve en Écosse et reste inexpliqué ?",
-    "answers": [
-      "Piedra de Cochno",
-      "Pierre de Rosette",
-      "Piedra del Sol",
-      "Menhir de Callanish"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q250",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel pilote disparu est associé au 'Flight 19' dans le Triangle des Bermudes ?",
-    "answers": [
-      "Glenn Miller",
-      "Charles Taylor",
-      "Antoine de Saint-Exupéry",
-      "Fred Noonan"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q251",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel étrange signal radio capté en 1977 reste inexpliqué ?",
-    "answers": [
-      "Bruit Bloop",
-      "Signal Wow!",
-      "Chorus",
-      "Whistler"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q252",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel étrange signal radio capté en 1977 reste inexpliqué ?",
-    "answers": [
-      "Chorus",
-      "Signal Wow!",
-      "Whistler",
-      "Bruit Bloop"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q253",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel étrange signal radio capté en 1977 reste inexpliqué ?",
-    "answers": [
-      "Bruit Bloop",
-      "Signal Wow!",
-      "Whistler",
-      "Chorus"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q254",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quelle civilisation a sculpté les têtes géantes de l'île de Pâques ?",
-    "answers": [
-      "Polynésiens",
-      "Maoris",
-      "Rapa Nui",
-      "Chamorro"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q255",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quelle forteresse du désert syrien a été un mystère archéologique ?",
-    "answers": [
-      "Mari",
-      "Ugarit",
-      "Ebla",
-      "Palmyre"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q256",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel étrange signal radio capté en 1977 reste inexpliqué ?",
-    "answers": [
-      "Chorus",
-      "Bruit Bloop",
-      "Signal Wow!",
-      "Whistler"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q257",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel monolithe mystérieux se trouve en Écosse et reste inexpliqué ?",
-    "answers": [
-      "Piedra de Cochno",
-      "Menhir de Callanish",
-      "Piedra del Sol",
-      "Pierre de Rosette"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q258",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel manuscrit médiéval contient des illustrations botaniques étranges et illisibles ?",
-    "answers": [
-      "Manuscrit de Voynich",
-      "Codex Rohonczi",
-      "Livre de Kells",
-      "Codex Seraphinianus"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q259",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quelle civilisation a sculpté les têtes géantes de l'île de Pâques ?",
-    "answers": [
-      "Rapa Nui",
-      "Chamorro",
-      "Polynésiens",
-      "Maoris"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q260",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel monolithe mystérieux se trouve en Écosse et reste inexpliqué ?",
-    "answers": [
-      "Piedra de Cochno",
-      "Piedra del Sol",
-      "Pierre de Rosette",
-      "Menhir de Callanish"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q261",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel manuscrit médiéval contient des illustrations botaniques étranges et illisibles ?",
-    "answers": [
-      "Manuscrit de Voynich",
-      "Codex Rohonczi",
-      "Livre de Kells",
-      "Codex Seraphinianus"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q262",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel pilote disparu est associé au 'Flight 19' dans le Triangle des Bermudes ?",
-    "answers": [
-      "Charles Taylor",
-      "Glenn Miller",
-      "Antoine de Saint-Exupéry",
-      "Fred Noonan"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q263",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quelle mystérieuse civilisation a construit la cité de Teotihuacan ?",
-    "answers": [
-      "Aztèques",
-      "Mayas",
-      "Inconnue",
-      "Olmèques"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q264",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom de l'expédition disparue dans l'Arctique en 1845 dirigée par John Franklin ?",
-    "answers": [
-      "Expédition Erebus",
-      "Expédition Franklin",
-      "Expédition Endurance",
-      "Expédition Jeannette"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q265",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom de l'expédition disparue dans l'Arctique en 1845 dirigée par John Franklin ?",
-    "answers": [
-      "Expédition Franklin",
-      "Expédition Jeannette",
-      "Expédition Erebus",
-      "Expédition Endurance"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q266",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel étrange signal radio capté en 1977 reste inexpliqué ?",
-    "answers": [
-      "Bruit Bloop",
-      "Chorus",
-      "Signal Wow!",
-      "Whistler"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q267",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quelle mystérieuse civilisation a construit la cité de Teotihuacan ?",
-    "answers": [
-      "Aztèques",
-      "Mayas",
-      "Olmèques",
-      "Inconnue"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q268",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel manuscrit médiéval contient des illustrations botaniques étranges et illisibles ?",
-    "answers": [
-      "Livre de Kells",
-      "Manuscrit de Voynich",
-      "Codex Rohonczi",
-      "Codex Seraphinianus"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q269",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel pilote disparu est associé au 'Flight 19' dans le Triangle des Bermudes ?",
-    "answers": [
-      "Antoine de Saint-Exupéry",
-      "Fred Noonan",
-      "Glenn Miller",
-      "Charles Taylor"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q270",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel monolithe mystérieux se trouve en Écosse et reste inexpliqué ?",
-    "answers": [
-      "Piedra de Cochno",
-      "Piedra del Sol",
-      "Pierre de Rosette",
-      "Menhir de Callanish"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q271",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom de l'expédition disparue dans l'Arctique en 1845 dirigée par John Franklin ?",
-    "answers": [
-      "Expédition Jeannette",
-      "Expédition Endurance",
-      "Expédition Franklin",
-      "Expédition Erebus"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q272",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom de l'expédition disparue dans l'Arctique en 1845 dirigée par John Franklin ?",
-    "answers": [
-      "Expédition Jeannette",
-      "Expédition Erebus",
-      "Expédition Franklin",
-      "Expédition Endurance"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q273",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel temple cambodgien est resté caché dans la jungle jusqu'à sa redécouverte au XIXe siècle ?",
-    "answers": [
-      "Angkor Wat",
-      "Banteay Srei",
-      "Bayon",
-      "Ta Prohm"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q274",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel monolithe mystérieux se trouve en Écosse et reste inexpliqué ?",
-    "answers": [
-      "Pierre de Rosette",
-      "Menhir de Callanish",
-      "Piedra del Sol",
-      "Piedra de Cochno"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q275",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quelle forteresse du désert syrien a été un mystère archéologique ?",
-    "answers": [
-      "Ebla",
-      "Ugarit",
-      "Palmyre",
-      "Mari"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q276",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quelle civilisation a sculpté les têtes géantes de l'île de Pâques ?",
-    "answers": [
-      "Rapa Nui",
-      "Maoris",
-      "Polynésiens",
-      "Chamorro"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q277",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quelle civilisation a sculpté les têtes géantes de l'île de Pâques ?",
-    "answers": [
-      "Maoris",
-      "Polynésiens",
-      "Rapa Nui",
-      "Chamorro"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q278",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel est le nom de l'expédition disparue dans l'Arctique en 1845 dirigée par John Franklin ?",
-    "answers": [
-      "Expédition Endurance",
-      "Expédition Jeannette",
-      "Expédition Erebus",
-      "Expédition Franklin"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q279",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quelle civilisation a sculpté les têtes géantes de l'île de Pâques ?",
-    "answers": [
-      "Rapa Nui",
-      "Chamorro",
-      "Maoris",
-      "Polynésiens"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q280",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quelle forteresse du désert syrien a été un mystère archéologique ?",
-    "answers": [
-      "Ebla",
-      "Ugarit",
-      "Palmyre",
-      "Mari"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q281",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel pilote disparu est associé au 'Flight 19' dans le Triangle des Bermudes ?",
-    "answers": [
-      "Charles Taylor",
-      "Antoine de Saint-Exupéry",
-      "Fred Noonan",
-      "Glenn Miller"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q282",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quelle mystérieuse civilisation a construit la cité de Teotihuacan ?",
-    "answers": [
-      "Inconnue",
-      "Mayas",
-      "Olmèques",
-      "Aztèques"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q283",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel étrange signal radio capté en 1977 reste inexpliqué ?",
-    "answers": [
-      "Bruit Bloop",
-      "Whistler",
-      "Signal Wow!",
-      "Chorus"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q284",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel étrange signal radio capté en 1977 reste inexpliqué ?",
-    "answers": [
-      "Bruit Bloop",
-      "Signal Wow!",
-      "Chorus",
-      "Whistler"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q285",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel pilote disparu est associé au 'Flight 19' dans le Triangle des Bermudes ?",
-    "answers": [
-      "Fred Noonan",
-      "Charles Taylor",
-      "Glenn Miller",
-      "Antoine de Saint-Exupéry"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q286",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel pilote disparu est associé au 'Flight 19' dans le Triangle des Bermudes ?",
-    "answers": [
-      "Charles Taylor",
-      "Glenn Miller",
-      "Fred Noonan",
-      "Antoine de Saint-Exupéry"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q287",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel manuscrit médiéval contient des illustrations botaniques étranges et illisibles ?",
-    "answers": [
-      "Codex Seraphinianus",
-      "Livre de Kells",
-      "Manuscrit de Voynich",
-      "Codex Rohonczi"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q288",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quelle civilisation a sculpté les têtes géantes de l'île de Pâques ?",
-    "answers": [
-      "Chamorro",
-      "Maoris",
-      "Polynésiens",
-      "Rapa Nui"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q289",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel étrange signal radio capté en 1977 reste inexpliqué ?",
-    "answers": [
-      "Signal Wow!",
-      "Bruit Bloop",
-      "Chorus",
-      "Whistler"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q290",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quelle mystérieuse civilisation a construit la cité de Teotihuacan ?",
-    "answers": [
-      "Mayas",
-      "Olmèques",
-      "Inconnue",
-      "Aztèques"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q291",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel monolithe mystérieux se trouve en Écosse et reste inexpliqué ?",
-    "answers": [
-      "Menhir de Callanish",
-      "Pierre de Rosette",
-      "Piedra del Sol",
-      "Piedra de Cochno"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q292",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel pilote disparu est associé au 'Flight 19' dans le Triangle des Bermudes ?",
-    "answers": [
-      "Fred Noonan",
-      "Charles Taylor",
-      "Glenn Miller",
-      "Antoine de Saint-Exupéry"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q293",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quelle forteresse du désert syrien a été un mystère archéologique ?",
-    "answers": [
-      "Palmyre",
-      "Ugarit",
-      "Mari",
-      "Ebla"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q294",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel explorateur a disparu en 1848 en cherchant un passage dans l'Arctique ?",
-    "answers": [
-      "Sir John Franklin",
-      "Robert Falcon Scott",
-      "Roald Amundsen",
-      "Henry Hudson"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q295",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel étrange signal radio capté en 1977 reste inexpliqué ?",
-    "answers": [
-      "Bruit Bloop",
-      "Whistler",
-      "Chorus",
-      "Signal Wow!"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q296",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quelle civilisation a sculpté les têtes géantes de l'île de Pâques ?",
-    "answers": [
-      "Maoris",
-      "Rapa Nui",
-      "Chamorro",
-      "Polynésiens"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q297",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel pilote disparu est associé au 'Flight 19' dans le Triangle des Bermudes ?",
-    "answers": [
-      "Fred Noonan",
-      "Charles Taylor",
-      "Antoine de Saint-Exupéry",
-      "Glenn Miller"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q298",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel manuscrit médiéval contient des illustrations botaniques étranges et illisibles ?",
-    "answers": [
-      "Codex Rohonczi",
-      "Manuscrit de Voynich",
-      "Codex Seraphinianus",
-      "Livre de Kells"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q299",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel temple cambodgien est resté caché dans la jungle jusqu'à sa redécouverte au XIXe siècle ?",
-    "answers": [
-      "Ta Prohm",
-      "Angkor Wat",
-      "Bayon",
-      "Banteay Srei"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q300",
-    "category": "Mystères",
-    "difficulty": "Difficile",
-    "text": "Quel temple cambodgien est resté caché dans la jungle jusqu'à sa redécouverte au XIXe siècle ?",
-    "answers": [
-      "Ta Prohm",
-      "Bayon",
-      "Angkor Wat",
-      "Banteay Srei"
-    ],
-    "correctIndex": 2
   }
 ]
