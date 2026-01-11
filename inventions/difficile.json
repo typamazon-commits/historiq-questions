@@ -3,3900 +3,1624 @@
     "id": "q1",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
-    "answers": [
-      "Alfred Vail",
-      "Samuel Morse",
-      "William Fothergill Cooke",
-      "Charles Wheatstone"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention a permis la régulation précise de la vitesse des machines industrielles au XIXe siècle ?",
+    "answers": ["Régulateur à boule de Watt", "Chaîne de montage", "Moteur électrique", "Poulie"],
+    "correctIndex": 0
   },
   {
     "id": "q2",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
-    "answers": [
-      "Samuel Morse",
-      "Charles Wheatstone",
-      "William Fothergill Cooke",
-      "Alfred Vail"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention est à la base de la transmission radio moderne ?",
+    "answers": ["Télégraphe", "Oscillateur de Hertz", "Antenne parabolique", "Amplificateur"],
+    "correctIndex": 1
   },
   {
     "id": "q3",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
-    "answers": [
-      "Emile Berliner",
-      "Alexander Graham Bell",
-      "Charles Cros",
-      "Thomas Edison"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention a rendu possible la fabrication des microprocesseurs modernes ?",
+    "answers": ["Transistor bipolaire", "Relais électromécanique", "Photolithographie", "Tube à vide"],
+    "correctIndex": 2
   },
   {
     "id": "q4",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "William Siemens",
-      "Andrew Carnegie",
-      "Henry Bessemer",
-      "Robert Mushet"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de synchroniser des réseaux électriques à grande échelle ?",
+    "answers": ["Transformateur", "Alternateur", "Condensateur", "Réseau synchrone"],
+    "correctIndex": 3
   },
   {
     "id": "q5",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
-    "answers": [
-      "Antonie van Leeuwenhoek",
-      "Zacharias Janssen",
-      "Robert Hooke",
-      "Galileo Galilei"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention a permis la mesure précise du temps en navigation maritime ?",
+    "answers": ["Chronomètre marin", "Sextant", "Boussole", "Astrolabe"],
+    "correctIndex": 0
   },
   {
     "id": "q6",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "William Siemens",
-      "Henry Bessemer",
-      "Robert Mushet",
-      "Andrew Carnegie"
-    ],
+    "text": "Quelle invention a rendu possible la compression audio numérique ?",
+    "answers": ["CD audio", "Codec MP3", "Amplificateur", "Convertisseur DAC"],
     "correctIndex": 1
   },
   {
     "id": "q7",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Willard Boyle",
-      "Russell Kirsch",
-      "George E. Smith",
-      "Steven Sasson"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention est utilisée pour produire des circuits intégrés à grande échelle ?",
+    "answers": ["Gravure chimique", "Transistor MOSFET", "Salle blanche", "Photolithographie industrielle"],
+    "correctIndex": 2
   },
   {
     "id": "q8",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
-    "answers": [
-      "William Fothergill Cooke",
-      "Charles Wheatstone",
-      "Samuel Morse",
-      "Alfred Vail"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de maintenir une pression constante dans un circuit hydraulique ?",
+    "answers": ["Pompe", "Vanne", "Filtre", "Accumulateur hydraulique"],
+    "correctIndex": 3
   },
   {
     "id": "q9",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
-    "answers": [
-      "Samuel Morse",
-      "William Fothergill Cooke",
-      "Charles Wheatstone",
-      "Alfred Vail"
-    ],
+    "text": "Quelle invention a rendu possible l’aviation à réaction ?",
+    "answers": ["Turboréacteur", "Hélice variable", "Compresseur", "Carburateur"],
     "correctIndex": 0
   },
   {
     "id": "q10",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "Gabriel Lippmann",
-      "Sergey Prokudin-Gorsky",
-      "Louis Ducos du Hauron",
-      "James Clerk Maxwell"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la transmission sécurisée de données sur Internet ?",
+    "answers": ["Routeur", "Protocole TLS", "Pare-feu", "Serveur DNS"],
+    "correctIndex": 1
   },
+
   {
     "id": "q11",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
-    "answers": [
-      "Henri Coandă",
-      "Frank Whittle",
-      "Albert Fonó",
-      "Hans von Ohain"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est essentielle au stockage d’énergie dans les réseaux électriques intelligents ?",
+    "answers": ["Alternateur", "Transformateur", "Batterie stationnaire", "Condensateur"],
+    "correctIndex": 2
   },
   {
     "id": "q12",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Steven Sasson",
-      "Russell Kirsch",
-      "Willard Boyle",
-      "George E. Smith"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la détection de particules ionisantes ?",
+    "answers": ["Baromètre", "Spectromètre", "Dosimètre", "Compteur Geiger"],
+    "correctIndex": 3
   },
   {
     "id": "q13",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "Carl von Linde",
-      "Jacob Perkins",
-      "William Cullen",
-      "Clarence Birdseye"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention a permis la navigation aérienne tous temps ?",
+    "answers": ["Radar", "Altimètre", "Gyroscope", "GPS"],
+    "correctIndex": 0
   },
   {
     "id": "q14",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
-    "answers": [
-      "Antonie van Leeuwenhoek",
-      "Galileo Galilei",
-      "Robert Hooke",
-      "Zacharias Janssen"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention est à l’origine de l’horloge atomique ?",
+    "answers": ["Quartz", "Transition hyperfine du césium", "Oscillateur mécanique", "Laser"],
+    "correctIndex": 1
   },
   {
     "id": "q15",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "Louis Ducos du Hauron",
-      "Gabriel Lippmann",
-      "Sergey Prokudin-Gorsky",
-      "James Clerk Maxwell"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la fabrication de fibres optiques à faible perte ?",
+    "answers": ["Laser", "Diode électroluminescente", "Procédé de tirage du verre", "Photodiode"],
+    "correctIndex": 2
   },
   {
     "id": "q16",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Steven Sasson",
-      "Willard Boyle",
-      "George E. Smith",
-      "Russell Kirsch"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de convertir l’énergie thermique directement en électricité ?",
+    "answers": ["Alternateur", "Turbine", "Condensateur", "Effet Seebeck"],
+    "correctIndex": 3
   },
   {
     "id": "q17",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Steven Sasson",
-      "George E. Smith",
-      "Russell Kirsch",
-      "Willard Boyle"
-    ],
+    "text": "Quelle invention a permis la miniaturisation extrême de l’électronique moderne ?",
+    "answers": ["Transistor MOSFET", "Relais", "Tube à vide", "Condensateur"],
     "correctIndex": 0
   },
   {
     "id": "q18",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
-    "answers": [
-      "Auguste Perret",
-      "François Hennebique",
-      "Jean-Louis Lambot",
-      "Joseph Monier"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention est utilisée pour synchroniser les communications par satellite ?",
+    "answers": ["Horloge mécanique", "Horloge atomique", "Oscillateur quartz", "Chronomètre"],
+    "correctIndex": 1
   },
   {
     "id": "q19",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
-    "answers": [
-      "Robert Hooke",
-      "Zacharias Janssen",
-      "Antonie van Leeuwenhoek",
-      "Galileo Galilei"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet l’observation de structures atomiques ?",
+    "answers": ["Microscope optique", "Scanner", "Microscope électronique", "Spectromètre"],
+    "correctIndex": 2
   },
   {
     "id": "q20",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "Gabriel Lippmann",
-      "Louis Ducos du Hauron",
-      "Sergey Prokudin-Gorsky",
-      "James Clerk Maxwell"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet la stabilisation automatique des avions modernes ?",
+    "answers": ["Pilote automatique", "Altimètre", "Radar", "Gyroscope inertiel"],
+    "correctIndex": 3
   },
+
   {
     "id": "q21",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "George E. Smith",
-      "Willard Boyle",
-      "Steven Sasson",
-      "Russell Kirsch"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention a permis la production industrielle de l’ammoniac ?",
+    "answers": ["Procédé Haber-Bosch", "Distillation fractionnée", "Électrolyse", "Craquage thermique"],
+    "correctIndex": 0
   },
   {
     "id": "q22",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
-    "answers": [
-      "Antonie van Leeuwenhoek",
-      "Robert Hooke",
-      "Zacharias Janssen",
-      "Galileo Galilei"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention est utilisée pour coder les images numériques ?",
+    "answers": ["PNG", "Codec JPEG", "Capteur CCD", "Convertisseur"],
+    "correctIndex": 1
   },
   {
     "id": "q23",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
-    "answers": [
-      "John Hopps",
-      "Paul Zoll",
-      "Rune Elmqvist",
-      "Wilson Greatbatch"
-    ],
+    "text": "Quelle invention permet de produire des faisceaux cohérents de lumière ?",
+    "answers": ["Lampe halogène", "LED", "Laser", "Photodiode"],
     "correctIndex": 2
   },
   {
     "id": "q24",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
-    "answers": [
-      "Alexander Graham Bell",
-      "Thomas Edison",
-      "Emile Berliner",
-      "Charles Cros"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet de corriger automatiquement la trajectoire d’un missile ?",
+    "answers": ["Radar", "GPS", "Gyroscope", "Système de guidage inertiel"],
+    "correctIndex": 3
   },
   {
     "id": "q25",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
-    "answers": [
-      "Henri Coandă",
-      "Albert Fonó",
-      "Hans von Ohain",
-      "Frank Whittle"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention a permis la détection précoce des sous-marins ?",
+    "answers": ["Sonar", "Radar", "Boussole", "Altimètre"],
+    "correctIndex": 0
   },
   {
     "id": "q26",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
-    "answers": [
-      "Henri Coandă",
-      "Albert Fonó",
-      "Hans von Ohain",
-      "Frank Whittle"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention est utilisée pour sécuriser les transactions par blockchain ?",
+    "answers": ["Pare-feu", "Fonction de hachage cryptographique", "Serveur central", "Mot de passe"],
+    "correctIndex": 1
   },
   {
     "id": "q27",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
-    "answers": [
-      "François Hennebique",
-      "Auguste Perret",
-      "Joseph Monier",
-      "Jean-Louis Lambot"
-    ],
+    "text": "Quelle invention permet l’analyse de la composition chimique d’un matériau ?",
+    "answers": ["Microscope", "Scanner", "Spectromètre de masse", "Télescope"],
     "correctIndex": 2
   },
   {
     "id": "q28",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
-    "answers": [
-      "Alfred Vail",
-      "William Fothergill Cooke",
-      "Samuel Morse",
-      "Charles Wheatstone"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la production d’électricité par fission nucléaire ?",
+    "answers": ["Turbine", "Alternateur", "Condensateur", "Réacteur nucléaire"],
+    "correctIndex": 3
   },
   {
     "id": "q29",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Russell Kirsch",
-      "Steven Sasson",
-      "Willard Boyle",
-      "George E. Smith"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention a permis la fabrication en série des automobiles ?",
+    "answers": ["Chaîne de montage", "Machine-outil", "Robot industriel", "Convoyeur"],
+    "correctIndex": 0
   },
   {
     "id": "q30",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "Andrew Carnegie",
-      "Henry Bessemer",
-      "William Siemens",
-      "Robert Mushet"
-    ],
+    "text": "Quelle invention permet la correction d’erreurs dans les transmissions numériques ?",
+    "answers": ["Modulation", "Code correcteur d’erreurs", "Compression", "Cryptage"],
     "correctIndex": 1
   },
+
   {
     "id": "q31",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Willard Boyle",
-      "Steven Sasson",
-      "Russell Kirsch",
-      "George E. Smith"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est utilisée pour observer l’univers dans le domaine infrarouge ?",
+    "answers": ["Télescope optique", "Radar", "Télescope spatial infrarouge", "Microscope"],
+    "correctIndex": 2
   },
   {
     "id": "q32",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Willard Boyle",
-      "George E. Smith",
-      "Russell Kirsch",
-      "Steven Sasson"
-    ],
+    "text": "Quelle invention permet de mesurer précisément les variations gravitationnelles ?",
+    "answers": ["Altimètre", "Baromètre", "Sismographe", "Gravimètre"],
     "correctIndex": 3
   },
   {
     "id": "q33",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
-    "answers": [
-      "Albert Fonó",
-      "Hans von Ohain",
-      "Henri Coandă",
-      "Frank Whittle"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention a permis l’automatisation des calculs balistiques ?",
+    "answers": ["Ordinateur", "Calculatrice", "Tableur", "Règle à calcul"],
+    "correctIndex": 0
   },
   {
     "id": "q34",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "Sergey Prokudin-Gorsky",
-      "Louis Ducos du Hauron",
-      "Gabriel Lippmann",
-      "James Clerk Maxwell"
-    ],
+    "text": "Quelle invention permet de convertir un signal analogique en signal numérique ?",
+    "answers": ["Amplificateur", "Convertisseur analogique-numérique", "Modem", "Oscillateur"],
     "correctIndex": 1
   },
   {
     "id": "q35",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "Clarence Birdseye",
-      "Jacob Perkins",
-      "William Cullen",
-      "Carl von Linde"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention est utilisée pour observer la structure interne des cristaux ?",
+    "answers": ["Microscope optique", "Scanner", "Diffraction des rayons X", "Spectroscope"],
+    "correctIndex": 2
   },
   {
     "id": "q36",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Steven Sasson",
-      "Willard Boyle",
-      "George E. Smith",
-      "Russell Kirsch"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la synchronisation des systèmes GPS ?",
+    "answers": ["Quartz", "Oscillateur", "Satellite", "Horloge atomique"],
+    "correctIndex": 3
   },
   {
     "id": "q37",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
-    "answers": [
-      "Galileo Galilei",
-      "Antonie van Leeuwenhoek",
-      "Zacharias Janssen",
-      "Robert Hooke"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention a permis la propulsion spatiale moderne ?",
+    "answers": ["Moteur-fusée", "Turboréacteur", "Hélice", "Moteur électrique"],
+    "correctIndex": 0
   },
   {
     "id": "q38",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
-    "answers": [
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Emile Berliner",
-      "Charles Cros"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la sécurisation des communications militaires ?",
+    "answers": ["Radio", "Chiffrement", "Antenne", "Satellite"],
+    "correctIndex": 1
   },
   {
     "id": "q39",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "Robert Mushet",
-      "Andrew Carnegie",
-      "William Siemens",
-      "Henry Bessemer"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention est utilisée pour produire des images médicales en coupe ?",
+    "answers": ["Radiographie", "Échographie", "Scanner médical", "IRM"],
+    "correctIndex": 2
   },
   {
     "id": "q40",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "Robert Mushet",
-      "Henry Bessemer",
-      "William Siemens",
-      "Andrew Carnegie"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet de détecter des explosions nucléaires à distance ?",
+    "answers": ["Radar", "Satellite", "Sismographe", "Capteur infrason"],
+    "correctIndex": 3
   },
+
   {
     "id": "q41",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
-    "answers": [
-      "Antonie van Leeuwenhoek",
-      "Galileo Galilei",
-      "Robert Hooke",
-      "Zacharias Janssen"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention a permis la standardisation des signaux horaires mondiaux ?",
+    "answers": ["Horloge atomique", "Chronomètre", "Calendrier", "Montre"],
+    "correctIndex": 0
   },
   {
     "id": "q42",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "William Siemens",
-      "Andrew Carnegie",
-      "Henry Bessemer",
-      "Robert Mushet"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de compresser des images sans perte de données ?",
+    "answers": ["JPEG", "PNG", "MP3", "MPEG"],
+    "correctIndex": 1
   },
   {
     "id": "q43",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
-    "answers": [
-      "Wilson Greatbatch",
-      "John Hopps",
-      "Rune Elmqvist",
-      "Paul Zoll"
-    ],
+    "text": "Quelle invention est utilisée pour analyser la structure moléculaire ?",
+    "answers": ["Microscope", "Scanner", "Spectroscopie RMN", "Diffraction"],
     "correctIndex": 2
   },
   {
     "id": "q44",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "Robert Mushet",
-      "Andrew Carnegie",
-      "Henry Bessemer",
-      "William Siemens"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de maintenir l’orientation d’un satellite ?",
+    "answers": ["Radar", "Antenne", "Panneau solaire", "Roue de réaction"],
+    "correctIndex": 3
   },
   {
     "id": "q45",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
-    "answers": [
-      "François Hennebique",
-      "Joseph Monier",
-      "Auguste Perret",
-      "Jean-Louis Lambot"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention a permis la transmission d’électricité sur de longues distances ?",
+    "answers": ["Courant alternatif", "Batterie", "Courant continu", "Générateur"],
+    "correctIndex": 0
   },
   {
     "id": "q46",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
-    "answers": [
-      "John Hopps",
-      "Rune Elmqvist",
-      "Paul Zoll",
-      "Wilson Greatbatch"
-    ],
+    "text": "Quelle invention permet de vérifier l’intégrité des données numériques ?",
+    "answers": ["Compression", "Somme de contrôle", "Cryptage", "Encodage"],
     "correctIndex": 1
   },
   {
     "id": "q47",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "George E. Smith",
-      "Steven Sasson",
-      "Willard Boyle",
-      "Russell Kirsch"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est utilisée pour observer des particules subatomiques ?",
+    "answers": ["Microscope", "Scanner", "Accélérateur de particules", "Spectromètre"],
+    "correctIndex": 2
   },
   {
     "id": "q48",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
-    "answers": [
-      "Antonie van Leeuwenhoek",
-      "Zacharias Janssen",
-      "Galileo Galilei",
-      "Robert Hooke"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet la production contrôlée de plasma ?",
+    "answers": ["Laser", "Alternateur", "Condensateur", "Tokamak"],
+    "correctIndex": 3
   },
   {
     "id": "q49",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
-    "answers": [
-      "Wilson Greatbatch",
-      "John Hopps",
-      "Paul Zoll",
-      "Rune Elmqvist"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention a permis l’automatisation des systèmes industriels complexes ?",
+    "answers": ["Automate programmable industriel", "Moteur électrique", "Convoyeur", "Relais"],
+    "correctIndex": 0
   },
   {
     "id": "q50",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "Jacob Perkins",
-      "William Cullen",
-      "Clarence Birdseye",
-      "Carl von Linde"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la détection d’intrusions informatiques ?",
+    "answers": ["Antivirus", "Système de détection d’intrusion (IDS)", "Pare-feu", "Routeur"],
+    "correctIndex": 1
   },
   {
     "id": "q51",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
-    "answers": [
-      "Rune Elmqvist",
-      "John Hopps",
-      "Paul Zoll",
-      "Wilson Greatbatch"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la conversion directe de signaux neuronaux en commandes numériques ?",
+    "answers": ["Électroencéphalogramme", "Capteur biométrique", "Interface cerveau-machine", "Prothèse robotisée"],
+    "correctIndex": 2
   },
   {
     "id": "q52",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "George E. Smith",
-      "Willard Boyle",
-      "Russell Kirsch",
-      "Steven Sasson"
-    ],
+    "text": "Quelle invention a permis la stabilisation des plateformes pétrolières offshore ?",
+    "answers": ["Ballasts dynamiques", "Ancrage fixe", "Flotteur", "Positionnement dynamique"],
     "correctIndex": 3
   },
   {
     "id": "q53",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "George E. Smith",
-      "Steven Sasson",
-      "Russell Kirsch",
-      "Willard Boyle"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention a rendu possible la correction automatique des aberrations optiques ?",
+    "answers": ["Optique adaptative", "Lentille convexe", "Miroir parabolique", "Filtre polarisant"],
+    "correctIndex": 0
   },
   {
     "id": "q54",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "Andrew Carnegie",
-      "Henry Bessemer",
-      "William Siemens",
-      "Robert Mushet"
-    ],
+    "text": "Quelle invention permet la synchronisation des réseaux informatiques distribués ?",
+    "answers": ["Serveur DNS", "Protocole NTP", "Pare-feu", "Routeur"],
     "correctIndex": 1
   },
   {
     "id": "q55",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
-    "answers": [
-      "Antonie van Leeuwenhoek",
-      "Galileo Galilei",
-      "Robert Hooke",
-      "Zacharias Janssen"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention est utilisée pour confiner un plasma à haute température ?",
+    "answers": ["Cyclotron", "Accélérateur linéaire", "Chambre à vide", "Tokamak"],
+    "correctIndex": 2
   },
   {
     "id": "q56",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
-    "answers": [
-      "Charles Wheatstone",
-      "Samuel Morse",
-      "William Fothergill Cooke",
-      "Alfred Vail"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet de maintenir une orbite stable autour de la Terre ?",
+    "answers": ["Propulseur chimique", "Bouclier thermique", "Gyroscope", "Système de correction orbitale"],
+    "correctIndex": 3
   },
   {
     "id": "q57",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "Carl von Linde",
-      "William Cullen",
-      "Jacob Perkins",
-      "Clarence Birdseye"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention a permis la transmission d’images médicales en trois dimensions ?",
+    "answers": ["Tomodensitométrie", "Radiographie", "Échographie", "IRM"],
+    "correctIndex": 0
   },
   {
     "id": "q58",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
-    "answers": [
-      "Charles Wheatstone",
-      "William Fothergill Cooke",
-      "Samuel Morse",
-      "Alfred Vail"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la séparation isotopique de l’uranium ?",
+    "answers": ["Diffusion gazeuse", "Centrifugation", "Distillation", "Fusion"],
+    "correctIndex": 1
   },
   {
     "id": "q59",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Steven Sasson",
-      "George E. Smith",
-      "Willard Boyle",
-      "Russell Kirsch"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention est utilisée pour mesurer des champs magnétiques très faibles ?",
+    "answers": ["Voltmètre", "Ampèremètre", "Magnétomètre SQUID", "Oscilloscope"],
+    "correctIndex": 2
   },
   {
     "id": "q60",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
-    "answers": [
-      "Charles Cros",
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Emile Berliner"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet la correction automatique de trajectoire des satellites ?",
+    "answers": ["Radar", "Altimètre", "Panneau solaire", "Propulseur ionique"],
+    "correctIndex": 3
   },
+
   {
     "id": "q61",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "Andrew Carnegie",
-      "Henry Bessemer",
-      "William Siemens",
-      "Robert Mushet"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention a rendu possible la cartographie précise des fonds océaniques ?",
+    "answers": ["Sonar multifaisceaux", "Radar", "Altimètre", "Bathymètre mécanique"],
+    "correctIndex": 0
   },
   {
     "id": "q62",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
-    "answers": [
-      "Auguste Perret",
-      "François Hennebique",
-      "Joseph Monier",
-      "Jean-Louis Lambot"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la communication quantique sécurisée ?",
+    "answers": ["Laser", "Intrication quantique", "Cryptage RSA", "Fibre optique"],
+    "correctIndex": 1
   },
   {
     "id": "q63",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "James Clerk Maxwell",
-      "Louis Ducos du Hauron",
-      "Gabriel Lippmann",
-      "Sergey Prokudin-Gorsky"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est utilisée pour produire des faisceaux d’ions en physique nucléaire ?",
+    "answers": ["Tokamak", "Réacteur", "Accélérateur de particules", "Spectromètre"],
+    "correctIndex": 2
   },
   {
     "id": "q64",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "Jacob Perkins",
-      "Clarence Birdseye",
-      "William Cullen",
-      "Carl von Linde"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet d’évaluer la fatigue structurelle d’un avion en vol ?",
+    "answers": ["Altimètre", "Radar météo", "Gyroscope", "Capteur de contraintes"],
+    "correctIndex": 3
   },
   {
     "id": "q65",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Russell Kirsch",
-      "George E. Smith",
-      "Willard Boyle",
-      "Steven Sasson"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention a permis la visualisation directe de l’ADN ?",
+    "answers": ["Microscope électronique", "Microscope optique", "Scanner", "IRM"],
+    "correctIndex": 0
   },
   {
     "id": "q66",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
-    "answers": [
-      "Robert Hooke",
-      "Antonie van Leeuwenhoek",
-      "Galileo Galilei",
-      "Zacharias Janssen"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet la détection d’ondes gravitationnelles ?",
+    "answers": ["Accéléromètre", "Interféromètre laser", "Sismographe", "Gravimètre"],
+    "correctIndex": 1
   },
   {
     "id": "q67",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
-    "answers": [
-      "Thomas Edison",
-      "Charles Cros",
-      "Alexander Graham Bell",
-      "Emile Berliner"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention est utilisée pour simuler des réactions chimiques complexes ?",
+    "answers": ["Calculatrice", "Tableur", "Superordinateur", "Automate"],
+    "correctIndex": 2
   },
   {
     "id": "q68",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "James Clerk Maxwell",
-      "Gabriel Lippmann",
-      "Louis Ducos du Hauron",
-      "Sergey Prokudin-Gorsky"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la navigation autonome des véhicules spatiaux ?",
+    "answers": ["Radar", "Télécommande", "Boussole", "Système de navigation inertielle"],
+    "correctIndex": 3
   },
   {
     "id": "q69",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
-    "answers": [
-      "Albert Fonó",
-      "Henri Coandă",
-      "Hans von Ohain",
-      "Frank Whittle"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention a permis la miniaturisation des capteurs d’imagerie spatiale ?",
+    "answers": ["Capteur CMOS", "Tube cathodique", "Pellicule", "Scanner"],
+    "correctIndex": 0
   },
   {
     "id": "q70",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "William Siemens",
-      "Andrew Carnegie",
-      "Henry Bessemer",
-      "Robert Mushet"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de synchroniser les réseaux électriques européens ?",
+    "answers": ["Transformateur", "Fréquence standard 50 Hz", "Batterie", "Alternateur"],
+    "correctIndex": 1
   },
+
   {
     "id": "q71",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
-    "answers": [
-      "Frank Whittle",
-      "Hans von Ohain",
-      "Henri Coandă",
-      "Albert Fonó"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention est utilisée pour produire de l’hydrogène par électrolyse ?",
+    "answers": ["Alternateur", "Batterie", "Électrolyseur", "Pile à combustible"],
+    "correctIndex": 2
   },
   {
     "id": "q72",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
-    "answers": [
-      "Antonie van Leeuwenhoek",
-      "Robert Hooke",
-      "Galileo Galilei",
-      "Zacharias Janssen"
-    ],
+    "text": "Quelle invention permet la stabilisation active des gratte-ciel face aux séismes ?",
+    "answers": ["Contrefort", "Fondation profonde", "Amortisseur", "Amortisseur de masse accordée"],
     "correctIndex": 3
   },
   {
     "id": "q73",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "Carl von Linde",
-      "Clarence Birdseye",
-      "Jacob Perkins",
-      "William Cullen"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention a permis l’observation de l’univers en rayons X ?",
+    "answers": ["Télescope spatial à rayons X", "Radar", "Radiotélescope", "Spectroscope"],
+    "correctIndex": 0
   },
   {
     "id": "q74",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
-    "answers": [
-      "Rune Elmqvist",
-      "Wilson Greatbatch",
-      "John Hopps",
-      "Paul Zoll"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la gestion intelligente du trafic urbain ?",
+    "answers": ["Radar", "Algorithmes de contrôle adaptatif", "Feux tricolores", "Capteurs optiques"],
+    "correctIndex": 1
   },
   {
     "id": "q75",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
-    "answers": [
-      "Galileo Galilei",
-      "Antonie van Leeuwenhoek",
-      "Robert Hooke",
-      "Zacharias Janssen"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention est utilisée pour la modélisation climatique mondiale ?",
+    "answers": ["Station météo", "Satellite", "Superordinateur", "Capteur thermique"],
+    "correctIndex": 2
   },
   {
     "id": "q76",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
-    "answers": [
-      "Joseph Monier",
-      "François Hennebique",
-      "Jean-Louis Lambot",
-      "Auguste Perret"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la détection précoce des tsunamis ?",
+    "answers": ["Radar côtier", "Sismographe", "Bouée météo", "Système DART"],
+    "correctIndex": 3
   },
   {
     "id": "q77",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
-    "answers": [
-      "Antonie van Leeuwenhoek",
-      "Galileo Galilei",
-      "Zacharias Janssen",
-      "Robert Hooke"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention a permis l’analyse spectrale des étoiles ?",
+    "answers": ["Spectroscope", "Télescope optique", "Radiotélescope", "Interféromètre"],
+    "correctIndex": 0
   },
   {
     "id": "q78",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "Louis Ducos du Hauron",
-      "James Clerk Maxwell",
-      "Sergey Prokudin-Gorsky",
-      "Gabriel Lippmann"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la synchronisation des bases de données distribuées ?",
+    "answers": ["Cache", "Horodatage logique", "Serveur central", "Pare-feu"],
+    "correctIndex": 1
   },
   {
     "id": "q79",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
-    "answers": [
-      "Antonie van Leeuwenhoek",
-      "Robert Hooke",
-      "Zacharias Janssen",
-      "Galileo Galilei"
-    ],
+    "text": "Quelle invention est utilisée pour observer des phénomènes ultrarapides ?",
+    "answers": ["Caméra classique", "Scanner", "Caméra à balayage de fente", "Microscope"],
     "correctIndex": 2
   },
   {
     "id": "q80",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "James Clerk Maxwell",
-      "Sergey Prokudin-Gorsky",
-      "Gabriel Lippmann",
-      "Louis Ducos du Hauron"
-    ],
+    "text": "Quelle invention permet la production d’énergie par fusion expérimentale ?",
+    "answers": ["Réacteur à fission", "Centrale thermique", "Accélérateur", "Tokamak"],
     "correctIndex": 3
   },
+
   {
     "id": "q81",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
-    "answers": [
-      "Thomas Edison",
-      "Emile Berliner",
-      "Charles Cros",
-      "Alexander Graham Bell"
-    ],
+    "text": "Quelle invention a permis la détection de planètes extrasolaires ?",
+    "answers": ["Spectrographe de haute précision", "Radiotélescope", "Radar", "Altimètre"],
     "correctIndex": 0
   },
   {
     "id": "q82",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "George E. Smith",
-      "Willard Boyle",
-      "Steven Sasson",
-      "Russell Kirsch"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la communication sécurisée par clés publiques ?",
+    "answers": ["Pare-feu", "Cryptographie asymétrique", "VPN", "Chiffrement symétrique"],
+    "correctIndex": 1
   },
   {
     "id": "q83",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Russell Kirsch",
-      "George E. Smith",
-      "Steven Sasson",
-      "Willard Boyle"
-    ],
+    "text": "Quelle invention est utilisée pour mesurer des distances interstellaires ?",
+    "answers": ["Radar", "Altimètre", "Parallaxe stellaire", "Spectromètre"],
     "correctIndex": 2
   },
   {
     "id": "q84",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "Jacob Perkins",
-      "William Cullen",
-      "Clarence Birdseye",
-      "Carl von Linde"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la stabilisation thermique des satellites ?",
+    "answers": ["Radiateur passif", "Bouclier thermique", "Isolant multicouche", "Système de contrôle thermique"],
+    "correctIndex": 3
   },
   {
     "id": "q85",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "Robert Mushet",
-      "William Siemens",
-      "Andrew Carnegie",
-      "Henry Bessemer"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention a permis l’imagerie médicale fonctionnelle du cerveau ?",
+    "answers": ["IRM fonctionnelle", "Scanner", "Radiographie", "Électroencéphalogramme"],
+    "correctIndex": 0
   },
   {
     "id": "q86",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "Louis Ducos du Hauron",
-      "Sergey Prokudin-Gorsky",
-      "James Clerk Maxwell",
-      "Gabriel Lippmann"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de corriger les erreurs de transmission spatiale ?",
+    "answers": ["Modulation", "Code de Reed-Solomon", "Compression", "Cryptage"],
+    "correctIndex": 1
   },
   {
     "id": "q87",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "Clarence Birdseye",
-      "William Cullen",
-      "Jacob Perkins",
-      "Carl von Linde"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention est utilisée pour produire des matériaux supraconducteurs ?",
+    "answers": ["Four industriel", "Réacteur chimique", "Cryostat", "Accélérateur"],
+    "correctIndex": 2
   },
   {
     "id": "q88",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "Andrew Carnegie",
-      "Robert Mushet",
-      "Henry Bessemer",
-      "William Siemens"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de contrôler l’attitude d’un vaisseau spatial ?",
+    "answers": ["Propulseur", "Radar", "Antenne", "Roue de réaction"],
+    "correctIndex": 3
   },
   {
     "id": "q89",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
-    "answers": [
-      "Charles Cros",
-      "Alexander Graham Bell",
-      "Emile Berliner",
-      "Thomas Edison"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention a permis la détection de neutrinos ?",
+    "answers": ["Détecteur Cherenkov", "Sismographe", "Accélérateur", "Spectromètre"],
+    "correctIndex": 0
   },
   {
     "id": "q90",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
-    "answers": [
-      "Rune Elmqvist",
-      "John Hopps",
-      "Wilson Greatbatch",
-      "Paul Zoll"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la synchronisation mondiale des réseaux financiers ?",
+    "answers": ["Serveur central", "Horloge atomique", "Blockchain", "GPS"],
+    "correctIndex": 1
   },
+
   {
     "id": "q91",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
-    "answers": [
-      "François Hennebique",
-      "Joseph Monier",
-      "Auguste Perret",
-      "Jean-Louis Lambot"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est utilisée pour simuler des systèmes physiques complexes ?",
+    "answers": ["Ordinateur personnel", "Station de travail", "Superordinateur", "Calculatrice"],
+    "correctIndex": 2
   },
   {
     "id": "q92",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
-    "answers": [
-      "Wilson Greatbatch",
-      "Paul Zoll",
-      "Rune Elmqvist",
-      "John Hopps"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la navigation de précision des sous-marins nucléaires ?",
+    "answers": ["Sonar actif", "Radar", "GPS", "Navigation inertielle"],
+    "correctIndex": 3
   },
   {
     "id": "q93",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "Sergey Prokudin-Gorsky",
-      "Louis Ducos du Hauron",
-      "Gabriel Lippmann",
-      "James Clerk Maxwell"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention a permis l’essor des réseaux de neurones artificiels ?",
+    "answers": ["GPU programmable", "CPU", "Microcontrôleur", "ASIC"],
+    "correctIndex": 0
   },
   {
     "id": "q94",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
-    "answers": [
-      "Henri Coandă",
-      "Frank Whittle",
-      "Albert Fonó",
-      "Hans von Ohain"
-    ],
+    "text": "Quelle invention permet la mesure précise du temps de propagation d’un signal ?",
+    "answers": ["Chronomètre", "Oscilloscope", "Multimètre", "Horloge"],
     "correctIndex": 1
   },
   {
     "id": "q95",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "George E. Smith",
-      "Russell Kirsch",
-      "Steven Sasson",
-      "Willard Boyle"
-    ],
+    "text": "Quelle invention est utilisée pour analyser la dynamique des fluides ?",
+    "answers": ["Baromètre", "Thermomètre", "Simulation numérique CFD", "Altimètre"],
     "correctIndex": 2
   },
   {
     "id": "q96",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
-    "answers": [
-      "Charles Cros",
-      "Thomas Edison",
-      "Emile Berliner",
-      "Alexander Graham Bell"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet la récupération d’énergie lors du freinage ?",
+    "answers": ["Alternateur", "Batterie", "Condensateur", "Freinage régénératif"],
+    "correctIndex": 3
   },
   {
     "id": "q97",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
-    "answers": [
-      "Thomas Edison",
-      "Charles Cros",
-      "Alexander Graham Bell",
-      "Emile Berliner"
-    ],
+    "text": "Quelle invention a permis la détection automatique des fraudes bancaires ?",
+    "answers": ["Algorithmes d’apprentissage automatique", "Pare-feu", "Cryptage", "Serveur"],
     "correctIndex": 0
   },
   {
     "id": "q98",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
-    "answers": [
-      "Henri Coandă",
-      "Hans von Ohain",
-      "Frank Whittle",
-      "Albert Fonó"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la gestion distribuée des registres numériques ?",
+    "answers": ["Base de données", "Blockchain", "Serveur", "Cloud"],
+    "correctIndex": 1
   },
   {
     "id": "q99",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
-    "answers": [
-      "William Fothergill Cooke",
-      "Alfred Vail",
-      "Samuel Morse",
-      "Charles Wheatstone"
-    ],
+    "text": "Quelle invention est utilisée pour la détection de défauts internes dans les matériaux ?",
+    "answers": ["Radiographie", "Scanner", "Ultrasons industriels", "Spectromètre"],
     "correctIndex": 2
   },
   {
     "id": "q100",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
-    "answers": [
-      "William Fothergill Cooke",
-      "Alfred Vail",
-      "Samuel Morse",
-      "Charles Wheatstone"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la synchronisation automatique des constellations de satellites ?",
+    "answers": ["Radar", "Antenne", "Télécommande", "Système de contrôle de mission"],
+    "correctIndex": 3
   },
   {
     "id": "q101",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Steven Sasson",
-      "George E. Smith",
-      "Willard Boyle",
-      "Russell Kirsch"
-    ],
+    "text": "Quelle invention permet la stabilisation automatique des drones en vol stationnaire ?",
+    "answers": ["Gyroscope", "Altimètre", "Radar", "Compas"],
     "correctIndex": 0
   },
   {
     "id": "q102",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Steven Sasson",
-      "Russell Kirsch",
-      "Willard Boyle",
-      "George E. Smith"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la compression des données sans perte utilisée dans les archives numériques ?",
+    "answers": ["JPEG", "Algorithme ZIP", "MP3", "MPEG"],
+    "correctIndex": 1
   },
   {
     "id": "q103",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Steven Sasson",
-      "George E. Smith",
-      "Willard Boyle",
-      "Russell Kirsch"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention est utilisée pour mesurer des variations extrêmement faibles de gravité ?",
+    "answers": ["Baromètre", "Sismographe", "Gravimètre", "Altimètre"],
+    "correctIndex": 2
   },
   {
     "id": "q104",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
-    "answers": [
-      "Albert Fonó",
-      "Hans von Ohain",
-      "Frank Whittle",
-      "Henri Coandă"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la correction de trajectoire en temps réel des missiles modernes ?",
+    "answers": ["Radar passif", "Gyroscope", "Antenne", "Système de guidage inertiel"],
+    "correctIndex": 3
   },
   {
     "id": "q105",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
-    "answers": [
-      "Charles Cros",
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Emile Berliner"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention a permis la détection de particules subatomiques invisibles à l’œil nu ?",
+    "answers": ["Chambre à bulles", "Microscope", "Scanner", "Spectroscope"],
+    "correctIndex": 0
   },
   {
     "id": "q106",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "Gabriel Lippmann",
-      "Louis Ducos du Hauron",
-      "James Clerk Maxwell",
-      "Sergey Prokudin-Gorsky"
-    ],
+    "text": "Quelle invention permet la synchronisation précise des satellites GPS ?",
+    "answers": ["Radar", "Horloge atomique", "Boussole", "Altimètre"],
     "correctIndex": 1
   },
   {
     "id": "q107",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "William Siemens",
-      "Henry Bessemer",
-      "Robert Mushet",
-      "Andrew Carnegie"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est utilisée pour simuler des réactions nucléaires sans explosion réelle ?",
+    "answers": ["Accélérateur linéaire", "Réacteur", "Superordinateur", "Cyclotron"],
+    "correctIndex": 2
   },
   {
     "id": "q108",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
-    "answers": [
-      "Charles Wheatstone",
-      "William Fothergill Cooke",
-      "Alfred Vail",
-      "Samuel Morse"
-    ],
+    "text": "Quelle invention permet de refroidir des composants électroniques spatiaux ?",
+    "answers": ["Ventilateur", "Radiateur passif", "Condensateur", "Boucle thermique"],
     "correctIndex": 3
   },
   {
     "id": "q109",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
-    "answers": [
-      "Charles Cros",
-      "Thomas Edison",
-      "Emile Berliner",
-      "Alexander Graham Bell"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention a permis l’observation de l’univers primordial ?",
+    "answers": ["Télescope spatial infrarouge", "Radiotélescope", "Radar", "Spectromètre"],
+    "correctIndex": 0
   },
   {
     "id": "q110",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
-    "answers": [
-      "Charles Cros",
-      "Thomas Edison",
-      "Emile Berliner",
-      "Alexander Graham Bell"
-    ],
+    "text": "Quelle invention permet la détection automatique des collisions automobiles ?",
+    "answers": ["Capteur de vitesse", "Accéléromètre", "Gyroscope", "Radar"],
     "correctIndex": 1
   },
+
   {
     "id": "q111",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
-    "answers": [
-      "William Fothergill Cooke",
-      "Samuel Morse",
-      "Alfred Vail",
-      "Charles Wheatstone"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est utilisée pour analyser des structures moléculaires complexes ?",
+    "answers": ["Microscope optique", "Scanner", "Diffraction des rayons X", "IRM"],
+    "correctIndex": 2
   },
   {
     "id": "q112",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
-    "answers": [
-      "Joseph Monier",
-      "Auguste Perret",
-      "Jean-Louis Lambot",
-      "François Hennebique"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet le pilotage automatique des avions modernes ?",
+    "answers": ["Radar météo", "GPS", "Altimètre", "Pilote automatique"],
+    "correctIndex": 3
   },
   {
     "id": "q113",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
-    "answers": [
-      "Alexander Graham Bell",
-      "Charles Cros",
-      "Emile Berliner",
-      "Thomas Edison"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention a permis la détection d’ondes électromagnétiques invisibles ?",
+    "answers": ["Antenne radio", "Microphone", "Oscilloscope", "Ampèremètre"],
+    "correctIndex": 0
   },
   {
     "id": "q114",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "Louis Ducos du Hauron",
-      "Sergey Prokudin-Gorsky",
-      "James Clerk Maxwell",
-      "Gabriel Lippmann"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet le calcul massivement parallèle en intelligence artificielle ?",
+    "answers": ["CPU", "GPU", "Disque dur", "Microcontrôleur"],
+    "correctIndex": 1
   },
   {
     "id": "q115",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Willard Boyle",
-      "Steven Sasson",
-      "George E. Smith",
-      "Russell Kirsch"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est utilisée pour stocker l’énergie sous forme électrochimique ?",
+    "answers": ["Alternateur", "Condensateur", "Batterie", "Transformateur"],
+    "correctIndex": 2
   },
   {
     "id": "q116",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "William Cullen",
-      "Clarence Birdseye",
-      "Jacob Perkins",
-      "Carl von Linde"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet la réduction du bruit actif dans les casques audio ?",
+    "answers": ["Isolation passive", "Filtre analogique", "Amplificateur", "Annulation active du bruit"],
+    "correctIndex": 3
   },
   {
     "id": "q117",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "Gabriel Lippmann",
-      "James Clerk Maxwell",
-      "Sergey Prokudin-Gorsky",
-      "Louis Ducos du Hauron"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention a permis l’automatisation industrielle moderne ?",
+    "answers": ["Automate programmable", "Machine à vapeur", "Moteur thermique", "Convoyeur"],
+    "correctIndex": 0
   },
   {
     "id": "q118",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "Sergey Prokudin-Gorsky",
-      "Gabriel Lippmann",
-      "Louis Ducos du Hauron",
-      "James Clerk Maxwell"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la détection de présence sans contact physique ?",
+    "answers": ["Interrupteur", "Capteur infrarouge", "Thermomètre", "Accéléromètre"],
+    "correctIndex": 1
   },
   {
     "id": "q119",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "James Clerk Maxwell",
-      "Gabriel Lippmann",
-      "Louis Ducos du Hauron",
-      "Sergey Prokudin-Gorsky"
-    ],
+    "text": "Quelle invention est utilisée pour produire de l’électricité à partir du vent ?",
+    "answers": ["Alternateur", "Générateur", "Éolienne", "Turbine hydraulique"],
     "correctIndex": 2
   },
   {
     "id": "q120",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
-    "answers": [
-      "Auguste Perret",
-      "Jean-Louis Lambot",
-      "François Hennebique",
-      "Joseph Monier"
-    ],
+    "text": "Quelle invention permet la transmission d’énergie électrique sur de longues distances ?",
+    "answers": ["Pile", "Batterie", "Résistance", "Transformateur"],
     "correctIndex": 3
   },
+
   {
     "id": "q121",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "Andrew Carnegie",
-      "Robert Mushet",
-      "Henry Bessemer",
-      "William Siemens"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention a permis la mesure précise de la pression atmosphérique ?",
+    "answers": ["Baromètre", "Altimètre", "Anémomètre", "Thermomètre"],
+    "correctIndex": 0
   },
   {
     "id": "q122",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
-    "answers": [
-      "Samuel Morse",
-      "Alfred Vail",
-      "William Fothergill Cooke",
-      "Charles Wheatstone"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la communication sans fil à courte portée entre appareils ?",
+    "answers": ["Wi-Fi", "Bluetooth", "GPS", "NFC"],
+    "correctIndex": 1
   },
   {
     "id": "q123",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
-    "answers": [
-      "Hans von Ohain",
-      "Albert Fonó",
-      "Frank Whittle",
-      "Henri Coandă"
-    ],
+    "text": "Quelle invention est utilisée pour mesurer la vitesse de rotation d’un moteur ?",
+    "answers": ["Altimètre", "Voltmètre", "Tachymètre", "Ampèremètre"],
     "correctIndex": 2
   },
   {
     "id": "q124",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "Clarence Birdseye",
-      "William Cullen",
-      "Carl von Linde",
-      "Jacob Perkins"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la reconnaissance faciale automatisée ?",
+    "answers": ["Caméra thermique", "Scanner", "Microphone", "Algorithmes biométriques"],
+    "correctIndex": 3
   },
   {
     "id": "q125",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
-    "answers": [
-      "Robert Hooke",
-      "Galileo Galilei",
-      "Zacharias Janssen",
-      "Antonie van Leeuwenhoek"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention a permis la production industrielle de l’acier moderne ?",
+    "answers": ["Procédé Bessemer", "Haut fourneau", "Forge", "Convertisseur"],
+    "correctIndex": 0
   },
   {
     "id": "q126",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
-    "answers": [
-      "Jean-Louis Lambot",
-      "François Hennebique",
-      "Joseph Monier",
-      "Auguste Perret"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la localisation précise d’un smartphone ?",
+    "answers": ["Boussole", "GPS", "Accéléromètre", "Gyroscope"],
+    "correctIndex": 1
   },
   {
     "id": "q127",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Russell Kirsch",
-      "George E. Smith",
-      "Willard Boyle",
-      "Steven Sasson"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention est utilisée pour analyser les vibrations d’une structure ?",
+    "answers": ["Thermomètre", "Baromètre", "Accéléromètre", "Hygromètre"],
+    "correctIndex": 2
   },
   {
     "id": "q128",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "Sergey Prokudin-Gorsky",
-      "James Clerk Maxwell",
-      "Gabriel Lippmann",
-      "Louis Ducos du Hauron"
-    ],
+    "text": "Quelle invention permet le stockage massif de données numériques ?",
+    "answers": ["Mémoire cache", "RAM", "Carte graphique", "Centre de données"],
     "correctIndex": 3
   },
   {
     "id": "q129",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "Clarence Birdseye",
-      "Jacob Perkins",
-      "William Cullen",
-      "Carl von Linde"
-    ],
+    "text": "Quelle invention a permis la photographie numérique moderne ?",
+    "answers": ["Capteur CCD", "Pellicule", "Tube cathodique", "Scanner"],
     "correctIndex": 0
   },
   {
     "id": "q130",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
-    "answers": [
-      "Rune Elmqvist",
-      "John Hopps",
-      "Paul Zoll",
-      "Wilson Greatbatch"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la transmission d’informations par lumière ?",
+    "answers": ["Laser", "Fibre optique", "Antenne radio", "Micro-onde"],
+    "correctIndex": 1
   },
+
   {
     "id": "q131",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
-    "answers": [
-      "Emile Berliner",
-      "Alexander Graham Bell",
-      "Thomas Edison",
-      "Charles Cros"
-    ],
+    "text": "Quelle invention est utilisée pour convertir une énergie mécanique en énergie électrique ?",
+    "answers": ["Condensateur", "Résistance", "Générateur", "Transformateur"],
     "correctIndex": 2
   },
   {
     "id": "q132",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
-    "answers": [
-      "Joseph Monier",
-      "Jean-Louis Lambot",
-      "François Hennebique",
-      "Auguste Perret"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet l’atterrissage automatique des avions par faible visibilité ?",
+    "answers": ["Radar météo", "Altimètre", "GPS", "Système ILS"],
+    "correctIndex": 3
   },
   {
     "id": "q133",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
-    "answers": [
-      "Paul Zoll",
-      "Wilson Greatbatch",
-      "Rune Elmqvist",
-      "John Hopps"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention a permis l’observation microscopique des virus ?",
+    "answers": ["Microscope électronique", "Microscope optique", "Scanner", "IRM"],
+    "correctIndex": 0
   },
   {
     "id": "q134",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "Robert Mushet",
-      "William Siemens",
-      "Andrew Carnegie",
-      "Henry Bessemer"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet la détection automatique des intrusions informatiques ?",
+    "answers": ["Pare-feu", "Système de détection d’intrusion", "Antivirus", "VPN"],
+    "correctIndex": 1
   },
   {
     "id": "q135",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
-    "answers": [
-      "Alfred Vail",
-      "William Fothergill Cooke",
-      "Samuel Morse",
-      "Charles Wheatstone"
-    ],
+    "text": "Quelle invention est utilisée pour mesurer la consommation électrique d’un appareil ?",
+    "answers": ["Voltmètre", "Ampèremètre", "Compteur électrique", "Oscilloscope"],
     "correctIndex": 2
   },
   {
     "id": "q136",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
-    "answers": [
-      "Charles Wheatstone",
-      "Alfred Vail",
-      "William Fothergill Cooke",
-      "Samuel Morse"
-    ],
+    "text": "Quelle invention permet la détection automatique de fumée dans un bâtiment ?",
+    "answers": ["Capteur thermique", "Capteur infrarouge", "Capteur de gaz", "Détecteur de fumée"],
     "correctIndex": 3
   },
   {
     "id": "q137",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
-    "answers": [
-      "Charles Cros",
-      "Emile Berliner",
-      "Alexander Graham Bell",
-      "Thomas Edison"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention a permis la navigation maritime moderne ?",
+    "answers": ["Chronomètre marin", "Boussole", "Astrolabe", "Sextant"],
+    "correctIndex": 0
   },
   {
     "id": "q138",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "Jacob Perkins",
-      "William Cullen",
-      "Carl von Linde",
-      "Clarence Birdseye"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet la recharge sans fil des appareils électroniques ?",
+    "answers": ["Induction électromagnétique", "Rayonnement micro-onde", "Laser", "Champ électrique"],
+    "correctIndex": 1
   },
   {
     "id": "q139",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
-    "answers": [
-      "Albert Fonó",
-      "Hans von Ohain",
-      "Henri Coandă",
-      "Frank Whittle"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention est utilisée pour mesurer la qualité de l’air ?",
+    "answers": ["Baromètre", "Thermomètre", "Capteur de particules fines", "Hygromètre"],
+    "correctIndex": 2
   },
   {
     "id": "q140",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Russell Kirsch",
-      "Steven Sasson",
-      "Willard Boyle",
-      "George E. Smith"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet la diffusion mondiale de signaux télévisés ?",
+    "answers": ["Antenne relais", "Câble coaxial", "Fibre optique", "Satellite de télécommunication"],
+    "correctIndex": 3
   },
+
   {
     "id": "q141",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
-    "answers": [
-      "Zacharias Janssen",
-      "Robert Hooke",
-      "Galileo Galilei",
-      "Antonie van Leeuwenhoek"
-    ],
+    "text": "Quelle invention a permis le développement de l’informatique personnelle ?",
+    "answers": ["Microprocesseur", "Mainframe", "Carte perforée", "Terminal"],
     "correctIndex": 0
   },
   {
     "id": "q142",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "Clarence Birdseye",
-      "Jacob Perkins",
-      "Carl von Linde",
-      "William Cullen"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la transmission sécurisée de données sur Internet ?",
+    "answers": ["HTTP", "Chiffrement SSL/TLS", "FTP", "SMTP"],
+    "correctIndex": 1
   },
   {
     "id": "q143",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Steven Sasson",
-      "George E. Smith",
-      "Willard Boyle",
-      "Russell Kirsch"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention est utilisée pour mesurer l’intensité d’un courant électrique ?",
+    "answers": ["Voltmètre", "Ohmmètre", "Ampèremètre", "Oscilloscope"],
+    "correctIndex": 2
   },
   {
     "id": "q144",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
-    "answers": [
-      "Emile Berliner",
-      "Charles Cros",
-      "Alexander Graham Bell",
-      "Thomas Edison"
-    ],
+    "text": "Quelle invention permet la stabilisation des images dans les caméras modernes ?",
+    "answers": ["Zoom optique", "Mise au point automatique", "Filtre", "Stabilisation optique"],
     "correctIndex": 3
   },
   {
     "id": "q145",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
-    "answers": [
-      "Samuel Morse",
-      "Charles Wheatstone",
-      "William Fothergill Cooke",
-      "Alfred Vail"
-    ],
+    "text": "Quelle invention a permis la cartographie moderne par satellite ?",
+    "answers": ["Imagerie satellitaire", "Photographie aérienne", "Radar", "GPS"],
     "correctIndex": 0
   },
   {
     "id": "q146",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "Andrew Carnegie",
-      "Henry Bessemer",
-      "Robert Mushet",
-      "William Siemens"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet la reconnaissance vocale automatique ?",
+    "answers": ["Microphone", "Synthèse vocale", "Réseaux neuronaux", "Compression audio"],
+    "correctIndex": 2
   },
   {
     "id": "q147",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
-    "answers": [
-      "Thomas Edison",
-      "Emile Berliner",
-      "Charles Cros",
-      "Alexander Graham Bell"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention est utilisée pour produire des impulsions laser ultracourtes ?",
+    "answers": ["Laser continu", "LED", "Amplificateur", "Laser femtoseconde"],
+    "correctIndex": 3
   },
   {
     "id": "q148",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "Louis Ducos du Hauron",
-      "Sergey Prokudin-Gorsky",
-      "James Clerk Maxwell",
-      "Gabriel Lippmann"
-    ],
+    "text": "Quelle invention a permis la miniaturisation des ordinateurs portables ?",
+    "answers": ["Circuit intégré", "Transistor", "Condensateur", "Relais"],
     "correctIndex": 0
   },
   {
     "id": "q149",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "Gabriel Lippmann",
-      "Louis Ducos du Hauron",
-      "Sergey Prokudin-Gorsky",
-      "James Clerk Maxwell"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet la mesure du temps avec une précision extrême ?",
+    "answers": ["Chronomètre", "Horloge mécanique", "Horloge atomique", "Sablier"],
+    "correctIndex": 2
   },
   {
     "id": "q150",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "Robert Mushet",
-      "William Siemens",
-      "Henry Bessemer",
-      "Andrew Carnegie"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la gestion automatique des réseaux électriques intelligents ?",
+    "answers": ["Compteur mécanique", "Transformateur", "Batterie", "Smart grid"],
+    "correctIndex": 3
   },
   {
     "id": "q151",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
-    "answers": [
-      "Charles Wheatstone",
-      "Alfred Vail",
-      "William Fothergill Cooke",
-      "Samuel Morse"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de mesurer précisément la déformation d’un matériau soumis à une contrainte mécanique ?",
+    "answers": ["La jauge de contrainte", "Le baromètre", "Le thermomètre", "L’altimètre"],
+    "correctIndex": 0
   },
   {
     "id": "q152",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
-    "answers": [
-      "Paul Zoll",
-      "Rune Elmqvist",
-      "John Hopps",
-      "Wilson Greatbatch"
-    ],
+    "text": "Quelle invention permet la transmission de données numériques à très haut débit grâce à la lumière ?",
+    "answers": ["Le laser", "La fibre optique", "L’antenne radio", "Le micro-onde"],
     "correctIndex": 1
   },
   {
     "id": "q153",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
-    "answers": [
-      "Robert Hooke",
-      "Zacharias Janssen",
-      "Antonie van Leeuwenhoek",
-      "Galileo Galilei"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est utilisée pour stocker de l’énergie électrique et la restituer presque instantanément ?",
+    "answers": ["La batterie", "La pile", "Le supercondensateur", "L’alternateur"],
+    "correctIndex": 2
   },
   {
     "id": "q154",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "Sergey Prokudin-Gorsky",
-      "Gabriel Lippmann",
-      "Louis Ducos du Hauron",
-      "James Clerk Maxwell"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de corriger automatiquement l’orbite d’un satellite ?",
+    "answers": ["Le radar", "L’altimètre", "L’antenne", "Le propulseur ionique"],
+    "correctIndex": 3
   },
+
   {
     "id": "q155",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
-    "answers": [
-      "Joseph Monier",
-      "Auguste Perret",
-      "François Hennebique",
-      "Jean-Louis Lambot"
-    ],
+    "text": "Quelle invention a rendu possible la miniaturisation massive des composants électroniques modernes ?",
+    "answers": ["Le circuit intégré", "Le relais", "Le tube à vide", "Le condensateur"],
     "correctIndex": 0
   },
   {
     "id": "q156",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "Jacob Perkins",
-      "Clarence Birdseye",
-      "William Cullen",
-      "Carl von Linde"
-    ],
+    "text": "Quelle invention permet de mesurer le temps avec une précision indispensable aux systèmes GPS ?",
+    "answers": ["Le chronomètre", "L’horloge atomique", "L’horloge mécanique", "La montre à quartz"],
     "correctIndex": 1
   },
   {
     "id": "q157",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "Carl von Linde",
-      "William Cullen",
-      "Jacob Perkins",
-      "Clarence Birdseye"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention est utilisée pour analyser précisément la composition chimique d’un matériau ?",
+    "answers": ["Le scanner", "La radiographie", "Le spectromètre", "Le microscope"],
+    "correctIndex": 2
   },
   {
     "id": "q158",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "William Siemens",
-      "Henry Bessemer",
-      "Andrew Carnegie",
-      "Robert Mushet"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet la gestion automatisée de milliers de serveurs informatiques ?",
+    "answers": ["Le serveur", "L’onduleur", "Le pare-feu", "L’orchestration logicielle"],
+    "correctIndex": 3
   },
+
   {
     "id": "q159",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
-    "answers": [
-      "Zacharias Janssen",
-      "Robert Hooke",
-      "Antonie van Leeuwenhoek",
-      "Galileo Galilei"
-    ],
+    "text": "Quelle invention a permis l’observation de la matière à l’échelle atomique ?",
+    "answers": ["Le microscope à effet tunnel", "Le microscope optique", "Le scanner", "La radiographie"],
     "correctIndex": 0
   },
   {
     "id": "q160",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "Carl von Linde",
-      "William Cullen",
-      "Jacob Perkins",
-      "Clarence Birdseye"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de transmettre des données sans interférences électromagnétiques ?",
+    "answers": ["Le Wi-Fi", "La fibre optique", "Le Bluetooth", "La radio FM"],
+    "correctIndex": 1
   },
   {
     "id": "q161",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
-    "answers": [
-      "Albert Fonó",
-      "Hans von Ohain",
-      "Frank Whittle",
-      "Henri Coandă"
-    ],
+    "text": "Quelle invention est utilisée pour simuler des phénomènes physiques extrêmement complexes ?",
+    "answers": ["L’ordinateur personnel", "La calculatrice", "Le superordinateur", "L’automate"],
     "correctIndex": 2
   },
   {
     "id": "q162",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "Andrew Carnegie",
-      "William Siemens",
-      "Robert Mushet",
-      "Henry Bessemer"
-    ],
+    "text": "Quelle invention permet la propulsion efficace des sondes spatiales sur de très longues distances ?",
+    "answers": ["Le moteur chimique", "Le moteur à propergol solide", "La voile solaire", "Le propulseur ionique"],
     "correctIndex": 3
   },
+
   {
     "id": "q163",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
-    "answers": [
-      "Alexander Graham Bell",
-      "Thomas Edison",
-      "Charles Cros",
-      "Emile Berliner"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention a rendu possible le développement de l’informatique personnelle ?",
+    "answers": ["Le microprocesseur", "Le mainframe", "La carte perforée", "Le terminal"],
+    "correctIndex": 0
   },
   {
     "id": "q164",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
-    "answers": [
-      "Charles Cros",
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Emile Berliner"
-    ],
+    "text": "Quelle invention permet de localiser précisément un appareil partout sur Terre ?",
+    "answers": ["La boussole", "Le GPS", "L’accéléromètre", "Le gyroscope"],
     "correctIndex": 1
   },
   {
     "id": "q165",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "Andrew Carnegie",
-      "William Siemens",
-      "Henry Bessemer",
-      "Robert Mushet"
-    ],
+    "text": "Quelle invention est utilisée pour mesurer l’intensité d’un courant électrique ?",
+    "answers": ["Le voltmètre", "L’ohmmètre", "L’ampèremètre", "L’oscilloscope"],
     "correctIndex": 2
   },
   {
     "id": "q166",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "James Clerk Maxwell",
-      "Gabriel Lippmann",
-      "Sergey Prokudin-Gorsky",
-      "Louis Ducos du Hauron"
-    ],
+    "text": "Quelle invention permet la détection automatique de fumée dans un bâtiment ?",
+    "answers": ["Le capteur thermique", "La caméra", "Le capteur de gaz", "Le détecteur de fumée"],
     "correctIndex": 3
   },
+
   {
     "id": "q167",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
-    "answers": [
-      "Samuel Morse",
-      "Charles Wheatstone",
-      "William Fothergill Cooke",
-      "Alfred Vail"
-    ],
+    "text": "Quelle invention a permis une navigation maritime fiable au XVIIIe siècle ?",
+    "answers": ["Le chronomètre marin", "L’astrolabe", "Le sextant", "La boussole"],
     "correctIndex": 0
   },
   {
     "id": "q168",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
-    "answers": [
-      "Zacharias Janssen",
-      "Galileo Galilei",
-      "Robert Hooke",
-      "Antonie van Leeuwenhoek"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la recharge sans fil des appareils électroniques ?",
+    "answers": ["Le rayonnement direct", "L’induction électromagnétique", "Le laser", "Le champ électrique"],
+    "correctIndex": 1
   },
   {
     "id": "q169",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
-    "answers": [
-      "Zacharias Janssen",
-      "Galileo Galilei",
-      "Antonie van Leeuwenhoek",
-      "Robert Hooke"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention est utilisée pour mesurer des champs électriques extrêmement faibles ?",
+    "answers": ["Le voltmètre", "L’oscilloscope", "L’électromètre", "L’ampèremètre"],
+    "correctIndex": 2
   },
   {
     "id": "q170",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "Clarence Birdseye",
-      "Jacob Perkins",
-      "William Cullen",
-      "Carl von Linde"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la régulation automatique de la pression dans les avions de ligne ?",
+    "answers": ["Le compresseur", "L’altimètre", "Le capteur thermique", "Le système de pressurisation"],
+    "correctIndex": 3
   },
+
   {
     "id": "q171",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
-    "answers": [
-      "Frank Whittle",
-      "Albert Fonó",
-      "Hans von Ohain",
-      "Henri Coandă"
-    ],
+    "text": "Quelle invention a rendu possible la fabrication des puces électroniques modernes ?",
+    "answers": ["La photolithographie", "L’impression 3D", "Le moulage", "La gravure mécanique"],
     "correctIndex": 0
   },
   {
     "id": "q172",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "George E. Smith",
-      "Willard Boyle",
-      "Steven Sasson",
-      "Russell Kirsch"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de détecter des objets sans visibilité directe ?",
+    "answers": ["La caméra", "Le radar", "Le GPS", "La boussole"],
+    "correctIndex": 1
   },
   {
     "id": "q173",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
-    "answers": [
-      "Wilson Greatbatch",
-      "Paul Zoll",
-      "Rune Elmqvist",
-      "John Hopps"
-    ],
+    "text": "Quelle invention est utilisée pour stocker d’immenses volumes de données numériques ?",
+    "answers": ["La RAM", "La mémoire cache", "Le centre de données", "Le registre"],
     "correctIndex": 2
   },
   {
     "id": "q174",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
-    "answers": [
-      "Auguste Perret",
-      "Joseph Monier",
-      "Jean-Louis Lambot",
-      "François Hennebique"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet l’atterrissage automatique des avions en conditions de faible visibilité ?",
+    "answers": ["Le radar météo", "L’altimètre", "Le GPS", "Le système ILS"],
+    "correctIndex": 3
   },
+
   {
     "id": "q175",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "Carl von Linde",
-      "William Cullen",
-      "Jacob Perkins",
-      "Clarence Birdseye"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention a permis la détection de planètes situées en dehors du système solaire ?",
+    "answers": ["Le spectrographe de précision", "Le radiotélescope", "Le radar", "L’altimètre"],
+    "correctIndex": 0
   },
   {
     "id": "q176",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
-    "answers": [
-      "Wilson Greatbatch",
-      "John Hopps",
-      "Rune Elmqvist",
-      "Paul Zoll"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la transmission sécurisée de données sur Internet ?",
+    "answers": ["Le protocole HTTP", "Le chiffrement TLS", "Le FTP", "Le SMTP"],
+    "correctIndex": 1
   },
   {
     "id": "q177",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
-    "answers": [
-      "Alfred Vail",
-      "William Fothergill Cooke",
-      "Charles Wheatstone",
-      "Samuel Morse"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention est utilisée pour mesurer la vitesse de rotation d’un moteur ?",
+    "answers": ["Le voltmètre", "Le baromètre", "Le tachymètre", "L’altimètre"],
+    "correctIndex": 2
   },
   {
     "id": "q178",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Steven Sasson",
-      "George E. Smith",
-      "Willard Boyle",
-      "Russell Kirsch"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la gestion intelligente des feux de circulation en ville ?",
+    "answers": ["La minuterie", "Le capteur simple", "La caméra", "Le système adaptatif de trafic"],
+    "correctIndex": 3
   },
+
   {
     "id": "q179",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
-    "answers": [
-      "Jean-Louis Lambot",
-      "Joseph Monier",
-      "Auguste Perret",
-      "François Hennebique"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention a permis l’imagerie fonctionnelle du cerveau humain ?",
+    "answers": ["L’IRM fonctionnelle", "Le scanner", "La radiographie", "L’électroencéphalogramme"],
+    "correctIndex": 0
   },
   {
     "id": "q180",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
-    "answers": [
-      "Auguste Perret",
-      "François Hennebique",
-      "Jean-Louis Lambot",
-      "Joseph Monier"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet la communication longue distance entre objets connectés à faible énergie ?",
+    "answers": ["Le Wi-Fi", "Le LoRaWAN", "La 4G", "Le Bluetooth classique"],
+    "correctIndex": 1
   },
   {
     "id": "q181",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
-    "answers": [
-      "John Hopps",
-      "Paul Zoll",
-      "Rune Elmqvist",
-      "Wilson Greatbatch"
-    ],
+    "text": "Quelle invention est utilisée pour mesurer le débit d’un fluide dans une conduite ?",
+    "answers": ["Le thermomètre", "Le baromètre", "Le débitmètre", "L’altimètre"],
     "correctIndex": 2
   },
   {
     "id": "q182",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "Henry Bessemer",
-      "William Siemens",
-      "Robert Mushet",
-      "Andrew Carnegie"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la supervision automatisée des infrastructures industrielles ?",
+    "answers": ["Le capteur simple", "La caméra", "L’alarme", "Le système SCADA"],
+    "correctIndex": 3
   },
+
   {
     "id": "q183",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
-    "answers": [
-      "John Hopps",
-      "Paul Zoll",
-      "Wilson Greatbatch",
-      "Rune Elmqvist"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention a permis l’observation directe des virus ?",
+    "answers": ["Le microscope électronique", "Le microscope optique", "Le scanner", "L’IRM"],
+    "correctIndex": 0
   },
   {
     "id": "q184",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
-    "answers": [
-      "William Fothergill Cooke",
-      "Alfred Vail",
-      "Charles Wheatstone",
-      "Samuel Morse"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention est utilisée pour détecter automatiquement les fraudes financières ?",
+    "answers": ["Le pare-feu", "L’apprentissage automatique", "Le VPN", "L’antivirus"],
+    "correctIndex": 1
   },
   {
     "id": "q185",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Steven Sasson",
-      "Willard Boyle",
-      "Russell Kirsch",
-      "George E. Smith"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention est utilisée pour mesurer la concentration de gaz dans l’air ?",
+    "answers": ["Le baromètre", "Le thermomètre", "Le capteur de gaz", "L’altimètre"],
+    "correctIndex": 2
   },
   {
     "id": "q186",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
-    "answers": [
-      "John Hopps",
-      "Rune Elmqvist",
-      "Paul Zoll",
-      "Wilson Greatbatch"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet la production expérimentale d’énergie par fusion nucléaire ?",
+    "answers": ["Le réacteur à fission", "La centrale thermique", "L’accélérateur", "Le tokamak"],
+    "correctIndex": 3
   },
+
   {
     "id": "q187",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
-    "answers": [
-      "Joseph Monier",
-      "Auguste Perret",
-      "François Hennebique",
-      "Jean-Louis Lambot"
-    ],
+    "text": "Quelle invention a permis la réduction active du bruit dans les casques audio modernes ?",
+    "answers": ["Le traitement numérique du signal", "L’isolation passive", "L’amplificateur", "Le filtre analogique"],
     "correctIndex": 0
   },
   {
     "id": "q188",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "Sergey Prokudin-Gorsky",
-      "Gabriel Lippmann",
-      "James Clerk Maxwell",
-      "Louis Ducos du Hauron"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet la navigation autonome des véhicules spatiaux ?",
+    "answers": ["Le radar", "La navigation inertielle", "La télécommande", "La boussole"],
+    "correctIndex": 1
   },
   {
     "id": "q189",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
-    "answers": [
-      "Galileo Galilei",
-      "Antonie van Leeuwenhoek",
-      "Robert Hooke",
-      "Zacharias Janssen"
-    ],
+    "text": "Quelle invention est utilisée pour analyser automatiquement des images médicales ?",
+    "answers": ["Le scanner", "L’IRM", "La radiographie", "L’intelligence artificielle"],
     "correctIndex": 3
   },
   {
     "id": "q190",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "George E. Smith",
-      "Steven Sasson",
-      "Russell Kirsch",
-      "Willard Boyle"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention a permis la gestion intelligente des réseaux électriques modernes ?",
+    "answers": ["Le compteur mécanique", "Le transformateur", "La batterie", "Le smart grid"],
+    "correctIndex": 3
   },
+
   {
     "id": "q191",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
-    "answers": [
-      "Robert Hooke",
-      "Antonie van Leeuwenhoek",
-      "Galileo Galilei",
-      "Zacharias Janssen"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de mesurer avec précision les vibrations d’une structure ?",
+    "answers": ["L’accéléromètre", "Le thermomètre", "Le baromètre", "L’altimètre"],
+    "correctIndex": 0
   },
   {
     "id": "q192",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "Henry Bessemer",
-      "Robert Mushet",
-      "Andrew Carnegie",
-      "William Siemens"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la communication sécurisée entre machines industrielles ?",
+    "answers": ["Le HTTP", "Le protocole industriel chiffré", "Le FTP", "Le SMTP"],
+    "correctIndex": 1
   },
   {
     "id": "q193",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "Jacob Perkins",
-      "William Cullen",
-      "Carl von Linde",
-      "Clarence Birdseye"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention est utilisée pour mesurer la densité d’un liquide ?",
+    "answers": ["Le thermomètre", "Le baromètre", "Le densimètre", "L’altimètre"],
+    "correctIndex": 2
   },
   {
     "id": "q194",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
-    "answers": [
-      "Hans von Ohain",
-      "Henri Coandă",
-      "Frank Whittle",
-      "Albert Fonó"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la stabilisation automatique des gratte-ciel face au vent ?",
+    "answers": ["Le contrepoids", "La fondation profonde", "Le renfort métallique", "L’amortisseur de masse accordée"],
+    "correctIndex": 3
   },
+
   {
     "id": "q195",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
-    "answers": [
-      "Zacharias Janssen",
-      "Robert Hooke",
-      "Antonie van Leeuwenhoek",
-      "Galileo Galilei"
-    ],
+    "text": "Quelle invention a permis l’observation de structures à l’échelle nanométrique ?",
+    "answers": ["Le microscope à force atomique", "Le microscope optique", "Le scanner", "La radiographie"],
     "correctIndex": 0
   },
   {
     "id": "q196",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
-    "answers": [
-      "Emile Berliner",
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Charles Cros"
-    ],
+    "text": "Quelle invention permet la détection automatique d’intrusions informatiques ?",
+    "answers": ["Le pare-feu", "Le système de détection d’intrusion", "L’antivirus", "Le VPN"],
     "correctIndex": 1
   },
   {
     "id": "q197",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
-    "answers": [
-      "Hans von Ohain",
-      "Frank Whittle",
-      "Henri Coandă",
-      "Albert Fonó"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est utilisée pour mesurer la consommation électrique d’un bâtiment ?",
+    "answers": ["Le voltmètre", "L’ampèremètre", "Le compteur électrique", "L’oscilloscope"],
+    "correctIndex": 2
   },
   {
     "id": "q198",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "William Siemens",
-      "Henry Bessemer",
-      "Andrew Carnegie",
-      "Robert Mushet"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet la gestion automatique de la production d’énergie renouvelable ?",
+    "answers": ["Le générateur", "La batterie", "Le transformateur", "Le système de gestion énergétique"],
+    "correctIndex": 3
   },
+
   {
     "id": "q199",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
-    "answers": [
-      "Paul Zoll",
-      "John Hopps",
-      "Rune Elmqvist",
-      "Wilson Greatbatch"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention a permis la transmission de signaux télévisés à l’échelle mondiale ?",
+    "answers": ["Le satellite de télécommunication", "L’antenne relais", "Le câble coaxial", "La fibre optique"],
+    "correctIndex": 0
   },
   {
     "id": "q200",
     "category": "Inventions",
     "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
-    "answers": [
-      "Jean-Louis Lambot",
-      "Joseph Monier",
-      "Auguste Perret",
-      "François Hennebique"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q201",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Russell Kirsch",
-      "George E. Smith",
-      "Steven Sasson",
-      "Willard Boyle"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q202",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "William Siemens",
-      "Henry Bessemer",
-      "Robert Mushet",
-      "Andrew Carnegie"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q203",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
-    "answers": [
-      "Alfred Vail",
-      "William Fothergill Cooke",
-      "Charles Wheatstone",
-      "Samuel Morse"
-    ],
+    "text": "Quelle invention permet la synchronisation automatique des réseaux électriques modernes ?",
+    "answers": ["Le transformateur", "La batterie", "Le compteur intelligent", "Le réseau électrique intelligent"],
     "correctIndex": 3
-  },
-  {
-    "id": "q204",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
-    "answers": [
-      "Paul Zoll",
-      "Rune Elmqvist",
-      "Wilson Greatbatch",
-      "John Hopps"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q205",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Willard Boyle",
-      "Steven Sasson",
-      "Russell Kirsch",
-      "George E. Smith"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q206",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "Carl von Linde",
-      "William Cullen",
-      "Clarence Birdseye",
-      "Jacob Perkins"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q207",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
-    "answers": [
-      "François Hennebique",
-      "Auguste Perret",
-      "Joseph Monier",
-      "Jean-Louis Lambot"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q208",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
-    "answers": [
-      "Emile Berliner",
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Charles Cros"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q209",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "Louis Ducos du Hauron",
-      "Sergey Prokudin-Gorsky",
-      "Gabriel Lippmann",
-      "James Clerk Maxwell"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q210",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "Carl von Linde",
-      "Jacob Perkins",
-      "William Cullen",
-      "Clarence Birdseye"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q211",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
-    "answers": [
-      "Emile Berliner",
-      "Charles Cros",
-      "Alexander Graham Bell",
-      "Thomas Edison"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q212",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
-    "answers": [
-      "Charles Wheatstone",
-      "William Fothergill Cooke",
-      "Samuel Morse",
-      "Alfred Vail"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q213",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
-    "answers": [
-      "Galileo Galilei",
-      "Robert Hooke",
-      "Zacharias Janssen",
-      "Antonie van Leeuwenhoek"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q214",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Willard Boyle",
-      "Russell Kirsch",
-      "Steven Sasson",
-      "George E. Smith"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q215",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
-    "answers": [
-      "Joseph Monier",
-      "Auguste Perret",
-      "François Hennebique",
-      "Jean-Louis Lambot"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q216",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "Henry Bessemer",
-      "Andrew Carnegie",
-      "Robert Mushet",
-      "William Siemens"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q217",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
-    "answers": [
-      "Charles Cros",
-      "Alexander Graham Bell",
-      "Emile Berliner",
-      "Thomas Edison"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q218",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
-    "answers": [
-      "Emile Berliner",
-      "Thomas Edison",
-      "Charles Cros",
-      "Alexander Graham Bell"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q219",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "Henry Bessemer",
-      "Andrew Carnegie",
-      "Robert Mushet",
-      "William Siemens"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q220",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
-    "answers": [
-      "Emile Berliner",
-      "Thomas Edison",
-      "Charles Cros",
-      "Alexander Graham Bell"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q221",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "Louis Ducos du Hauron",
-      "Gabriel Lippmann",
-      "Sergey Prokudin-Gorsky",
-      "James Clerk Maxwell"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q222",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "Henry Bessemer",
-      "Robert Mushet",
-      "William Siemens",
-      "Andrew Carnegie"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q223",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Steven Sasson",
-      "George E. Smith",
-      "Russell Kirsch",
-      "Willard Boyle"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q224",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
-    "answers": [
-      "Thomas Edison",
-      "Emile Berliner",
-      "Alexander Graham Bell",
-      "Charles Cros"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q225",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "Henry Bessemer",
-      "William Siemens",
-      "Andrew Carnegie",
-      "Robert Mushet"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q226",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "Louis Ducos du Hauron",
-      "James Clerk Maxwell",
-      "Sergey Prokudin-Gorsky",
-      "Gabriel Lippmann"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q227",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Russell Kirsch",
-      "Willard Boyle",
-      "Steven Sasson",
-      "George E. Smith"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q228",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
-    "answers": [
-      "Charles Wheatstone",
-      "William Fothergill Cooke",
-      "Alfred Vail",
-      "Samuel Morse"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q229",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "Jacob Perkins",
-      "Carl von Linde",
-      "Clarence Birdseye",
-      "William Cullen"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q230",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
-    "answers": [
-      "Wilson Greatbatch",
-      "Rune Elmqvist",
-      "Paul Zoll",
-      "John Hopps"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q231",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
-    "answers": [
-      "Alexander Graham Bell",
-      "Emile Berliner",
-      "Charles Cros",
-      "Thomas Edison"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q232",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
-    "answers": [
-      "Antonie van Leeuwenhoek",
-      "Galileo Galilei",
-      "Robert Hooke",
-      "Zacharias Janssen"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q233",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Steven Sasson",
-      "Russell Kirsch",
-      "George E. Smith",
-      "Willard Boyle"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q234",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Steven Sasson",
-      "George E. Smith",
-      "Willard Boyle",
-      "Russell Kirsch"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q235",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
-    "answers": [
-      "Frank Whittle",
-      "Albert Fonó",
-      "Henri Coandă",
-      "Hans von Ohain"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q236",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
-    "answers": [
-      "Auguste Perret",
-      "Joseph Monier",
-      "Jean-Louis Lambot",
-      "François Hennebique"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q237",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
-    "answers": [
-      "Thomas Edison",
-      "Charles Cros",
-      "Alexander Graham Bell",
-      "Emile Berliner"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q238",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Russell Kirsch",
-      "Steven Sasson",
-      "Willard Boyle",
-      "George E. Smith"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q239",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
-    "answers": [
-      "John Hopps",
-      "Paul Zoll",
-      "Wilson Greatbatch",
-      "Rune Elmqvist"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q240",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "Carl von Linde",
-      "Jacob Perkins",
-      "Clarence Birdseye",
-      "William Cullen"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q241",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "Clarence Birdseye",
-      "Carl von Linde",
-      "William Cullen",
-      "Jacob Perkins"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q242",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "William Cullen",
-      "Carl von Linde",
-      "Jacob Perkins",
-      "Clarence Birdseye"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q243",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
-    "answers": [
-      "Charles Wheatstone",
-      "Samuel Morse",
-      "William Fothergill Cooke",
-      "Alfred Vail"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q244",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "Jacob Perkins",
-      "Clarence Birdseye",
-      "Carl von Linde",
-      "William Cullen"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q245",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "William Cullen",
-      "Carl von Linde",
-      "Clarence Birdseye",
-      "Jacob Perkins"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q246",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "Carl von Linde",
-      "William Cullen",
-      "Jacob Perkins",
-      "Clarence Birdseye"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q247",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "Andrew Carnegie",
-      "Robert Mushet",
-      "Henry Bessemer",
-      "William Siemens"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q248",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
-    "answers": [
-      "Joseph Monier",
-      "François Hennebique",
-      "Jean-Louis Lambot",
-      "Auguste Perret"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q249",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "Andrew Carnegie",
-      "Robert Mushet",
-      "Henry Bessemer",
-      "William Siemens"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q250",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
-    "answers": [
-      "Hans von Ohain",
-      "Albert Fonó",
-      "Henri Coandă",
-      "Frank Whittle"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q251",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "Andrew Carnegie",
-      "Robert Mushet",
-      "Henry Bessemer",
-      "William Siemens"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q252",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
-    "answers": [
-      "Charles Cros",
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Emile Berliner"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q253",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
-    "answers": [
-      "Charles Cros",
-      "Emile Berliner",
-      "Thomas Edison",
-      "Alexander Graham Bell"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q254",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "Sergey Prokudin-Gorsky",
-      "Gabriel Lippmann",
-      "Louis Ducos du Hauron",
-      "James Clerk Maxwell"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q255",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "James Clerk Maxwell",
-      "Gabriel Lippmann",
-      "Louis Ducos du Hauron",
-      "Sergey Prokudin-Gorsky"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q256",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
-    "answers": [
-      "Frank Whittle",
-      "Albert Fonó",
-      "Hans von Ohain",
-      "Henri Coandă"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q257",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Russell Kirsch",
-      "George E. Smith",
-      "Steven Sasson",
-      "Willard Boyle"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q258",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
-    "answers": [
-      "François Hennebique",
-      "Joseph Monier",
-      "Auguste Perret",
-      "Jean-Louis Lambot"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q259",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
-    "answers": [
-      "Wilson Greatbatch",
-      "Paul Zoll",
-      "Rune Elmqvist",
-      "John Hopps"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q260",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Steven Sasson",
-      "George E. Smith",
-      "Willard Boyle",
-      "Russell Kirsch"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q261",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "Sergey Prokudin-Gorsky",
-      "Gabriel Lippmann",
-      "Louis Ducos du Hauron",
-      "James Clerk Maxwell"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q262",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
-    "answers": [
-      "Henri Coandă",
-      "Frank Whittle",
-      "Hans von Ohain",
-      "Albert Fonó"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q263",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
-    "answers": [
-      "Charles Wheatstone",
-      "Alfred Vail",
-      "William Fothergill Cooke",
-      "Samuel Morse"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q264",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
-    "answers": [
-      "Hans von Ohain",
-      "Henri Coandă",
-      "Albert Fonó",
-      "Frank Whittle"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q265",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "Gabriel Lippmann",
-      "James Clerk Maxwell",
-      "Louis Ducos du Hauron",
-      "Sergey Prokudin-Gorsky"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q266",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "Clarence Birdseye",
-      "Carl von Linde",
-      "Jacob Perkins",
-      "William Cullen"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q267",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "Louis Ducos du Hauron",
-      "Gabriel Lippmann",
-      "Sergey Prokudin-Gorsky",
-      "James Clerk Maxwell"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q268",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "William Cullen",
-      "Clarence Birdseye",
-      "Jacob Perkins",
-      "Carl von Linde"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q269",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
-    "answers": [
-      "Alexander Graham Bell",
-      "Emile Berliner",
-      "Charles Cros",
-      "Thomas Edison"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q270",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
-    "answers": [
-      "Albert Fonó",
-      "Hans von Ohain",
-      "Henri Coandă",
-      "Frank Whittle"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q271",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
-    "answers": [
-      "François Hennebique",
-      "Jean-Louis Lambot",
-      "Auguste Perret",
-      "Joseph Monier"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q272",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "Carl von Linde",
-      "William Cullen",
-      "Clarence Birdseye",
-      "Jacob Perkins"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q273",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "William Siemens",
-      "Robert Mushet",
-      "Andrew Carnegie",
-      "Henry Bessemer"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q274",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
-    "answers": [
-      "Jean-Louis Lambot",
-      "Joseph Monier",
-      "François Hennebique",
-      "Auguste Perret"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q275",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
-    "answers": [
-      "Galileo Galilei",
-      "Robert Hooke",
-      "Antonie van Leeuwenhoek",
-      "Zacharias Janssen"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q276",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
-    "answers": [
-      "Auguste Perret",
-      "François Hennebique",
-      "Jean-Louis Lambot",
-      "Joseph Monier"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q277",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "Carl von Linde",
-      "Jacob Perkins",
-      "Clarence Birdseye",
-      "William Cullen"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q278",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du béton armé ?",
-    "answers": [
-      "Joseph Monier",
-      "François Hennebique",
-      "Jean-Louis Lambot",
-      "Auguste Perret"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q279",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
-    "answers": [
-      "Paul Zoll",
-      "John Hopps",
-      "Rune Elmqvist",
-      "Wilson Greatbatch"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q280",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Willard Boyle",
-      "George E. Smith",
-      "Russell Kirsch",
-      "Steven Sasson"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q281",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
-    "answers": [
-      "Robert Hooke",
-      "Zacharias Janssen",
-      "Galileo Galilei",
-      "Antonie van Leeuwenhoek"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q282",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Willard Boyle",
-      "Russell Kirsch",
-      "George E. Smith",
-      "Steven Sasson"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q283",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
-    "answers": [
-      "Alexander Graham Bell",
-      "Thomas Edison",
-      "Emile Berliner",
-      "Charles Cros"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q284",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "Robert Mushet",
-      "Henry Bessemer",
-      "William Siemens",
-      "Andrew Carnegie"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q285",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
-    "answers": [
-      "Charles Wheatstone",
-      "William Fothergill Cooke",
-      "Samuel Morse",
-      "Alfred Vail"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q286",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du phonographe ?",
-    "answers": [
-      "Charles Cros",
-      "Thomas Edison",
-      "Emile Berliner",
-      "Alexander Graham Bell"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q287",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui est l'inventeur du premier pacemaker implantable ?",
-    "answers": [
-      "John Hopps",
-      "Wilson Greatbatch",
-      "Rune Elmqvist",
-      "Paul Zoll"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q288",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé de conservation par congélation rapide ?",
-    "answers": [
-      "William Cullen",
-      "Jacob Perkins",
-      "Carl von Linde",
-      "Clarence Birdseye"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q289",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "Louis Ducos du Hauron",
-      "Sergey Prokudin-Gorsky",
-      "James Clerk Maxwell",
-      "Gabriel Lippmann"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q290",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le procédé Bessemer pour l'acier ?",
-    "answers": [
-      "Andrew Carnegie",
-      "William Siemens",
-      "Robert Mushet",
-      "Henry Bessemer"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q291",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Russell Kirsch",
-      "Steven Sasson",
-      "Willard Boyle",
-      "George E. Smith"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q292",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier procédé de photographie couleur ?",
-    "answers": [
-      "Sergey Prokudin-Gorsky",
-      "Louis Ducos du Hauron",
-      "Gabriel Lippmann",
-      "James Clerk Maxwell"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q293",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
-    "answers": [
-      "Alfred Vail",
-      "Samuel Morse",
-      "William Fothergill Cooke",
-      "Charles Wheatstone"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q294",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
-    "answers": [
-      "Henri Coandă",
-      "Albert Fonó",
-      "Frank Whittle",
-      "Hans von Ohain"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q295",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Willard Boyle",
-      "Steven Sasson",
-      "George E. Smith",
-      "Russell Kirsch"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q296",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
-    "answers": [
-      "Galileo Galilei",
-      "Antonie van Leeuwenhoek",
-      "Robert Hooke",
-      "Zacharias Janssen"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q297",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le premier microscope composé ?",
-    "answers": [
-      "Antonie van Leeuwenhoek",
-      "Robert Hooke",
-      "Galileo Galilei",
-      "Zacharias Janssen"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q298",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le premier appareil photo numérique ?",
-    "answers": [
-      "Russell Kirsch",
-      "Steven Sasson",
-      "Willard Boyle",
-      "George E. Smith"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q299",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Quel inventeur est à l'origine du premier moteur à réaction opérationnel ?",
-    "answers": [
-      "Henri Coandă",
-      "Frank Whittle",
-      "Hans von Ohain",
-      "Albert Fonó"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q300",
-    "category": "Inventions",
-    "difficulty": "Difficile",
-    "text": "Qui a inventé le code Morse ?",
-    "answers": [
-      "Charles Wheatstone",
-      "Samuel Morse",
-      "William Fothergill Cooke",
-      "Alfred Vail"
-    ],
-    "correctIndex": 1
   }
 ]
