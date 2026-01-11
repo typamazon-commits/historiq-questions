@@ -3,3900 +3,1652 @@
     "id": "q1",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi de France a été surnommé 'Saint Louis' ?",
-    "answers": [
-      "Louis IX",
-      "Charles VII",
-      "Philippe II",
-      "Louis XIV"
-    ],
+    "text": "Quel type de bâtiment servait de résidence fortifiée aux seigneurs au Moyen Âge ?",
+    "answers": ["Le château", "La cathédrale", "Le monastère", "Le moulin"],
     "correctIndex": 0
   },
   {
     "id": "q2",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle fortification entoure souvent les châteaux ?",
-    "answers": [
-      "Rempart de bois",
-      "Douves",
-      "Fossé sec",
-      "Muraille de Chine"
-    ],
+    "text": "Comment appelait-on un guerrier à cheval au service d’un seigneur ?",
+    "answers": ["Un paysan", "Un chevalier", "Un moine", "Un marchand"],
     "correctIndex": 1
   },
   {
     "id": "q3",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la bataille de Hastings ?",
-    "answers": [
-      "1099",
-      "1415",
-      "1215",
-      "1066"
-    ],
-    "correctIndex": 3
+    "text": "Quelle religion domine l’Europe occidentale au Moyen Âge ?",
+    "answers": ["Le judaïsme", "L’islam", "Le christianisme", "Le paganisme"],
+    "correctIndex": 2
   },
   {
     "id": "q4",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la bataille de Hastings ?",
-    "answers": [
-      "1066",
-      "1415",
-      "1099",
-      "1215"
-    ],
-    "correctIndex": 0
+    "text": "Comment s’appelle la période historique qui suit l’Antiquité ?",
+    "answers": ["La Renaissance", "L’Antiquité tardive", "L’époque moderne", "Le Moyen Âge"],
+    "correctIndex": 3
   },
+
   {
     "id": "q5",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle fortification entoure souvent les châteaux ?",
-    "answers": [
-      "Muraille de Chine",
-      "Douves",
-      "Rempart de bois",
-      "Fossé sec"
-    ],
-    "correctIndex": 1
+    "text": "Quel objet protégeait la tête des chevaliers au combat ?",
+    "answers": ["Le heaume", "Le bouclier", "L’épée", "La lance"],
+    "correctIndex": 0
   },
   {
     "id": "q6",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel moine a fondé l'ordre bénédictin ?",
-    "answers": [
-      "Dominique de Guzmán",
-      "Benoît de Nursie",
-      "Bernard de Clairvaux",
-      "François d'Assise"
-    ],
+    "text": "Comment appelait-on les terres contrôlées par un seigneur ?",
+    "answers": ["Les cités", "Les fiefs", "Les royaumes", "Les paroisses"],
     "correctIndex": 1
   },
   {
     "id": "q7",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle ville italienne fut un grand centre commercial médiéval ?",
-    "answers": [
-      "Rome",
-      "Paris",
-      "Venise",
-      "Madrid"
-    ],
+    "text": "Quel métier copiait les livres à la main dans les monastères ?",
+    "answers": ["Forgeron", "Architecte", "Moine copiste", "Chevalier"],
     "correctIndex": 2
   },
   {
     "id": "q8",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle fortification entoure souvent les châteaux ?",
-    "answers": [
-      "Fossé sec",
-      "Rempart de bois",
-      "Muraille de Chine",
-      "Douves"
-    ],
+    "text": "Quel type de construction servait à défendre une ville ?",
+    "answers": ["Le pont", "Le marché", "La cathédrale", "Les remparts"],
     "correctIndex": 3
   },
+
   {
     "id": "q9",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi normand a conquis l'Angleterre ?",
-    "answers": [
-      "Guillaume le Conquérant",
-      "Henri II",
-      "Richard Cœur de Lion",
-      "Jean sans Terre"
-    ],
+    "text": "Comment s’appelait le chef d’un royaume au Moyen Âge ?",
+    "answers": ["Le roi", "Le duc", "Le comte", "Le pape"],
     "correctIndex": 0
   },
   {
     "id": "q10",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle arme emblématique utilisaient les archers anglais ?",
-    "answers": [
-      "Arbalète à répétition",
-      "Longbow",
-      "Fronde",
-      "Arbalète"
-    ],
+    "text": "Quel bâtiment religieux était le centre de la vie d’un monastère ?",
+    "answers": ["Le cloître", "L’église", "Le dortoir", "Le réfectoire"],
     "correctIndex": 1
   },
   {
     "id": "q11",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi de France a été surnommé 'Saint Louis' ?",
-    "answers": [
-      "Philippe II",
-      "Louis XIV",
-      "Louis IX",
-      "Charles VII"
-    ],
+    "text": "Quelle arme était couramment utilisée par les chevaliers ?",
+    "answers": ["L’arc", "La hache", "L’épée", "La dague"],
     "correctIndex": 2
   },
   {
     "id": "q12",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle arme emblématique utilisaient les archers anglais ?",
-    "answers": [
-      "Arbalète",
-      "Fronde",
-      "Longbow",
-      "Arbalète à répétition"
-    ],
-    "correctIndex": 2
+    "text": "Comment s’appelait la cérémonie par laquelle un chevalier jurait fidélité à son seigneur ?",
+    "answers": ["Le sacre", "Le baptême", "Le mariage", "L’hommage"],
+    "correctIndex": 3
   },
+
   {
     "id": "q13",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Découverte de l'Amérique",
-      "Sac de Rome par les Wisigoths",
-      "Bataille de Poitiers",
-      "Chute de l'Empire romain d'Occident"
-    ],
-    "correctIndex": 3
+    "text": "Quel groupe social travaillait majoritairement la terre ?",
+    "answers": ["Les paysans", "Les nobles", "Les chevaliers", "Les clercs"],
+    "correctIndex": 0
   },
   {
     "id": "q14",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi anglais est célèbre pour sa participation à la troisième croisade ?",
-    "answers": [
-      "Jean sans Terre",
-      "Henri VIII",
-      "Richard Cœur de Lion",
-      "Édouard III"
-    ],
-    "correctIndex": 2
+    "text": "Comment appelait-on une grande église dirigée par un évêque ?",
+    "answers": ["Une abbaye", "Une cathédrale", "Une chapelle", "Un monastère"],
+    "correctIndex": 1
   },
   {
     "id": "q15",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi de France a été surnommé 'Saint Louis' ?",
-    "answers": [
-      "Louis IX",
-      "Philippe II",
-      "Louis XIV",
-      "Charles VII"
-    ],
-    "correctIndex": 0
+    "text": "Quelle activité se développait dans les villes médiévales ?",
+    "answers": ["L’agriculture", "La chasse", "Le commerce", "La navigation spatiale"],
+    "correctIndex": 2
   },
   {
     "id": "q16",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi normand a conquis l'Angleterre ?",
-    "answers": [
-      "Jean sans Terre",
-      "Guillaume le Conquérant",
-      "Richard Cœur de Lion",
-      "Henri II"
-    ],
-    "correctIndex": 1
+    "text": "Quel nom donnait-on aux grandes expéditions religieuses vers Jérusalem ?",
+    "answers": ["Les pèlerinages", "Les conquêtes", "Les invasions", "Les croisades"],
+    "correctIndex": 3
   },
+
   {
     "id": "q17",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi de France a été surnommé 'Saint Louis' ?",
-    "answers": [
-      "Charles VII",
-      "Louis IX",
-      "Philippe II",
-      "Louis XIV"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal était essentiel aux déplacements rapides des chevaliers ?",
+    "answers": ["Le cheval", "Le bœuf", "Le mouton", "Le chien"],
+    "correctIndex": 0
   },
   {
     "id": "q18",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle arme emblématique utilisaient les archers anglais ?",
-    "answers": [
-      "Longbow",
-      "Arbalète à répétition",
-      "Fronde",
-      "Arbalète"
-    ],
-    "correctIndex": 0
+    "text": "Comment appelait-on les habitants d’un village dépendant d’un seigneur ?",
+    "answers": ["Les nobles", "Les serfs", "Les chevaliers", "Les moines"],
+    "correctIndex": 1
   },
   {
     "id": "q19",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle peste dévasta l'Europe au XIVe siècle ?",
-    "answers": [
-      "Choléra",
-      "Peste noire",
-      "Lèpre",
-      "Fièvre typhoïde"
-    ],
-    "correctIndex": 1
+    "text": "Quel objet permettait d’éclairer les maisons la nuit ?",
+    "answers": ["La lampe électrique", "La torche", "La bougie", "La lanterne magique"],
+    "correctIndex": 2
   },
   {
     "id": "q20",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle fortification entoure souvent les châteaux ?",
-    "answers": [
-      "Muraille de Chine",
-      "Fossé sec",
-      "Rempart de bois",
-      "Douves"
-    ],
+    "text": "Comment appelait-on un marché régulier dans une ville médiévale ?",
+    "answers": ["Un port", "Une foire", "Une assemblée", "Un conseil"],
     "correctIndex": 3
   },
+
   {
     "id": "q21",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi normand a conquis l'Angleterre ?",
-    "answers": [
-      "Richard Cœur de Lion",
-      "Henri II",
-      "Jean sans Terre",
-      "Guillaume le Conquérant"
-    ],
-    "correctIndex": 3
+    "text": "Quel vêtement protégeait le corps des chevaliers ?",
+    "answers": ["L’armure", "La tunique", "La cape", "La robe"],
+    "correctIndex": 0
   },
   {
     "id": "q22",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle ville italienne fut un grand centre commercial médiéval ?",
-    "answers": [
-      "Rome",
-      "Madrid",
-      "Venise",
-      "Paris"
-    ],
-    "correctIndex": 2
+    "text": "Comment appelait-on un jeune garçon formé pour devenir chevalier ?",
+    "answers": ["Un moine", "Un écuyer", "Un serf", "Un marchand"],
+    "correctIndex": 1
   },
   {
     "id": "q23",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle fortification entoure souvent les châteaux ?",
-    "answers": [
-      "Douves",
-      "Muraille de Chine",
-      "Rempart de bois",
-      "Fossé sec"
-    ],
-    "correctIndex": 0
+    "text": "Quelle activité religieuse consistait à se rendre dans un lieu saint ?",
+    "answers": ["La croisade", "La messe", "Le pèlerinage", "Le jeûne"],
+    "correctIndex": 2
   },
   {
     "id": "q24",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel moine a fondé l'ordre bénédictin ?",
-    "answers": [
-      "Benoît de Nursie",
-      "Dominique de Guzmán",
-      "François d'Assise",
-      "Bernard de Clairvaux"
-    ],
-    "correctIndex": 0
+    "text": "Quel élément défensif entourait souvent les châteaux ?",
+    "answers": ["Les jardins", "Les routes", "Les forêts", "Les douves"],
+    "correctIndex": 3
   },
+
   {
     "id": "q25",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel moine a fondé l'ordre bénédictin ?",
-    "answers": [
-      "Dominique de Guzmán",
-      "Benoît de Nursie",
-      "François d'Assise",
-      "Bernard de Clairvaux"
-    ],
-    "correctIndex": 1
+    "text": "Quel bâtiment abritait les moines vivant en communauté ?",
+    "answers": ["Le monastère", "Le château", "La taverne", "Le marché"],
+    "correctIndex": 0
   },
   {
     "id": "q26",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi de France a été surnommé 'Saint Louis' ?",
-    "answers": [
-      "Louis IX",
-      "Charles VII",
-      "Louis XIV",
-      "Philippe II"
-    ],
-    "correctIndex": 0
+    "text": "Qui dirigeait une abbaye ?",
+    "answers": ["Le roi", "L’abbé", "Le chevalier", "Le seigneur"],
+    "correctIndex": 1
   },
   {
     "id": "q27",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel moine a fondé l'ordre bénédictin ?",
-    "answers": [
-      "Benoît de Nursie",
-      "François d'Assise",
-      "Bernard de Clairvaux",
-      "Dominique de Guzmán"
-    ],
-    "correctIndex": 0
+    "text": "Quelle boisson était couramment consommée à la place de l’eau ?",
+    "answers": ["Le lait", "Le jus", "La bière", "Le café"],
+    "correctIndex": 2
   },
   {
     "id": "q28",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la bataille de Hastings ?",
-    "answers": [
-      "1099",
-      "1215",
-      "1066",
-      "1415"
-    ],
-    "correctIndex": 2
+    "text": "Comment appelait-on un combat organisé entre chevaliers ?",
+    "answers": ["Une bataille", "Une guerre", "Une croisade", "Un tournoi"],
+    "correctIndex": 3
   },
+
   {
     "id": "q29",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel moine a fondé l'ordre bénédictin ?",
-    "answers": [
-      "Benoît de Nursie",
-      "Dominique de Guzmán",
-      "Bernard de Clairvaux",
-      "François d'Assise"
-    ],
+    "text": "Quel matériau était principalement utilisé pour construire les châteaux forts ?",
+    "answers": ["La pierre", "Le verre", "Le métal", "La terre cuite"],
     "correctIndex": 0
   },
   {
     "id": "q30",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle fortification entoure souvent les châteaux ?",
-    "answers": [
-      "Muraille de Chine",
-      "Fossé sec",
-      "Rempart de bois",
-      "Douves"
-    ],
-    "correctIndex": 3
+    "text": "Comment appelait-on les impôts payés par les paysans au seigneur ?",
+    "answers": ["Les taxes", "Les redevances", "Les salaires", "Les dons"],
+    "correctIndex": 1
   },
   {
     "id": "q31",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi anglais est célèbre pour sa participation à la troisième croisade ?",
-    "answers": [
-      "Richard Cœur de Lion",
-      "Henri VIII",
-      "Jean sans Terre",
-      "Édouard III"
-    ],
-    "correctIndex": 0
+    "text": "Quelle activité permettait de fabriquer des outils et des armes ?",
+    "answers": ["La menuiserie", "La maçonnerie", "La forge", "La couture"],
+    "correctIndex": 2
   },
   {
     "id": "q32",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle peste dévasta l'Europe au XIVe siècle ?",
-    "answers": [
-      "Fièvre typhoïde",
-      "Choléra",
-      "Lèpre",
-      "Peste noire"
-    ],
+    "text": "Quel élément indiquait souvent l’entrée d’une ville fortifiée ?",
+    "answers": ["Un clocher", "Une place", "Un marché", "Une porte fortifiée"],
     "correctIndex": 3
   },
+
   {
     "id": "q33",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la bataille de Hastings ?",
-    "answers": [
-      "1066",
-      "1415",
-      "1215",
-      "1099"
-    ],
+    "text": "Quel personnage religieux dirigeait un diocèse ?",
+    "answers": ["L’évêque", "Le pape", "Le moine", "L’abbé"],
     "correctIndex": 0
   },
   {
     "id": "q34",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle fortification entoure souvent les châteaux ?",
-    "answers": [
-      "Muraille de Chine",
-      "Fossé sec",
-      "Rempart de bois",
-      "Douves"
-    ],
-    "correctIndex": 3
+    "text": "Quel lieu accueillait les échanges commerciaux dans une ville ?",
+    "answers": ["Le château", "La place du marché", "Le monastère", "La cathédrale"],
+    "correctIndex": 1
   },
   {
     "id": "q35",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi anglais est célèbre pour sa participation à la troisième croisade ?",
-    "answers": [
-      "Édouard III",
-      "Jean sans Terre",
-      "Richard Cœur de Lion",
-      "Henri VIII"
-    ],
+    "text": "Quel objet servait à écrire au Moyen Âge ?",
+    "answers": ["Le stylo", "Le crayon", "La plume", "Le pinceau"],
     "correctIndex": 2
   },
   {
     "id": "q36",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle peste dévasta l'Europe au XIVe siècle ?",
-    "answers": [
-      "Fièvre typhoïde",
-      "Peste noire",
-      "Lèpre",
-      "Choléra"
-    ],
-    "correctIndex": 1
+    "text": "Quel événement marquait souvent le couronnement d’un roi ?",
+    "answers": ["Un banquet", "Une guerre", "Une foire", "Un sacre"],
+    "correctIndex": 3
   },
+
   {
     "id": "q37",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la bataille de Hastings ?",
-    "answers": [
-      "1215",
-      "1099",
-      "1066",
-      "1415"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment servait à stocker les récoltes du seigneur ?",
+    "answers": ["Le grenier", "La grange", "La cave", "Le cellier"],
+    "correctIndex": 0
   },
   {
     "id": "q38",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle fortification entoure souvent les châteaux ?",
-    "answers": [
-      "Rempart de bois",
-      "Muraille de Chine",
-      "Fossé sec",
-      "Douves"
-    ],
-    "correctIndex": 3
+    "text": "Comment appelait-on les artisans d’un même métier regroupés ?",
+    "answers": ["Les guildes", "Les familles", "Les ordres", "Les royaumes"],
+    "correctIndex": 1
   },
   {
     "id": "q39",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la bataille de Hastings ?",
-    "answers": [
-      "1215",
-      "1066",
-      "1099",
-      "1415"
-    ],
-    "correctIndex": 1
+    "text": "Quel instrument servait à appeler les fidèles à la prière ?",
+    "answers": ["Le cor", "Le tambour", "La cloche", "La trompette"],
+    "correctIndex": 2
   },
   {
     "id": "q40",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Bataille de Poitiers",
-      "Sac de Rome par les Wisigoths",
-      "Découverte de l'Amérique",
-      "Chute de l'Empire romain d'Occident"
-    ],
+    "text": "Comment appelait-on un village entouré de murailles ?",
+    "answers": ["Un hameau", "Un domaine", "Une paroisse", "Une ville fortifiée"],
     "correctIndex": 3
   },
+
   {
     "id": "q41",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle ville italienne fut un grand centre commercial médiéval ?",
-    "answers": [
-      "Madrid",
-      "Venise",
-      "Paris",
-      "Rome"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal fournissait la laine pour les vêtements ?",
+    "answers": ["Le mouton", "La vache", "Le cheval", "Le porc"],
+    "correctIndex": 0
   },
   {
     "id": "q42",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle peste dévasta l'Europe au XIVe siècle ?",
-    "answers": [
-      "Lèpre",
-      "Choléra",
-      "Fièvre typhoïde",
-      "Peste noire"
-    ],
-    "correctIndex": 3
+    "text": "Quel objet défensif protégeait le bras des combattants ?",
+    "answers": ["L’épée", "Le bouclier", "La lance", "Le casque"],
+    "correctIndex": 1
   },
   {
     "id": "q43",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Chute de l'Empire romain d'Occident",
-      "Sac de Rome par les Wisigoths",
-      "Découverte de l'Amérique",
-      "Bataille de Poitiers"
-    ],
-    "correctIndex": 0
+    "text": "Quelle activité occupait la majorité de la population ?",
+    "answers": ["Le commerce", "L’artisanat", "L’agriculture", "La navigation"],
+    "correctIndex": 2
   },
   {
     "id": "q44",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi normand a conquis l'Angleterre ?",
-    "answers": [
-      "Jean sans Terre",
-      "Richard Cœur de Lion",
-      "Henri II",
-      "Guillaume le Conquérant"
-    ],
+    "text": "Quel bâtiment était souvent le plus grand d’une ville médiévale ?",
+    "answers": ["Le château", "Le marché", "Le palais", "La cathédrale"],
     "correctIndex": 3
   },
+
   {
     "id": "q45",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle fortification entoure souvent les châteaux ?",
-    "answers": [
-      "Muraille de Chine",
-      "Douves",
-      "Rempart de bois",
-      "Fossé sec"
-    ],
-    "correctIndex": 1
+    "text": "Quel système organisait les relations entre seigneurs et vassaux ?",
+    "answers": ["La féodalité", "La démocratie", "L’empire", "La république"],
+    "correctIndex": 0
   },
   {
     "id": "q46",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi anglais est célèbre pour sa participation à la troisième croisade ?",
-    "answers": [
-      "Richard Cœur de Lion",
-      "Édouard III",
-      "Henri VIII",
-      "Jean sans Terre"
-    ],
-    "correctIndex": 0
+    "text": "Quel personnage religieux était à la tête de l’Église catholique ?",
+    "answers": ["L’évêque", "Le pape", "L’abbé", "Le moine"],
+    "correctIndex": 1
   },
   {
     "id": "q47",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle fortification entoure souvent les châteaux ?",
-    "answers": [
-      "Muraille de Chine",
-      "Fossé sec",
-      "Douves",
-      "Rempart de bois"
-    ],
+    "text": "Quel matériau était utilisé pour écrire dans les manuscrits ?",
+    "answers": ["Le papier", "Le bois", "Le parchemin", "Le tissu"],
     "correctIndex": 2
   },
   {
     "id": "q48",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Découverte de l'Amérique",
-      "Bataille de Poitiers",
-      "Chute de l'Empire romain d'Occident",
-      "Sac de Rome par les Wisigoths"
-    ],
-    "correctIndex": 2
+    "text": "Comment appelait-on un rassemblement annuel de marchands ?",
+    "answers": ["Un conseil", "Une réunion", "Un marché", "Une foire"],
+    "correctIndex": 3
   },
+
   {
     "id": "q49",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi de France a été surnommé 'Saint Louis' ?",
-    "answers": [
-      "Charles VII",
-      "Louis IX",
-      "Philippe II",
-      "Louis XIV"
-    ],
-    "correctIndex": 1
+    "text": "Quel élément permettait de moudre le grain ?",
+    "answers": ["Le moulin", "Le four", "La forge", "Le pressoir"],
+    "correctIndex": 0
   },
   {
     "id": "q50",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi anglais est célèbre pour sa participation à la troisième croisade ?",
-    "answers": [
-      "Édouard III",
-      "Henri VIII",
-      "Jean sans Terre",
-      "Richard Cœur de Lion"
-    ],
-    "correctIndex": 3
+    "text": "Quel personnage rendait la justice au nom du seigneur ?",
+    "answers": ["Le serf", "Le bailli", "Le marchand", "Le moine"],
+    "correctIndex": 1
   },
   {
     "id": "q51",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi de France a été surnommé 'Saint Louis' ?",
-    "answers": [
-      "Louis IX",
-      "Charles VII",
-      "Louis XIV",
-      "Philippe II"
-    ],
+    "text": "Quel animal était le plus utilisé pour tirer les charrues au Moyen Âge ?",
+    "answers": ["Le bœuf", "Le cheval", "L’âne", "Le mulet"],
     "correctIndex": 0
   },
   {
     "id": "q52",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle peste dévasta l'Europe au XIVe siècle ?",
-    "answers": [
-      "Peste noire",
-      "Fièvre typhoïde",
-      "Choléra",
-      "Lèpre"
-    ],
-    "correctIndex": 0
+    "text": "Comment appelait-on l’impôt religieux versé à l’Église ?",
+    "answers": ["La taille", "La dîme", "La redevance", "Le cens"],
+    "correctIndex": 1
   },
   {
     "id": "q53",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi anglais est célèbre pour sa participation à la troisième croisade ?",
-    "answers": [
-      "Édouard III",
-      "Richard Cœur de Lion",
-      "Henri VIII",
-      "Jean sans Terre"
-    ],
-    "correctIndex": 1
+    "text": "Quelle boisson était souvent plus sûre que l’eau à boire ?",
+    "answers": ["Le lait", "Le vin", "La bière", "L’hydromel"],
+    "correctIndex": 2
   },
   {
     "id": "q54",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Chute de l'Empire romain d'Occident",
-      "Sac de Rome par les Wisigoths",
-      "Découverte de l'Amérique",
-      "Bataille de Poitiers"
-    ],
-    "correctIndex": 0
+    "text": "Quel lieu servait à prier et à célébrer la messe ?",
+    "answers": ["Le château", "Le marché", "Le cloître", "L’église"],
+    "correctIndex": 3
   },
+
   {
     "id": "q55",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi normand a conquis l'Angleterre ?",
-    "answers": [
-      "Jean sans Terre",
-      "Guillaume le Conquérant",
-      "Henri II",
-      "Richard Cœur de Lion"
-    ],
-    "correctIndex": 1
+    "text": "Quel objet servait à couper lors des repas ?",
+    "answers": ["Le couteau", "La fourchette", "La cuillère", "La louche"],
+    "correctIndex": 0
   },
   {
     "id": "q56",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle arme emblématique utilisaient les archers anglais ?",
-    "answers": [
-      "Longbow",
-      "Arbalète",
-      "Arbalète à répétition",
-      "Fronde"
-    ],
-    "correctIndex": 0
+    "text": "Comment appelait-on les terres appartenant directement au seigneur ?",
+    "answers": ["Les paroisses", "La réserve", "Les communes", "Les villages"],
+    "correctIndex": 1
   },
   {
     "id": "q57",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Découverte de l'Amérique",
-      "Chute de l'Empire romain d'Occident",
-      "Bataille de Poitiers",
-      "Sac de Rome par les Wisigoths"
-    ],
-    "correctIndex": 1
+    "text": "Quel métier fabriquait les vêtements ?",
+    "answers": ["Le forgeron", "Le meunier", "Le tailleur", "Le charpentier"],
+    "correctIndex": 2
   },
   {
     "id": "q58",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle arme emblématique utilisaient les archers anglais ?",
-    "answers": [
-      "Longbow",
-      "Arbalète à répétition",
-      "Arbalète",
-      "Fronde"
-    ],
-    "correctIndex": 0
+    "text": "Quel élément permettait de franchir un fossé autour d’un château ?",
+    "answers": ["Le tunnel", "Le mur", "La tour", "Le pont-levis"],
+    "correctIndex": 3
   },
+
   {
     "id": "q59",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle peste dévasta l'Europe au XIVe siècle ?",
-    "answers": [
-      "Fièvre typhoïde",
-      "Choléra",
-      "Lèpre",
-      "Peste noire"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal était élevé pour sa laine ?",
+    "answers": ["Le mouton", "Le porc", "La chèvre", "La vache"],
+    "correctIndex": 0
   },
   {
     "id": "q60",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Découverte de l'Amérique",
-      "Bataille de Poitiers",
-      "Sac de Rome par les Wisigoths",
-      "Chute de l'Empire romain d'Occident"
-    ],
-    "correctIndex": 3
+    "text": "Comment appelait-on un artisan spécialisé dans le travail du fer ?",
+    "answers": ["Le meunier", "Le forgeron", "Le tanneur", "Le boulanger"],
+    "correctIndex": 1
   },
   {
     "id": "q61",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle arme emblématique utilisaient les archers anglais ?",
-    "answers": [
-      "Fronde",
-      "Arbalète à répétition",
-      "Arbalète",
-      "Longbow"
-    ],
-    "correctIndex": 3
+    "text": "Quelle activité consistait à transformer le grain en farine ?",
+    "answers": ["La forge", "La cuisson", "La mouture", "La couture"],
+    "correctIndex": 2
   },
   {
     "id": "q62",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi de France a été surnommé 'Saint Louis' ?",
-    "answers": [
-      "Charles VII",
-      "Louis IX",
-      "Louis XIV",
-      "Philippe II"
-    ],
-    "correctIndex": 1
+    "text": "Quel bâtiment servait à cuire le pain pour le village ?",
+    "answers": ["La grange", "Le cellier", "Le moulin", "Le four banal"],
+    "correctIndex": 3
   },
+
   {
     "id": "q63",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle ville italienne fut un grand centre commercial médiéval ?",
-    "answers": [
-      "Madrid",
-      "Paris",
-      "Venise",
-      "Rome"
-    ],
-    "correctIndex": 2
+    "text": "Quel objet protégeait le corps lors des combats ?",
+    "answers": ["L’armure", "La tunique", "La chemise", "La cape"],
+    "correctIndex": 0
   },
   {
     "id": "q64",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle fortification entoure souvent les châteaux ?",
-    "answers": [
-      "Douves",
-      "Rempart de bois",
-      "Muraille de Chine",
-      "Fossé sec"
-    ],
-    "correctIndex": 0
+    "text": "Comment appelait-on un ensemble de maisons regroupées ?",
+    "answers": ["Une cité", "Un village", "Un empire", "Un fief"],
+    "correctIndex": 1
   },
   {
     "id": "q65",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi normand a conquis l'Angleterre ?",
-    "answers": [
-      "Jean sans Terre",
-      "Richard Cœur de Lion",
-      "Henri II",
-      "Guillaume le Conquérant"
-    ],
-    "correctIndex": 3
+    "text": "Quel métier s’occupait du pain ?",
+    "answers": ["Le forgeron", "Le tanneur", "Le boulanger", "Le meunier"],
+    "correctIndex": 2
   },
   {
     "id": "q66",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi de France a été surnommé 'Saint Louis' ?",
-    "answers": [
-      "Charles VII",
-      "Philippe II",
-      "Louis XIV",
-      "Louis IX"
-    ],
+    "text": "Quel élément servait à défendre l’entrée d’un château ?",
+    "answers": ["La herse", "La porte", "Le mur", "La tour"],
     "correctIndex": 3
   },
+
   {
     "id": "q67",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi de France a été surnommé 'Saint Louis' ?",
-    "answers": [
-      "Louis IX",
-      "Louis XIV",
-      "Charles VII",
-      "Philippe II"
-    ],
+    "text": "Quel animal était souvent utilisé pour le transport de charges ?",
+    "answers": ["L’âne", "Le cheval", "Le bœuf", "Le chien"],
     "correctIndex": 0
   },
   {
     "id": "q68",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Sac de Rome par les Wisigoths",
-      "Découverte de l'Amérique",
-      "Bataille de Poitiers",
-      "Chute de l'Empire romain d'Occident"
-    ],
-    "correctIndex": 3
+    "text": "Comment appelait-on l’ensemble des règles religieuses chrétiennes ?",
+    "answers": ["La loi", "La doctrine", "Le droit", "La charte"],
+    "correctIndex": 1
   },
   {
     "id": "q69",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi normand a conquis l'Angleterre ?",
-    "answers": [
-      "Guillaume le Conquérant",
-      "Richard Cœur de Lion",
-      "Henri II",
-      "Jean sans Terre"
-    ],
-    "correctIndex": 0
+    "text": "Quelle activité consistait à élever des animaux ?",
+    "answers": ["La chasse", "La pêche", "L’élevage", "La cueillette"],
+    "correctIndex": 2
   },
   {
     "id": "q70",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi de France a été surnommé 'Saint Louis' ?",
-    "answers": [
-      "Louis IX",
-      "Louis XIV",
-      "Charles VII",
-      "Philippe II"
-    ],
-    "correctIndex": 0
+    "text": "Quel bâtiment accueillait les pèlerins et les pauvres ?",
+    "answers": ["Le château", "Le marché", "La grange", "L’hôpital"],
+    "correctIndex": 3
   },
+
   {
     "id": "q71",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi normand a conquis l'Angleterre ?",
-    "answers": [
-      "Jean sans Terre",
-      "Guillaume le Conquérant",
-      "Henri II",
-      "Richard Cœur de Lion"
-    ],
-    "correctIndex": 1
+    "text": "Quel objet servait à moudre le grain à la main ?",
+    "answers": ["La meule", "Le pilon", "Le marteau", "La scie"],
+    "correctIndex": 0
   },
   {
     "id": "q72",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la bataille de Hastings ?",
-    "answers": [
-      "1215",
-      "1066",
-      "1099",
-      "1415"
-    ],
+    "text": "Comment appelait-on un grand domaine agricole ?",
+    "answers": ["Une ville", "Une seigneurie", "Une paroisse", "Un comté"],
     "correctIndex": 1
   },
   {
     "id": "q73",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle peste dévasta l'Europe au XIVe siècle ?",
-    "answers": [
-      "Peste noire",
-      "Choléra",
-      "Lèpre",
-      "Fièvre typhoïde"
-    ],
-    "correctIndex": 0
+    "text": "Quel métier travaillait le cuir ?",
+    "answers": ["Le tailleur", "Le meunier", "Le tanneur", "Le forgeron"],
+    "correctIndex": 2
   },
   {
     "id": "q74",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle fortification entoure souvent les châteaux ?",
-    "answers": [
-      "Douves",
-      "Fossé sec",
-      "Muraille de Chine",
-      "Rempart de bois"
-    ],
-    "correctIndex": 0
+    "text": "Quel objet permettait d’allumer le feu ?",
+    "answers": ["La torche", "La lampe", "Le charbon", "Le briquet à silex"],
+    "correctIndex": 3
   },
+
   {
     "id": "q75",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi anglais est célèbre pour sa participation à la troisième croisade ?",
-    "answers": [
-      "Jean sans Terre",
-      "Richard Cœur de Lion",
-      "Henri VIII",
-      "Édouard III"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal était élevé principalement pour la viande ?",
+    "answers": ["Le porc", "Le mouton", "La chèvre", "La vache"],
+    "correctIndex": 0
   },
   {
     "id": "q76",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel moine a fondé l'ordre bénédictin ?",
-    "answers": [
-      "Bernard de Clairvaux",
-      "François d'Assise",
-      "Benoît de Nursie",
-      "Dominique de Guzmán"
-    ],
-    "correctIndex": 2
+    "text": "Comment appelait-on un responsable local nommé par le seigneur ?",
+    "answers": ["Le roi", "Le prévôt", "Le chevalier", "Le marchand"],
+    "correctIndex": 1
   },
   {
     "id": "q77",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle arme emblématique utilisaient les archers anglais ?",
-    "answers": [
-      "Longbow",
-      "Arbalète à répétition",
-      "Arbalète",
-      "Fronde"
-    ],
-    "correctIndex": 0
+    "text": "Quelle activité permettait de construire des maisons ?",
+    "answers": ["La forge", "La couture", "La maçonnerie", "La pêche"],
+    "correctIndex": 2
   },
   {
     "id": "q78",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle peste dévasta l'Europe au XIVe siècle ?",
-    "answers": [
-      "Choléra",
-      "Fièvre typhoïde",
-      "Peste noire",
-      "Lèpre"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment servait à stocker le vin ?",
+    "answers": ["La grange", "Le grenier", "Le four", "La cave"],
+    "correctIndex": 3
   },
+
   {
     "id": "q79",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi normand a conquis l'Angleterre ?",
-    "answers": [
-      "Henri II",
-      "Richard Cœur de Lion",
-      "Guillaume le Conquérant",
-      "Jean sans Terre"
-    ],
-    "correctIndex": 2
+    "text": "Quel objet protégeait la tête au combat ?",
+    "answers": ["Le casque", "Le bouclier", "La lance", "L’épée"],
+    "correctIndex": 0
   },
   {
     "id": "q80",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi normand a conquis l'Angleterre ?",
-    "answers": [
-      "Jean sans Terre",
-      "Guillaume le Conquérant",
-      "Henri II",
-      "Richard Cœur de Lion"
-    ],
+    "text": "Comment appelait-on un groupe de marchands itinérants ?",
+    "answers": ["Une armée", "Une caravane", "Une guilde", "Un conseil"],
     "correctIndex": 1
   },
   {
     "id": "q81",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel moine a fondé l'ordre bénédictin ?",
-    "answers": [
-      "François d'Assise",
-      "Benoît de Nursie",
-      "Bernard de Clairvaux",
-      "Dominique de Guzmán"
-    ],
-    "correctIndex": 1
+    "text": "Quelle activité permettait de cultiver la terre ?",
+    "answers": ["La chasse", "La pêche", "L’agriculture", "L’artisanat"],
+    "correctIndex": 2
   },
   {
     "id": "q82",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi anglais est célèbre pour sa participation à la troisième croisade ?",
-    "answers": [
-      "Henri VIII",
-      "Richard Cœur de Lion",
-      "Jean sans Terre",
-      "Édouard III"
-    ],
-    "correctIndex": 1
+    "text": "Quel bâtiment servait à conserver les aliments ?",
+    "answers": ["La grange", "Le moulin", "Le cloître", "Le cellier"],
+    "correctIndex": 3
   },
+
   {
     "id": "q83",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Sac de Rome par les Wisigoths",
-      "Bataille de Poitiers",
-      "Découverte de l'Amérique",
-      "Chute de l'Empire romain d'Occident"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal était utilisé pour la traction des charrettes ?",
+    "answers": ["Le cheval", "Le chien", "Le mouton", "Le porc"],
+    "correctIndex": 0
   },
   {
     "id": "q84",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle fortification entoure souvent les châteaux ?",
-    "answers": [
-      "Douves",
-      "Fossé sec",
-      "Rempart de bois",
-      "Muraille de Chine"
-    ],
-    "correctIndex": 0
+    "text": "Comment appelait-on une grande fête commerciale annuelle ?",
+    "answers": ["Un marché", "Une foire", "Une réunion", "Un conseil"],
+    "correctIndex": 1
   },
   {
     "id": "q85",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi anglais est célèbre pour sa participation à la troisième croisade ?",
-    "answers": [
-      "Édouard III",
-      "Jean sans Terre",
-      "Richard Cœur de Lion",
-      "Henri VIII"
-    ],
+    "text": "Quel métier construisait les charpentes ?",
+    "answers": ["Le forgeron", "Le tailleur", "Le charpentier", "Le maçon"],
     "correctIndex": 2
   },
   {
     "id": "q86",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle arme emblématique utilisaient les archers anglais ?",
-    "answers": [
-      "Arbalète",
-      "Arbalète à répétition",
-      "Longbow",
-      "Fronde"
-    ],
-    "correctIndex": 2
+    "text": "Quel lieu servait à rendre la justice locale ?",
+    "answers": ["La taverne", "Le marché", "L’église", "Le tribunal seigneurial"],
+    "correctIndex": 3
   },
+
   {
     "id": "q87",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle fortification entoure souvent les châteaux ?",
-    "answers": [
-      "Muraille de Chine",
-      "Fossé sec",
-      "Douves",
-      "Rempart de bois"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal fournissait le lait ?",
+    "answers": ["La vache", "Le mouton", "Le porc", "Le cheval"],
+    "correctIndex": 0
   },
   {
     "id": "q88",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Sac de Rome par les Wisigoths",
-      "Découverte de l'Amérique",
-      "Bataille de Poitiers",
-      "Chute de l'Empire romain d'Occident"
-    ],
-    "correctIndex": 3
+    "text": "Comment appelait-on un impôt payé en nature ?",
+    "answers": ["Un salaire", "Une redevance", "Un prêt", "Un don"],
+    "correctIndex": 1
   },
   {
     "id": "q89",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle ville italienne fut un grand centre commercial médiéval ?",
-    "answers": [
-      "Venise",
-      "Madrid",
-      "Paris",
-      "Rome"
-    ],
-    "correctIndex": 0
+    "text": "Quelle activité consistait à pêcher dans les rivières ?",
+    "answers": ["La chasse", "La culture", "La pêche", "L’élevage"],
+    "correctIndex": 2
   },
   {
     "id": "q90",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi de France a été surnommé 'Saint Louis' ?",
-    "answers": [
-      "Philippe II",
-      "Louis IX",
-      "Louis XIV",
-      "Charles VII"
-    ],
-    "correctIndex": 1
+    "text": "Quel bâtiment religieux accueillait les offices quotidiens ?",
+    "answers": ["Le cloître", "Le monastère", "La sacristie", "L’église"],
+    "correctIndex": 3
   },
+
   {
     "id": "q91",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi de France a été surnommé 'Saint Louis' ?",
-    "answers": [
-      "Philippe II",
-      "Charles VII",
-      "Louis IX",
-      "Louis XIV"
-    ],
-    "correctIndex": 2
+    "text": "Quel outil servait à couper le bois ?",
+    "answers": ["La hache", "La scie", "Le marteau", "La pelle"],
+    "correctIndex": 0
   },
   {
     "id": "q92",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi de France a été surnommé 'Saint Louis' ?",
-    "answers": [
-      "Charles VII",
-      "Philippe II",
-      "Louis IX",
-      "Louis XIV"
-    ],
-    "correctIndex": 2
+    "text": "Comment appelait-on une association de métiers dans une ville ?",
+    "answers": ["Une armée", "Une corporation", "Un royaume", "Un fief"],
+    "correctIndex": 1
   },
   {
     "id": "q93",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi anglais est célèbre pour sa participation à la troisième croisade ?",
-    "answers": [
-      "Édouard III",
-      "Jean sans Terre",
-      "Richard Cœur de Lion",
-      "Henri VIII"
-    ],
+    "text": "Quelle activité permettait de fabriquer des chaussures ?",
+    "answers": ["La forge", "La menuiserie", "La cordonnerie", "La poterie"],
     "correctIndex": 2
   },
   {
     "id": "q94",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle ville italienne fut un grand centre commercial médiéval ?",
-    "answers": [
-      "Paris",
-      "Rome",
-      "Venise",
-      "Madrid"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment servait à abriter les animaux ?",
+    "answers": ["Le cellier", "Le grenier", "La cave", "L’étable"],
+    "correctIndex": 3
   },
+
   {
     "id": "q95",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle fortification entoure souvent les châteaux ?",
-    "answers": [
-      "Muraille de Chine",
-      "Fossé sec",
-      "Douves",
-      "Rempart de bois"
-    ],
-    "correctIndex": 2
+    "text": "Quel objet permettait de transporter des marchandises ?",
+    "answers": ["La charrette", "La brouette", "Le sac", "Le panier"],
+    "correctIndex": 0
   },
   {
     "id": "q96",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle arme emblématique utilisaient les archers anglais ?",
-    "answers": [
-      "Arbalète à répétition",
-      "Longbow",
-      "Arbalète",
-      "Fronde"
-    ],
+    "text": "Comment appelait-on un représentant du seigneur dans une ville ?",
+    "answers": ["Le roi", "Le bailli", "Le prêtre", "Le marchand"],
     "correctIndex": 1
   },
   {
     "id": "q97",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Sac de Rome par les Wisigoths",
-      "Découverte de l'Amérique",
-      "Chute de l'Empire romain d'Occident",
-      "Bataille de Poitiers"
-    ],
+    "text": "Quelle activité consistait à fabriquer des pots et des jarres ?",
+    "answers": ["La forge", "La verrerie", "La poterie", "La couture"],
     "correctIndex": 2
   },
   {
     "id": "q98",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi de France a été surnommé 'Saint Louis' ?",
-    "answers": [
-      "Philippe II",
-      "Louis IX",
-      "Charles VII",
-      "Louis XIV"
-    ],
-    "correctIndex": 1
+    "text": "Quel bâtiment servait à conserver les grains ?",
+    "answers": ["La grange", "La cave", "Le cellier", "Le grenier"],
+    "correctIndex": 3
   },
+
   {
     "id": "q99",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel moine a fondé l'ordre bénédictin ?",
-    "answers": [
-      "Benoît de Nursie",
-      "François d'Assise",
-      "Dominique de Guzmán",
-      "Bernard de Clairvaux"
-    ],
+    "text": "Quel animal était souvent utilisé pour garder les troupeaux ?",
+    "answers": ["Le chien", "Le chat", "Le cheval", "Le cochon"],
     "correctIndex": 0
   },
   {
     "id": "q100",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle peste dévasta l'Europe au XIVe siècle ?",
-    "answers": [
-      "Peste noire",
-      "Fièvre typhoïde",
-      "Lèpre",
-      "Choléra"
-    ],
-    "correctIndex": 0
+    "text": "Comment appelait-on le responsable religieux d’une paroisse ?",
+    "answers": ["L’évêque", "Le curé", "L’abbé", "Le moine"],
+    "correctIndex": 1
   },
   {
     "id": "q101",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi normand a conquis l'Angleterre ?",
-    "answers": [
-      "Richard Cœur de Lion",
-      "Henri II",
-      "Jean sans Terre",
-      "Guillaume le Conquérant"
-    ],
-    "correctIndex": 3
+    "text": "Quelle activité consistait à cultiver des légumes pour le village ?",
+    "answers": ["La chasse", "L’élevage", "Le maraîchage", "La pêche"],
+    "correctIndex": 2
   },
   {
     "id": "q102",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle fortification entoure souvent les châteaux ?",
-    "answers": [
-      "Rempart de bois",
-      "Fossé sec",
-      "Douves",
-      "Muraille de Chine"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment protégeait les habitants en cas d’attaque ?",
+    "answers": ["La grange", "Le moulin", "Le marché", "Le château"],
+    "correctIndex": 3
   },
   {
     "id": "q103",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle ville italienne fut un grand centre commercial médiéval ?",
-    "answers": [
-      "Rome",
-      "Paris",
-      "Venise",
-      "Madrid"
-    ],
-    "correctIndex": 2
+    "text": "Quel objet servait à éclairer les maisons la nuit ?",
+    "answers": ["La chandelle", "La torche", "La lampe à huile", "Le feu de bois"],
+    "correctIndex": 0
   },
   {
     "id": "q104",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la bataille de Hastings ?",
-    "answers": [
-      "1099",
-      "1066",
-      "1215",
-      "1415"
-    ],
+    "text": "Comment appelait-on une route commerciale importante ?",
+    "answers": ["Un sentier", "Une voie", "Un canal", "Une frontière"],
     "correctIndex": 1
   },
+
   {
     "id": "q105",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel moine a fondé l'ordre bénédictin ?",
-    "answers": [
-      "François d'Assise",
-      "Bernard de Clairvaux",
-      "Benoît de Nursie",
-      "Dominique de Guzmán"
-    ],
+    "text": "Quelle activité permettait de produire du tissu ?",
+    "answers": ["La forge", "La menuiserie", "Le tissage", "La poterie"],
     "correctIndex": 2
   },
   {
     "id": "q106",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Découverte de l'Amérique",
-      "Bataille de Poitiers",
-      "Sac de Rome par les Wisigoths",
-      "Chute de l'Empire romain d'Occident"
-    ],
+    "text": "Quel bâtiment servait à moudre le grain ?",
+    "answers": ["La grange", "La cave", "Le four", "Le moulin"],
     "correctIndex": 3
   },
   {
     "id": "q107",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle ville italienne fut un grand centre commercial médiéval ?",
-    "answers": [
-      "Paris",
-      "Venise",
-      "Rome",
-      "Madrid"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal fournissait principalement la laine ?",
+    "answers": ["Le mouton", "Le porc", "La vache", "Le cheval"],
+    "correctIndex": 0
   },
   {
     "id": "q108",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle arme emblématique utilisaient les archers anglais ?",
-    "answers": [
-      "Arbalète",
-      "Fronde",
-      "Longbow",
-      "Arbalète à répétition"
-    ],
-    "correctIndex": 2
+    "text": "Comment appelait-on un guerrier noble à cheval ?",
+    "answers": ["Un soldat", "Un chevalier", "Un serf", "Un marchand"],
+    "correctIndex": 1
   },
+
   {
     "id": "q109",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi de France a été surnommé 'Saint Louis' ?",
-    "answers": [
-      "Louis XIV",
-      "Philippe II",
-      "Louis IX",
-      "Charles VII"
-    ],
+    "text": "Quelle activité consistait à fabriquer des objets en bois ?",
+    "answers": ["La forge", "La maçonnerie", "La menuiserie", "La verrerie"],
     "correctIndex": 2
   },
   {
     "id": "q110",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Bataille de Poitiers",
-      "Sac de Rome par les Wisigoths",
-      "Découverte de l'Amérique",
-      "Chute de l'Empire romain d'Occident"
-    ],
+    "text": "Quel lieu servait à vendre des produits localement ?",
+    "answers": ["La ferme", "Le port", "Le cloître", "Le marché"],
     "correctIndex": 3
   },
   {
     "id": "q111",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel moine a fondé l'ordre bénédictin ?",
-    "answers": [
-      "François d'Assise",
-      "Dominique de Guzmán",
-      "Bernard de Clairvaux",
-      "Benoît de Nursie"
-    ],
-    "correctIndex": 3
+    "text": "Quel objet servait à se défendre au combat ?",
+    "answers": ["Le bouclier", "La torche", "La corde", "Le sac"],
+    "correctIndex": 0
   },
   {
     "id": "q112",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi de France a été surnommé 'Saint Louis' ?",
-    "answers": [
-      "Philippe II",
-      "Louis IX",
-      "Louis XIV",
-      "Charles VII"
-    ],
+    "text": "Comment appelait-on un domaine appartenant à un seigneur ?",
+    "answers": ["Un royaume", "Un fief", "Une paroisse", "Une cité"],
     "correctIndex": 1
   },
+
   {
     "id": "q113",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle peste dévasta l'Europe au XIVe siècle ?",
-    "answers": [
-      "Fièvre typhoïde",
-      "Peste noire",
-      "Choléra",
-      "Lèpre"
-    ],
-    "correctIndex": 1
+    "text": "Quelle activité consistait à fabriquer des armes ?",
+    "answers": ["La poterie", "La couture", "La forge", "La pêche"],
+    "correctIndex": 2
   },
   {
     "id": "q114",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle arme emblématique utilisaient les archers anglais ?",
-    "answers": [
-      "Fronde",
-      "Arbalète",
-      "Longbow",
-      "Arbalète à répétition"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment servait à héberger des moines ?",
+    "answers": ["La grange", "La ferme", "Le cloître", "Le monastère"],
+    "correctIndex": 3
   },
   {
     "id": "q115",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Découverte de l'Amérique",
-      "Chute de l'Empire romain d'Occident",
-      "Bataille de Poitiers",
-      "Sac de Rome par les Wisigoths"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal était souvent utilisé pour la guerre ?",
+    "answers": ["Le cheval", "Le chien", "Le bœuf", "Le mouton"],
+    "correctIndex": 0
   },
   {
     "id": "q116",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel moine a fondé l'ordre bénédictin ?",
-    "answers": [
-      "Dominique de Guzmán",
-      "Benoît de Nursie",
-      "Bernard de Clairvaux",
-      "François d'Assise"
-    ],
+    "text": "Comment appelait-on une taxe payée au seigneur ?",
+    "answers": ["Le salaire", "Le cens", "La solde", "La dot"],
     "correctIndex": 1
   },
+
   {
     "id": "q117",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi de France a été surnommé 'Saint Louis' ?",
-    "answers": [
-      "Louis IX",
-      "Louis XIV",
-      "Philippe II",
-      "Charles VII"
-    ],
-    "correctIndex": 0
+    "text": "Quelle activité consistait à cultiver des céréales ?",
+    "answers": ["La chasse", "La pêche", "L’agriculture", "L’artisanat"],
+    "correctIndex": 2
   },
   {
     "id": "q118",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle peste dévasta l'Europe au XIVe siècle ?",
-    "answers": [
-      "Choléra",
-      "Lèpre",
-      "Fièvre typhoïde",
-      "Peste noire"
-    ],
+    "text": "Quel objet permettait de verrouiller une porte ?",
+    "answers": ["La barre", "La corde", "Le clou", "La serrure"],
     "correctIndex": 3
   },
   {
     "id": "q119",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle arme emblématique utilisaient les archers anglais ?",
-    "answers": [
-      "Longbow",
-      "Arbalète à répétition",
-      "Fronde",
-      "Arbalète"
-    ],
+    "text": "Quel animal gardait souvent les maisons ?",
+    "answers": ["Le chien", "Le chat", "Le cochon", "Le mouton"],
     "correctIndex": 0
   },
   {
     "id": "q120",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel moine a fondé l'ordre bénédictin ?",
-    "answers": [
-      "François d'Assise",
-      "Bernard de Clairvaux",
-      "Dominique de Guzmán",
-      "Benoît de Nursie"
-    ],
-    "correctIndex": 3
+    "text": "Comment appelait-on un grand rassemblement religieux ?",
+    "answers": ["Une foire", "Un pèlerinage", "Un marché", "Un conseil"],
+    "correctIndex": 1
   },
+
   {
     "id": "q121",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle fortification entoure souvent les châteaux ?",
-    "answers": [
-      "Muraille de Chine",
-      "Douves",
-      "Fossé sec",
-      "Rempart de bois"
-    ],
-    "correctIndex": 1
+    "text": "Quelle activité consistait à fabriquer des poteries ?",
+    "answers": ["La forge", "La menuiserie", "La poterie", "La verrerie"],
+    "correctIndex": 2
   },
   {
     "id": "q122",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi de France a été surnommé 'Saint Louis' ?",
-    "answers": [
-      "Louis XIV",
-      "Louis IX",
-      "Philippe II",
-      "Charles VII"
-    ],
-    "correctIndex": 1
+    "text": "Quel lieu servait à conserver les récoltes ?",
+    "answers": ["La cave", "Le cellier", "La grange", "Le grenier"],
+    "correctIndex": 3
   },
   {
     "id": "q123",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Bataille de Poitiers",
-      "Découverte de l'Amérique",
-      "Sac de Rome par les Wisigoths",
-      "Chute de l'Empire romain d'Occident"
-    ],
-    "correctIndex": 3
+    "text": "Quel objet servait à écrire sur le parchemin ?",
+    "answers": ["La plume", "Le burin", "Le pinceau", "Le couteau"],
+    "correctIndex": 0
   },
   {
     "id": "q124",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la bataille de Hastings ?",
-    "answers": [
-      "1415",
-      "1099",
-      "1066",
-      "1215"
-    ],
-    "correctIndex": 2
+    "text": "Comment appelait-on une grande fête religieuse annuelle ?",
+    "answers": ["Une foire", "Une fête", "Une messe", "Une veillée"],
+    "correctIndex": 1
   },
+
   {
     "id": "q125",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi de France a été surnommé 'Saint Louis' ?",
-    "answers": [
-      "Philippe II",
-      "Louis IX",
-      "Charles VII",
-      "Louis XIV"
-    ],
-    "correctIndex": 1
+    "text": "Quelle activité permettait de construire des murs ?",
+    "answers": ["La forge", "La menuiserie", "La maçonnerie", "La poterie"],
+    "correctIndex": 2
   },
   {
     "id": "q126",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Découverte de l'Amérique",
-      "Chute de l'Empire romain d'Occident",
-      "Sac de Rome par les Wisigoths",
-      "Bataille de Poitiers"
-    ],
-    "correctIndex": 1
+    "text": "Quel bâtiment accueillait les malades ?",
+    "answers": ["La grange", "Le marché", "Le cloître", "L’hôpital"],
+    "correctIndex": 3
   },
   {
     "id": "q127",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi normand a conquis l'Angleterre ?",
-    "answers": [
-      "Jean sans Terre",
-      "Richard Cœur de Lion",
-      "Guillaume le Conquérant",
-      "Henri II"
-    ],
-    "correctIndex": 2
+    "text": "Quel objet servait à protéger la tête du soleil ?",
+    "answers": ["Le chapeau", "Le casque", "La coiffe", "La capuche"],
+    "correctIndex": 0
   },
   {
     "id": "q128",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel moine a fondé l'ordre bénédictin ?",
-    "answers": [
-      "François d'Assise",
-      "Dominique de Guzmán",
-      "Benoît de Nursie",
-      "Bernard de Clairvaux"
-    ],
-    "correctIndex": 2
+    "text": "Comment appelait-on un ensemble de règles écrites ?",
+    "answers": ["Une loi", "Un code", "Un décret", "Un serment"],
+    "correctIndex": 1
   },
+
   {
     "id": "q129",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle peste dévasta l'Europe au XIVe siècle ?",
-    "answers": [
-      "Lèpre",
-      "Fièvre typhoïde",
-      "Choléra",
-      "Peste noire"
-    ],
-    "correctIndex": 3
+    "text": "Quelle activité consistait à fabriquer des vitraux ?",
+    "answers": ["La forge", "La sculpture", "La verrerie", "La peinture"],
+    "correctIndex": 2
   },
   {
     "id": "q130",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel moine a fondé l'ordre bénédictin ?",
-    "answers": [
-      "Benoît de Nursie",
-      "Dominique de Guzmán",
-      "François d'Assise",
-      "Bernard de Clairvaux"
-    ],
-    "correctIndex": 0
+    "text": "Quel bâtiment servait à garder les animaux ?",
+    "answers": ["Le cellier", "La grange", "Le grenier", "L’étable"],
+    "correctIndex": 3
   },
   {
     "id": "q131",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Chute de l'Empire romain d'Occident",
-      "Découverte de l'Amérique",
-      "Sac de Rome par les Wisigoths",
-      "Bataille de Poitiers"
-    ],
+    "text": "Quel objet permettait de se chauffer ?",
+    "answers": ["Le foyer", "La lampe", "La torche", "La bougie"],
     "correctIndex": 0
   },
   {
     "id": "q132",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle arme emblématique utilisaient les archers anglais ?",
-    "answers": [
-      "Arbalète",
-      "Longbow",
-      "Fronde",
-      "Arbalète à répétition"
-    ],
+    "text": "Comment appelait-on un messager officiel ?",
+    "answers": ["Un serf", "Un héraut", "Un chevalier", "Un moine"],
     "correctIndex": 1
   },
+
   {
     "id": "q133",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi anglais est célèbre pour sa participation à la troisième croisade ?",
-    "answers": [
-      "Richard Cœur de Lion",
-      "Édouard III",
-      "Henri VIII",
-      "Jean sans Terre"
-    ],
-    "correctIndex": 0
+    "text": "Quelle activité consistait à fabriquer des meubles ?",
+    "answers": ["La forge", "La poterie", "La menuiserie", "La couture"],
+    "correctIndex": 2
   },
   {
     "id": "q134",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle arme emblématique utilisaient les archers anglais ?",
-    "answers": [
-      "Arbalète",
-      "Longbow",
-      "Fronde",
-      "Arbalète à répétition"
-    ],
-    "correctIndex": 1
+    "text": "Quel bâtiment servait à conserver le vin ?",
+    "answers": ["La grange", "Le grenier", "Le four", "La cave"],
+    "correctIndex": 3
   },
   {
     "id": "q135",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Sac de Rome par les Wisigoths",
-      "Découverte de l'Amérique",
-      "Bataille de Poitiers",
-      "Chute de l'Empire romain d'Occident"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal était souvent élevé pour le lait ?",
+    "answers": ["La vache", "Le mouton", "Le porc", "Le cheval"],
+    "correctIndex": 0
   },
   {
     "id": "q136",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle arme emblématique utilisaient les archers anglais ?",
-    "answers": [
-      "Fronde",
-      "Arbalète à répétition",
-      "Arbalète",
-      "Longbow"
-    ],
-    "correctIndex": 3
+    "text": "Comment appelait-on un texte religieux chanté ?",
+    "answers": ["Un poème", "Un psaume", "Une prière", "Un récit"],
+    "correctIndex": 1
   },
+
   {
     "id": "q137",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle peste dévasta l'Europe au XIVe siècle ?",
-    "answers": [
-      "Fièvre typhoïde",
-      "Peste noire",
-      "Lèpre",
-      "Choléra"
-    ],
-    "correctIndex": 1
+    "text": "Quelle activité consistait à décorer les manuscrits ?",
+    "answers": ["La sculpture", "La peinture", "L’enluminure", "La gravure"],
+    "correctIndex": 2
   },
   {
     "id": "q138",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle peste dévasta l'Europe au XIVe siècle ?",
-    "answers": [
-      "Lèpre",
-      "Peste noire",
-      "Choléra",
-      "Fièvre typhoïde"
-    ],
-    "correctIndex": 1
+    "text": "Quel bâtiment servait à stocker les outils ?",
+    "answers": ["La cave", "Le grenier", "Le cellier", "La remise"],
+    "correctIndex": 3
   },
   {
     "id": "q139",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la bataille de Hastings ?",
-    "answers": [
-      "1415",
-      "1066",
-      "1099",
-      "1215"
-    ],
-    "correctIndex": 1
+    "text": "Quel objet permettait de transporter de l’eau ?",
+    "answers": ["Le seau", "La gourde", "Le tonneau", "Le panier"],
+    "correctIndex": 0
   },
   {
     "id": "q140",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Sac de Rome par les Wisigoths",
-      "Découverte de l'Amérique",
-      "Bataille de Poitiers",
-      "Chute de l'Empire romain d'Occident"
-    ],
-    "correctIndex": 3
+    "text": "Comment appelait-on un grand seigneur local ?",
+    "answers": ["Un comte", "Un baron", "Un duc", "Un roi"],
+    "correctIndex": 1
   },
+
   {
     "id": "q141",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi normand a conquis l'Angleterre ?",
-    "answers": [
-      "Henri II",
-      "Jean sans Terre",
-      "Guillaume le Conquérant",
-      "Richard Cœur de Lion"
-    ],
+    "text": "Quelle activité consistait à cultiver la vigne ?",
+    "answers": ["La chasse", "La pêche", "La viticulture", "L’élevage"],
     "correctIndex": 2
   },
   {
     "id": "q142",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Sac de Rome par les Wisigoths",
-      "Découverte de l'Amérique",
-      "Chute de l'Empire romain d'Occident",
-      "Bataille de Poitiers"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment servait à entreposer le foin ?",
+    "answers": ["La cave", "Le cellier", "Le grenier", "La grange"],
+    "correctIndex": 3
   },
   {
     "id": "q143",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la bataille de Hastings ?",
-    "answers": [
-      "1215",
-      "1066",
-      "1415",
-      "1099"
-    ],
-    "correctIndex": 1
+    "text": "Quel objet servait à se défendre à distance ?",
+    "answers": ["L’arc", "L’épée", "La lance", "La masse"],
+    "correctIndex": 0
   },
   {
     "id": "q144",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle ville italienne fut un grand centre commercial médiéval ?",
-    "answers": [
-      "Venise",
-      "Madrid",
-      "Paris",
-      "Rome"
-    ],
-    "correctIndex": 0
+    "text": "Comment appelait-on un village fortifié ?",
+    "answers": ["Une cité", "Un bourg", "Un hameau", "Une ferme"],
+    "correctIndex": 1
   },
+
   {
     "id": "q145",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la bataille de Hastings ?",
-    "answers": [
-      "1099",
-      "1415",
-      "1066",
-      "1215"
-    ],
+    "text": "Quelle activité consistait à fabriquer des tissus décorés ?",
+    "answers": ["La couture", "La broderie", "La teinture", "La tapisserie"],
     "correctIndex": 2
   },
   {
     "id": "q146",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle ville italienne fut un grand centre commercial médiéval ?",
-    "answers": [
-      "Madrid",
-      "Paris",
-      "Venise",
-      "Rome"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment servait à accueillir les voyageurs ?",
+    "answers": ["La grange", "Le cloître", "Le marché", "L’auberge"],
+    "correctIndex": 3
   },
   {
     "id": "q147",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi normand a conquis l'Angleterre ?",
-    "answers": [
-      "Jean sans Terre",
-      "Richard Cœur de Lion",
-      "Henri II",
-      "Guillaume le Conquérant"
-    ],
-    "correctIndex": 3
+    "text": "Quel objet servait à couper le pain ?",
+    "answers": ["Le couteau", "La fourchette", "La cuillère", "La louche"],
+    "correctIndex": 0
   },
   {
     "id": "q148",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle arme emblématique utilisaient les archers anglais ?",
-    "answers": [
-      "Arbalète à répétition",
-      "Arbalète",
-      "Longbow",
-      "Fronde"
-    ],
-    "correctIndex": 2
+    "text": "Comment appelait-on un responsable militaire local ?",
+    "answers": ["Un serf", "Un capitaine", "Un marchand", "Un moine"],
+    "correctIndex": 1
   },
+
   {
     "id": "q149",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle ville italienne fut un grand centre commercial médiéval ?",
-    "answers": [
-      "Madrid",
-      "Venise",
-      "Paris",
-      "Rome"
-    ],
-    "correctIndex": 1
+    "text": "Quelle activité consistait à fabriquer des objets en métal ?",
+    "answers": ["La menuiserie", "La poterie", "La forge", "La couture"],
+    "correctIndex": 2
   },
   {
     "id": "q150",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi anglais est célèbre pour sa participation à la troisième croisade ?",
-    "answers": [
-      "Richard Cœur de Lion",
-      "Édouard III",
-      "Jean sans Terre",
-      "Henri VIII"
-    ],
-    "correctIndex": 0
+    "text": "Quel bâtiment servait à stocker les céréales ?",
+    "answers": ["La cave", "Le cellier", "La grange", "Le grenier"],
+    "correctIndex": 3
   },
   {
     "id": "q151",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi de France a été surnommé 'Saint Louis' ?",
-    "answers": [
-      "Louis XIV",
-      "Louis IX",
-      "Charles VII",
-      "Philippe II"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal était principalement utilisé pour labourer les champs ?",
+    "answers": ["Le bœuf", "Le cheval", "Le mulet", "L’âne"],
+    "correctIndex": 0
   },
   {
     "id": "q152",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle peste dévasta l'Europe au XIVe siècle ?",
-    "answers": [
-      "Fièvre typhoïde",
-      "Choléra",
-      "Lèpre",
-      "Peste noire"
-    ],
-    "correctIndex": 3
+    "text": "Comment appelait-on la résidence d’un évêque ?",
+    "answers": ["Le château", "Le palais épiscopal", "Le monastère", "Le cloître"],
+    "correctIndex": 1
   },
   {
     "id": "q153",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi de France a été surnommé 'Saint Louis' ?",
-    "answers": [
-      "Charles VII",
-      "Louis XIV",
-      "Philippe II",
-      "Louis IX"
-    ],
-    "correctIndex": 3
+    "text": "Quelle activité permettait de produire du sel ?",
+    "answers": ["La chasse", "La pêche", "La saunerie", "La forge"],
+    "correctIndex": 2
   },
   {
     "id": "q154",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel moine a fondé l'ordre bénédictin ?",
-    "answers": [
-      "François d'Assise",
-      "Bernard de Clairvaux",
-      "Benoît de Nursie",
-      "Dominique de Guzmán"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment servait à entreposer les récoltes du seigneur ?",
+    "answers": ["La cave", "Le cellier", "Le moulin", "La grange seigneuriale"],
+    "correctIndex": 3
   },
+
   {
     "id": "q155",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Sac de Rome par les Wisigoths",
-      "Découverte de l'Amérique",
-      "Chute de l'Empire romain d'Occident",
-      "Bataille de Poitiers"
-    ],
-    "correctIndex": 2
+    "text": "Quel objet servait à mesurer le temps dans les monastères ?",
+    "answers": ["Le cadran solaire", "La montre", "Le sablier", "L’horloge mécanique"],
+    "correctIndex": 0
   },
   {
     "id": "q156",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle peste dévasta l'Europe au XIVe siècle ?",
-    "answers": [
-      "Peste noire",
-      "Fièvre typhoïde",
-      "Lèpre",
-      "Choléra"
-    ],
-    "correctIndex": 0
+    "text": "Comment appelait-on un noble possédant plusieurs fiefs ?",
+    "answers": ["Un serf", "Un seigneur", "Un paysan", "Un artisan"],
+    "correctIndex": 1
   },
   {
     "id": "q157",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle fortification entoure souvent les châteaux ?",
-    "answers": [
-      "Fossé sec",
-      "Muraille de Chine",
-      "Douves",
-      "Rempart de bois"
-    ],
+    "text": "Quelle activité consistait à fabriquer des chaussures ?",
+    "answers": ["La forge", "La menuiserie", "La cordonnerie", "La poterie"],
     "correctIndex": 2
   },
   {
     "id": "q158",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle arme emblématique utilisaient les archers anglais ?",
-    "answers": [
-      "Fronde",
-      "Arbalète",
-      "Arbalète à répétition",
-      "Longbow"
-    ],
+    "text": "Quel bâtiment accueillait les réunions de la ville ?",
+    "answers": ["L’église", "Le marché", "La taverne", "L’hôtel de ville"],
     "correctIndex": 3
   },
+
   {
     "id": "q159",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel moine a fondé l'ordre bénédictin ?",
-    "answers": [
-      "Dominique de Guzmán",
-      "Benoît de Nursie",
-      "François d'Assise",
-      "Bernard de Clairvaux"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal était utilisé pour tirer les charrettes lourdes ?",
+    "answers": ["Le cheval", "Le bœuf", "Le chien", "Le mouton"],
+    "correctIndex": 0
   },
   {
     "id": "q160",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Sac de Rome par les Wisigoths",
-      "Chute de l'Empire romain d'Occident",
-      "Bataille de Poitiers",
-      "Découverte de l'Amérique"
-    ],
+    "text": "Comment appelait-on un village dépendant d’un château ?",
+    "answers": ["Une cité", "Un bourg", "Une capitale", "Une métropole"],
     "correctIndex": 1
   },
+
   {
     "id": "q161",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel moine a fondé l'ordre bénédictin ?",
-    "answers": [
-      "François d'Assise",
-      "Bernard de Clairvaux",
-      "Benoît de Nursie",
-      "Dominique de Guzmán"
-    ],
+    "text": "Quelle activité consistait à produire du vin ?",
+    "answers": ["L’agriculture", "L’élevage", "La viticulture", "La pêche"],
     "correctIndex": 2
   },
   {
     "id": "q162",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle fortification entoure souvent les châteaux ?",
-    "answers": [
-      "Rempart de bois",
-      "Muraille de Chine",
-      "Douves",
-      "Fossé sec"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment servait à conserver les tonneaux ?",
+    "answers": ["Le grenier", "La grange", "Le moulin", "La cave"],
+    "correctIndex": 3
   },
+
   {
     "id": "q163",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi de France a été surnommé 'Saint Louis' ?",
-    "answers": [
-      "Louis IX",
-      "Charles VII",
-      "Philippe II",
-      "Louis XIV"
-    ],
+    "text": "Quel objet permettait de se protéger de la pluie ?",
+    "answers": ["La cape", "Le casque", "La tunique", "La cotte"],
     "correctIndex": 0
   },
   {
     "id": "q164",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi normand a conquis l'Angleterre ?",
-    "answers": [
-      "Richard Cœur de Lion",
-      "Henri II",
-      "Jean sans Terre",
-      "Guillaume le Conquérant"
-    ],
-    "correctIndex": 3
+    "text": "Comment appelait-on un officier chargé de rendre la justice locale ?",
+    "answers": ["Le moine", "Le bailli", "Le serf", "Le marchand"],
+    "correctIndex": 1
   },
   {
     "id": "q165",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Sac de Rome par les Wisigoths",
-      "Chute de l'Empire romain d'Occident",
-      "Découverte de l'Amérique",
-      "Bataille de Poitiers"
-    ],
-    "correctIndex": 1
+    "text": "Quelle activité consistait à fabriquer des cloches ?",
+    "answers": ["La verrerie", "La poterie", "La fonderie", "La menuiserie"],
+    "correctIndex": 2
   },
   {
     "id": "q166",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Découverte de l'Amérique",
-      "Bataille de Poitiers",
-      "Chute de l'Empire romain d'Occident",
-      "Sac de Rome par les Wisigoths"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment servait à loger les soldats ?",
+    "answers": ["La grange", "Le cloître", "Le marché", "La caserne"],
+    "correctIndex": 3
   },
+
   {
     "id": "q167",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi normand a conquis l'Angleterre ?",
-    "answers": [
-      "Richard Cœur de Lion",
-      "Jean sans Terre",
-      "Henri II",
-      "Guillaume le Conquérant"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal fournissait la force pour actionner les moulins ?",
+    "answers": ["Le cheval", "Le bœuf", "Le chien", "Le mouton"],
+    "correctIndex": 0
   },
   {
     "id": "q168",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi normand a conquis l'Angleterre ?",
-    "answers": [
-      "Henri II",
-      "Guillaume le Conquérant",
-      "Richard Cœur de Lion",
-      "Jean sans Terre"
-    ],
+    "text": "Comment appelait-on une taxe payée en travail ?",
+    "answers": ["Le cens", "La corvée", "La dîme", "La solde"],
     "correctIndex": 1
   },
   {
     "id": "q169",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi anglais est célèbre pour sa participation à la troisième croisade ?",
-    "answers": [
-      "Édouard III",
-      "Jean sans Terre",
-      "Henri VIII",
-      "Richard Cœur de Lion"
-    ],
-    "correctIndex": 3
+    "text": "Quelle activité consistait à décorer les églises ?",
+    "answers": ["La forge", "La maçonnerie", "La sculpture", "La pêche"],
+    "correctIndex": 2
   },
   {
     "id": "q170",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi de France a été surnommé 'Saint Louis' ?",
-    "answers": [
-      "Charles VII",
-      "Philippe II",
-      "Louis IX",
-      "Louis XIV"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment servait à accueillir les pèlerins ?",
+    "answers": ["Le château", "La grange", "Le marché", "L’hospice"],
+    "correctIndex": 3
   },
+
   {
     "id": "q171",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Découverte de l'Amérique",
-      "Chute de l'Empire romain d'Occident",
-      "Bataille de Poitiers",
-      "Sac de Rome par les Wisigoths"
-    ],
-    "correctIndex": 1
+    "text": "Quel objet permettait de transporter le grain ?",
+    "answers": ["Le sac", "Le seau", "Le panier", "La jarre"],
+    "correctIndex": 0
   },
   {
     "id": "q172",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle peste dévasta l'Europe au XIVe siècle ?",
-    "answers": [
-      "Fièvre typhoïde",
-      "Peste noire",
-      "Lèpre",
-      "Choléra"
-    ],
+    "text": "Comment appelait-on un groupe d’artisans du même métier ?",
+    "answers": ["Une armée", "Une corporation", "Une seigneurie", "Un ordre"],
     "correctIndex": 1
   },
+
   {
     "id": "q173",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi de France a été surnommé 'Saint Louis' ?",
-    "answers": [
-      "Louis IX",
-      "Charles VII",
-      "Philippe II",
-      "Louis XIV"
-    ],
-    "correctIndex": 0
+    "text": "Quelle activité consistait à fabriquer des vitraux colorés ?",
+    "answers": ["La peinture", "La poterie", "La verrerie", "La couture"],
+    "correctIndex": 2
   },
   {
     "id": "q174",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Chute de l'Empire romain d'Occident",
-      "Bataille de Poitiers",
-      "Découverte de l'Amérique",
-      "Sac de Rome par les Wisigoths"
-    ],
-    "correctIndex": 0
+    "text": "Quel bâtiment servait à stocker les armes ?",
+    "answers": ["La grange", "La cave", "Le cloître", "L’arsenal"],
+    "correctIndex": 3
   },
+
   {
     "id": "q175",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi normand a conquis l'Angleterre ?",
-    "answers": [
-      "Jean sans Terre",
-      "Guillaume le Conquérant",
-      "Henri II",
-      "Richard Cœur de Lion"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal était utilisé pour la chasse ?",
+    "answers": ["Le chien", "Le cheval", "Le bœuf", "Le mouton"],
+    "correctIndex": 0
   },
   {
     "id": "q176",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la bataille de Hastings ?",
-    "answers": [
-      "1415",
-      "1099",
-      "1066",
-      "1215"
-    ],
-    "correctIndex": 2
+    "text": "Comment appelait-on un document officiel écrit à la main ?",
+    "answers": ["Un livre", "Un manuscrit", "Un décret", "Un registre"],
+    "correctIndex": 1
   },
   {
     "id": "q177",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi anglais est célèbre pour sa participation à la troisième croisade ?",
-    "answers": [
-      "Édouard III",
-      "Richard Cœur de Lion",
-      "Jean sans Terre",
-      "Henri VIII"
-    ],
-    "correctIndex": 1
+    "text": "Quelle activité consistait à produire du cuir ?",
+    "answers": ["La forge", "La menuiserie", "La tannerie", "La verrerie"],
+    "correctIndex": 2
   },
   {
     "id": "q178",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle peste dévasta l'Europe au XIVe siècle ?",
-    "answers": [
-      "Lèpre",
-      "Fièvre typhoïde",
-      "Peste noire",
-      "Choléra"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment servait à conserver les archives ?",
+    "answers": ["La grange", "Le cloître", "Le marché", "La chancellerie"],
+    "correctIndex": 3
   },
+
   {
     "id": "q179",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle fortification entoure souvent les châteaux ?",
-    "answers": [
-      "Fossé sec",
-      "Douves",
-      "Muraille de Chine",
-      "Rempart de bois"
-    ],
-    "correctIndex": 1
+    "text": "Quel objet servait à transporter le vin ?",
+    "answers": ["Le tonneau", "Le sac", "La jarre", "Le panier"],
+    "correctIndex": 0
   },
   {
     "id": "q180",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi de France a été surnommé 'Saint Louis' ?",
-    "answers": [
-      "Louis XIV",
-      "Charles VII",
-      "Philippe II",
-      "Louis IX"
-    ],
-    "correctIndex": 3
+    "text": "Comment appelait-on un chef militaire local ?",
+    "answers": ["Un moine", "Un capitaine", "Un serf", "Un marchand"],
+    "correctIndex": 1
   },
+
   {
     "id": "q181",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Sac de Rome par les Wisigoths",
-      "Bataille de Poitiers",
-      "Découverte de l'Amérique",
-      "Chute de l'Empire romain d'Occident"
-    ],
-    "correctIndex": 3
+    "text": "Quelle activité consistait à fabriquer des armes blanches ?",
+    "answers": ["La verrerie", "La menuiserie", "La forge", "La poterie"],
+    "correctIndex": 2
   },
   {
     "id": "q182",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi de France a été surnommé 'Saint Louis' ?",
-    "answers": [
-      "Charles VII",
-      "Louis IX",
-      "Philippe II",
-      "Louis XIV"
-    ],
-    "correctIndex": 1
+    "text": "Quel bâtiment servait à loger les voyageurs de passage ?",
+    "answers": ["La grange", "Le cloître", "Le marché", "L’auberge"],
+    "correctIndex": 3
   },
+
   {
     "id": "q183",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi anglais est célèbre pour sa participation à la troisième croisade ?",
-    "answers": [
-      "Jean sans Terre",
-      "Henri VIII",
-      "Richard Cœur de Lion",
-      "Édouard III"
-    ],
-    "correctIndex": 2
+    "text": "Quel objet permettait d’éclairer les rues la nuit ?",
+    "answers": ["La lanterne", "La chandelle", "La torche", "Le feu"],
+    "correctIndex": 0
   },
   {
     "id": "q184",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle fortification entoure souvent les châteaux ?",
-    "answers": [
-      "Muraille de Chine",
-      "Rempart de bois",
-      "Fossé sec",
-      "Douves"
-    ],
-    "correctIndex": 3
+    "text": "Comment appelait-on un texte religieux chanté collectivement ?",
+    "answers": ["Un poème", "Un chant", "Un psaume", "Un récit"],
+    "correctIndex": 1
   },
   {
     "id": "q185",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi anglais est célèbre pour sa participation à la troisième croisade ?",
-    "answers": [
-      "Richard Cœur de Lion",
-      "Henri VIII",
-      "Jean sans Terre",
-      "Édouard III"
-    ],
-    "correctIndex": 0
+    "text": "Quelle activité consistait à fabriquer des bijoux ?",
+    "answers": ["La forge", "La sculpture", "L’orfèvrerie", "La couture"],
+    "correctIndex": 2
   },
   {
     "id": "q186",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel moine a fondé l'ordre bénédictin ?",
-    "answers": [
-      "Benoît de Nursie",
-      "Dominique de Guzmán",
-      "Bernard de Clairvaux",
-      "François d'Assise"
-    ],
-    "correctIndex": 0
+    "text": "Quel bâtiment servait à protéger les archives importantes ?",
+    "answers": ["La grange", "La cave", "Le cloître", "Le trésor"],
+    "correctIndex": 3
   },
+
   {
     "id": "q187",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle arme emblématique utilisaient les archers anglais ?",
-    "answers": [
-      "Arbalète à répétition",
-      "Arbalète",
-      "Longbow",
-      "Fronde"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal fournissait la traction pour les moulins à sang ?",
+    "answers": ["Le cheval", "Le chien", "Le mouton", "Le porc"],
+    "correctIndex": 0
   },
   {
     "id": "q188",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la bataille de Hastings ?",
-    "answers": [
-      "1099",
-      "1066",
-      "1215",
-      "1415"
-    ],
+    "text": "Comment appelait-on un registre des impôts ?",
+    "answers": ["Un livre", "Un terrier", "Un parchemin", "Un codex"],
     "correctIndex": 1
   },
   {
     "id": "q189",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle ville italienne fut un grand centre commercial médiéval ?",
-    "answers": [
-      "Venise",
-      "Rome",
-      "Paris",
-      "Madrid"
-    ],
-    "correctIndex": 0
+    "text": "Quelle activité consistait à fabriquer des tapisseries ?",
+    "answers": ["La couture", "La teinture", "La tapisserie", "La broderie"],
+    "correctIndex": 2
   },
   {
     "id": "q190",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel moine a fondé l'ordre bénédictin ?",
-    "answers": [
-      "Benoît de Nursie",
-      "Dominique de Guzmán",
-      "Bernard de Clairvaux",
-      "François d'Assise"
-    ],
-    "correctIndex": 0
+    "text": "Quel bâtiment servait à stocker les réserves alimentaires ?",
+    "answers": ["La grange", "La cave", "Le moulin", "Le cellier"],
+    "correctIndex": 3
   },
+
   {
     "id": "q191",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi anglais est célèbre pour sa participation à la troisième croisade ?",
-    "answers": [
-      "Richard Cœur de Lion",
-      "Édouard III",
-      "Henri VIII",
-      "Jean sans Terre"
-    ],
+    "text": "Quel objet permettait de couper le bois ?",
+    "answers": ["La hache", "La scie", "Le marteau", "Le burin"],
     "correctIndex": 0
   },
   {
     "id": "q192",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi normand a conquis l'Angleterre ?",
-    "answers": [
-      "Henri II",
-      "Richard Cœur de Lion",
-      "Guillaume le Conquérant",
-      "Jean sans Terre"
-    ],
-    "correctIndex": 2
+    "text": "Comment appelait-on un responsable religieux local ?",
+    "answers": ["L’évêque", "Le curé", "L’abbé", "Le moine"],
+    "correctIndex": 1
   },
+
   {
     "id": "q193",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi anglais est célèbre pour sa participation à la troisième croisade ?",
-    "answers": [
-      "Richard Cœur de Lion",
-      "Jean sans Terre",
-      "Henri VIII",
-      "Édouard III"
-    ],
-    "correctIndex": 0
+    "text": "Quelle activité consistait à fabriquer des outils agricoles ?",
+    "answers": ["La poterie", "La verrerie", "La forge", "La couture"],
+    "correctIndex": 2
   },
   {
     "id": "q194",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Découverte de l'Amérique",
-      "Bataille de Poitiers",
-      "Chute de l'Empire romain d'Occident",
-      "Sac de Rome par les Wisigoths"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment servait à conserver les semences ?",
+    "answers": ["La cave", "Le cellier", "La grange", "Le grenier"],
+    "correctIndex": 3
   },
+
   {
     "id": "q195",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi de France a été surnommé 'Saint Louis' ?",
-    "answers": [
-      "Louis IX",
-      "Charles VII",
-      "Philippe II",
-      "Louis XIV"
-    ],
+    "text": "Quel animal était souvent utilisé pour la surveillance nocturne ?",
+    "answers": ["Le chien", "Le chat", "Le cochon", "Le mouton"],
     "correctIndex": 0
   },
   {
     "id": "q196",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle arme emblématique utilisaient les archers anglais ?",
-    "answers": [
-      "Fronde",
-      "Longbow",
-      "Arbalète",
-      "Arbalète à répétition"
-    ],
+    "text": "Comment appelait-on un texte racontant la vie d’un saint ?",
+    "answers": ["Une chronique", "Une hagiographie", "Un manuscrit", "Un registre"],
     "correctIndex": 1
   },
   {
     "id": "q197",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quelle arme emblématique utilisaient les archers anglais ?",
-    "answers": [
-      "Arbalète à répétition",
-      "Longbow",
-      "Arbalète",
-      "Fronde"
-    ],
-    "correctIndex": 1
+    "text": "Quelle activité consistait à fabriquer des cordes ?",
+    "answers": ["La couture", "La menuiserie", "La corderie", "La poterie"],
+    "correctIndex": 2
   },
   {
     "id": "q198",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Sac de Rome par les Wisigoths",
-      "Bataille de Poitiers",
-      "Découverte de l'Amérique",
-      "Chute de l'Empire romain d'Occident"
-    ],
+    "text": "Quel bâtiment servait à stocker les outils agricoles ?",
+    "answers": ["La grange", "Le cellier", "Le grenier", "La remise"],
     "correctIndex": 3
   },
+
   {
     "id": "q199",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Bataille de Poitiers",
-      "Chute de l'Empire romain d'Occident",
-      "Découverte de l'Amérique",
-      "Sac de Rome par les Wisigoths"
-    ],
-    "correctIndex": 1
+    "text": "Quel objet permettait de transporter des liquides ?",
+    "answers": ["La gourde", "Le sac", "Le panier", "La caisse"],
+    "correctIndex": 0
   },
   {
     "id": "q200",
     "category": "Moyen-Âge",
     "difficulty": "Facile",
-    "text": "Quel roi anglais est célèbre pour sa participation à la troisième croisade ?",
-    "answers": [
-      "Richard Cœur de Lion",
-      "Henri VIII",
-      "Édouard III",
-      "Jean sans Terre"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q201",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Sac de Rome par les Wisigoths",
-      "Bataille de Poitiers",
-      "Chute de l'Empire romain d'Occident",
-      "Découverte de l'Amérique"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q202",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel roi anglais est célèbre pour sa participation à la troisième croisade ?",
-    "answers": [
-      "Édouard III",
-      "Richard Cœur de Lion",
-      "Jean sans Terre",
-      "Henri VIII"
-    ],
+    "text": "Comment appelait-on un responsable des finances locales ?",
+    "answers": ["Le bailli", "Le trésorier", "Le curé", "Le prévôt"],
     "correctIndex": 1
-  },
-  {
-    "id": "q203",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel roi de France a été surnommé 'Saint Louis' ?",
-    "answers": [
-      "Louis IX",
-      "Philippe II",
-      "Louis XIV",
-      "Charles VII"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q204",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel roi de France a été surnommé 'Saint Louis' ?",
-    "answers": [
-      "Charles VII",
-      "Louis XIV",
-      "Philippe II",
-      "Louis IX"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q205",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel moine a fondé l'ordre bénédictin ?",
-    "answers": [
-      "Dominique de Guzmán",
-      "Benoît de Nursie",
-      "Bernard de Clairvaux",
-      "François d'Assise"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q206",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Bataille de Poitiers",
-      "Chute de l'Empire romain d'Occident",
-      "Découverte de l'Amérique",
-      "Sac de Rome par les Wisigoths"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q207",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel roi anglais est célèbre pour sa participation à la troisième croisade ?",
-    "answers": [
-      "Richard Cœur de Lion",
-      "Édouard III",
-      "Jean sans Terre",
-      "Henri VIII"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q208",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quelle fortification entoure souvent les châteaux ?",
-    "answers": [
-      "Fossé sec",
-      "Muraille de Chine",
-      "Rempart de bois",
-      "Douves"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q209",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel roi anglais est célèbre pour sa participation à la troisième croisade ?",
-    "answers": [
-      "Édouard III",
-      "Richard Cœur de Lion",
-      "Henri VIII",
-      "Jean sans Terre"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q210",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quelle ville italienne fut un grand centre commercial médiéval ?",
-    "answers": [
-      "Venise",
-      "Madrid",
-      "Rome",
-      "Paris"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q211",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quelle fortification entoure souvent les châteaux ?",
-    "answers": [
-      "Fossé sec",
-      "Rempart de bois",
-      "Douves",
-      "Muraille de Chine"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q212",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quelle arme emblématique utilisaient les archers anglais ?",
-    "answers": [
-      "Fronde",
-      "Arbalète",
-      "Arbalète à répétition",
-      "Longbow"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q213",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel moine a fondé l'ordre bénédictin ?",
-    "answers": [
-      "Benoît de Nursie",
-      "Bernard de Clairvaux",
-      "Dominique de Guzmán",
-      "François d'Assise"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q214",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel roi normand a conquis l'Angleterre ?",
-    "answers": [
-      "Jean sans Terre",
-      "Henri II",
-      "Guillaume le Conquérant",
-      "Richard Cœur de Lion"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q215",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Bataille de Poitiers",
-      "Découverte de l'Amérique",
-      "Sac de Rome par les Wisigoths",
-      "Chute de l'Empire romain d'Occident"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q216",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quelle ville italienne fut un grand centre commercial médiéval ?",
-    "answers": [
-      "Paris",
-      "Madrid",
-      "Venise",
-      "Rome"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q217",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la bataille de Hastings ?",
-    "answers": [
-      "1215",
-      "1099",
-      "1415",
-      "1066"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q218",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quelle arme emblématique utilisaient les archers anglais ?",
-    "answers": [
-      "Fronde",
-      "Arbalète",
-      "Arbalète à répétition",
-      "Longbow"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q219",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Sac de Rome par les Wisigoths",
-      "Chute de l'Empire romain d'Occident",
-      "Découverte de l'Amérique",
-      "Bataille de Poitiers"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q220",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quelle arme emblématique utilisaient les archers anglais ?",
-    "answers": [
-      "Arbalète",
-      "Longbow",
-      "Arbalète à répétition",
-      "Fronde"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q221",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Chute de l'Empire romain d'Occident",
-      "Découverte de l'Amérique",
-      "Sac de Rome par les Wisigoths",
-      "Bataille de Poitiers"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q222",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la bataille de Hastings ?",
-    "answers": [
-      "1066",
-      "1099",
-      "1215",
-      "1415"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q223",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Découverte de l'Amérique",
-      "Bataille de Poitiers",
-      "Chute de l'Empire romain d'Occident",
-      "Sac de Rome par les Wisigoths"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q224",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quelle arme emblématique utilisaient les archers anglais ?",
-    "answers": [
-      "Arbalète à répétition",
-      "Arbalète",
-      "Fronde",
-      "Longbow"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q225",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la bataille de Hastings ?",
-    "answers": [
-      "1099",
-      "1066",
-      "1215",
-      "1415"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q226",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quelle ville italienne fut un grand centre commercial médiéval ?",
-    "answers": [
-      "Rome",
-      "Paris",
-      "Venise",
-      "Madrid"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q227",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quelle ville italienne fut un grand centre commercial médiéval ?",
-    "answers": [
-      "Venise",
-      "Paris",
-      "Rome",
-      "Madrid"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q228",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quelle peste dévasta l'Europe au XIVe siècle ?",
-    "answers": [
-      "Lèpre",
-      "Fièvre typhoïde",
-      "Peste noire",
-      "Choléra"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q229",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel roi normand a conquis l'Angleterre ?",
-    "answers": [
-      "Guillaume le Conquérant",
-      "Jean sans Terre",
-      "Richard Cœur de Lion",
-      "Henri II"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q230",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quelle arme emblématique utilisaient les archers anglais ?",
-    "answers": [
-      "Longbow",
-      "Fronde",
-      "Arbalète à répétition",
-      "Arbalète"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q231",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quelle peste dévasta l'Europe au XIVe siècle ?",
-    "answers": [
-      "Fièvre typhoïde",
-      "Lèpre",
-      "Choléra",
-      "Peste noire"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q232",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Bataille de Poitiers",
-      "Découverte de l'Amérique",
-      "Sac de Rome par les Wisigoths",
-      "Chute de l'Empire romain d'Occident"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q233",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel roi normand a conquis l'Angleterre ?",
-    "answers": [
-      "Richard Cœur de Lion",
-      "Henri II",
-      "Jean sans Terre",
-      "Guillaume le Conquérant"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q234",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Bataille de Poitiers",
-      "Sac de Rome par les Wisigoths",
-      "Découverte de l'Amérique",
-      "Chute de l'Empire romain d'Occident"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q235",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel roi normand a conquis l'Angleterre ?",
-    "answers": [
-      "Jean sans Terre",
-      "Henri II",
-      "Guillaume le Conquérant",
-      "Richard Cœur de Lion"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q236",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel roi de France a été surnommé 'Saint Louis' ?",
-    "answers": [
-      "Philippe II",
-      "Louis XIV",
-      "Louis IX",
-      "Charles VII"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q237",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quelle peste dévasta l'Europe au XIVe siècle ?",
-    "answers": [
-      "Lèpre",
-      "Peste noire",
-      "Choléra",
-      "Fièvre typhoïde"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q238",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quelle peste dévasta l'Europe au XIVe siècle ?",
-    "answers": [
-      "Peste noire",
-      "Choléra",
-      "Lèpre",
-      "Fièvre typhoïde"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q239",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quelle ville italienne fut un grand centre commercial médiéval ?",
-    "answers": [
-      "Rome",
-      "Paris",
-      "Venise",
-      "Madrid"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q240",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la bataille de Hastings ?",
-    "answers": [
-      "1066",
-      "1415",
-      "1215",
-      "1099"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q241",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quelle peste dévasta l'Europe au XIVe siècle ?",
-    "answers": [
-      "Choléra",
-      "Fièvre typhoïde",
-      "Peste noire",
-      "Lèpre"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q242",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quelle ville italienne fut un grand centre commercial médiéval ?",
-    "answers": [
-      "Venise",
-      "Paris",
-      "Rome",
-      "Madrid"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q243",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la bataille de Hastings ?",
-    "answers": [
-      "1415",
-      "1099",
-      "1066",
-      "1215"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q244",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quelle arme emblématique utilisaient les archers anglais ?",
-    "answers": [
-      "Longbow",
-      "Fronde",
-      "Arbalète",
-      "Arbalète à répétition"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q245",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel moine a fondé l'ordre bénédictin ?",
-    "answers": [
-      "Benoît de Nursie",
-      "Dominique de Guzmán",
-      "François d'Assise",
-      "Bernard de Clairvaux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q246",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel roi normand a conquis l'Angleterre ?",
-    "answers": [
-      "Henri II",
-      "Richard Cœur de Lion",
-      "Guillaume le Conquérant",
-      "Jean sans Terre"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q247",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quelle arme emblématique utilisaient les archers anglais ?",
-    "answers": [
-      "Fronde",
-      "Longbow",
-      "Arbalète à répétition",
-      "Arbalète"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q248",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel roi normand a conquis l'Angleterre ?",
-    "answers": [
-      "Henri II",
-      "Jean sans Terre",
-      "Richard Cœur de Lion",
-      "Guillaume le Conquérant"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q249",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quelle fortification entoure souvent les châteaux ?",
-    "answers": [
-      "Rempart de bois",
-      "Muraille de Chine",
-      "Douves",
-      "Fossé sec"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q250",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Chute de l'Empire romain d'Occident",
-      "Bataille de Poitiers",
-      "Sac de Rome par les Wisigoths",
-      "Découverte de l'Amérique"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q251",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quelle fortification entoure souvent les châteaux ?",
-    "answers": [
-      "Muraille de Chine",
-      "Douves",
-      "Fossé sec",
-      "Rempart de bois"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q252",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Découverte de l'Amérique",
-      "Chute de l'Empire romain d'Occident",
-      "Bataille de Poitiers",
-      "Sac de Rome par les Wisigoths"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q253",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel roi normand a conquis l'Angleterre ?",
-    "answers": [
-      "Henri II",
-      "Jean sans Terre",
-      "Richard Cœur de Lion",
-      "Guillaume le Conquérant"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q254",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quelle fortification entoure souvent les châteaux ?",
-    "answers": [
-      "Rempart de bois",
-      "Douves",
-      "Fossé sec",
-      "Muraille de Chine"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q255",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Chute de l'Empire romain d'Occident",
-      "Découverte de l'Amérique",
-      "Bataille de Poitiers",
-      "Sac de Rome par les Wisigoths"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q256",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel moine a fondé l'ordre bénédictin ?",
-    "answers": [
-      "François d'Assise",
-      "Dominique de Guzmán",
-      "Benoît de Nursie",
-      "Bernard de Clairvaux"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q257",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel roi anglais est célèbre pour sa participation à la troisième croisade ?",
-    "answers": [
-      "Henri VIII",
-      "Richard Cœur de Lion",
-      "Jean sans Terre",
-      "Édouard III"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q258",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel moine a fondé l'ordre bénédictin ?",
-    "answers": [
-      "Bernard de Clairvaux",
-      "François d'Assise",
-      "Benoît de Nursie",
-      "Dominique de Guzmán"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q259",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel roi de France a été surnommé 'Saint Louis' ?",
-    "answers": [
-      "Louis IX",
-      "Charles VII",
-      "Louis XIV",
-      "Philippe II"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q260",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la bataille de Hastings ?",
-    "answers": [
-      "1215",
-      "1099",
-      "1415",
-      "1066"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q261",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel moine a fondé l'ordre bénédictin ?",
-    "answers": [
-      "François d'Assise",
-      "Bernard de Clairvaux",
-      "Dominique de Guzmán",
-      "Benoît de Nursie"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q262",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quelle peste dévasta l'Europe au XIVe siècle ?",
-    "answers": [
-      "Peste noire",
-      "Fièvre typhoïde",
-      "Choléra",
-      "Lèpre"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q263",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quelle arme emblématique utilisaient les archers anglais ?",
-    "answers": [
-      "Fronde",
-      "Arbalète à répétition",
-      "Longbow",
-      "Arbalète"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q264",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quelle arme emblématique utilisaient les archers anglais ?",
-    "answers": [
-      "Arbalète",
-      "Arbalète à répétition",
-      "Longbow",
-      "Fronde"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q265",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la bataille de Hastings ?",
-    "answers": [
-      "1099",
-      "1415",
-      "1066",
-      "1215"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q266",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel moine a fondé l'ordre bénédictin ?",
-    "answers": [
-      "François d'Assise",
-      "Benoît de Nursie",
-      "Bernard de Clairvaux",
-      "Dominique de Guzmán"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q267",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Sac de Rome par les Wisigoths",
-      "Découverte de l'Amérique",
-      "Chute de l'Empire romain d'Occident",
-      "Bataille de Poitiers"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q268",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quelle fortification entoure souvent les châteaux ?",
-    "answers": [
-      "Douves",
-      "Fossé sec",
-      "Rempart de bois",
-      "Muraille de Chine"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q269",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel roi anglais est célèbre pour sa participation à la troisième croisade ?",
-    "answers": [
-      "Henri VIII",
-      "Jean sans Terre",
-      "Édouard III",
-      "Richard Cœur de Lion"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q270",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la bataille de Hastings ?",
-    "answers": [
-      "1066",
-      "1215",
-      "1099",
-      "1415"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q271",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel moine a fondé l'ordre bénédictin ?",
-    "answers": [
-      "Bernard de Clairvaux",
-      "François d'Assise",
-      "Dominique de Guzmán",
-      "Benoît de Nursie"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q272",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quelle peste dévasta l'Europe au XIVe siècle ?",
-    "answers": [
-      "Choléra",
-      "Peste noire",
-      "Fièvre typhoïde",
-      "Lèpre"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q273",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quelle arme emblématique utilisaient les archers anglais ?",
-    "answers": [
-      "Arbalète",
-      "Fronde",
-      "Longbow",
-      "Arbalète à répétition"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q274",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quelle arme emblématique utilisaient les archers anglais ?",
-    "answers": [
-      "Longbow",
-      "Fronde",
-      "Arbalète",
-      "Arbalète à répétition"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q275",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Bataille de Poitiers",
-      "Découverte de l'Amérique",
-      "Sac de Rome par les Wisigoths",
-      "Chute de l'Empire romain d'Occident"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q276",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quelle arme emblématique utilisaient les archers anglais ?",
-    "answers": [
-      "Arbalète à répétition",
-      "Longbow",
-      "Arbalète",
-      "Fronde"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q277",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel roi normand a conquis l'Angleterre ?",
-    "answers": [
-      "Richard Cœur de Lion",
-      "Guillaume le Conquérant",
-      "Jean sans Terre",
-      "Henri II"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q278",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Sac de Rome par les Wisigoths",
-      "Chute de l'Empire romain d'Occident",
-      "Bataille de Poitiers",
-      "Découverte de l'Amérique"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q279",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quelle peste dévasta l'Europe au XIVe siècle ?",
-    "answers": [
-      "Fièvre typhoïde",
-      "Peste noire",
-      "Lèpre",
-      "Choléra"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q280",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel moine a fondé l'ordre bénédictin ?",
-    "answers": [
-      "Dominique de Guzmán",
-      "Benoît de Nursie",
-      "François d'Assise",
-      "Bernard de Clairvaux"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q281",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Chute de l'Empire romain d'Occident",
-      "Découverte de l'Amérique",
-      "Bataille de Poitiers",
-      "Sac de Rome par les Wisigoths"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q282",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Chute de l'Empire romain d'Occident",
-      "Bataille de Poitiers",
-      "Sac de Rome par les Wisigoths",
-      "Découverte de l'Amérique"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q283",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quelle arme emblématique utilisaient les archers anglais ?",
-    "answers": [
-      "Arbalète",
-      "Arbalète à répétition",
-      "Longbow",
-      "Fronde"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q284",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Sac de Rome par les Wisigoths",
-      "Bataille de Poitiers",
-      "Chute de l'Empire romain d'Occident",
-      "Découverte de l'Amérique"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q285",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quelle fortification entoure souvent les châteaux ?",
-    "answers": [
-      "Douves",
-      "Rempart de bois",
-      "Muraille de Chine",
-      "Fossé sec"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q286",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la bataille de Hastings ?",
-    "answers": [
-      "1415",
-      "1066",
-      "1099",
-      "1215"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q287",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la bataille de Hastings ?",
-    "answers": [
-      "1099",
-      "1415",
-      "1066",
-      "1215"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q288",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel moine a fondé l'ordre bénédictin ?",
-    "answers": [
-      "François d'Assise",
-      "Bernard de Clairvaux",
-      "Benoît de Nursie",
-      "Dominique de Guzmán"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q289",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quelle peste dévasta l'Europe au XIVe siècle ?",
-    "answers": [
-      "Peste noire",
-      "Fièvre typhoïde",
-      "Lèpre",
-      "Choléra"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q290",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la bataille de Hastings ?",
-    "answers": [
-      "1215",
-      "1415",
-      "1066",
-      "1099"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q291",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Sac de Rome par les Wisigoths",
-      "Découverte de l'Amérique",
-      "Bataille de Poitiers",
-      "Chute de l'Empire romain d'Occident"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q292",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel roi anglais est célèbre pour sa participation à la troisième croisade ?",
-    "answers": [
-      "Jean sans Terre",
-      "Henri VIII",
-      "Richard Cœur de Lion",
-      "Édouard III"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q293",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quelle arme emblématique utilisaient les archers anglais ?",
-    "answers": [
-      "Longbow",
-      "Arbalète",
-      "Fronde",
-      "Arbalète à répétition"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q294",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel roi anglais est célèbre pour sa participation à la troisième croisade ?",
-    "answers": [
-      "Richard Cœur de Lion",
-      "Édouard III",
-      "Jean sans Terre",
-      "Henri VIII"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q295",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel roi anglais est célèbre pour sa participation à la troisième croisade ?",
-    "answers": [
-      "Édouard III",
-      "Richard Cœur de Lion",
-      "Henri VIII",
-      "Jean sans Terre"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q296",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel moine a fondé l'ordre bénédictin ?",
-    "answers": [
-      "Dominique de Guzmán",
-      "Bernard de Clairvaux",
-      "Benoît de Nursie",
-      "François d'Assise"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q297",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel moine a fondé l'ordre bénédictin ?",
-    "answers": [
-      "Bernard de Clairvaux",
-      "Dominique de Guzmán",
-      "François d'Assise",
-      "Benoît de Nursie"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q298",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel moine a fondé l'ordre bénédictin ?",
-    "answers": [
-      "Dominique de Guzmán",
-      "François d'Assise",
-      "Bernard de Clairvaux",
-      "Benoît de Nursie"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q299",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "Quel événement marque le début du Moyen-Âge ?",
-    "answers": [
-      "Sac de Rome par les Wisigoths",
-      "Chute de l'Empire romain d'Occident",
-      "Bataille de Poitiers",
-      "Découverte de l'Amérique"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q300",
-    "category": "Moyen-Âge",
-    "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la bataille de Hastings ?",
-    "answers": [
-      "1215",
-      "1099",
-      "1415",
-      "1066"
-    ],
-    "correctIndex": 3
   }
 ]
