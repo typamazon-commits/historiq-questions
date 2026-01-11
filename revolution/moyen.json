@@ -3,3900 +3,1688 @@
     "id": "q1",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel club politique influent siégeait au couvent des Jacobins ?",
-    "answers": [
-      "Les Feuillants",
-      "Les Cordeliers",
-      "Les Jacobins",
-      "Les Girondins"
-    ],
-    "correctIndex": 2
+    "text": "Quelle crise principale fragilise la monarchie française à la veille de 1789 ?",
+    "answers": ["La crise financière de l’État", "La crise agricole mondiale", "La crise militaire", "La crise coloniale"],
+    "correctIndex": 0
   },
   {
     "id": "q2",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel club politique influent siégeait au couvent des Jacobins ?",
-    "answers": [
-      "Les Feuillants",
-      "Les Jacobins",
-      "Les Cordeliers",
-      "Les Girondins"
-    ],
+    "text": "Quel événement pousse Louis XVI à convoquer les États généraux ?",
+    "answers": ["La guerre contre l’Angleterre", "La faillite financière", "La prise de la Bastille", "La fuite à Varennes"],
     "correctIndex": 1
   },
   {
     "id": "q3",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quelle insurrection parisienne provoque la chute de la monarchie le 10 août 1792 ?",
-    "answers": [
-      "Prise des Tuileries",
-      "Journées de Juin",
-      "Journée du 20 juin 1792",
-      "Massacres de Septembre"
-    ],
-    "correctIndex": 0
+    "text": "Quel principe fondamental est affirmé dans la nuit du 4 août 1789 ?",
+    "answers": ["La monarchie constitutionnelle", "La liberté religieuse", "L’abolition des privilèges", "Le suffrage universel"],
+    "correctIndex": 2
   },
   {
     "id": "q4",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel mouvement européen de 1848 est aussi appelé 'Printemps des peuples' ?",
-    "answers": [
-      "Révolutions de 1848",
-      "Commune de 1871",
-      "Révolution de 1830",
-      "Printemps de Prague"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement provoque la chute de la monarchie en 1792 ?",
+    "answers": ["La prise de la Bastille", "La Constitution de 1791", "La Terreur", "L’insurrection du 10 août"],
+    "correctIndex": 3
   },
+
   {
     "id": "q5",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel événement déclenche la Révolution américaine ?",
-    "answers": [
-      "Lois Intolérables",
-      "Massacre de Boston",
-      "Acte de Québec",
-      "Boston Tea Party"
-    ],
-    "correctIndex": 3
+    "text": "Quel groupe politique domine la Convention pendant la Terreur ?",
+    "answers": ["Les Montagnards", "Les Girondins", "Les Feuillants", "Les royalistes"],
+    "correctIndex": 0
   },
   {
     "id": "q6",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel traité met fin officiellement à la guerre d'indépendance américaine ?",
-    "answers": [
-      "Traité de Gand",
-      "Traité de Paris (1783)",
-      "Traité d'Utrecht",
-      "Traité de Versailles (1783)"
-    ],
+    "text": "Quel organe concentre le pouvoir exécutif durant la Terreur ?",
+    "answers": ["La Convention", "Le Comité de salut public", "Le Directoire", "Le Sénat"],
     "correctIndex": 1
   },
   {
     "id": "q7",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel organe dirige la Terreur en 1793-1794 ?",
-    "answers": [
-      "Directoire",
-      "Convention thermidorienne",
-      "Comité de Salut public",
-      "Assemblée législative"
-    ],
+    "text": "Quel principe politique est au cœur de la Constitution de 1791 ?",
+    "answers": ["La souveraineté populaire directe", "Le pouvoir absolu", "La séparation des pouvoirs", "La dictature révolutionnaire"],
     "correctIndex": 2
   },
   {
     "id": "q8",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel mouvement européen de 1848 est aussi appelé 'Printemps des peuples' ?",
-    "answers": [
-      "Commune de 1871",
-      "Printemps de Prague",
-      "Révolutions de 1848",
-      "Révolution de 1830"
-    ],
-    "correctIndex": 2
+    "text": "Quel événement marque la fin de la Terreur en 1794 ?",
+    "answers": ["La Constitution de l’an III", "La guerre civile", "Le Directoire", "La chute de Robespierre"],
+    "correctIndex": 3
   },
+
   {
     "id": "q9",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel texte fondateur est adopté le 26 août 1789 ?",
-    "answers": [
-      "Acte additionnel",
-      "Code civil",
-      "Déclaration des droits de l'homme et du citoyen",
-      "Constitution de 1791"
-    ],
-    "correctIndex": 2
+    "text": "Quel texte fonde juridiquement les libertés individuelles en 1789 ?",
+    "answers": ["La Déclaration des droits de l’Homme et du citoyen", "La Constitution de 1791", "Le Code civil", "La Charte de 1814"],
+    "correctIndex": 0
   },
   {
     "id": "q10",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Qui prononce le 'Serment du Jeu de Paume' ?",
-    "answers": [
-      "Le Directoire",
-      "Les députés du Tiers État",
-      "La Commune de Paris",
-      "Les Sans-culottes"
-    ],
+    "text": "Quel courant politique souhaite limiter la Révolution ?",
+    "answers": ["Les Jacobins", "Les Girondins", "Les Montagnards", "Les Sans-culottes"],
     "correctIndex": 1
   },
+
   {
     "id": "q11",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel club politique influent siégeait au couvent des Jacobins ?",
-    "answers": [
-      "Les Jacobins",
-      "Les Feuillants",
-      "Les Girondins",
-      "Les Cordeliers"
-    ],
-    "correctIndex": 0
+    "text": "Quel principe justifie la légitimité du pouvoir révolutionnaire ?",
+    "answers": ["Le droit divin", "La tradition", "La souveraineté nationale", "L’hérédité"],
+    "correctIndex": 2
   },
   {
     "id": "q12",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quelle insurrection parisienne provoque la chute de la monarchie le 10 août 1792 ?",
-    "answers": [
-      "Journée du 20 juin 1792",
-      "Massacres de Septembre",
-      "Prise des Tuileries",
-      "Journées de Juin"
-    ],
-    "correctIndex": 2
+    "text": "Quel régime politique succède à la Convention ?",
+    "answers": ["La monarchie constitutionnelle", "La Terreur", "L’Empire", "Le Directoire"],
+    "correctIndex": 3
   },
+
   {
     "id": "q13",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Qui prononce le 'Serment du Jeu de Paume' ?",
-    "answers": [
-      "Les Sans-culottes",
-      "Le Directoire",
-      "Les députés du Tiers État",
-      "La Commune de Paris"
-    ],
-    "correctIndex": 2
+    "text": "Quel rôle politique jouent les Sans-culottes ?",
+    "answers": ["Ils soutiennent la radicalisation révolutionnaire", "Ils défendent la monarchie", "Ils représentent la noblesse", "Ils gouvernent seuls"],
+    "correctIndex": 0
   },
   {
     "id": "q14",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel événement déclenche la Révolution américaine ?",
-    "answers": [
-      "Acte de Québec",
-      "Boston Tea Party",
-      "Lois Intolérables",
-      "Massacre de Boston"
-    ],
+    "text": "Quel événement discrédite définitivement Louis XVI auprès des révolutionnaires ?",
+    "answers": ["La prise de la Bastille", "La fuite à Varennes", "La Constitution de 1791", "Le procès du roi"],
     "correctIndex": 1
   },
+
   {
     "id": "q15",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "Thomas Paine",
-      "John Adams",
-      "Benjamin Franklin",
-      "Thomas Jefferson"
-    ],
-    "correctIndex": 0
+    "text": "Quel principe est remis en cause par la Révolution française ?",
+    "answers": ["L’égalité juridique", "La liberté individuelle", "La société d’ordres", "La citoyenneté"],
+    "correctIndex": 2
   },
   {
     "id": "q16",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel dirigeant mène la Révolution d’Octobre ?",
-    "answers": [
-      "Kerenski",
-      "Staline",
-      "Trotski",
-      "Lénine"
-    ],
+    "text": "Quel événement marque la proclamation de la République ?",
+    "answers": ["La prise de la Bastille", "La fuite à Varennes", "La Constitution de 1791", "Le 21 septembre 1792"],
     "correctIndex": 3
   },
+
   {
     "id": "q17",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "John Adams",
-      "Thomas Jefferson",
-      "Benjamin Franklin",
-      "Thomas Paine"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe est commun aux grandes révolutions modernes ?",
+    "answers": ["La souveraineté du peuple", "Le pouvoir absolu", "L’hérédité du pouvoir", "La théocratie"],
+    "correctIndex": 0
   },
   {
     "id": "q18",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "John Adams",
-      "Thomas Paine",
-      "Thomas Jefferson",
-      "Benjamin Franklin"
-    ],
+    "text": "Quel organe législatif succède aux États généraux ?",
+    "answers": ["Le Sénat", "L’Assemblée nationale", "La Convention", "Le Directoire"],
     "correctIndex": 1
   },
+
   {
     "id": "q19",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel club politique influent siégeait au couvent des Jacobins ?",
-    "answers": [
-      "Les Jacobins",
-      "Les Feuillants",
-      "Les Girondins",
-      "Les Cordeliers"
-    ],
-    "correctIndex": 0
+    "text": "Quel principe limite l’arbitraire du pouvoir politique ?",
+    "answers": ["La tradition", "Le privilège", "L’état de droit", "La censure"],
+    "correctIndex": 2
   },
   {
     "id": "q20",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel dirigeant mène la Révolution d’Octobre ?",
-    "answers": [
-      "Staline",
-      "Kerenski",
-      "Trotski",
-      "Lénine"
-    ],
+    "text": "Quel événement permet l’ascension politique de Napoléon Bonaparte ?",
+    "answers": ["La Terreur", "La Convention", "Le Directoire", "Le coup d’État du 18 Brumaire"],
     "correctIndex": 3
   },
+
   {
     "id": "q21",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel événement déclenche la Révolution américaine ?",
-    "answers": [
-      "Lois Intolérables",
-      "Massacre de Boston",
-      "Boston Tea Party",
-      "Acte de Québec"
-    ],
-    "correctIndex": 2
+    "text": "Quel principe garantit la participation politique des citoyens ?",
+    "answers": ["Le suffrage", "Le privilège", "La censure", "L’absolutisme"],
+    "correctIndex": 0
   },
   {
     "id": "q22",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel texte fondateur est adopté le 26 août 1789 ?",
-    "answers": [
-      "Déclaration des droits de l'homme et du citoyen",
-      "Constitution de 1791",
-      "Acte additionnel",
-      "Code civil"
-    ],
-    "correctIndex": 0
+    "text": "Quel texte influence durablement les constitutions modernes ?",
+    "answers": ["Le Code civil", "La Déclaration des droits de l’Homme", "La Constitution de l’an VIII", "La Charte de 1814"],
+    "correctIndex": 1
   },
+
   {
     "id": "q23",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel dirigeant mène la Révolution d’Octobre ?",
-    "answers": [
-      "Lénine",
-      "Staline",
-      "Kerenski",
-      "Trotski"
-    ],
-    "correctIndex": 0
+    "text": "Quel principe politique s’oppose directement à la monarchie absolue ?",
+    "answers": ["Le despotisme", "La féodalité", "La souveraineté nationale", "La théocratie"],
+    "correctIndex": 2
   },
   {
     "id": "q24",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel traité met fin officiellement à la guerre d'indépendance américaine ?",
-    "answers": [
-      "Traité de Paris (1783)",
-      "Traité de Gand",
-      "Traité d'Utrecht",
-      "Traité de Versailles (1783)"
-    ],
-    "correctIndex": 0
+    "text": "Quel régime politique suit le Consulat ?",
+    "answers": ["La République", "La monarchie", "Le Directoire", "L’Empire"],
+    "correctIndex": 3
   },
+
   {
     "id": "q25",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel mouvement européen de 1848 est aussi appelé 'Printemps des peuples' ?",
-    "answers": [
-      "Révolutions de 1848",
-      "Révolution de 1830",
-      "Printemps de Prague",
-      "Commune de 1871"
-    ],
+    "text": "Quel idéal politique est au cœur du projet révolutionnaire ?",
+    "answers": ["L’égalité juridique", "La hiérarchie sociale", "Le droit divin", "La tradition"],
     "correctIndex": 0
   },
   {
     "id": "q26",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel événement déclenche la Révolution américaine ?",
-    "answers": [
-      "Acte de Québec",
-      "Massacre de Boston",
-      "Lois Intolérables",
-      "Boston Tea Party"
-    ],
-    "correctIndex": 3
+    "text": "Quel acteur politique incarne la Terreur ?",
+    "answers": ["Danton", "Robespierre", "Mirabeau", "Sieyès"],
+    "correctIndex": 1
   },
+
   {
     "id": "q27",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel texte fondateur est adopté le 26 août 1789 ?",
-    "answers": [
-      "Déclaration des droits de l'homme et du citoyen",
-      "Acte additionnel",
-      "Constitution de 1791",
-      "Code civil"
-    ],
-    "correctIndex": 0
+    "text": "Quel principe est consacré par l’abolition des privilèges ?",
+    "answers": ["La censure", "La tradition", "L’égalité civile", "La hiérarchie"],
+    "correctIndex": 2
   },
   {
     "id": "q28",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel événement déclenche la Révolution américaine ?",
-    "answers": [
-      "Boston Tea Party",
-      "Massacre de Boston",
-      "Lois Intolérables",
-      "Acte de Québec"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement marque la fin du Directoire ?",
+    "answers": ["La Terreur", "La Convention", "La République", "Le coup d’État de Bonaparte"],
+    "correctIndex": 3
   },
+
   {
     "id": "q29",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "Thomas Jefferson",
-      "Benjamin Franklin",
-      "Thomas Paine",
-      "John Adams"
-    ],
-    "correctIndex": 2
+    "text": "Quel principe est affirmé contre l’arbitraire royal ?",
+    "answers": ["La primauté de la loi", "La tradition", "Le privilège", "L’hérédité"],
+    "correctIndex": 0
   },
   {
     "id": "q30",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Qui prononce le 'Serment du Jeu de Paume' ?",
-    "answers": [
-      "Les députés du Tiers État",
-      "Le Directoire",
-      "Les Sans-culottes",
-      "La Commune de Paris"
-    ],
-    "correctIndex": 0
+    "text": "Quel courant politique défend la centralisation du pouvoir révolutionnaire ?",
+    "answers": ["Les Girondins", "Les Jacobins", "Les Feuillants", "Les royalistes"],
+    "correctIndex": 1
   },
+
   {
     "id": "q31",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel dirigeant mène la Révolution d’Octobre ?",
-    "answers": [
-      "Trotski",
-      "Kerenski",
-      "Lénine",
-      "Staline"
-    ],
+    "text": "Quel principe justifie l’égalité devant la justice ?",
+    "answers": ["Le droit divin", "La tradition", "L’égalité juridique", "La hiérarchie"],
     "correctIndex": 2
   },
   {
     "id": "q32",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel événement déclenche la Révolution américaine ?",
-    "answers": [
-      "Lois Intolérables",
-      "Massacre de Boston",
-      "Acte de Québec",
-      "Boston Tea Party"
-    ],
+    "text": "Quel événement marque l’entrée de la France dans une nouvelle ère politique ?",
+    "answers": ["La fuite à Varennes", "La Terreur", "La Convention", "La proclamation de la République"],
     "correctIndex": 3
   },
+
   {
     "id": "q33",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Qui prononce le 'Serment du Jeu de Paume' ?",
-    "answers": [
-      "Les Sans-culottes",
-      "La Commune de Paris",
-      "Les députés du Tiers État",
-      "Le Directoire"
-    ],
-    "correctIndex": 2
+    "text": "Quel principe fonde la légitimité des lois révolutionnaires ?",
+    "answers": ["La volonté générale", "La tradition", "L’hérédité", "Le droit divin"],
+    "correctIndex": 0
   },
   {
     "id": "q34",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel club politique influent siégeait au couvent des Jacobins ?",
-    "answers": [
-      "Les Feuillants",
-      "Les Girondins",
-      "Les Jacobins",
-      "Les Cordeliers"
-    ],
-    "correctIndex": 2
+    "text": "Quel texte marque la fin de la monarchie constitutionnelle ?",
+    "answers": ["La Déclaration des droits", "La suspension du roi", "La Constitution de 1791", "La Charte royale"],
+    "correctIndex": 1
   },
+
   {
     "id": "q35",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel texte fondateur est adopté le 26 août 1789 ?",
-    "answers": [
-      "Constitution de 1791",
-      "Code civil",
-      "Acte additionnel",
-      "Déclaration des droits de l'homme et du citoyen"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe s’oppose aux privilèges de naissance ?",
+    "answers": ["La hiérarchie", "La tradition", "L’égalité", "Le droit divin"],
+    "correctIndex": 2
   },
   {
     "id": "q36",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel dirigeant mène la Révolution d’Octobre ?",
-    "answers": [
-      "Trotski",
-      "Lénine",
-      "Kerenski",
-      "Staline"
-    ],
-    "correctIndex": 1
+    "text": "Quel événement marque la fin officielle de la Révolution française ?",
+    "answers": ["La Terreur", "La Convention", "Le Directoire", "Le coup d’État du 18 Brumaire"],
+    "correctIndex": 3
   },
+
   {
     "id": "q37",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel mouvement européen de 1848 est aussi appelé 'Printemps des peuples' ?",
-    "answers": [
-      "Printemps de Prague",
-      "Commune de 1871",
-      "Révolution de 1830",
-      "Révolutions de 1848"
-    ],
-    "correctIndex": 3
+    "text": "Quel idéal inspire durablement les démocraties modernes ?",
+    "answers": ["La souveraineté populaire", "Le despotisme", "La théocratie", "L’hérédité"],
+    "correctIndex": 0
   },
   {
     "id": "q38",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "John Adams",
-      "Benjamin Franklin",
-      "Thomas Jefferson",
-      "Thomas Paine"
-    ],
-    "correctIndex": 3
+    "text": "Quel acteur politique est exécuté après la Terreur ?",
+    "answers": ["Mirabeau", "Robespierre", "Sieyès", "Talleyrand"],
+    "correctIndex": 1
   },
+
   {
     "id": "q39",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel mouvement européen de 1848 est aussi appelé 'Printemps des peuples' ?",
-    "answers": [
-      "Commune de 1871",
-      "Révolutions de 1848",
-      "Révolution de 1830",
-      "Printemps de Prague"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe structure la citoyenneté moderne ?",
+    "answers": ["Le privilège", "La hiérarchie", "L’égalité civique", "La tradition"],
+    "correctIndex": 2
   },
   {
     "id": "q40",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel traité met fin officiellement à la guerre d'indépendance américaine ?",
-    "answers": [
-      "Traité d'Utrecht",
-      "Traité de Paris (1783)",
-      "Traité de Gand",
-      "Traité de Versailles (1783)"
-    ],
-    "correctIndex": 1
+    "text": "Quel régime est instauré après 1804 ?",
+    "answers": ["La République", "La monarchie", "Le Consulat", "L’Empire"],
+    "correctIndex": 3
   },
+
   {
     "id": "q41",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel traité met fin officiellement à la guerre d'indépendance américaine ?",
-    "answers": [
-      "Traité de Versailles (1783)",
-      "Traité de Gand",
-      "Traité d'Utrecht",
-      "Traité de Paris (1783)"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe protège les libertés individuelles ?",
+    "answers": ["L’état de droit", "La censure", "La tradition", "Le privilège"],
+    "correctIndex": 0
   },
   {
     "id": "q42",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "Thomas Jefferson",
-      "John Adams",
-      "Thomas Paine",
-      "Benjamin Franklin"
-    ],
-    "correctIndex": 2
+    "text": "Quel courant politique soutient une Révolution radicale ?",
+    "answers": ["Les Girondins", "Les Jacobins", "Les Feuillants", "Les royalistes"],
+    "correctIndex": 1
   },
+
   {
     "id": "q43",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel mouvement européen de 1848 est aussi appelé 'Printemps des peuples' ?",
-    "answers": [
-      "Printemps de Prague",
-      "Révolutions de 1848",
-      "Commune de 1871",
-      "Révolution de 1830"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe justifie la suppression des privilèges ?",
+    "answers": ["La tradition", "Le droit divin", "L’égalité", "La hiérarchie"],
+    "correctIndex": 2
   },
   {
     "id": "q44",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel événement déclenche la Révolution américaine ?",
-    "answers": [
-      "Massacre de Boston",
-      "Acte de Québec",
-      "Boston Tea Party",
-      "Lois Intolérables"
-    ],
-    "correctIndex": 2
+    "text": "Quel événement ouvre la période du Consulat ?",
+    "answers": ["La Terreur", "La Convention", "Le Directoire", "Le coup d’État du 18 Brumaire"],
+    "correctIndex": 3
   },
+
   {
     "id": "q45",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quelle insurrection parisienne provoque la chute de la monarchie le 10 août 1792 ?",
-    "answers": [
-      "Journées de Juin",
-      "Prise des Tuileries",
-      "Journée du 20 juin 1792",
-      "Massacres de Septembre"
-    ],
-    "correctIndex": 1
+    "text": "Quel idéal politique combat l’absolutisme royal ?",
+    "answers": ["La souveraineté nationale", "La tradition", "La hiérarchie", "L’hérédité"],
+    "correctIndex": 0
   },
   {
     "id": "q46",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel mouvement européen de 1848 est aussi appelé 'Printemps des peuples' ?",
-    "answers": [
-      "Commune de 1871",
-      "Révolutions de 1848",
-      "Printemps de Prague",
-      "Révolution de 1830"
-    ],
+    "text": "Quel texte consacre la séparation des pouvoirs ?",
+    "answers": ["Le Code civil", "La Constitution de 1791", "La Charte de 1814", "La Constitution de l’an VIII"],
     "correctIndex": 1
   },
+
   {
     "id": "q47",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Qui prononce le 'Serment du Jeu de Paume' ?",
-    "answers": [
-      "Les députés du Tiers État",
-      "La Commune de Paris",
-      "Le Directoire",
-      "Les Sans-culottes"
-    ],
-    "correctIndex": 0
+    "text": "Quel principe garantit l’égalité des citoyens devant l’impôt ?",
+    "answers": ["Le privilège", "La tradition", "L’égalité fiscale", "La hiérarchie"],
+    "correctIndex": 2
   },
   {
     "id": "q48",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel événement déclenche la Révolution américaine ?",
-    "answers": [
-      "Lois Intolérables",
-      "Acte de Québec",
-      "Massacre de Boston",
-      "Boston Tea Party"
-    ],
+    "text": "Quel événement marque la fin de la Convention ?",
+    "answers": ["La Terreur", "La Constitution de 1791", "La République", "La mise en place du Directoire"],
     "correctIndex": 3
   },
+
   {
     "id": "q49",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel événement déclenche la Révolution américaine ?",
-    "answers": [
-      "Acte de Québec",
-      "Lois Intolérables",
-      "Massacre de Boston",
-      "Boston Tea Party"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe fonde la légitimité démocratique moderne ?",
+    "answers": ["La volonté générale", "La tradition", "L’hérédité", "Le droit divin"],
+    "correctIndex": 0
   },
   {
     "id": "q50",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel événement déclenche la Révolution américaine ?",
-    "answers": [
-      "Massacre de Boston",
-      "Lois Intolérables",
-      "Acte de Québec",
-      "Boston Tea Party"
-    ],
+    "text": "Quel héritage politique majeur laisse la Révolution française ?",
+    "answers": ["La monarchie absolue", "Le privilège", "Le droit divin", "Les principes démocratiques modernes"],
     "correctIndex": 3
   },
   {
     "id": "q51",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "Thomas Jefferson",
-      "Benjamin Franklin",
-      "John Adams",
-      "Thomas Paine"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe affirme que la loi est l’expression de la volonté générale ?",
+    "answers": ["La souveraineté nationale", "La séparation des pouvoirs", "Le droit naturel", "La hiérarchie sociale"],
+    "correctIndex": 0
   },
   {
     "id": "q52",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel club politique influent siégeait au couvent des Jacobins ?",
-    "answers": [
-      "Les Jacobins",
-      "Les Girondins",
-      "Les Feuillants",
-      "Les Cordeliers"
-    ],
-    "correctIndex": 0
+    "text": "Quel groupe social bénéficie le plus de l’abolition des privilèges ?",
+    "answers": ["La noblesse", "Le tiers état", "Le clergé", "La cour royale"],
+    "correctIndex": 1
   },
   {
     "id": "q53",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "Benjamin Franklin",
-      "Thomas Jefferson",
-      "John Adams",
-      "Thomas Paine"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe politique est inspiré par les philosophes des Lumières ?",
+    "answers": ["Le despotisme", "La censure", "La souveraineté du peuple", "Le droit divin"],
+    "correctIndex": 2
   },
   {
     "id": "q54",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel club politique influent siégeait au couvent des Jacobins ?",
-    "answers": [
-      "Les Jacobins",
-      "Les Feuillants",
-      "Les Cordeliers",
-      "Les Girondins"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement symbolise l’entrée du peuple dans la vie politique ?",
+    "answers": ["La convocation des États généraux", "La Constitution de 1791", "La Terreur", "La prise de la Bastille"],
+    "correctIndex": 3
   },
+
   {
     "id": "q55",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel traité met fin officiellement à la guerre d'indépendance américaine ?",
-    "answers": [
-      "Traité de Gand",
-      "Traité de Paris (1783)",
-      "Traité de Versailles (1783)",
-      "Traité d'Utrecht"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe fonde l’égalité des citoyens devant la loi ?",
+    "answers": ["L’égalité civile", "Le privilège", "La tradition", "L’hérédité"],
+    "correctIndex": 0
   },
   {
     "id": "q56",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel club politique influent siégeait au couvent des Jacobins ?",
-    "answers": [
-      "Les Girondins",
-      "Les Feuillants",
-      "Les Cordeliers",
-      "Les Jacobins"
-    ],
-    "correctIndex": 3
+    "text": "Quel organe exerce le pouvoir exécutif sous le Directoire ?",
+    "answers": ["La Convention", "Les cinq Directeurs", "Le Comité de salut public", "Le Sénat"],
+    "correctIndex": 1
   },
   {
     "id": "q57",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel dirigeant mène la Révolution d’Octobre ?",
-    "answers": [
-      "Lénine",
-      "Trotski",
-      "Staline",
-      "Kerenski"
-    ],
-    "correctIndex": 0
+    "text": "Quel principe limite l’autorité du pouvoir exécutif ?",
+    "answers": ["La censure", "La tradition", "La séparation des pouvoirs", "Le droit divin"],
+    "correctIndex": 2
   },
   {
     "id": "q58",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel texte fondateur est adopté le 26 août 1789 ?",
-    "answers": [
-      "Constitution de 1791",
-      "Déclaration des droits de l'homme et du citoyen",
-      "Acte additionnel",
-      "Code civil"
-    ],
-    "correctIndex": 1
+    "text": "Quel événement marque l’exécution du roi ?",
+    "answers": ["La fuite à Varennes", "La proclamation de la République", "La Terreur", "Le 21 janvier 1793"],
+    "correctIndex": 3
   },
+
   {
     "id": "q59",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Qui prononce le 'Serment du Jeu de Paume' ?",
-    "answers": [
-      "Les députés du Tiers État",
-      "Les Sans-culottes",
-      "Le Directoire",
-      "La Commune de Paris"
-    ],
+    "text": "Quel principe affirme que nul n’est au-dessus de la loi ?",
+    "answers": ["L’état de droit", "La hiérarchie", "Le privilège", "L’hérédité"],
     "correctIndex": 0
   },
   {
     "id": "q60",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quelle insurrection parisienne provoque la chute de la monarchie le 10 août 1792 ?",
-    "answers": [
-      "Journées de Juin",
-      "Journée du 20 juin 1792",
-      "Prise des Tuileries",
-      "Massacres de Septembre"
-    ],
-    "correctIndex": 2
+    "text": "Quel courant politique est hostile à la monarchie constitutionnelle ?",
+    "answers": ["Les Feuillants", "Les Jacobins", "Les monarchiens", "Les royalistes"],
+    "correctIndex": 1
   },
+
   {
     "id": "q61",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "Thomas Paine",
-      "Thomas Jefferson",
-      "Benjamin Franklin",
-      "John Adams"
-    ],
-    "correctIndex": 0
+    "text": "Quel principe fonde la légitimité des représentants élus ?",
+    "answers": ["Le droit divin", "La tradition", "La souveraineté nationale", "L’hérédité"],
+    "correctIndex": 2
   },
   {
     "id": "q62",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel club politique influent siégeait au couvent des Jacobins ?",
-    "answers": [
-      "Les Cordeliers",
-      "Les Girondins",
-      "Les Feuillants",
-      "Les Jacobins"
-    ],
+    "text": "Quel événement accélère la radicalisation de la Révolution ?",
+    "answers": ["La Déclaration des droits", "La Constitution de 1791", "La convocation des États généraux", "La guerre contre les monarchies européennes"],
     "correctIndex": 3
   },
+
   {
     "id": "q63",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel dirigeant mène la Révolution d’Octobre ?",
-    "answers": [
-      "Lénine",
-      "Staline",
-      "Trotski",
-      "Kerenski"
-    ],
+    "text": "Quel principe protège la liberté d’expression ?",
+    "answers": ["La liberté d’opinion", "La censure", "Le privilège", "La tradition"],
     "correctIndex": 0
   },
   {
     "id": "q64",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel dirigeant mène la Révolution d’Octobre ?",
-    "answers": [
-      "Staline",
-      "Trotski",
-      "Kerenski",
-      "Lénine"
-    ],
-    "correctIndex": 3
+    "text": "Quel acteur politique joue un rôle central dans la chute des Girondins ?",
+    "answers": ["Mirabeau", "Robespierre", "Talleyrand", "Bonaparte"],
+    "correctIndex": 1
   },
+
   {
     "id": "q65",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel texte fondateur est adopté le 26 août 1789 ?",
-    "answers": [
-      "Constitution de 1791",
-      "Code civil",
-      "Acte additionnel",
-      "Déclaration des droits de l'homme et du citoyen"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe est remis en cause par la suppression des ordres ?",
+    "answers": ["La citoyenneté", "La liberté", "La société d’ordres", "La nation"],
+    "correctIndex": 2
   },
   {
     "id": "q66",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Qui prononce le 'Serment du Jeu de Paume' ?",
-    "answers": [
-      "Le Directoire",
-      "La Commune de Paris",
-      "Les députés du Tiers État",
-      "Les Sans-culottes"
-    ],
-    "correctIndex": 2
+    "text": "Quel événement marque la fin du pouvoir jacobin ?",
+    "answers": ["La proclamation de la République", "La guerre civile", "La Constitution de 1791", "Le 9 Thermidor"],
+    "correctIndex": 3
   },
+
   {
     "id": "q67",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel mouvement européen de 1848 est aussi appelé 'Printemps des peuples' ?",
-    "answers": [
-      "Révolutions de 1848",
-      "Printemps de Prague",
-      "Commune de 1871",
-      "Révolution de 1830"
-    ],
+    "text": "Quel principe fonde l’égalité politique des citoyens ?",
+    "answers": ["Le suffrage", "La hiérarchie", "Le privilège", "La tradition"],
     "correctIndex": 0
   },
   {
     "id": "q68",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel club politique influent siégeait au couvent des Jacobins ?",
-    "answers": [
-      "Les Girondins",
-      "Les Cordeliers",
-      "Les Jacobins",
-      "Les Feuillants"
-    ],
-    "correctIndex": 2
+    "text": "Quel organe vote les lois sous la Convention ?",
+    "answers": ["Le Directoire", "La Convention nationale", "Le Sénat", "Le Conseil d’État"],
+    "correctIndex": 1
   },
+
   {
     "id": "q69",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel traité met fin officiellement à la guerre d'indépendance américaine ?",
-    "answers": [
-      "Traité de Gand",
-      "Traité de Versailles (1783)",
-      "Traité d'Utrecht",
-      "Traité de Paris (1783)"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe s’oppose à toute concentration excessive du pouvoir ?",
+    "answers": ["La centralisation", "La tradition", "L’équilibre des pouvoirs", "Le despotisme"],
+    "correctIndex": 2
   },
   {
     "id": "q70",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel traité met fin officiellement à la guerre d'indépendance américaine ?",
-    "answers": [
-      "Traité de Paris (1783)",
-      "Traité de Versailles (1783)",
-      "Traité d'Utrecht",
-      "Traité de Gand"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement marque la fin du Directoire ?",
+    "answers": ["La Terreur", "La Convention", "La République", "Le coup d’État du 18 Brumaire"],
+    "correctIndex": 3
   },
+
   {
     "id": "q71",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel traité met fin officiellement à la guerre d'indépendance américaine ?",
-    "answers": [
-      "Traité de Versailles (1783)",
-      "Traité de Gand",
-      "Traité de Paris (1783)",
-      "Traité d'Utrecht"
-    ],
-    "correctIndex": 2
+    "text": "Quel principe fonde la notion moderne de citoyen ?",
+    "answers": ["L’égalité civique", "La hiérarchie sociale", "Le droit divin", "La tradition"],
+    "correctIndex": 0
   },
   {
     "id": "q72",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel texte fondateur est adopté le 26 août 1789 ?",
-    "answers": [
-      "Déclaration des droits de l'homme et du citoyen",
-      "Acte additionnel",
-      "Code civil",
-      "Constitution de 1791"
-    ],
-    "correctIndex": 0
+    "text": "Quel courant politique défend une Révolution modérée ?",
+    "answers": ["Les Jacobins", "Les Girondins", "Les Sans-culottes", "Les Montagnards"],
+    "correctIndex": 1
   },
+
   {
     "id": "q73",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel événement déclenche la Révolution américaine ?",
-    "answers": [
-      "Massacre de Boston",
-      "Boston Tea Party",
-      "Lois Intolérables",
-      "Acte de Québec"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe affirme que les citoyens sont égaux devant l’impôt ?",
+    "answers": ["La progressivité", "La tradition", "L’égalité fiscale", "Le privilège"],
+    "correctIndex": 2
   },
   {
     "id": "q74",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel événement déclenche la Révolution américaine ?",
-    "answers": [
-      "Lois Intolérables",
-      "Acte de Québec",
-      "Massacre de Boston",
-      "Boston Tea Party"
-    ],
+    "text": "Quel événement marque l’instauration du Consulat ?",
+    "answers": ["La proclamation de la République", "La chute de Robespierre", "La Terreur", "Le 18 Brumaire"],
     "correctIndex": 3
   },
+
   {
     "id": "q75",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel événement déclenche la Révolution américaine ?",
-    "answers": [
-      "Acte de Québec",
-      "Lois Intolérables",
-      "Boston Tea Party",
-      "Massacre de Boston"
-    ],
-    "correctIndex": 2
+    "text": "Quel principe protège contre les arrestations arbitraires ?",
+    "answers": ["La sûreté", "La censure", "La hiérarchie", "Le privilège"],
+    "correctIndex": 0
   },
   {
     "id": "q76",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "John Adams",
-      "Thomas Jefferson",
-      "Thomas Paine",
-      "Benjamin Franklin"
-    ],
-    "correctIndex": 2
+    "text": "Quel texte fixe les bases de la monarchie constitutionnelle ?",
+    "answers": ["La Déclaration des droits", "La Constitution de 1791", "La Constitution de l’an III", "Le Code civil"],
+    "correctIndex": 1
   },
+
   {
     "id": "q77",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "Thomas Jefferson",
-      "John Adams",
-      "Benjamin Franklin",
-      "Thomas Paine"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe remet en cause les privilèges de naissance ?",
+    "answers": ["La hiérarchie", "La tradition", "L’égalité juridique", "Le droit divin"],
+    "correctIndex": 2
   },
   {
     "id": "q78",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "Thomas Paine",
-      "John Adams",
-      "Thomas Jefferson",
-      "Benjamin Franklin"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement marque la fin de la monarchie constitutionnelle ?",
+    "answers": ["La Constitution de 1791", "La fuite à Varennes", "La Déclaration des droits", "Le 10 août 1792"],
+    "correctIndex": 3
   },
+
   {
     "id": "q79",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Qui prononce le 'Serment du Jeu de Paume' ?",
-    "answers": [
-      "Les Sans-culottes",
-      "Le Directoire",
-      "La Commune de Paris",
-      "Les députés du Tiers État"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe fonde la légitimité des lois républicaines ?",
+    "answers": ["La volonté générale", "La tradition", "L’hérédité", "Le droit divin"],
+    "correctIndex": 0
   },
   {
     "id": "q80",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel club politique influent siégeait au couvent des Jacobins ?",
-    "answers": [
-      "Les Girondins",
-      "Les Jacobins",
-      "Les Feuillants",
-      "Les Cordeliers"
-    ],
+    "text": "Quel acteur politique devient Premier consul en 1799 ?",
+    "answers": ["Robespierre", "Napoléon Bonaparte", "Danton", "Sieyès"],
     "correctIndex": 1
   },
+
   {
     "id": "q81",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel mouvement européen de 1848 est aussi appelé 'Printemps des peuples' ?",
-    "answers": [
-      "Révolution de 1830",
-      "Révolutions de 1848",
-      "Printemps de Prague",
-      "Commune de 1871"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe structure les constitutions modernes ?",
+    "answers": ["Le despotisme", "La tradition", "La séparation des pouvoirs", "L’hérédité"],
+    "correctIndex": 2
   },
   {
     "id": "q82",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quelle insurrection parisienne provoque la chute de la monarchie le 10 août 1792 ?",
-    "answers": [
-      "Journée du 20 juin 1792",
-      "Prise des Tuileries",
-      "Journées de Juin",
-      "Massacres de Septembre"
-    ],
-    "correctIndex": 1
+    "text": "Quel événement marque la proclamation de l’Empire ?",
+    "answers": ["La Terreur", "Le Directoire", "Le Consulat", "Le sacre de Napoléon"],
+    "correctIndex": 3
   },
+
   {
     "id": "q83",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel mouvement européen de 1848 est aussi appelé 'Printemps des peuples' ?",
-    "answers": [
-      "Révolutions de 1848",
-      "Révolution de 1830",
-      "Commune de 1871",
-      "Printemps de Prague"
-    ],
+    "text": "Quel principe garantit la liberté de pensée ?",
+    "answers": ["La liberté de conscience", "La censure", "Le privilège", "La hiérarchie"],
     "correctIndex": 0
   },
   {
     "id": "q84",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "Thomas Paine",
-      "Thomas Jefferson",
-      "Benjamin Franklin",
-      "John Adams"
-    ],
-    "correctIndex": 0
+    "text": "Quel groupe social soutient massivement les Jacobins ?",
+    "answers": ["La noblesse", "Les Sans-culottes", "Le clergé", "La haute bourgeoisie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q85",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel traité met fin officiellement à la guerre d'indépendance américaine ?",
-    "answers": [
-      "Traité de Gand",
-      "Traité de Paris (1783)",
-      "Traité de Versailles (1783)",
-      "Traité d'Utrecht"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe justifie l’accès égal aux fonctions publiques ?",
+    "answers": ["La tradition", "Le privilège", "Le mérite", "L’hérédité"],
+    "correctIndex": 2
   },
   {
     "id": "q86",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel événement déclenche la Révolution américaine ?",
-    "answers": [
-      "Lois Intolérables",
-      "Boston Tea Party",
-      "Massacre de Boston",
-      "Acte de Québec"
-    ],
-    "correctIndex": 1
+    "text": "Quel événement marque la fin définitive de la Révolution ?",
+    "answers": ["La Terreur", "La Convention", "Le Directoire", "Le Consulat napoléonien"],
+    "correctIndex": 3
   },
+
   {
     "id": "q87",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel organe dirige la Terreur en 1793-1794 ?",
-    "answers": [
-      "Directoire",
-      "Comité de Salut public",
-      "Assemblée législative",
-      "Convention thermidorienne"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe fonde l’État moderne issu de la Révolution ?",
+    "answers": ["La souveraineté nationale", "Le droit divin", "La tradition", "L’hérédité"],
+    "correctIndex": 0
   },
   {
     "id": "q88",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quelle insurrection parisienne provoque la chute de la monarchie le 10 août 1792 ?",
-    "answers": [
-      "Prise des Tuileries",
-      "Massacres de Septembre",
-      "Journée du 20 juin 1792",
-      "Journées de Juin"
-    ],
-    "correctIndex": 0
+    "text": "Quel acteur politique tente de modérer la Révolution avant 1791 ?",
+    "answers": ["Robespierre", "Mirabeau", "Bonaparte", "Marat"],
+    "correctIndex": 1
   },
+
   {
     "id": "q89",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "Thomas Jefferson",
-      "John Adams",
-      "Thomas Paine",
-      "Benjamin Franklin"
-    ],
+    "text": "Quel principe protège les droits fondamentaux ?",
+    "answers": ["La censure", "La hiérarchie", "Les droits naturels", "Le privilège"],
     "correctIndex": 2
   },
   {
     "id": "q90",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "Thomas Jefferson",
-      "Thomas Paine",
-      "John Adams",
-      "Benjamin Franklin"
-    ],
-    "correctIndex": 1
+    "text": "Quel événement ouvre la période impériale ?",
+    "answers": ["Le Directoire", "Le Consulat", "La République", "Le sacre de 1804"],
+    "correctIndex": 3
   },
+
   {
     "id": "q91",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel événement déclenche la Révolution américaine ?",
-    "answers": [
-      "Acte de Québec",
-      "Massacre de Boston",
-      "Lois Intolérables",
-      "Boston Tea Party"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe structure la citoyenneté républicaine ?",
+    "answers": ["L’égalité devant la loi", "La hiérarchie", "La tradition", "Le privilège"],
+    "correctIndex": 0
   },
   {
     "id": "q92",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Qui prononce le 'Serment du Jeu de Paume' ?",
-    "answers": [
-      "Les députés du Tiers État",
-      "Le Directoire",
-      "La Commune de Paris",
-      "Les Sans-culottes"
-    ],
-    "correctIndex": 0
+    "text": "Quel courant politique défend la centralisation révolutionnaire ?",
+    "answers": ["Les Girondins", "Les Montagnards", "Les Feuillants", "Les royalistes"],
+    "correctIndex": 1
   },
+
   {
     "id": "q93",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quelle insurrection parisienne provoque la chute de la monarchie le 10 août 1792 ?",
-    "answers": [
-      "Prise des Tuileries",
-      "Journée du 20 juin 1792",
-      "Journées de Juin",
-      "Massacres de Septembre"
-    ],
-    "correctIndex": 0
+    "text": "Quel principe remet en cause la société d’Ancien Régime ?",
+    "answers": ["La tradition", "Le droit divin", "L’égalité", "La hiérarchie"],
+    "correctIndex": 2
   },
   {
     "id": "q94",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel mouvement européen de 1848 est aussi appelé 'Printemps des peuples' ?",
-    "answers": [
-      "Révolutions de 1848",
-      "Révolution de 1830",
-      "Commune de 1871",
-      "Printemps de Prague"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement marque l’échec de la monarchie réformée ?",
+    "answers": ["La Déclaration des droits", "La Constitution de 1791", "La Terreur", "La fuite à Varennes"],
+    "correctIndex": 3
   },
+
   {
     "id": "q95",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel mouvement européen de 1848 est aussi appelé 'Printemps des peuples' ?",
-    "answers": [
-      "Révolution de 1830",
-      "Printemps de Prague",
-      "Révolutions de 1848",
-      "Commune de 1871"
-    ],
-    "correctIndex": 2
+    "text": "Quel principe est au cœur de la démocratie moderne ?",
+    "answers": ["La souveraineté populaire", "La tradition", "Le privilège", "L’hérédité"],
+    "correctIndex": 0
   },
   {
     "id": "q96",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel mouvement européen de 1848 est aussi appelé 'Printemps des peuples' ?",
-    "answers": [
-      "Commune de 1871",
-      "Révolution de 1830",
-      "Révolutions de 1848",
-      "Printemps de Prague"
-    ],
-    "correctIndex": 2
+    "text": "Quel acteur politique incarne l’opposition radicale aux Girondins ?",
+    "answers": ["Danton", "Robespierre", "Sieyès", "Talleyrand"],
+    "correctIndex": 1
   },
+
   {
     "id": "q97",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "Thomas Paine",
-      "Thomas Jefferson",
-      "Benjamin Franklin",
-      "John Adams"
-    ],
-    "correctIndex": 0
+    "text": "Quel principe fonde l’égalité des droits civils ?",
+    "answers": ["Le privilège", "La tradition", "L’égalité juridique", "La hiérarchie"],
+    "correctIndex": 2
   },
   {
     "id": "q98",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel organe dirige la Terreur en 1793-1794 ?",
-    "answers": [
-      "Directoire",
-      "Assemblée législative",
-      "Convention thermidorienne",
-      "Comité de Salut public"
-    ],
+    "text": "Quel événement marque la fin du pouvoir royal ?",
+    "answers": ["La Constitution de 1791", "La Déclaration des droits", "La fuite à Varennes", "La suspension du roi"],
     "correctIndex": 3
   },
+
   {
     "id": "q99",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel club politique influent siégeait au couvent des Jacobins ?",
-    "answers": [
-      "Les Girondins",
-      "Les Cordeliers",
-      "Les Jacobins",
-      "Les Feuillants"
-    ],
-    "correctIndex": 2
+    "text": "Quel principe garantit l’accès égal à la loi ?",
+    "answers": ["L’égalité devant la loi", "La hiérarchie", "Le privilège", "La tradition"],
+    "correctIndex": 0
   },
   {
     "id": "q100",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel organe dirige la Terreur en 1793-1794 ?",
-    "answers": [
-      "Convention thermidorienne",
-      "Directoire",
-      "Assemblée législative",
-      "Comité de Salut public"
-    ],
+    "text": "Quel héritage majeur la Révolution française transmet-elle à l’Europe ?",
+    "answers": ["La monarchie absolue", "La féodalité", "Le droit divin", "Les principes démocratiques"],
     "correctIndex": 3
   },
   {
     "id": "q101",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel texte fondateur est adopté le 26 août 1789 ?",
-    "answers": [
-      "Constitution de 1791",
-      "Déclaration des droits de l'homme et du citoyen",
-      "Code civil",
-      "Acte additionnel"
-    ],
-    "correctIndex": 1
+    "text": "Quelle revendication principale exprime le Tiers état en 1789 ?",
+    "answers": ["L’égalité politique", "Le maintien des privilèges", "Le retour à l’absolutisme", "La domination nobiliaire"],
+    "correctIndex": 0
   },
   {
     "id": "q102",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel organe dirige la Terreur en 1793-1794 ?",
-    "answers": [
-      "Directoire",
-      "Comité de Salut public",
-      "Assemblée législative",
-      "Convention thermidorienne"
-    ],
+    "text": "Quel texte proclame que la souveraineté réside dans la nation ?",
+    "answers": ["Le Code civil", "La Déclaration des droits de l’Homme", "La Constitution impériale", "La Charte de 1814"],
     "correctIndex": 1
   },
   {
     "id": "q103",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel mouvement européen de 1848 est aussi appelé 'Printemps des peuples' ?",
-    "answers": [
-      "Printemps de Prague",
-      "Révolutions de 1848",
-      "Révolution de 1830",
-      "Commune de 1871"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe politique est défendu par l’abbé Sieyès ?",
+    "answers": ["La monarchie absolue", "Le droit divin", "La souveraineté nationale", "La théocratie"],
+    "correctIndex": 2
   },
   {
     "id": "q104",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "Benjamin Franklin",
-      "John Adams",
-      "Thomas Paine",
-      "Thomas Jefferson"
-    ],
-    "correctIndex": 2
+    "text": "Quel événement marque la transformation des États généraux en Assemblée nationale ?",
+    "answers": ["La prise de la Bastille", "La nuit du 4 août", "La Déclaration des droits", "Le Serment du Jeu de Paume"],
+    "correctIndex": 3
   },
+
   {
     "id": "q105",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quelle insurrection parisienne provoque la chute de la monarchie le 10 août 1792 ?",
-    "answers": [
-      "Massacres de Septembre",
-      "Journées de Juin",
-      "Prise des Tuileries",
-      "Journée du 20 juin 1792"
-    ],
-    "correctIndex": 2
+    "text": "Quel principe limite l’exercice du pouvoir politique ?",
+    "answers": ["La loi", "La tradition", "Le privilège", "L’arbitraire"],
+    "correctIndex": 0
   },
   {
     "id": "q106",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Qui prononce le 'Serment du Jeu de Paume' ?",
-    "answers": [
-      "Les députés du Tiers État",
-      "Le Directoire",
-      "Les Sans-culottes",
-      "La Commune de Paris"
-    ],
-    "correctIndex": 0
+    "text": "Quel groupe social soutient majoritairement la Révolution en 1789 ?",
+    "answers": ["La noblesse", "La bourgeoisie", "Le clergé régulier", "La cour"],
+    "correctIndex": 1
   },
   {
     "id": "q107",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel événement déclenche la Révolution américaine ?",
-    "answers": [
-      "Acte de Québec",
-      "Massacre de Boston",
-      "Lois Intolérables",
-      "Boston Tea Party"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe est affirmé par l’abolition des droits féodaux ?",
+    "answers": ["La hiérarchie sociale", "La tradition", "L’égalité civile", "Le droit divin"],
+    "correctIndex": 2
   },
   {
     "id": "q108",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Qui prononce le 'Serment du Jeu de Paume' ?",
-    "answers": [
-      "Les députés du Tiers État",
-      "Les Sans-culottes",
-      "La Commune de Paris",
-      "Le Directoire"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement entraîne la suspension de la monarchie en 1792 ?",
+    "answers": ["La Constitution de 1791", "La Terreur", "La fuite à Varennes", "L’insurrection du 10 août"],
+    "correctIndex": 3
   },
+
   {
     "id": "q109",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quelle insurrection parisienne provoque la chute de la monarchie le 10 août 1792 ?",
-    "answers": [
-      "Massacres de Septembre",
-      "Journées de Juin",
-      "Prise des Tuileries",
-      "Journée du 20 juin 1792"
-    ],
-    "correctIndex": 2
+    "text": "Quel principe protège les libertés individuelles face à l’État ?",
+    "answers": ["Les droits naturels", "La censure", "La tradition", "Le privilège"],
+    "correctIndex": 0
   },
   {
     "id": "q110",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "John Adams",
-      "Thomas Paine",
-      "Benjamin Franklin",
-      "Thomas Jefferson"
-    ],
+    "text": "Quel organe politique gouverne la France après la chute de Robespierre ?",
+    "answers": ["La Convention montagnarde", "Le Directoire", "Le Comité de salut public", "Le Sénat"],
     "correctIndex": 1
   },
+
   {
     "id": "q111",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quelle insurrection parisienne provoque la chute de la monarchie le 10 août 1792 ?",
-    "answers": [
-      "Prise des Tuileries",
-      "Journées de Juin",
-      "Massacres de Septembre",
-      "Journée du 20 juin 1792"
-    ],
-    "correctIndex": 0
+    "text": "Quel principe fonde la légitimité des lois votées par les représentants ?",
+    "answers": ["L’hérédité", "La tradition", "La souveraineté nationale", "Le droit divin"],
+    "correctIndex": 2
   },
   {
     "id": "q112",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel dirigeant mène la Révolution d’Octobre ?",
-    "answers": [
-      "Kerenski",
-      "Trotski",
-      "Staline",
-      "Lénine"
-    ],
+    "text": "Quel événement marque la fin de la Terreur ?",
+    "answers": ["La proclamation de la République", "La Constitution de 1791", "La guerre extérieure", "Le 9 Thermidor"],
     "correctIndex": 3
   },
+
   {
     "id": "q113",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel dirigeant mène la Révolution d’Octobre ?",
-    "answers": [
-      "Trotski",
-      "Lénine",
-      "Kerenski",
-      "Staline"
-    ],
-    "correctIndex": 1
+    "text": "Quel idéal politique est hérité des Lumières ?",
+    "answers": ["La liberté individuelle", "La hiérarchie sociale", "L’absolutisme", "La censure"],
+    "correctIndex": 0
   },
   {
     "id": "q114",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel club politique influent siégeait au couvent des Jacobins ?",
-    "answers": [
-      "Les Feuillants",
-      "Les Girondins",
-      "Les Jacobins",
-      "Les Cordeliers"
-    ],
-    "correctIndex": 2
+    "text": "Quel courant politique s’oppose à la centralisation jacobine ?",
+    "answers": ["Les Montagnards", "Les Girondins", "Les Sans-culottes", "Les royalistes"],
+    "correctIndex": 1
   },
+
   {
     "id": "q115",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "Benjamin Franklin",
-      "Thomas Paine",
-      "John Adams",
-      "Thomas Jefferson"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe remet en cause les fondements de l’Ancien Régime ?",
+    "answers": ["La tradition", "Le privilège", "L’égalité des droits", "La hiérarchie"],
+    "correctIndex": 2
   },
   {
     "id": "q116",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Qui prononce le 'Serment du Jeu de Paume' ?",
-    "answers": [
-      "Le Directoire",
-      "Les Sans-culottes",
-      "Les députés du Tiers État",
-      "La Commune de Paris"
-    ],
-    "correctIndex": 2
+    "text": "Quel événement conduit à l’arrestation de Louis XVI en 1791 ?",
+    "answers": ["La prise de la Bastille", "La nuit du 4 août", "La Constitution", "La fuite à Varennes"],
+    "correctIndex": 3
   },
+
   {
     "id": "q117",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "Benjamin Franklin",
-      "John Adams",
-      "Thomas Paine",
-      "Thomas Jefferson"
-    ],
-    "correctIndex": 2
+    "text": "Quel principe fonde la notion moderne de citoyen ?",
+    "answers": ["L’égalité civique", "La naissance noble", "Le droit divin", "La hiérarchie"],
+    "correctIndex": 0
   },
   {
     "id": "q118",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel événement déclenche la Révolution américaine ?",
-    "answers": [
-      "Lois Intolérables",
-      "Acte de Québec",
-      "Boston Tea Party",
-      "Massacre de Boston"
-    ],
-    "correctIndex": 2
+    "text": "Quel texte met en place le Directoire ?",
+    "answers": ["La Constitution de 1791", "La Constitution de l’an III", "La Déclaration des droits", "Le Code civil"],
+    "correctIndex": 1
   },
+
   {
     "id": "q119",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel dirigeant mène la Révolution d’Octobre ?",
-    "answers": [
-      "Staline",
-      "Lénine",
-      "Kerenski",
-      "Trotski"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe justifie l’abolition de la société d’ordres ?",
+    "answers": ["La tradition", "Le droit divin", "L’égalité juridique", "La hiérarchie"],
+    "correctIndex": 2
   },
   {
     "id": "q120",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Qui prononce le 'Serment du Jeu de Paume' ?",
-    "answers": [
-      "Le Directoire",
-      "La Commune de Paris",
-      "Les députés du Tiers État",
-      "Les Sans-culottes"
-    ],
-    "correctIndex": 2
+    "text": "Quel événement permet à Bonaparte de prendre le pouvoir ?",
+    "answers": ["La Terreur", "La Convention", "Le Directoire", "Le coup d’État du 18 Brumaire"],
+    "correctIndex": 3
   },
+
   {
     "id": "q121",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel dirigeant mène la Révolution d’Octobre ?",
-    "answers": [
-      "Kerenski",
-      "Trotski",
-      "Lénine",
-      "Staline"
-    ],
-    "correctIndex": 2
+    "text": "Quel principe fonde l’État moderne issu de la Révolution ?",
+    "answers": ["La souveraineté nationale", "La féodalité", "L’hérédité", "Le droit divin"],
+    "correctIndex": 0
   },
   {
     "id": "q122",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel club politique influent siégeait au couvent des Jacobins ?",
-    "answers": [
-      "Les Feuillants",
-      "Les Cordeliers",
-      "Les Jacobins",
-      "Les Girondins"
-    ],
-    "correctIndex": 2
+    "text": "Quel acteur politique joue un rôle central lors du 18 Brumaire ?",
+    "answers": ["Robespierre", "Napoléon Bonaparte", "Danton", "Marat"],
+    "correctIndex": 1
   },
+
   {
     "id": "q123",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel club politique influent siégeait au couvent des Jacobins ?",
-    "answers": [
-      "Les Cordeliers",
-      "Les Feuillants",
-      "Les Girondins",
-      "Les Jacobins"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe structure les constitutions contemporaines ?",
+    "answers": ["Le despotisme", "La tradition", "La séparation des pouvoirs", "L’absolutisme"],
+    "correctIndex": 2
   },
   {
     "id": "q124",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Qui prononce le 'Serment du Jeu de Paume' ?",
-    "answers": [
-      "Le Directoire",
-      "Les Sans-culottes",
-      "Les députés du Tiers État",
-      "La Commune de Paris"
-    ],
-    "correctIndex": 2
+    "text": "Quel événement marque la proclamation de l’Empire ?",
+    "answers": ["La Terreur", "Le Directoire", "Le Consulat", "Le sacre de Napoléon"],
+    "correctIndex": 3
   },
+
   {
     "id": "q125",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Qui prononce le 'Serment du Jeu de Paume' ?",
-    "answers": [
-      "La Commune de Paris",
-      "Le Directoire",
-      "Les Sans-culottes",
-      "Les députés du Tiers État"
-    ],
-    "correctIndex": 3
+    "text": "Quel idéal politique combat l’arbitraire du pouvoir ?",
+    "answers": ["L’état de droit", "La censure", "La tradition", "Le privilège"],
+    "correctIndex": 0
   },
   {
     "id": "q126",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel organe dirige la Terreur en 1793-1794 ?",
-    "answers": [
-      "Directoire",
-      "Comité de Salut public",
-      "Assemblée législative",
-      "Convention thermidorienne"
-    ],
+    "text": "Quel groupe soutient activement la politique jacobine ?",
+    "answers": ["La noblesse", "Les Sans-culottes", "La cour", "Le clergé"],
     "correctIndex": 1
   },
+
   {
     "id": "q127",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel texte fondateur est adopté le 26 août 1789 ?",
-    "answers": [
-      "Acte additionnel",
-      "Code civil",
-      "Constitution de 1791",
-      "Déclaration des droits de l'homme et du citoyen"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe garantit l’accès égal aux fonctions publiques ?",
+    "answers": ["L’hérédité", "La tradition", "Le mérite", "La hiérarchie"],
+    "correctIndex": 2
   },
   {
     "id": "q128",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel événement déclenche la Révolution américaine ?",
-    "answers": [
-      "Boston Tea Party",
-      "Acte de Québec",
-      "Lois Intolérables",
-      "Massacre de Boston"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement marque la fin du Directoire ?",
+    "answers": ["La Terreur", "La Convention", "La République", "Le coup d’État de Bonaparte"],
+    "correctIndex": 3
   },
+
   {
     "id": "q129",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quelle insurrection parisienne provoque la chute de la monarchie le 10 août 1792 ?",
-    "answers": [
-      "Journée du 20 juin 1792",
-      "Massacres de Septembre",
-      "Journées de Juin",
-      "Prise des Tuileries"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe fonde la démocratie représentative ?",
+    "answers": ["La souveraineté du peuple", "La tradition", "Le privilège", "Le droit divin"],
+    "correctIndex": 0
   },
   {
     "id": "q130",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "Benjamin Franklin",
-      "Thomas Jefferson",
-      "Thomas Paine",
-      "John Adams"
-    ],
-    "correctIndex": 2
+    "text": "Quel acteur politique est associé au Club des Jacobins ?",
+    "answers": ["Mirabeau", "Robespierre", "Talleyrand", "Bonaparte"],
+    "correctIndex": 1
   },
+
   {
     "id": "q131",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Qui prononce le 'Serment du Jeu de Paume' ?",
-    "answers": [
-      "Les Sans-culottes",
-      "La Commune de Paris",
-      "Les députés du Tiers État",
-      "Le Directoire"
-    ],
+    "text": "Quel principe met fin à l’arbitraire judiciaire ?",
+    "answers": ["La tradition", "Le privilège", "L’égalité devant la loi", "La hiérarchie"],
     "correctIndex": 2
   },
   {
     "id": "q132",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel club politique influent siégeait au couvent des Jacobins ?",
-    "answers": [
-      "Les Cordeliers",
-      "Les Girondins",
-      "Les Feuillants",
-      "Les Jacobins"
-    ],
+    "text": "Quel événement marque l’entrée de la France dans une guerre révolutionnaire ?",
+    "answers": ["La Déclaration des droits", "La fuite à Varennes", "La Constitution", "La guerre contre l’Autriche"],
     "correctIndex": 3
   },
+
   {
     "id": "q133",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel texte fondateur est adopté le 26 août 1789 ?",
-    "answers": [
-      "Constitution de 1791",
-      "Acte additionnel",
-      "Déclaration des droits de l'homme et du citoyen",
-      "Code civil"
-    ],
-    "correctIndex": 2
+    "text": "Quel idéal structure la notion de droits de l’Homme ?",
+    "answers": ["L’universalité des droits", "La hiérarchie sociale", "La tradition", "Le privilège"],
+    "correctIndex": 0
   },
   {
     "id": "q134",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "Benjamin Franklin",
-      "Thomas Jefferson",
-      "Thomas Paine",
-      "John Adams"
-    ],
-    "correctIndex": 2
+    "text": "Quel texte supprime officiellement la royauté en France ?",
+    "answers": ["La Constitution de 1791", "Le vote du 21 septembre 1792", "La Déclaration des droits", "Le Code civil"],
+    "correctIndex": 1
   },
+
   {
     "id": "q135",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quelle insurrection parisienne provoque la chute de la monarchie le 10 août 1792 ?",
-    "answers": [
-      "Journée du 20 juin 1792",
-      "Journées de Juin",
-      "Massacres de Septembre",
-      "Prise des Tuileries"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe s’oppose à toute distinction de naissance ?",
+    "answers": ["La hiérarchie", "La tradition", "L’égalité civile", "Le droit divin"],
+    "correctIndex": 2
   },
   {
     "id": "q136",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel traité met fin officiellement à la guerre d'indépendance américaine ?",
-    "answers": [
-      "Traité de Paris (1783)",
-      "Traité d'Utrecht",
-      "Traité de Versailles (1783)",
-      "Traité de Gand"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement précipite la radicalisation de la Révolution en 1793 ?",
+    "answers": ["La Constitution de 1791", "La nuit du 4 août", "La Déclaration des droits", "L’exécution de Louis XVI"],
+    "correctIndex": 3
   },
+
   {
     "id": "q137",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel club politique influent siégeait au couvent des Jacobins ?",
-    "answers": [
-      "Les Feuillants",
-      "Les Jacobins",
-      "Les Cordeliers",
-      "Les Girondins"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe protège la liberté de pensée et de religion ?",
+    "answers": ["La liberté de conscience", "La censure", "La tradition", "Le privilège"],
+    "correctIndex": 0
   },
   {
     "id": "q138",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel mouvement européen de 1848 est aussi appelé 'Printemps des peuples' ?",
-    "answers": [
-      "Révolution de 1830",
-      "Révolutions de 1848",
-      "Printemps de Prague",
-      "Commune de 1871"
-    ],
+    "text": "Quel organe détient le pouvoir législatif sous le Directoire ?",
+    "answers": ["Le Sénat", "Les Conseils", "Le Comité de salut public", "La Convention"],
     "correctIndex": 1
   },
+
   {
     "id": "q139",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel mouvement européen de 1848 est aussi appelé 'Printemps des peuples' ?",
-    "answers": [
-      "Commune de 1871",
-      "Révolutions de 1848",
-      "Printemps de Prague",
-      "Révolution de 1830"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe fonde la légitimité de l’impôt révolutionnaire ?",
+    "answers": ["Le privilège", "La tradition", "L’égalité fiscale", "L’hérédité"],
+    "correctIndex": 2
   },
   {
     "id": "q140",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "Thomas Jefferson",
-      "Thomas Paine",
-      "John Adams",
-      "Benjamin Franklin"
-    ],
-    "correctIndex": 1
+    "text": "Quel événement marque la fin de la Convention nationale ?",
+    "answers": ["La Terreur", "La République", "La Constitution de 1791", "La mise en place du Directoire"],
+    "correctIndex": 3
   },
+
   {
     "id": "q141",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quelle insurrection parisienne provoque la chute de la monarchie le 10 août 1792 ?",
-    "answers": [
-      "Journée du 20 juin 1792",
-      "Massacres de Septembre",
-      "Prise des Tuileries",
-      "Journées de Juin"
-    ],
-    "correctIndex": 2
+    "text": "Quel principe politique est affirmé contre l’absolutisme ?",
+    "answers": ["La souveraineté nationale", "La hiérarchie", "La tradition", "Le droit divin"],
+    "correctIndex": 0
   },
   {
     "id": "q142",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quelle insurrection parisienne provoque la chute de la monarchie le 10 août 1792 ?",
-    "answers": [
-      "Massacres de Septembre",
-      "Prise des Tuileries",
-      "Journées de Juin",
-      "Journée du 20 juin 1792"
-    ],
+    "text": "Quel acteur politique est exécuté en 1794 ?",
+    "answers": ["Danton", "Robespierre", "Mirabeau", "Sieyès"],
     "correctIndex": 1
   },
+
   {
     "id": "q143",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel organe dirige la Terreur en 1793-1794 ?",
-    "answers": [
-      "Assemblée législative",
-      "Comité de Salut public",
-      "Convention thermidorienne",
-      "Directoire"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe fonde l’égalité des droits politiques ?",
+    "answers": ["La hiérarchie", "La tradition", "L’égalité civique", "Le privilège"],
+    "correctIndex": 2
   },
   {
     "id": "q144",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel traité met fin officiellement à la guerre d'indépendance américaine ?",
-    "answers": [
-      "Traité de Gand",
-      "Traité d'Utrecht",
-      "Traité de Versailles (1783)",
-      "Traité de Paris (1783)"
-    ],
+    "text": "Quel événement ouvre la période du Consulat ?",
+    "answers": ["La Terreur", "La Convention", "Le Directoire", "Le coup d’État du 18 Brumaire"],
     "correctIndex": 3
   },
+
   {
     "id": "q145",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel traité met fin officiellement à la guerre d'indépendance américaine ?",
-    "answers": [
-      "Traité de Paris (1783)",
-      "Traité d'Utrecht",
-      "Traité de Gand",
-      "Traité de Versailles (1783)"
-    ],
+    "text": "Quel idéal politique inspire les révolutions contemporaines ?",
+    "answers": ["La souveraineté populaire", "La tradition", "Le droit divin", "L’hérédité"],
     "correctIndex": 0
   },
   {
     "id": "q146",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel traité met fin officiellement à la guerre d'indépendance américaine ?",
-    "answers": [
-      "Traité de Paris (1783)",
-      "Traité de Versailles (1783)",
-      "Traité de Gand",
-      "Traité d'Utrecht"
-    ],
-    "correctIndex": 0
+    "text": "Quel acteur politique est associé au Club des Cordeliers ?",
+    "answers": ["Mirabeau", "Danton", "Robespierre", "Bonaparte"],
+    "correctIndex": 1
   },
+
   {
     "id": "q147",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel texte fondateur est adopté le 26 août 1789 ?",
-    "answers": [
-      "Acte additionnel",
-      "Déclaration des droits de l'homme et du citoyen",
-      "Code civil",
-      "Constitution de 1791"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe justifie la fin des privilèges fiscaux ?",
+    "answers": ["La tradition", "Le droit divin", "L’égalité devant l’impôt", "La hiérarchie"],
+    "correctIndex": 2
   },
   {
     "id": "q148",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quelle insurrection parisienne provoque la chute de la monarchie le 10 août 1792 ?",
-    "answers": [
-      "Journée du 20 juin 1792",
-      "Massacres de Septembre",
-      "Journées de Juin",
-      "Prise des Tuileries"
-    ],
+    "text": "Quel événement marque la naissance de la République française ?",
+    "answers": ["La prise de la Bastille", "La nuit du 4 août", "La Constitution de 1791", "Le 21 septembre 1792"],
     "correctIndex": 3
   },
+
   {
     "id": "q149",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel mouvement européen de 1848 est aussi appelé 'Printemps des peuples' ?",
-    "answers": [
-      "Révolution de 1830",
-      "Révolutions de 1848",
-      "Printemps de Prague",
-      "Commune de 1871"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe fonde la notion moderne de loi ?",
+    "answers": ["La volonté générale", "La tradition", "Le privilège", "Le droit divin"],
+    "correctIndex": 0
   },
   {
     "id": "q150",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel mouvement européen de 1848 est aussi appelé 'Printemps des peuples' ?",
-    "answers": [
-      "Révolutions de 1848",
-      "Printemps de Prague",
-      "Commune de 1871",
-      "Révolution de 1830"
-    ],
-    "correctIndex": 0
+    "text": "Quel héritage politique majeur de la Révolution française est encore en vigueur ?",
+    "answers": ["La monarchie héréditaire", "La féodalité", "Le droit divin", "Les droits et libertés fondamentales"],
+    "correctIndex": 3
   },
   {
     "id": "q151",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel traité met fin officiellement à la guerre d'indépendance américaine ?",
-    "answers": [
-      "Traité d'Utrecht",
-      "Traité de Versailles (1783)",
-      "Traité de Gand",
-      "Traité de Paris (1783)"
-    ],
-    "correctIndex": 3
+    "text": "Quelle inégalité principale nourrit le mécontentement populaire avant 1789 ?",
+    "answers": ["L’inégalité fiscale", "L’inégalité militaire", "L’inégalité linguistique", "L’inégalité religieuse"],
+    "correctIndex": 0
   },
   {
     "id": "q152",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel traité met fin officiellement à la guerre d'indépendance américaine ?",
-    "answers": [
-      "Traité de Versailles (1783)",
-      "Traité de Paris (1783)",
-      "Traité d'Utrecht",
-      "Traité de Gand"
-    ],
+    "text": "Quel impôt est principalement supporté par le Tiers état sous l’Ancien Régime ?",
+    "answers": ["La dîme", "La taille", "La gabelle", "Le vingtième"],
     "correctIndex": 1
   },
   {
     "id": "q153",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel organe dirige la Terreur en 1793-1794 ?",
-    "answers": [
-      "Comité de Salut public",
-      "Directoire",
-      "Assemblée législative",
-      "Convention thermidorienne"
-    ],
-    "correctIndex": 0
+    "text": "Quel principe est affirmé par l’égalité devant l’impôt ?",
+    "answers": ["La hiérarchie sociale", "La tradition", "La justice fiscale", "Le privilège"],
+    "correctIndex": 2
   },
   {
     "id": "q154",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel événement déclenche la Révolution américaine ?",
-    "answers": [
-      "Lois Intolérables",
-      "Massacre de Boston",
-      "Acte de Québec",
-      "Boston Tea Party"
-    ],
+    "text": "Quel événement accélère la rupture entre le roi et la nation ?",
+    "answers": ["La nuit du 4 août", "La Constitution de 1791", "La Déclaration des droits", "La fuite à Varennes"],
     "correctIndex": 3
   },
+
   {
     "id": "q155",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quelle insurrection parisienne provoque la chute de la monarchie le 10 août 1792 ?",
-    "answers": [
-      "Journées de Juin",
-      "Massacres de Septembre",
-      "Prise des Tuileries",
-      "Journée du 20 juin 1792"
-    ],
-    "correctIndex": 2
+    "text": "Quel principe affirme que la loi s’impose à tous ?",
+    "answers": ["La primauté de la loi", "La hiérarchie", "La tradition", "Le privilège"],
+    "correctIndex": 0
   },
   {
     "id": "q156",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel texte fondateur est adopté le 26 août 1789 ?",
-    "answers": [
-      "Déclaration des droits de l'homme et du citoyen",
-      "Code civil",
-      "Acte additionnel",
-      "Constitution de 1791"
-    ],
-    "correctIndex": 0
+    "text": "Quel groupe est exclu du suffrage censitaire en 1791 ?",
+    "answers": ["Les nobles", "Les citoyens passifs", "Les bourgeois", "Les propriétaires"],
+    "correctIndex": 1
   },
   {
     "id": "q157",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel texte fondateur est adopté le 26 août 1789 ?",
-    "answers": [
-      "Déclaration des droits de l'homme et du citoyen",
-      "Acte additionnel",
-      "Constitution de 1791",
-      "Code civil"
-    ],
-    "correctIndex": 0
+    "text": "Quel principe politique est limité par le suffrage censitaire ?",
+    "answers": ["La souveraineté populaire", "La tradition", "L’égalité politique", "Le droit divin"],
+    "correctIndex": 2
   },
   {
     "id": "q158",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "Thomas Paine",
-      "John Adams",
-      "Benjamin Franklin",
-      "Thomas Jefferson"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement marque l’entrée du peuple parisien dans la Révolution ?",
+    "answers": ["La convocation des États généraux", "La nuit du 4 août", "La Déclaration des droits", "La prise de la Bastille"],
+    "correctIndex": 3
   },
+
   {
     "id": "q159",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "Benjamin Franklin",
-      "John Adams",
-      "Thomas Paine",
-      "Thomas Jefferson"
-    ],
-    "correctIndex": 2
+    "text": "Quel principe est au cœur de la Déclaration des droits de 1789 ?",
+    "answers": ["L’universalité des droits", "La hiérarchie sociale", "La tradition", "Le privilège"],
+    "correctIndex": 0
   },
   {
     "id": "q160",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quelle insurrection parisienne provoque la chute de la monarchie le 10 août 1792 ?",
-    "answers": [
-      "Prise des Tuileries",
-      "Massacres de Septembre",
-      "Journée du 20 juin 1792",
-      "Journées de Juin"
-    ],
-    "correctIndex": 0
+    "text": "Quel organe remplace le pouvoir royal après le 10 août 1792 ?",
+    "answers": ["Le Directoire", "La Convention nationale", "Le Sénat", "Le Conseil d’État"],
+    "correctIndex": 1
   },
+
   {
     "id": "q161",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel dirigeant mène la Révolution d’Octobre ?",
-    "answers": [
-      "Kerenski",
-      "Staline",
-      "Trotski",
-      "Lénine"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe justifie l’abolition des privilèges seigneuriaux ?",
+    "answers": ["La hiérarchie", "La tradition", "L’égalité civile", "Le droit divin"],
+    "correctIndex": 2
   },
   {
     "id": "q162",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel texte fondateur est adopté le 26 août 1789 ?",
-    "answers": [
-      "Déclaration des droits de l'homme et du citoyen",
-      "Code civil",
-      "Acte additionnel",
-      "Constitution de 1791"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement provoque l’entrée en guerre de la France révolutionnaire ?",
+    "answers": ["La fuite à Varennes", "La Terreur", "La Constitution", "La déclaration de guerre à l’Autriche"],
+    "correctIndex": 3
   },
+
   {
     "id": "q163",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "Thomas Jefferson",
-      "Benjamin Franklin",
-      "John Adams",
-      "Thomas Paine"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe protège les citoyens contre l’arbitraire judiciaire ?",
+    "answers": ["La sûreté", "La hiérarchie", "La tradition", "Le privilège"],
+    "correctIndex": 0
   },
   {
     "id": "q164",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "John Adams",
-      "Thomas Paine",
-      "Benjamin Franklin",
-      "Thomas Jefferson"
-    ],
+    "text": "Quel courant politique domine la Convention en 1793 ?",
+    "answers": ["Les Girondins", "Les Montagnards", "Les Feuillants", "Les royalistes"],
     "correctIndex": 1
   },
+
   {
     "id": "q165",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel mouvement européen de 1848 est aussi appelé 'Printemps des peuples' ?",
-    "answers": [
-      "Révolution de 1830",
-      "Commune de 1871",
-      "Printemps de Prague",
-      "Révolutions de 1848"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe fonde la légitimité des décisions révolutionnaires ?",
+    "answers": ["La tradition", "Le privilège", "La volonté générale", "Le droit divin"],
+    "correctIndex": 2
   },
   {
     "id": "q166",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quelle insurrection parisienne provoque la chute de la monarchie le 10 août 1792 ?",
-    "answers": [
-      "Massacres de Septembre",
-      "Prise des Tuileries",
-      "Journée du 20 juin 1792",
-      "Journées de Juin"
-    ],
-    "correctIndex": 1
+    "text": "Quel événement entraîne la chute des Girondins ?",
+    "answers": ["La Déclaration des droits", "La Constitution de 1791", "La guerre extérieure", "Les journées de mai-juin 1793"],
+    "correctIndex": 3
   },
+
   {
     "id": "q167",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quelle insurrection parisienne provoque la chute de la monarchie le 10 août 1792 ?",
-    "answers": [
-      "Journée du 20 juin 1792",
-      "Massacres de Septembre",
-      "Prise des Tuileries",
-      "Journées de Juin"
-    ],
-    "correctIndex": 2
+    "text": "Quel principe affirme la supériorité de la loi sur le pouvoir exécutif ?",
+    "answers": ["L’état de droit", "La tradition", "La hiérarchie", "Le privilège"],
+    "correctIndex": 0
   },
   {
     "id": "q168",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel dirigeant mène la Révolution d’Octobre ?",
-    "answers": [
-      "Staline",
-      "Lénine",
-      "Kerenski",
-      "Trotski"
-    ],
+    "text": "Quel organe concentre le pouvoir pendant la Terreur ?",
+    "answers": ["Le Directoire", "Le Comité de salut public", "La Convention girondine", "Le Sénat"],
     "correctIndex": 1
   },
+
   {
     "id": "q169",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel mouvement européen de 1848 est aussi appelé 'Printemps des peuples' ?",
-    "answers": [
-      "Commune de 1871",
-      "Révolution de 1830",
-      "Printemps de Prague",
-      "Révolutions de 1848"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe est remis en cause par la Terreur ?",
+    "answers": ["La souveraineté nationale", "La liberté politique", "Les libertés individuelles", "L’égalité civile"],
+    "correctIndex": 2
   },
   {
     "id": "q170",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel texte fondateur est adopté le 26 août 1789 ?",
-    "answers": [
-      "Déclaration des droits de l'homme et du citoyen",
-      "Constitution de 1791",
-      "Code civil",
-      "Acte additionnel"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement met fin à la Terreur ?",
+    "answers": ["La Constitution de l’an III", "La Convention", "La guerre civile", "Le 9 Thermidor"],
+    "correctIndex": 3
   },
+
   {
     "id": "q171",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel événement déclenche la Révolution américaine ?",
-    "answers": [
-      "Lois Intolérables",
-      "Boston Tea Party",
-      "Acte de Québec",
-      "Massacre de Boston"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe fonde la citoyenneté républicaine ?",
+    "answers": ["L’égalité civique", "La naissance", "La hiérarchie", "La tradition"],
+    "correctIndex": 0
   },
   {
     "id": "q172",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel texte fondateur est adopté le 26 août 1789 ?",
-    "answers": [
-      "Déclaration des droits de l'homme et du citoyen",
-      "Constitution de 1791",
-      "Code civil",
-      "Acte additionnel"
-    ],
-    "correctIndex": 0
+    "text": "Quel régime politique cherche à stabiliser la France après la Terreur ?",
+    "answers": ["La Convention", "Le Directoire", "L’Empire", "La monarchie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q173",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel traité met fin officiellement à la guerre d'indépendance américaine ?",
-    "answers": [
-      "Traité de Paris (1783)",
-      "Traité de Gand",
-      "Traité de Versailles (1783)",
-      "Traité d'Utrecht"
-    ],
-    "correctIndex": 0
+    "text": "Quel principe limite la concentration du pouvoir politique ?",
+    "answers": ["Le privilège", "La tradition", "La séparation des pouvoirs", "La hiérarchie"],
+    "correctIndex": 2
   },
   {
     "id": "q174",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel club politique influent siégeait au couvent des Jacobins ?",
-    "answers": [
-      "Les Cordeliers",
-      "Les Girondins",
-      "Les Feuillants",
-      "Les Jacobins"
-    ],
+    "text": "Quel événement marque l’échec du Directoire ?",
+    "answers": ["La Terreur", "La Convention", "La République", "Le coup d’État du 18 Brumaire"],
     "correctIndex": 3
   },
+
   {
     "id": "q175",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel organe dirige la Terreur en 1793-1794 ?",
-    "answers": [
-      "Assemblée législative",
-      "Convention thermidorienne",
-      "Comité de Salut public",
-      "Directoire"
-    ],
-    "correctIndex": 2
+    "text": "Quel idéal politique s’oppose à l’absolutisme royal ?",
+    "answers": ["La souveraineté nationale", "La hiérarchie", "La tradition", "Le droit divin"],
+    "correctIndex": 0
   },
   {
     "id": "q176",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quelle insurrection parisienne provoque la chute de la monarchie le 10 août 1792 ?",
-    "answers": [
-      "Prise des Tuileries",
-      "Massacres de Septembre",
-      "Journées de Juin",
-      "Journée du 20 juin 1792"
-    ],
-    "correctIndex": 0
+    "text": "Quel acteur politique joue un rôle clé dans la chute de Robespierre ?",
+    "answers": ["Marat", "Tallien", "Danton", "Bonaparte"],
+    "correctIndex": 1
   },
+
   {
     "id": "q177",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel organe dirige la Terreur en 1793-1794 ?",
-    "answers": [
-      "Convention thermidorienne",
-      "Assemblée législative",
-      "Directoire",
-      "Comité de Salut public"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe fonde l’égalité des citoyens devant la justice ?",
+    "answers": ["Le privilège", "La tradition", "L’égalité juridique", "La hiérarchie"],
+    "correctIndex": 2
   },
   {
     "id": "q178",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "Thomas Paine",
-      "John Adams",
-      "Benjamin Franklin",
-      "Thomas Jefferson"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement marque la fin du pouvoir jacobin ?",
+    "answers": ["La Déclaration des droits", "La Constitution de 1791", "La guerre extérieure", "Le 9 Thermidor"],
+    "correctIndex": 3
   },
+
   {
     "id": "q179",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel traité met fin officiellement à la guerre d'indépendance américaine ?",
-    "answers": [
-      "Traité de Gand",
-      "Traité de Paris (1783)",
-      "Traité d'Utrecht",
-      "Traité de Versailles (1783)"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe fonde la démocratie représentative moderne ?",
+    "answers": ["La souveraineté populaire", "La tradition", "Le privilège", "L’hérédité"],
+    "correctIndex": 0
   },
   {
     "id": "q180",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel texte fondateur est adopté le 26 août 1789 ?",
-    "answers": [
-      "Acte additionnel",
-      "Code civil",
-      "Déclaration des droits de l'homme et du citoyen",
-      "Constitution de 1791"
-    ],
-    "correctIndex": 2
+    "text": "Quel acteur devient Premier consul en 1799 ?",
+    "answers": ["Robespierre", "Napoléon Bonaparte", "Danton", "Sieyès"],
+    "correctIndex": 1
   },
+
   {
     "id": "q181",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "Thomas Paine",
-      "Benjamin Franklin",
-      "John Adams",
-      "Thomas Jefferson"
-    ],
-    "correctIndex": 0
+    "text": "Quel principe structure l’État de droit moderne ?",
+    "answers": ["La tradition", "La hiérarchie", "La primauté de la loi", "Le privilège"],
+    "correctIndex": 2
   },
   {
     "id": "q182",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel club politique influent siégeait au couvent des Jacobins ?",
-    "answers": [
-      "Les Cordeliers",
-      "Les Feuillants",
-      "Les Girondins",
-      "Les Jacobins"
-    ],
+    "text": "Quel événement marque le passage du Consulat à l’Empire ?",
+    "answers": ["La Terreur", "Le Directoire", "La République", "Le sacre de Napoléon"],
     "correctIndex": 3
   },
+
   {
     "id": "q183",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel texte fondateur est adopté le 26 août 1789 ?",
-    "answers": [
-      "Acte additionnel",
-      "Code civil",
-      "Déclaration des droits de l'homme et du citoyen",
-      "Constitution de 1791"
-    ],
-    "correctIndex": 2
+    "text": "Quel principe protège la liberté d’expression ?",
+    "answers": ["La liberté d’opinion", "La censure", "La tradition", "Le privilège"],
+    "correctIndex": 0
   },
   {
     "id": "q184",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel organe dirige la Terreur en 1793-1794 ?",
-    "answers": [
-      "Comité de Salut public",
-      "Convention thermidorienne",
-      "Assemblée législative",
-      "Directoire"
-    ],
-    "correctIndex": 0
+    "text": "Quel groupe social soutient fortement la Révolution radicale ?",
+    "answers": ["La noblesse", "Les Sans-culottes", "Le clergé", "La haute bourgeoisie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q185",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel club politique influent siégeait au couvent des Jacobins ?",
-    "answers": [
-      "Les Girondins",
-      "Les Jacobins",
-      "Les Cordeliers",
-      "Les Feuillants"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe justifie l’accès égal aux charges publiques ?",
+    "answers": ["La tradition", "Le privilège", "Le mérite", "L’hérédité"],
+    "correctIndex": 2
   },
   {
     "id": "q186",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel texte fondateur est adopté le 26 août 1789 ?",
-    "answers": [
-      "Acte additionnel",
-      "Déclaration des droits de l'homme et du citoyen",
-      "Constitution de 1791",
-      "Code civil"
-    ],
-    "correctIndex": 1
+    "text": "Quel événement marque la fin officielle de la Révolution française ?",
+    "answers": ["La Terreur", "La Convention", "Le Directoire", "L’instauration du Consulat"],
+    "correctIndex": 3
   },
+
   {
     "id": "q187",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel organe dirige la Terreur en 1793-1794 ?",
-    "answers": [
-      "Convention thermidorienne",
-      "Directoire",
-      "Comité de Salut public",
-      "Assemblée législative"
-    ],
-    "correctIndex": 2
+    "text": "Quel idéal politique inspire les révolutions libérales européennes ?",
+    "answers": ["La souveraineté nationale", "La tradition", "Le droit divin", "L’hérédité"],
+    "correctIndex": 0
   },
   {
     "id": "q188",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel mouvement européen de 1848 est aussi appelé 'Printemps des peuples' ?",
-    "answers": [
-      "Révolution de 1830",
-      "Printemps de Prague",
-      "Commune de 1871",
-      "Révolutions de 1848"
-    ],
-    "correctIndex": 3
+    "text": "Quel acteur politique est associé aux Cordeliers ?",
+    "answers": ["Robespierre", "Danton", "Mirabeau", "Bonaparte"],
+    "correctIndex": 1
   },
+
   {
     "id": "q189",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel club politique influent siégeait au couvent des Jacobins ?",
-    "answers": [
-      "Les Jacobins",
-      "Les Cordeliers",
-      "Les Feuillants",
-      "Les Girondins"
-    ],
-    "correctIndex": 0
+    "text": "Quel principe fonde l’égalité devant l’impôt ?",
+    "answers": ["La hiérarchie", "La tradition", "L’égalité fiscale", "Le privilège"],
+    "correctIndex": 2
   },
   {
     "id": "q190",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel dirigeant mène la Révolution d’Octobre ?",
-    "answers": [
-      "Kerenski",
-      "Trotski",
-      "Lénine",
-      "Staline"
-    ],
-    "correctIndex": 2
+    "text": "Quel événement marque la suppression définitive de la monarchie ?",
+    "answers": ["La fuite à Varennes", "La Constitution de 1791", "La Terreur", "Le vote du 21 septembre 1792"],
+    "correctIndex": 3
   },
+
   {
     "id": "q191",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel texte fondateur est adopté le 26 août 1789 ?",
-    "answers": [
-      "Constitution de 1791",
-      "Déclaration des droits de l'homme et du citoyen",
-      "Acte additionnel",
-      "Code civil"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe fonde la notion moderne de citoyen ?",
+    "answers": ["L’égalité civique", "La hiérarchie", "La tradition", "Le privilège"],
+    "correctIndex": 0
   },
   {
     "id": "q192",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel dirigeant mène la Révolution d’Octobre ?",
-    "answers": [
-      "Trotski",
-      "Kerenski",
-      "Lénine",
-      "Staline"
-    ],
-    "correctIndex": 2
+    "text": "Quel texte structure politiquement le Directoire ?",
+    "answers": ["La Constitution de 1791", "La Constitution de l’an III", "La Déclaration des droits", "Le Code civil"],
+    "correctIndex": 1
   },
+
   {
     "id": "q193",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quelle insurrection parisienne provoque la chute de la monarchie le 10 août 1792 ?",
-    "answers": [
-      "Massacres de Septembre",
-      "Journée du 20 juin 1792",
-      "Prise des Tuileries",
-      "Journées de Juin"
-    ],
+    "text": "Quel principe met fin aux privilèges judiciaires ?",
+    "answers": ["La tradition", "Le droit divin", "L’égalité devant la justice", "La hiérarchie"],
     "correctIndex": 2
   },
   {
     "id": "q194",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel dirigeant mène la Révolution d’Octobre ?",
-    "answers": [
-      "Lénine",
-      "Staline",
-      "Kerenski",
-      "Trotski"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement précipite la fin du Directoire ?",
+    "answers": ["La Terreur", "La Convention", "La République", "Le coup d’État du 18 Brumaire"],
+    "correctIndex": 3
   },
+
   {
     "id": "q195",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel événement déclenche la Révolution américaine ?",
-    "answers": [
-      "Acte de Québec",
-      "Lois Intolérables",
-      "Massacre de Boston",
-      "Boston Tea Party"
-    ],
-    "correctIndex": 3
+    "text": "Quel idéal politique s’oppose à la monarchie absolue ?",
+    "answers": ["La souveraineté nationale", "La hiérarchie", "La tradition", "Le droit divin"],
+    "correctIndex": 0
   },
   {
     "id": "q196",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel club politique influent siégeait au couvent des Jacobins ?",
-    "answers": [
-      "Les Jacobins",
-      "Les Cordeliers",
-      "Les Feuillants",
-      "Les Girondins"
-    ],
-    "correctIndex": 0
+    "text": "Quel acteur politique joue un rôle majeur dans le Directoire ?",
+    "answers": ["Robespierre", "Barras", "Danton", "Mirabeau"],
+    "correctIndex": 1
   },
+
   {
     "id": "q197",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel club politique influent siégeait au couvent des Jacobins ?",
-    "answers": [
-      "Les Jacobins",
-      "Les Feuillants",
-      "Les Cordeliers",
-      "Les Girondins"
-    ],
-    "correctIndex": 0
+    "text": "Quel principe fonde la protection des droits individuels ?",
+    "answers": ["Le privilège", "La tradition", "Les droits naturels", "La hiérarchie"],
+    "correctIndex": 2
   },
   {
     "id": "q198",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel dirigeant mène la Révolution d’Octobre ?",
-    "answers": [
-      "Staline",
-      "Kerenski",
-      "Lénine",
-      "Trotski"
-    ],
-    "correctIndex": 2
+    "text": "Quel événement marque la fin de la Convention ?",
+    "answers": ["La Terreur", "La République", "La Constitution de 1791", "La mise en place du Directoire"],
+    "correctIndex": 3
   },
+
   {
     "id": "q199",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel texte fondateur est adopté le 26 août 1789 ?",
-    "answers": [
-      "Déclaration des droits de l'homme et du citoyen",
-      "Constitution de 1791",
-      "Acte additionnel",
-      "Code civil"
-    ],
+    "text": "Quel principe est central dans l’héritage révolutionnaire ?",
+    "answers": ["L’égalité des droits", "La hiérarchie sociale", "La tradition", "Le privilège"],
     "correctIndex": 0
   },
   {
     "id": "q200",
     "category": "Révolution",
     "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "Thomas Jefferson",
-      "Thomas Paine",
-      "John Adams",
-      "Benjamin Franklin"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q201",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel organe dirige la Terreur en 1793-1794 ?",
-    "answers": [
-      "Assemblée législative",
-      "Directoire",
-      "Comité de Salut public",
-      "Convention thermidorienne"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q202",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel club politique influent siégeait au couvent des Jacobins ?",
-    "answers": [
-      "Les Jacobins",
-      "Les Girondins",
-      "Les Feuillants",
-      "Les Cordeliers"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q203",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "John Adams",
-      "Benjamin Franklin",
-      "Thomas Paine",
-      "Thomas Jefferson"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q204",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "Thomas Paine",
-      "Thomas Jefferson",
-      "Benjamin Franklin",
-      "John Adams"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q205",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel traité met fin officiellement à la guerre d'indépendance américaine ?",
-    "answers": [
-      "Traité d'Utrecht",
-      "Traité de Paris (1783)",
-      "Traité de Gand",
-      "Traité de Versailles (1783)"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q206",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel mouvement européen de 1848 est aussi appelé 'Printemps des peuples' ?",
-    "answers": [
-      "Printemps de Prague",
-      "Révolution de 1830",
-      "Commune de 1871",
-      "Révolutions de 1848"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q207",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel organe dirige la Terreur en 1793-1794 ?",
-    "answers": [
-      "Assemblée législative",
-      "Directoire",
-      "Convention thermidorienne",
-      "Comité de Salut public"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q208",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel texte fondateur est adopté le 26 août 1789 ?",
-    "answers": [
-      "Acte additionnel",
-      "Constitution de 1791",
-      "Code civil",
-      "Déclaration des droits de l'homme et du citoyen"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q209",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel traité met fin officiellement à la guerre d'indépendance américaine ?",
-    "answers": [
-      "Traité d'Utrecht",
-      "Traité de Gand",
-      "Traité de Paris (1783)",
-      "Traité de Versailles (1783)"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q210",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel dirigeant mène la Révolution d’Octobre ?",
-    "answers": [
-      "Kerenski",
-      "Trotski",
-      "Staline",
-      "Lénine"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q211",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quelle insurrection parisienne provoque la chute de la monarchie le 10 août 1792 ?",
-    "answers": [
-      "Journée du 20 juin 1792",
-      "Prise des Tuileries",
-      "Journées de Juin",
-      "Massacres de Septembre"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q212",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel événement déclenche la Révolution américaine ?",
-    "answers": [
-      "Acte de Québec",
-      "Lois Intolérables",
-      "Massacre de Boston",
-      "Boston Tea Party"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q213",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel texte fondateur est adopté le 26 août 1789 ?",
-    "answers": [
-      "Constitution de 1791",
-      "Déclaration des droits de l'homme et du citoyen",
-      "Code civil",
-      "Acte additionnel"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q214",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel dirigeant mène la Révolution d’Octobre ?",
-    "answers": [
-      "Kerenski",
-      "Staline",
-      "Trotski",
-      "Lénine"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q215",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel dirigeant mène la Révolution d’Octobre ?",
-    "answers": [
-      "Trotski",
-      "Staline",
-      "Kerenski",
-      "Lénine"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q216",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel traité met fin officiellement à la guerre d'indépendance américaine ?",
-    "answers": [
-      "Traité d'Utrecht",
-      "Traité de Versailles (1783)",
-      "Traité de Gand",
-      "Traité de Paris (1783)"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q217",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel mouvement européen de 1848 est aussi appelé 'Printemps des peuples' ?",
-    "answers": [
-      "Révolutions de 1848",
-      "Printemps de Prague",
-      "Commune de 1871",
-      "Révolution de 1830"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q218",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel traité met fin officiellement à la guerre d'indépendance américaine ?",
-    "answers": [
-      "Traité de Versailles (1783)",
-      "Traité d'Utrecht",
-      "Traité de Paris (1783)",
-      "Traité de Gand"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q219",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel mouvement européen de 1848 est aussi appelé 'Printemps des peuples' ?",
-    "answers": [
-      "Révolutions de 1848",
-      "Révolution de 1830",
-      "Commune de 1871",
-      "Printemps de Prague"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q220",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel organe dirige la Terreur en 1793-1794 ?",
-    "answers": [
-      "Convention thermidorienne",
-      "Directoire",
-      "Comité de Salut public",
-      "Assemblée législative"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q221",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel texte fondateur est adopté le 26 août 1789 ?",
-    "answers": [
-      "Déclaration des droits de l'homme et du citoyen",
-      "Constitution de 1791",
-      "Code civil",
-      "Acte additionnel"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q222",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Qui prononce le 'Serment du Jeu de Paume' ?",
-    "answers": [
-      "Le Directoire",
-      "La Commune de Paris",
-      "Les députés du Tiers État",
-      "Les Sans-culottes"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q223",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel mouvement européen de 1848 est aussi appelé 'Printemps des peuples' ?",
-    "answers": [
-      "Printemps de Prague",
-      "Révolution de 1830",
-      "Révolutions de 1848",
-      "Commune de 1871"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q224",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quelle insurrection parisienne provoque la chute de la monarchie le 10 août 1792 ?",
-    "answers": [
-      "Massacres de Septembre",
-      "Prise des Tuileries",
-      "Journée du 20 juin 1792",
-      "Journées de Juin"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q225",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "Benjamin Franklin",
-      "Thomas Jefferson",
-      "Thomas Paine",
-      "John Adams"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q226",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel dirigeant mène la Révolution d’Octobre ?",
-    "answers": [
-      "Trotski",
-      "Kerenski",
-      "Staline",
-      "Lénine"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q227",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel texte fondateur est adopté le 26 août 1789 ?",
-    "answers": [
-      "Acte additionnel",
-      "Constitution de 1791",
-      "Code civil",
-      "Déclaration des droits de l'homme et du citoyen"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q228",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Qui prononce le 'Serment du Jeu de Paume' ?",
-    "answers": [
-      "Les Sans-culottes",
-      "Le Directoire",
-      "La Commune de Paris",
-      "Les députés du Tiers État"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q229",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel organe dirige la Terreur en 1793-1794 ?",
-    "answers": [
-      "Convention thermidorienne",
-      "Directoire",
-      "Comité de Salut public",
-      "Assemblée législative"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q230",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel événement déclenche la Révolution américaine ?",
-    "answers": [
-      "Lois Intolérables",
-      "Massacre de Boston",
-      "Acte de Québec",
-      "Boston Tea Party"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q231",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel dirigeant mène la Révolution d’Octobre ?",
-    "answers": [
-      "Trotski",
-      "Kerenski",
-      "Staline",
-      "Lénine"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q232",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel organe dirige la Terreur en 1793-1794 ?",
-    "answers": [
-      "Convention thermidorienne",
-      "Assemblée législative",
-      "Directoire",
-      "Comité de Salut public"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q233",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel texte fondateur est adopté le 26 août 1789 ?",
-    "answers": [
-      "Constitution de 1791",
-      "Acte additionnel",
-      "Déclaration des droits de l'homme et du citoyen",
-      "Code civil"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q234",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel club politique influent siégeait au couvent des Jacobins ?",
-    "answers": [
-      "Les Cordeliers",
-      "Les Girondins",
-      "Les Jacobins",
-      "Les Feuillants"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q235",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "John Adams",
-      "Thomas Jefferson",
-      "Thomas Paine",
-      "Benjamin Franklin"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q236",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel événement déclenche la Révolution américaine ?",
-    "answers": [
-      "Boston Tea Party",
-      "Acte de Québec",
-      "Massacre de Boston",
-      "Lois Intolérables"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q237",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quelle insurrection parisienne provoque la chute de la monarchie le 10 août 1792 ?",
-    "answers": [
-      "Massacres de Septembre",
-      "Journées de Juin",
-      "Prise des Tuileries",
-      "Journée du 20 juin 1792"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q238",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel dirigeant mène la Révolution d’Octobre ?",
-    "answers": [
-      "Staline",
-      "Kerenski",
-      "Trotski",
-      "Lénine"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q239",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel traité met fin officiellement à la guerre d'indépendance américaine ?",
-    "answers": [
-      "Traité d'Utrecht",
-      "Traité de Paris (1783)",
-      "Traité de Gand",
-      "Traité de Versailles (1783)"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q240",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel organe dirige la Terreur en 1793-1794 ?",
-    "answers": [
-      "Assemblée législative",
-      "Directoire",
-      "Convention thermidorienne",
-      "Comité de Salut public"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q241",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel traité met fin officiellement à la guerre d'indépendance américaine ?",
-    "answers": [
-      "Traité de Paris (1783)",
-      "Traité d'Utrecht",
-      "Traité de Versailles (1783)",
-      "Traité de Gand"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q242",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel mouvement européen de 1848 est aussi appelé 'Printemps des peuples' ?",
-    "answers": [
-      "Révolutions de 1848",
-      "Révolution de 1830",
-      "Commune de 1871",
-      "Printemps de Prague"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q243",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel traité met fin officiellement à la guerre d'indépendance américaine ?",
-    "answers": [
-      "Traité de Gand",
-      "Traité d'Utrecht",
-      "Traité de Paris (1783)",
-      "Traité de Versailles (1783)"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q244",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel texte fondateur est adopté le 26 août 1789 ?",
-    "answers": [
-      "Déclaration des droits de l'homme et du citoyen",
-      "Acte additionnel",
-      "Constitution de 1791",
-      "Code civil"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q245",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel texte fondateur est adopté le 26 août 1789 ?",
-    "answers": [
-      "Acte additionnel",
-      "Constitution de 1791",
-      "Déclaration des droits de l'homme et du citoyen",
-      "Code civil"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q246",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel événement déclenche la Révolution américaine ?",
-    "answers": [
-      "Massacre de Boston",
-      "Acte de Québec",
-      "Lois Intolérables",
-      "Boston Tea Party"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q247",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Qui prononce le 'Serment du Jeu de Paume' ?",
-    "answers": [
-      "Les Sans-culottes",
-      "Les députés du Tiers État",
-      "Le Directoire",
-      "La Commune de Paris"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q248",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "Benjamin Franklin",
-      "Thomas Paine",
-      "John Adams",
-      "Thomas Jefferson"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q249",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel traité met fin officiellement à la guerre d'indépendance américaine ?",
-    "answers": [
-      "Traité de Versailles (1783)",
-      "Traité de Paris (1783)",
-      "Traité d'Utrecht",
-      "Traité de Gand"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q250",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "Benjamin Franklin",
-      "Thomas Paine",
-      "Thomas Jefferson",
-      "John Adams"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q251",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel dirigeant mène la Révolution d’Octobre ?",
-    "answers": [
-      "Lénine",
-      "Trotski",
-      "Kerenski",
-      "Staline"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q252",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel texte fondateur est adopté le 26 août 1789 ?",
-    "answers": [
-      "Acte additionnel",
-      "Code civil",
-      "Déclaration des droits de l'homme et du citoyen",
-      "Constitution de 1791"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q253",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel club politique influent siégeait au couvent des Jacobins ?",
-    "answers": [
-      "Les Jacobins",
-      "Les Cordeliers",
-      "Les Feuillants",
-      "Les Girondins"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q254",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel texte fondateur est adopté le 26 août 1789 ?",
-    "answers": [
-      "Déclaration des droits de l'homme et du citoyen",
-      "Constitution de 1791",
-      "Code civil",
-      "Acte additionnel"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q255",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel mouvement européen de 1848 est aussi appelé 'Printemps des peuples' ?",
-    "answers": [
-      "Révolutions de 1848",
-      "Révolution de 1830",
-      "Commune de 1871",
-      "Printemps de Prague"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q256",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel texte fondateur est adopté le 26 août 1789 ?",
-    "answers": [
-      "Constitution de 1791",
-      "Déclaration des droits de l'homme et du citoyen",
-      "Acte additionnel",
-      "Code civil"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q257",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel club politique influent siégeait au couvent des Jacobins ?",
-    "answers": [
-      "Les Feuillants",
-      "Les Cordeliers",
-      "Les Jacobins",
-      "Les Girondins"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q258",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "Thomas Paine",
-      "John Adams",
-      "Thomas Jefferson",
-      "Benjamin Franklin"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q259",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quelle insurrection parisienne provoque la chute de la monarchie le 10 août 1792 ?",
-    "answers": [
-      "Journées de Juin",
-      "Massacres de Septembre",
-      "Prise des Tuileries",
-      "Journée du 20 juin 1792"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q260",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quelle insurrection parisienne provoque la chute de la monarchie le 10 août 1792 ?",
-    "answers": [
-      "Massacres de Septembre",
-      "Prise des Tuileries",
-      "Journées de Juin",
-      "Journée du 20 juin 1792"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q261",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel événement déclenche la Révolution américaine ?",
-    "answers": [
-      "Lois Intolérables",
-      "Acte de Québec",
-      "Massacre de Boston",
-      "Boston Tea Party"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q262",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel texte fondateur est adopté le 26 août 1789 ?",
-    "answers": [
-      "Code civil",
-      "Acte additionnel",
-      "Constitution de 1791",
-      "Déclaration des droits de l'homme et du citoyen"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q263",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel mouvement européen de 1848 est aussi appelé 'Printemps des peuples' ?",
-    "answers": [
-      "Printemps de Prague",
-      "Commune de 1871",
-      "Révolution de 1830",
-      "Révolutions de 1848"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q264",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel traité met fin officiellement à la guerre d'indépendance américaine ?",
-    "answers": [
-      "Traité de Gand",
-      "Traité de Versailles (1783)",
-      "Traité de Paris (1783)",
-      "Traité d'Utrecht"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q265",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel texte fondateur est adopté le 26 août 1789 ?",
-    "answers": [
-      "Déclaration des droits de l'homme et du citoyen",
-      "Acte additionnel",
-      "Code civil",
-      "Constitution de 1791"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q266",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel événement déclenche la Révolution américaine ?",
-    "answers": [
-      "Boston Tea Party",
-      "Lois Intolérables",
-      "Massacre de Boston",
-      "Acte de Québec"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q267",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel traité met fin officiellement à la guerre d'indépendance américaine ?",
-    "answers": [
-      "Traité de Paris (1783)",
-      "Traité de Gand",
-      "Traité d'Utrecht",
-      "Traité de Versailles (1783)"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q268",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Qui prononce le 'Serment du Jeu de Paume' ?",
-    "answers": [
-      "Les députés du Tiers État",
-      "Les Sans-culottes",
-      "La Commune de Paris",
-      "Le Directoire"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q269",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel mouvement européen de 1848 est aussi appelé 'Printemps des peuples' ?",
-    "answers": [
-      "Commune de 1871",
-      "Révolutions de 1848",
-      "Printemps de Prague",
-      "Révolution de 1830"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q270",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "Benjamin Franklin",
-      "Thomas Paine",
-      "Thomas Jefferson",
-      "John Adams"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q271",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel traité met fin officiellement à la guerre d'indépendance américaine ?",
-    "answers": [
-      "Traité d'Utrecht",
-      "Traité de Versailles (1783)",
-      "Traité de Gand",
-      "Traité de Paris (1783)"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q272",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel texte fondateur est adopté le 26 août 1789 ?",
-    "answers": [
-      "Acte additionnel",
-      "Constitution de 1791",
-      "Déclaration des droits de l'homme et du citoyen",
-      "Code civil"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q273",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel organe dirige la Terreur en 1793-1794 ?",
-    "answers": [
-      "Comité de Salut public",
-      "Convention thermidorienne",
-      "Directoire",
-      "Assemblée législative"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q274",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel club politique influent siégeait au couvent des Jacobins ?",
-    "answers": [
-      "Les Cordeliers",
-      "Les Feuillants",
-      "Les Jacobins",
-      "Les Girondins"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q275",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Qui prononce le 'Serment du Jeu de Paume' ?",
-    "answers": [
-      "La Commune de Paris",
-      "Les députés du Tiers État",
-      "Le Directoire",
-      "Les Sans-culottes"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q276",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quelle insurrection parisienne provoque la chute de la monarchie le 10 août 1792 ?",
-    "answers": [
-      "Journée du 20 juin 1792",
-      "Massacres de Septembre",
-      "Prise des Tuileries",
-      "Journées de Juin"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q277",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel club politique influent siégeait au couvent des Jacobins ?",
-    "answers": [
-      "Les Feuillants",
-      "Les Girondins",
-      "Les Jacobins",
-      "Les Cordeliers"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q278",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel événement déclenche la Révolution américaine ?",
-    "answers": [
-      "Acte de Québec",
-      "Boston Tea Party",
-      "Massacre de Boston",
-      "Lois Intolérables"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q279",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel traité met fin officiellement à la guerre d'indépendance américaine ?",
-    "answers": [
-      "Traité d'Utrecht",
-      "Traité de Versailles (1783)",
-      "Traité de Gand",
-      "Traité de Paris (1783)"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q280",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Qui prononce le 'Serment du Jeu de Paume' ?",
-    "answers": [
-      "La Commune de Paris",
-      "Le Directoire",
-      "Les Sans-culottes",
-      "Les députés du Tiers État"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q281",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel club politique influent siégeait au couvent des Jacobins ?",
-    "answers": [
-      "Les Feuillants",
-      "Les Cordeliers",
-      "Les Jacobins",
-      "Les Girondins"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q282",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quelle insurrection parisienne provoque la chute de la monarchie le 10 août 1792 ?",
-    "answers": [
-      "Prise des Tuileries",
-      "Journée du 20 juin 1792",
-      "Massacres de Septembre",
-      "Journées de Juin"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q283",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel club politique influent siégeait au couvent des Jacobins ?",
-    "answers": [
-      "Les Girondins",
-      "Les Cordeliers",
-      "Les Jacobins",
-      "Les Feuillants"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q284",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel traité met fin officiellement à la guerre d'indépendance américaine ?",
-    "answers": [
-      "Traité de Gand",
-      "Traité d'Utrecht",
-      "Traité de Versailles (1783)",
-      "Traité de Paris (1783)"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q285",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel texte fondateur est adopté le 26 août 1789 ?",
-    "answers": [
-      "Déclaration des droits de l'homme et du citoyen",
-      "Code civil",
-      "Constitution de 1791",
-      "Acte additionnel"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q286",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quelle insurrection parisienne provoque la chute de la monarchie le 10 août 1792 ?",
-    "answers": [
-      "Journées de Juin",
-      "Journée du 20 juin 1792",
-      "Prise des Tuileries",
-      "Massacres de Septembre"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q287",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "Thomas Paine",
-      "John Adams",
-      "Benjamin Franklin",
-      "Thomas Jefferson"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q288",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel texte fondateur est adopté le 26 août 1789 ?",
-    "answers": [
-      "Déclaration des droits de l'homme et du citoyen",
-      "Constitution de 1791",
-      "Code civil",
-      "Acte additionnel"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q289",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel traité met fin officiellement à la guerre d'indépendance américaine ?",
-    "answers": [
-      "Traité de Gand",
-      "Traité de Paris (1783)",
-      "Traité d'Utrecht",
-      "Traité de Versailles (1783)"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q290",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "Thomas Paine",
-      "Thomas Jefferson",
-      "John Adams",
-      "Benjamin Franklin"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q291",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Qui prononce le 'Serment du Jeu de Paume' ?",
-    "answers": [
-      "Les députés du Tiers État",
-      "Le Directoire",
-      "La Commune de Paris",
-      "Les Sans-culottes"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q292",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel révolutionnaire américain rédige 'Common Sense' en 1776 ?",
-    "answers": [
-      "Thomas Paine",
-      "John Adams",
-      "Benjamin Franklin",
-      "Thomas Jefferson"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q293",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quelle insurrection parisienne provoque la chute de la monarchie le 10 août 1792 ?",
-    "answers": [
-      "Prise des Tuileries",
-      "Massacres de Septembre",
-      "Journée du 20 juin 1792",
-      "Journées de Juin"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q294",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel événement déclenche la Révolution américaine ?",
-    "answers": [
-      "Boston Tea Party",
-      "Lois Intolérables",
-      "Acte de Québec",
-      "Massacre de Boston"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q295",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Qui prononce le 'Serment du Jeu de Paume' ?",
-    "answers": [
-      "Les Sans-culottes",
-      "Les députés du Tiers État",
-      "La Commune de Paris",
-      "Le Directoire"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q296",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel événement déclenche la Révolution américaine ?",
-    "answers": [
-      "Massacre de Boston",
-      "Boston Tea Party",
-      "Acte de Québec",
-      "Lois Intolérables"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q297",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Qui prononce le 'Serment du Jeu de Paume' ?",
-    "answers": [
-      "La Commune de Paris",
-      "Les Sans-culottes",
-      "Le Directoire",
-      "Les députés du Tiers État"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q298",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel traité met fin officiellement à la guerre d'indépendance américaine ?",
-    "answers": [
-      "Traité de Gand",
-      "Traité de Versailles (1783)",
-      "Traité de Paris (1783)",
-      "Traité d'Utrecht"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q299",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quel club politique influent siégeait au couvent des Jacobins ?",
-    "answers": [
-      "Les Girondins",
-      "Les Jacobins",
-      "Les Cordeliers",
-      "Les Feuillants"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q300",
-    "category": "Révolution",
-    "difficulty": "Moyen",
-    "text": "Quelle insurrection parisienne provoque la chute de la monarchie le 10 août 1792 ?",
-    "answers": [
-      "Massacres de Septembre",
-      "Journées de Juin",
-      "Journée du 20 juin 1792",
-      "Prise des Tuileries"
-    ],
+    "text": "Quel héritage majeur de la Révolution française structure encore les États modernes ?",
+    "answers": ["La monarchie absolue", "La féodalité", "Le droit divin", "Les principes démocratiques"],
     "correctIndex": 3
   }
 ]
