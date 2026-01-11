@@ -3,3900 +3,1688 @@
     "id": "q1",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel mouvement de 1830 renverse Charles X ?",
-    "answers": [
-      "Révolution de Juin",
-      "Révolution de Mars",
-      "Révolution de Février",
-      "Révolution de Juillet"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe politique est central dans la Déclaration d’indépendance américaine de 1776 ?",
+    "answers": ["La souveraineté populaire", "La monarchie constitutionnelle", "Le fédéralisme", "Le droit divin"],
+    "correctIndex": 0
   },
   {
     "id": "q2",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel mouvement de 1830 renverse Charles X ?",
-    "answers": [
-      "Révolution de Février",
-      "Révolution de Juillet",
-      "Révolution de Mars",
-      "Révolution de Juin"
-    ],
+    "text": "Quel texte fonde juridiquement la République haïtienne en 1804 ?",
+    "answers": ["La Déclaration des droits", "L’Acte d’indépendance d’Haïti", "La Constitution de 1805", "Le Code noir"],
     "correctIndex": 1
   },
   {
     "id": "q3",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel révolutionnaire est surnommé 'l'Incorruptible' ?",
-    "answers": [
-      "Georges Danton",
-      "Maximilien Robespierre",
-      "Louis Antoine de Saint-Just",
-      "Jean-Paul Marat"
-    ],
-    "correctIndex": 1
+    "text": "Quel concept politique justifie le renversement d’un pouvoir oppressif selon John Locke ?",
+    "answers": ["Le contrat social", "La séparation des pouvoirs", "Le droit de résistance", "La souveraineté nationale"],
+    "correctIndex": 2
   },
   {
     "id": "q4",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Qui dirige la Commune de Paris en 1871 ?",
-    "answers": [
-      "Jules Vallès",
-      "Louis Auguste Blanqui",
-      "Raoul Rigault",
-      "Léo Frankel"
-    ],
-    "correctIndex": 1
+    "text": "Quel événement déclenche la Révolution russe de février 1917 ?",
+    "answers": ["La prise du Palais d’Hiver", "La mutinerie de Kronstadt", "L’assassinat de Raspoutine", "Les grèves et émeutes à Petrograd"],
+    "correctIndex": 3
   },
+
   {
     "id": "q5",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel décret abolit l'esclavage dans les colonies françaises en 1794 ?",
-    "answers": [
-      "Édit de Nantes",
-      "Code noir",
-      "Décret du 4 février 1794",
-      "Décret du 27 avril 1848"
-    ],
-    "correctIndex": 2
+    "text": "Quel principe est commun aux révolutions atlantiques du XVIIIe siècle ?",
+    "answers": ["La souveraineté du peuple", "Le nationalisme ethnique", "Le socialisme", "Le fédéralisme"],
+    "correctIndex": 0
   },
   {
     "id": "q6",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel roi est guillotiné le 21 janvier 1793 ?",
-    "answers": [
-      "Charles X",
-      "Louis XV",
-      "Louis-Philippe Ier",
-      "Louis XVI"
-    ],
-    "correctIndex": 3
+    "text": "Quel révolutionnaire haïtien abolit définitivement l’esclavage sur l’île ?",
+    "answers": ["Jean-Jacques Dessalines", "Toussaint Louverture", "Henri Christophe", "Alexandre Pétion"],
+    "correctIndex": 1
   },
   {
     "id": "q7",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel général américain est surnommé 'le Père de la Révolution américaine' ?",
-    "answers": [
-      "Benjamin Franklin",
-      "John Adams",
-      "George Washington",
-      "Thomas Jefferson"
-    ],
+    "text": "Quel principe politique distingue la Révolution française de la Révolution américaine ?",
+    "answers": ["Le républicanisme", "La souveraineté populaire", "L’universalisme des droits", "Le constitutionnalisme"],
     "correctIndex": 2
   },
   {
     "id": "q8",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel mouvement de 1830 renverse Charles X ?",
-    "answers": [
-      "Révolution de Mars",
-      "Révolution de Juillet",
-      "Révolution de Juin",
-      "Révolution de Février"
-    ],
-    "correctIndex": 1
+    "text": "Quel événement marque la rupture définitive entre colonies américaines et Couronne britannique ?",
+    "answers": ["Le Boston Tea Party", "Le traité de Paris", "La Constitution de 1787", "La Déclaration d’indépendance"],
+    "correctIndex": 3
   },
+
   {
     "id": "q9",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel roi est guillotiné le 21 janvier 1793 ?",
-    "answers": [
-      "Louis-Philippe Ier",
-      "Louis XVI",
-      "Charles X",
-      "Louis XV"
-    ],
-    "correctIndex": 1
+    "text": "Quel concept politique est central dans l’œuvre de Rousseau ?",
+    "answers": ["La volonté générale", "La monarchie éclairée", "Le fédéralisme", "Le libéralisme économique"],
+    "correctIndex": 0
   },
   {
     "id": "q10",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel général américain est surnommé 'le Père de la Révolution américaine' ?",
-    "answers": [
-      "Benjamin Franklin",
-      "John Adams",
-      "George Washington",
-      "Thomas Jefferson"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays connaît une révolution libérale majeure en 1820-1821 ?",
+    "answers": ["La Russie", "L’Espagne", "La Prusse", "La Suède"],
+    "correctIndex": 1
   },
+
   {
     "id": "q11",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel manifeste est publié par Karl Marx et Friedrich Engels en 1848 ?",
-    "answers": [
-      "Manifeste du Parti communiste",
-      "Das Kapital",
-      "Socialisme utopique",
-      "Discours sur la misère"
-    ],
-    "correctIndex": 0
+    "text": "Quel principe remet en cause la légitimité héréditaire du pouvoir ?",
+    "answers": ["Le nationalisme", "Le conservatisme", "La souveraineté nationale", "Le mercantilisme"],
+    "correctIndex": 2
   },
   {
     "id": "q12",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel décret abolit l'esclavage dans les colonies françaises en 1794 ?",
-    "answers": [
-      "Édit de Nantes",
-      "Décret du 27 avril 1848",
-      "Code noir",
-      "Décret du 4 février 1794"
-    ],
+    "text": "Quel événement marque le début des révolutions européennes de 1848 ?",
+    "answers": ["La révolution belge", "La révolution polonaise", "La chute de Napoléon III", "Les journées de février à Paris"],
     "correctIndex": 3
   },
+
   {
     "id": "q13",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel décret abolit l'esclavage dans les colonies françaises en 1794 ?",
-    "answers": [
-      "Décret du 27 avril 1848",
-      "Édit de Nantes",
-      "Code noir",
-      "Décret du 4 février 1794"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe politique inspire les mouvements révolutionnaires latino-américains du XIXe siècle ?",
+    "answers": ["L’indépendance nationale", "Le socialisme", "Le conservatisme", "L’impérialisme"],
+    "correctIndex": 0
   },
   {
     "id": "q14",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel révolutionnaire fonde le journal 'L'Ami du peuple' ?",
-    "answers": [
-      "Jean-Paul Marat",
-      "Jacques Hébert",
-      "Camille Desmoulins",
-      "Pierre Vergniaud"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays mène une révolution contre l’Empire ottoman en 1821 ?",
+    "answers": ["La Serbie", "La Grèce", "La Bulgarie", "La Roumanie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q15",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Qui est l'auteur du 'Contrat social' influençant la Révolution française ?",
-    "answers": [
-      "Diderot",
-      "Montesquieu",
-      "Jean-Jacques Rousseau",
-      "Voltaire"
-    ],
+    "text": "Quel principe politique est central dans le marxisme révolutionnaire ?",
+    "answers": ["Le libéralisme", "Le nationalisme", "La lutte des classes", "Le constitutionnalisme"],
     "correctIndex": 2
   },
   {
     "id": "q16",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel mouvement de 1830 renverse Charles X ?",
-    "answers": [
-      "Révolution de Février",
-      "Révolution de Juillet",
-      "Révolution de Mars",
-      "Révolution de Juin"
-    ],
-    "correctIndex": 1
+    "text": "Quel événement permet aux bolcheviks de prendre le pouvoir en 1917 ?",
+    "answers": ["La révolution de février", "La guerre civile", "L’abdication du tsar", "La prise du Palais d’Hiver"],
+    "correctIndex": 3
   },
+
   {
     "id": "q17",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel général américain est surnommé 'le Père de la Révolution américaine' ?",
-    "answers": [
-      "George Washington",
-      "John Adams",
-      "Benjamin Franklin",
-      "Thomas Jefferson"
-    ],
+    "text": "Quel idéal politique unit les révolutions démocratiques modernes ?",
+    "answers": ["La souveraineté populaire", "Le fédéralisme", "Le protectionnisme", "Le conservatisme"],
     "correctIndex": 0
   },
   {
     "id": "q18",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel manifeste est publié par Karl Marx et Friedrich Engels en 1848 ?",
-    "answers": [
-      "Socialisme utopique",
-      "Das Kapital",
-      "Discours sur la misère",
-      "Manifeste du Parti communiste"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays connaît une révolution constitutionnelle en 1905 ?",
+    "answers": ["L’Allemagne", "La Russie", "L’Italie", "L’Autriche-Hongrie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q19",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel manifeste est publié par Karl Marx et Friedrich Engels en 1848 ?",
-    "answers": [
-      "Discours sur la misère",
-      "Manifeste du Parti communiste",
-      "Das Kapital",
-      "Socialisme utopique"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe politique fonde l’égalité juridique moderne ?",
+    "answers": ["Le privilège", "La tradition", "L’égalité devant la loi", "Le droit divin"],
+    "correctIndex": 2
   },
   {
     "id": "q20",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel manifeste est publié par Karl Marx et Friedrich Engels en 1848 ?",
-    "answers": [
-      "Discours sur la misère",
-      "Das Kapital",
-      "Socialisme utopique",
-      "Manifeste du Parti communiste"
-    ],
+    "text": "Quel événement met fin à l’Ancien Régime en France ?",
+    "answers": ["La prise de la Bastille", "La Déclaration des droits", "La Constitution de 1791", "L’abolition des privilèges"],
     "correctIndex": 3
   },
+
   {
     "id": "q21",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel mouvement de 1830 renverse Charles X ?",
-    "answers": [
-      "Révolution de Juin",
-      "Révolution de Juillet",
-      "Révolution de Mars",
-      "Révolution de Février"
-    ],
-    "correctIndex": 1
+    "text": "Quel concept politique est central dans les révolutions libérales ?",
+    "answers": ["Les droits individuels", "La planification", "Le collectivisme", "Le corporatisme"],
+    "correctIndex": 0
   },
   {
     "id": "q22",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel décret abolit l'esclavage dans les colonies françaises en 1794 ?",
-    "answers": [
-      "Décret du 4 février 1794",
-      "Décret du 27 avril 1848",
-      "Édit de Nantes",
-      "Code noir"
-    ],
-    "correctIndex": 0
+    "text": "Quel État obtient son indépendance après une révolution en 1830 ?",
+    "answers": ["La Pologne", "La Belgique", "La Norvège", "La Suisse"],
+    "correctIndex": 1
   },
+
   {
     "id": "q23",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel général américain est surnommé 'le Père de la Révolution américaine' ?",
-    "answers": [
-      "Benjamin Franklin",
-      "Thomas Jefferson",
-      "John Adams",
-      "George Washington"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe s’oppose à l’absolutisme monarchique ?",
+    "answers": ["Le mercantilisme", "La théocratie", "La séparation des pouvoirs", "Le protectionnisme"],
+    "correctIndex": 2
   },
   {
     "id": "q24",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel mouvement de 1830 renverse Charles X ?",
-    "answers": [
-      "Révolution de Février",
-      "Révolution de Juillet",
-      "Révolution de Juin",
-      "Révolution de Mars"
-    ],
-    "correctIndex": 1
+    "text": "Quel événement marque le début de la Révolution chinoise de 1911 ?",
+    "answers": ["La Longue Marche", "La révolution culturelle", "La guerre civile", "L’insurrection de Wuchang"],
+    "correctIndex": 3
   },
+
   {
     "id": "q25",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel décret abolit l'esclavage dans les colonies françaises en 1794 ?",
-    "answers": [
-      "Décret du 27 avril 1848",
-      "Code noir",
-      "Décret du 4 février 1794",
-      "Édit de Nantes"
-    ],
-    "correctIndex": 2
+    "text": "Quel idéal politique est partagé par les révolutions anticoloniales du XXe siècle ?",
+    "answers": ["L’autodétermination", "Le fédéralisme", "Le conservatisme", "Le mercantilisme"],
+    "correctIndex": 0
   },
   {
     "id": "q26",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel révolutionnaire fonde le journal 'L'Ami du peuple' ?",
-    "answers": [
-      "Pierre Vergniaud",
-      "Jean-Paul Marat",
-      "Jacques Hébert",
-      "Camille Desmoulins"
-    ],
+    "text": "Quel pays connaît une révolution républicaine en 1910 ?",
+    "answers": ["L’Espagne", "Le Portugal", "La Grèce", "La Turquie"],
     "correctIndex": 1
   },
+
   {
     "id": "q27",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel décret abolit l'esclavage dans les colonies françaises en 1794 ?",
-    "answers": [
-      "Édit de Nantes",
-      "Décret du 27 avril 1848",
-      "Code noir",
-      "Décret du 4 février 1794"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe politique est central dans les révolutions socialistes ?",
+    "answers": ["Le libéralisme", "Le nationalisme", "La propriété collective", "Le constitutionnalisme"],
+    "correctIndex": 2
   },
   {
     "id": "q28",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel traité met fin à la guerre de Succession d'Espagne ?",
-    "answers": [
-      "Traité de Paris",
-      "Traité de Nimègue",
-      "Traité de Vienne",
-      "Traité d'Utrecht"
-    ],
+    "text": "Quel événement déclenche la révolution iranienne de 1979 ?",
+    "answers": ["La guerre Iran-Irak", "La nationalisation du pétrole", "Le coup d’État de Mossadegh", "Les manifestations contre le Shah"],
     "correctIndex": 3
   },
+
   {
     "id": "q29",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel décret abolit l'esclavage dans les colonies françaises en 1794 ?",
-    "answers": [
-      "Décret du 27 avril 1848",
-      "Décret du 4 février 1794",
-      "Édit de Nantes",
-      "Code noir"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe remet en cause l’ordre colonial mondial ?",
+    "answers": ["Le droit des peuples à disposer d’eux-mêmes", "Le protectionnisme", "Le fédéralisme", "Le mercantilisme"],
+    "correctIndex": 0
   },
   {
     "id": "q30",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel révolutionnaire fonde le journal 'L'Ami du peuple' ?",
-    "answers": [
-      "Jacques Hébert",
-      "Pierre Vergniaud",
-      "Camille Desmoulins",
-      "Jean-Paul Marat"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays connaît une révolution pacifique en 1989 ?",
+    "answers": ["La Roumanie", "La Tchécoslovaquie", "La Bulgarie", "La Yougoslavie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q31",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel général américain est surnommé 'le Père de la Révolution américaine' ?",
-    "answers": [
-      "John Adams",
-      "Benjamin Franklin",
-      "Thomas Jefferson",
-      "George Washington"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe est commun aux révolutions constitutionnelles ?",
+    "answers": ["La censure", "La tradition", "La limitation du pouvoir", "Le pouvoir absolu"],
+    "correctIndex": 2
   },
   {
     "id": "q32",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel mouvement de 1830 renverse Charles X ?",
-    "answers": [
-      "Révolution de Juin",
-      "Révolution de Juillet",
-      "Révolution de Mars",
-      "Révolution de Février"
-    ],
-    "correctIndex": 1
+    "text": "Quel événement symbolise la fin du bloc de l’Est ?",
+    "answers": ["La chute de l’URSS", "La révolution hongroise", "La perestroïka", "La chute du mur de Berlin"],
+    "correctIndex": 3
   },
+
   {
     "id": "q33",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel général américain est surnommé 'le Père de la Révolution américaine' ?",
-    "answers": [
-      "George Washington",
-      "Thomas Jefferson",
-      "John Adams",
-      "Benjamin Franklin"
-    ],
+    "text": "Quel idéal politique fonde les révolutions démocratiques contemporaines ?",
+    "answers": ["La souveraineté du peuple", "Le corporatisme", "Le protectionnisme", "La technocratie"],
     "correctIndex": 0
   },
   {
     "id": "q34",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel révolutionnaire est surnommé 'l'Incorruptible' ?",
-    "answers": [
-      "Jean-Paul Marat",
-      "Louis Antoine de Saint-Just",
-      "Maximilien Robespierre",
-      "Georges Danton"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays connaît une révolution dite des Œillets en 1974 ?",
+    "answers": ["L’Espagne", "Le Portugal", "La Grèce", "L’Italie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q35",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel révolutionnaire est surnommé 'l'Incorruptible' ?",
-    "answers": [
-      "Georges Danton",
-      "Jean-Paul Marat",
-      "Louis Antoine de Saint-Just",
-      "Maximilien Robespierre"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe politique est rejeté par les révolutions républicaines ?",
+    "answers": ["La citoyenneté", "La souveraineté nationale", "La monarchie héréditaire", "La séparation des pouvoirs"],
+    "correctIndex": 2
   },
   {
     "id": "q36",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel décret abolit l'esclavage dans les colonies françaises en 1794 ?",
-    "answers": [
-      "Décret du 4 février 1794",
-      "Décret du 27 avril 1848",
-      "Code noir",
-      "Édit de Nantes"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement marque le début du Printemps arabe en 2011 ?",
+    "answers": ["La guerre en Syrie", "La chute de Moubarak", "La révolution libyenne", "L’immolation de Mohamed Bouazizi"],
+    "correctIndex": 3
   },
+
   {
     "id": "q37",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel révolutionnaire fonde le journal 'L'Ami du peuple' ?",
-    "answers": [
-      "Jean-Paul Marat",
-      "Pierre Vergniaud",
-      "Jacques Hébert",
-      "Camille Desmoulins"
-    ],
+    "text": "Quel principe est central dans les mouvements révolutionnaires non violents ?",
+    "answers": ["La désobéissance civile", "La lutte armée", "La dictature du prolétariat", "Le nationalisme"],
     "correctIndex": 0
   },
   {
     "id": "q38",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel roi est guillotiné le 21 janvier 1793 ?",
-    "answers": [
-      "Louis-Philippe Ier",
-      "Louis XVI",
-      "Charles X",
-      "Louis XV"
-    ],
+    "text": "Quel pays est le premier à abolir l’esclavage à la suite d’une révolution servile ?",
+    "answers": ["Les États-Unis", "Haïti", "La France", "Le Brésil"],
     "correctIndex": 1
   },
+
   {
     "id": "q39",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel mouvement de 1830 renverse Charles X ?",
-    "answers": [
-      "Révolution de Juillet",
-      "Révolution de Mars",
-      "Révolution de Février",
-      "Révolution de Juin"
-    ],
-    "correctIndex": 0
+    "text": "Quel principe fonde la légitimité des révolutions populaires ?",
+    "answers": ["Le droit divin", "La tradition", "La volonté collective", "L’hérédité"],
+    "correctIndex": 2
   },
   {
     "id": "q40",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel révolutionnaire est surnommé 'l'Incorruptible' ?",
-    "answers": [
-      "Maximilien Robespierre",
-      "Louis Antoine de Saint-Just",
-      "Georges Danton",
-      "Jean-Paul Marat"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement marque la fin officielle de l’Union soviétique ?",
+    "answers": ["La perestroïka", "La glasnost", "Le putsch de Moscou", "La dissolution de l’URSS"],
+    "correctIndex": 3
   },
+
   {
     "id": "q41",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel révolutionnaire est surnommé 'l'Incorruptible' ?",
-    "answers": [
-      "Jean-Paul Marat",
-      "Georges Danton",
-      "Maximilien Robespierre",
-      "Louis Antoine de Saint-Just"
-    ],
-    "correctIndex": 2
+    "text": "Quel idéal politique anime les révolutions antiautoritaires ?",
+    "answers": ["La liberté politique", "Le protectionnisme", "La hiérarchie sociale", "Le conservatisme"],
+    "correctIndex": 0
   },
   {
     "id": "q42",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel révolutionnaire fonde le journal 'L'Ami du peuple' ?",
-    "answers": [
-      "Jean-Paul Marat",
-      "Pierre Vergniaud",
-      "Camille Desmoulins",
-      "Jacques Hébert"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays connaît une révolution constitutionnelle en 1908 ?",
+    "answers": ["La Perse", "L’Empire ottoman", "La Russie", "La Chine"],
+    "correctIndex": 1
   },
+
   {
     "id": "q43",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel général américain est surnommé 'le Père de la Révolution américaine' ?",
-    "answers": [
-      "Benjamin Franklin",
-      "Thomas Jefferson",
-      "John Adams",
-      "George Washington"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe justifie l’égalité politique entre citoyens ?",
+    "answers": ["La tradition", "Le privilège", "L’égalité civique", "La hiérarchie"],
+    "correctIndex": 2
   },
   {
     "id": "q44",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel révolutionnaire est surnommé 'l'Incorruptible' ?",
-    "answers": [
-      "Jean-Paul Marat",
-      "Georges Danton",
-      "Maximilien Robespierre",
-      "Louis Antoine de Saint-Just"
-    ],
-    "correctIndex": 2
+    "text": "Quel événement marque la fin du régime tsariste en Russie ?",
+    "answers": ["La révolution d’octobre", "La guerre civile", "La prise du Palais d’Hiver", "L’abdication de Nicolas II"],
+    "correctIndex": 3
   },
+
   {
     "id": "q45",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel traité met fin à la guerre de Succession d'Espagne ?",
-    "answers": [
-      "Traité de Vienne",
-      "Traité de Nimègue",
-      "Traité d'Utrecht",
-      "Traité de Paris"
-    ],
-    "correctIndex": 2
+    "text": "Quel idéal politique s’oppose à l’oppression coloniale ?",
+    "answers": ["L’autodétermination", "Le mercantilisme", "Le corporatisme", "Le protectionnisme"],
+    "correctIndex": 0
   },
   {
     "id": "q46",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel manifeste est publié par Karl Marx et Friedrich Engels en 1848 ?",
-    "answers": [
-      "Manifeste du Parti communiste",
-      "Socialisme utopique",
-      "Discours sur la misère",
-      "Das Kapital"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays mène une révolution communiste victorieuse en 1949 ?",
+    "answers": ["Le Vietnam", "La Chine", "La Corée", "Le Cambodge"],
+    "correctIndex": 1
   },
+
   {
     "id": "q47",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel mouvement de 1830 renverse Charles X ?",
-    "answers": [
-      "Révolution de Juin",
-      "Révolution de Février",
-      "Révolution de Mars",
-      "Révolution de Juillet"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe est central dans la critique révolutionnaire du capitalisme ?",
+    "answers": ["Le libéralisme", "Le fédéralisme", "La lutte des classes", "Le constitutionnalisme"],
+    "correctIndex": 2
   },
   {
     "id": "q48",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel décret abolit l'esclavage dans les colonies françaises en 1794 ?",
-    "answers": [
-      "Décret du 27 avril 1848",
-      "Décret du 4 février 1794",
-      "Code noir",
-      "Édit de Nantes"
-    ],
-    "correctIndex": 1
+    "text": "Quel événement marque le début de la Révolution cubaine ?",
+    "answers": ["La chute de Batista", "La proclamation socialiste", "La crise des missiles", "Le débarquement du Granma"],
+    "correctIndex": 3
   },
+
   {
     "id": "q49",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Qui dirige la Commune de Paris en 1871 ?",
-    "answers": [
-      "Jules Vallès",
-      "Raoul Rigault",
-      "Léo Frankel",
-      "Louis Auguste Blanqui"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe fonde la légitimité des États issus des révolutions modernes ?",
+    "answers": ["La souveraineté nationale", "La tradition monarchique", "Le droit divin", "La hiérarchie sociale"],
+    "correctIndex": 0
   },
   {
     "id": "q50",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Qui est l'auteur du 'Contrat social' influençant la Révolution française ?",
-    "answers": [
-      "Voltaire",
-      "Jean-Jacques Rousseau",
-      "Diderot",
-      "Montesquieu"
-    ],
-    "correctIndex": 1
+    "text": "Quel héritage commun relie les grandes révolutions modernes ?",
+    "answers": ["Le retour à l’ordre ancien", "La domination impériale", "La centralisation autoritaire", "La remise en cause de la légitimité traditionnelle du pouvoir"],
+    "correctIndex": 3
   },
   {
     "id": "q51",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel révolutionnaire fonde le journal 'L'Ami du peuple' ?",
-    "answers": [
-      "Jacques Hébert",
-      "Camille Desmoulins",
-      "Pierre Vergniaud",
-      "Jean-Paul Marat"
-    ],
-    "correctIndex": 3
+    "text": "Quel facteur économique alimente fortement les révolutions européennes du XIXe siècle ?",
+    "answers": ["Les crises de subsistance", "Le commerce colonial", "L’industrialisation avancée", "La spéculation financière"],
+    "correctIndex": 0
   },
   {
     "id": "q52",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel roi est guillotiné le 21 janvier 1793 ?",
-    "answers": [
-      "Louis XVI",
-      "Louis-Philippe Ier",
-      "Charles X",
-      "Louis XV"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays voit naître une révolution constitutionnelle menée par les Jeunes-Turcs en 1908 ?",
+    "answers": ["La Perse", "L’Empire ottoman", "L’Égypte", "La Grèce"],
+    "correctIndex": 1
   },
   {
     "id": "q53",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Qui dirige la Commune de Paris en 1871 ?",
-    "answers": [
-      "Louis Auguste Blanqui",
-      "Raoul Rigault",
-      "Léo Frankel",
-      "Jules Vallès"
-    ],
-    "correctIndex": 0
+    "text": "Quel concept politique est central dans les révolutions nationalistes du XIXe siècle ?",
+    "answers": ["Le fédéralisme", "Le libéralisme économique", "L’autodétermination des peuples", "Le conservatisme"],
+    "correctIndex": 2
   },
   {
     "id": "q54",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel révolutionnaire fonde le journal 'L'Ami du peuple' ?",
-    "answers": [
-      "Jacques Hébert",
-      "Pierre Vergniaud",
-      "Camille Desmoulins",
-      "Jean-Paul Marat"
-    ],
+    "text": "Quel événement marque la fin de la monarchie en Chine impériale ?",
+    "answers": ["La Longue Marche", "La révolution culturelle", "La guerre sino-japonaise", "L’abdication de Puyi"],
     "correctIndex": 3
   },
+
   {
     "id": "q55",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel manifeste est publié par Karl Marx et Friedrich Engels en 1848 ?",
-    "answers": [
-      "Socialisme utopique",
-      "Manifeste du Parti communiste",
-      "Das Kapital",
-      "Discours sur la misère"
-    ],
-    "correctIndex": 1
+    "text": "Quel idéal politique est commun aux révolutions libérales européennes ?",
+    "answers": ["Les libertés constitutionnelles", "La planification économique", "Le collectivisme", "Le protectionnisme"],
+    "correctIndex": 0
   },
   {
     "id": "q56",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel général américain est surnommé 'le Père de la Révolution américaine' ?",
-    "answers": [
-      "John Adams",
-      "Thomas Jefferson",
-      "George Washington",
-      "Benjamin Franklin"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays connaît une révolution constitutionnelle en 1911 mettant fin à une dynastie millénaire ?",
+    "answers": ["Le Japon", "La Chine", "La Corée", "Le Vietnam"],
+    "correctIndex": 1
   },
   {
     "id": "q57",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel décret abolit l'esclavage dans les colonies françaises en 1794 ?",
-    "answers": [
-      "Décret du 4 février 1794",
-      "Édit de Nantes",
-      "Code noir",
-      "Décret du 27 avril 1848"
-    ],
-    "correctIndex": 0
+    "text": "Quel principe politique fonde la légitimité des révolutions démocratiques modernes ?",
+    "answers": ["La hiérarchie sociale", "La tradition", "Le consentement des gouvernés", "Le droit divin"],
+    "correctIndex": 2
   },
   {
     "id": "q58",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Qui dirige la Commune de Paris en 1871 ?",
-    "answers": [
-      "Léo Frankel",
-      "Jules Vallès",
-      "Louis Auguste Blanqui",
-      "Raoul Rigault"
-    ],
-    "correctIndex": 2
+    "text": "Quel événement provoque l’effondrement du régime impérial allemand en 1918 ?",
+    "answers": ["La bataille de Verdun", "La révolution russe", "Le traité de Versailles", "Les mutineries et soulèvements ouvriers"],
+    "correctIndex": 3
   },
+
   {
     "id": "q59",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel révolutionnaire fonde le journal 'L'Ami du peuple' ?",
-    "answers": [
-      "Pierre Vergniaud",
-      "Camille Desmoulins",
-      "Jean-Paul Marat",
-      "Jacques Hébert"
-    ],
-    "correctIndex": 2
+    "text": "Quel principe politique est central dans les révolutions anticoloniales du XXe siècle ?",
+    "answers": ["L’indépendance nationale", "Le fédéralisme", "Le conservatisme", "Le mercantilisme"],
+    "correctIndex": 0
   },
   {
     "id": "q60",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Qui est l'auteur du 'Contrat social' influençant la Révolution française ?",
-    "answers": [
-      "Montesquieu",
-      "Voltaire",
-      "Diderot",
-      "Jean-Jacques Rousseau"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays africain connaît une révolution socialiste en 1974 après un coup d’État militaire ?",
+    "answers": ["L’Angola", "L’Éthiopie", "Le Ghana", "Le Mozambique"],
+    "correctIndex": 1
   },
+
   {
     "id": "q61",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Qui est l'auteur du 'Contrat social' influençant la Révolution française ?",
-    "answers": [
-      "Diderot",
-      "Montesquieu",
-      "Voltaire",
-      "Jean-Jacques Rousseau"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe distingue une révolution d’une simple révolte ?",
+    "answers": ["La violence", "La durée", "La transformation profonde de l’ordre politique", "La participation populaire"],
+    "correctIndex": 2
   },
   {
     "id": "q62",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel révolutionnaire est surnommé 'l'Incorruptible' ?",
-    "answers": [
-      "Maximilien Robespierre",
-      "Georges Danton",
-      "Louis Antoine de Saint-Just",
-      "Jean-Paul Marat"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement marque la fin du régime impérial russe ?",
+    "answers": ["La révolution d’octobre", "La guerre russo-japonaise", "La guerre civile", "L’abdication de Nicolas II"],
+    "correctIndex": 3
   },
+
   {
     "id": "q63",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Qui dirige la Commune de Paris en 1871 ?",
-    "answers": [
-      "Jules Vallès",
-      "Raoul Rigault",
-      "Louis Auguste Blanqui",
-      "Léo Frankel"
-    ],
-    "correctIndex": 2
+    "text": "Quel idéal politique anime les révolutions dites « de velours » ?",
+    "answers": ["La transition pacifique vers la démocratie", "La dictature du prolétariat", "Le nationalisme ethnique", "Le conservatisme"],
+    "correctIndex": 0
   },
   {
     "id": "q64",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Qui dirige la Commune de Paris en 1871 ?",
-    "answers": [
-      "Jules Vallès",
-      "Raoul Rigault",
-      "Louis Auguste Blanqui",
-      "Léo Frankel"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays connaît une révolution pacifique en 1989 sans effusion de sang ?",
+    "answers": ["La Roumanie", "La Tchécoslovaquie", "La Bulgarie", "La Hongrie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q65",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel traité met fin à la guerre de Succession d'Espagne ?",
-    "answers": [
-      "Traité d'Utrecht",
-      "Traité de Nimègue",
-      "Traité de Vienne",
-      "Traité de Paris"
-    ],
-    "correctIndex": 0
+    "text": "Quel principe politique est au cœur des révolutions socialistes ?",
+    "answers": ["Le libéralisme", "La propriété privée", "La collectivisation des moyens de production", "Le fédéralisme"],
+    "correctIndex": 2
   },
   {
     "id": "q66",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel roi est guillotiné le 21 janvier 1793 ?",
-    "answers": [
-      "Louis XVI",
-      "Charles X",
-      "Louis XV",
-      "Louis-Philippe Ier"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement marque le début effectif de la Révolution mexicaine ?",
+    "answers": ["La Constitution de 1917", "La nationalisation du pétrole", "La prise de Mexico", "L’appel aux armes de Francisco Madero"],
+    "correctIndex": 3
   },
+
   {
     "id": "q67",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel traité met fin à la guerre de Succession d'Espagne ?",
-    "answers": [
-      "Traité de Paris",
-      "Traité de Vienne",
-      "Traité de Nimègue",
-      "Traité d'Utrecht"
-    ],
-    "correctIndex": 3
+    "text": "Quel facteur social favorise les révolutions industrielles et politiques du XIXe siècle ?",
+    "answers": ["L’urbanisation rapide", "La stabilité sociale", "La disparition des classes", "La prospérité générale"],
+    "correctIndex": 0
   },
   {
     "id": "q68",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Qui dirige la Commune de Paris en 1871 ?",
-    "answers": [
-      "Jules Vallès",
-      "Raoul Rigault",
-      "Louis Auguste Blanqui",
-      "Léo Frankel"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays d’Amérique latine connaît une révolution socialiste en 1959 ?",
+    "answers": ["Le Chili", "Cuba", "Le Nicaragua", "Le Venezuela"],
+    "correctIndex": 1
   },
+
   {
     "id": "q69",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel révolutionnaire est surnommé 'l'Incorruptible' ?",
-    "answers": [
-      "Maximilien Robespierre",
-      "Jean-Paul Marat",
-      "Louis Antoine de Saint-Just",
-      "Georges Danton"
-    ],
-    "correctIndex": 0
+    "text": "Quel concept est central dans la pensée révolutionnaire marxiste ?",
+    "answers": ["Le contrat social", "La souveraineté nationale", "La lutte des classes", "Le constitutionnalisme"],
+    "correctIndex": 2
   },
   {
     "id": "q70",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel général américain est surnommé 'le Père de la Révolution américaine' ?",
-    "answers": [
-      "Thomas Jefferson",
-      "John Adams",
-      "Benjamin Franklin",
-      "George Washington"
-    ],
+    "text": "Quel événement symbolise la fin du régime communiste en Roumanie ?",
+    "answers": ["La chute du mur de Berlin", "La perestroïka", "La révolution de velours", "L’exécution de Nicolae Ceaușescu"],
     "correctIndex": 3
   },
+
   {
     "id": "q71",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel traité met fin à la guerre de Succession d'Espagne ?",
-    "answers": [
-      "Traité de Vienne",
-      "Traité d'Utrecht",
-      "Traité de Nimègue",
-      "Traité de Paris"
-    ],
-    "correctIndex": 1
+    "text": "Quel idéal politique est revendiqué par les révolutions arabes de 2011 ?",
+    "answers": ["La démocratie politique", "Le monarchisme", "Le fédéralisme", "Le protectionnisme"],
+    "correctIndex": 0
   },
   {
     "id": "q72",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel mouvement de 1830 renverse Charles X ?",
-    "answers": [
-      "Révolution de Mars",
-      "Révolution de Juin",
-      "Révolution de Février",
-      "Révolution de Juillet"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays voit son régime renversé lors du Printemps arabe en 2011 ?",
+    "answers": ["La Jordanie", "La Tunisie", "Le Maroc", "L’Arabie saoudite"],
+    "correctIndex": 1
   },
+
   {
     "id": "q73",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel roi est guillotiné le 21 janvier 1793 ?",
-    "answers": [
-      "Louis XV",
-      "Charles X",
-      "Louis XVI",
-      "Louis-Philippe Ier"
-    ],
+    "text": "Quel principe politique est rejeté par les mouvements révolutionnaires modernes ?",
+    "answers": ["La citoyenneté", "La souveraineté populaire", "L’absolutisme", "Le constitutionnalisme"],
     "correctIndex": 2
   },
   {
     "id": "q74",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel traité met fin à la guerre de Succession d'Espagne ?",
-    "answers": [
-      "Traité de Paris",
-      "Traité de Nimègue",
-      "Traité de Vienne",
-      "Traité d'Utrecht"
-    ],
+    "text": "Quel événement déclenche la guerre civile syrienne issue du Printemps arabe ?",
+    "answers": ["L’intervention étrangère", "La chute du régime", "La révolution iranienne", "La répression des manifestations"],
     "correctIndex": 3
   },
+
   {
     "id": "q75",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel mouvement de 1830 renverse Charles X ?",
-    "answers": [
-      "Révolution de Février",
-      "Révolution de Juin",
-      "Révolution de Juillet",
-      "Révolution de Mars"
-    ],
-    "correctIndex": 2
+    "text": "Quel idéal politique anime les mouvements révolutionnaires étudiants du XXe siècle ?",
+    "answers": ["La contestation de l’autorité", "Le conservatisme", "Le corporatisme", "Le mercantilisme"],
+    "correctIndex": 0
   },
   {
     "id": "q76",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel révolutionnaire fonde le journal 'L'Ami du peuple' ?",
-    "answers": [
-      "Jean-Paul Marat",
-      "Camille Desmoulins",
-      "Pierre Vergniaud",
-      "Jacques Hébert"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays connaît une révolution étudiante majeure en 1968 ?",
+    "answers": ["L’Italie", "La France", "L’Espagne", "La Belgique"],
+    "correctIndex": 1
   },
+
   {
     "id": "q77",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel décret abolit l'esclavage dans les colonies françaises en 1794 ?",
-    "answers": [
-      "Édit de Nantes",
-      "Décret du 4 février 1794",
-      "Code noir",
-      "Décret du 27 avril 1848"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe politique est remis en cause par les révolutions culturelles ?",
+    "answers": ["La participation populaire", "La souveraineté nationale", "L’ordre social traditionnel", "Le constitutionnalisme"],
+    "correctIndex": 2
   },
   {
     "id": "q78",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel manifeste est publié par Karl Marx et Friedrich Engels en 1848 ?",
-    "answers": [
-      "Das Kapital",
-      "Socialisme utopique",
-      "Discours sur la misère",
-      "Manifeste du Parti communiste"
-    ],
+    "text": "Quel événement marque le début de la Révolution culturelle chinoise ?",
+    "answers": ["La mort de Mao", "La guerre de Corée", "La prise du pouvoir communiste", "L’appel de Mao à la jeunesse"],
     "correctIndex": 3
   },
+
   {
     "id": "q79",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel décret abolit l'esclavage dans les colonies françaises en 1794 ?",
-    "answers": [
-      "Décret du 27 avril 1848",
-      "Édit de Nantes",
-      "Décret du 4 février 1794",
-      "Code noir"
-    ],
-    "correctIndex": 2
+    "text": "Quel idéal politique est revendiqué par les révolutions non violentes contemporaines ?",
+    "answers": ["La réforme pacifique du pouvoir", "La dictature militaire", "Le nationalisme autoritaire", "Le protectionnisme"],
+    "correctIndex": 0
   },
   {
     "id": "q80",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel manifeste est publié par Karl Marx et Friedrich Engels en 1848 ?",
-    "answers": [
-      "Socialisme utopique",
-      "Das Kapital",
-      "Manifeste du Parti communiste",
-      "Discours sur la misère"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays connaît une transition démocratique majeure après 1975 ?",
+    "answers": ["La Grèce", "L’Espagne", "Le Portugal", "La Turquie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q81",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel roi est guillotiné le 21 janvier 1793 ?",
-    "answers": [
-      "Louis XV",
-      "Louis XVI",
-      "Charles X",
-      "Louis-Philippe Ier"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe politique est central dans les révolutions républicaines ?",
+    "answers": ["La citoyenneté égale", "Le privilège", "La hiérarchie sociale", "La monarchie héréditaire"],
+    "correctIndex": 2
   },
   {
     "id": "q82",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel traité met fin à la guerre de Succession d'Espagne ?",
-    "answers": [
-      "Traité de Nimègue",
-      "Traité d'Utrecht",
-      "Traité de Paris",
-      "Traité de Vienne"
-    ],
-    "correctIndex": 1
+    "text": "Quel événement marque la fin du régime franquiste en Espagne ?",
+    "answers": ["La Constitution de 1978", "Le coup d’État de 1981", "La guerre civile", "La mort de Franco"],
+    "correctIndex": 3
   },
+
   {
     "id": "q83",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel décret abolit l'esclavage dans les colonies françaises en 1794 ?",
-    "answers": [
-      "Code noir",
-      "Édit de Nantes",
-      "Décret du 4 février 1794",
-      "Décret du 27 avril 1848"
-    ],
-    "correctIndex": 2
+    "text": "Quel idéal politique est au cœur des révolutions démocratiques modernes ?",
+    "answers": ["La participation politique", "Le corporatisme", "Le protectionnisme", "La technocratie"],
+    "correctIndex": 0
   },
   {
     "id": "q84",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel manifeste est publié par Karl Marx et Friedrich Engels en 1848 ?",
-    "answers": [
-      "Socialisme utopique",
-      "Discours sur la misère",
-      "Das Kapital",
-      "Manifeste du Parti communiste"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays met fin à un régime d’apartheid par une transition politique pacifique ?",
+    "answers": ["Le Zimbabwe", "L’Afrique du Sud", "La Namibie", "Le Mozambique"],
+    "correctIndex": 1
   },
+
   {
     "id": "q85",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel décret abolit l'esclavage dans les colonies françaises en 1794 ?",
-    "answers": [
-      "Édit de Nantes",
-      "Code noir",
-      "Décret du 4 février 1794",
-      "Décret du 27 avril 1848"
-    ],
+    "text": "Quel principe politique s’oppose aux discriminations légales ?",
+    "answers": ["Le privilège", "La hiérarchie", "L’égalité civique", "Le conservatisme"],
     "correctIndex": 2
   },
   {
     "id": "q86",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel roi est guillotiné le 21 janvier 1793 ?",
-    "answers": [
-      "Louis-Philippe Ier",
-      "Louis XVI",
-      "Charles X",
-      "Louis XV"
-    ],
-    "correctIndex": 1
+    "text": "Quel événement marque l’échec de la révolution hongroise de 1956 ?",
+    "answers": ["La chute du mur", "La proclamation républicaine", "La victoire électorale", "L’intervention militaire soviétique"],
+    "correctIndex": 3
   },
+
   {
     "id": "q87",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel général américain est surnommé 'le Père de la Révolution américaine' ?",
-    "answers": [
-      "George Washington",
-      "Thomas Jefferson",
-      "John Adams",
-      "Benjamin Franklin"
-    ],
+    "text": "Quel idéal politique motive les révolutions contre les dictatures militaires ?",
+    "answers": ["Le retour à la démocratie", "Le nationalisme", "Le protectionnisme", "Le corporatisme"],
     "correctIndex": 0
   },
   {
     "id": "q88",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel manifeste est publié par Karl Marx et Friedrich Engels en 1848 ?",
-    "answers": [
-      "Manifeste du Parti communiste",
-      "Discours sur la misère",
-      "Das Kapital",
-      "Socialisme utopique"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays d’Amérique du Sud renverse une dictature en 1983 ?",
+    "answers": ["Le Chili", "L’Argentine", "Le Pérou", "La Bolivie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q89",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Qui est l'auteur du 'Contrat social' influençant la Révolution française ?",
-    "answers": [
-      "Voltaire",
-      "Montesquieu",
-      "Diderot",
-      "Jean-Jacques Rousseau"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe fonde la légitimité des révolutions populaires ?",
+    "answers": ["La force militaire", "La tradition", "Le soutien massif de la population", "Le droit divin"],
+    "correctIndex": 2
   },
   {
     "id": "q90",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel roi est guillotiné le 21 janvier 1793 ?",
-    "answers": [
-      "Louis XV",
-      "Charles X",
-      "Louis-Philippe Ier",
-      "Louis XVI"
-    ],
+    "text": "Quel événement marque la fin du régime communiste en Allemagne de l’Est ?",
+    "answers": ["La perestroïka", "La réunification", "La révolution de velours", "La chute du mur de Berlin"],
     "correctIndex": 3
   },
+
   {
     "id": "q91",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel manifeste est publié par Karl Marx et Friedrich Engels en 1848 ?",
-    "answers": [
-      "Discours sur la misère",
-      "Das Kapital",
-      "Socialisme utopique",
-      "Manifeste du Parti communiste"
-    ],
-    "correctIndex": 3
+    "text": "Quel idéal politique est revendiqué par les mouvements de libération nationale ?",
+    "answers": ["L’indépendance", "Le conservatisme", "Le corporatisme", "Le mercantilisme"],
+    "correctIndex": 0
   },
   {
     "id": "q92",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel manifeste est publié par Karl Marx et Friedrich Engels en 1848 ?",
-    "answers": [
-      "Das Kapital",
-      "Discours sur la misère",
-      "Socialisme utopique",
-      "Manifeste du Parti communiste"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays connaît une révolution sandiniste en 1979 ?",
+    "answers": ["Le Salvador", "Le Nicaragua", "Le Guatemala", "Le Honduras"],
+    "correctIndex": 1
   },
+
   {
     "id": "q93",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel révolutionnaire fonde le journal 'L'Ami du peuple' ?",
-    "answers": [
-      "Jacques Hébert",
-      "Camille Desmoulins",
-      "Pierre Vergniaud",
-      "Jean-Paul Marat"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe politique est central dans les révolutions égalitaires ?",
+    "answers": ["La hiérarchie", "La tradition", "L’égalité sociale", "Le conservatisme"],
+    "correctIndex": 2
   },
   {
     "id": "q94",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel révolutionnaire est surnommé 'l'Incorruptible' ?",
-    "answers": [
-      "Georges Danton",
-      "Louis Antoine de Saint-Just",
-      "Maximilien Robespierre",
-      "Jean-Paul Marat"
-    ],
-    "correctIndex": 2
+    "text": "Quel événement met fin au régime communiste en Bulgarie ?",
+    "answers": ["La chute du mur", "La révolution armée", "La guerre civile", "La démission de Todor Jivkov"],
+    "correctIndex": 3
   },
+
   {
     "id": "q95",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel traité met fin à la guerre de Succession d'Espagne ?",
-    "answers": [
-      "Traité de Paris",
-      "Traité d'Utrecht",
-      "Traité de Nimègue",
-      "Traité de Vienne"
-    ],
-    "correctIndex": 1
+    "text": "Quel idéal politique anime les mouvements révolutionnaires pacifiques ?",
+    "answers": ["Le changement sans violence", "La dictature", "Le nationalisme autoritaire", "Le protectionnisme"],
+    "correctIndex": 0
   },
   {
     "id": "q96",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Qui dirige la Commune de Paris en 1871 ?",
-    "answers": [
-      "Raoul Rigault",
-      "Léo Frankel",
-      "Louis Auguste Blanqui",
-      "Jules Vallès"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays d’Europe de l’Est connaît une transition démocratique négociée en 1989 ?",
+    "answers": ["La Roumanie", "La Pologne", "La Bulgarie", "L’Albanie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q97",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel général américain est surnommé 'le Père de la Révolution américaine' ?",
-    "answers": [
-      "Benjamin Franklin",
-      "John Adams",
-      "Thomas Jefferson",
-      "George Washington"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe politique est central dans les révolutions citoyennes ?",
+    "answers": ["Le pouvoir personnel", "La tradition", "La participation civique", "Le corporatisme"],
+    "correctIndex": 2
   },
   {
     "id": "q98",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel révolutionnaire fonde le journal 'L'Ami du peuple' ?",
-    "answers": [
-      "Camille Desmoulins",
-      "Pierre Vergniaud",
-      "Jacques Hébert",
-      "Jean-Paul Marat"
-    ],
+    "text": "Quel événement marque la fin du régime autoritaire en Tunisie en 2011 ?",
+    "answers": ["La guerre civile", "La réforme constitutionnelle", "La révolution libyenne", "La fuite de Ben Ali"],
     "correctIndex": 3
   },
+
   {
     "id": "q99",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel révolutionnaire est surnommé 'l'Incorruptible' ?",
-    "answers": [
-      "Jean-Paul Marat",
-      "Maximilien Robespierre",
-      "Louis Antoine de Saint-Just",
-      "Georges Danton"
-    ],
-    "correctIndex": 1
+    "text": "Quel idéal politique est au cœur des révolutions modernes depuis le XVIIIe siècle ?",
+    "answers": ["La remise en cause de l’autorité absolue", "Le retour à l’ordre ancien", "Le privilège social", "Le conservatisme"],
+    "correctIndex": 0
   },
   {
     "id": "q100",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Qui dirige la Commune de Paris en 1871 ?",
-    "answers": [
-      "Jules Vallès",
-      "Louis Auguste Blanqui",
-      "Léo Frankel",
-      "Raoul Rigault"
-    ],
-    "correctIndex": 1
+    "text": "Quel héritage commun partagent les grandes révolutions politiques ?",
+    "answers": ["La stabilité immédiate", "La domination impériale", "La disparition des conflits", "La transformation durable des structures de pouvoir"],
+    "correctIndex": 3
   },
   {
     "id": "q101",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Qui est l'auteur du 'Contrat social' influençant la Révolution française ?",
-    "answers": [
-      "Jean-Jacques Rousseau",
-      "Diderot",
-      "Voltaire",
-      "Montesquieu"
-    ],
+    "text": "Quel facteur idéologique commun relie les révolutions libérales du XIXe siècle ?",
+    "answers": ["La limitation du pouvoir par une constitution", "La planification économique", "Le collectivisme", "Le nationalisme impérial"],
     "correctIndex": 0
   },
   {
     "id": "q102",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel décret abolit l'esclavage dans les colonies françaises en 1794 ?",
-    "answers": [
-      "Édit de Nantes",
-      "Code noir",
-      "Décret du 4 février 1794",
-      "Décret du 27 avril 1848"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays connaît une révolution constitutionnelle inspirée par le modèle occidental en 1906 ?",
+    "answers": ["La Turquie", "La Perse", "L’Égypte", "L’Afghanistan"],
+    "correctIndex": 1
   },
   {
     "id": "q103",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel traité met fin à la guerre de Succession d'Espagne ?",
-    "answers": [
-      "Traité d'Utrecht",
-      "Traité de Paris",
-      "Traité de Vienne",
-      "Traité de Nimègue"
-    ],
-    "correctIndex": 0
+    "text": "Quel concept politique est central dans la critique révolutionnaire de l’absolutisme ?",
+    "answers": ["Le mercantilisme", "Le fédéralisme", "La séparation des pouvoirs", "Le protectionnisme"],
+    "correctIndex": 2
   },
   {
     "id": "q104",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel général américain est surnommé 'le Père de la Révolution américaine' ?",
-    "answers": [
-      "George Washington",
-      "John Adams",
-      "Thomas Jefferson",
-      "Benjamin Franklin"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement déclenche la révolution portugaise de 1974 ?",
+    "answers": ["La crise économique", "La mort du dictateur", "La pression internationale", "Le coup d’État militaire des officiers"],
+    "correctIndex": 3
   },
+
   {
     "id": "q105",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Qui est l'auteur du 'Contrat social' influençant la Révolution française ?",
-    "answers": [
-      "Diderot",
-      "Montesquieu",
-      "Jean-Jacques Rousseau",
-      "Voltaire"
-    ],
-    "correctIndex": 2
+    "text": "Quel idéal politique structure les révolutions constitutionnelles modernes ?",
+    "answers": ["L’État de droit", "Le corporatisme", "Le protectionnisme", "La technocratie"],
+    "correctIndex": 0
   },
   {
     "id": "q106",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel mouvement de 1830 renverse Charles X ?",
-    "answers": [
-      "Révolution de Juin",
-      "Révolution de Mars",
-      "Révolution de Juillet",
-      "Révolution de Février"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays met fin à une monarchie pluriséculaire lors de la révolution de 1918 ?",
+    "answers": ["La Hongrie", "L’Allemagne", "La Pologne", "La Finlande"],
+    "correctIndex": 1
   },
   {
     "id": "q107",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel révolutionnaire fonde le journal 'L'Ami du peuple' ?",
-    "answers": [
-      "Jacques Hébert",
-      "Jean-Paul Marat",
-      "Camille Desmoulins",
-      "Pierre Vergniaud"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe politique fonde la légitimité des révolutions démocratiques ?",
+    "answers": ["La tradition", "Le privilège", "La souveraineté du peuple", "Le droit divin"],
+    "correctIndex": 2
   },
   {
     "id": "q108",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel roi est guillotiné le 21 janvier 1793 ?",
-    "answers": [
-      "Louis XVI",
-      "Louis-Philippe Ier",
-      "Charles X",
-      "Louis XV"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement marque l’effondrement du régime communiste tchécoslovaque ?",
+    "answers": ["La chute du mur", "L’invasion soviétique", "La perestroïka", "La révolution de Velours"],
+    "correctIndex": 3
   },
+
   {
     "id": "q109",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Qui est l'auteur du 'Contrat social' influençant la Révolution française ?",
-    "answers": [
-      "Jean-Jacques Rousseau",
-      "Montesquieu",
-      "Diderot",
-      "Voltaire"
-    ],
+    "text": "Quel facteur social favorise la radicalisation des mouvements révolutionnaires ?",
+    "answers": ["La fracture sociale persistante", "La croissance économique", "La stabilité institutionnelle", "La prospérité générale"],
     "correctIndex": 0
   },
   {
     "id": "q110",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel révolutionnaire fonde le journal 'L'Ami du peuple' ?",
-    "answers": [
-      "Jean-Paul Marat",
-      "Jacques Hébert",
-      "Camille Desmoulins",
-      "Pierre Vergniaud"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays connaît une révolution populaire renversant un régime autoritaire en 1979 ?",
+    "answers": ["L’Irak", "L’Iran", "La Syrie", "L’Arabie saoudite"],
+    "correctIndex": 1
   },
+
   {
     "id": "q111",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel révolutionnaire est surnommé 'l'Incorruptible' ?",
-    "answers": [
-      "Jean-Paul Marat",
-      "Maximilien Robespierre",
-      "Louis Antoine de Saint-Just",
-      "Georges Danton"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe distingue une révolution politique d’une réforme institutionnelle ?",
+    "answers": ["La légalité", "La durée", "La rupture de légitimité", "La négociation"],
+    "correctIndex": 2
   },
   {
     "id": "q112",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel traité met fin à la guerre de Succession d'Espagne ?",
-    "answers": [
-      "Traité d'Utrecht",
-      "Traité de Vienne",
-      "Traité de Nimègue",
-      "Traité de Paris"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement marque la chute définitive de l’Ancien Régime en Europe centrale en 1848 ?",
+    "answers": ["Les guerres napoléoniennes", "La révolution industrielle", "La guerre de Crimée", "Les révolutions du Printemps des peuples"],
+    "correctIndex": 3
   },
+
   {
     "id": "q113",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel révolutionnaire est surnommé 'l'Incorruptible' ?",
-    "answers": [
-      "Georges Danton",
-      "Maximilien Robespierre",
-      "Louis Antoine de Saint-Just",
-      "Jean-Paul Marat"
-    ],
-    "correctIndex": 1
+    "text": "Quel idéal politique anime les révolutions étudiantes du XXe siècle ?",
+    "answers": ["La contestation de l’ordre établi", "Le conservatisme", "Le corporatisme", "Le nationalisme autoritaire"],
+    "correctIndex": 0
   },
   {
     "id": "q114",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Qui est l'auteur du 'Contrat social' influençant la Révolution française ?",
-    "answers": [
-      "Montesquieu",
-      "Jean-Jacques Rousseau",
-      "Diderot",
-      "Voltaire"
-    ],
+    "text": "Quel pays d’Amérique latine adopte une constitution révolutionnaire en 1917 ?",
+    "answers": ["Le Brésil", "Le Mexique", "L’Argentine", "La Colombie"],
     "correctIndex": 1
   },
+
   {
     "id": "q115",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel mouvement de 1830 renverse Charles X ?",
-    "answers": [
-      "Révolution de Février",
-      "Révolution de Juillet",
-      "Révolution de Juin",
-      "Révolution de Mars"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe politique est central dans la pensée révolutionnaire de Hannah Arendt ?",
+    "answers": ["La lutte des classes", "La dictature du prolétariat", "L’action politique collective", "La planification économique"],
+    "correctIndex": 2
   },
   {
     "id": "q116",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel révolutionnaire fonde le journal 'L'Ami du peuple' ?",
-    "answers": [
-      "Jacques Hébert",
-      "Jean-Paul Marat",
-      "Pierre Vergniaud",
-      "Camille Desmoulins"
-    ],
-    "correctIndex": 1
+    "text": "Quel événement marque la fin de la dictature des colonels en Grèce ?",
+    "answers": ["La crise économique", "La guerre civile", "La pression européenne", "La chute du régime en 1974"],
+    "correctIndex": 3
   },
+
   {
     "id": "q117",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel décret abolit l'esclavage dans les colonies françaises en 1794 ?",
-    "answers": [
-      "Décret du 27 avril 1848",
-      "Édit de Nantes",
-      "Code noir",
-      "Décret du 4 février 1794"
-    ],
-    "correctIndex": 3
+    "text": "Quel idéal politique unit les révolutions démocratiques contemporaines ?",
+    "answers": ["La participation citoyenne", "Le protectionnisme", "Le corporatisme", "La technocratie"],
+    "correctIndex": 0
   },
   {
     "id": "q118",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel roi est guillotiné le 21 janvier 1793 ?",
-    "answers": [
-      "Louis-Philippe Ier",
-      "Charles X",
-      "Louis XV",
-      "Louis XVI"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays renverse un régime communiste par une transition négociée en 1989 ?",
+    "answers": ["La Roumanie", "La Pologne", "La Bulgarie", "L’Albanie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q119",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel manifeste est publié par Karl Marx et Friedrich Engels en 1848 ?",
-    "answers": [
-      "Discours sur la misère",
-      "Das Kapital",
-      "Manifeste du Parti communiste",
-      "Socialisme utopique"
-    ],
+    "text": "Quel principe politique est rejeté par les révolutions démocratiques ?",
+    "answers": ["La citoyenneté", "La souveraineté populaire", "L’autoritarisme", "Le constitutionnalisme"],
     "correctIndex": 2
   },
   {
     "id": "q120",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Qui est l'auteur du 'Contrat social' influençant la Révolution française ?",
-    "answers": [
-      "Jean-Jacques Rousseau",
-      "Diderot",
-      "Voltaire",
-      "Montesquieu"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement marque la fin officielle de l’apartheid en Afrique du Sud ?",
+    "answers": ["La libération de Mandela", "La fin des sanctions", "La révolution armée", "Les élections multiraciales de 1994"],
+    "correctIndex": 3
   },
+
   {
     "id": "q121",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Qui est l'auteur du 'Contrat social' influençant la Révolution française ?",
-    "answers": [
-      "Voltaire",
-      "Jean-Jacques Rousseau",
-      "Diderot",
-      "Montesquieu"
-    ],
-    "correctIndex": 1
+    "text": "Quel facteur géopolitique favorise les révolutions pendant la Guerre froide ?",
+    "answers": ["La rivalité Est-Ouest", "La décolonisation achevée", "La stabilité des blocs", "La neutralité internationale"],
+    "correctIndex": 0
   },
   {
     "id": "q122",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel traité met fin à la guerre de Succession d'Espagne ?",
-    "answers": [
-      "Traité de Paris",
-      "Traité de Nimègue",
-      "Traité de Vienne",
-      "Traité d'Utrecht"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays connaît une révolution maoïste victorieuse en 1949 ?",
+    "answers": ["Le Vietnam", "La Chine", "La Corée", "Le Laos"],
+    "correctIndex": 1
   },
+
   {
     "id": "q123",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel mouvement de 1830 renverse Charles X ?",
-    "answers": [
-      "Révolution de Juillet",
-      "Révolution de Mars",
-      "Révolution de Juin",
-      "Révolution de Février"
-    ],
-    "correctIndex": 0
+    "text": "Quel principe politique est central dans les révolutions anticoloniales ?",
+    "answers": ["Le fédéralisme", "La hiérarchie", "Le droit des peuples à disposer d’eux-mêmes", "Le mercantilisme"],
+    "correctIndex": 2
   },
   {
     "id": "q124",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel traité met fin à la guerre de Succession d'Espagne ?",
-    "answers": [
-      "Traité de Vienne",
-      "Traité de Nimègue",
-      "Traité de Paris",
-      "Traité d'Utrecht"
-    ],
+    "text": "Quel événement marque le début de la révolution algérienne ?",
+    "answers": ["La guerre d’Indochine", "Les accords d’Évian", "La manifestation de Sétif", "La Toussaint rouge de 1954"],
     "correctIndex": 3
   },
+
   {
     "id": "q125",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel roi est guillotiné le 21 janvier 1793 ?",
-    "answers": [
-      "Louis-Philippe Ier",
-      "Louis XV",
-      "Louis XVI",
-      "Charles X"
-    ],
-    "correctIndex": 2
+    "text": "Quel idéal politique est revendiqué par les mouvements de libération nationale ?",
+    "answers": ["L’indépendance politique", "Le corporatisme", "Le conservatisme", "Le protectionnisme"],
+    "correctIndex": 0
   },
   {
     "id": "q126",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel mouvement de 1830 renverse Charles X ?",
-    "answers": [
-      "Révolution de Juillet",
-      "Révolution de Mars",
-      "Révolution de Juin",
-      "Révolution de Février"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays connaît une révolution sandiniste en Amérique centrale ?",
+    "answers": ["Le Salvador", "Le Nicaragua", "Le Honduras", "Le Costa Rica"],
+    "correctIndex": 1
   },
+
   {
     "id": "q127",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel roi est guillotiné le 21 janvier 1793 ?",
-    "answers": [
-      "Louis-Philippe Ier",
-      "Charles X",
-      "Louis XV",
-      "Louis XVI"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe fonde la légitimité des révolutions populaires modernes ?",
+    "answers": ["La force militaire", "La tradition", "Le soutien massif de la population", "Le droit divin"],
+    "correctIndex": 2
   },
   {
     "id": "q128",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel roi est guillotiné le 21 janvier 1793 ?",
-    "answers": [
-      "Louis-Philippe Ier",
-      "Louis XV",
-      "Charles X",
-      "Louis XVI"
-    ],
+    "text": "Quel événement marque la fin du régime communiste en Hongrie ?",
+    "answers": ["La chute du mur", "La guerre civile", "La révolution armée", "La proclamation de la République en 1989"],
     "correctIndex": 3
   },
+
   {
     "id": "q129",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel traité met fin à la guerre de Succession d'Espagne ?",
-    "answers": [
-      "Traité d'Utrecht",
-      "Traité de Paris",
-      "Traité de Nimègue",
-      "Traité de Vienne"
-    ],
+    "text": "Quel idéal politique motive les révolutions contre les dictatures militaires ?",
+    "answers": ["Le retour à la démocratie", "Le nationalisme", "Le corporatisme", "Le mercantilisme"],
     "correctIndex": 0
   },
   {
     "id": "q130",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel traité met fin à la guerre de Succession d'Espagne ?",
-    "answers": [
-      "Traité de Nimègue",
-      "Traité d'Utrecht",
-      "Traité de Vienne",
-      "Traité de Paris"
-    ],
+    "text": "Quel pays d’Afrique met fin à un régime d’apartheid par une transition pacifique ?",
+    "answers": ["Le Zimbabwe", "L’Afrique du Sud", "La Namibie", "Le Botswana"],
     "correctIndex": 1
   },
+
   {
     "id": "q131",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel traité met fin à la guerre de Succession d'Espagne ?",
-    "answers": [
-      "Traité de Vienne",
-      "Traité d'Utrecht",
-      "Traité de Paris",
-      "Traité de Nimègue"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe politique s’oppose aux discriminations légales ?",
+    "answers": ["Le privilège", "La hiérarchie", "L’égalité devant la loi", "Le conservatisme"],
+    "correctIndex": 2
   },
   {
     "id": "q132",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel manifeste est publié par Karl Marx et Friedrich Engels en 1848 ?",
-    "answers": [
-      "Manifeste du Parti communiste",
-      "Socialisme utopique",
-      "Discours sur la misère",
-      "Das Kapital"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement met fin au régime communiste en Tchécoslovaquie ?",
+    "answers": ["La perestroïka", "La guerre froide", "La chute du mur", "La révolution de Velours"],
+    "correctIndex": 3
   },
+
   {
     "id": "q133",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel manifeste est publié par Karl Marx et Friedrich Engels en 1848 ?",
-    "answers": [
-      "Manifeste du Parti communiste",
-      "Socialisme utopique",
-      "Das Kapital",
-      "Discours sur la misère"
-    ],
+    "text": "Quel idéal politique anime les révolutions citoyennes contemporaines ?",
+    "answers": ["La participation politique directe", "Le corporatisme", "Le protectionnisme", "La technocratie"],
     "correctIndex": 0
   },
   {
     "id": "q134",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel roi est guillotiné le 21 janvier 1793 ?",
-    "answers": [
-      "Louis XVI",
-      "Louis XV",
-      "Charles X",
-      "Louis-Philippe Ier"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays renverse un régime autoritaire lors du Printemps arabe ?",
+    "answers": ["La Jordanie", "La Tunisie", "Le Maroc", "L’Algérie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q135",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel traité met fin à la guerre de Succession d'Espagne ?",
-    "answers": [
-      "Traité de Nimègue",
-      "Traité de Paris",
-      "Traité d'Utrecht",
-      "Traité de Vienne"
-    ],
+    "text": "Quel principe politique est central dans les révolutions égalitaires ?",
+    "answers": ["La hiérarchie sociale", "La tradition", "L’égalité des droits", "Le conservatisme"],
     "correctIndex": 2
   },
   {
     "id": "q136",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Qui est l'auteur du 'Contrat social' influençant la Révolution française ?",
-    "answers": [
-      "Montesquieu",
-      "Voltaire",
-      "Jean-Jacques Rousseau",
-      "Diderot"
-    ],
-    "correctIndex": 2
+    "text": "Quel événement marque la fin du régime communiste en Pologne ?",
+    "answers": ["La chute du mur", "La guerre civile", "La révolution armée", "Les accords de la Table ronde"],
+    "correctIndex": 3
   },
+
   {
     "id": "q137",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Qui est l'auteur du 'Contrat social' influençant la Révolution française ?",
-    "answers": [
-      "Jean-Jacques Rousseau",
-      "Diderot",
-      "Montesquieu",
-      "Voltaire"
-    ],
+    "text": "Quel idéal politique fonde les révolutions non violentes ?",
+    "answers": ["La transformation pacifique du pouvoir", "La dictature", "Le nationalisme autoritaire", "Le protectionnisme"],
     "correctIndex": 0
   },
   {
     "id": "q138",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel révolutionnaire est surnommé 'l'Incorruptible' ?",
-    "answers": [
-      "Georges Danton",
-      "Jean-Paul Marat",
-      "Maximilien Robespierre",
-      "Louis Antoine de Saint-Just"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays d’Amérique du Sud renverse une dictature en 1983 ?",
+    "answers": ["Le Chili", "L’Argentine", "Le Pérou", "La Bolivie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q139",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel traité met fin à la guerre de Succession d'Espagne ?",
-    "answers": [
-      "Traité de Vienne",
-      "Traité de Paris",
-      "Traité d'Utrecht",
-      "Traité de Nimègue"
-    ],
+    "text": "Quel principe politique fonde l’égalité civique moderne ?",
+    "answers": ["Le privilège", "La tradition", "L’égalité devant la loi", "La hiérarchie"],
     "correctIndex": 2
   },
   {
     "id": "q140",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel mouvement de 1830 renverse Charles X ?",
-    "answers": [
-      "Révolution de Mars",
-      "Révolution de Juillet",
-      "Révolution de Février",
-      "Révolution de Juin"
-    ],
-    "correctIndex": 1
+    "text": "Quel événement marque la fin du régime autoritaire en Tunisie en 2011 ?",
+    "answers": ["La guerre civile", "La réforme constitutionnelle", "La révolution libyenne", "La fuite de Ben Ali"],
+    "correctIndex": 3
   },
+
   {
     "id": "q141",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel décret abolit l'esclavage dans les colonies françaises en 1794 ?",
-    "answers": [
-      "Édit de Nantes",
-      "Décret du 27 avril 1848",
-      "Code noir",
-      "Décret du 4 février 1794"
-    ],
-    "correctIndex": 3
+    "text": "Quel idéal politique est au cœur des révolutions modernes depuis le XVIIIe siècle ?",
+    "answers": ["La remise en cause de l’autorité absolue", "Le retour à l’ordre ancien", "Le privilège social", "Le conservatisme"],
+    "correctIndex": 0
   },
   {
     "id": "q142",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel traité met fin à la guerre de Succession d'Espagne ?",
-    "answers": [
-      "Traité de Nimègue",
-      "Traité de Paris",
-      "Traité d'Utrecht",
-      "Traité de Vienne"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays connaît une transition démocratique après la mort d’un dictateur en 1975 ?",
+    "answers": ["La Grèce", "L’Espagne", "Le Portugal", "La Turquie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q143",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Qui dirige la Commune de Paris en 1871 ?",
-    "answers": [
-      "Louis Auguste Blanqui",
-      "Léo Frankel",
-      "Jules Vallès",
-      "Raoul Rigault"
-    ],
-    "correctIndex": 0
+    "text": "Quel principe politique est central dans les mouvements révolutionnaires modernes ?",
+    "answers": ["La censure", "La hiérarchie", "La légitimité populaire", "Le corporatisme"],
+    "correctIndex": 2
   },
   {
     "id": "q144",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel général américain est surnommé 'le Père de la Révolution américaine' ?",
-    "answers": [
-      "George Washington",
-      "John Adams",
-      "Benjamin Franklin",
-      "Thomas Jefferson"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement marque la chute du régime communiste en Roumanie ?",
+    "answers": ["La perestroïka", "La chute du mur", "La révolution de Velours", "L’exécution de Ceaușescu"],
+    "correctIndex": 3
   },
+
   {
     "id": "q145",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel général américain est surnommé 'le Père de la Révolution américaine' ?",
-    "answers": [
-      "George Washington",
-      "Benjamin Franklin",
-      "Thomas Jefferson",
-      "John Adams"
-    ],
+    "text": "Quel idéal politique unit les grandes révolutions démocratiques ?",
+    "answers": ["La souveraineté populaire", "Le corporatisme", "Le protectionnisme", "La technocratie"],
     "correctIndex": 0
   },
   {
     "id": "q146",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Qui est l'auteur du 'Contrat social' influençant la Révolution française ?",
-    "answers": [
-      "Montesquieu",
-      "Diderot",
-      "Jean-Jacques Rousseau",
-      "Voltaire"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays connaît une révolution pacifique surnommée « révolution de Velours » ?",
+    "answers": ["La Bulgarie", "La Tchécoslovaquie", "La Hongrie", "La Roumanie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q147",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel manifeste est publié par Karl Marx et Friedrich Engels en 1848 ?",
-    "answers": [
-      "Das Kapital",
-      "Manifeste du Parti communiste",
-      "Socialisme utopique",
-      "Discours sur la misère"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe politique est central dans les révolutions citoyennes ?",
+    "answers": ["Le pouvoir personnel", "La tradition", "La participation politique", "Le corporatisme"],
+    "correctIndex": 2
   },
   {
     "id": "q148",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel manifeste est publié par Karl Marx et Friedrich Engels en 1848 ?",
-    "answers": [
-      "Socialisme utopique",
-      "Discours sur la misère",
-      "Manifeste du Parti communiste",
-      "Das Kapital"
-    ],
-    "correctIndex": 2
+    "text": "Quel événement marque la fin du régime autoritaire en Égypte en 2011 ?",
+    "answers": ["La guerre civile", "La révolution libyenne", "La réforme constitutionnelle", "La démission de Hosni Moubarak"],
+    "correctIndex": 3
   },
+
   {
     "id": "q149",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel mouvement de 1830 renverse Charles X ?",
-    "answers": [
-      "Révolution de Juin",
-      "Révolution de Février",
-      "Révolution de Juillet",
-      "Révolution de Mars"
-    ],
-    "correctIndex": 2
+    "text": "Quel idéal politique est au fondement des révolutions anticoloniales ?",
+    "answers": ["L’autodétermination des peuples", "Le corporatisme", "Le protectionnisme", "Le conservatisme"],
+    "correctIndex": 0
   },
   {
     "id": "q150",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel traité met fin à la guerre de Succession d'Espagne ?",
-    "answers": [
-      "Traité de Nimègue",
-      "Traité d'Utrecht",
-      "Traité de Paris",
-      "Traité de Vienne"
-    ],
-    "correctIndex": 1
+    "text": "Quel héritage majeur laissent les grandes révolutions politiques modernes ?",
+    "answers": ["La stabilité immédiate", "La disparition des conflits", "La domination impériale", "La transformation durable des structures de pouvoir"],
+    "correctIndex": 3
   },
   {
     "id": "q151",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel manifeste est publié par Karl Marx et Friedrich Engels en 1848 ?",
-    "answers": [
-      "Discours sur la misère",
-      "Manifeste du Parti communiste",
-      "Das Kapital",
-      "Socialisme utopique"
-    ],
-    "correctIndex": 1
+    "text": "Quel facteur économique structure les révolutions sociales du début du XXe siècle ?",
+    "answers": ["La concentration des richesses", "La mondialisation", "La désindustrialisation", "La financiarisation"],
+    "correctIndex": 0
   },
   {
     "id": "q152",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Qui dirige la Commune de Paris en 1871 ?",
-    "answers": [
-      "Léo Frankel",
-      "Jules Vallès",
-      "Raoul Rigault",
-      "Louis Auguste Blanqui"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays connaît une révolution nationaliste menée par Sun Yat-sen ?",
+    "answers": ["Le Japon", "La Chine", "La Corée", "Le Vietnam"],
+    "correctIndex": 1
   },
   {
     "id": "q153",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Qui est l'auteur du 'Contrat social' influençant la Révolution française ?",
-    "answers": [
-      "Jean-Jacques Rousseau",
-      "Montesquieu",
-      "Voltaire",
-      "Diderot"
-    ],
-    "correctIndex": 0
+    "text": "Quel concept politique est central dans les révolutions anticapitalistes ?",
+    "answers": ["Le libéralisme", "Le fédéralisme", "La lutte des classes", "Le conservatisme"],
+    "correctIndex": 2
   },
   {
     "id": "q154",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel général américain est surnommé 'le Père de la Révolution américaine' ?",
-    "answers": [
-      "John Adams",
-      "Benjamin Franklin",
-      "George Washington",
-      "Thomas Jefferson"
-    ],
-    "correctIndex": 2
+    "text": "Quel événement marque le début de la Révolution culturelle chinoise ?",
+    "answers": ["La chute de Mao", "La guerre de Corée", "La prise du pouvoir communiste", "L’appel de Mao à la jeunesse"],
+    "correctIndex": 3
   },
+
   {
     "id": "q155",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Qui dirige la Commune de Paris en 1871 ?",
-    "answers": [
-      "Jules Vallès",
-      "Léo Frankel",
-      "Raoul Rigault",
-      "Louis Auguste Blanqui"
-    ],
-    "correctIndex": 3
+    "text": "Quel idéal politique est au cœur des révolutions égalitaires ?",
+    "answers": ["L’égalité sociale", "La hiérarchie", "La tradition", "Le conservatisme"],
+    "correctIndex": 0
   },
   {
     "id": "q156",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Qui est l'auteur du 'Contrat social' influençant la Révolution française ?",
-    "answers": [
-      "Jean-Jacques Rousseau",
-      "Montesquieu",
-      "Voltaire",
-      "Diderot"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays connaît une révolution islamique en 1979 ?",
+    "answers": ["L’Irak", "L’Iran", "La Syrie", "L’Arabie saoudite"],
+    "correctIndex": 1
   },
   {
     "id": "q157",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel révolutionnaire est surnommé 'l'Incorruptible' ?",
-    "answers": [
-      "Louis Antoine de Saint-Just",
-      "Georges Danton",
-      "Jean-Paul Marat",
-      "Maximilien Robespierre"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe politique est central dans les révolutions démocratiques ?",
+    "answers": ["La hiérarchie", "La tradition", "La souveraineté populaire", "Le droit divin"],
+    "correctIndex": 2
   },
   {
     "id": "q158",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel général américain est surnommé 'le Père de la Révolution américaine' ?",
-    "answers": [
-      "Benjamin Franklin",
-      "Thomas Jefferson",
-      "John Adams",
-      "George Washington"
-    ],
+    "text": "Quel événement met fin à la dictature franquiste en Espagne ?",
+    "answers": ["La Constitution de 1978", "Le coup d’État de 1981", "La transition démocratique", "La mort de Franco"],
     "correctIndex": 3
   },
+
   {
     "id": "q159",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel révolutionnaire fonde le journal 'L'Ami du peuple' ?",
-    "answers": [
-      "Pierre Vergniaud",
-      "Jean-Paul Marat",
-      "Camille Desmoulins",
-      "Jacques Hébert"
-    ],
-    "correctIndex": 1
+    "text": "Quel idéal politique inspire les révolutions non violentes contemporaines ?",
+    "answers": ["La transformation pacifique du pouvoir", "La lutte armée", "Le nationalisme autoritaire", "Le protectionnisme"],
+    "correctIndex": 0
   },
   {
     "id": "q160",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel révolutionnaire fonde le journal 'L'Ami du peuple' ?",
-    "answers": [
-      "Pierre Vergniaud",
-      "Jacques Hébert",
-      "Camille Desmoulins",
-      "Jean-Paul Marat"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays met fin à l’apartheid par des élections multiraciales en 1994 ?",
+    "answers": ["Le Zimbabwe", "L’Afrique du Sud", "La Namibie", "Le Mozambique"],
+    "correctIndex": 1
   },
+
   {
     "id": "q161",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Qui dirige la Commune de Paris en 1871 ?",
-    "answers": [
-      "Léo Frankel",
-      "Raoul Rigault",
-      "Louis Auguste Blanqui",
-      "Jules Vallès"
-    ],
+    "text": "Quel principe politique fonde l’égalité civique moderne ?",
+    "answers": ["Le privilège", "La tradition", "L’égalité devant la loi", "La hiérarchie"],
     "correctIndex": 2
   },
   {
     "id": "q162",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel manifeste est publié par Karl Marx et Friedrich Engels en 1848 ?",
-    "answers": [
-      "Das Kapital",
-      "Discours sur la misère",
-      "Manifeste du Parti communiste",
-      "Socialisme utopique"
-    ],
-    "correctIndex": 2
+    "text": "Quel événement marque la chute du régime communiste en Allemagne de l’Est ?",
+    "answers": ["La perestroïka", "La réunification", "La révolution de Velours", "La chute du mur de Berlin"],
+    "correctIndex": 3
   },
+
   {
     "id": "q163",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel manifeste est publié par Karl Marx et Friedrich Engels en 1848 ?",
-    "answers": [
-      "Das Kapital",
-      "Socialisme utopique",
-      "Discours sur la misère",
-      "Manifeste du Parti communiste"
-    ],
-    "correctIndex": 3
+    "text": "Quel idéal politique motive les mouvements révolutionnaires étudiants ?",
+    "answers": ["La contestation de l’autorité", "Le conservatisme", "Le corporatisme", "Le mercantilisme"],
+    "correctIndex": 0
   },
   {
     "id": "q164",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Qui dirige la Commune de Paris en 1871 ?",
-    "answers": [
-      "Louis Auguste Blanqui",
-      "Léo Frankel",
-      "Jules Vallès",
-      "Raoul Rigault"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays connaît une révolution pacifique dite « de Velours » en 1989 ?",
+    "answers": ["La Bulgarie", "La Tchécoslovaquie", "La Hongrie", "La Roumanie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q165",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel traité met fin à la guerre de Succession d'Espagne ?",
-    "answers": [
-      "Traité de Vienne",
-      "Traité de Nimègue",
-      "Traité d'Utrecht",
-      "Traité de Paris"
-    ],
+    "text": "Quel principe politique est central dans les révolutions citoyennes ?",
+    "answers": ["Le pouvoir personnel", "La tradition", "La participation civique", "Le corporatisme"],
     "correctIndex": 2
   },
   {
     "id": "q166",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel traité met fin à la guerre de Succession d'Espagne ?",
-    "answers": [
-      "Traité de Nimègue",
-      "Traité d'Utrecht",
-      "Traité de Vienne",
-      "Traité de Paris"
-    ],
-    "correctIndex": 1
+    "text": "Quel événement marque la fin du régime communiste en Roumanie ?",
+    "answers": ["La perestroïka", "La chute du mur", "La révolution de Velours", "L’exécution de Ceaușescu"],
+    "correctIndex": 3
   },
+
   {
     "id": "q167",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel décret abolit l'esclavage dans les colonies françaises en 1794 ?",
-    "answers": [
-      "Décret du 4 février 1794",
-      "Édit de Nantes",
-      "Décret du 27 avril 1848",
-      "Code noir"
-    ],
+    "text": "Quel idéal politique unit les révolutions anticoloniales ?",
+    "answers": ["L’autodétermination des peuples", "Le corporatisme", "Le protectionnisme", "Le conservatisme"],
     "correctIndex": 0
   },
   {
     "id": "q168",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel révolutionnaire est surnommé 'l'Incorruptible' ?",
-    "answers": [
-      "Louis Antoine de Saint-Just",
-      "Jean-Paul Marat",
-      "Maximilien Robespierre",
-      "Georges Danton"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays d’Amérique centrale connaît une révolution sandiniste en 1979 ?",
+    "answers": ["Le Guatemala", "Le Nicaragua", "Le Salvador", "Le Honduras"],
+    "correctIndex": 1
   },
+
   {
     "id": "q169",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel manifeste est publié par Karl Marx et Friedrich Engels en 1848 ?",
-    "answers": [
-      "Manifeste du Parti communiste",
-      "Das Kapital",
-      "Socialisme utopique",
-      "Discours sur la misère"
-    ],
-    "correctIndex": 0
+    "text": "Quel principe politique est au cœur des révolutions égalitaires ?",
+    "answers": ["La hiérarchie sociale", "La tradition", "L’égalité des droits", "Le conservatisme"],
+    "correctIndex": 2
   },
   {
     "id": "q170",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel décret abolit l'esclavage dans les colonies françaises en 1794 ?",
-    "answers": [
-      "Décret du 27 avril 1848",
-      "Décret du 4 février 1794",
-      "Code noir",
-      "Édit de Nantes"
-    ],
-    "correctIndex": 1
+    "text": "Quel événement marque la fin du régime autoritaire en Tunisie en 2011 ?",
+    "answers": ["La guerre civile", "La réforme constitutionnelle", "La révolution libyenne", "La fuite de Ben Ali"],
+    "correctIndex": 3
   },
+
   {
     "id": "q171",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel manifeste est publié par Karl Marx et Friedrich Engels en 1848 ?",
-    "answers": [
-      "Discours sur la misère",
-      "Das Kapital",
-      "Socialisme utopique",
-      "Manifeste du Parti communiste"
-    ],
-    "correctIndex": 3
+    "text": "Quel idéal politique fonde les révolutions modernes depuis le XVIIIe siècle ?",
+    "answers": ["La remise en cause de l’autorité absolue", "Le retour à l’ordre ancien", "Le privilège social", "Le conservatisme"],
+    "correctIndex": 0
   },
   {
     "id": "q172",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel décret abolit l'esclavage dans les colonies françaises en 1794 ?",
-    "answers": [
-      "Code noir",
-      "Décret du 4 février 1794",
-      "Décret du 27 avril 1848",
-      "Édit de Nantes"
-    ],
+    "text": "Quel pays connaît une transition démocratique après la mort d’un dictateur en 1975 ?",
+    "answers": ["La Grèce", "L’Espagne", "Le Portugal", "La Turquie"],
     "correctIndex": 1
   },
+
   {
     "id": "q173",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel décret abolit l'esclavage dans les colonies françaises en 1794 ?",
-    "answers": [
-      "Décret du 4 février 1794",
-      "Code noir",
-      "Décret du 27 avril 1848",
-      "Édit de Nantes"
-    ],
-    "correctIndex": 0
+    "text": "Quel principe politique est central dans les mouvements révolutionnaires modernes ?",
+    "answers": ["La censure", "La hiérarchie", "La légitimité populaire", "Le corporatisme"],
+    "correctIndex": 2
   },
   {
     "id": "q174",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel traité met fin à la guerre de Succession d'Espagne ?",
-    "answers": [
-      "Traité de Nimègue",
-      "Traité de Vienne",
-      "Traité d'Utrecht",
-      "Traité de Paris"
-    ],
-    "correctIndex": 2
+    "text": "Quel événement marque la chute du régime communiste en Bulgarie ?",
+    "answers": ["La chute du mur", "La révolution armée", "La guerre civile", "La démission de Todor Jivkov"],
+    "correctIndex": 3
   },
+
   {
     "id": "q175",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel révolutionnaire est surnommé 'l'Incorruptible' ?",
-    "answers": [
-      "Georges Danton",
-      "Maximilien Robespierre",
-      "Jean-Paul Marat",
-      "Louis Antoine de Saint-Just"
-    ],
-    "correctIndex": 1
+    "text": "Quel idéal politique est revendiqué par les mouvements de libération nationale ?",
+    "answers": ["L’indépendance", "Le corporatisme", "Le conservatisme", "Le mercantilisme"],
+    "correctIndex": 0
   },
   {
     "id": "q176",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel révolutionnaire est surnommé 'l'Incorruptible' ?",
-    "answers": [
-      "Louis Antoine de Saint-Just",
-      "Georges Danton",
-      "Jean-Paul Marat",
-      "Maximilien Robespierre"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays mène une révolution communiste victorieuse en 1949 ?",
+    "answers": ["Le Vietnam", "La Chine", "La Corée", "Le Laos"],
+    "correctIndex": 1
   },
+
   {
     "id": "q177",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel manifeste est publié par Karl Marx et Friedrich Engels en 1848 ?",
-    "answers": [
-      "Discours sur la misère",
-      "Manifeste du Parti communiste",
-      "Das Kapital",
-      "Socialisme utopique"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe est central dans la critique révolutionnaire du capitalisme ?",
+    "answers": ["Le libéralisme", "Le fédéralisme", "La lutte des classes", "Le constitutionnalisme"],
+    "correctIndex": 2
   },
   {
     "id": "q178",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel mouvement de 1830 renverse Charles X ?",
-    "answers": [
-      "Révolution de Février",
-      "Révolution de Mars",
-      "Révolution de Juin",
-      "Révolution de Juillet"
-    ],
+    "text": "Quel événement marque le début de la Révolution cubaine ?",
+    "answers": ["La chute de Batista", "La proclamation socialiste", "La crise des missiles", "Le débarquement du Granma"],
     "correctIndex": 3
   },
+
   {
     "id": "q179",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel révolutionnaire fonde le journal 'L'Ami du peuple' ?",
-    "answers": [
-      "Jacques Hébert",
-      "Camille Desmoulins",
-      "Pierre Vergniaud",
-      "Jean-Paul Marat"
-    ],
-    "correctIndex": 3
+    "text": "Quel idéal politique motive les révolutions contre les dictatures militaires ?",
+    "answers": ["Le retour à la démocratie", "Le nationalisme", "Le corporatisme", "Le protectionnisme"],
+    "correctIndex": 0
   },
   {
     "id": "q180",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Qui dirige la Commune de Paris en 1871 ?",
-    "answers": [
-      "Louis Auguste Blanqui",
-      "Léo Frankel",
-      "Raoul Rigault",
-      "Jules Vallès"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays d’Amérique du Sud renverse une dictature en 1983 ?",
+    "answers": ["Le Chili", "L’Argentine", "Le Pérou", "La Bolivie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q181",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel révolutionnaire est surnommé 'l'Incorruptible' ?",
-    "answers": [
-      "Louis Antoine de Saint-Just",
-      "Jean-Paul Marat",
-      "Maximilien Robespierre",
-      "Georges Danton"
-    ],
+    "text": "Quel principe politique fonde la légitimité des révolutions populaires ?",
+    "answers": ["La force militaire", "La tradition", "Le soutien massif de la population", "Le droit divin"],
     "correctIndex": 2
   },
   {
     "id": "q182",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel général américain est surnommé 'le Père de la Révolution américaine' ?",
-    "answers": [
-      "John Adams",
-      "Thomas Jefferson",
-      "George Washington",
-      "Benjamin Franklin"
-    ],
-    "correctIndex": 2
+    "text": "Quel événement marque la fin du régime communiste en Pologne ?",
+    "answers": ["La chute du mur", "La guerre civile", "La révolution armée", "Les accords de la Table ronde"],
+    "correctIndex": 3
   },
+
   {
     "id": "q183",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel général américain est surnommé 'le Père de la Révolution américaine' ?",
-    "answers": [
-      "George Washington",
-      "Benjamin Franklin",
-      "John Adams",
-      "Thomas Jefferson"
-    ],
+    "text": "Quel idéal politique anime les révolutions pacifiques contemporaines ?",
+    "answers": ["Le changement sans violence", "La dictature", "Le nationalisme autoritaire", "Le protectionnisme"],
     "correctIndex": 0
   },
   {
     "id": "q184",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel traité met fin à la guerre de Succession d'Espagne ?",
-    "answers": [
-      "Traité d'Utrecht",
-      "Traité de Vienne",
-      "Traité de Paris",
-      "Traité de Nimègue"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays d’Europe de l’Est connaît une transition démocratique négociée en 1989 ?",
+    "answers": ["La Roumanie", "La Pologne", "La Bulgarie", "L’Albanie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q185",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Qui est l'auteur du 'Contrat social' influençant la Révolution française ?",
-    "answers": [
-      "Jean-Jacques Rousseau",
-      "Voltaire",
-      "Diderot",
-      "Montesquieu"
-    ],
-    "correctIndex": 0
+    "text": "Quel principe politique est central dans les révolutions citoyennes ?",
+    "answers": ["Le pouvoir personnel", "La tradition", "La participation politique", "Le corporatisme"],
+    "correctIndex": 2
   },
   {
     "id": "q186",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel décret abolit l'esclavage dans les colonies françaises en 1794 ?",
-    "answers": [
-      "Code noir",
-      "Décret du 4 février 1794",
-      "Décret du 27 avril 1848",
-      "Édit de Nantes"
-    ],
-    "correctIndex": 1
+    "text": "Quel événement marque la fin du régime autoritaire en Égypte en 2011 ?",
+    "answers": ["La guerre civile", "La révolution libyenne", "La réforme constitutionnelle", "La démission de Hosni Moubarak"],
+    "correctIndex": 3
   },
+
   {
     "id": "q187",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel général américain est surnommé 'le Père de la Révolution américaine' ?",
-    "answers": [
-      "George Washington",
-      "John Adams",
-      "Thomas Jefferson",
-      "Benjamin Franklin"
-    ],
+    "text": "Quel idéal politique est au fondement des révolutions anticoloniales ?",
+    "answers": ["L’autodétermination des peuples", "Le corporatisme", "Le protectionnisme", "Le conservatisme"],
     "correctIndex": 0
   },
   {
     "id": "q188",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel mouvement de 1830 renverse Charles X ?",
-    "answers": [
-      "Révolution de Mars",
-      "Révolution de Juin",
-      "Révolution de Février",
-      "Révolution de Juillet"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays connaît une révolution populaire en 1986 appelée « révolution du Pouvoir populaire » ?",
+    "answers": ["La Thaïlande", "Les Philippines", "L’Indonésie", "La Malaisie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q189",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel manifeste est publié par Karl Marx et Friedrich Engels en 1848 ?",
-    "answers": [
-      "Manifeste du Parti communiste",
-      "Socialisme utopique",
-      "Das Kapital",
-      "Discours sur la misère"
-    ],
-    "correctIndex": 0
+    "text": "Quel principe politique est central dans les révolutions égalitaires modernes ?",
+    "answers": ["La hiérarchie sociale", "La tradition", "L’égalité des droits", "Le conservatisme"],
+    "correctIndex": 2
   },
   {
     "id": "q190",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel révolutionnaire est surnommé 'l'Incorruptible' ?",
-    "answers": [
-      "Maximilien Robespierre",
-      "Jean-Paul Marat",
-      "Georges Danton",
-      "Louis Antoine de Saint-Just"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement marque la fin du régime communiste en Tchécoslovaquie ?",
+    "answers": ["La perestroïka", "La guerre froide", "La chute du mur", "La révolution de Velours"],
+    "correctIndex": 3
   },
+
   {
     "id": "q191",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel révolutionnaire est surnommé 'l'Incorruptible' ?",
-    "answers": [
-      "Louis Antoine de Saint-Just",
-      "Jean-Paul Marat",
-      "Georges Danton",
-      "Maximilien Robespierre"
-    ],
-    "correctIndex": 3
+    "text": "Quel idéal politique est commun aux grandes révolutions démocratiques ?",
+    "answers": ["La souveraineté populaire", "Le corporatisme", "Le protectionnisme", "La technocratie"],
+    "correctIndex": 0
   },
   {
     "id": "q192",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel traité met fin à la guerre de Succession d'Espagne ?",
-    "answers": [
-      "Traité de Vienne",
-      "Traité de Nimègue",
-      "Traité de Paris",
-      "Traité d'Utrecht"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays met fin à un régime autoritaire après la mort de Franco ?",
+    "answers": ["La Grèce", "L’Espagne", "Le Portugal", "La Turquie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q193",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel roi est guillotiné le 21 janvier 1793 ?",
-    "answers": [
-      "Louis XV",
-      "Charles X",
-      "Louis-Philippe Ier",
-      "Louis XVI"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe politique fonde l’égalité politique moderne ?",
+    "answers": ["Le privilège", "La tradition", "L’égalité civique", "La hiérarchie"],
+    "correctIndex": 2
   },
   {
     "id": "q194",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel traité met fin à la guerre de Succession d'Espagne ?",
-    "answers": [
-      "Traité de Vienne",
-      "Traité d'Utrecht",
-      "Traité de Paris",
-      "Traité de Nimègue"
-    ],
-    "correctIndex": 1
+    "text": "Quel événement marque la fin du régime communiste en Hongrie ?",
+    "answers": ["La chute du mur", "La guerre civile", "La révolution armée", "La proclamation de la République"],
+    "correctIndex": 3
   },
+
   {
     "id": "q195",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel manifeste est publié par Karl Marx et Friedrich Engels en 1848 ?",
-    "answers": [
-      "Das Kapital",
-      "Discours sur la misère",
-      "Manifeste du Parti communiste",
-      "Socialisme utopique"
-    ],
-    "correctIndex": 2
+    "text": "Quel idéal politique motive les révolutions démocratiques modernes ?",
+    "answers": ["La participation citoyenne", "Le corporatisme", "Le protectionnisme", "La technocratie"],
+    "correctIndex": 0
   },
   {
     "id": "q196",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel révolutionnaire fonde le journal 'L'Ami du peuple' ?",
-    "answers": [
-      "Pierre Vergniaud",
-      "Jean-Paul Marat",
-      "Camille Desmoulins",
-      "Jacques Hébert"
-    ],
+    "text": "Quel pays d’Afrique renverse un régime autoritaire au début des années 1990 ?",
+    "answers": ["Le Kenya", "Le Bénin", "Le Sénégal", "La Côte d’Ivoire"],
     "correctIndex": 1
   },
+
   {
     "id": "q197",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel décret abolit l'esclavage dans les colonies françaises en 1794 ?",
-    "answers": [
-      "Décret du 4 février 1794",
-      "Décret du 27 avril 1848",
-      "Code noir",
-      "Édit de Nantes"
-    ],
-    "correctIndex": 0
+    "text": "Quel principe est central dans les révolutions populaires modernes ?",
+    "answers": ["La censure", "La hiérarchie", "La légitimité populaire", "Le corporatisme"],
+    "correctIndex": 2
   },
   {
     "id": "q198",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel général américain est surnommé 'le Père de la Révolution américaine' ?",
-    "answers": [
-      "Thomas Jefferson",
-      "Benjamin Franklin",
-      "George Washington",
-      "John Adams"
-    ],
-    "correctIndex": 2
+    "text": "Quel événement marque la chute du régime autoritaire en Égypte en 2011 ?",
+    "answers": ["La guerre civile", "La révolution libyenne", "La réforme constitutionnelle", "La démission de Hosni Moubarak"],
+    "correctIndex": 3
   },
+
   {
     "id": "q199",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel révolutionnaire fonde le journal 'L'Ami du peuple' ?",
-    "answers": [
-      "Jean-Paul Marat",
-      "Camille Desmoulins",
-      "Pierre Vergniaud",
-      "Jacques Hébert"
-    ],
+    "text": "Quel idéal politique traverse l’ensemble des grandes révolutions modernes ?",
+    "answers": ["La contestation de la légitimité traditionnelle du pouvoir", "Le retour à l’ordre ancien", "Le privilège social", "Le conservatisme"],
     "correctIndex": 0
   },
   {
     "id": "q200",
     "category": "Révolution",
     "difficulty": "Difficile",
-    "text": "Quel révolutionnaire est surnommé 'l'Incorruptible' ?",
-    "answers": [
-      "Jean-Paul Marat",
-      "Louis Antoine de Saint-Just",
-      "Georges Danton",
-      "Maximilien Robespierre"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q201",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel mouvement de 1830 renverse Charles X ?",
-    "answers": [
-      "Révolution de Mars",
-      "Révolution de Juillet",
-      "Révolution de Février",
-      "Révolution de Juin"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q202",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Qui dirige la Commune de Paris en 1871 ?",
-    "answers": [
-      "Raoul Rigault",
-      "Jules Vallès",
-      "Louis Auguste Blanqui",
-      "Léo Frankel"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q203",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Qui est l'auteur du 'Contrat social' influençant la Révolution française ?",
-    "answers": [
-      "Jean-Jacques Rousseau",
-      "Montesquieu",
-      "Diderot",
-      "Voltaire"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q204",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Qui est l'auteur du 'Contrat social' influençant la Révolution française ?",
-    "answers": [
-      "Montesquieu",
-      "Jean-Jacques Rousseau",
-      "Diderot",
-      "Voltaire"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q205",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel révolutionnaire est surnommé 'l'Incorruptible' ?",
-    "answers": [
-      "Georges Danton",
-      "Jean-Paul Marat",
-      "Maximilien Robespierre",
-      "Louis Antoine de Saint-Just"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q206",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel général américain est surnommé 'le Père de la Révolution américaine' ?",
-    "answers": [
-      "Thomas Jefferson",
-      "Benjamin Franklin",
-      "John Adams",
-      "George Washington"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q207",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel révolutionnaire fonde le journal 'L'Ami du peuple' ?",
-    "answers": [
-      "Pierre Vergniaud",
-      "Camille Desmoulins",
-      "Jacques Hébert",
-      "Jean-Paul Marat"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q208",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel décret abolit l'esclavage dans les colonies françaises en 1794 ?",
-    "answers": [
-      "Édit de Nantes",
-      "Décret du 27 avril 1848",
-      "Code noir",
-      "Décret du 4 février 1794"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q209",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel révolutionnaire fonde le journal 'L'Ami du peuple' ?",
-    "answers": [
-      "Jacques Hébert",
-      "Camille Desmoulins",
-      "Pierre Vergniaud",
-      "Jean-Paul Marat"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q210",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Qui dirige la Commune de Paris en 1871 ?",
-    "answers": [
-      "Léo Frankel",
-      "Raoul Rigault",
-      "Jules Vallès",
-      "Louis Auguste Blanqui"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q211",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel révolutionnaire fonde le journal 'L'Ami du peuple' ?",
-    "answers": [
-      "Jean-Paul Marat",
-      "Jacques Hébert",
-      "Pierre Vergniaud",
-      "Camille Desmoulins"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q212",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Qui est l'auteur du 'Contrat social' influençant la Révolution française ?",
-    "answers": [
-      "Montesquieu",
-      "Voltaire",
-      "Diderot",
-      "Jean-Jacques Rousseau"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q213",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel traité met fin à la guerre de Succession d'Espagne ?",
-    "answers": [
-      "Traité de Paris",
-      "Traité d'Utrecht",
-      "Traité de Nimègue",
-      "Traité de Vienne"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q214",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Qui dirige la Commune de Paris en 1871 ?",
-    "answers": [
-      "Jules Vallès",
-      "Raoul Rigault",
-      "Léo Frankel",
-      "Louis Auguste Blanqui"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q215",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel manifeste est publié par Karl Marx et Friedrich Engels en 1848 ?",
-    "answers": [
-      "Discours sur la misère",
-      "Manifeste du Parti communiste",
-      "Das Kapital",
-      "Socialisme utopique"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q216",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel mouvement de 1830 renverse Charles X ?",
-    "answers": [
-      "Révolution de Février",
-      "Révolution de Juillet",
-      "Révolution de Mars",
-      "Révolution de Juin"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q217",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel roi est guillotiné le 21 janvier 1793 ?",
-    "answers": [
-      "Charles X",
-      "Louis XV",
-      "Louis-Philippe Ier",
-      "Louis XVI"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q218",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Qui est l'auteur du 'Contrat social' influençant la Révolution française ?",
-    "answers": [
-      "Montesquieu",
-      "Voltaire",
-      "Diderot",
-      "Jean-Jacques Rousseau"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q219",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel mouvement de 1830 renverse Charles X ?",
-    "answers": [
-      "Révolution de Février",
-      "Révolution de Mars",
-      "Révolution de Juin",
-      "Révolution de Juillet"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q220",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Qui est l'auteur du 'Contrat social' influençant la Révolution française ?",
-    "answers": [
-      "Voltaire",
-      "Jean-Jacques Rousseau",
-      "Montesquieu",
-      "Diderot"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q221",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel révolutionnaire est surnommé 'l'Incorruptible' ?",
-    "answers": [
-      "Maximilien Robespierre",
-      "Georges Danton",
-      "Louis Antoine de Saint-Just",
-      "Jean-Paul Marat"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q222",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel général américain est surnommé 'le Père de la Révolution américaine' ?",
-    "answers": [
-      "John Adams",
-      "George Washington",
-      "Benjamin Franklin",
-      "Thomas Jefferson"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q223",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel manifeste est publié par Karl Marx et Friedrich Engels en 1848 ?",
-    "answers": [
-      "Discours sur la misère",
-      "Das Kapital",
-      "Manifeste du Parti communiste",
-      "Socialisme utopique"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q224",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel manifeste est publié par Karl Marx et Friedrich Engels en 1848 ?",
-    "answers": [
-      "Discours sur la misère",
-      "Das Kapital",
-      "Manifeste du Parti communiste",
-      "Socialisme utopique"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q225",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel général américain est surnommé 'le Père de la Révolution américaine' ?",
-    "answers": [
-      "Benjamin Franklin",
-      "Thomas Jefferson",
-      "George Washington",
-      "John Adams"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q226",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel traité met fin à la guerre de Succession d'Espagne ?",
-    "answers": [
-      "Traité d'Utrecht",
-      "Traité de Vienne",
-      "Traité de Paris",
-      "Traité de Nimègue"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q227",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Qui dirige la Commune de Paris en 1871 ?",
-    "answers": [
-      "Raoul Rigault",
-      "Louis Auguste Blanqui",
-      "Léo Frankel",
-      "Jules Vallès"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q228",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel mouvement de 1830 renverse Charles X ?",
-    "answers": [
-      "Révolution de Juin",
-      "Révolution de Mars",
-      "Révolution de Février",
-      "Révolution de Juillet"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q229",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel révolutionnaire est surnommé 'l'Incorruptible' ?",
-    "answers": [
-      "Georges Danton",
-      "Louis Antoine de Saint-Just",
-      "Maximilien Robespierre",
-      "Jean-Paul Marat"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q230",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel révolutionnaire est surnommé 'l'Incorruptible' ?",
-    "answers": [
-      "Louis Antoine de Saint-Just",
-      "Georges Danton",
-      "Jean-Paul Marat",
-      "Maximilien Robespierre"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q231",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel mouvement de 1830 renverse Charles X ?",
-    "answers": [
-      "Révolution de Juillet",
-      "Révolution de Février",
-      "Révolution de Juin",
-      "Révolution de Mars"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q232",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Qui est l'auteur du 'Contrat social' influençant la Révolution française ?",
-    "answers": [
-      "Voltaire",
-      "Jean-Jacques Rousseau",
-      "Diderot",
-      "Montesquieu"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q233",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Qui est l'auteur du 'Contrat social' influençant la Révolution française ?",
-    "answers": [
-      "Voltaire",
-      "Jean-Jacques Rousseau",
-      "Montesquieu",
-      "Diderot"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q234",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel traité met fin à la guerre de Succession d'Espagne ?",
-    "answers": [
-      "Traité de Vienne",
-      "Traité de Paris",
-      "Traité d'Utrecht",
-      "Traité de Nimègue"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q235",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel général américain est surnommé 'le Père de la Révolution américaine' ?",
-    "answers": [
-      "George Washington",
-      "John Adams",
-      "Thomas Jefferson",
-      "Benjamin Franklin"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q236",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Qui dirige la Commune de Paris en 1871 ?",
-    "answers": [
-      "Léo Frankel",
-      "Raoul Rigault",
-      "Louis Auguste Blanqui",
-      "Jules Vallès"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q237",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel révolutionnaire fonde le journal 'L'Ami du peuple' ?",
-    "answers": [
-      "Camille Desmoulins",
-      "Jacques Hébert",
-      "Jean-Paul Marat",
-      "Pierre Vergniaud"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q238",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel révolutionnaire est surnommé 'l'Incorruptible' ?",
-    "answers": [
-      "Georges Danton",
-      "Jean-Paul Marat",
-      "Louis Antoine de Saint-Just",
-      "Maximilien Robespierre"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q239",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel révolutionnaire est surnommé 'l'Incorruptible' ?",
-    "answers": [
-      "Louis Antoine de Saint-Just",
-      "Georges Danton",
-      "Maximilien Robespierre",
-      "Jean-Paul Marat"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q240",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Qui dirige la Commune de Paris en 1871 ?",
-    "answers": [
-      "Jules Vallès",
-      "Louis Auguste Blanqui",
-      "Léo Frankel",
-      "Raoul Rigault"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q241",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel décret abolit l'esclavage dans les colonies françaises en 1794 ?",
-    "answers": [
-      "Décret du 27 avril 1848",
-      "Édit de Nantes",
-      "Décret du 4 février 1794",
-      "Code noir"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q242",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel traité met fin à la guerre de Succession d'Espagne ?",
-    "answers": [
-      "Traité d'Utrecht",
-      "Traité de Paris",
-      "Traité de Nimègue",
-      "Traité de Vienne"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q243",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel mouvement de 1830 renverse Charles X ?",
-    "answers": [
-      "Révolution de Juin",
-      "Révolution de Mars",
-      "Révolution de Juillet",
-      "Révolution de Février"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q244",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel roi est guillotiné le 21 janvier 1793 ?",
-    "answers": [
-      "Charles X",
-      "Louis XVI",
-      "Louis XV",
-      "Louis-Philippe Ier"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q245",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel roi est guillotiné le 21 janvier 1793 ?",
-    "answers": [
-      "Louis-Philippe Ier",
-      "Louis XV",
-      "Charles X",
-      "Louis XVI"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q246",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel mouvement de 1830 renverse Charles X ?",
-    "answers": [
-      "Révolution de Février",
-      "Révolution de Juin",
-      "Révolution de Mars",
-      "Révolution de Juillet"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q247",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Qui est l'auteur du 'Contrat social' influençant la Révolution française ?",
-    "answers": [
-      "Voltaire",
-      "Jean-Jacques Rousseau",
-      "Diderot",
-      "Montesquieu"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q248",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Qui dirige la Commune de Paris en 1871 ?",
-    "answers": [
-      "Raoul Rigault",
-      "Léo Frankel",
-      "Louis Auguste Blanqui",
-      "Jules Vallès"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q249",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel révolutionnaire fonde le journal 'L'Ami du peuple' ?",
-    "answers": [
-      "Pierre Vergniaud",
-      "Jean-Paul Marat",
-      "Jacques Hébert",
-      "Camille Desmoulins"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q250",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel décret abolit l'esclavage dans les colonies françaises en 1794 ?",
-    "answers": [
-      "Décret du 4 février 1794",
-      "Décret du 27 avril 1848",
-      "Édit de Nantes",
-      "Code noir"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q251",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel général américain est surnommé 'le Père de la Révolution américaine' ?",
-    "answers": [
-      "Benjamin Franklin",
-      "George Washington",
-      "John Adams",
-      "Thomas Jefferson"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q252",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Qui dirige la Commune de Paris en 1871 ?",
-    "answers": [
-      "Jules Vallès",
-      "Léo Frankel",
-      "Raoul Rigault",
-      "Louis Auguste Blanqui"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q253",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel général américain est surnommé 'le Père de la Révolution américaine' ?",
-    "answers": [
-      "John Adams",
-      "Benjamin Franklin",
-      "George Washington",
-      "Thomas Jefferson"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q254",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Qui est l'auteur du 'Contrat social' influençant la Révolution française ?",
-    "answers": [
-      "Jean-Jacques Rousseau",
-      "Diderot",
-      "Voltaire",
-      "Montesquieu"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q255",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Qui est l'auteur du 'Contrat social' influençant la Révolution française ?",
-    "answers": [
-      "Montesquieu",
-      "Voltaire",
-      "Diderot",
-      "Jean-Jacques Rousseau"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q256",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Qui dirige la Commune de Paris en 1871 ?",
-    "answers": [
-      "Léo Frankel",
-      "Raoul Rigault",
-      "Jules Vallès",
-      "Louis Auguste Blanqui"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q257",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel roi est guillotiné le 21 janvier 1793 ?",
-    "answers": [
-      "Louis-Philippe Ier",
-      "Charles X",
-      "Louis XV",
-      "Louis XVI"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q258",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Qui dirige la Commune de Paris en 1871 ?",
-    "answers": [
-      "Louis Auguste Blanqui",
-      "Raoul Rigault",
-      "Léo Frankel",
-      "Jules Vallès"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q259",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel général américain est surnommé 'le Père de la Révolution américaine' ?",
-    "answers": [
-      "John Adams",
-      "Thomas Jefferson",
-      "George Washington",
-      "Benjamin Franklin"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q260",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel traité met fin à la guerre de Succession d'Espagne ?",
-    "answers": [
-      "Traité d'Utrecht",
-      "Traité de Vienne",
-      "Traité de Paris",
-      "Traité de Nimègue"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q261",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel décret abolit l'esclavage dans les colonies françaises en 1794 ?",
-    "answers": [
-      "Édit de Nantes",
-      "Décret du 4 février 1794",
-      "Code noir",
-      "Décret du 27 avril 1848"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q262",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Qui est l'auteur du 'Contrat social' influençant la Révolution française ?",
-    "answers": [
-      "Jean-Jacques Rousseau",
-      "Diderot",
-      "Voltaire",
-      "Montesquieu"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q263",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel décret abolit l'esclavage dans les colonies françaises en 1794 ?",
-    "answers": [
-      "Décret du 27 avril 1848",
-      "Code noir",
-      "Édit de Nantes",
-      "Décret du 4 février 1794"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q264",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel roi est guillotiné le 21 janvier 1793 ?",
-    "answers": [
-      "Louis XV",
-      "Charles X",
-      "Louis-Philippe Ier",
-      "Louis XVI"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q265",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Qui dirige la Commune de Paris en 1871 ?",
-    "answers": [
-      "Léo Frankel",
-      "Jules Vallès",
-      "Raoul Rigault",
-      "Louis Auguste Blanqui"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q266",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Qui est l'auteur du 'Contrat social' influençant la Révolution française ?",
-    "answers": [
-      "Jean-Jacques Rousseau",
-      "Voltaire",
-      "Montesquieu",
-      "Diderot"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q267",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel mouvement de 1830 renverse Charles X ?",
-    "answers": [
-      "Révolution de Février",
-      "Révolution de Juillet",
-      "Révolution de Juin",
-      "Révolution de Mars"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q268",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel général américain est surnommé 'le Père de la Révolution américaine' ?",
-    "answers": [
-      "Thomas Jefferson",
-      "Benjamin Franklin",
-      "John Adams",
-      "George Washington"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q269",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel traité met fin à la guerre de Succession d'Espagne ?",
-    "answers": [
-      "Traité d'Utrecht",
-      "Traité de Nimègue",
-      "Traité de Vienne",
-      "Traité de Paris"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q270",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel général américain est surnommé 'le Père de la Révolution américaine' ?",
-    "answers": [
-      "George Washington",
-      "Benjamin Franklin",
-      "Thomas Jefferson",
-      "John Adams"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q271",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel général américain est surnommé 'le Père de la Révolution américaine' ?",
-    "answers": [
-      "Benjamin Franklin",
-      "John Adams",
-      "George Washington",
-      "Thomas Jefferson"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q272",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel révolutionnaire est surnommé 'l'Incorruptible' ?",
-    "answers": [
-      "Jean-Paul Marat",
-      "Maximilien Robespierre",
-      "Georges Danton",
-      "Louis Antoine de Saint-Just"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q273",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel révolutionnaire fonde le journal 'L'Ami du peuple' ?",
-    "answers": [
-      "Pierre Vergniaud",
-      "Jean-Paul Marat",
-      "Jacques Hébert",
-      "Camille Desmoulins"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q274",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel manifeste est publié par Karl Marx et Friedrich Engels en 1848 ?",
-    "answers": [
-      "Das Kapital",
-      "Discours sur la misère",
-      "Manifeste du Parti communiste",
-      "Socialisme utopique"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q275",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel manifeste est publié par Karl Marx et Friedrich Engels en 1848 ?",
-    "answers": [
-      "Das Kapital",
-      "Socialisme utopique",
-      "Manifeste du Parti communiste",
-      "Discours sur la misère"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q276",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel décret abolit l'esclavage dans les colonies françaises en 1794 ?",
-    "answers": [
-      "Code noir",
-      "Décret du 4 février 1794",
-      "Édit de Nantes",
-      "Décret du 27 avril 1848"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q277",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Qui dirige la Commune de Paris en 1871 ?",
-    "answers": [
-      "Louis Auguste Blanqui",
-      "Raoul Rigault",
-      "Léo Frankel",
-      "Jules Vallès"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q278",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel mouvement de 1830 renverse Charles X ?",
-    "answers": [
-      "Révolution de Mars",
-      "Révolution de Juillet",
-      "Révolution de Juin",
-      "Révolution de Février"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q279",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel général américain est surnommé 'le Père de la Révolution américaine' ?",
-    "answers": [
-      "George Washington",
-      "Thomas Jefferson",
-      "John Adams",
-      "Benjamin Franklin"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q280",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel général américain est surnommé 'le Père de la Révolution américaine' ?",
-    "answers": [
-      "Benjamin Franklin",
-      "Thomas Jefferson",
-      "John Adams",
-      "George Washington"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q281",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel manifeste est publié par Karl Marx et Friedrich Engels en 1848 ?",
-    "answers": [
-      "Discours sur la misère",
-      "Das Kapital",
-      "Socialisme utopique",
-      "Manifeste du Parti communiste"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q282",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel révolutionnaire fonde le journal 'L'Ami du peuple' ?",
-    "answers": [
-      "Camille Desmoulins",
-      "Jacques Hébert",
-      "Jean-Paul Marat",
-      "Pierre Vergniaud"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q283",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel manifeste est publié par Karl Marx et Friedrich Engels en 1848 ?",
-    "answers": [
-      "Manifeste du Parti communiste",
-      "Discours sur la misère",
-      "Socialisme utopique",
-      "Das Kapital"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q284",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Qui dirige la Commune de Paris en 1871 ?",
-    "answers": [
-      "Raoul Rigault",
-      "Jules Vallès",
-      "Louis Auguste Blanqui",
-      "Léo Frankel"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q285",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Qui dirige la Commune de Paris en 1871 ?",
-    "answers": [
-      "Léo Frankel",
-      "Louis Auguste Blanqui",
-      "Jules Vallès",
-      "Raoul Rigault"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q286",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel manifeste est publié par Karl Marx et Friedrich Engels en 1848 ?",
-    "answers": [
-      "Das Kapital",
-      "Manifeste du Parti communiste",
-      "Socialisme utopique",
-      "Discours sur la misère"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q287",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel mouvement de 1830 renverse Charles X ?",
-    "answers": [
-      "Révolution de Février",
-      "Révolution de Mars",
-      "Révolution de Juillet",
-      "Révolution de Juin"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q288",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Qui dirige la Commune de Paris en 1871 ?",
-    "answers": [
-      "Jules Vallès",
-      "Raoul Rigault",
-      "Louis Auguste Blanqui",
-      "Léo Frankel"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q289",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel révolutionnaire fonde le journal 'L'Ami du peuple' ?",
-    "answers": [
-      "Jacques Hébert",
-      "Pierre Vergniaud",
-      "Jean-Paul Marat",
-      "Camille Desmoulins"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q290",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel général américain est surnommé 'le Père de la Révolution américaine' ?",
-    "answers": [
-      "Benjamin Franklin",
-      "George Washington",
-      "John Adams",
-      "Thomas Jefferson"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q291",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel roi est guillotiné le 21 janvier 1793 ?",
-    "answers": [
-      "Louis XV",
-      "Charles X",
-      "Louis-Philippe Ier",
-      "Louis XVI"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q292",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel traité met fin à la guerre de Succession d'Espagne ?",
-    "answers": [
-      "Traité de Paris",
-      "Traité de Nimègue",
-      "Traité de Vienne",
-      "Traité d'Utrecht"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q293",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel général américain est surnommé 'le Père de la Révolution américaine' ?",
-    "answers": [
-      "George Washington",
-      "Benjamin Franklin",
-      "John Adams",
-      "Thomas Jefferson"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q294",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Qui dirige la Commune de Paris en 1871 ?",
-    "answers": [
-      "Raoul Rigault",
-      "Jules Vallès",
-      "Louis Auguste Blanqui",
-      "Léo Frankel"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q295",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel général américain est surnommé 'le Père de la Révolution américaine' ?",
-    "answers": [
-      "Thomas Jefferson",
-      "Benjamin Franklin",
-      "George Washington",
-      "John Adams"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q296",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel roi est guillotiné le 21 janvier 1793 ?",
-    "answers": [
-      "Louis-Philippe Ier",
-      "Charles X",
-      "Louis XVI",
-      "Louis XV"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q297",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel révolutionnaire fonde le journal 'L'Ami du peuple' ?",
-    "answers": [
-      "Camille Desmoulins",
-      "Jean-Paul Marat",
-      "Jacques Hébert",
-      "Pierre Vergniaud"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q298",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel décret abolit l'esclavage dans les colonies françaises en 1794 ?",
-    "answers": [
-      "Code noir",
-      "Décret du 4 février 1794",
-      "Décret du 27 avril 1848",
-      "Édit de Nantes"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q299",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Quel traité met fin à la guerre de Succession d'Espagne ?",
-    "answers": [
-      "Traité de Paris",
-      "Traité d'Utrecht",
-      "Traité de Nimègue",
-      "Traité de Vienne"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q300",
-    "category": "Révolution",
-    "difficulty": "Difficile",
-    "text": "Qui est l'auteur du 'Contrat social' influençant la Révolution française ?",
-    "answers": [
-      "Voltaire",
-      "Montesquieu",
-      "Diderot",
-      "Jean-Jacques Rousseau"
-    ],
+    "text": "Quel héritage durable laissent les révolutions politiques modernes ?",
+    "answers": ["La stabilité immédiate", "La disparition des conflits", "La domination impériale", "La refondation durable des structures politiques"],
     "correctIndex": 3
   }
 ]
