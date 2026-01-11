@@ -3,3900 +3,1616 @@
     "id": "q1",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur de l'Internet ?",
-    "answers": [
-      "Bill Gates",
-      "Robert Kahn",
-      "Tim Berners-Lee",
-      "Vint Cerf"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de mesurer le temps ?",
+    "answers": ["Horloge", "Boussole", "Thermomètre", "Balance"],
+    "correctIndex": 0
   },
   {
     "id": "q2",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé l'ampoule électrique pratique ?",
-    "answers": [
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Benjamin Franklin",
-      "Nikola Tesla"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention sert à téléphoner sans fil ?",
+    "answers": ["Télégraphe", "Téléphone portable", "Radio", "Talkie-walkie"],
+    "correctIndex": 1
   },
   {
     "id": "q3",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé le vaccin contre la rage ?",
-    "answers": [
-      "Louis Pasteur",
-      "Alexander Fleming",
-      "Edward Jenner",
-      "Robert Koch"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de conserver des aliments au froid ?",
+    "answers": ["Four", "Micro-ondes", "Réfrigérateur", "Grille-pain"],
+    "correctIndex": 2
   },
   {
     "id": "q4",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur de l'Internet ?",
-    "answers": [
-      "Robert Kahn",
-      "Tim Berners-Lee",
-      "Vint Cerf",
-      "Bill Gates"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention sert à imprimer des documents ?",
+    "answers": ["Scanner", "Photocopieuse", "Fax", "Imprimante"],
+    "correctIndex": 3
   },
   {
     "id": "q5",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé l'ampoule électrique pratique ?",
-    "answers": [
-      "Alexander Graham Bell",
-      "Nikola Tesla",
-      "Thomas Edison",
-      "Benjamin Franklin"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet d’éclairer une pièce la nuit ?",
+    "answers": ["Ampoule", "Bougie", "Lampe à huile", "Torche"],
+    "correctIndex": 0
   },
   {
     "id": "q6",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du téléphone ?",
-    "answers": [
-      "Alexander Graham Bell",
-      "Thomas Edison",
-      "Antonio Meucci",
-      "Elisha Gray"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de se déplacer rapidement sur de longues distances ?",
+    "answers": ["Vélo", "Avion", "Trottinette", "Bateau"],
+    "correctIndex": 1
   },
   {
     "id": "q7",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé le vaccin contre la rage ?",
-    "answers": [
-      "Edward Jenner",
-      "Robert Koch",
-      "Alexander Fleming",
-      "Louis Pasteur"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de prendre des photos ?",
+    "answers": ["Caméscope", "Scanner", "Appareil photo", "Imprimante"],
+    "correctIndex": 2
   },
   {
     "id": "q8",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du premier avion motorisé ?",
-    "answers": [
-      "Alberto Santos-Dumont",
-      "Louis Blériot",
-      "Clément Ader",
-      "Les frères Wright"
-    ],
+    "text": "Quelle invention sert à laver le linge automatiquement ?",
+    "answers": ["Lave-vaisselle", "Aspirateur", "Sèche-linge", "Machine à laver"],
     "correctIndex": 3
   },
   {
     "id": "q9",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du premier avion motorisé ?",
-    "answers": [
-      "Clément Ader",
-      "Les frères Wright",
-      "Alberto Santos-Dumont",
-      "Louis Blériot"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet de couper du papier facilement ?",
+    "answers": ["Ciseaux", "Couteau", "Règle", "Agrafeuse"],
+    "correctIndex": 0
   },
   {
     "id": "q10",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du téléphone ?",
-    "answers": [
-      "Antonio Meucci",
-      "Elisha Gray",
-      "Alexander Graham Bell",
-      "Thomas Edison"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet d’envoyer des messages électroniques ?",
+    "answers": ["Téléphone", "Email", "Radio", "Télévision"],
+    "correctIndex": 1
   },
+
   {
     "id": "q11",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la machine à vapeur moderne ?",
-    "answers": [
-      "Thomas Newcomen",
-      "Richard Trevithick",
-      "James Watt",
-      "George Stephenson"
-    ],
+    "text": "Quelle invention permet d’écouter de la musique partout ?",
+    "answers": ["Radio", "Tourne-disque", "Lecteur MP3", "Télévision"],
     "correctIndex": 2
   },
   {
     "id": "q12",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé l'ampoule électrique pratique ?",
-    "answers": [
-      "Benjamin Franklin",
-      "Thomas Edison",
-      "Nikola Tesla",
-      "Alexander Graham Bell"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention sert à aspirer la poussière ?",
+    "answers": ["Balai", "Serpillière", "Ventilateur", "Aspirateur"],
+    "correctIndex": 3
   },
   {
     "id": "q13",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la dynamite ?",
-    "answers": [
-      "Alfred Nobel",
-      "Ascanio Sobrero",
-      "Robert Boyle",
-      "Michael Faraday"
-    ],
+    "text": "Quelle invention permet de voir l’heure sur un poignet ?",
+    "answers": ["Montre", "Horloge murale", "Réveil", "Chronomètre"],
     "correctIndex": 0
   },
   {
     "id": "q14",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur de l'Internet ?",
-    "answers": [
-      "Robert Kahn",
-      "Vint Cerf",
-      "Tim Berners-Lee",
-      "Bill Gates"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de naviguer sur Internet ?",
+    "answers": ["Télévision", "Ordinateur", "Radio", "Console"],
+    "correctIndex": 1
   },
   {
     "id": "q15",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du premier avion motorisé ?",
-    "answers": [
-      "Alberto Santos-Dumont",
-      "Les frères Wright",
-      "Clément Ader",
-      "Louis Blériot"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet de chauffer de la nourriture rapidement ?",
+    "answers": ["Four", "Plaque", "Micro-ondes", "Grill"],
+    "correctIndex": 2
   },
   {
     "id": "q16",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur de l'Internet ?",
-    "answers": [
-      "Robert Kahn",
-      "Tim Berners-Lee",
-      "Bill Gates",
-      "Vint Cerf"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention sert à écrire sur du papier ?",
+    "answers": ["Crayon", "Stylo", "Feutre", "Stylo bille"],
+    "correctIndex": 3
   },
   {
     "id": "q17",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la machine à vapeur moderne ?",
-    "answers": [
-      "Thomas Newcomen",
-      "Richard Trevithick",
-      "George Stephenson",
-      "James Watt"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de se déplacer sur l’eau ?",
+    "answers": ["Bateau", "Train", "Voiture", "Avion"],
+    "correctIndex": 0
   },
   {
     "id": "q18",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé le vaccin contre la rage ?",
-    "answers": [
-      "Louis Pasteur",
-      "Robert Koch",
-      "Edward Jenner",
-      "Alexander Fleming"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de se repérer grâce aux directions ?",
+    "answers": ["Carte", "Boussole", "Montre", "GPS"],
+    "correctIndex": 1
   },
   {
     "id": "q19",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la dynamite ?",
-    "answers": [
-      "Robert Boyle",
-      "Alfred Nobel",
-      "Michael Faraday",
-      "Ascanio Sobrero"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet d’écouter quelqu’un à distance ?",
+    "answers": ["Radio", "Télévision", "Téléphone", "Micro"],
+    "correctIndex": 2
   },
   {
     "id": "q20",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la machine à vapeur moderne ?",
-    "answers": [
-      "George Stephenson",
-      "Thomas Newcomen",
-      "Richard Trevithick",
-      "James Watt"
-    ],
+    "text": "Quelle invention sert à projeter des films ?",
+    "answers": ["Télévision", "Caméra", "Écran", "Projecteur"],
     "correctIndex": 3
   },
+
   {
     "id": "q21",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé l'ampoule électrique pratique ?",
-    "answers": [
-      "Nikola Tesla",
-      "Benjamin Franklin",
-      "Thomas Edison",
-      "Alexander Graham Bell"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de couper du bois ?",
+    "answers": ["Scie", "Marteau", "Clou", "Tournevis"],
+    "correctIndex": 0
   },
   {
     "id": "q22",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé l'imprimerie à caractères mobiles en Europe ?",
-    "answers": [
-      "Aldus Manutius",
-      "William Caxton",
-      "Laurens Janszoon Coster",
-      "Johannes Gutenberg"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de laver la vaisselle automatiquement ?",
+    "answers": ["Machine à laver", "Lave-vaisselle", "Aspirateur", "Four"],
+    "correctIndex": 1
   },
   {
     "id": "q23",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la dynamite ?",
-    "answers": [
-      "Robert Boyle",
-      "Ascanio Sobrero",
-      "Michael Faraday",
-      "Alfred Nobel"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de stocker des données numériques ?",
+    "answers": ["CD", "Disquette", "Clé USB", "DVD"],
+    "correctIndex": 2
   },
   {
     "id": "q24",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la dynamite ?",
-    "answers": [
-      "Robert Boyle",
-      "Alfred Nobel",
-      "Ascanio Sobrero",
-      "Michael Faraday"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention sert à faire du café ?",
+    "answers": ["Bouilloire", "Grille-pain", "Mixeur", "Machine à café"],
+    "correctIndex": 3
   },
   {
     "id": "q25",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé le vaccin contre la rage ?",
-    "answers": [
-      "Edward Jenner",
-      "Robert Koch",
-      "Alexander Fleming",
-      "Louis Pasteur"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de voir à distance ?",
+    "answers": ["Télescope", "Microscope", "Loupe", "Jumelles"],
+    "correctIndex": 0
   },
   {
     "id": "q26",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé l'imprimerie à caractères mobiles en Europe ?",
-    "answers": [
-      "Johannes Gutenberg",
-      "Laurens Janszoon Coster",
-      "William Caxton",
-      "Aldus Manutius"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de faire circuler l’air ?",
+    "answers": ["Radiateur", "Ventilateur", "Climatiseur", "Chauffage"],
+    "correctIndex": 1
   },
   {
     "id": "q27",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur de la pénicilline ?",
-    "answers": [
-      "Ernst Boris Chain",
-      "Louis Pasteur",
-      "Howard Florey",
-      "Alexander Fleming"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de se déplacer sans pédaler ?",
+    "answers": ["Vélo", "Trottinette", "Voiture", "Roller"],
+    "correctIndex": 2
   },
   {
     "id": "q28",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la machine à vapeur moderne ?",
-    "answers": [
-      "Thomas Newcomen",
-      "James Watt",
-      "Richard Trevithick",
-      "George Stephenson"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention sert à mesurer la température ?",
+    "answers": ["Baromètre", "Altimètre", "Hygromètre", "Thermomètre"],
+    "correctIndex": 3
   },
   {
     "id": "q29",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé l'ampoule électrique pratique ?",
-    "answers": [
-      "Nikola Tesla",
-      "Alexander Graham Bell",
-      "Benjamin Franklin",
-      "Thomas Edison"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de naviguer sur la mer ?",
+    "answers": ["Boussole", "Carte", "Radar", "GPS"],
+    "correctIndex": 0
   },
   {
     "id": "q30",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé le vaccin contre la rage ?",
-    "answers": [
-      "Louis Pasteur",
-      "Robert Koch",
-      "Edward Jenner",
-      "Alexander Fleming"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de taper du texte sur un écran ?",
+    "answers": ["Souris", "Clavier", "Écran", "Imprimante"],
+    "correctIndex": 1
   },
+
   {
     "id": "q31",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du téléphone ?",
-    "answers": [
-      "Elisha Gray",
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Antonio Meucci"
-    ],
+    "text": "Quelle invention permet de filmer des vidéos ?",
+    "answers": ["Appareil photo", "Projecteur", "Caméra", "Scanner"],
     "correctIndex": 2
   },
   {
     "id": "q32",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur de l'Internet ?",
-    "answers": [
-      "Tim Berners-Lee",
-      "Robert Kahn",
-      "Vint Cerf",
-      "Bill Gates"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention sert à maintenir les feuilles ensemble ?",
+    "answers": ["Colle", "Ruban", "Clou", "Agrafeuse"],
+    "correctIndex": 3
   },
   {
     "id": "q33",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du téléphone ?",
-    "answers": [
-      "Thomas Edison",
-      "Elisha Gray",
-      "Alexander Graham Bell",
-      "Antonio Meucci"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de se protéger de la pluie ?",
+    "answers": ["Parapluie", "Chapeau", "Manteau", "Casquette"],
+    "correctIndex": 0
   },
   {
     "id": "q34",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur de la pénicilline ?",
-    "answers": [
-      "Ernst Boris Chain",
-      "Alexander Fleming",
-      "Howard Florey",
-      "Louis Pasteur"
-    ],
+    "text": "Quelle invention permet de sécher les cheveux rapidement ?",
+    "answers": ["Ventilateur", "Sèche-cheveux", "Radiateur", "Climatiseur"],
     "correctIndex": 1
   },
   {
     "id": "q35",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la machine à vapeur moderne ?",
-    "answers": [
-      "George Stephenson",
-      "James Watt",
-      "Richard Trevithick",
-      "Thomas Newcomen"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet d’écouter de la musique sans fil ?",
+    "answers": ["Casque filaire", "Radio", "Enceinte Bluetooth", "Télévision"],
+    "correctIndex": 2
   },
   {
     "id": "q36",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé l'ampoule électrique pratique ?",
-    "answers": [
-      "Alexander Graham Bell",
-      "Benjamin Franklin",
-      "Thomas Edison",
-      "Nikola Tesla"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention sert à signaler un danger sonore ?",
+    "answers": ["Cloche", "Sifflet", "Klaxon", "Sirène"],
+    "correctIndex": 3
   },
   {
     "id": "q37",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé l'imprimerie à caractères mobiles en Europe ?",
-    "answers": [
-      "Johannes Gutenberg",
-      "Aldus Manutius",
-      "Laurens Janszoon Coster",
-      "William Caxton"
-    ],
+    "text": "Quelle invention permet de se déplacer sur des rails ?",
+    "answers": ["Train", "Bus", "Voiture", "Métro"],
     "correctIndex": 0
   },
   {
     "id": "q38",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé l'ampoule électrique pratique ?",
-    "answers": [
-      "Nikola Tesla",
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Benjamin Franklin"
-    ],
+    "text": "Quelle invention permet de chauffer une pièce ?",
+    "answers": ["Ventilateur", "Radiateur", "Climatiseur", "Congélateur"],
     "correctIndex": 1
   },
   {
     "id": "q39",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la machine à vapeur moderne ?",
-    "answers": [
-      "Thomas Newcomen",
-      "George Stephenson",
-      "James Watt",
-      "Richard Trevithick"
-    ],
+    "text": "Quelle invention permet de regarder des programmes à la maison ?",
+    "answers": ["Radio", "Ordinateur", "Télévision", "Téléphone"],
     "correctIndex": 2
   },
   {
     "id": "q40",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du téléphone ?",
-    "answers": [
-      "Antonio Meucci",
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Elisha Gray"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention sert à attacher des feuilles ?",
+    "answers": ["Ruban", "Colle", "Pince", "Trombone"],
+    "correctIndex": 3
   },
+
   {
     "id": "q41",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur de l'Internet ?",
-    "answers": [
-      "Vint Cerf",
-      "Bill Gates",
-      "Robert Kahn",
-      "Tim Berners-Lee"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de voir les étoiles de près ?",
+    "answers": ["Télescope", "Loupe", "Microscope", "Jumelles"],
+    "correctIndex": 0
   },
   {
     "id": "q42",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la dynamite ?",
-    "answers": [
-      "Robert Boyle",
-      "Ascanio Sobrero",
-      "Alfred Nobel",
-      "Michael Faraday"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de conserver les aliments très longtemps ?",
+    "answers": ["Réfrigérateur", "Congélateur", "Four", "Micro-ondes"],
+    "correctIndex": 1
   },
   {
     "id": "q43",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé le vaccin contre la rage ?",
-    "answers": [
-      "Alexander Fleming",
-      "Robert Koch",
-      "Louis Pasteur",
-      "Edward Jenner"
-    ],
+    "text": "Quelle invention permet de faire des calculs rapidement ?",
+    "answers": ["Table", "Livre", "Calculatrice", "Agenda"],
     "correctIndex": 2
   },
   {
     "id": "q44",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du téléphone ?",
-    "answers": [
-      "Alexander Graham Bell",
-      "Antonio Meucci",
-      "Elisha Gray",
-      "Thomas Edison"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention sert à se déplacer sous l’eau ?",
+    "answers": ["Bateau", "Jet-ski", "Sous-marin", "Planche"],
+    "correctIndex": 3
   },
   {
     "id": "q45",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur de la pénicilline ?",
-    "answers": [
-      "Louis Pasteur",
-      "Ernst Boris Chain",
-      "Alexander Fleming",
-      "Howard Florey"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de faire des copies papier ?",
+    "answers": ["Photocopieuse", "Scanner", "Fax", "Imprimante"],
+    "correctIndex": 0
   },
   {
     "id": "q46",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la dynamite ?",
-    "answers": [
-      "Alfred Nobel",
-      "Ascanio Sobrero",
-      "Robert Boyle",
-      "Michael Faraday"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de communiquer à distance par écrit ?",
+    "answers": ["Téléphone", "Lettre", "Radio", "Télévision"],
+    "correctIndex": 1
   },
   {
     "id": "q47",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé le vaccin contre la rage ?",
-    "answers": [
-      "Alexander Fleming",
-      "Robert Koch",
-      "Edward Jenner",
-      "Louis Pasteur"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de se déplacer sans conducteur ?",
+    "answers": ["Vélo", "Bus", "Voiture autonome", "Train"],
+    "correctIndex": 2
   },
   {
     "id": "q48",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé l'ampoule électrique pratique ?",
-    "answers": [
-      "Alexander Graham Bell",
-      "Thomas Edison",
-      "Benjamin Franklin",
-      "Nikola Tesla"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention sert à verrouiller une porte ?",
+    "answers": ["Poignée", "Charnière", "Loquet", "Serrure"],
+    "correctIndex": 3
   },
   {
     "id": "q49",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du téléphone ?",
-    "answers": [
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Elisha Gray",
-      "Antonio Meucci"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet de produire de l’électricité ?",
+    "answers": ["Générateur", "Batterie", "Ampoule", "Interrupteur"],
+    "correctIndex": 0
   },
   {
     "id": "q50",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé le téléphone portable ?",
-    "answers": [
-      "John Bardeen",
-      "Martin Cooper",
-      "Nikola Tesla",
-      "Steve Jobs"
-    ],
+    "text": "Quelle invention permet de recharger un appareil électronique ?",
+    "answers": ["Câble", "Chargeur", "Batterie", "Prise"],
     "correctIndex": 1
   },
   {
     "id": "q51",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé l'imprimerie à caractères mobiles en Europe ?",
-    "answers": [
-      "Aldus Manutius",
-      "Laurens Janszoon Coster",
-      "Johannes Gutenberg",
-      "William Caxton"
-    ],
+    "text": "Quelle invention permet de stocker des aliments secs à l’abri de l’air ?",
+    "answers": ["Sac", "Boîte", "Placard", "Bocal"],
     "correctIndex": 2
   },
   {
     "id": "q52",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé l'ampoule électrique pratique ?",
-    "answers": [
-      "Thomas Edison",
-      "Nikola Tesla",
-      "Alexander Graham Bell",
-      "Benjamin Franklin"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de mesurer une distance ?",
+    "answers": ["Balance", "Chronomètre", "Thermomètre", "Mètre"],
+    "correctIndex": 3
   },
   {
     "id": "q53",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé le téléphone portable ?",
-    "answers": [
-      "John Bardeen",
-      "Martin Cooper",
-      "Nikola Tesla",
-      "Steve Jobs"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet de monter ou descendre entre plusieurs étages ?",
+    "answers": ["Ascenseur", "Escalier", "Échelle", "Toboggan"],
+    "correctIndex": 0
   },
   {
     "id": "q54",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé l'ampoule électrique pratique ?",
-    "answers": [
-      "Benjamin Franklin",
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Nikola Tesla"
-    ],
+    "text": "Quelle invention permet de rafraîchir une pièce en été ?",
+    "answers": ["Radiateur", "Climatiseur", "Four", "Chauffage"],
     "correctIndex": 1
   },
   {
     "id": "q55",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur de l'Internet ?",
-    "answers": [
-      "Vint Cerf",
-      "Tim Berners-Lee",
-      "Bill Gates",
-      "Robert Kahn"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet d’ouvrir une bouteille sans la casser ?",
+    "answers": ["Couteau", "Clé", "Décapsuleur", "Tournevis"],
+    "correctIndex": 2
   },
   {
     "id": "q56",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la machine à vapeur moderne ?",
-    "answers": [
-      "James Watt",
-      "Richard Trevithick",
-      "Thomas Newcomen",
-      "George Stephenson"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de cuire du pain ?",
+    "answers": ["Plaque", "Micro-ondes", "Grill", "Four"],
+    "correctIndex": 3
   },
   {
     "id": "q57",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur de la pénicilline ?",
-    "answers": [
-      "Alexander Fleming",
-      "Howard Florey",
-      "Louis Pasteur",
-      "Ernst Boris Chain"
-    ],
+    "text": "Quelle invention permet de se déplacer à deux roues avec un moteur ?",
+    "answers": ["Moto", "Vélo", "Trottinette", "Roller"],
     "correctIndex": 0
   },
   {
     "id": "q58",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du téléphone ?",
-    "answers": [
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Elisha Gray",
-      "Antonio Meucci"
-    ],
+    "text": "Quelle invention permet d’afficher des images sur un mur ?",
+    "answers": ["Télévision", "Vidéoprojecteur", "Écran", "Moniteur"],
     "correctIndex": 1
   },
   {
     "id": "q59",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé le téléphone portable ?",
-    "answers": [
-      "John Bardeen",
-      "Nikola Tesla",
-      "Steve Jobs",
-      "Martin Cooper"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de faire des trous dans le bois ?",
+    "answers": ["Scie", "Marteau", "Perceuse", "Clou"],
+    "correctIndex": 2
   },
   {
     "id": "q60",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du téléphone ?",
-    "answers": [
-      "Alexander Graham Bell",
-      "Antonio Meucci",
-      "Thomas Edison",
-      "Elisha Gray"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention sert à peser des objets ?",
+    "answers": ["Mètre", "Chronomètre", "Thermomètre", "Balance"],
+    "correctIndex": 3
   },
+
   {
     "id": "q61",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé l'imprimerie à caractères mobiles en Europe ?",
-    "answers": [
-      "William Caxton",
-      "Aldus Manutius",
-      "Johannes Gutenberg",
-      "Laurens Janszoon Coster"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet d’écrire sans encre ?",
+    "answers": ["Crayon", "Stylo", "Feutre", "Marqueur"],
+    "correctIndex": 0
   },
   {
     "id": "q62",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé le téléphone portable ?",
-    "answers": [
-      "Martin Cooper",
-      "John Bardeen",
-      "Nikola Tesla",
-      "Steve Jobs"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de protéger la tête à vélo ?",
+    "answers": ["Casquette", "Casque", "Bonnet", "Chapeau"],
+    "correctIndex": 1
   },
   {
     "id": "q63",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la dynamite ?",
-    "answers": [
-      "Robert Boyle",
-      "Alfred Nobel",
-      "Michael Faraday",
-      "Ascanio Sobrero"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet de prendre l’air en hauteur dans un bâtiment ?",
+    "answers": ["Balcon", "Fenêtre", "Ascenseur", "Escalier"],
+    "correctIndex": 2
   },
   {
     "id": "q64",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé l'imprimerie à caractères mobiles en Europe ?",
-    "answers": [
-      "William Caxton",
-      "Johannes Gutenberg",
-      "Laurens Janszoon Coster",
-      "Aldus Manutius"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet de couper du tissu proprement ?",
+    "answers": ["Couteau", "Règle", "Cutter", "Ciseaux"],
+    "correctIndex": 3
   },
   {
     "id": "q65",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la dynamite ?",
-    "answers": [
-      "Ascanio Sobrero",
-      "Robert Boyle",
-      "Alfred Nobel",
-      "Michael Faraday"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de lire dans l’obscurité ?",
+    "answers": ["Lampe", "Bougie", "Torche", "Phare"],
+    "correctIndex": 0
   },
   {
     "id": "q66",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la dynamite ?",
-    "answers": [
-      "Michael Faraday",
-      "Ascanio Sobrero",
-      "Robert Boyle",
-      "Alfred Nobel"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de regarder des films chez soi ?",
+    "answers": ["Radio", "Télévision", "Téléphone", "Caméra"],
+    "correctIndex": 1
   },
   {
     "id": "q67",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la machine à vapeur moderne ?",
-    "answers": [
-      "James Watt",
-      "Richard Trevithick",
-      "George Stephenson",
-      "Thomas Newcomen"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de conserver des boissons froides en déplacement ?",
+    "answers": ["Sac", "Glacière", "Bouteille", "Thermos"],
+    "correctIndex": 2
   },
   {
     "id": "q68",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé le vaccin contre la rage ?",
-    "answers": [
-      "Edward Jenner",
-      "Louis Pasteur",
-      "Alexander Fleming",
-      "Robert Koch"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention sert à sécher le linge rapidement ?",
+    "answers": ["Machine à laver", "Radiateur", "Ventilateur", "Sèche-linge"],
+    "correctIndex": 3
   },
   {
     "id": "q69",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la machine à vapeur moderne ?",
-    "answers": [
-      "Thomas Newcomen",
-      "Richard Trevithick",
-      "George Stephenson",
-      "James Watt"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de transporter des objets lourds sur roues ?",
+    "answers": ["Chariot", "Sac", "Caisse", "Panier"],
+    "correctIndex": 0
   },
   {
     "id": "q70",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du premier avion motorisé ?",
-    "answers": [
-      "Alberto Santos-Dumont",
-      "Clément Ader",
-      "Louis Blériot",
-      "Les frères Wright"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet d’afficher l’heure sur un mur ?",
+    "answers": ["Montre", "Horloge murale", "Réveil", "Chronomètre"],
+    "correctIndex": 1
   },
+
   {
     "id": "q71",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé le téléphone portable ?",
-    "answers": [
-      "John Bardeen",
-      "Nikola Tesla",
-      "Martin Cooper",
-      "Steve Jobs"
-    ],
+    "text": "Quelle invention permet de nettoyer le sol sans se pencher ?",
+    "answers": ["Balai", "Serpillière", "Aspirateur", "Brosse"],
     "correctIndex": 2
   },
   {
     "id": "q72",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du premier avion motorisé ?",
-    "answers": [
-      "Alberto Santos-Dumont",
-      "Les frères Wright",
-      "Clément Ader",
-      "Louis Blériot"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet de verrouiller un vélo ?",
+    "answers": ["Chaîne", "Clé", "Cadenas", "Serrure"],
+    "correctIndex": 3
   },
   {
     "id": "q73",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé le vaccin contre la rage ?",
-    "answers": [
-      "Robert Koch",
-      "Edward Jenner",
-      "Louis Pasteur",
-      "Alexander Fleming"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de s’asseoir confortablement ?",
+    "answers": ["Chaise", "Table", "Lit", "Tabouret"],
+    "correctIndex": 0
   },
   {
     "id": "q74",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé l'imprimerie à caractères mobiles en Europe ?",
-    "answers": [
-      "William Caxton",
-      "Aldus Manutius",
-      "Laurens Janszoon Coster",
-      "Johannes Gutenberg"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de dormir confortablement la nuit ?",
+    "answers": ["Canapé", "Matelas", "Fauteuil", "Chaise"],
+    "correctIndex": 1
   },
   {
     "id": "q75",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé l'ampoule électrique pratique ?",
-    "answers": [
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Nikola Tesla",
-      "Benjamin Franklin"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de couper l’électricité ?",
+    "answers": ["Prise", "Câble", "Interrupteur", "Ampoule"],
+    "correctIndex": 2
   },
   {
     "id": "q76",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé le vaccin contre la rage ?",
-    "answers": [
-      "Robert Koch",
-      "Louis Pasteur",
-      "Alexander Fleming",
-      "Edward Jenner"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention sert à écouter quelqu’un sans être vu ?",
+    "answers": ["Micro", "Radio", "Caméra", "Interphone"],
+    "correctIndex": 3
   },
   {
     "id": "q77",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé le vaccin contre la rage ?",
-    "answers": [
-      "Edward Jenner",
-      "Alexander Fleming",
-      "Robert Koch",
-      "Louis Pasteur"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de ranger des vêtements ?",
+    "answers": ["Armoire", "Table", "Bureau", "Étagère"],
+    "correctIndex": 0
   },
   {
     "id": "q78",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé le téléphone portable ?",
-    "answers": [
-      "Nikola Tesla",
-      "Martin Cooper",
-      "John Bardeen",
-      "Steve Jobs"
-    ],
+    "text": "Quelle invention permet de mesurer la durée d’un événement sportif ?",
+    "answers": ["Montre", "Chronomètre", "Horloge", "Minuteur"],
     "correctIndex": 1
   },
   {
     "id": "q79",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du téléphone ?",
-    "answers": [
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Antonio Meucci",
-      "Elisha Gray"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet de faire bouillir de l’eau rapidement ?",
+    "answers": ["Casserole", "Four", "Bouilloire", "Micro-ondes"],
+    "correctIndex": 2
   },
   {
     "id": "q80",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la machine à vapeur moderne ?",
-    "answers": [
-      "Richard Trevithick",
-      "James Watt",
-      "George Stephenson",
-      "Thomas Newcomen"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention sert à transporter des passagers en ville sur rails ?",
+    "answers": ["Bus", "Tramway", "Taxi", "Vélo"],
+    "correctIndex": 3
   },
+
   {
     "id": "q81",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur de la pénicilline ?",
-    "answers": [
-      "Alexander Fleming",
-      "Ernst Boris Chain",
-      "Louis Pasteur",
-      "Howard Florey"
-    ],
+    "text": "Quelle invention permet de faire des notes écrites rapidement ?",
+    "answers": ["Carnet", "Livre", "Agenda", "Dictionnaire"],
     "correctIndex": 0
   },
   {
     "id": "q82",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la machine à vapeur moderne ?",
-    "answers": [
-      "Thomas Newcomen",
-      "George Stephenson",
-      "James Watt",
-      "Richard Trevithick"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet d’écouter la radio dans une voiture ?",
+    "answers": ["Télévision", "Autoradio", "Téléphone", "GPS"],
+    "correctIndex": 1
   },
   {
     "id": "q83",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé le vaccin contre la rage ?",
-    "answers": [
-      "Edward Jenner",
-      "Robert Koch",
-      "Louis Pasteur",
-      "Alexander Fleming"
-    ],
+    "text": "Quelle invention permet de stocker de l’énergie électrique ?",
+    "answers": ["Ampoule", "Câble", "Batterie", "Prise"],
     "correctIndex": 2
   },
   {
     "id": "q84",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur de l'Internet ?",
-    "answers": [
-      "Robert Kahn",
-      "Vint Cerf",
-      "Tim Berners-Lee",
-      "Bill Gates"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention sert à voir derrière soi en voiture ?",
+    "answers": ["Fenêtre", "Volant", "Pédale", "Rétroviseur"],
+    "correctIndex": 3
   },
   {
     "id": "q85",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé l'ampoule électrique pratique ?",
-    "answers": [
-      "Benjamin Franklin",
-      "Alexander Graham Bell",
-      "Nikola Tesla",
-      "Thomas Edison"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de nettoyer les dents ?",
+    "answers": ["Brosse à dents", "Savon", "Peigne", "Serviette"],
+    "correctIndex": 0
   },
   {
     "id": "q86",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé l'ampoule électrique pratique ?",
-    "answers": [
-      "Benjamin Franklin",
-      "Alexander Graham Bell",
-      "Thomas Edison",
-      "Nikola Tesla"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de passer des appels vidéo ?",
+    "answers": ["Radio", "Smartphone", "Télévision", "Appareil photo"],
+    "correctIndex": 1
   },
   {
     "id": "q87",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la dynamite ?",
-    "answers": [
-      "Alfred Nobel",
-      "Robert Boyle",
-      "Michael Faraday",
-      "Ascanio Sobrero"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de mesurer la pression atmosphérique ?",
+    "answers": ["Thermomètre", "Altimètre", "Baromètre", "Hygromètre"],
+    "correctIndex": 2
   },
   {
     "id": "q88",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé l'ampoule électrique pratique ?",
-    "answers": [
-      "Nikola Tesla",
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Benjamin Franklin"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention sert à maintenir une porte fermée ?",
+    "answers": ["Poignée", "Charnière", "Clé", "Verrou"],
+    "correctIndex": 3
   },
   {
     "id": "q89",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé le vaccin contre la rage ?",
-    "answers": [
-      "Edward Jenner",
-      "Robert Koch",
-      "Alexander Fleming",
-      "Louis Pasteur"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de voir des détails minuscules ?",
+    "answers": ["Microscope", "Jumelles", "Télescope", "Loupe"],
+    "correctIndex": 0
   },
   {
     "id": "q90",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur de la pénicilline ?",
-    "answers": [
-      "Howard Florey",
-      "Louis Pasteur",
-      "Ernst Boris Chain",
-      "Alexander Fleming"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de faire des courses plus facilement ?",
+    "answers": ["Sac", "Chariot", "Panier", "Caddie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q91",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du premier avion motorisé ?",
-    "answers": [
-      "Louis Blériot",
-      "Clément Ader",
-      "Les frères Wright",
-      "Alberto Santos-Dumont"
-    ],
+    "text": "Quelle invention permet d’ouvrir une porte à distance ?",
+    "answers": ["Clé", "Poignée", "Télécommande", "Serrure"],
     "correctIndex": 2
   },
   {
     "id": "q92",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé l'ampoule électrique pratique ?",
-    "answers": [
-      "Benjamin Franklin",
-      "Nikola Tesla",
-      "Thomas Edison",
-      "Alexander Graham Bell"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention sert à diffuser de la musique dans une pièce ?",
+    "answers": ["Casque", "Radio", "Téléphone", "Enceinte"],
+    "correctIndex": 3
   },
   {
     "id": "q93",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur de la pénicilline ?",
-    "answers": [
-      "Ernst Boris Chain",
-      "Alexander Fleming",
-      "Howard Florey",
-      "Louis Pasteur"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet de garder les mains libres en appel ?",
+    "answers": ["Oreillette", "Téléphone", "Micro", "Radio"],
+    "correctIndex": 0
   },
   {
     "id": "q94",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du premier avion motorisé ?",
-    "answers": [
-      "Alberto Santos-Dumont",
-      "Les frères Wright",
-      "Clément Ader",
-      "Louis Blériot"
-    ],
+    "text": "Quelle invention permet de chauffer de l’eau instantanément ?",
+    "answers": ["Four", "Chauffe-eau", "Plaque", "Radiateur"],
     "correctIndex": 1
   },
   {
     "id": "q95",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du téléphone ?",
-    "answers": [
-      "Thomas Edison",
-      "Elisha Gray",
-      "Antonio Meucci",
-      "Alexander Graham Bell"
-    ],
+    "text": "Quelle invention permet de se déplacer dans les airs ?",
+    "answers": ["Hélicoptère", "Bateau", "Train", "Avion"],
     "correctIndex": 3
   },
   {
     "id": "q96",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du premier avion motorisé ?",
-    "answers": [
-      "Alberto Santos-Dumont",
-      "Louis Blériot",
-      "Clément Ader",
-      "Les frères Wright"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention sert à protéger les yeux du soleil ?",
+    "answers": ["Casquette", "Masque", "Lunettes de soleil", "Chapeau"],
+    "correctIndex": 2
   },
   {
     "id": "q97",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé l'imprimerie à caractères mobiles en Europe ?",
-    "answers": [
-      "Johannes Gutenberg",
-      "Laurens Janszoon Coster",
-      "Aldus Manutius",
-      "William Caxton"
-    ],
+    "text": "Quelle invention permet de ranger des livres ?",
+    "answers": ["Bibliothèque", "Table", "Armoire", "Commode"],
     "correctIndex": 0
   },
   {
     "id": "q98",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la dynamite ?",
-    "answers": [
-      "Robert Boyle",
-      "Michael Faraday",
-      "Ascanio Sobrero",
-      "Alfred Nobel"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet d’enregistrer de la musique ?",
+    "answers": ["Radio", "Enregistreur", "Enceinte", "Télévision"],
+    "correctIndex": 1
   },
   {
     "id": "q99",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur de l'Internet ?",
-    "answers": [
-      "Tim Berners-Lee",
-      "Vint Cerf",
-      "Robert Kahn",
-      "Bill Gates"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de produire de la lumière portable ?",
+    "answers": ["Lampe", "Ampoule", "Batterie", "Torche"],
+    "correctIndex": 3
   },
   {
     "id": "q100",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur de la pénicilline ?",
-    "answers": [
-      "Howard Florey",
-      "Alexander Fleming",
-      "Louis Pasteur",
-      "Ernst Boris Chain"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet de vérifier l’heure sans bruit ?",
+    "answers": ["Montre digitale", "Horloge murale", "Réveil", "Minuteur"],
+    "correctIndex": 0
   },
   {
     "id": "q101",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la dynamite ?",
-    "answers": [
-      "Alfred Nobel",
-      "Ascanio Sobrero",
-      "Michael Faraday",
-      "Robert Boyle"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet d’ouvrir automatiquement une porte de garage ?",
+    "answers": ["Clé", "Télécommande", "Poignée", "Serrure"],
+    "correctIndex": 1
   },
   {
     "id": "q102",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la machine à vapeur moderne ?",
-    "answers": [
-      "Richard Trevithick",
-      "James Watt",
-      "George Stephenson",
-      "Thomas Newcomen"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet de mesurer la vitesse d’un véhicule ?",
+    "answers": ["Boussole", "Altimètre", "Compteur de vitesse", "Chronomètre"],
+    "correctIndex": 2
   },
   {
     "id": "q103",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la machine à vapeur moderne ?",
-    "answers": [
-      "Richard Trevithick",
-      "James Watt",
-      "Thomas Newcomen",
-      "George Stephenson"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention sert à projeter de la lumière loin devant ?",
+    "answers": ["Lampe", "Ampoule", "Torche", "Phare"],
+    "correctIndex": 3
   },
   {
     "id": "q104",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé l'imprimerie à caractères mobiles en Europe ?",
-    "answers": [
-      "William Caxton",
-      "Laurens Janszoon Coster",
-      "Johannes Gutenberg",
-      "Aldus Manutius"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de stocker des vêtements pliés ?",
+    "answers": ["Commode", "Table", "Bureau", "Étagère"],
+    "correctIndex": 0
   },
   {
     "id": "q105",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la machine à vapeur moderne ?",
-    "answers": [
-      "James Watt",
-      "Thomas Newcomen",
-      "Richard Trevithick",
-      "George Stephenson"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet d’afficher des informations routières en voiture ?",
+    "answers": ["Radio", "GPS", "Télévision", "Téléphone"],
+    "correctIndex": 1
   },
   {
     "id": "q106",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du téléphone ?",
-    "answers": [
-      "Alexander Graham Bell",
-      "Thomas Edison",
-      "Antonio Meucci",
-      "Elisha Gray"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de conserver des documents numériquement ?",
+    "answers": ["Livre", "Disque dur", "Carnet", "Agenda"],
+    "correctIndex": 2
   },
   {
     "id": "q107",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur de la pénicilline ?",
-    "answers": [
-      "Louis Pasteur",
-      "Howard Florey",
-      "Alexander Fleming",
-      "Ernst Boris Chain"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention sert à empêcher une porte de claquer ?",
+    "answers": ["Poignée", "Charnière", "Verrou", "Butée de porte"],
+    "correctIndex": 3
   },
   {
     "id": "q108",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé l'imprimerie à caractères mobiles en Europe ?",
-    "answers": [
-      "William Caxton",
-      "Johannes Gutenberg",
-      "Aldus Manutius",
-      "Laurens Janszoon Coster"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet de ranger des chaussures ?",
+    "answers": ["Meuble à chaussures", "Armoire", "Placard", "Commode"],
+    "correctIndex": 0
   },
   {
     "id": "q109",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé le téléphone portable ?",
-    "answers": [
-      "Martin Cooper",
-      "John Bardeen",
-      "Nikola Tesla",
-      "Steve Jobs"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de se réveiller à une heure précise ?",
+    "answers": ["Montre", "Réveil", "Horloge", "Minuteur"],
+    "correctIndex": 1
   },
   {
     "id": "q110",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la dynamite ?",
-    "answers": [
-      "Robert Boyle",
-      "Ascanio Sobrero",
-      "Alfred Nobel",
-      "Michael Faraday"
-    ],
+    "text": "Quelle invention permet de faire des appels depuis un poignet ?",
+    "answers": ["Téléphone", "Tablette", "Montre connectée", "Casque"],
     "correctIndex": 2
   },
+
   {
     "id": "q111",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du téléphone ?",
-    "answers": [
-      "Thomas Edison",
-      "Antonio Meucci",
-      "Alexander Graham Bell",
-      "Elisha Gray"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention sert à bloquer les roues d’une voiture à l’arrêt ?",
+    "answers": ["Frein à main", "Pédale", "Volant", "Ceinture"],
+    "correctIndex": 3
   },
   {
     "id": "q112",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la dynamite ?",
-    "answers": [
-      "Robert Boyle",
-      "Ascanio Sobrero",
-      "Alfred Nobel",
-      "Michael Faraday"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de ranger des aliments dans une cuisine ?",
+    "answers": ["Placard", "Table", "Évier", "Four"],
+    "correctIndex": 0
   },
   {
     "id": "q113",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur de l'Internet ?",
-    "answers": [
-      "Bill Gates",
-      "Robert Kahn",
-      "Vint Cerf",
-      "Tim Berners-Lee"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de nettoyer les vitres sans effort ?",
+    "answers": ["Balai", "Raclette", "Aspirateur", "Serpillière"],
+    "correctIndex": 1
   },
   {
     "id": "q114",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé le vaccin contre la rage ?",
-    "answers": [
-      "Robert Koch",
-      "Louis Pasteur",
-      "Alexander Fleming",
-      "Edward Jenner"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet d’écouter de la musique sans haut-parleurs visibles ?",
+    "answers": ["Radio", "Télévision", "Casque audio", "Chaîne hi-fi"],
+    "correctIndex": 2
   },
   {
     "id": "q115",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du premier avion motorisé ?",
-    "answers": [
-      "Louis Blériot",
-      "Les frères Wright",
-      "Clément Ader",
-      "Alberto Santos-Dumont"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention sert à bloquer la lumière d’une fenêtre ?",
+    "answers": ["Rideau", "Vitre", "Store", "Volet"],
+    "correctIndex": 3
   },
   {
     "id": "q116",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur de la pénicilline ?",
-    "answers": [
-      "Alexander Fleming",
-      "Howard Florey",
-      "Louis Pasteur",
-      "Ernst Boris Chain"
-    ],
+    "text": "Quelle invention permet de poser un ordinateur portable ?",
+    "answers": ["Bureau", "Chaise", "Canapé", "Lit"],
     "correctIndex": 0
   },
   {
     "id": "q117",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé le téléphone portable ?",
-    "answers": [
-      "Steve Jobs",
-      "John Bardeen",
-      "Martin Cooper",
-      "Nikola Tesla"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet d’imprimer des photos à la maison ?",
+    "answers": ["Scanner", "Imprimante photo", "Caméra", "Écran"],
+    "correctIndex": 1
   },
   {
     "id": "q118",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du premier avion motorisé ?",
-    "answers": [
-      "Les frères Wright",
-      "Louis Blériot",
-      "Alberto Santos-Dumont",
-      "Clément Ader"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de protéger un appareil contre les surtensions ?",
+    "answers": ["Batterie", "Onduleur", "Câble", "Prise"],
+    "correctIndex": 2
   },
   {
     "id": "q119",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur de la pénicilline ?",
-    "answers": [
-      "Alexander Fleming",
-      "Howard Florey",
-      "Ernst Boris Chain",
-      "Louis Pasteur"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention sert à diffuser de l’eau pour arroser un jardin ?",
+    "answers": ["Arrosoir", "Seau", "Pulvérisateur", "Arroseur"],
+    "correctIndex": 3
   },
   {
     "id": "q120",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé le vaccin contre la rage ?",
-    "answers": [
-      "Louis Pasteur",
-      "Edward Jenner",
-      "Robert Koch",
-      "Alexander Fleming"
-    ],
+    "text": "Quelle invention permet de s’asseoir à plusieurs autour d’une table ?",
+    "answers": ["Banc", "Tabouret", "Fauteuil", "Canapé"],
     "correctIndex": 0
   },
+
   {
     "id": "q121",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du premier avion motorisé ?",
-    "answers": [
-      "Les frères Wright",
-      "Clément Ader",
-      "Louis Blériot",
-      "Alberto Santos-Dumont"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de rafraîchir une boisson en été ?",
+    "answers": ["Congélateur", "Glace", "Réfrigérateur", "Thermos"],
+    "correctIndex": 1
   },
   {
     "id": "q122",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du premier avion motorisé ?",
-    "answers": [
-      "Clément Ader",
-      "Alberto Santos-Dumont",
-      "Louis Blériot",
-      "Les frères Wright"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de compter automatiquement de l’argent ?",
+    "answers": ["Caisse", "Portefeuille", "Compteur de billets", "Carte bancaire"],
+    "correctIndex": 2
   },
   {
     "id": "q123",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la machine à vapeur moderne ?",
-    "answers": [
-      "James Watt",
-      "George Stephenson",
-      "Thomas Newcomen",
-      "Richard Trevithick"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention sert à sécher les mains dans des toilettes publiques ?",
+    "answers": ["Serviette", "Papier", "Ventilateur", "Sèche-mains"],
+    "correctIndex": 3
   },
   {
     "id": "q124",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la dynamite ?",
-    "answers": [
-      "Ascanio Sobrero",
-      "Alfred Nobel",
-      "Robert Boyle",
-      "Michael Faraday"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet de conserver des souvenirs écrits ?",
+    "answers": ["Journal intime", "Agenda", "Livre", "Magazine"],
+    "correctIndex": 0
   },
   {
     "id": "q125",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du premier avion motorisé ?",
-    "answers": [
-      "Clément Ader",
-      "Louis Blériot",
-      "Alberto Santos-Dumont",
-      "Les frères Wright"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de chauffer une boisson rapidement ?",
+    "answers": ["Casserole", "Bouilloire électrique", "Four", "Grill"],
+    "correctIndex": 1
   },
   {
     "id": "q126",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du téléphone ?",
-    "answers": [
-      "Antonio Meucci",
-      "Elisha Gray",
-      "Thomas Edison",
-      "Alexander Graham Bell"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de déplacer des charges lourdes verticalement ?",
+    "answers": ["Escalier", "Rampe", "Monte-charge", "Échelle"],
+    "correctIndex": 2
   },
   {
     "id": "q127",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur de la pénicilline ?",
-    "answers": [
-      "Louis Pasteur",
-      "Ernst Boris Chain",
-      "Howard Florey",
-      "Alexander Fleming"
-    ],
+    "text": "Quelle invention sert à couper l’herbe dans un jardin ?",
+    "answers": ["Râteau", "Bêche", "Sécateur", "Tondeuse"],
     "correctIndex": 3
   },
   {
     "id": "q128",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé le téléphone portable ?",
-    "answers": [
-      "Martin Cooper",
-      "John Bardeen",
-      "Nikola Tesla",
-      "Steve Jobs"
-    ],
+    "text": "Quelle invention permet de ranger des outils ?",
+    "answers": ["Boîte à outils", "Sac", "Carton", "Panier"],
     "correctIndex": 0
   },
   {
     "id": "q129",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur de l'Internet ?",
-    "answers": [
-      "Robert Kahn",
-      "Tim Berners-Lee",
-      "Bill Gates",
-      "Vint Cerf"
-    ],
+    "text": "Quelle invention permet de se protéger du bruit ?",
+    "answers": ["Casque audio", "Bouchons d’oreilles", "Micro", "Enceinte"],
     "correctIndex": 1
   },
   {
     "id": "q130",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la dynamite ?",
-    "answers": [
-      "Ascanio Sobrero",
-      "Michael Faraday",
-      "Alfred Nobel",
-      "Robert Boyle"
-    ],
+    "text": "Quelle invention permet de payer sans argent liquide ?",
+    "answers": ["Chèque", "Espèces", "Carte bancaire", "Ticket"],
     "correctIndex": 2
   },
+
   {
     "id": "q131",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du téléphone ?",
-    "answers": [
-      "Alexander Graham Bell",
-      "Elisha Gray",
-      "Thomas Edison",
-      "Antonio Meucci"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention sert à ouvrir une boîte de conserve ?",
+    "answers": ["Couteau", "Fourchette", "Ciseaux", "Ouvre-boîte"],
+    "correctIndex": 3
   },
   {
     "id": "q132",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la machine à vapeur moderne ?",
-    "answers": [
-      "Richard Trevithick",
-      "Thomas Newcomen",
-      "George Stephenson",
-      "James Watt"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de ranger des papiers importants ?",
+    "answers": ["Classeur", "Table", "Boîte", "Sac"],
+    "correctIndex": 0
   },
   {
     "id": "q133",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur de la pénicilline ?",
-    "answers": [
-      "Howard Florey",
-      "Louis Pasteur",
-      "Alexander Fleming",
-      "Ernst Boris Chain"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de visualiser des cartes routières ?",
+    "answers": ["Radio", "GPS", "Montre", "Caméra"],
+    "correctIndex": 1
   },
   {
     "id": "q134",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du premier avion motorisé ?",
-    "answers": [
-      "Alberto Santos-Dumont",
-      "Louis Blériot",
-      "Clément Ader",
-      "Les frères Wright"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de mesurer l’humidité de l’air ?",
+    "answers": ["Thermomètre", "Baromètre", "Hygromètre", "Altimètre"],
+    "correctIndex": 2
   },
   {
     "id": "q135",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé le vaccin contre la rage ?",
-    "answers": [
-      "Alexander Fleming",
-      "Robert Koch",
-      "Louis Pasteur",
-      "Edward Jenner"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention sert à maintenir un pantalon ?",
+    "answers": ["Bretelles", "Bouton", "Fermeture", "Ceinture"],
+    "correctIndex": 3
   },
   {
     "id": "q136",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur de la pénicilline ?",
-    "answers": [
-      "Alexander Fleming",
-      "Louis Pasteur",
-      "Ernst Boris Chain",
-      "Howard Florey"
-    ],
+    "text": "Quelle invention permet de conserver des boissons chaudes ?",
+    "answers": ["Thermos", "Tasse", "Bouilloire", "Bouteille"],
     "correctIndex": 0
   },
   {
     "id": "q137",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé le téléphone portable ?",
-    "answers": [
-      "Steve Jobs",
-      "Nikola Tesla",
-      "Martin Cooper",
-      "John Bardeen"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet d’ouvrir et fermer des rideaux à distance ?",
+    "answers": ["Manivelle", "Télécommande", "Poignée", "Câble"],
+    "correctIndex": 1
   },
   {
     "id": "q138",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du premier avion motorisé ?",
-    "answers": [
-      "Clément Ader",
-      "Louis Blériot",
-      "Les frères Wright",
-      "Alberto Santos-Dumont"
-    ],
+    "text": "Quelle invention permet de couper des aliments finement ?",
+    "answers": ["Four", "Mixeur", "Plaque", "Grill"],
     "correctIndex": 2
   },
   {
     "id": "q139",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé l'imprimerie à caractères mobiles en Europe ?",
-    "answers": [
-      "Aldus Manutius",
-      "Johannes Gutenberg",
-      "William Caxton",
-      "Laurens Janszoon Coster"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention sert à signaler une arrivée à vélo ?",
+    "answers": ["Phare", "Casque", "Gilet", "Sonnette"],
+    "correctIndex": 3
   },
   {
     "id": "q140",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur de la pénicilline ?",
-    "answers": [
-      "Louis Pasteur",
-      "Alexander Fleming",
-      "Ernst Boris Chain",
-      "Howard Florey"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet de protéger un smartphone ?",
+    "answers": ["Coque", "Chargeur", "Écran", "Batterie"],
+    "correctIndex": 0
   },
+
   {
     "id": "q141",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du téléphone ?",
-    "answers": [
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Elisha Gray",
-      "Antonio Meucci"
-    ],
+    "text": "Quelle invention permet de partager Internet sans fil ?",
+    "answers": ["Câble", "Routeur Wi-Fi", "Antenne", "Modem"],
     "correctIndex": 1
   },
   {
     "id": "q142",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la dynamite ?",
-    "answers": [
-      "Alfred Nobel",
-      "Michael Faraday",
-      "Robert Boyle",
-      "Ascanio Sobrero"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de mesurer la distance parcourue à pied ?",
+    "answers": ["Boussole", "Carte", "Podomètre", "Chronomètre"],
+    "correctIndex": 2
   },
   {
     "id": "q143",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du téléphone ?",
-    "answers": [
-      "Alexander Graham Bell",
-      "Thomas Edison",
-      "Antonio Meucci",
-      "Elisha Gray"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention sert à verrouiller une valise ?",
+    "answers": ["Fermeture", "Bouton", "Charnière", "Cadenas"],
+    "correctIndex": 3
   },
   {
     "id": "q144",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé le vaccin contre la rage ?",
-    "answers": [
-      "Edward Jenner",
-      "Louis Pasteur",
-      "Alexander Fleming",
-      "Robert Koch"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet de garder une boisson froide longtemps ?",
+    "answers": ["Glacière", "Bouteille", "Thermos", "Verre"],
+    "correctIndex": 0
   },
   {
     "id": "q145",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé le vaccin contre la rage ?",
-    "answers": [
-      "Louis Pasteur",
-      "Edward Jenner",
-      "Robert Koch",
-      "Alexander Fleming"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet d’indiquer une direction sur la route ?",
+    "answers": ["Panneau", "Clignotant", "Feu", "Radar"],
+    "correctIndex": 1
   },
   {
     "id": "q146",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du téléphone ?",
-    "answers": [
-      "Thomas Edison",
-      "Elisha Gray",
-      "Antonio Meucci",
-      "Alexander Graham Bell"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de lire des livres sans papier ?",
+    "answers": ["Tablette", "Télévision", "Liseuse électronique", "Ordinateur"],
+    "correctIndex": 2
   },
   {
     "id": "q147",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé l'imprimerie à caractères mobiles en Europe ?",
-    "answers": [
-      "Aldus Manutius",
-      "Johannes Gutenberg",
-      "Laurens Janszoon Coster",
-      "William Caxton"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention sert à gonfler un pneu ?",
+    "answers": ["Compresseur", "Valve", "Piston", "Pompe"],
+    "correctIndex": 3
   },
   {
     "id": "q148",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé l'ampoule électrique pratique ?",
-    "answers": [
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Benjamin Franklin",
-      "Nikola Tesla"
-    ],
+    "text": "Quelle invention permet de maintenir une feuille sur un tableau ?",
+    "answers": ["Aimant", "Clou", "Ruban", "Agrafe"],
     "correctIndex": 0
   },
   {
     "id": "q149",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé le vaccin contre la rage ?",
-    "answers": [
-      "Robert Koch",
-      "Alexander Fleming",
-      "Louis Pasteur",
-      "Edward Jenner"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet d’écouter une personne à distance ?",
+    "answers": ["Radio", "Téléphone", "Caméra", "Micro"],
+    "correctIndex": 1
   },
   {
     "id": "q150",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la machine à vapeur moderne ?",
-    "answers": [
-      "Richard Trevithick",
-      "George Stephenson",
-      "James Watt",
-      "Thomas Newcomen"
-    ],
+    "text": "Quelle invention permet de sécuriser un bâtiment contre les intrusions ?",
+    "answers": ["Clé", "Porte", "Alarme", "Fenêtre"],
     "correctIndex": 2
   },
   {
     "id": "q151",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du premier avion motorisé ?",
-    "answers": [
-      "Les frères Wright",
-      "Alberto Santos-Dumont",
-      "Louis Blériot",
-      "Clément Ader"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention sert à diffuser une odeur agréable dans une pièce ?",
+    "answers": ["Bougie", "Parfum", "Encens", "Diffuseur"],
+    "correctIndex": 3
   },
   {
     "id": "q152",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé l'imprimerie à caractères mobiles en Europe ?",
-    "answers": [
-      "William Caxton",
-      "Johannes Gutenberg",
-      "Aldus Manutius",
-      "Laurens Janszoon Coster"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet de transporter des aliments au chaud ?",
+    "answers": ["Boîte isotherme", "Sac", "Carton", "Panier"],
+    "correctIndex": 0
   },
   {
     "id": "q153",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé le téléphone portable ?",
-    "answers": [
-      "Martin Cooper",
-      "Nikola Tesla",
-      "John Bardeen",
-      "Steve Jobs"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet d’éclairer un chemin la nuit ?",
+    "answers": ["Bougie", "Lampe frontale", "Phare", "Torche"],
+    "correctIndex": 1
   },
   {
     "id": "q154",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé le téléphone portable ?",
-    "answers": [
-      "John Bardeen",
-      "Steve Jobs",
-      "Martin Cooper",
-      "Nikola Tesla"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de sécher les cheveux après la douche ?",
+    "answers": ["Serviette", "Ventilateur", "Radiateur", "Sèche-cheveux"],
+    "correctIndex": 3
   },
   {
     "id": "q155",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la dynamite ?",
-    "answers": [
-      "Alfred Nobel",
-      "Ascanio Sobrero",
-      "Michael Faraday",
-      "Robert Boyle"
-    ],
+    "text": "Quelle invention permet de stocker de l’eau potable ?",
+    "answers": ["Réservoir", "Verre", "Tasse", "Bol"],
     "correctIndex": 0
   },
   {
     "id": "q156",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé le téléphone portable ?",
-    "answers": [
-      "John Bardeen",
-      "Martin Cooper",
-      "Steve Jobs",
-      "Nikola Tesla"
-    ],
+    "text": "Quelle invention permet de lire des documents numérisés ?",
+    "answers": ["Télévision", "Ordinateur", "Radio", "Projecteur"],
     "correctIndex": 1
   },
   {
     "id": "q157",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé le téléphone portable ?",
-    "answers": [
-      "Steve Jobs",
-      "John Bardeen",
-      "Martin Cooper",
-      "Nikola Tesla"
-    ],
+    "text": "Quelle invention permet de conserver des médicaments au frais ?",
+    "answers": ["Placard", "Boîte", "Réfrigérateur", "Sac"],
     "correctIndex": 2
   },
   {
     "id": "q158",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du premier avion motorisé ?",
-    "answers": [
-      "Clément Ader",
-      "Louis Blériot",
-      "Alberto Santos-Dumont",
-      "Les frères Wright"
-    ],
+    "text": "Quelle invention sert à signaler un appel entrant ?",
+    "answers": ["Écran", "Vibreur", "Haut-parleur", "Sonnerie"],
     "correctIndex": 3
   },
   {
     "id": "q159",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la machine à vapeur moderne ?",
-    "answers": [
-      "Thomas Newcomen",
-      "Richard Trevithick",
-      "George Stephenson",
-      "James Watt"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de ranger des clés facilement ?",
+    "answers": ["Porte-clés", "Boîte", "Tiroir", "Sac"],
+    "correctIndex": 0
   },
   {
     "id": "q160",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur de l'Internet ?",
-    "answers": [
-      "Vint Cerf",
-      "Tim Berners-Lee",
-      "Bill Gates",
-      "Robert Kahn"
-    ],
+    "text": "Quelle invention permet de regarder des vidéos en déplacement ?",
+    "answers": ["Radio", "Tablette", "Lecteur CD", "Caméra"],
     "correctIndex": 1
   },
+
   {
     "id": "q161",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur de l'Internet ?",
-    "answers": [
-      "Robert Kahn",
-      "Tim Berners-Lee",
-      "Bill Gates",
-      "Vint Cerf"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet de mesurer la quantité d’eau ?",
+    "answers": ["Balance", "Verre doseur", "Thermomètre", "Chronomètre"],
+    "correctIndex": 2
   },
   {
     "id": "q162",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé l'ampoule électrique pratique ?",
-    "answers": [
-      "Nikola Tesla",
-      "Alexander Graham Bell",
-      "Benjamin Franklin",
-      "Thomas Edison"
-    ],
+    "text": "Quelle invention sert à fermer un sac de manière sécurisée ?",
+    "answers": ["Bouton", "Ficelle", "Ruban", "Fermeture éclair"],
     "correctIndex": 3
   },
   {
     "id": "q163",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé le téléphone portable ?",
-    "answers": [
-      "Martin Cooper",
-      "John Bardeen",
-      "Steve Jobs",
-      "Nikola Tesla"
-    ],
+    "text": "Quelle invention permet de transporter un bébé en voiture en sécurité ?",
+    "answers": ["Siège auto", "Poussette", "Lit bébé", "Berceau"],
     "correctIndex": 0
   },
   {
     "id": "q164",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur de l'Internet ?",
-    "answers": [
-      "Vint Cerf",
-      "Robert Kahn",
-      "Tim Berners-Lee",
-      "Bill Gates"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de réchauffer une pièce rapidement ?",
+    "answers": ["Ventilateur", "Chauffage d’appoint", "Climatiseur", "Congélateur"],
+    "correctIndex": 1
   },
   {
     "id": "q165",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur de la pénicilline ?",
-    "answers": [
-      "Louis Pasteur",
-      "Howard Florey",
-      "Ernst Boris Chain",
-      "Alexander Fleming"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de laver les mains automatiquement ?",
+    "answers": ["Savon", "Lavabo", "Distributeur automatique", "Serviette"],
+    "correctIndex": 2
   },
   {
     "id": "q166",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé l'imprimerie à caractères mobiles en Europe ?",
-    "answers": [
-      "Aldus Manutius",
-      "William Caxton",
-      "Johannes Gutenberg",
-      "Laurens Janszoon Coster"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention sert à protéger un ordinateur portable ?",
+    "answers": ["Chargeur", "Clavier", "Souris", "Housse"],
+    "correctIndex": 3
   },
   {
     "id": "q167",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du téléphone ?",
-    "answers": [
-      "Antonio Meucci",
-      "Thomas Edison",
-      "Elisha Gray",
-      "Alexander Graham Bell"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de mesurer le poids d’une personne ?",
+    "answers": ["Balance", "Mètre", "Chronomètre", "Thermomètre"],
+    "correctIndex": 0
   },
   {
     "id": "q168",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé l'ampoule électrique pratique ?",
-    "answers": [
-      "Alexander Graham Bell",
-      "Benjamin Franklin",
-      "Nikola Tesla",
-      "Thomas Edison"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de surveiller une maison à distance ?",
+    "answers": ["Radio", "Caméra de surveillance", "Télévision", "Micro"],
+    "correctIndex": 1
   },
   {
     "id": "q169",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur de la pénicilline ?",
-    "answers": [
-      "Howard Florey",
-      "Louis Pasteur",
-      "Alexander Fleming",
-      "Ernst Boris Chain"
-    ],
+    "text": "Quelle invention permet de conserver des aliments sous vide ?",
+    "answers": ["Boîte", "Sac", "Machine sous vide", "Congélateur"],
     "correctIndex": 2
   },
   {
     "id": "q170",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la machine à vapeur moderne ?",
-    "answers": [
-      "George Stephenson",
-      "James Watt",
-      "Richard Trevithick",
-      "Thomas Newcomen"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention sert à éclairer une route en voiture ?",
+    "answers": ["Clignotant", "Feu stop", "Gyrophare", "Phare"],
+    "correctIndex": 3
   },
+
   {
     "id": "q171",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la machine à vapeur moderne ?",
-    "answers": [
-      "James Watt",
-      "George Stephenson",
-      "Thomas Newcomen",
-      "Richard Trevithick"
-    ],
+    "text": "Quelle invention permet de ranger des aliments au sec ?",
+    "answers": ["Placard", "Évier", "Four", "Réfrigérateur"],
     "correctIndex": 0
   },
   {
     "id": "q172",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du téléphone ?",
-    "answers": [
-      "Alexander Graham Bell",
-      "Thomas Edison",
-      "Elisha Gray",
-      "Antonio Meucci"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet d’écouter la musique en faisant du sport ?",
+    "answers": ["Radio", "Casque sans fil", "Télévision", "Enceinte"],
+    "correctIndex": 1
   },
   {
     "id": "q173",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du téléphone ?",
-    "answers": [
-      "Elisha Gray",
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Antonio Meucci"
-    ],
+    "text": "Quelle invention permet de mesurer la taille d’un objet ?",
+    "answers": ["Balance", "Règle", "Thermomètre", "Chronomètre"],
     "correctIndex": 2
   },
   {
     "id": "q174",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé le téléphone portable ?",
-    "answers": [
-      "John Bardeen",
-      "Steve Jobs",
-      "Martin Cooper",
-      "Nikola Tesla"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention sert à protéger une maison contre le feu ?",
+    "answers": ["Clé", "Serrure", "Alarme", "Détecteur de fumée"],
+    "correctIndex": 3
   },
   {
     "id": "q175",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur de l'Internet ?",
-    "answers": [
-      "Tim Berners-Lee",
-      "Vint Cerf",
-      "Robert Kahn",
-      "Bill Gates"
-    ],
+    "text": "Quelle invention permet de boire sans renverser en déplacement ?",
+    "answers": ["Gourde", "Verre", "Tasse", "Bol"],
     "correctIndex": 0
   },
   {
     "id": "q176",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la machine à vapeur moderne ?",
-    "answers": [
-      "James Watt",
-      "Richard Trevithick",
-      "George Stephenson",
-      "Thomas Newcomen"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de voir l’heure la nuit sans lumière ?",
+    "answers": ["Montre classique", "Réveil lumineux", "Horloge murale", "Sablier"],
+    "correctIndex": 1
   },
   {
     "id": "q177",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé l'ampoule électrique pratique ?",
-    "answers": [
-      "Benjamin Franklin",
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Nikola Tesla"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet de faire griller du pain ?",
+    "answers": ["Four", "Micro-ondes", "Grille-pain", "Plaque"],
+    "correctIndex": 2
   },
   {
     "id": "q178",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé l'ampoule électrique pratique ?",
-    "answers": [
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Benjamin Franklin",
-      "Nikola Tesla"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention sert à signaler un changement de direction en voiture ?",
+    "answers": ["Phare", "Feu stop", "Klaxon", "Clignotant"],
+    "correctIndex": 3
   },
   {
     "id": "q179",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé le téléphone portable ?",
-    "answers": [
-      "John Bardeen",
-      "Martin Cooper",
-      "Steve Jobs",
-      "Nikola Tesla"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet de protéger un livre ?",
+    "answers": ["Couverture", "Page", "Sommaire", "Index"],
+    "correctIndex": 0
   },
   {
     "id": "q180",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du téléphone ?",
-    "answers": [
-      "Thomas Edison",
-      "Elisha Gray",
-      "Antonio Meucci",
-      "Alexander Graham Bell"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de discuter par messages écrits instantanés ?",
+    "answers": ["Radio", "Messagerie instantanée", "Télévision", "Fax"],
+    "correctIndex": 1
   },
+
   {
     "id": "q181",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la dynamite ?",
-    "answers": [
-      "Michael Faraday",
-      "Robert Boyle",
-      "Alfred Nobel",
-      "Ascanio Sobrero"
-    ],
+    "text": "Quelle invention permet de mesurer la luminosité ?",
+    "answers": ["Baromètre", "Thermomètre", "Luxmètre", "Altimètre"],
     "correctIndex": 2
   },
   {
     "id": "q182",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé le téléphone portable ?",
-    "answers": [
-      "Steve Jobs",
-      "John Bardeen",
-      "Martin Cooper",
-      "Nikola Tesla"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention sert à verrouiller une porte de l’intérieur ?",
+    "answers": ["Poignée", "Clé", "Charnière", "Verrou"],
+    "correctIndex": 3
   },
   {
     "id": "q183",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du premier avion motorisé ?",
-    "answers": [
-      "Les frères Wright",
-      "Clément Ader",
-      "Alberto Santos-Dumont",
-      "Louis Blériot"
-    ],
+    "text": "Quelle invention permet de transporter des courses à pied ?",
+    "answers": ["Sac de courses", "Valise", "Carton", "Caisse"],
     "correctIndex": 0
   },
   {
     "id": "q184",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé le vaccin contre la rage ?",
-    "answers": [
-      "Louis Pasteur",
-      "Edward Jenner",
-      "Robert Koch",
-      "Alexander Fleming"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de localiser un objet perdu ?",
+    "answers": ["Radio", "Balise GPS", "Téléphone", "Caméra"],
+    "correctIndex": 1
   },
   {
     "id": "q185",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé le téléphone portable ?",
-    "answers": [
-      "Steve Jobs",
-      "Martin Cooper",
-      "Nikola Tesla",
-      "John Bardeen"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet de refroidir rapidement une boisson ?",
+    "answers": ["Réfrigérateur", "Glace", "Congélateur", "Ventilateur"],
+    "correctIndex": 2
   },
   {
     "id": "q186",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur de l'Internet ?",
-    "answers": [
-      "Robert Kahn",
-      "Tim Berners-Lee",
-      "Vint Cerf",
-      "Bill Gates"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention sert à allumer une bougie ?",
+    "answers": ["Briquet", "Allumette", "Pierre", "Feu"],
+    "correctIndex": 3
   },
   {
     "id": "q187",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur de la pénicilline ?",
-    "answers": [
-      "Louis Pasteur",
-      "Ernst Boris Chain",
-      "Howard Florey",
-      "Alexander Fleming"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de lire un document imprimé plus facilement ?",
+    "answers": ["Loupe", "Stylo", "Règle", "Scanner"],
+    "correctIndex": 0
   },
   {
     "id": "q188",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la dynamite ?",
-    "answers": [
-      "Robert Boyle",
-      "Alfred Nobel",
-      "Michael Faraday",
-      "Ascanio Sobrero"
-    ],
+    "text": "Quelle invention permet d’écouter la télévision sans déranger ?",
+    "answers": ["Radio", "Casque", "Télécommande", "Micro"],
     "correctIndex": 1
   },
   {
     "id": "q189",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur du premier avion motorisé ?",
-    "answers": [
-      "Clément Ader",
-      "Alberto Santos-Dumont",
-      "Les frères Wright",
-      "Louis Blériot"
-    ],
+    "text": "Quelle invention permet de charger plusieurs appareils à la fois ?",
+    "answers": ["Prise simple", "Batterie", "Multiprise", "Câble"],
     "correctIndex": 2
   },
   {
     "id": "q190",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur de l'Internet ?",
-    "answers": [
-      "Bill Gates",
-      "Vint Cerf",
-      "Tim Berners-Lee",
-      "Robert Kahn"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention sert à indiquer l’heure dans un lieu public ?",
+    "answers": ["Montre", "Téléphone", "Réveil", "Horloge"],
+    "correctIndex": 3
   },
+
   {
     "id": "q191",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur de l'Internet ?",
-    "answers": [
-      "Robert Kahn",
-      "Vint Cerf",
-      "Bill Gates",
-      "Tim Berners-Lee"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de protéger une table ?",
+    "answers": ["Nappe", "Chaise", "Plateau", "Tiroir"],
+    "correctIndex": 0
   },
   {
     "id": "q192",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé l'imprimerie à caractères mobiles en Europe ?",
-    "answers": [
-      "Johannes Gutenberg",
-      "Laurens Janszoon Coster",
-      "Aldus Manutius",
-      "William Caxton"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de répondre à un appel sans toucher le téléphone ?",
+    "answers": ["Radio", "Commande vocale", "Clavier", "Souris"],
+    "correctIndex": 1
   },
   {
     "id": "q193",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé le téléphone portable ?",
-    "answers": [
-      "Martin Cooper",
-      "Nikola Tesla",
-      "Steve Jobs",
-      "John Bardeen"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de mesurer la durée de cuisson ?",
+    "answers": ["Horloge", "Montre", "Minuteur", "Thermomètre"],
+    "correctIndex": 2
   },
   {
     "id": "q194",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur de la pénicilline ?",
-    "answers": [
-      "Howard Florey",
-      "Ernst Boris Chain",
-      "Louis Pasteur",
-      "Alexander Fleming"
-    ],
+    "text": "Quelle invention sert à fermer une fenêtre en sécurité ?",
+    "answers": ["Poignée", "Charnière", "Vitre", "Verrou"],
     "correctIndex": 3
   },
   {
     "id": "q195",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur de la pénicilline ?",
-    "answers": [
-      "Howard Florey",
-      "Alexander Fleming",
-      "Ernst Boris Chain",
-      "Louis Pasteur"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet de transporter un enfant à pied ?",
+    "answers": ["Poussette", "Vélo", "Trottinette", "Sac"],
+    "correctIndex": 0
   },
   {
     "id": "q196",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé l'imprimerie à caractères mobiles en Europe ?",
-    "answers": [
-      "Aldus Manutius",
-      "Laurens Janszoon Coster",
-      "Johannes Gutenberg",
-      "William Caxton"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de contrôler la température d’une pièce ?",
+    "answers": ["Ventilateur", "Thermostat", "Radiateur", "Climatiseur"],
+    "correctIndex": 1
   },
   {
     "id": "q197",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la machine à vapeur moderne ?",
-    "answers": [
-      "George Stephenson",
-      "Richard Trevithick",
-      "James Watt",
-      "Thomas Newcomen"
-    ],
+    "text": "Quelle invention permet de faire une présentation devant un public ?",
+    "answers": ["Télévision", "Tableau", "Vidéoprojecteur", "Radio"],
     "correctIndex": 2
   },
   {
     "id": "q198",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé l'imprimerie à caractères mobiles en Europe ?",
-    "answers": [
-      "William Caxton",
-      "Laurens Janszoon Coster",
-      "Johannes Gutenberg",
-      "Aldus Manutius"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention sert à indiquer un danger sur la route ?",
+    "answers": ["Feu", "Panneau", "Radar", "Triangle de signalisation"],
+    "correctIndex": 3
   },
   {
     "id": "q199",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui est l'inventeur de la pénicilline ?",
-    "answers": [
-      "Alexander Fleming",
-      "Louis Pasteur",
-      "Howard Florey",
-      "Ernst Boris Chain"
-    ],
+    "text": "Quelle invention permet de garder des aliments chauds longtemps ?",
+    "answers": ["Thermos", "Four", "Plaque", "Micro-ondes"],
     "correctIndex": 0
   },
   {
     "id": "q200",
     "category": "Inventions",
     "difficulty": "Facile",
-    "text": "Qui a inventé la machine à vapeur moderne ?",
-    "answers": [
-      "Richard Trevithick",
-      "James Watt",
-      "Thomas Newcomen",
-      "George Stephenson"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q201",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur de l'Internet ?",
-    "answers": [
-      "Robert Kahn",
-      "Tim Berners-Lee",
-      "Vint Cerf",
-      "Bill Gates"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q202",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur de l'Internet ?",
-    "answers": [
-      "Bill Gates",
-      "Tim Berners-Lee",
-      "Vint Cerf",
-      "Robert Kahn"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q203",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur de l'Internet ?",
-    "answers": [
-      "Vint Cerf",
-      "Bill Gates",
-      "Robert Kahn",
-      "Tim Berners-Lee"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q204",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur de la pénicilline ?",
-    "answers": [
-      "Louis Pasteur",
-      "Ernst Boris Chain",
-      "Howard Florey",
-      "Alexander Fleming"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q205",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé la dynamite ?",
-    "answers": [
-      "Alfred Nobel",
-      "Ascanio Sobrero",
-      "Michael Faraday",
-      "Robert Boyle"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q206",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur du premier avion motorisé ?",
-    "answers": [
-      "Les frères Wright",
-      "Louis Blériot",
-      "Clément Ader",
-      "Alberto Santos-Dumont"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q207",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé l'imprimerie à caractères mobiles en Europe ?",
-    "answers": [
-      "Laurens Janszoon Coster",
-      "William Caxton",
-      "Johannes Gutenberg",
-      "Aldus Manutius"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q208",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé l'ampoule électrique pratique ?",
-    "answers": [
-      "Benjamin Franklin",
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Nikola Tesla"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q209",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé l'ampoule électrique pratique ?",
-    "answers": [
-      "Benjamin Franklin",
-      "Nikola Tesla",
-      "Alexander Graham Bell",
-      "Thomas Edison"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q210",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur de l'Internet ?",
-    "answers": [
-      "Tim Berners-Lee",
-      "Vint Cerf",
-      "Robert Kahn",
-      "Bill Gates"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q211",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé le téléphone portable ?",
-    "answers": [
-      "John Bardeen",
-      "Martin Cooper",
-      "Nikola Tesla",
-      "Steve Jobs"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q212",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé l'imprimerie à caractères mobiles en Europe ?",
-    "answers": [
-      "Johannes Gutenberg",
-      "Aldus Manutius",
-      "Laurens Janszoon Coster",
-      "William Caxton"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q213",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur du téléphone ?",
-    "answers": [
-      "Alexander Graham Bell",
-      "Antonio Meucci",
-      "Thomas Edison",
-      "Elisha Gray"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q214",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé le vaccin contre la rage ?",
-    "answers": [
-      "Edward Jenner",
-      "Alexander Fleming",
-      "Louis Pasteur",
-      "Robert Koch"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q215",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur de l'Internet ?",
-    "answers": [
-      "Bill Gates",
-      "Vint Cerf",
-      "Robert Kahn",
-      "Tim Berners-Lee"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q216",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé la dynamite ?",
-    "answers": [
-      "Michael Faraday",
-      "Ascanio Sobrero",
-      "Robert Boyle",
-      "Alfred Nobel"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q217",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé la dynamite ?",
-    "answers": [
-      "Ascanio Sobrero",
-      "Alfred Nobel",
-      "Robert Boyle",
-      "Michael Faraday"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q218",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur du premier avion motorisé ?",
-    "answers": [
-      "Louis Blériot",
-      "Alberto Santos-Dumont",
-      "Les frères Wright",
-      "Clément Ader"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q219",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur de l'Internet ?",
-    "answers": [
-      "Tim Berners-Lee",
-      "Bill Gates",
-      "Robert Kahn",
-      "Vint Cerf"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q220",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé la dynamite ?",
-    "answers": [
-      "Ascanio Sobrero",
-      "Michael Faraday",
-      "Alfred Nobel",
-      "Robert Boyle"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q221",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur du premier avion motorisé ?",
-    "answers": [
-      "Louis Blériot",
-      "Les frères Wright",
-      "Alberto Santos-Dumont",
-      "Clément Ader"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q222",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur de l'Internet ?",
-    "answers": [
-      "Vint Cerf",
-      "Bill Gates",
-      "Tim Berners-Lee",
-      "Robert Kahn"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q223",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé le téléphone portable ?",
-    "answers": [
-      "Nikola Tesla",
-      "Martin Cooper",
-      "John Bardeen",
-      "Steve Jobs"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q224",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé la machine à vapeur moderne ?",
-    "answers": [
-      "Thomas Newcomen",
-      "Richard Trevithick",
-      "James Watt",
-      "George Stephenson"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q225",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé la dynamite ?",
-    "answers": [
-      "Alfred Nobel",
-      "Ascanio Sobrero",
-      "Michael Faraday",
-      "Robert Boyle"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q226",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé le vaccin contre la rage ?",
-    "answers": [
-      "Edward Jenner",
-      "Alexander Fleming",
-      "Louis Pasteur",
-      "Robert Koch"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q227",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé le téléphone portable ?",
-    "answers": [
-      "Steve Jobs",
-      "Martin Cooper",
-      "John Bardeen",
-      "Nikola Tesla"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q228",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé le vaccin contre la rage ?",
-    "answers": [
-      "Louis Pasteur",
-      "Alexander Fleming",
-      "Edward Jenner",
-      "Robert Koch"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q229",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé le téléphone portable ?",
-    "answers": [
-      "John Bardeen",
-      "Steve Jobs",
-      "Martin Cooper",
-      "Nikola Tesla"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q230",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé l'ampoule électrique pratique ?",
-    "answers": [
-      "Thomas Edison",
-      "Benjamin Franklin",
-      "Nikola Tesla",
-      "Alexander Graham Bell"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q231",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé la machine à vapeur moderne ?",
-    "answers": [
-      "George Stephenson",
-      "Richard Trevithick",
-      "Thomas Newcomen",
-      "James Watt"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q232",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur du premier avion motorisé ?",
-    "answers": [
-      "Les frères Wright",
-      "Clément Ader",
-      "Alberto Santos-Dumont",
-      "Louis Blériot"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q233",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé l'imprimerie à caractères mobiles en Europe ?",
-    "answers": [
-      "William Caxton",
-      "Johannes Gutenberg",
-      "Aldus Manutius",
-      "Laurens Janszoon Coster"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q234",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur du téléphone ?",
-    "answers": [
-      "Elisha Gray",
-      "Antonio Meucci",
-      "Alexander Graham Bell",
-      "Thomas Edison"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q235",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur du téléphone ?",
-    "answers": [
-      "Alexander Graham Bell",
-      "Elisha Gray",
-      "Antonio Meucci",
-      "Thomas Edison"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q236",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé le téléphone portable ?",
-    "answers": [
-      "Martin Cooper",
-      "John Bardeen",
-      "Nikola Tesla",
-      "Steve Jobs"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q237",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur de l'Internet ?",
-    "answers": [
-      "Vint Cerf",
-      "Tim Berners-Lee",
-      "Robert Kahn",
-      "Bill Gates"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q238",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur de la pénicilline ?",
-    "answers": [
-      "Louis Pasteur",
-      "Alexander Fleming",
-      "Ernst Boris Chain",
-      "Howard Florey"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q239",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé l'imprimerie à caractères mobiles en Europe ?",
-    "answers": [
-      "Johannes Gutenberg",
-      "Aldus Manutius",
-      "Laurens Janszoon Coster",
-      "William Caxton"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q240",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé la machine à vapeur moderne ?",
-    "answers": [
-      "James Watt",
-      "Thomas Newcomen",
-      "Richard Trevithick",
-      "George Stephenson"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q241",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur de la pénicilline ?",
-    "answers": [
-      "Louis Pasteur",
-      "Alexander Fleming",
-      "Howard Florey",
-      "Ernst Boris Chain"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q242",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé la dynamite ?",
-    "answers": [
-      "Robert Boyle",
-      "Michael Faraday",
-      "Ascanio Sobrero",
-      "Alfred Nobel"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q243",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé le vaccin contre la rage ?",
-    "answers": [
-      "Robert Koch",
-      "Louis Pasteur",
-      "Alexander Fleming",
-      "Edward Jenner"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q244",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur de la pénicilline ?",
-    "answers": [
-      "Howard Florey",
-      "Ernst Boris Chain",
-      "Alexander Fleming",
-      "Louis Pasteur"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q245",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur du premier avion motorisé ?",
-    "answers": [
-      "Alberto Santos-Dumont",
-      "Clément Ader",
-      "Les frères Wright",
-      "Louis Blériot"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q246",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur de la pénicilline ?",
-    "answers": [
-      "Alexander Fleming",
-      "Louis Pasteur",
-      "Howard Florey",
-      "Ernst Boris Chain"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q247",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur de la pénicilline ?",
-    "answers": [
-      "Howard Florey",
-      "Alexander Fleming",
-      "Ernst Boris Chain",
-      "Louis Pasteur"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q248",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé l'imprimerie à caractères mobiles en Europe ?",
-    "answers": [
-      "Aldus Manutius",
-      "Johannes Gutenberg",
-      "Laurens Janszoon Coster",
-      "William Caxton"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q249",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé l'imprimerie à caractères mobiles en Europe ?",
-    "answers": [
-      "Aldus Manutius",
-      "Laurens Janszoon Coster",
-      "William Caxton",
-      "Johannes Gutenberg"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q250",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur du premier avion motorisé ?",
-    "answers": [
-      "Les frères Wright",
-      "Alberto Santos-Dumont",
-      "Louis Blériot",
-      "Clément Ader"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q251",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur de l'Internet ?",
-    "answers": [
-      "Bill Gates",
-      "Robert Kahn",
-      "Vint Cerf",
-      "Tim Berners-Lee"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q252",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé la dynamite ?",
-    "answers": [
-      "Ascanio Sobrero",
-      "Robert Boyle",
-      "Alfred Nobel",
-      "Michael Faraday"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q253",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé l'imprimerie à caractères mobiles en Europe ?",
-    "answers": [
-      "Laurens Janszoon Coster",
-      "Johannes Gutenberg",
-      "Aldus Manutius",
-      "William Caxton"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q254",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé l'ampoule électrique pratique ?",
-    "answers": [
-      "Benjamin Franklin",
-      "Alexander Graham Bell",
-      "Nikola Tesla",
-      "Thomas Edison"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q255",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur de l'Internet ?",
-    "answers": [
-      "Robert Kahn",
-      "Vint Cerf",
-      "Tim Berners-Lee",
-      "Bill Gates"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q256",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé la machine à vapeur moderne ?",
-    "answers": [
-      "Richard Trevithick",
-      "Thomas Newcomen",
-      "James Watt",
-      "George Stephenson"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q257",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé la machine à vapeur moderne ?",
-    "answers": [
-      "James Watt",
-      "George Stephenson",
-      "Thomas Newcomen",
-      "Richard Trevithick"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q258",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur du premier avion motorisé ?",
-    "answers": [
-      "Louis Blériot",
-      "Alberto Santos-Dumont",
-      "Les frères Wright",
-      "Clément Ader"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q259",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur de l'Internet ?",
-    "answers": [
-      "Robert Kahn",
-      "Tim Berners-Lee",
-      "Bill Gates",
-      "Vint Cerf"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q260",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur du téléphone ?",
-    "answers": [
-      "Elisha Gray",
-      "Antonio Meucci",
-      "Alexander Graham Bell",
-      "Thomas Edison"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q261",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur de l'Internet ?",
-    "answers": [
-      "Vint Cerf",
-      "Robert Kahn",
-      "Tim Berners-Lee",
-      "Bill Gates"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q262",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé le vaccin contre la rage ?",
-    "answers": [
-      "Robert Koch",
-      "Louis Pasteur",
-      "Edward Jenner",
-      "Alexander Fleming"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q263",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé le vaccin contre la rage ?",
-    "answers": [
-      "Louis Pasteur",
-      "Robert Koch",
-      "Alexander Fleming",
-      "Edward Jenner"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q264",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé le téléphone portable ?",
-    "answers": [
-      "Martin Cooper",
-      "John Bardeen",
-      "Nikola Tesla",
-      "Steve Jobs"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q265",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé le téléphone portable ?",
-    "answers": [
-      "Steve Jobs",
-      "Martin Cooper",
-      "John Bardeen",
-      "Nikola Tesla"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q266",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé la dynamite ?",
-    "answers": [
-      "Michael Faraday",
-      "Alfred Nobel",
-      "Robert Boyle",
-      "Ascanio Sobrero"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q267",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé la machine à vapeur moderne ?",
-    "answers": [
-      "Richard Trevithick",
-      "Thomas Newcomen",
-      "George Stephenson",
-      "James Watt"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q268",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé l'ampoule électrique pratique ?",
-    "answers": [
-      "Benjamin Franklin",
-      "Nikola Tesla",
-      "Thomas Edison",
-      "Alexander Graham Bell"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q269",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé le vaccin contre la rage ?",
-    "answers": [
-      "Louis Pasteur",
-      "Robert Koch",
-      "Edward Jenner",
-      "Alexander Fleming"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q270",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé le vaccin contre la rage ?",
-    "answers": [
-      "Edward Jenner",
-      "Louis Pasteur",
-      "Robert Koch",
-      "Alexander Fleming"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q271",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur de l'Internet ?",
-    "answers": [
-      "Robert Kahn",
-      "Bill Gates",
-      "Vint Cerf",
-      "Tim Berners-Lee"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q272",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur du téléphone ?",
-    "answers": [
-      "Alexander Graham Bell",
-      "Elisha Gray",
-      "Thomas Edison",
-      "Antonio Meucci"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q273",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur du téléphone ?",
-    "answers": [
-      "Elisha Gray",
-      "Thomas Edison",
-      "Antonio Meucci",
-      "Alexander Graham Bell"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q274",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur du téléphone ?",
-    "answers": [
-      "Antonio Meucci",
-      "Elisha Gray",
-      "Alexander Graham Bell",
-      "Thomas Edison"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q275",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur du téléphone ?",
-    "answers": [
-      "Alexander Graham Bell",
-      "Thomas Edison",
-      "Elisha Gray",
-      "Antonio Meucci"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q276",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur de l'Internet ?",
-    "answers": [
-      "Bill Gates",
-      "Tim Berners-Lee",
-      "Robert Kahn",
-      "Vint Cerf"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q277",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé le téléphone portable ?",
-    "answers": [
-      "John Bardeen",
-      "Nikola Tesla",
-      "Martin Cooper",
-      "Steve Jobs"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q278",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé l'imprimerie à caractères mobiles en Europe ?",
-    "answers": [
-      "William Caxton",
-      "Aldus Manutius",
-      "Johannes Gutenberg",
-      "Laurens Janszoon Coster"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q279",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur du téléphone ?",
-    "answers": [
-      "Thomas Edison",
-      "Elisha Gray",
-      "Antonio Meucci",
-      "Alexander Graham Bell"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q280",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé le téléphone portable ?",
-    "answers": [
-      "Nikola Tesla",
-      "John Bardeen",
-      "Steve Jobs",
-      "Martin Cooper"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q281",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé la machine à vapeur moderne ?",
-    "answers": [
-      "George Stephenson",
-      "Thomas Newcomen",
-      "Richard Trevithick",
-      "James Watt"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q282",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur de l'Internet ?",
-    "answers": [
-      "Vint Cerf",
-      "Robert Kahn",
-      "Tim Berners-Lee",
-      "Bill Gates"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q283",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur du téléphone ?",
-    "answers": [
-      "Antonio Meucci",
-      "Elisha Gray",
-      "Alexander Graham Bell",
-      "Thomas Edison"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q284",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé le vaccin contre la rage ?",
-    "answers": [
-      "Alexander Fleming",
-      "Louis Pasteur",
-      "Edward Jenner",
-      "Robert Koch"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q285",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé l'imprimerie à caractères mobiles en Europe ?",
-    "answers": [
-      "Johannes Gutenberg",
-      "Laurens Janszoon Coster",
-      "Aldus Manutius",
-      "William Caxton"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q286",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé la dynamite ?",
-    "answers": [
-      "Michael Faraday",
-      "Ascanio Sobrero",
-      "Robert Boyle",
-      "Alfred Nobel"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q287",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur de l'Internet ?",
-    "answers": [
-      "Robert Kahn",
-      "Tim Berners-Lee",
-      "Bill Gates",
-      "Vint Cerf"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q288",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur de l'Internet ?",
-    "answers": [
-      "Robert Kahn",
-      "Vint Cerf",
-      "Tim Berners-Lee",
-      "Bill Gates"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q289",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur de l'Internet ?",
-    "answers": [
-      "Tim Berners-Lee",
-      "Vint Cerf",
-      "Robert Kahn",
-      "Bill Gates"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q290",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé l'imprimerie à caractères mobiles en Europe ?",
-    "answers": [
-      "Johannes Gutenberg",
-      "Aldus Manutius",
-      "Laurens Janszoon Coster",
-      "William Caxton"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q291",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé le téléphone portable ?",
-    "answers": [
-      "Nikola Tesla",
-      "John Bardeen",
-      "Martin Cooper",
-      "Steve Jobs"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q292",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé l'ampoule électrique pratique ?",
-    "answers": [
-      "Benjamin Franklin",
-      "Alexander Graham Bell",
-      "Thomas Edison",
-      "Nikola Tesla"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q293",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé l'imprimerie à caractères mobiles en Europe ?",
-    "answers": [
-      "Laurens Janszoon Coster",
-      "William Caxton",
-      "Aldus Manutius",
-      "Johannes Gutenberg"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q294",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur de la pénicilline ?",
-    "answers": [
-      "Louis Pasteur",
-      "Howard Florey",
-      "Ernst Boris Chain",
-      "Alexander Fleming"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q295",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur de l'Internet ?",
-    "answers": [
-      "Tim Berners-Lee",
-      "Vint Cerf",
-      "Robert Kahn",
-      "Bill Gates"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q296",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé le téléphone portable ?",
-    "answers": [
-      "Nikola Tesla",
-      "Martin Cooper",
-      "Steve Jobs",
-      "John Bardeen"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q297",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé la machine à vapeur moderne ?",
-    "answers": [
-      "Thomas Newcomen",
-      "James Watt",
-      "Richard Trevithick",
-      "George Stephenson"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q298",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui est l'inventeur du premier avion motorisé ?",
-    "answers": [
-      "Les frères Wright",
-      "Louis Blériot",
-      "Alberto Santos-Dumont",
-      "Clément Ader"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q299",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé l'imprimerie à caractères mobiles en Europe ?",
-    "answers": [
-      "Laurens Janszoon Coster",
-      "Aldus Manutius",
-      "Johannes Gutenberg",
-      "William Caxton"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q300",
-    "category": "Inventions",
-    "difficulty": "Facile",
-    "text": "Qui a inventé l'ampoule électrique pratique ?",
-    "answers": [
-      "Benjamin Franklin",
-      "Thomas Edison",
-      "Nikola Tesla",
-      "Alexander Graham Bell"
-    ],
+    "text": "Quelle invention permet de piloter un appareil à distance ?",
+    "answers": ["Câble", "Télécommande", "Bouton", "Interrupteur"],
     "correctIndex": 1
   }
 ]
