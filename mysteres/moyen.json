@@ -3,3900 +3,1676 @@
     "id": "q1",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
-    "answers": [
-      "Callanish",
-      "Carnac",
-      "Avebury",
-      "Stonehenge"
-    ],
-    "correctIndex": 3
+    "text": "Quel manuscrit médiéval demeure célèbre pour son écriture et son contenu non déchiffrés ?",
+    "answers": ["Le manuscrit de Voynich", "Le Codex Sinaiticus", "Le Livre de Kells", "La Chronique de Nuremberg"],
+    "correctIndex": 0
   },
   {
     "id": "q2",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
-    "answers": [
-      "Antoine de Saint-Exupéry",
-      "Charles Lindbergh",
-      "Glenn Miller",
-      "Douglas Bader"
-    ],
-    "correctIndex": 0
+    "text": "Quel site péruvien est connu pour ses lignes géantes visibles uniquement depuis les airs ?",
+    "answers": ["Machu Picchu", "Nazca", "Cusco", "Chan Chan"],
+    "correctIndex": 1
   },
   {
     "id": "q3",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
-    "answers": [
-      "Sphère d'Oman",
-      "Sphère de Taman",
-      "Sphère de Betz",
-      "Sphère de Klerksdorp"
-    ],
+    "text": "Quel phénomène est souvent invoqué pour expliquer les voix enregistrées sans source identifiable ?",
+    "answers": ["Les interférences radio", "Les hallucinations", "Les EVP", "Les illusions auditives"],
     "correctIndex": 2
   },
   {
     "id": "q4",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
-    "answers": [
-      "Maya",
-      "Olmèque",
-      "Nazca",
-      "Inca"
-    ],
-    "correctIndex": 2
+    "text": "Dans quel océan se situerait la zone appelée triangle des Bermudes ?",
+    "answers": ["Océan Indien", "Océan Pacifique", "Océan Austral", "Océan Atlantique"],
+    "correctIndex": 3
   },
+
   {
     "id": "q5",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
-    "answers": [
-      "Sphère de Taman",
-      "Sphère de Klerksdorp",
-      "Sphère de Betz",
-      "Sphère d'Oman"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal mythique est traditionnellement associé à la garde de trésors antiques ?",
+    "answers": ["Le dragon", "Le griffon", "Le sphinx", "Le minotaure"],
+    "correctIndex": 0
   },
   {
     "id": "q6",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
-    "answers": [
-      "Sphère de Taman",
-      "Sphère d'Oman",
-      "Sphère de Betz",
-      "Sphère de Klerksdorp"
-    ],
-    "correctIndex": 2
+    "text": "Quel monument préhistorique britannique est souvent lié à des rites mystérieux ?",
+    "answers": ["Avebury", "Stonehenge", "Carnac", "Skara Brae"],
+    "correctIndex": 1
   },
   {
     "id": "q7",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
-    "answers": [
-      "Tahiti",
-      "Fidji",
-      "Guam",
-      "Île de Pâques"
-    ],
-    "correctIndex": 3
+    "text": "Quel type de créature marine mythique est évoqué dans de nombreuses légendes nordiques ?",
+    "answers": ["La sirène", "Le léviathan", "Le kraken", "L’hippocampe"],
+    "correctIndex": 2
   },
   {
     "id": "q8",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
-    "answers": [
-      "Maya",
-      "Nazca",
-      "Olmèque",
-      "Inca"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé aux légendes du monstre du Loch Ness ?",
+    "answers": ["Irlande", "Angleterre", "Pays de Galles", "Écosse"],
+    "correctIndex": 3
   },
+
   {
     "id": "q9",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
-    "answers": [
-      "Sphère de Betz",
-      "Sphère de Taman",
-      "Sphère de Klerksdorp",
-      "Sphère d'Oman"
-    ],
+    "text": "Quel animal mythique renaît de ses cendres selon la tradition ?",
+    "answers": ["Le phénix", "Le dragon", "Le griffon", "La licorne"],
     "correctIndex": 0
   },
   {
     "id": "q10",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
-    "answers": [
-      "Ernest Shackleton",
-      "Fridtjof Nansen",
-      "Roald Amundsen",
-      "Umberto Nobile"
-    ],
-    "correctIndex": 2
+    "text": "Quel site d’Amérique centrale est réputé pour ses pyramides mayas énigmatiques ?",
+    "answers": ["Uxmal", "Chichén Itzá", "Palenque", "Tulum"],
+    "correctIndex": 1
   },
+
   {
     "id": "q11",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
-    "answers": [
-      "Lumières de Marfa",
-      "Aurores boréales",
-      "Feux de Saint-Elme",
-      "Lumières de Hessdalen"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène lumineux observé dans les marais est parfois considéré comme mystérieux ?",
+    "answers": ["Les éclairs", "Les aurores", "Les feux follets", "Les météores"],
+    "correctIndex": 2
   },
   {
     "id": "q12",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
-    "answers": [
-      "Poenari",
-      "Corvin",
-      "Château de Bran",
-      "Peleș"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est lié aux légendes de vampires de Transylvanie ?",
+    "answers": ["Bulgarie", "Serbie", "Hongrie", "Roumanie"],
+    "correctIndex": 3
   },
+
   {
     "id": "q13",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
-    "answers": [
-      "Guam",
-      "Tahiti",
-      "Fidji",
-      "Île de Pâques"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal mythique est célèbre pour poser des énigmes aux voyageurs ?",
+    "answers": ["Le sphinx", "Le dragon", "Le centaure", "Le griffon"],
+    "correctIndex": 0
   },
   {
     "id": "q14",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
-    "answers": [
-      "Sphère de Klerksdorp",
-      "Sphère de Taman",
-      "Sphère d'Oman",
-      "Sphère de Betz"
-    ],
-    "correctIndex": 3
+    "text": "Quel site cambodgien est célèbre pour ses temples monumentaux envahis par la jungle ?",
+    "answers": ["Borobudur", "Angkor", "Bagan", "Ayutthaya"],
+    "correctIndex": 1
   },
+
   {
     "id": "q15",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
-    "answers": [
-      "Flying Dutchman",
-      "Carroll A. Deering",
-      "Mary Celeste",
-      "Ourang Medan"
-    ],
+    "text": "Quel type de créature est censé apparaître uniquement la nuit selon certaines légendes ?",
+    "answers": ["Les fées", "Les anges", "Les vampires", "Les géants"],
     "correctIndex": 2
   },
   {
     "id": "q16",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
-    "answers": [
-      "Lumières de Marfa",
-      "Aurores boréales",
-      "Feux de Saint-Elme",
-      "Lumières de Hessdalen"
-    ],
+    "text": "Quel pays est associé aux pyramides antiques de Gizeh ?",
+    "answers": ["Mexique", "Soudan", "Grèce", "Égypte"],
     "correctIndex": 3
   },
+
   {
     "id": "q17",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
-    "answers": [
-      "Ourang Medan",
-      "Flying Dutchman",
-      "Carroll A. Deering",
-      "Mary Celeste"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal mythique symbolise la pureté dans de nombreuses traditions européennes ?",
+    "answers": ["La licorne", "Le dragon", "Le serpent", "Le griffon"],
+    "correctIndex": 0
   },
   {
     "id": "q18",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
-    "answers": [
-      "Stonehenge",
-      "Callanish",
-      "Avebury",
-      "Carnac"
-    ],
-    "correctIndex": 0
+    "text": "Quel lieu est associé aux géoglyphes géants visibles depuis le ciel ?",
+    "answers": ["Teotihuacan", "Nazca", "Tikal", "Cuzco"],
+    "correctIndex": 1
   },
+
   {
     "id": "q19",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
-    "answers": [
-      "Livre de Kells",
-      "Codex Rohonczi",
-      "Codex Gigas",
-      "Manuscrit de Voynich"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène concerne des objets volants non identifiés observés dans le ciel ?",
+    "answers": ["Les comètes", "Les météores", "Les OVNI", "Les satellites"],
+    "correctIndex": 2
   },
   {
     "id": "q20",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
-    "answers": [
-      "Sphère de Klerksdorp",
-      "Sphère de Betz",
-      "Sphère de Taman",
-      "Sphère d'Oman"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé aux légendes de châteaux hantés célèbres ?",
+    "answers": ["Italie", "Espagne", "Allemagne", "Écosse"],
+    "correctIndex": 3
   },
+
   {
     "id": "q21",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
-    "answers": [
-      "Sphère de Betz",
-      "Sphère de Taman",
-      "Sphère d'Oman",
-      "Sphère de Klerksdorp"
-    ],
+    "text": "Quel animal mythique est souvent lié à la sagesse et au pouvoir impérial en Asie ?",
+    "answers": ["Le dragon", "Le tigre", "Le singe", "Le serpent"],
     "correctIndex": 0
   },
   {
     "id": "q22",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
-    "answers": [
-      "Aurores boréales",
-      "Lumières de Marfa",
-      "Lumières de Hessdalen",
-      "Feux de Saint-Elme"
-    ],
-    "correctIndex": 2
+    "text": "Quel site est célèbre pour ses statues monumentales appelées moaï ?",
+    "answers": ["Tahiti", "Île de Pâques", "Hawaï", "Fidji"],
+    "correctIndex": 1
   },
+
   {
     "id": "q23",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
-    "answers": [
-      "Flying Dutchman",
-      "Ourang Medan",
-      "Carroll A. Deering",
-      "Mary Celeste"
-    ],
-    "correctIndex": 3
+    "text": "Quel type de phénomène consiste en des cercles apparaissant dans les champs ?",
+    "answers": ["Les tornades", "Les orages", "Les crop circles", "Les séismes"],
+    "correctIndex": 2
   },
   {
     "id": "q24",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
-    "answers": [
-      "Sphère de Klerksdorp",
-      "Sphère d'Oman",
-      "Sphère de Taman",
-      "Sphère de Betz"
-    ],
+    "text": "Quel pays est associé aux temples antiques d’Angkor Wat ?",
+    "answers": ["Laos", "Thaïlande", "Vietnam", "Cambodge"],
     "correctIndex": 3
   },
+
   {
     "id": "q25",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
-    "answers": [
-      "Ourang Medan",
-      "Mary Celeste",
-      "Carroll A. Deering",
-      "Flying Dutchman"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal mythique est symbole de renaissance et d’immortalité ?",
+    "answers": ["Le phénix", "Le dragon", "Le griffon", "La licorne"],
+    "correctIndex": 0
   },
   {
     "id": "q26",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
-    "answers": [
-      "Sphère de Taman",
-      "Sphère d'Oman",
-      "Sphère de Klerksdorp",
-      "Sphère de Betz"
-    ],
-    "correctIndex": 3
+    "text": "Quel site grec est associé à des oracles mystérieux dans l’Antiquité ?",
+    "answers": ["Athènes", "Delphes", "Corinthe", "Sparte"],
+    "correctIndex": 1
   },
+
   {
     "id": "q27",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
-    "answers": [
-      "Aurores boréales",
-      "Lumières de Marfa",
-      "Lumières de Hessdalen",
-      "Feux de Saint-Elme"
-    ],
+    "text": "Quel type de créature est associé aux légendes de métamorphose humaine ?",
+    "answers": ["Les vampires", "Les démons", "Les loups-garous", "Les géants"],
     "correctIndex": 2
   },
   {
     "id": "q28",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
-    "answers": [
-      "Inca",
-      "Nazca",
-      "Olmèque",
-      "Maya"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé aux légendes de momies maudites ?",
+    "answers": ["Grèce", "Chine", "Mexique", "Égypte"],
+    "correctIndex": 3
   },
+
   {
     "id": "q29",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
-    "answers": [
-      "Sphère d'Oman",
-      "Sphère de Taman",
-      "Sphère de Betz",
-      "Sphère de Klerksdorp"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal mythique est mi-aigle mi-lion selon la mythologie ?",
+    "answers": ["Le griffon", "Le sphinx", "Le centaure", "Le minotaure"],
+    "correctIndex": 0
   },
   {
     "id": "q30",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
-    "answers": [
-      "Poenari",
-      "Peleș",
-      "Corvin",
-      "Château de Bran"
-    ],
-    "correctIndex": 3
+    "text": "Quel lieu est associé aux ruines incas mystérieuses ?",
+    "answers": ["Cusco", "Machu Picchu", "Nazca", "Chan Chan"],
+    "correctIndex": 1
   },
+
   {
     "id": "q31",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
-    "answers": [
-      "Tahiti",
-      "Fidji",
-      "Guam",
-      "Île de Pâques"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène concerne des disparitions inexpliquées de navires et d’avions ?",
+    "answers": ["Les tempêtes", "Les courants marins", "Le triangle des Bermudes", "Les tsunamis"],
+    "correctIndex": 2
   },
   {
     "id": "q32",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
-    "answers": [
-      "Carnac",
-      "Stonehenge",
-      "Callanish",
-      "Avebury"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé aux légendes du roi Arthur ?",
+    "answers": ["France", "Irlande", "Écosse", "Royaume-Uni"],
+    "correctIndex": 3
   },
+
   {
     "id": "q33",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
-    "answers": [
-      "Callanish",
-      "Carnac",
-      "Avebury",
-      "Stonehenge"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal mythique est souvent gardien de lieux sacrés ?",
+    "answers": ["Le sphinx", "Le dragon", "Le lion", "Le serpent"],
+    "correctIndex": 0
   },
   {
     "id": "q34",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
-    "answers": [
-      "Peleș",
-      "Poenari",
-      "Château de Bran",
-      "Corvin"
-    ],
-    "correctIndex": 2
+    "text": "Quel site romain antique est associé à de nombreux mythes et légendes ?",
+    "answers": ["Pompéi", "Rome", "Ostie", "Herculanum"],
+    "correctIndex": 1
   },
+
   {
     "id": "q35",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
-    "answers": [
-      "Sphère de Betz",
-      "Sphère d'Oman",
-      "Sphère de Klerksdorp",
-      "Sphère de Taman"
-    ],
-    "correctIndex": 0
+    "text": "Quel type de phénomène concerne des apparitions d’esprits ou de revenants ?",
+    "answers": ["Les mirages", "Les illusions", "Les hantises", "Les reflets"],
+    "correctIndex": 2
   },
   {
     "id": "q36",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
-    "answers": [
-      "Carroll A. Deering",
-      "Mary Celeste",
-      "Flying Dutchman",
-      "Ourang Medan"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé aux légendes de temples d’or anciens ?",
+    "answers": ["Népal", "Sri Lanka", "Inde", "Myanmar"],
+    "correctIndex": 3
   },
+
   {
     "id": "q37",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
-    "answers": [
-      "Douglas Bader",
-      "Charles Lindbergh",
-      "Glenn Miller",
-      "Antoine de Saint-Exupéry"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal mythique est lié aux épreuves héroïques dans de nombreux récits ?",
+    "answers": ["Le dragon", "Le taureau", "Le loup", "Le cheval"],
+    "correctIndex": 0
   },
   {
     "id": "q38",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
-    "answers": [
-      "Fridtjof Nansen",
-      "Ernest Shackleton",
-      "Umberto Nobile",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 3
+    "text": "Quel site d’Asie du Sud-Est est célèbre pour ses temples monumentaux anciens ?",
+    "answers": ["Ayutthaya", "Angkor", "Bagan", "Borobudur"],
+    "correctIndex": 1
   },
+
   {
     "id": "q39",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
-    "answers": [
-      "Lumières de Marfa",
-      "Feux de Saint-Elme",
-      "Aurores boréales",
-      "Lumières de Hessdalen"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène concerne des messages supposés provenir d’intelligences extraterrestres ?",
+    "answers": ["Les orages", "Les ondes radio", "Les messages extraterrestres", "Les signaux marins"],
+    "correctIndex": 2
   },
   {
     "id": "q40",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
-    "answers": [
-      "Lumières de Marfa",
-      "Aurores boréales",
-      "Feux de Saint-Elme",
-      "Lumières de Hessdalen"
-    ],
+    "text": "Quel pays est associé aux légendes de montagnes sacrées himalayennes ?",
+    "answers": ["Bhoutan", "Chine", "Inde", "Népal"],
     "correctIndex": 3
   },
+
   {
     "id": "q41",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
-    "answers": [
-      "Carnac",
-      "Callanish",
-      "Stonehenge",
-      "Avebury"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal mythique est symbole de protection magique ?",
+    "answers": ["Le dragon", "Le corbeau", "Le cerf", "Le renard"],
+    "correctIndex": 0
   },
   {
     "id": "q42",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
-    "answers": [
-      "Umberto Nobile",
-      "Fridtjof Nansen",
-      "Roald Amundsen",
-      "Ernest Shackleton"
-    ],
-    "correctIndex": 2
+    "text": "Quel lieu antique est associé à des mystères religieux en Mésopotamie ?",
+    "answers": ["Ur", "Babylone", "Ninive", "Suse"],
+    "correctIndex": 1
   },
+
   {
     "id": "q43",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
-    "answers": [
-      "Corvin",
-      "Château de Bran",
-      "Peleș",
-      "Poenari"
-    ],
-    "correctIndex": 1
+    "text": "Quel type de créature est associé aux légendes de l’ombre et de la nuit ?",
+    "answers": ["Les anges", "Les fées", "Les vampires", "Les héros"],
+    "correctIndex": 2
   },
   {
     "id": "q44",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
-    "answers": [
-      "Lumières de Hessdalen",
-      "Lumières de Marfa",
-      "Aurores boréales",
-      "Feux de Saint-Elme"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays est associé aux temples antiques de Pétra ?",
+    "answers": ["Syrie", "Israël", "Arabie saoudite", "Jordanie"],
+    "correctIndex": 3
   },
+
   {
     "id": "q45",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
-    "answers": [
-      "Manuscrit de Voynich",
-      "Codex Gigas",
-      "Livre de Kells",
-      "Codex Rohonczi"
-    ],
+    "text": "Quel animal mythique est souvent gardien des secrets et des énigmes ?",
+    "answers": ["Le sphinx", "Le dragon", "Le griffon", "Le lion"],
     "correctIndex": 0
   },
   {
     "id": "q46",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
-    "answers": [
-      "Tahiti",
-      "Île de Pâques",
-      "Guam",
-      "Fidji"
-    ],
+    "text": "Quel site antique est associé aux mystères des civilisations disparues ?",
+    "answers": ["Athènes", "Babylone", "Rome", "Carthage"],
     "correctIndex": 1
   },
+
   {
     "id": "q47",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
-    "answers": [
-      "Avebury",
-      "Stonehenge",
-      "Callanish",
-      "Carnac"
-    ],
-    "correctIndex": 1
+    "text": "Quel phénomène concerne des manifestations paranormales inexpliquées ?",
+    "answers": ["Les reflets", "Les mirages", "Les phénomènes paranormaux", "Les illusions"],
+    "correctIndex": 2
   },
   {
     "id": "q48",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
-    "answers": [
-      "Umberto Nobile",
-      "Ernest Shackleton",
-      "Roald Amundsen",
-      "Fridtjof Nansen"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé aux légendes de temples antiques chinois ?",
+    "answers": ["Japon", "Corée", "Vietnam", "Chine"],
+    "correctIndex": 3
   },
+
   {
     "id": "q49",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
-    "answers": [
-      "Glenn Miller",
-      "Antoine de Saint-Exupéry",
-      "Douglas Bader",
-      "Charles Lindbergh"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal mythique est symbole de pouvoir et de feu ?",
+    "answers": ["Le dragon", "Le lion", "Le taureau", "Le serpent"],
+    "correctIndex": 0
   },
   {
     "id": "q50",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
-    "answers": [
-      "Feux de Saint-Elme",
-      "Lumières de Hessdalen",
-      "Aurores boréales",
-      "Lumières de Marfa"
-    ],
-    "correctIndex": 1
+    "text": "Quel lieu est associé aux grands mystères de l’Antiquité égyptienne ?",
+    "answers": ["Thèbes", "Memphis", "Abydos", "Gizeh"],
+    "correctIndex": 3
   },
   {
     "id": "q51",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
-    "answers": [
-      "Château de Bran",
-      "Peleș",
-      "Poenari",
-      "Corvin"
-    ],
-    "correctIndex": 0
+    "text": "Quel phénomène lumineux étrange est parfois observé lors de séismes majeurs ?",
+    "answers": ["Les aurores boréales", "Les éclairs en boule", "Les lumières sismiques", "Les feux follets"],
+    "correctIndex": 2
   },
   {
     "id": "q52",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
-    "answers": [
-      "Nazca",
-      "Olmèque",
-      "Maya",
-      "Inca"
-    ],
-    "correctIndex": 0
+    "text": "Quel continent abrite la légende de la cité perdue de l’Atlantide ?",
+    "answers": ["Asie", "Afrique", "Amérique", "Europe"],
+    "correctIndex": 3
   },
   {
     "id": "q53",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
-    "answers": [
-      "Sphère de Klerksdorp",
-      "Sphère de Taman",
-      "Sphère d'Oman",
-      "Sphère de Betz"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal mythique est souvent représenté avec un corps de cheval et une corne frontale ?",
+    "answers": ["La licorne", "Le pégase", "Le centaure", "Le griffon"],
+    "correctIndex": 0
   },
   {
     "id": "q54",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
-    "answers": [
-      "Fridtjof Nansen",
-      "Roald Amundsen",
-      "Umberto Nobile",
-      "Ernest Shackleton"
-    ],
+    "text": "Quel lieu antique est associé aux mystères d’initiation en Grèce ancienne ?",
+    "answers": ["Olympie", "Éleusis", "Athènes", "Delphes"],
     "correctIndex": 1
   },
+
   {
     "id": "q55",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
-    "answers": [
-      "Île de Pâques",
-      "Fidji",
-      "Guam",
-      "Tahiti"
-    ],
-    "correctIndex": 0
+    "text": "Quel phénomène concerne des bruits graves inexpliqués entendus dans certaines régions du monde ?",
+    "answers": ["Les ultrasons", "Les vibrations tectoniques", "Le Hum", "Les ondes marines"],
+    "correctIndex": 2
   },
   {
     "id": "q56",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
-    "answers": [
-      "Umberto Nobile",
-      "Fridtjof Nansen",
-      "Ernest Shackleton",
-      "Roald Amundsen"
-    ],
+    "text": "Quel pays est associé aux légendes de temples engloutis sous la mer ?",
+    "answers": ["Grèce", "Indonésie", "Japon", "Inde"],
     "correctIndex": 3
   },
   {
     "id": "q57",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
-    "answers": [
-      "Île de Pâques",
-      "Fidji",
-      "Guam",
-      "Tahiti"
-    ],
+    "text": "Quel animal mythique est souvent gardien des enfers dans les mythologies antiques ?",
+    "answers": ["Cerbère", "Le dragon", "Le sphinx", "Le serpent"],
     "correctIndex": 0
   },
   {
     "id": "q58",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
-    "answers": [
-      "Château de Bran",
-      "Peleș",
-      "Poenari",
-      "Corvin"
-    ],
-    "correctIndex": 0
+    "text": "Quel site antique est connu pour ses statues géantes taillées dans la roche en Égypte ?",
+    "answers": ["Saqqarah", "Abou Simbel", "Gizeh", "Karnak"],
+    "correctIndex": 1
   },
+
   {
     "id": "q59",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
-    "answers": [
-      "Lumières de Hessdalen",
-      "Lumières de Marfa",
-      "Aurores boréales",
-      "Feux de Saint-Elme"
-    ],
-    "correctIndex": 0
+    "text": "Quel type de phénomène implique des apparitions lumineuses non identifiées dans le ciel nocturne ?",
+    "answers": ["Les comètes", "Les avions", "Les OVNI", "Les étoiles filantes"],
+    "correctIndex": 2
   },
   {
     "id": "q60",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
-    "answers": [
-      "Avebury",
-      "Callanish",
-      "Carnac",
-      "Stonehenge"
-    ],
+    "text": "Quel pays est associé aux légendes de forêts réputées hantées ?",
+    "answers": ["Espagne", "Italie", "Pologne", "Allemagne"],
     "correctIndex": 3
   },
+
   {
     "id": "q61",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
-    "answers": [
-      "Poenari",
-      "Corvin",
-      "Château de Bran",
-      "Peleș"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal mythique est associé au vent et au ciel dans la mythologie grecque ?",
+    "answers": ["Pégase", "Le griffon", "L’hippogriffe", "Le dragon"],
+    "correctIndex": 0
   },
   {
     "id": "q62",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
-    "answers": [
-      "Sphère de Klerksdorp",
-      "Sphère de Taman",
-      "Sphère d'Oman",
-      "Sphère de Betz"
-    ],
-    "correctIndex": 3
+    "text": "Quel lieu est associé aux pyramides mésoaméricaines de la civilisation aztèque ?",
+    "answers": ["Tikal", "Teotihuacan", "Uxmal", "Chichén Itzá"],
+    "correctIndex": 1
   },
+
   {
     "id": "q63",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
-    "answers": [
-      "Guam",
-      "Île de Pâques",
-      "Fidji",
-      "Tahiti"
-    ],
-    "correctIndex": 1
+    "text": "Quel phénomène consiste en des visions prophétiques supposées ?",
+    "answers": ["Les hallucinations", "Les rêves lucides", "Les prophéties", "Les mirages"],
+    "correctIndex": 2
   },
   {
     "id": "q64",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
-    "answers": [
-      "Roald Amundsen",
-      "Fridtjof Nansen",
-      "Ernest Shackleton",
-      "Umberto Nobile"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays est associé aux légendes de géants dans la mythologie nordique ?",
+    "answers": ["Danemark", "Finlande", "Islande", "Norvège"],
+    "correctIndex": 3
   },
+
   {
     "id": "q65",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
-    "answers": [
-      "Carroll A. Deering",
-      "Flying Dutchman",
-      "Ourang Medan",
-      "Mary Celeste"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal mythique est souvent représenté comme mi-homme mi-taureau ?",
+    "answers": ["Le minotaure", "Le centaure", "Le griffon", "Le sphinx"],
+    "correctIndex": 0
   },
   {
     "id": "q66",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
-    "answers": [
-      "Carroll A. Deering",
-      "Flying Dutchman",
-      "Ourang Medan",
-      "Mary Celeste"
-    ],
-    "correctIndex": 3
+    "text": "Quel site antique est associé aux civilisations disparues de Mésopotamie ?",
+    "answers": ["Ur", "Babylone", "Persépolis", "Hattusa"],
+    "correctIndex": 1
   },
+
   {
     "id": "q67",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
-    "answers": [
-      "Tahiti",
-      "Guam",
-      "Île de Pâques",
-      "Fidji"
-    ],
+    "text": "Quel phénomène implique des disparitions soudaines sans explication rationnelle immédiate ?",
+    "answers": ["Les glissements de terrain", "Les tempêtes", "Les disparitions mystérieuses", "Les séismes"],
     "correctIndex": 2
   },
   {
     "id": "q68",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
-    "answers": [
-      "Château de Bran",
-      "Poenari",
-      "Corvin",
-      "Peleș"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays est associé aux légendes de cités souterraines anciennes ?",
+    "answers": ["Grèce", "Italie", "Turquie", "Iran"],
+    "correctIndex": 3
   },
+
   {
     "id": "q69",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
-    "answers": [
-      "Lumières de Marfa",
-      "Lumières de Hessdalen",
-      "Feux de Saint-Elme",
-      "Aurores boréales"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal mythique est souvent associé à la protection des trésors ?",
+    "answers": ["Le dragon", "Le serpent", "Le lion", "Le taureau"],
+    "correctIndex": 0
   },
   {
     "id": "q70",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
-    "answers": [
-      "Charles Lindbergh",
-      "Douglas Bader",
-      "Antoine de Saint-Exupéry",
-      "Glenn Miller"
-    ],
-    "correctIndex": 2
+    "text": "Quel lieu antique est associé aux mystères religieux de l’Égypte ancienne ?",
+    "answers": ["Abydos", "Louxor", "Memphis", "Thèbes"],
+    "correctIndex": 1
   },
+
   {
     "id": "q71",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
-    "answers": [
-      "Avebury",
-      "Callanish",
-      "Stonehenge",
-      "Carnac"
-    ],
+    "text": "Quel phénomène désigne des lumières observées au-dessus des océans sans source connue ?",
+    "answers": ["Les aurores", "Les reflets", "Les lumières marines", "Les météores"],
     "correctIndex": 2
   },
   {
     "id": "q72",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
-    "answers": [
-      "Livre de Kells",
-      "Codex Gigas",
-      "Codex Rohonczi",
-      "Manuscrit de Voynich"
-    ],
+    "text": "Quel pays est associé aux légendes de temples d’or cachés ?",
+    "answers": ["Cambodge", "Thaïlande", "Laos", "Inde"],
     "correctIndex": 3
   },
+
   {
     "id": "q73",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
-    "answers": [
-      "Codex Rohonczi",
-      "Livre de Kells",
-      "Manuscrit de Voynich",
-      "Codex Gigas"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal mythique est symbole de vigilance et de savoir ?",
+    "answers": ["Le sphinx", "Le dragon", "Le hibou", "Le griffon"],
+    "correctIndex": 0
   },
   {
     "id": "q74",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
-    "answers": [
-      "Inca",
-      "Nazca",
-      "Maya",
-      "Olmèque"
-    ],
+    "text": "Quel site antique est associé aux mystères des civilisations andines ?",
+    "answers": ["Cusco", "Machu Picchu", "Nazca", "Tiwanaku"],
     "correctIndex": 1
   },
+
   {
     "id": "q75",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
-    "answers": [
-      "Codex Rohonczi",
-      "Livre de Kells",
-      "Manuscrit de Voynich",
-      "Codex Gigas"
-    ],
+    "text": "Quel phénomène implique des sons inexpliqués perçus avant des catastrophes naturelles ?",
+    "answers": ["Les échos", "Les infrasons", "Les précurseurs sismiques", "Les vibrations"],
     "correctIndex": 2
   },
   {
     "id": "q76",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
-    "answers": [
-      "Guam",
-      "Île de Pâques",
-      "Tahiti",
-      "Fidji"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé aux légendes du golem ?",
+    "answers": ["Autriche", "Allemagne", "Hongrie", "République tchèque"],
+    "correctIndex": 3
   },
+
   {
     "id": "q77",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
-    "answers": [
-      "Stonehenge",
-      "Callanish",
-      "Carnac",
-      "Avebury"
-    ],
+    "text": "Quel animal mythique est souvent lié aux tempêtes marines ?",
+    "answers": ["Le kraken", "Le léviathan", "La sirène", "Le serpent"],
     "correctIndex": 0
   },
   {
     "id": "q78",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
-    "answers": [
-      "Fridtjof Nansen",
-      "Ernest Shackleton",
-      "Umberto Nobile",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 3
+    "text": "Quel lieu antique est associé aux oracles et aux prophéties ?",
+    "answers": ["Athènes", "Delphes", "Corinthe", "Argos"],
+    "correctIndex": 1
   },
+
   {
     "id": "q79",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
-    "answers": [
-      "Callanish",
-      "Avebury",
-      "Carnac",
-      "Stonehenge"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène implique des figures géométriques géantes visibles depuis le ciel ?",
+    "answers": ["Les pyramides", "Les cercles de pierre", "Les géoglyphes", "Les ruines"],
+    "correctIndex": 2
   },
   {
     "id": "q80",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
-    "answers": [
-      "Carnac",
-      "Callanish",
-      "Avebury",
-      "Stonehenge"
-    ],
+    "text": "Quel pays est associé aux légendes de montagnes sacrées anciennes ?",
+    "answers": ["Bhoutan", "Pakistan", "Chine", "Népal"],
     "correctIndex": 3
   },
+
   {
     "id": "q81",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
-    "answers": [
-      "Carnac",
-      "Avebury",
-      "Stonehenge",
-      "Callanish"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal mythique est souvent associé à la justice divine ?",
+    "answers": ["Le sphinx", "Le dragon", "L’aigle", "Le lion"],
+    "correctIndex": 0
   },
   {
     "id": "q82",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
-    "answers": [
-      "Douglas Bader",
-      "Charles Lindbergh",
-      "Glenn Miller",
-      "Antoine de Saint-Exupéry"
-    ],
-    "correctIndex": 3
+    "text": "Quel site antique est associé aux mystères des peuples celtiques ?",
+    "answers": ["Stonehenge", "Newgrange", "Avebury", "Carnac"],
+    "correctIndex": 1
   },
+
   {
     "id": "q83",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
-    "answers": [
-      "Feux de Saint-Elme",
-      "Lumières de Marfa",
-      "Lumières de Hessdalen",
-      "Aurores boréales"
-    ],
+    "text": "Quel phénomène concerne des apparitions de silhouettes humaines sans source identifiable ?",
+    "answers": ["Les mirages", "Les illusions d’optique", "Les apparitions", "Les reflets"],
     "correctIndex": 2
   },
   {
     "id": "q84",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
-    "answers": [
-      "Roald Amundsen",
-      "Fridtjof Nansen",
-      "Ernest Shackleton",
-      "Umberto Nobile"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays est associé aux légendes de temples perchés dans les montagnes ?",
+    "answers": ["Chine", "Corée", "Japon", "Népal"],
+    "correctIndex": 3
   },
+
   {
     "id": "q85",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
-    "answers": [
-      "Codex Gigas",
-      "Manuscrit de Voynich",
-      "Livre de Kells",
-      "Codex Rohonczi"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal mythique est symbole de puissance et de domination ?",
+    "answers": ["Le dragon", "Le lion", "Le taureau", "Le cheval"],
+    "correctIndex": 0
   },
   {
     "id": "q86",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
-    "answers": [
-      "Stonehenge",
-      "Carnac",
-      "Callanish",
-      "Avebury"
-    ],
-    "correctIndex": 0
+    "text": "Quel site antique est associé aux mystères de la civilisation hittite ?",
+    "answers": ["Troie", "Hattusa", "Pergame", "Éphèse"],
+    "correctIndex": 1
   },
+
   {
     "id": "q87",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
-    "answers": [
-      "Sphère de Klerksdorp",
-      "Sphère de Taman",
-      "Sphère de Betz",
-      "Sphère d'Oman"
-    ],
+    "text": "Quel phénomène implique des perceptions extrasensorielles supposées ?",
+    "answers": ["Les intuitions", "Les rêves", "La télépathie", "Les coïncidences"],
     "correctIndex": 2
   },
   {
     "id": "q88",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
-    "answers": [
-      "Manuscrit de Voynich",
-      "Codex Gigas",
-      "Codex Rohonczi",
-      "Livre de Kells"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays est associé aux légendes de cités d’or disparues ?",
+    "answers": ["Pérou", "Bolivie", "Colombie", "Brésil"],
+    "correctIndex": 3
   },
+
   {
     "id": "q89",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
-    "answers": [
-      "Mary Celeste",
-      "Flying Dutchman",
-      "Carroll A. Deering",
-      "Ourang Medan"
-    ],
+    "text": "Quel animal mythique est associé à la nuit et à l’obscurité ?",
+    "answers": ["Le vampire", "Le loup", "Le dragon", "Le serpent"],
     "correctIndex": 0
   },
   {
     "id": "q90",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
-    "answers": [
-      "Charles Lindbergh",
-      "Douglas Bader",
-      "Glenn Miller",
-      "Antoine de Saint-Exupéry"
-    ],
-    "correctIndex": 3
+    "text": "Quel lieu antique est associé aux mystères funéraires de l’Égypte ancienne ?",
+    "answers": ["Saqqarah", "Vallée des Rois", "Gizeh", "Abydos"],
+    "correctIndex": 1
   },
+
   {
     "id": "q91",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
-    "answers": [
-      "Charles Lindbergh",
-      "Antoine de Saint-Exupéry",
-      "Glenn Miller",
-      "Douglas Bader"
-    ],
-    "correctIndex": 1
+    "text": "Quel phénomène concerne des objets se déplaçant sans explication physique apparente ?",
+    "answers": ["Les glissements", "Les illusions", "La télékinésie", "Les vibrations"],
+    "correctIndex": 2
   },
   {
     "id": "q92",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
-    "answers": [
-      "Douglas Bader",
-      "Glenn Miller",
-      "Charles Lindbergh",
-      "Antoine de Saint-Exupéry"
-    ],
+    "text": "Quel pays est associé aux légendes de montagnes sacrées japonaises ?",
+    "answers": ["Chine", "Corée", "Taïwan", "Japon"],
     "correctIndex": 3
   },
+
   {
     "id": "q93",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
-    "answers": [
-      "Guam",
-      "Île de Pâques",
-      "Tahiti",
-      "Fidji"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal mythique est symbole de renaissance spirituelle ?",
+    "answers": ["Le phénix", "Le dragon", "La licorne", "Le griffon"],
+    "correctIndex": 0
   },
   {
     "id": "q94",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
-    "answers": [
-      "Avebury",
-      "Carnac",
-      "Stonehenge",
-      "Callanish"
-    ],
-    "correctIndex": 2
+    "text": "Quel site antique est associé aux mystères de la civilisation minoenne ?",
+    "answers": ["Mycènes", "Cnossos", "Phaistos", "Mallia"],
+    "correctIndex": 1
   },
+
   {
     "id": "q95",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
-    "answers": [
-      "Douglas Bader",
-      "Antoine de Saint-Exupéry",
-      "Glenn Miller",
-      "Charles Lindbergh"
-    ],
-    "correctIndex": 1
+    "text": "Quel phénomène désigne des visions annonçant des événements futurs ?",
+    "answers": ["Les coïncidences", "Les rêves", "Les prémonitions", "Les illusions"],
+    "correctIndex": 2
   },
   {
     "id": "q96",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
-    "answers": [
-      "Ourang Medan",
-      "Carroll A. Deering",
-      "Mary Celeste",
-      "Flying Dutchman"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé aux légendes de temples perchés au sommet de falaises ?",
+    "answers": ["Grèce", "Italie", "Chine", "Thaïlande"],
+    "correctIndex": 3
   },
+
   {
     "id": "q97",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
-    "answers": [
-      "Ourang Medan",
-      "Mary Celeste",
-      "Carroll A. Deering",
-      "Flying Dutchman"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal mythique est associé aux épreuves initiatiques des héros ?",
+    "answers": ["Le dragon", "Le lion", "Le taureau", "Le cheval"],
+    "correctIndex": 0
   },
   {
     "id": "q98",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
-    "answers": [
-      "Poenari",
-      "Corvin",
-      "Château de Bran",
-      "Peleș"
-    ],
-    "correctIndex": 2
+    "text": "Quel site antique est associé aux mystères de la civilisation sumérienne ?",
+    "answers": ["Ur", "Lagash", "Nippur", "Eridu"],
+    "correctIndex": 1
   },
+
   {
     "id": "q99",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
-    "answers": [
-      "Livre de Kells",
-      "Codex Gigas",
-      "Manuscrit de Voynich",
-      "Codex Rohonczi"
-    ],
+    "text": "Quel phénomène concerne des apparitions lumineuses humaines non identifiées ?",
+    "answers": ["Les reflets", "Les ombres", "Les apparitions lumineuses", "Les mirages"],
     "correctIndex": 2
   },
   {
     "id": "q100",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
-    "answers": [
-      "Charles Lindbergh",
-      "Douglas Bader",
-      "Antoine de Saint-Exupéry",
-      "Glenn Miller"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé aux légendes de temples antiques enfouis dans la jungle ?",
+    "answers": ["Thaïlande", "Vietnam", "Laos", "Cambodge"],
+    "correctIndex": 3
   },
   {
     "id": "q101",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
-    "answers": [
-      "Carroll A. Deering",
-      "Ourang Medan",
-      "Flying Dutchman",
-      "Mary Celeste"
-    ],
-    "correctIndex": 3
+    "text": "Quel manuscrit antique est célèbre pour son texte chiffré encore partiellement incompris ?",
+    "answers": ["Le manuscrit de Voynich", "Le Codex Alexandrinus", "Le Papyrus d’Ebers", "Le Rouleau de cuivre"],
+    "correctIndex": 0
   },
   {
     "id": "q102",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
-    "answers": [
-      "Olmèque",
-      "Maya",
-      "Nazca",
-      "Inca"
-    ],
-    "correctIndex": 2
+    "text": "Quel site mégalithique irlandais est plus ancien que Stonehenge et les pyramides de Gizeh ?",
+    "answers": ["Carnac", "Newgrange", "Avebury", "Callanish"],
+    "correctIndex": 1
   },
   {
     "id": "q103",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
-    "answers": [
-      "Château de Bran",
-      "Corvin",
-      "Peleș",
-      "Poenari"
-    ],
-    "correctIndex": 0
+    "text": "Quel phénomène désigne des apparitions lumineuses sphériques observées lors d’orages ?",
+    "answers": ["Les météores", "Les aurores", "Les éclairs en boule", "Les feux follets"],
+    "correctIndex": 2
   },
   {
     "id": "q104",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
-    "answers": [
-      "Nazca",
-      "Maya",
-      "Inca",
-      "Olmèque"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays est associé aux légendes de temples troglodytiques de Cappadoce ?",
+    "answers": ["Grèce", "Iran", "Arménie", "Turquie"],
+    "correctIndex": 3
   },
+
   {
     "id": "q105",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
-    "answers": [
-      "Codex Rohonczi",
-      "Livre de Kells",
-      "Manuscrit de Voynich",
-      "Codex Gigas"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal mythique est gardien du savoir secret dans la mythologie égyptienne ?",
+    "answers": ["Le sphinx", "Le chacal", "Le serpent", "Le faucon"],
+    "correctIndex": 0
   },
   {
     "id": "q106",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
-    "answers": [
-      "Nazca",
-      "Maya",
-      "Olmèque",
-      "Inca"
-    ],
-    "correctIndex": 0
+    "text": "Quel site andin est célèbre pour ses blocs de pierre assemblés sans mortier ?",
+    "answers": ["Nazca", "Sacsayhuamán", "Chan Chan", "Tiwanaku"],
+    "correctIndex": 1
   },
   {
     "id": "q107",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
-    "answers": [
-      "Carnac",
-      "Avebury",
-      "Callanish",
-      "Stonehenge"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène désigne la capacité supposée de déplacer des objets par la pensée ?",
+    "answers": ["La clairvoyance", "La télépathie", "La télékinésie", "La précognition"],
+    "correctIndex": 2
   },
   {
     "id": "q108",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
-    "answers": [
-      "Stonehenge",
-      "Callanish",
-      "Carnac",
-      "Avebury"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays est associé aux légendes des montagnes sacrées de l’Himalaya ?",
+    "answers": ["Pakistan", "Inde", "Bhoutan", "Népal"],
+    "correctIndex": 3
   },
+
   {
     "id": "q109",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
-    "answers": [
-      "Codex Gigas",
-      "Livre de Kells",
-      "Manuscrit de Voynich",
-      "Codex Rohonczi"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal mythique est souvent représenté comme messager entre les mondes ?",
+    "answers": ["Le corbeau", "Le dragon", "Le loup", "Le taureau"],
+    "correctIndex": 0
   },
   {
     "id": "q110",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
-    "answers": [
-      "Stonehenge",
-      "Callanish",
-      "Avebury",
-      "Carnac"
-    ],
-    "correctIndex": 0
+    "text": "Quel lieu antique est associé aux Mystères dionysiaques en Grèce ?",
+    "answers": ["Olympie", "Éleusis", "Delphes", "Athènes"],
+    "correctIndex": 1
   },
   {
     "id": "q111",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
-    "answers": [
-      "Tahiti",
-      "Île de Pâques",
-      "Guam",
-      "Fidji"
-    ],
-    "correctIndex": 1
+    "text": "Quel phénomène désigne la perception d’événements avant qu’ils ne se produisent ?",
+    "answers": ["La divination", "La prophétie", "La précognition", "La réminiscence"],
+    "correctIndex": 2
   },
   {
     "id": "q112",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
-    "answers": [
-      "Douglas Bader",
-      "Antoine de Saint-Exupéry",
-      "Glenn Miller",
-      "Charles Lindbergh"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé aux lignes géantes gravées dans le désert d’Atacama ?",
+    "answers": ["Pérou", "Bolivie", "Argentine", "Chili"],
+    "correctIndex": 3
   },
+
   {
     "id": "q113",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
-    "answers": [
-      "Poenari",
-      "Peleș",
-      "Château de Bran",
-      "Corvin"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal mythique est symbole de cycle éternel et de renouveau ?",
+    "answers": ["Le phénix", "Le dragon", "Le griffon", "La licorne"],
+    "correctIndex": 0
   },
   {
     "id": "q114",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
-    "answers": [
-      "Château de Bran",
-      "Peleș",
-      "Corvin",
-      "Poenari"
-    ],
-    "correctIndex": 0
+    "text": "Quel site antique est associé aux mystères funéraires de la civilisation étrusque ?",
+    "answers": ["Rome", "Cerveteri", "Pompéi", "Tarente"],
+    "correctIndex": 1
   },
   {
     "id": "q115",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
-    "answers": [
-      "Ourang Medan",
-      "Carroll A. Deering",
-      "Flying Dutchman",
-      "Mary Celeste"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène concerne des expériences de sortie supposée du corps ?",
+    "answers": ["Les hallucinations", "Les rêves lucides", "Les expériences extracorporelles", "Les transes"],
+    "correctIndex": 2
   },
   {
     "id": "q116",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
-    "answers": [
-      "Carnac",
-      "Avebury",
-      "Callanish",
-      "Stonehenge"
-    ],
+    "text": "Quel pays est associé aux légendes des temples de Borobudur ?",
+    "answers": ["Thaïlande", "Cambodge", "Malaisie", "Indonésie"],
     "correctIndex": 3
   },
+
   {
     "id": "q117",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
-    "answers": [
-      "Umberto Nobile",
-      "Ernest Shackleton",
-      "Fridtjof Nansen",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal mythique est lié aux portes du monde souterrain ?",
+    "answers": ["Cerbère", "Le dragon", "Le minotaure", "Le sphinx"],
+    "correctIndex": 0
   },
   {
     "id": "q118",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
-    "answers": [
-      "Poenari",
-      "Château de Bran",
-      "Peleș",
-      "Corvin"
-    ],
+    "text": "Quel site ancien est associé aux mystères de la civilisation nabatéenne ?",
+    "answers": ["Palmyre", "Pétra", "Byblos", "Tyr"],
     "correctIndex": 1
   },
   {
     "id": "q119",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
-    "answers": [
-      "Livre de Kells",
-      "Codex Gigas",
-      "Manuscrit de Voynich",
-      "Codex Rohonczi"
-    ],
+    "text": "Quel phénomène désigne la capacité supposée de lire dans les pensées ?",
+    "answers": ["La clairvoyance", "La médiumnité", "La télépathie", "La divination"],
     "correctIndex": 2
   },
   {
     "id": "q120",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
-    "answers": [
-      "Château de Bran",
-      "Corvin",
-      "Peleș",
-      "Poenari"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays est associé aux légendes des temples suspendus du mont Heng ?",
+    "answers": ["Corée", "Japon", "Mongolie", "Chine"],
+    "correctIndex": 3
   },
+
   {
     "id": "q121",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
-    "answers": [
-      "Nazca",
-      "Inca",
-      "Maya",
-      "Olmèque"
-    ],
+    "text": "Quel animal mythique est souvent symbole de justice et d’énigme ?",
+    "answers": ["Le sphinx", "Le lion", "Le dragon", "Le serpent"],
     "correctIndex": 0
   },
   {
     "id": "q122",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
-    "answers": [
-      "Corvin",
-      "Peleș",
-      "Poenari",
-      "Château de Bran"
-    ],
-    "correctIndex": 3
+    "text": "Quel site précolombien est célèbre pour ses têtes colossales de pierre ?",
+    "answers": ["Teotihuacan", "La Venta", "Monte Albán", "Tula"],
+    "correctIndex": 1
   },
   {
     "id": "q123",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
-    "answers": [
-      "Lumières de Marfa",
-      "Aurores boréales",
-      "Feux de Saint-Elme",
-      "Lumières de Hessdalen"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène désigne la communication supposée avec les morts ?",
+    "answers": ["La divination", "La clairaudience", "La médiumnité", "La transe"],
+    "correctIndex": 2
   },
   {
     "id": "q124",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
-    "answers": [
-      "Douglas Bader",
-      "Antoine de Saint-Exupéry",
-      "Glenn Miller",
-      "Charles Lindbergh"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé aux légendes de la forêt d’Aokigahara ?",
+    "answers": ["Chine", "Corée", "Taïwan", "Japon"],
+    "correctIndex": 3
   },
+
   {
     "id": "q125",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
-    "answers": [
-      "Antoine de Saint-Exupéry",
-      "Charles Lindbergh",
-      "Glenn Miller",
-      "Douglas Bader"
-    ],
+    "text": "Quel animal mythique est symbole de pouvoir céleste en Asie ?",
+    "answers": ["Le dragon", "Le tigre", "Le serpent", "Le phénix"],
     "correctIndex": 0
   },
   {
     "id": "q126",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
-    "answers": [
-      "Antoine de Saint-Exupéry",
-      "Glenn Miller",
-      "Charles Lindbergh",
-      "Douglas Bader"
-    ],
-    "correctIndex": 0
+    "text": "Quel site antique est associé aux mystères oraculaires de la civilisation romaine ?",
+    "answers": ["Rome", "Cumes", "Ostie", "Capoue"],
+    "correctIndex": 1
   },
   {
     "id": "q127",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
-    "answers": [
-      "Maya",
-      "Olmèque",
-      "Nazca",
-      "Inca"
-    ],
+    "text": "Quel phénomène concerne des perceptions sensorielles sans stimulus physique ?",
+    "answers": ["Les illusions", "Les hallucinations", "Les perceptions extrasensorielles", "Les mirages"],
     "correctIndex": 2
   },
   {
     "id": "q128",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
-    "answers": [
-      "Corvin",
-      "Poenari",
-      "Château de Bran",
-      "Peleș"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé aux cercles de pierres de Carnac ?",
+    "answers": ["Irlande", "Écosse", "Pays de Galles", "France"],
+    "correctIndex": 3
   },
+
   {
     "id": "q129",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
-    "answers": [
-      "Fidji",
-      "Tahiti",
-      "Guam",
-      "Île de Pâques"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal mythique est associé à la sagesse ancienne et aux énigmes ?",
+    "answers": ["Le sphinx", "Le hibou", "Le dragon", "Le griffon"],
+    "correctIndex": 0
   },
   {
     "id": "q130",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
-    "answers": [
-      "Aurores boréales",
-      "Lumières de Marfa",
-      "Feux de Saint-Elme",
-      "Lumières de Hessdalen"
-    ],
-    "correctIndex": 3
+    "text": "Quel site est associé aux mystères de la civilisation olmèque ?",
+    "answers": ["Monte Albán", "La Venta", "Teotihuacan", "Tikal"],
+    "correctIndex": 1
   },
   {
     "id": "q131",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
-    "answers": [
-      "Île de Pâques",
-      "Fidji",
-      "Guam",
-      "Tahiti"
-    ],
-    "correctIndex": 0
+    "text": "Quel phénomène désigne la prédiction de l’avenir par des signes naturels ?",
+    "answers": ["L’astrologie", "La divination", "La prophétie", "La numérologie"],
+    "correctIndex": 2
   },
   {
     "id": "q132",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
-    "answers": [
-      "Fridtjof Nansen",
-      "Ernest Shackleton",
-      "Umberto Nobile",
-      "Roald Amundsen"
-    ],
+    "text": "Quel pays est associé aux temples taillés dans la roche de Lalibela ?",
+    "answers": ["Égypte", "Soudan", "Érythrée", "Éthiopie"],
     "correctIndex": 3
   },
+
   {
     "id": "q133",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
-    "answers": [
-      "Mary Celeste",
-      "Ourang Medan",
-      "Flying Dutchman",
-      "Carroll A. Deering"
-    ],
+    "text": "Quel animal mythique est symbole de passage entre vie et mort ?",
+    "answers": ["Le corbeau", "Le chien", "Le serpent", "Le taureau"],
     "correctIndex": 0
   },
   {
     "id": "q134",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
-    "answers": [
-      "Callanish",
-      "Avebury",
-      "Carnac",
-      "Stonehenge"
-    ],
-    "correctIndex": 3
+    "text": "Quel site antique est associé aux mystères de la civilisation mycénienne ?",
+    "answers": ["Delphes", "Mycènes", "Tirynthe", "Argos"],
+    "correctIndex": 1
   },
   {
     "id": "q135",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
-    "answers": [
-      "Mary Celeste",
-      "Carroll A. Deering",
-      "Ourang Medan",
-      "Flying Dutchman"
-    ],
-    "correctIndex": 0
+    "text": "Quel phénomène concerne des visions obtenues en état de transe ?",
+    "answers": ["Les rêves", "Les hallucinations", "Les visions chamaniques", "Les mirages"],
+    "correctIndex": 2
   },
   {
     "id": "q136",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
-    "answers": [
-      "Sphère de Betz",
-      "Sphère de Klerksdorp",
-      "Sphère de Taman",
-      "Sphère d'Oman"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays est associé aux statues géantes de l’île de Pâques ?",
+    "answers": ["Polynésie", "Pérou", "Chili", "Nouvelle-Zélande"],
+    "correctIndex": 3
   },
+
   {
     "id": "q137",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
-    "answers": [
-      "Aurores boréales",
-      "Feux de Saint-Elme",
-      "Lumières de Marfa",
-      "Lumières de Hessdalen"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal mythique est symbole de protection spirituelle ?",
+    "answers": ["Le griffon", "Le lion", "Le dragon", "Le taureau"],
+    "correctIndex": 0
   },
   {
     "id": "q138",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
-    "answers": [
-      "Maya",
-      "Nazca",
-      "Olmèque",
-      "Inca"
-    ],
+    "text": "Quel site est associé aux mystères astronomiques de la civilisation maya ?",
+    "answers": ["Copán", "Chichén Itzá", "Tulum", "Uxmal"],
     "correctIndex": 1
   },
   {
     "id": "q139",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
-    "answers": [
-      "Île de Pâques",
-      "Tahiti",
-      "Guam",
-      "Fidji"
-    ],
-    "correctIndex": 0
+    "text": "Quel phénomène désigne la capacité supposée de percevoir des auras ?",
+    "answers": ["La clairvoyance", "La synesthésie", "La perception aurique", "La divination"],
+    "correctIndex": 2
   },
   {
     "id": "q140",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
-    "answers": [
-      "Charles Lindbergh",
-      "Douglas Bader",
-      "Glenn Miller",
-      "Antoine de Saint-Exupéry"
-    ],
+    "text": "Quel pays est associé aux temples antiques d’Angkor Thom ?",
+    "answers": ["Thaïlande", "Laos", "Vietnam", "Cambodge"],
     "correctIndex": 3
   },
+
   {
     "id": "q141",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
-    "answers": [
-      "Codex Gigas",
-      "Livre de Kells",
-      "Codex Rohonczi",
-      "Manuscrit de Voynich"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal mythique est souvent associé à la connaissance interdite ?",
+    "answers": ["Le serpent", "Le dragon", "Le corbeau", "Le sphinx"],
+    "correctIndex": 0
   },
   {
     "id": "q142",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
-    "answers": [
-      "Guam",
-      "Fidji",
-      "Tahiti",
-      "Île de Pâques"
-    ],
-    "correctIndex": 3
+    "text": "Quel site antique est lié aux mystères de la civilisation hittite ?",
+    "answers": ["Troie", "Hattusa", "Pergame", "Sardes"],
+    "correctIndex": 1
   },
   {
     "id": "q143",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
-    "answers": [
-      "Manuscrit de Voynich",
-      "Codex Gigas",
-      "Codex Rohonczi",
-      "Livre de Kells"
-    ],
-    "correctIndex": 0
+    "text": "Quel phénomène concerne des prédictions basées sur les rêves ?",
+    "answers": ["La divination", "La prophétie", "L’oniromancie", "La clairvoyance"],
+    "correctIndex": 2
   },
   {
     "id": "q144",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
-    "answers": [
-      "Callanish",
-      "Carnac",
-      "Avebury",
-      "Stonehenge"
-    ],
+    "text": "Quel pays est associé aux légendes de temples perdus dans la jungle birmane ?",
+    "answers": ["Thaïlande", "Laos", "Cambodge", "Myanmar"],
     "correctIndex": 3
   },
+
   {
     "id": "q145",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
-    "answers": [
-      "Feux de Saint-Elme",
-      "Lumières de Hessdalen",
-      "Lumières de Marfa",
-      "Aurores boréales"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal mythique est symbole de vigilance et de seuils sacrés ?",
+    "answers": ["Le sphinx", "Le dragon", "Le lion", "Le chien"],
+    "correctIndex": 0
   },
   {
     "id": "q146",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
-    "answers": [
-      "Carnac",
-      "Avebury",
-      "Callanish",
-      "Stonehenge"
-    ],
-    "correctIndex": 3
+    "text": "Quel site est associé aux mystères funéraires de la Vallée des Rois ?",
+    "answers": ["Saqqarah", "Vallée des Rois", "Gizeh", "Abydos"],
+    "correctIndex": 1
   },
   {
     "id": "q147",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
-    "answers": [
-      "Peleș",
-      "Château de Bran",
-      "Corvin",
-      "Poenari"
-    ],
-    "correctIndex": 1
+    "text": "Quel phénomène désigne l’interprétation des signes célestes ?",
+    "answers": ["L’astronomie", "L’astrophysique", "L’astrologie", "La météorologie"],
+    "correctIndex": 2
   },
   {
     "id": "q148",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
-    "answers": [
-      "Mary Celeste",
-      "Flying Dutchman",
-      "Carroll A. Deering",
-      "Ourang Medan"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays est associé aux temples rupestres d’Ellora ?",
+    "answers": ["Pakistan", "Népal", "Sri Lanka", "Inde"],
+    "correctIndex": 3
   },
+
   {
     "id": "q149",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
-    "answers": [
-      "Île de Pâques",
-      "Fidji",
-      "Tahiti",
-      "Guam"
-    ],
+    "text": "Quel animal mythique est souvent associé aux épreuves initiatiques ?",
+    "answers": ["Le dragon", "Le lion", "Le taureau", "Le cheval"],
     "correctIndex": 0
   },
   {
     "id": "q150",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
-    "answers": [
-      "Maya",
-      "Inca",
-      "Olmèque",
-      "Nazca"
-    ],
+    "text": "Quel lieu antique est associé aux grands mystères de la civilisation égyptienne ?",
+    "answers": ["Memphis", "Thèbes", "Abydos", "Gizeh"],
     "correctIndex": 3
   },
   {
     "id": "q151",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
-    "answers": [
-      "Livre de Kells",
-      "Codex Rohonczi",
-      "Manuscrit de Voynich",
-      "Codex Gigas"
-    ],
+    "text": "Quel phénomène désigne l’apparition répétée de chiffres identiques perçus comme porteurs de sens ?",
+    "answers": ["La synchronicité", "La numérologie", "Les nombres miroirs", "La divination"],
     "correctIndex": 2
   },
   {
     "id": "q152",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
-    "answers": [
-      "Ernest Shackleton",
-      "Umberto Nobile",
-      "Fridtjof Nansen",
-      "Roald Amundsen"
-    ],
+    "text": "Quel pays est associé aux temples rupestres de Petra, taillés dans la roche ?",
+    "answers": ["Syrie", "Israël", "Arabie saoudite", "Jordanie"],
     "correctIndex": 3
   },
   {
     "id": "q153",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
-    "answers": [
-      "Codex Gigas",
-      "Codex Rohonczi",
-      "Manuscrit de Voynich",
-      "Livre de Kells"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal mythique est souvent associé à la frontière entre les mondes visible et invisible ?",
+    "answers": ["Le corbeau", "Le dragon", "Le serpent", "Le taureau"],
+    "correctIndex": 0
   },
   {
     "id": "q154",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
-    "answers": [
-      "Lumières de Marfa",
-      "Feux de Saint-Elme",
-      "Aurores boréales",
-      "Lumières de Hessdalen"
-    ],
-    "correctIndex": 3
+    "text": "Quel site antique est associé aux mystères religieux de la civilisation phénicienne ?",
+    "answers": ["Tyr", "Sidon", "Byblos", "Carthage"],
+    "correctIndex": 1
   },
+
   {
     "id": "q155",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
-    "answers": [
-      "Carroll A. Deering",
-      "Mary Celeste",
-      "Flying Dutchman",
-      "Ourang Medan"
-    ],
-    "correctIndex": 1
+    "text": "Quel phénomène concerne la perception supposée d’énergies invisibles autour des êtres vivants ?",
+    "answers": ["La clairvoyance", "La radiesthésie", "Les auras", "La médiumnité"],
+    "correctIndex": 2
   },
   {
     "id": "q156",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
-    "answers": [
-      "Sphère de Betz",
-      "Sphère de Taman",
-      "Sphère de Klerksdorp",
-      "Sphère d'Oman"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays est associé aux temples perchés du mont Wutai ?",
+    "answers": ["Japon", "Corée", "Mongolie", "Chine"],
+    "correctIndex": 3
   },
   {
     "id": "q157",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
-    "answers": [
-      "Inca",
-      "Nazca",
-      "Maya",
-      "Olmèque"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal mythique est symbole de passage et de transformation spirituelle ?",
+    "answers": ["Le serpent", "Le dragon", "Le loup", "Le corbeau"],
+    "correctIndex": 0
   },
   {
     "id": "q158",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
-    "answers": [
-      "Aurores boréales",
-      "Lumières de Marfa",
-      "Feux de Saint-Elme",
-      "Lumières de Hessdalen"
-    ],
-    "correctIndex": 3
+    "text": "Quel site antique est associé aux mystères astronomiques des Babyloniens ?",
+    "answers": ["Ur", "Babylone", "Nippur", "Eridu"],
+    "correctIndex": 1
   },
+
   {
     "id": "q159",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
-    "answers": [
-      "Manuscrit de Voynich",
-      "Codex Gigas",
-      "Livre de Kells",
-      "Codex Rohonczi"
-    ],
-    "correctIndex": 0
+    "text": "Quel phénomène désigne l’interprétation symbolique des coïncidences significatives ?",
+    "answers": ["La causalité", "La divination", "La synchronicité", "La superstition"],
+    "correctIndex": 2
   },
   {
     "id": "q160",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
-    "answers": [
-      "Sphère d'Oman",
-      "Sphère de Klerksdorp",
-      "Sphère de Taman",
-      "Sphère de Betz"
-    ],
+    "text": "Quel pays est associé aux temples mégalithiques de Ġgantija ?",
+    "answers": ["Italie", "Grèce", "Chypre", "Malte"],
     "correctIndex": 3
   },
+
   {
     "id": "q161",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
-    "answers": [
-      "Poenari",
-      "Château de Bran",
-      "Corvin",
-      "Peleș"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal mythique est souvent gardien de lieux sacrés dans les traditions antiques ?",
+    "answers": ["Le griffon", "Le lion", "Le dragon", "Le sphinx"],
+    "correctIndex": 0
   },
   {
     "id": "q162",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
-    "answers": [
-      "Fidji",
-      "Guam",
-      "Île de Pâques",
-      "Tahiti"
-    ],
-    "correctIndex": 2
+    "text": "Quel site est associé aux mystères de la civilisation de l’Indus ?",
+    "answers": ["Harappa", "Mohenjo-daro", "Taxila", "Lothal"],
+    "correctIndex": 1
   },
   {
     "id": "q163",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
-    "answers": [
-      "Aurores boréales",
-      "Lumières de Marfa",
-      "Lumières de Hessdalen",
-      "Feux de Saint-Elme"
-    ],
+    "text": "Quel phénomène concerne la capacité supposée de voir à distance ?",
+    "answers": ["La précognition", "La télépathie", "La clairvoyance", "La divination"],
     "correctIndex": 2
   },
   {
     "id": "q164",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
-    "answers": [
-      "Umberto Nobile",
-      "Fridtjof Nansen",
-      "Roald Amundsen",
-      "Ernest Shackleton"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé aux temples rupestres d’Ajanta ?",
+    "answers": ["Népal", "Sri Lanka", "Pakistan", "Inde"],
+    "correctIndex": 3
   },
+
   {
     "id": "q165",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
-    "answers": [
-      "Tahiti",
-      "Île de Pâques",
-      "Fidji",
-      "Guam"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal mythique est symbole de connaissance interdite ?",
+    "answers": ["Le serpent", "Le dragon", "Le sphinx", "Le corbeau"],
+    "correctIndex": 0
   },
   {
     "id": "q166",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
-    "answers": [
-      "Glenn Miller",
-      "Antoine de Saint-Exupéry",
-      "Douglas Bader",
-      "Charles Lindbergh"
-    ],
+    "text": "Quel site antique est associé aux mystères funéraires de la Nubie ?",
+    "answers": ["Mérowé", "Kerma", "Napata", "Dongola"],
     "correctIndex": 1
   },
   {
     "id": "q167",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
-    "answers": [
-      "Peleș",
-      "Château de Bran",
-      "Poenari",
-      "Corvin"
-    ],
-    "correctIndex": 1
+    "text": "Quel phénomène désigne l’influence supposée des astres sur la destinée humaine ?",
+    "answers": ["L’astronomie", "La cosmologie", "L’astrologie", "La mythologie"],
+    "correctIndex": 2
   },
   {
     "id": "q168",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
-    "answers": [
-      "Fidji",
-      "Île de Pâques",
-      "Guam",
-      "Tahiti"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé aux lignes de pierres de Callanish ?",
+    "answers": ["Irlande", "Pays de Galles", "Angleterre", "Écosse"],
+    "correctIndex": 3
   },
+
   {
     "id": "q169",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
-    "answers": [
-      "Charles Lindbergh",
-      "Glenn Miller",
-      "Douglas Bader",
-      "Antoine de Saint-Exupéry"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal mythique est symbole de vigilance et de seuils sacrés ?",
+    "answers": ["Le sphinx", "Le lion", "Le dragon", "Le chien"],
+    "correctIndex": 0
   },
   {
     "id": "q170",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
-    "answers": [
-      "Aurores boréales",
-      "Lumières de Marfa",
-      "Feux de Saint-Elme",
-      "Lumières de Hessdalen"
-    ],
-    "correctIndex": 3
+    "text": "Quel site antique est associé aux mystères de la civilisation sumérienne ?",
+    "answers": ["Lagash", "Uruk", "Nippur", "Eridu"],
+    "correctIndex": 1
   },
+
   {
     "id": "q171",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
-    "answers": [
-      "Inca",
-      "Nazca",
-      "Olmèque",
-      "Maya"
-    ],
-    "correctIndex": 1
+    "text": "Quel phénomène concerne la communication supposée avec des entités non humaines ?",
+    "answers": ["La clairaudience", "La médiumnité", "Le channeling", "La divination"],
+    "correctIndex": 2
   },
   {
     "id": "q172",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
-    "answers": [
-      "Lumières de Hessdalen",
-      "Feux de Saint-Elme",
-      "Lumières de Marfa",
-      "Aurores boréales"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays est associé aux temples antiques de Bagan ?",
+    "answers": ["Thaïlande", "Cambodge", "Laos", "Myanmar"],
+    "correctIndex": 3
   },
+
   {
     "id": "q173",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
-    "answers": [
-      "Douglas Bader",
-      "Charles Lindbergh",
-      "Glenn Miller",
-      "Antoine de Saint-Exupéry"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal mythique est associé à la renaissance cyclique ?",
+    "answers": ["Le phénix", "Le dragon", "La licorne", "Le griffon"],
+    "correctIndex": 0
   },
   {
     "id": "q174",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
-    "answers": [
-      "Île de Pâques",
-      "Fidji",
-      "Guam",
-      "Tahiti"
-    ],
-    "correctIndex": 0
+    "text": "Quel site antique est associé aux mystères de la civilisation hittite ?",
+    "answers": ["Troie", "Hattusa", "Pergame", "Sardes"],
+    "correctIndex": 1
   },
+
   {
     "id": "q175",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
-    "answers": [
-      "Manuscrit de Voynich",
-      "Livre de Kells",
-      "Codex Gigas",
-      "Codex Rohonczi"
-    ],
-    "correctIndex": 0
+    "text": "Quel phénomène désigne l’interprétation des rêves à des fins prophétiques ?",
+    "answers": ["La divination", "La précognition", "L’oniromancie", "La clairvoyance"],
+    "correctIndex": 2
   },
   {
     "id": "q176",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
-    "answers": [
-      "Île de Pâques",
-      "Guam",
-      "Fidji",
-      "Tahiti"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays est associé aux temples antiques de Sigiriya ?",
+    "answers": ["Inde", "Népal", "Bangladesh", "Sri Lanka"],
+    "correctIndex": 3
   },
+
   {
     "id": "q177",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
-    "answers": [
-      "Manuscrit de Voynich",
-      "Livre de Kells",
-      "Codex Gigas",
-      "Codex Rohonczi"
-    ],
+    "text": "Quel animal mythique est souvent gardien des secrets cosmiques ?",
+    "answers": ["Le sphinx", "Le dragon", "Le griffon", "Le lion"],
     "correctIndex": 0
   },
   {
     "id": "q178",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
-    "answers": [
-      "Mary Celeste",
-      "Carroll A. Deering",
-      "Flying Dutchman",
-      "Ourang Medan"
-    ],
-    "correctIndex": 0
+    "text": "Quel site est associé aux mystères de la civilisation de Tiwanaku ?",
+    "answers": ["Cusco", "Tiwanaku", "Nazca", "Machu Picchu"],
+    "correctIndex": 1
   },
+
   {
     "id": "q179",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
-    "answers": [
-      "Flying Dutchman",
-      "Mary Celeste",
-      "Ourang Medan",
-      "Carroll A. Deering"
-    ],
-    "correctIndex": 1
+    "text": "Quel phénomène désigne la perception d’événements futurs en état modifié de conscience ?",
+    "answers": ["La prophétie", "La divination", "La précognition", "La transe"],
+    "correctIndex": 2
   },
   {
     "id": "q180",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
-    "answers": [
-      "Lumières de Marfa",
-      "Aurores boréales",
-      "Lumières de Hessdalen",
-      "Feux de Saint-Elme"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé aux temples mégalithiques de Mnajdra ?",
+    "answers": ["Grèce", "Chypre", "Sardaigne", "Malte"],
+    "correctIndex": 3
   },
+
   {
     "id": "q181",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
-    "answers": [
-      "Callanish",
-      "Avebury",
-      "Carnac",
-      "Stonehenge"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal mythique est symbole d’équilibre entre chaos et ordre ?",
+    "answers": ["Le dragon", "Le lion", "Le serpent", "Le taureau"],
+    "correctIndex": 0
   },
   {
     "id": "q182",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
-    "answers": [
-      "Codex Gigas",
-      "Livre de Kells",
-      "Codex Rohonczi",
-      "Manuscrit de Voynich"
-    ],
-    "correctIndex": 3
+    "text": "Quel site antique est associé aux mystères de la civilisation carthaginoise ?",
+    "answers": ["Utique", "Carthage", "Hippo Regius", "Byrsa"],
+    "correctIndex": 1
   },
+
   {
     "id": "q183",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
-    "answers": [
-      "Inca",
-      "Olmèque",
-      "Nazca",
-      "Maya"
-    ],
+    "text": "Quel phénomène concerne la perception supposée d’ondes telluriques ?",
+    "answers": ["La géobiologie", "La radiesthésie", "Les lignes ley", "La géomancie"],
     "correctIndex": 2
   },
   {
     "id": "q184",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
-    "answers": [
-      "Lumières de Hessdalen",
-      "Lumières de Marfa",
-      "Feux de Saint-Elme",
-      "Aurores boréales"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays est associé aux temples taillés dans la roche de Göreme ?",
+    "answers": ["Grèce", "Iran", "Arménie", "Turquie"],
+    "correctIndex": 3
   },
+
   {
     "id": "q185",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
-    "answers": [
-      "Douglas Bader",
-      "Antoine de Saint-Exupéry",
-      "Charles Lindbergh",
-      "Glenn Miller"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal mythique est associé à la transmission du savoir ancien ?",
+    "answers": ["Le corbeau", "Le dragon", "Le serpent", "Le griffon"],
+    "correctIndex": 0
   },
   {
     "id": "q186",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
-    "answers": [
-      "Olmèque",
-      "Maya",
-      "Nazca",
-      "Inca"
-    ],
-    "correctIndex": 2
+    "text": "Quel site antique est associé aux mystères de la civilisation lydienne ?",
+    "answers": ["Pergame", "Sardes", "Éphèse", "Milet"],
+    "correctIndex": 1
   },
+
   {
     "id": "q187",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
-    "answers": [
-      "Manuscrit de Voynich",
-      "Codex Rohonczi",
-      "Codex Gigas",
-      "Livre de Kells"
-    ],
-    "correctIndex": 0
+    "text": "Quel phénomène désigne l’influence supposée des lieux sur l’état psychique ?",
+    "answers": ["La suggestion", "La superstition", "La psychogéographie", "La géobiologie"],
+    "correctIndex": 2
   },
   {
     "id": "q188",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
-    "answers": [
-      "Manuscrit de Voynich",
-      "Codex Rohonczi",
-      "Livre de Kells",
-      "Codex Gigas"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays est associé aux temples antiques de Prambanan ?",
+    "answers": ["Thaïlande", "Malaisie", "Cambodge", "Indonésie"],
+    "correctIndex": 3
   },
+
   {
     "id": "q189",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
-    "answers": [
-      "Lumières de Hessdalen",
-      "Aurores boréales",
-      "Feux de Saint-Elme",
-      "Lumières de Marfa"
-    ],
+    "text": "Quel animal mythique est symbole de seuils et de passages initiatiques ?",
+    "answers": ["Le sphinx", "Le dragon", "Le lion", "Le chien"],
     "correctIndex": 0
   },
   {
     "id": "q190",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
-    "answers": [
-      "Manuscrit de Voynich",
-      "Livre de Kells",
-      "Codex Gigas",
-      "Codex Rohonczi"
-    ],
-    "correctIndex": 0
+    "text": "Quel site antique est associé aux mystères de la civilisation étrusque ?",
+    "answers": ["Tarquinia", "Cerveteri", "Volterra", "Veies"],
+    "correctIndex": 1
   },
+
   {
     "id": "q191",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
-    "answers": [
-      "Fidji",
-      "Île de Pâques",
-      "Guam",
-      "Tahiti"
-    ],
-    "correctIndex": 1
+    "text": "Quel phénomène désigne l’étude symbolique des nombres sacrés ?",
+    "answers": ["La mathématique", "La statistique", "La numérologie", "La géométrie"],
+    "correctIndex": 2
   },
   {
     "id": "q192",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
-    "answers": [
-      "Tahiti",
-      "Guam",
-      "Fidji",
-      "Île de Pâques"
-    ],
+    "text": "Quel pays est associé aux temples antiques de Luxor ?",
+    "answers": ["Soudan", "Libye", "Éthiopie", "Égypte"],
     "correctIndex": 3
   },
+
   {
     "id": "q193",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
-    "answers": [
-      "Fidji",
-      "Guam",
-      "Tahiti",
-      "Île de Pâques"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal mythique est symbole de protection cosmique ?",
+    "answers": ["Le griffon", "Le dragon", "Le lion", "Le sphinx"],
+    "correctIndex": 0
   },
   {
     "id": "q194",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
-    "answers": [
-      "Sphère de Klerksdorp",
-      "Sphère de Betz",
-      "Sphère d'Oman",
-      "Sphère de Taman"
-    ],
+    "text": "Quel site est associé aux mystères de la civilisation zapotèque ?",
+    "answers": ["Mitla", "Monte Albán", "Teotihuacan", "El Tajín"],
     "correctIndex": 1
   },
+
   {
     "id": "q195",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
-    "answers": [
-      "Manuscrit de Voynich",
-      "Codex Gigas",
-      "Livre de Kells",
-      "Codex Rohonczi"
-    ],
-    "correctIndex": 0
+    "text": "Quel phénomène désigne la communication supposée avec des esprits par écriture ?",
+    "answers": ["La divination", "La clairaudience", "L’écriture automatique", "La télépathie"],
+    "correctIndex": 2
   },
   {
     "id": "q196",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
-    "answers": [
-      "Fidji",
-      "Guam",
-      "Île de Pâques",
-      "Tahiti"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé aux temples antiques de Hampi ?",
+    "answers": ["Sri Lanka", "Pakistan", "Bangladesh", "Inde"],
+    "correctIndex": 3
   },
+
   {
     "id": "q197",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
-    "answers": [
-      "Umberto Nobile",
-      "Ernest Shackleton",
-      "Fridtjof Nansen",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal mythique est associé à la connaissance cachée ?",
+    "answers": ["Le serpent", "Le dragon", "Le sphinx", "Le corbeau"],
+    "correctIndex": 0
   },
   {
     "id": "q198",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
-    "answers": [
-      "Inca",
-      "Olmèque",
-      "Nazca",
-      "Maya"
-    ],
-    "correctIndex": 2
+    "text": "Quel site antique est associé aux mystères de la civilisation maya ?",
+    "answers": ["Palenque", "Chichén Itzá", "Copán", "Uxmal"],
+    "correctIndex": 1
   },
+
   {
     "id": "q199",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
-    "answers": [
-      "Douglas Bader",
-      "Antoine de Saint-Exupéry",
-      "Glenn Miller",
-      "Charles Lindbergh"
-    ],
-    "correctIndex": 1
+    "text": "Quel phénomène désigne l’étude des signes et présages naturels ?",
+    "answers": ["L’astrologie", "La prophétie", "L’augure", "La divination"],
+    "correctIndex": 2
   },
   {
     "id": "q200",
     "category": "Mystères",
     "difficulty": "Moyen",
-    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
-    "answers": [
-      "Mary Celeste",
-      "Flying Dutchman",
-      "Carroll A. Deering",
-      "Ourang Medan"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q201",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
-    "answers": [
-      "Poenari",
-      "Corvin",
-      "Peleș",
-      "Château de Bran"
-    ],
+    "text": "Quel pays est associé aux temples antiques de Karnak ?",
+    "answers": ["Soudan", "Libye", "Nubie", "Égypte"],
     "correctIndex": 3
-  },
-  {
-    "id": "q202",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
-    "answers": [
-      "Peleș",
-      "Poenari",
-      "Corvin",
-      "Château de Bran"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q203",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
-    "answers": [
-      "Sphère de Betz",
-      "Sphère de Taman",
-      "Sphère de Klerksdorp",
-      "Sphère d'Oman"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q204",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
-    "answers": [
-      "Ernest Shackleton",
-      "Fridtjof Nansen",
-      "Roald Amundsen",
-      "Umberto Nobile"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q205",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
-    "answers": [
-      "Livre de Kells",
-      "Codex Gigas",
-      "Codex Rohonczi",
-      "Manuscrit de Voynich"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q206",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
-    "answers": [
-      "Antoine de Saint-Exupéry",
-      "Douglas Bader",
-      "Charles Lindbergh",
-      "Glenn Miller"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q207",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
-    "answers": [
-      "Avebury",
-      "Callanish",
-      "Stonehenge",
-      "Carnac"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q208",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
-    "answers": [
-      "Maya",
-      "Olmèque",
-      "Nazca",
-      "Inca"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q209",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
-    "answers": [
-      "Manuscrit de Voynich",
-      "Livre de Kells",
-      "Codex Rohonczi",
-      "Codex Gigas"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q210",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
-    "answers": [
-      "Sphère de Betz",
-      "Sphère de Klerksdorp",
-      "Sphère de Taman",
-      "Sphère d'Oman"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q211",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
-    "answers": [
-      "Livre de Kells",
-      "Manuscrit de Voynich",
-      "Codex Rohonczi",
-      "Codex Gigas"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q212",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
-    "answers": [
-      "Livre de Kells",
-      "Codex Gigas",
-      "Manuscrit de Voynich",
-      "Codex Rohonczi"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q213",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
-    "answers": [
-      "Avebury",
-      "Stonehenge",
-      "Carnac",
-      "Callanish"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q214",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
-    "answers": [
-      "Olmèque",
-      "Inca",
-      "Maya",
-      "Nazca"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q215",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
-    "answers": [
-      "Maya",
-      "Inca",
-      "Nazca",
-      "Olmèque"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q216",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
-    "answers": [
-      "Lumières de Hessdalen",
-      "Lumières de Marfa",
-      "Feux de Saint-Elme",
-      "Aurores boréales"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q217",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
-    "answers": [
-      "Sphère de Klerksdorp",
-      "Sphère de Betz",
-      "Sphère d'Oman",
-      "Sphère de Taman"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q218",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
-    "answers": [
-      "Sphère de Betz",
-      "Sphère d'Oman",
-      "Sphère de Klerksdorp",
-      "Sphère de Taman"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q219",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
-    "answers": [
-      "Corvin",
-      "Château de Bran",
-      "Poenari",
-      "Peleș"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q220",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
-    "answers": [
-      "Île de Pâques",
-      "Tahiti",
-      "Fidji",
-      "Guam"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q221",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
-    "answers": [
-      "Maya",
-      "Nazca",
-      "Olmèque",
-      "Inca"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q222",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
-    "answers": [
-      "Corvin",
-      "Peleș",
-      "Château de Bran",
-      "Poenari"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q223",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
-    "answers": [
-      "Olmèque",
-      "Maya",
-      "Inca",
-      "Nazca"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q224",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
-    "answers": [
-      "Château de Bran",
-      "Peleș",
-      "Corvin",
-      "Poenari"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q225",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
-    "answers": [
-      "Fidji",
-      "Guam",
-      "Tahiti",
-      "Île de Pâques"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q226",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
-    "answers": [
-      "Feux de Saint-Elme",
-      "Aurores boréales",
-      "Lumières de Hessdalen",
-      "Lumières de Marfa"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q227",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
-    "answers": [
-      "Charles Lindbergh",
-      "Douglas Bader",
-      "Glenn Miller",
-      "Antoine de Saint-Exupéry"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q228",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
-    "answers": [
-      "Carroll A. Deering",
-      "Flying Dutchman",
-      "Mary Celeste",
-      "Ourang Medan"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q229",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
-    "answers": [
-      "Carnac",
-      "Callanish",
-      "Stonehenge",
-      "Avebury"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q230",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
-    "answers": [
-      "Corvin",
-      "Peleș",
-      "Château de Bran",
-      "Poenari"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q231",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
-    "answers": [
-      "Codex Rohonczi",
-      "Codex Gigas",
-      "Livre de Kells",
-      "Manuscrit de Voynich"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q232",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
-    "answers": [
-      "Carroll A. Deering",
-      "Ourang Medan",
-      "Flying Dutchman",
-      "Mary Celeste"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q233",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
-    "answers": [
-      "Ernest Shackleton",
-      "Roald Amundsen",
-      "Fridtjof Nansen",
-      "Umberto Nobile"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q234",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
-    "answers": [
-      "Peleș",
-      "Corvin",
-      "Château de Bran",
-      "Poenari"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q235",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
-    "answers": [
-      "Tahiti",
-      "Île de Pâques",
-      "Fidji",
-      "Guam"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q236",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
-    "answers": [
-      "Douglas Bader",
-      "Glenn Miller",
-      "Antoine de Saint-Exupéry",
-      "Charles Lindbergh"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q237",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
-    "answers": [
-      "Sphère d'Oman",
-      "Sphère de Taman",
-      "Sphère de Klerksdorp",
-      "Sphère de Betz"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q238",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
-    "answers": [
-      "Maya",
-      "Nazca",
-      "Olmèque",
-      "Inca"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q239",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
-    "answers": [
-      "Manuscrit de Voynich",
-      "Codex Gigas",
-      "Livre de Kells",
-      "Codex Rohonczi"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q240",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
-    "answers": [
-      "Charles Lindbergh",
-      "Antoine de Saint-Exupéry",
-      "Glenn Miller",
-      "Douglas Bader"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q241",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
-    "answers": [
-      "Lumières de Marfa",
-      "Aurores boréales",
-      "Lumières de Hessdalen",
-      "Feux de Saint-Elme"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q242",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
-    "answers": [
-      "Lumières de Hessdalen",
-      "Aurores boréales",
-      "Feux de Saint-Elme",
-      "Lumières de Marfa"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q243",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
-    "answers": [
-      "Charles Lindbergh",
-      "Douglas Bader",
-      "Antoine de Saint-Exupéry",
-      "Glenn Miller"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q244",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
-    "answers": [
-      "Charles Lindbergh",
-      "Douglas Bader",
-      "Glenn Miller",
-      "Antoine de Saint-Exupéry"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q245",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
-    "answers": [
-      "Ernest Shackleton",
-      "Fridtjof Nansen",
-      "Umberto Nobile",
-      "Roald Amundsen"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q246",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
-    "answers": [
-      "Guam",
-      "Tahiti",
-      "Fidji",
-      "Île de Pâques"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q247",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
-    "answers": [
-      "Mary Celeste",
-      "Flying Dutchman",
-      "Carroll A. Deering",
-      "Ourang Medan"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q248",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
-    "answers": [
-      "Sphère d'Oman",
-      "Sphère de Klerksdorp",
-      "Sphère de Betz",
-      "Sphère de Taman"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q249",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
-    "answers": [
-      "Tahiti",
-      "Fidji",
-      "Guam",
-      "Île de Pâques"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q250",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
-    "answers": [
-      "Olmèque",
-      "Maya",
-      "Inca",
-      "Nazca"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q251",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
-    "answers": [
-      "Nazca",
-      "Olmèque",
-      "Maya",
-      "Inca"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q252",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
-    "answers": [
-      "Lumières de Marfa",
-      "Lumières de Hessdalen",
-      "Aurores boréales",
-      "Feux de Saint-Elme"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q253",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
-    "answers": [
-      "Maya",
-      "Olmèque",
-      "Inca",
-      "Nazca"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q254",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
-    "answers": [
-      "Feux de Saint-Elme",
-      "Lumières de Hessdalen",
-      "Aurores boréales",
-      "Lumières de Marfa"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q255",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
-    "answers": [
-      "Charles Lindbergh",
-      "Antoine de Saint-Exupéry",
-      "Douglas Bader",
-      "Glenn Miller"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q256",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
-    "answers": [
-      "Lumières de Marfa",
-      "Aurores boréales",
-      "Lumières de Hessdalen",
-      "Feux de Saint-Elme"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q257",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
-    "answers": [
-      "Inca",
-      "Nazca",
-      "Olmèque",
-      "Maya"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q258",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
-    "answers": [
-      "Peleș",
-      "Château de Bran",
-      "Corvin",
-      "Poenari"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q259",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
-    "answers": [
-      "Stonehenge",
-      "Carnac",
-      "Avebury",
-      "Callanish"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q260",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
-    "answers": [
-      "Mary Celeste",
-      "Ourang Medan",
-      "Carroll A. Deering",
-      "Flying Dutchman"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q261",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
-    "answers": [
-      "Inca",
-      "Nazca",
-      "Maya",
-      "Olmèque"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q262",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
-    "answers": [
-      "Tahiti",
-      "Guam",
-      "Île de Pâques",
-      "Fidji"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q263",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
-    "answers": [
-      "Château de Bran",
-      "Peleș",
-      "Poenari",
-      "Corvin"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q264",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
-    "answers": [
-      "Île de Pâques",
-      "Tahiti",
-      "Guam",
-      "Fidji"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q265",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel phénomène lumineux inexpliqué est souvent observé en Norvège ?",
-    "answers": [
-      "Lumières de Hessdalen",
-      "Feux de Saint-Elme",
-      "Lumières de Marfa",
-      "Aurores boréales"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q266",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
-    "answers": [
-      "Sphère de Klerksdorp",
-      "Sphère de Betz",
-      "Sphère d'Oman",
-      "Sphère de Taman"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q267",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
-    "answers": [
-      "Roald Amundsen",
-      "Umberto Nobile",
-      "Fridtjof Nansen",
-      "Ernest Shackleton"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q268",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
-    "answers": [
-      "Sphère de Taman",
-      "Sphère de Betz",
-      "Sphère d'Oman",
-      "Sphère de Klerksdorp"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q269",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
-    "answers": [
-      "Fridtjof Nansen",
-      "Umberto Nobile",
-      "Roald Amundsen",
-      "Ernest Shackleton"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q270",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
-    "answers": [
-      "Manuscrit de Voynich",
-      "Codex Gigas",
-      "Livre de Kells",
-      "Codex Rohonczi"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q271",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
-    "answers": [
-      "Peleș",
-      "Château de Bran",
-      "Corvin",
-      "Poenari"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q272",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
-    "answers": [
-      "Roald Amundsen",
-      "Ernest Shackleton",
-      "Umberto Nobile",
-      "Fridtjof Nansen"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q273",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
-    "answers": [
-      "Château de Bran",
-      "Corvin",
-      "Peleș",
-      "Poenari"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q274",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
-    "answers": [
-      "Sphère de Betz",
-      "Sphère d'Oman",
-      "Sphère de Taman",
-      "Sphère de Klerksdorp"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q275",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
-    "answers": [
-      "Ourang Medan",
-      "Flying Dutchman",
-      "Mary Celeste",
-      "Carroll A. Deering"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q276",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
-    "answers": [
-      "Sphère d'Oman",
-      "Sphère de Taman",
-      "Sphère de Klerksdorp",
-      "Sphère de Betz"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q277",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
-    "answers": [
-      "Antoine de Saint-Exupéry",
-      "Charles Lindbergh",
-      "Glenn Miller",
-      "Douglas Bader"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q278",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
-    "answers": [
-      "Roald Amundsen",
-      "Fridtjof Nansen",
-      "Ernest Shackleton",
-      "Umberto Nobile"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q279",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
-    "answers": [
-      "Mary Celeste",
-      "Flying Dutchman",
-      "Ourang Medan",
-      "Carroll A. Deering"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q280",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
-    "answers": [
-      "Île de Pâques",
-      "Tahiti",
-      "Guam",
-      "Fidji"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q281",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
-    "answers": [
-      "Ernest Shackleton",
-      "Roald Amundsen",
-      "Fridtjof Nansen",
-      "Umberto Nobile"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q282",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
-    "answers": [
-      "Livre de Kells",
-      "Manuscrit de Voynich",
-      "Codex Rohonczi",
-      "Codex Gigas"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q283",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle île du Pacifique abrite les statues géantes appelées moaï ?",
-    "answers": [
-      "Fidji",
-      "Tahiti",
-      "Guam",
-      "Île de Pâques"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q284",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
-    "answers": [
-      "Mary Celeste",
-      "Carroll A. Deering",
-      "Flying Dutchman",
-      "Ourang Medan"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q285",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
-    "answers": [
-      "Château de Bran",
-      "Poenari",
-      "Peleș",
-      "Corvin"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q286",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel manuscrit contient un langage encore non déchiffré ?",
-    "answers": [
-      "Codex Rohonczi",
-      "Livre de Kells",
-      "Codex Gigas",
-      "Manuscrit de Voynich"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q287",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
-    "answers": [
-      "Fridtjof Nansen",
-      "Ernest Shackleton",
-      "Roald Amundsen",
-      "Umberto Nobile"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q288",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
-    "answers": [
-      "Charles Lindbergh",
-      "Douglas Bader",
-      "Antoine de Saint-Exupéry",
-      "Glenn Miller"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q289",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
-    "answers": [
-      "Nazca",
-      "Olmèque",
-      "Inca",
-      "Maya"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q290",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
-    "answers": [
-      "Ourang Medan",
-      "Mary Celeste",
-      "Flying Dutchman",
-      "Carroll A. Deering"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q291",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel explorateur norvégien a disparu en mer en 1928 lors d'une mission de secours ?",
-    "answers": [
-      "Ernest Shackleton",
-      "Roald Amundsen",
-      "Umberto Nobile",
-      "Fridtjof Nansen"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q292",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel site mégalithique anglais reste un mystère quant à sa construction ?",
-    "answers": [
-      "Avebury",
-      "Callanish",
-      "Carnac",
-      "Stonehenge"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q293",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel navire fantôme a été retrouvé intact mais sans équipage en 1872 ?",
-    "answers": [
-      "Carroll A. Deering",
-      "Ourang Medan",
-      "Flying Dutchman",
-      "Mary Celeste"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q294",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle civilisation a laissé de mystérieuses lignes géantes dans le désert péruvien ?",
-    "answers": [
-      "Nazca",
-      "Olmèque",
-      "Maya",
-      "Inca"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q295",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
-    "answers": [
-      "Antoine de Saint-Exupéry",
-      "Douglas Bader",
-      "Glenn Miller",
-      "Charles Lindbergh"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q296",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
-    "answers": [
-      "Château de Bran",
-      "Poenari",
-      "Peleș",
-      "Corvin"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q297",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle forteresse en Roumanie est associée à Vlad l'Empaleur ?",
-    "answers": [
-      "Poenari",
-      "Château de Bran",
-      "Peleș",
-      "Corvin"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q298",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
-    "answers": [
-      "Sphère de Taman",
-      "Sphère d'Oman",
-      "Sphère de Klerksdorp",
-      "Sphère de Betz"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q299",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quel pilote de la Seconde Guerre mondiale a disparu dans le Pacifique sans laisser de trace ?",
-    "answers": [
-      "Douglas Bader",
-      "Antoine de Saint-Exupéry",
-      "Glenn Miller",
-      "Charles Lindbergh"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q300",
-    "category": "Mystères",
-    "difficulty": "Moyen",
-    "text": "Quelle mystérieuse sphère métallique a été découverte en Floride en 1974 ?",
-    "answers": [
-      "Sphère de Betz",
-      "Sphère de Taman",
-      "Sphère d'Oman",
-      "Sphère de Klerksdorp"
-    ],
-    "correctIndex": 0
   }
 ]
