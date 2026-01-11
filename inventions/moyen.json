@@ -3,3900 +3,1616 @@
     "id": "q1",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de la photographie ?",
-    "answers": [
-      "George Eastman",
-      "Louis Daguerre",
-      "William Fox Talbot",
-      "Nicéphore Niépce"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention est à l’origine de la diffusion massive des livres en Europe ?",
+    "answers": ["Imprimerie", "Papier", "Plume", "Bibliothèque"],
+    "correctIndex": 0
   },
   {
     "id": "q2",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la machine à coudre ?",
-    "answers": [
-      "Thomas Saint",
-      "Elias Howe",
-      "Walter Hunt",
-      "Isaac Singer"
-    ],
+    "text": "Quelle invention permet de transmettre la voix sur de longues distances ?",
+    "answers": ["Télégraphe", "Téléphone", "Radio", "Satellite"],
     "correctIndex": 1
   },
   {
     "id": "q3",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
-    "answers": [
-      "Arthur Young",
-      "Paul Cornu",
-      "Juan de la Cierva",
-      "Igor Sikorsky"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention a rendu possible l’éclairage électrique domestique ?",
+    "answers": ["Générateur", "Batterie", "Ampoule électrique", "Transformateur"],
+    "correctIndex": 2
   },
   {
     "id": "q4",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
-    "answers": [
-      "Albert T. Marshall",
-      "Jacob Perkins",
-      "Carl von Linde",
-      "James Harrison"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention est essentielle au fonctionnement d’un moteur à explosion ?",
+    "answers": ["Carburateur", "Piston", "Alternateur", "Bougie d’allumage"],
+    "correctIndex": 3
   },
   {
     "id": "q5",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur à explosion ?",
-    "answers": [
-      "Karl Benz",
-      "Gottlieb Daimler",
-      "Rudolf Diesel",
-      "Nikolaus Otto"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention a permis la navigation précise en mer avant le GPS ?",
+    "answers": ["Boussole", "Sextant", "Carte marine", "Astrolabe"],
+    "correctIndex": 0
   },
   {
     "id": "q6",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la machine à coudre ?",
-    "answers": [
-      "Walter Hunt",
-      "Elias Howe",
-      "Isaac Singer",
-      "Thomas Saint"
-    ],
+    "text": "Quelle invention a rendu possible la communication sans fil à grande distance ?",
+    "answers": ["Téléphone", "Radio", "Télégraphe", "Câble sous-marin"],
     "correctIndex": 1
   },
   {
     "id": "q7",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la machine à coudre ?",
-    "answers": [
-      "Walter Hunt",
-      "Elias Howe",
-      "Thomas Saint",
-      "Isaac Singer"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est indispensable au stockage d’électricité dans les appareils modernes ?",
+    "answers": ["Générateur", "Transformateur", "Batterie rechargeable", "Alternateur"],
+    "correctIndex": 2
   },
   {
     "id": "q8",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
-    "answers": [
-      "Arthur Young",
-      "Paul Cornu",
-      "Juan de la Cierva",
-      "Igor Sikorsky"
-    ],
+    "text": "Quelle invention permet d’augmenter la pression de l’eau dans un réseau domestique ?",
+    "answers": ["Filtre", "Vanne", "Réservoir", "Pompe"],
     "correctIndex": 3
   },
   {
     "id": "q9",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du gramophone ?",
-    "answers": [
-      "Alexander Graham Bell",
-      "Guglielmo Marconi",
-      "Thomas Edison",
-      "Emile Berliner"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention a permis l’essor des transports ferroviaires au XIXᵉ siècle ?",
+    "answers": ["Machine à vapeur", "Moteur électrique", "Moteur diesel", "Turbine"],
+    "correctIndex": 0
   },
   {
     "id": "q10",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la radio ?",
-    "answers": [
-      "Lee de Forest",
-      "Nikola Tesla",
-      "Reginald Fessenden",
-      "Guglielmo Marconi"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de calculer automatiquement des opérations complexes ?",
+    "answers": ["Machine à écrire", "Ordinateur", "Calculatrice", "Tableur"],
+    "correctIndex": 1
   },
+
   {
     "id": "q11",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier ordinateur programmable ?",
-    "answers": [
-      "Konrad Zuse",
-      "John von Neumann",
-      "Charles Babbage",
-      "Alan Turing"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention a remplacé la pellicule argentique en photographie ?",
+    "answers": ["Scanner", "Caméscope", "Capteur numérique", "Imprimante"],
+    "correctIndex": 2
   },
   {
     "id": "q12",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier ordinateur programmable ?",
-    "answers": [
-      "John von Neumann",
-      "Charles Babbage",
-      "Konrad Zuse",
-      "Alan Turing"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de refroidir un moteur automobile ?",
+    "answers": ["Ventilateur", "Radiateur", "Filtre", "Liquide de refroidissement"],
+    "correctIndex": 3
   },
   {
     "id": "q13",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
-    "answers": [
-      "Igor Sikorsky",
-      "Juan de la Cierva",
-      "Paul Cornu",
-      "Arthur Young"
-    ],
+    "text": "Quelle invention a permis la conservation des aliments sur de longues durées ?",
+    "answers": ["Pasteurisation", "Séchage", "Salaison", "Fumage"],
     "correctIndex": 0
   },
   {
     "id": "q14",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier ordinateur programmable ?",
-    "answers": [
-      "Alan Turing",
-      "Charles Babbage",
-      "Konrad Zuse",
-      "John von Neumann"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la localisation précise d’un véhicule en temps réel ?",
+    "answers": ["Radar", "GPS", "Boussole", "Altimètre"],
+    "correctIndex": 1
   },
   {
     "id": "q15",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
-    "answers": [
-      "James Harrison",
-      "Albert T. Marshall",
-      "Carl von Linde",
-      "Jacob Perkins"
-    ],
+    "text": "Quelle invention est essentielle au fonctionnement d’Internet ?",
+    "answers": ["Antenne", "Satellite", "Routeur", "Serveur"],
     "correctIndex": 2
   },
   {
     "id": "q16",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de la photographie ?",
-    "answers": [
-      "William Fox Talbot",
-      "Louis Daguerre",
-      "Nicéphore Niépce",
-      "George Eastman"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de transformer le courant alternatif en courant continu ?",
+    "answers": ["Transformateur", "Alternateur", "Générateur", "Redresseur"],
+    "correctIndex": 3
   },
   {
     "id": "q17",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur diesel ?",
-    "answers": [
-      "Gottlieb Daimler",
-      "Nicholas Otto",
-      "Karl Benz",
-      "Rudolf Diesel"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention a rendu possible l’aviation moderne ?",
+    "answers": ["Moteur à réaction", "Hélice", "Planeur", "Ballon dirigeable"],
+    "correctIndex": 0
   },
   {
     "id": "q18",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du sous-marin ?",
-    "answers": [
-      "Cornelis Drebbel",
-      "David Bushnell",
-      "Isaac Peral",
-      "John Philip Holland"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de stocker et lire de grandes quantités de données ?",
+    "answers": ["Clé USB", "Disque dur", "Carte mémoire", "CD"],
+    "correctIndex": 1
   },
   {
     "id": "q19",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du gramophone ?",
-    "answers": [
-      "Guglielmo Marconi",
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Emile Berliner"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention a permis l’automatisation des chaînes de production ?",
+    "answers": ["Convoyeur", "Machine-outil", "Robot industriel", "Moteur électrique"],
+    "correctIndex": 2
   },
   {
     "id": "q20",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du gramophone ?",
-    "answers": [
-      "Emile Berliner",
-      "Guglielmo Marconi",
-      "Alexander Graham Bell",
-      "Thomas Edison"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de capter l’énergie du vent ?",
+    "answers": ["Panneau solaire", "Barrage", "Générateur", "Éolienne"],
+    "correctIndex": 3
   },
+
   {
     "id": "q21",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la machine à coudre ?",
-    "answers": [
-      "Thomas Saint",
-      "Elias Howe",
-      "Isaac Singer",
-      "Walter Hunt"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention a permis la diffusion massive de l’électricité ?",
+    "answers": ["Transformateur", "Ampoule", "Batterie", "Générateur"],
+    "correctIndex": 0
   },
   {
     "id": "q22",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier ordinateur programmable ?",
-    "answers": [
-      "Konrad Zuse",
-      "Alan Turing",
-      "Charles Babbage",
-      "John von Neumann"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de sécuriser des échanges sur Internet ?",
+    "answers": ["Pare-feu", "Cryptage", "Navigateur", "Serveur"],
+    "correctIndex": 1
   },
   {
     "id": "q23",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du sous-marin ?",
-    "answers": [
-      "John Philip Holland",
-      "Isaac Peral",
-      "David Bushnell",
-      "Cornelis Drebbel"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention a permis l’enregistrement du son ?",
+    "answers": ["Radio", "Magnétophone", "Microphone", "Phonographe"],
+    "correctIndex": 2
   },
   {
     "id": "q24",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier ordinateur programmable ?",
-    "answers": [
-      "Alan Turing",
-      "Konrad Zuse",
-      "John von Neumann",
-      "Charles Babbage"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet de mesurer précisément le temps dans les compétitions sportives ?",
+    "answers": ["Montre", "Réveil", "Minuteur", "Chronomètre"],
+    "correctIndex": 3
   },
   {
     "id": "q25",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
-    "answers": [
-      "Albert T. Marshall",
-      "James Harrison",
-      "Carl von Linde",
-      "Jacob Perkins"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention a permis l’essor des villes verticales ?",
+    "answers": ["Ascenseur", "Escalator", "Escalier", "Monte-charge"],
+    "correctIndex": 0
   },
   {
     "id": "q26",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
-    "answers": [
-      "James Harrison",
-      "Jacob Perkins",
-      "Albert T. Marshall",
-      "Carl von Linde"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de transmettre des données via des ondes lumineuses ?",
+    "answers": ["Satellite", "Fibre optique", "Antenne", "Câble coaxial"],
+    "correctIndex": 1
   },
   {
     "id": "q27",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la radio ?",
-    "answers": [
-      "Nikola Tesla",
-      "Reginald Fessenden",
-      "Guglielmo Marconi",
-      "Lee de Forest"
-    ],
+    "text": "Quelle invention est à la base de l’automobile moderne ?",
+    "answers": ["Moteur électrique", "Moteur thermique", "Turbine", "Moteur à vapeur"],
     "correctIndex": 2
   },
   {
     "id": "q28",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du gramophone ?",
-    "answers": [
-      "Thomas Edison",
-      "Guglielmo Marconi",
-      "Emile Berliner",
-      "Alexander Graham Bell"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de détecter un incendie rapidement ?",
+    "answers": ["Thermomètre", "Caméra", "Alarme", "Détecteur de fumée"],
+    "correctIndex": 3
   },
   {
     "id": "q29",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
-    "answers": [
-      "Arthur Young",
-      "Paul Cornu",
-      "Juan de la Cierva",
-      "Igor Sikorsky"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention a permis la miniaturisation de l’électronique ?",
+    "answers": ["Transistor", "Tube à vide", "Relais", "Fusible"],
+    "correctIndex": 0
   },
   {
     "id": "q30",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la radio ?",
-    "answers": [
-      "Reginald Fessenden",
-      "Guglielmo Marconi",
-      "Nikola Tesla",
-      "Lee de Forest"
-    ],
+    "text": "Quelle invention permet la communication instantanée écrite à distance ?",
+    "answers": ["Télégramme", "Messagerie électronique", "Lettre", "Fax"],
     "correctIndex": 1
   },
+
   {
     "id": "q31",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
-    "answers": [
-      "Arthur Young",
-      "Paul Cornu",
-      "Igor Sikorsky",
-      "Juan de la Cierva"
-    ],
+    "text": "Quelle invention permet de transformer l’énergie solaire en électricité ?",
+    "answers": ["Collecteur thermique", "Batterie", "Panneau photovoltaïque", "Éolienne"],
     "correctIndex": 2
   },
   {
     "id": "q32",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la machine à coudre ?",
-    "answers": [
-      "Thomas Saint",
-      "Walter Hunt",
-      "Isaac Singer",
-      "Elias Howe"
-    ],
+    "text": "Quelle invention est utilisée pour purifier l’eau potable ?",
+    "answers": ["Pompe", "Réservoir", "Filtre", "Chauffe-eau"],
     "correctIndex": 3
   },
   {
     "id": "q33",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier ordinateur programmable ?",
-    "answers": [
-      "Charles Babbage",
-      "John von Neumann",
-      "Konrad Zuse",
-      "Alan Turing"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention a permis l’exploration des fonds marins ?",
+    "answers": ["Sous-marin", "Bateau", "Scaphandre", "Sonde"],
+    "correctIndex": 0
   },
   {
     "id": "q34",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du gramophone ?",
-    "answers": [
-      "Thomas Edison",
-      "Guglielmo Marconi",
-      "Alexander Graham Bell",
-      "Emile Berliner"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet d’imprimer des documents numériques ?",
+    "answers": ["Scanner", "Imprimante", "Photocopieuse", "Traceur"],
+    "correctIndex": 1
   },
   {
     "id": "q35",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
-    "answers": [
-      "Juan de la Cierva",
-      "Arthur Young",
-      "Igor Sikorsky",
-      "Paul Cornu"
-    ],
+    "text": "Quelle invention a remplacé les lettres manuscrites pour les communications rapides ?",
+    "answers": ["Téléphone", "Fax", "Email", "Radio"],
     "correctIndex": 2
   },
   {
     "id": "q36",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur à explosion ?",
-    "answers": [
-      "Gottlieb Daimler",
-      "Nikolaus Otto",
-      "Karl Benz",
-      "Rudolf Diesel"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet de contrôler l’accès à un bâtiment ?",
+    "answers": ["Clé", "Serrure", "Poignée", "Badge électronique"],
+    "correctIndex": 3
   },
   {
     "id": "q37",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
-    "answers": [
-      "Igor Sikorsky",
-      "Paul Cornu",
-      "Arthur Young",
-      "Juan de la Cierva"
-    ],
+    "text": "Quelle invention a permis la mesure précise de la pression atmosphérique ?",
+    "answers": ["Baromètre", "Thermomètre", "Altimètre", "Hygromètre"],
     "correctIndex": 0
   },
   {
     "id": "q38",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la machine à coudre ?",
-    "answers": [
-      "Thomas Saint",
-      "Elias Howe",
-      "Isaac Singer",
-      "Walter Hunt"
-    ],
+    "text": "Quelle invention permet de recharger plusieurs appareils électriques ?",
+    "answers": ["Chargeur", "Multiprise", "Batterie", "Transformateur"],
     "correctIndex": 1
   },
   {
     "id": "q39",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de la photographie ?",
-    "answers": [
-      "William Fox Talbot",
-      "Louis Daguerre",
-      "George Eastman",
-      "Nicéphore Niépce"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention a permis la diffusion de la télévision ?",
+    "answers": ["Satellite", "Antenne hertzienne", "Câble", "Internet"],
+    "correctIndex": 2
   },
   {
     "id": "q40",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur à explosion ?",
-    "answers": [
-      "Nikolaus Otto",
-      "Karl Benz",
-      "Rudolf Diesel",
-      "Gottlieb Daimler"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de signaler un danger sonorement ?",
+    "answers": ["Cloche", "Sifflet", "Klaxon", "Sirène"],
+    "correctIndex": 3
   },
+
   {
     "id": "q41",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur diesel ?",
-    "answers": [
-      "Gottlieb Daimler",
-      "Rudolf Diesel",
-      "Karl Benz",
-      "Nicholas Otto"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention a permis l’industrialisation rapide au XIXᵉ siècle ?",
+    "answers": ["Machine à vapeur", "Moteur électrique", "Chaîne de montage", "Turbine"],
+    "correctIndex": 0
   },
   {
     "id": "q42",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur à explosion ?",
-    "answers": [
-      "Karl Benz",
-      "Rudolf Diesel",
-      "Nikolaus Otto",
-      "Gottlieb Daimler"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de détecter la présence de mouvement ?",
+    "answers": ["Caméra", "Capteur infrarouge", "Radar", "Microphone"],
+    "correctIndex": 1
   },
   {
     "id": "q43",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la machine à coudre ?",
-    "answers": [
-      "Thomas Saint",
-      "Elias Howe",
-      "Isaac Singer",
-      "Walter Hunt"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention a permis la conservation d’aliments sous vide ?",
+    "answers": ["Congélateur", "Réfrigérateur", "Machine sous vide", "Pasteurisation"],
+    "correctIndex": 2
   },
   {
     "id": "q44",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du sous-marin ?",
-    "answers": [
-      "David Bushnell",
-      "Isaac Peral",
-      "John Philip Holland",
-      "Cornelis Drebbel"
-    ],
+    "text": "Quelle invention permet de mesurer l’altitude ?",
+    "answers": ["Baromètre", "Boussole", "GPS", "Altimètre"],
     "correctIndex": 3
   },
   {
     "id": "q45",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la radio ?",
-    "answers": [
-      "Lee de Forest",
-      "Guglielmo Marconi",
-      "Reginald Fessenden",
-      "Nikola Tesla"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention a rendu possible l’informatique personnelle ?",
+    "answers": ["Microprocesseur", "Carte perforée", "Mainframe", "Terminal"],
+    "correctIndex": 0
   },
   {
     "id": "q46",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur diesel ?",
-    "answers": [
-      "Gottlieb Daimler",
-      "Karl Benz",
-      "Rudolf Diesel",
-      "Nicholas Otto"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de transmettre des données sans câble ?",
+    "answers": ["Ethernet", "Wi-Fi", "Fibre optique", "USB"],
+    "correctIndex": 1
   },
   {
     "id": "q47",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
-    "answers": [
-      "James Harrison",
-      "Albert T. Marshall",
-      "Carl von Linde",
-      "Jacob Perkins"
-    ],
+    "text": "Quelle invention est utilisée pour capter le son ?",
+    "answers": ["Haut-parleur", "Radio", "Microphone", "Casque"],
     "correctIndex": 2
   },
   {
     "id": "q48",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier ordinateur programmable ?",
-    "answers": [
-      "Konrad Zuse",
-      "Alan Turing",
-      "John von Neumann",
-      "Charles Babbage"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de détecter les excès de vitesse sur la route ?",
+    "answers": ["GPS", "Caméra", "Compteur", "Radar"],
+    "correctIndex": 3
   },
   {
     "id": "q49",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de la photographie ?",
-    "answers": [
-      "George Eastman",
-      "Louis Daguerre",
-      "William Fox Talbot",
-      "Nicéphore Niépce"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention a permis l’automatisation des calculs scientifiques ?",
+    "answers": ["Ordinateur", "Calculatrice", "Tableur", "Machine à écrire"],
+    "correctIndex": 0
   },
   {
     "id": "q50",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
-    "answers": [
-      "James Harrison",
-      "Albert T. Marshall",
-      "Jacob Perkins",
-      "Carl von Linde"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de diffuser des images animées à distance ?",
+    "answers": ["Cinéma", "Télévision", "Radio", "Projecteur"],
+    "correctIndex": 1
   },
   {
     "id": "q51",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de la photographie ?",
-    "answers": [
-      "George Eastman",
-      "Louis Daguerre",
-      "Nicéphore Niépce",
-      "William Fox Talbot"
-    ],
+    "text": "Quelle invention a permis l’automatisation des paiements en magasin ?",
+    "answers": ["Chèque", "Espèces", "Carte bancaire", "Virement"],
     "correctIndex": 2
   },
   {
     "id": "q52",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur diesel ?",
-    "answers": [
-      "Gottlieb Daimler",
-      "Rudolf Diesel",
-      "Nicholas Otto",
-      "Karl Benz"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet de détecter la présence de métaux ?",
+    "answers": ["Radar", "Scanner", "IRM", "Détecteur de métaux"],
+    "correctIndex": 3
   },
   {
     "id": "q53",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du sous-marin ?",
-    "answers": [
-      "Isaac Peral",
-      "John Philip Holland",
-      "Cornelis Drebbel",
-      "David Bushnell"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention a permis la reproduction rapide de documents papier ?",
+    "answers": ["Photocopieuse", "Scanner", "Imprimante", "Fax"],
+    "correctIndex": 0
   },
   {
     "id": "q54",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
-    "answers": [
-      "Jacob Perkins",
-      "Carl von Linde",
-      "James Harrison",
-      "Albert T. Marshall"
-    ],
+    "text": "Quelle invention permet de guider un avion lors de l’atterrissage ?",
+    "answers": ["Boussole", "Radar", "GPS", "Altimètre"],
     "correctIndex": 1
   },
   {
     "id": "q55",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
-    "answers": [
-      "Igor Sikorsky",
-      "Arthur Young",
-      "Paul Cornu",
-      "Juan de la Cierva"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention est utilisée pour stocker l’énergie mécanique ?",
+    "answers": ["Batterie", "Condensateur", "Ressort", "Générateur"],
+    "correctIndex": 2
   },
   {
     "id": "q56",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du gramophone ?",
-    "answers": [
-      "Emile Berliner",
-      "Alexander Graham Bell",
-      "Thomas Edison",
-      "Guglielmo Marconi"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de filtrer l’air dans les bâtiments modernes ?",
+    "answers": ["Ventilateur", "Climatiseur", "Extracteur", "Filtre à air"],
+    "correctIndex": 3
   },
   {
     "id": "q57",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du gramophone ?",
-    "answers": [
-      "Emile Berliner",
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Guglielmo Marconi"
-    ],
+    "text": "Quelle invention a permis la lecture de musique enregistrée à domicile ?",
+    "answers": ["Tourne-disque", "Radio", "Magnétophone", "Télévision"],
     "correctIndex": 0
   },
   {
     "id": "q58",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du sous-marin ?",
-    "answers": [
-      "Isaac Peral",
-      "John Philip Holland",
-      "David Bushnell",
-      "Cornelis Drebbel"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de contrôler automatiquement la température d’une pièce ?",
+    "answers": ["Radiateur", "Thermomètre", "Thermostat", "Ventilateur"],
+    "correctIndex": 1
   },
   {
     "id": "q59",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de la photographie ?",
-    "answers": [
-      "Nicéphore Niépce",
-      "Louis Daguerre",
-      "George Eastman",
-      "William Fox Talbot"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention est utilisée pour convertir une image en données numériques ?",
+    "answers": ["Caméra", "Photocopieuse", "Scanner", "Projecteur"],
+    "correctIndex": 2
   },
   {
     "id": "q60",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de la photographie ?",
-    "answers": [
-      "Louis Daguerre",
-      "Nicéphore Niépce",
-      "George Eastman",
-      "William Fox Talbot"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet de prévenir les coupures de courant ?",
+    "answers": ["Disjoncteur", "Transformateur", "Générateur", "Onduleur"],
+    "correctIndex": 3
   },
+
   {
     "id": "q61",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la machine à coudre ?",
-    "answers": [
-      "Isaac Singer",
-      "Thomas Saint",
-      "Walter Hunt",
-      "Elias Howe"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention a rendu possible la photographie instantanée ?",
+    "answers": ["Polaroid", "Pellicule", "Capteur CCD", "Scanner"],
+    "correctIndex": 0
   },
   {
     "id": "q62",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur à explosion ?",
-    "answers": [
-      "Karl Benz",
-      "Gottlieb Daimler",
-      "Rudolf Diesel",
-      "Nikolaus Otto"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet d’identifier une personne par son empreinte digitale ?",
+    "answers": ["Badge", "Lecteur biométrique", "Carte magnétique", "Clavier"],
+    "correctIndex": 1
   },
   {
     "id": "q63",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier ordinateur programmable ?",
-    "answers": [
-      "Alan Turing",
-      "Konrad Zuse",
-      "John von Neumann",
-      "Charles Babbage"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est utilisée pour produire du froid industriel ?",
+    "answers": ["Ventilateur", "Radiateur", "Compresseur frigorifique", "Pompe"],
+    "correctIndex": 2
   },
   {
     "id": "q64",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur diesel ?",
-    "answers": [
-      "Gottlieb Daimler",
-      "Nicholas Otto",
-      "Karl Benz",
-      "Rudolf Diesel"
-    ],
+    "text": "Quelle invention permet d’observer l’intérieur du corps humain sans chirurgie ?",
+    "answers": ["Scanner", "Échographie", "Endoscope", "IRM"],
     "correctIndex": 3
   },
   {
     "id": "q65",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du sous-marin ?",
-    "answers": [
-      "Cornelis Drebbel",
-      "Isaac Peral",
-      "John Philip Holland",
-      "David Bushnell"
-    ],
+    "text": "Quelle invention a permis la diffusion de la musique numérique ?",
+    "answers": ["MP3", "Vinyle", "Cassette", "CD"],
     "correctIndex": 0
   },
   {
     "id": "q66",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
-    "answers": [
-      "James Harrison",
-      "Jacob Perkins",
-      "Carl von Linde",
-      "Albert T. Marshall"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de transmettre des images à distance en temps réel ?",
+    "answers": ["Radio", "Télévision", "Cinéma", "Projecteur"],
+    "correctIndex": 1
   },
   {
     "id": "q67",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur diesel ?",
-    "answers": [
-      "Karl Benz",
-      "Nicholas Otto",
-      "Rudolf Diesel",
-      "Gottlieb Daimler"
-    ],
+    "text": "Quelle invention est utilisée pour mesurer une distance avec précision ?",
+    "answers": ["Mètre ruban", "Règle", "Télémètre laser", "Boussole"],
     "correctIndex": 2
   },
   {
     "id": "q68",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier ordinateur programmable ?",
-    "answers": [
-      "Konrad Zuse",
-      "Charles Babbage",
-      "Alan Turing",
-      "John von Neumann"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de recycler l’air dans les stations spatiales ?",
+    "answers": ["Ventilateur", "Filtre", "Pompe", "Système de recyclage d’air"],
+    "correctIndex": 3
   },
   {
     "id": "q69",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
-    "answers": [
-      "James Harrison",
-      "Jacob Perkins",
-      "Albert T. Marshall",
-      "Carl von Linde"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention a permis la navigation aérienne moderne ?",
+    "answers": ["Radar", "GPS", "Boussole", "Altimètre"],
+    "correctIndex": 0
   },
   {
     "id": "q70",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier ordinateur programmable ?",
-    "answers": [
-      "Alan Turing",
-      "John von Neumann",
-      "Konrad Zuse",
-      "Charles Babbage"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de protéger un circuit électrique ?",
+    "answers": ["Condensateur", "Fusible", "Transformateur", "Alternateur"],
+    "correctIndex": 1
   },
+
   {
     "id": "q71",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur à explosion ?",
-    "answers": [
-      "Gottlieb Daimler",
-      "Rudolf Diesel",
-      "Nikolaus Otto",
-      "Karl Benz"
-    ],
+    "text": "Quelle invention est utilisée pour stocker de l’énergie thermique ?",
+    "answers": ["Batterie", "Condensateur", "Ballon d’eau chaude", "Générateur"],
     "correctIndex": 2
   },
   {
     "id": "q72",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier ordinateur programmable ?",
-    "answers": [
-      "John von Neumann",
-      "Charles Babbage",
-      "Konrad Zuse",
-      "Alan Turing"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de contrôler un appareil à distance ?",
+    "answers": ["Clavier", "Souris", "Bouton", "Télécommande"],
+    "correctIndex": 3
   },
   {
     "id": "q73",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
-    "answers": [
-      "James Harrison",
-      "Albert T. Marshall",
-      "Jacob Perkins",
-      "Carl von Linde"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention a permis la standardisation des pièces mécaniques ?",
+    "answers": ["Chaîne de montage", "Machine-outil", "Tour mécanique", "Robot"],
+    "correctIndex": 0
   },
   {
     "id": "q74",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur diesel ?",
-    "answers": [
-      "Karl Benz",
-      "Rudolf Diesel",
-      "Nicholas Otto",
-      "Gottlieb Daimler"
-    ],
+    "text": "Quelle invention permet de projeter des images sur un écran ?",
+    "answers": ["Télévision", "Vidéoprojecteur", "Scanner", "Imprimante"],
     "correctIndex": 1
   },
   {
     "id": "q75",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la radio ?",
-    "answers": [
-      "Reginald Fessenden",
-      "Nikola Tesla",
-      "Guglielmo Marconi",
-      "Lee de Forest"
-    ],
+    "text": "Quelle invention est utilisée pour détecter les fuites de gaz ?",
+    "answers": ["Thermomètre", "Baromètre", "Capteur de gaz", "Manomètre"],
     "correctIndex": 2
   },
   {
     "id": "q76",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
-    "answers": [
-      "Juan de la Cierva",
-      "Igor Sikorsky",
-      "Paul Cornu",
-      "Arthur Young"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet d’augmenter la portée d’un signal Wi-Fi ?",
+    "answers": ["Routeur", "Modem", "Câble", "Répéteur"],
+    "correctIndex": 3
   },
   {
     "id": "q77",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de la photographie ?",
-    "answers": [
-      "Louis Daguerre",
-      "George Eastman",
-      "William Fox Talbot",
-      "Nicéphore Niépce"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention a permis la création des cartes électroniques modernes ?",
+    "answers": ["Circuit imprimé", "Transistor", "Relais", "Condensateur"],
+    "correctIndex": 0
   },
   {
     "id": "q78",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du sous-marin ?",
-    "answers": [
-      "Isaac Peral",
-      "Cornelis Drebbel",
-      "David Bushnell",
-      "John Philip Holland"
-    ],
+    "text": "Quelle invention permet de mesurer la consommation électrique ?",
+    "answers": ["Voltmètre", "Compteur électrique", "Ampèremètre", "Transformateur"],
     "correctIndex": 1
   },
   {
     "id": "q79",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur diesel ?",
-    "answers": [
-      "Gottlieb Daimler",
-      "Nicholas Otto",
-      "Karl Benz",
-      "Rudolf Diesel"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention est utilisée pour produire de l’énergie nucléaire ?",
+    "answers": ["Générateur", "Turbine", "Réacteur nucléaire", "Alternateur"],
+    "correctIndex": 2
   },
   {
     "id": "q80",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la machine à coudre ?",
-    "answers": [
-      "Isaac Singer",
-      "Elias Howe",
-      "Thomas Saint",
-      "Walter Hunt"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet d’éclairer automatiquement un espace public la nuit ?",
+    "answers": ["Ampoule", "Interrupteur", "Horloge", "Lampadaire"],
+    "correctIndex": 3
   },
+
   {
     "id": "q81",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du sous-marin ?",
-    "answers": [
-      "David Bushnell",
-      "Isaac Peral",
-      "Cornelis Drebbel",
-      "John Philip Holland"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention a permis la communication visuelle à distance avant Internet ?",
+    "answers": ["Télévision", "Télégraphe optique", "Radio", "Fax"],
+    "correctIndex": 0
   },
   {
     "id": "q82",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de la photographie ?",
-    "answers": [
-      "George Eastman",
-      "William Fox Talbot",
-      "Louis Daguerre",
-      "Nicéphore Niépce"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de transformer un signal analogique en numérique ?",
+    "answers": ["Modem", "Convertisseur analogique-numérique", "Routeur", "Amplificateur"],
+    "correctIndex": 1
   },
   {
     "id": "q83",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de la photographie ?",
-    "answers": [
-      "Nicéphore Niépce",
-      "George Eastman",
-      "Louis Daguerre",
-      "William Fox Talbot"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention est utilisée pour analyser le sang en laboratoire ?",
+    "answers": ["Microscope", "Centrifugeuse", "Spectromètre", "Scanner"],
+    "correctIndex": 2
   },
   {
     "id": "q84",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier ordinateur programmable ?",
-    "answers": [
-      "Charles Babbage",
-      "Alan Turing",
-      "John von Neumann",
-      "Konrad Zuse"
-    ],
+    "text": "Quelle invention permet de détecter les séismes ?",
+    "answers": ["Baromètre", "Altimètre", "Radar", "Sismographe"],
     "correctIndex": 3
   },
   {
     "id": "q85",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur diesel ?",
-    "answers": [
-      "Gottlieb Daimler",
-      "Karl Benz",
-      "Rudolf Diesel",
-      "Nicholas Otto"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention a permis la conservation des vaccins à basse température ?",
+    "answers": ["Congélateur", "Glacière", "Réfrigérateur", "Cryogénie"],
+    "correctIndex": 0
   },
   {
     "id": "q86",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du sous-marin ?",
-    "answers": [
-      "David Bushnell",
-      "Cornelis Drebbel",
-      "Isaac Peral",
-      "John Philip Holland"
-    ],
+    "text": "Quelle invention permet de diffuser un son amplifié dans une salle ?",
+    "answers": ["Microphone", "Haut-parleur", "Casque", "Radio"],
     "correctIndex": 1
   },
   {
     "id": "q87",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
-    "answers": [
-      "Juan de la Cierva",
-      "Paul Cornu",
-      "Arthur Young",
-      "Igor Sikorsky"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention est utilisée pour calculer des trajectoires spatiales ?",
+    "answers": ["Calculatrice", "Tableur", "Superordinateur", "Terminal"],
+    "correctIndex": 2
   },
   {
     "id": "q88",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du sous-marin ?",
-    "answers": [
-      "Cornelis Drebbel",
-      "Isaac Peral",
-      "David Bushnell",
-      "John Philip Holland"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de sécuriser un réseau informatique ?",
+    "answers": ["Navigateur", "Serveur", "Routeur", "Pare-feu"],
+    "correctIndex": 3
   },
   {
     "id": "q89",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la radio ?",
-    "answers": [
-      "Nikola Tesla",
-      "Lee de Forest",
-      "Guglielmo Marconi",
-      "Reginald Fessenden"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention a rendu possible la visioconférence ?",
+    "answers": ["Webcam", "Téléphone", "Radio", "Fax"],
+    "correctIndex": 0
   },
   {
     "id": "q90",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la machine à coudre ?",
-    "answers": [
-      "Elias Howe",
-      "Isaac Singer",
-      "Thomas Saint",
-      "Walter Hunt"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de produire de l’électricité à partir de l’eau ?",
+    "answers": ["Barrage hydroélectrique", "Éolienne", "Panneau solaire", "Générateur"],
+    "correctIndex": 1
   },
+
   {
     "id": "q91",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur à explosion ?",
-    "answers": [
-      "Rudolf Diesel",
-      "Gottlieb Daimler",
-      "Nikolaus Otto",
-      "Karl Benz"
-    ],
+    "text": "Quelle invention est utilisée pour stocker des données à long terme ?",
+    "answers": ["RAM", "Cache", "Disque dur", "Processeur"],
     "correctIndex": 2
   },
   {
     "id": "q92",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de la photographie ?",
-    "answers": [
-      "George Eastman",
-      "Nicéphore Niépce",
-      "Louis Daguerre",
-      "William Fox Talbot"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet de mesurer la vitesse d’un véhicule ?",
+    "answers": ["Altimètre", "Boussole", "GPS", "Compteur de vitesse"],
+    "correctIndex": 3
   },
   {
     "id": "q93",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur à explosion ?",
-    "answers": [
-      "Nikolaus Otto",
-      "Karl Benz",
-      "Gottlieb Daimler",
-      "Rudolf Diesel"
-    ],
+    "text": "Quelle invention a permis l’éclairage public automatisé ?",
+    "answers": ["Cellule photoélectrique", "Ampoule", "Transformateur", "Interrupteur"],
     "correctIndex": 0
   },
   {
     "id": "q94",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la machine à coudre ?",
-    "answers": [
-      "Walter Hunt",
-      "Elias Howe",
-      "Thomas Saint",
-      "Isaac Singer"
-    ],
+    "text": "Quelle invention permet de surveiller un espace à distance ?",
+    "answers": ["Radar", "Caméra de surveillance", "Détecteur", "Capteur"],
     "correctIndex": 1
   },
   {
     "id": "q95",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
-    "answers": [
-      "Juan de la Cierva",
-      "Paul Cornu",
-      "Arthur Young",
-      "Igor Sikorsky"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention est utilisée pour analyser la structure des matériaux ?",
+    "answers": ["Microscope", "Scanner", "Microscope électronique", "IRM"],
+    "correctIndex": 2
   },
   {
     "id": "q96",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la radio ?",
-    "answers": [
-      "Nikola Tesla",
-      "Guglielmo Marconi",
-      "Lee de Forest",
-      "Reginald Fessenden"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet de prévenir les collisions en automobile ?",
+    "answers": ["ABS", "Airbag", "GPS", "Radar de recul"],
+    "correctIndex": 3
   },
   {
     "id": "q97",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de la photographie ?",
-    "answers": [
-      "William Fox Talbot",
-      "Nicéphore Niépce",
-      "George Eastman",
-      "Louis Daguerre"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention a permis la diffusion mondiale de l’information en temps réel ?",
+    "answers": ["Internet", "Radio", "Télévision", "Télégraphe"],
+    "correctIndex": 0
   },
   {
     "id": "q98",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur diesel ?",
-    "answers": [
-      "Nicholas Otto",
-      "Karl Benz",
-      "Rudolf Diesel",
-      "Gottlieb Daimler"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de synchroniser l’heure à l’échelle mondiale ?",
+    "answers": ["Horloge atomique", "Montre", "GPS", "Réveil"],
+    "correctIndex": 1
   },
   {
     "id": "q99",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de la photographie ?",
-    "answers": [
-      "George Eastman",
-      "Nicéphore Niépce",
-      "William Fox Talbot",
-      "Louis Daguerre"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est utilisée pour produire de l’énergie solaire thermique ?",
+    "answers": ["Panneau photovoltaïque", "Éolienne", "Capteur solaire thermique", "Batterie"],
+    "correctIndex": 2
   },
   {
     "id": "q100",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur diesel ?",
-    "answers": [
-      "Nicholas Otto",
-      "Karl Benz",
-      "Gottlieb Daimler",
-      "Rudolf Diesel"
-    ],
+    "text": "Quelle invention permet d’alerter automatiquement les secours en cas d’accident ?",
+    "answers": ["Téléphone", "Radio", "Balise", "Système eCall"],
     "correctIndex": 3
   },
   {
     "id": "q101",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du gramophone ?",
-    "answers": [
-      "Alexander Graham Bell",
-      "Emile Berliner",
-      "Thomas Edison",
-      "Guglielmo Marconi"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet de détecter la présence de fumée dans un bâtiment ?",
+    "answers": ["Détecteur de fumée", "Thermostat", "Alarme", "Capteur de gaz"],
+    "correctIndex": 0
   },
   {
     "id": "q102",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la radio ?",
-    "answers": [
-      "Lee de Forest",
-      "Reginald Fessenden",
-      "Guglielmo Marconi",
-      "Nikola Tesla"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention a rendu possible la photographie numérique ?",
+    "answers": ["Pellicule", "Capteur CCD", "Scanner", "Flash"],
+    "correctIndex": 1
   },
   {
     "id": "q103",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la radio ?",
-    "answers": [
-      "Lee de Forest",
-      "Nikola Tesla",
-      "Guglielmo Marconi",
-      "Reginald Fessenden"
-    ],
+    "text": "Quelle invention permet de stocker temporairement des données dans un ordinateur ?",
+    "answers": ["Disque dur", "Processeur", "Mémoire vive (RAM)", "Carte graphique"],
     "correctIndex": 2
   },
   {
     "id": "q104",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur diesel ?",
-    "answers": [
-      "Rudolf Diesel",
-      "Gottlieb Daimler",
-      "Nicholas Otto",
-      "Karl Benz"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de mesurer la pression atmosphérique ?",
+    "answers": ["Altimètre", "Thermomètre", "Hygromètre", "Baromètre"],
+    "correctIndex": 3
   },
   {
     "id": "q105",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
-    "answers": [
-      "Igor Sikorsky",
-      "Arthur Young",
-      "Juan de la Cierva",
-      "Paul Cornu"
-    ],
+    "text": "Quelle invention a permis l’industrialisation de la production textile ?",
+    "answers": ["Métier à tisser mécanique", "Machine à vapeur", "Chaîne de montage", "Robot industriel"],
     "correctIndex": 0
   },
   {
     "id": "q106",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur à explosion ?",
-    "answers": [
-      "Karl Benz",
-      "Gottlieb Daimler",
-      "Nikolaus Otto",
-      "Rudolf Diesel"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de déterminer une position géographique précise ?",
+    "answers": ["Boussole", "GPS", "Radar", "Altimètre"],
+    "correctIndex": 1
   },
   {
     "id": "q107",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
-    "answers": [
-      "Carl von Linde",
-      "Jacob Perkins",
-      "James Harrison",
-      "Albert T. Marshall"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention est utilisée pour amplifier un signal électrique ?",
+    "answers": ["Condensateur", "Résistance", "Amplificateur", "Transformateur"],
+    "correctIndex": 2
   },
   {
     "id": "q108",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
-    "answers": [
-      "Albert T. Marshall",
-      "Jacob Perkins",
-      "Carl von Linde",
-      "James Harrison"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de détecter un mouvement dans une pièce ?",
+    "answers": ["Caméra", "Interrupteur", "Thermostat", "Détecteur de mouvement"],
+    "correctIndex": 3
   },
   {
     "id": "q109",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la radio ?",
-    "answers": [
-      "Reginald Fessenden",
-      "Lee de Forest",
-      "Guglielmo Marconi",
-      "Nikola Tesla"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention a permis la communication écrite instantanée à distance ?",
+    "answers": ["Télégraphe", "Téléphone", "Radio", "Fax"],
+    "correctIndex": 0
   },
   {
     "id": "q110",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du gramophone ?",
-    "answers": [
-      "Guglielmo Marconi",
-      "Emile Berliner",
-      "Alexander Graham Bell",
-      "Thomas Edison"
-    ],
+    "text": "Quelle invention permet de transformer l’énergie mécanique en énergie électrique ?",
+    "answers": ["Batterie", "Alternateur", "Condensateur", "Transformateur"],
     "correctIndex": 1
   },
+
   {
     "id": "q111",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du sous-marin ?",
-    "answers": [
-      "Isaac Peral",
-      "John Philip Holland",
-      "Cornelis Drebbel",
-      "David Bushnell"
-    ],
+    "text": "Quelle invention est utilisée pour mesurer une intensité électrique ?",
+    "answers": ["Voltmètre", "Ohmmètre", "Ampèremètre", "Wattmètre"],
     "correctIndex": 2
   },
   {
     "id": "q112",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de la photographie ?",
-    "answers": [
-      "George Eastman",
-      "Nicéphore Niépce",
-      "William Fox Talbot",
-      "Louis Daguerre"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet de protéger un réseau informatique contre les intrusions ?",
+    "answers": ["Serveur", "Modem", "Routeur", "Pare-feu"],
+    "correctIndex": 3
   },
   {
     "id": "q113",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du sous-marin ?",
-    "answers": [
-      "John Philip Holland",
-      "Isaac Peral",
-      "Cornelis Drebbel",
-      "David Bushnell"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention a permis la diffusion de l’électricité à grande échelle ?",
+    "answers": ["Transformateur", "Générateur", "Batterie", "Alternateur"],
+    "correctIndex": 0
   },
   {
     "id": "q114",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du gramophone ?",
-    "answers": [
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Emile Berliner",
-      "Guglielmo Marconi"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet d’imprimer des documents directement depuis un ordinateur ?",
+    "answers": ["Scanner", "Imprimante", "Photocopieuse", "Fax"],
+    "correctIndex": 1
   },
   {
     "id": "q115",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier ordinateur programmable ?",
-    "answers": [
-      "Alan Turing",
-      "Konrad Zuse",
-      "John von Neumann",
-      "Charles Babbage"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est utilisée pour stocker l’énergie chimique ?",
+    "answers": ["Condensateur", "Alternateur", "Batterie", "Transformateur"],
+    "correctIndex": 2
   },
   {
     "id": "q116",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier ordinateur programmable ?",
-    "answers": [
-      "Charles Babbage",
-      "Alan Turing",
-      "Konrad Zuse",
-      "John von Neumann"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet d’analyser la composition de la lumière ?",
+    "answers": ["Microscope", "Télescope", "Laser", "Spectroscope"],
+    "correctIndex": 3
   },
   {
     "id": "q117",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
-    "answers": [
-      "Carl von Linde",
-      "Albert T. Marshall",
-      "Jacob Perkins",
-      "James Harrison"
-    ],
+    "text": "Quelle invention a rendu possible l’aviation moderne ?",
+    "answers": ["Moteur à réaction", "Hélice", "Boussole", "Radar"],
     "correctIndex": 0
   },
   {
     "id": "q118",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la radio ?",
-    "answers": [
-      "Nikola Tesla",
-      "Guglielmo Marconi",
-      "Lee de Forest",
-      "Reginald Fessenden"
-    ],
+    "text": "Quelle invention permet de visualiser des données sous forme graphique ?",
+    "answers": ["Tableur", "Logiciel de visualisation", "Navigateur", "Serveur"],
     "correctIndex": 1
   },
   {
     "id": "q119",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du sous-marin ?",
-    "answers": [
-      "David Bushnell",
-      "Cornelis Drebbel",
-      "John Philip Holland",
-      "Isaac Peral"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est utilisée pour détecter les radiations ?",
+    "answers": ["Baromètre", "Thermomètre", "Compteur Geiger", "Altimètre"],
+    "correctIndex": 2
   },
   {
     "id": "q120",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la radio ?",
-    "answers": [
-      "Reginald Fessenden",
-      "Guglielmo Marconi",
-      "Nikola Tesla",
-      "Lee de Forest"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet de refroidir un moteur en fonctionnement ?",
+    "answers": ["Radiateur", "Ventilateur", "Pompe", "Système de refroidissement"],
+    "correctIndex": 3
   },
+
   {
     "id": "q121",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
-    "answers": [
-      "Albert T. Marshall",
-      "James Harrison",
-      "Carl von Linde",
-      "Jacob Perkins"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention a permis la miniaturisation des composants électroniques ?",
+    "answers": ["Transistor", "Relais", "Condensateur", "Résistance"],
+    "correctIndex": 0
   },
   {
     "id": "q122",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du gramophone ?",
-    "answers": [
-      "Alexander Graham Bell",
-      "Emile Berliner",
-      "Thomas Edison",
-      "Guglielmo Marconi"
-    ],
+    "text": "Quelle invention permet de mesurer l’humidité de l’air ?",
+    "answers": ["Thermomètre", "Hygromètre", "Baromètre", "Altimètre"],
     "correctIndex": 1
   },
   {
     "id": "q123",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de la photographie ?",
-    "answers": [
-      "William Fox Talbot",
-      "Louis Daguerre",
-      "Nicéphore Niépce",
-      "George Eastman"
-    ],
+    "text": "Quelle invention est utilisée pour stabiliser une image vidéo ?",
+    "answers": ["Trépied", "Zoom", "Stabilisateur", "Objectif"],
     "correctIndex": 2
   },
   {
     "id": "q124",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du gramophone ?",
-    "answers": [
-      "Emile Berliner",
-      "Alexander Graham Bell",
-      "Thomas Edison",
-      "Guglielmo Marconi"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de produire de l’électricité à partir du vent ?",
+    "answers": ["Barrage", "Panneau solaire", "Turbine", "Éolienne"],
+    "correctIndex": 3
   },
   {
     "id": "q125",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier ordinateur programmable ?",
-    "answers": [
-      "Charles Babbage",
-      "Konrad Zuse",
-      "Alan Turing",
-      "John von Neumann"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention a permis la conservation des aliments par le froid ?",
+    "answers": ["Réfrigérateur", "Congélateur", "Glacière", "Séchage"],
+    "correctIndex": 0
   },
   {
     "id": "q126",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de la photographie ?",
-    "answers": [
-      "Nicéphore Niépce",
-      "Louis Daguerre",
-      "George Eastman",
-      "William Fox Talbot"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de détecter une surcharge électrique ?",
+    "answers": ["Transformateur", "Disjoncteur", "Alternateur", "Batterie"],
+    "correctIndex": 1
   },
   {
     "id": "q127",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la radio ?",
-    "answers": [
-      "Reginald Fessenden",
-      "Lee de Forest",
-      "Guglielmo Marconi",
-      "Nikola Tesla"
-    ],
+    "text": "Quelle invention est utilisée pour observer les étoiles lointaines ?",
+    "answers": ["Microscope", "Radar", "Télescope", "Scanner"],
     "correctIndex": 2
   },
   {
     "id": "q128",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
-    "answers": [
-      "Arthur Young",
-      "Paul Cornu",
-      "Juan de la Cierva",
-      "Igor Sikorsky"
-    ],
+    "text": "Quelle invention permet d’automatiser l’ouverture d’un portail ?",
+    "answers": ["Clé", "Serrure", "Charnière", "Motorisation"],
     "correctIndex": 3
   },
   {
     "id": "q129",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur à explosion ?",
-    "answers": [
-      "Nikolaus Otto",
-      "Karl Benz",
-      "Gottlieb Daimler",
-      "Rudolf Diesel"
-    ],
+    "text": "Quelle invention a permis la transmission de la voix sur de longues distances ?",
+    "answers": ["Téléphone", "Radio", "Télégraphe", "Fax"],
     "correctIndex": 0
   },
   {
     "id": "q130",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du gramophone ?",
-    "answers": [
-      "Thomas Edison",
-      "Emile Berliner",
-      "Alexander Graham Bell",
-      "Guglielmo Marconi"
-    ],
+    "text": "Quelle invention permet de visualiser l’activité électrique du cœur ?",
+    "answers": ["Scanner", "Électrocardiogramme", "IRM", "Échographie"],
     "correctIndex": 1
   },
+
   {
     "id": "q131",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du gramophone ?",
-    "answers": [
-      "Alexander Graham Bell",
-      "Thomas Edison",
-      "Guglielmo Marconi",
-      "Emile Berliner"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention est utilisée pour mesurer la puissance électrique ?",
+    "answers": ["Voltmètre", "Ampèremètre", "Wattmètre", "Ohmmètre"],
+    "correctIndex": 2
   },
   {
     "id": "q132",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la radio ?",
-    "answers": [
-      "Nikola Tesla",
-      "Lee de Forest",
-      "Guglielmo Marconi",
-      "Reginald Fessenden"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de projeter des images animées sur un écran ?",
+    "answers": ["Télévision", "Scanner", "Imprimante", "Projecteur"],
+    "correctIndex": 3
   },
   {
     "id": "q133",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du sous-marin ?",
-    "answers": [
-      "Isaac Peral",
-      "David Bushnell",
-      "John Philip Holland",
-      "Cornelis Drebbel"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention a permis l’accès mondial à l’information ?",
+    "answers": ["Internet", "Radio", "Télévision", "Presse écrite"],
+    "correctIndex": 0
   },
   {
     "id": "q134",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du sous-marin ?",
-    "answers": [
-      "John Philip Holland",
-      "David Bushnell",
-      "Cornelis Drebbel",
-      "Isaac Peral"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet d’automatiser des tâches répétitives en industrie ?",
+    "answers": ["Machine-outil", "Robot industriel", "Convoyeur", "Chaîne"],
+    "correctIndex": 1
   },
   {
     "id": "q135",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du gramophone ?",
-    "answers": [
-      "Guglielmo Marconi",
-      "Emile Berliner",
-      "Alexander Graham Bell",
-      "Thomas Edison"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est utilisée pour convertir l’énergie solaire en électricité ?",
+    "answers": ["Capteur thermique", "Batterie", "Panneau photovoltaïque", "Alternateur"],
+    "correctIndex": 2
   },
   {
     "id": "q136",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
-    "answers": [
-      "Igor Sikorsky",
-      "Paul Cornu",
-      "Juan de la Cierva",
-      "Arthur Young"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de détecter les obstacles lors d’un stationnement ?",
+    "answers": ["GPS", "Caméra", "Radar", "Radar de recul"],
+    "correctIndex": 3
   },
   {
     "id": "q137",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
-    "answers": [
-      "Carl von Linde",
-      "Albert T. Marshall",
-      "James Harrison",
-      "Jacob Perkins"
-    ],
+    "text": "Quelle invention a permis l’enregistrement du son ?",
+    "answers": ["Phonographe", "Radio", "Télévision", "Amplificateur"],
     "correctIndex": 0
   },
   {
     "id": "q138",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du sous-marin ?",
-    "answers": [
-      "Cornelis Drebbel",
-      "David Bushnell",
-      "John Philip Holland",
-      "Isaac Peral"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de stocker des données dans le cloud ?",
+    "answers": ["Serveur distant", "Disque dur", "Clé USB", "Carte mémoire"],
+    "correctIndex": 1
   },
   {
     "id": "q139",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur diesel ?",
-    "answers": [
-      "Rudolf Diesel",
-      "Gottlieb Daimler",
-      "Karl Benz",
-      "Nicholas Otto"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention est utilisée pour observer des cellules biologiques ?",
+    "answers": ["Télescope", "Scanner", "Microscope", "Endoscope"],
+    "correctIndex": 2
   },
   {
     "id": "q140",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du gramophone ?",
-    "answers": [
-      "Alexander Graham Bell",
-      "Thomas Edison",
-      "Guglielmo Marconi",
-      "Emile Berliner"
-    ],
+    "text": "Quelle invention permet d’envoyer des données sans fil ?",
+    "answers": ["Câble Ethernet", "Fibre optique", "USB", "Wi-Fi"],
     "correctIndex": 3
   },
+
   {
     "id": "q141",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur diesel ?",
-    "answers": [
-      "Karl Benz",
-      "Rudolf Diesel",
-      "Gottlieb Daimler",
-      "Nicholas Otto"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention a permis la mécanisation de l’agriculture ?",
+    "answers": ["Tracteur", "Charrue", "Moissonneuse", "Semoir"],
+    "correctIndex": 0
   },
   {
     "id": "q142",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur diesel ?",
-    "answers": [
-      "Gottlieb Daimler",
-      "Nicholas Otto",
-      "Karl Benz",
-      "Rudolf Diesel"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de détecter la vitesse d’un véhicule à distance ?",
+    "answers": ["GPS", "Radar", "Altimètre", "Boussole"],
+    "correctIndex": 1
   },
   {
     "id": "q143",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur à explosion ?",
-    "answers": [
-      "Rudolf Diesel",
-      "Nikolaus Otto",
-      "Gottlieb Daimler",
-      "Karl Benz"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est utilisée pour stocker l’énergie électrique à grande échelle ?",
+    "answers": ["Pile", "Condensateur", "Batterie industrielle", "Alternateur"],
+    "correctIndex": 2
   },
   {
     "id": "q144",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
-    "answers": [
-      "Igor Sikorsky",
-      "Arthur Young",
-      "Juan de la Cierva",
-      "Paul Cornu"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de prévenir les incendies domestiques ?",
+    "answers": ["Extincteur", "Thermostat", "Climatisation", "Détecteur de fumée"],
+    "correctIndex": 3
   },
   {
     "id": "q145",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
-    "answers": [
-      "Paul Cornu",
-      "Arthur Young",
-      "Igor Sikorsky",
-      "Juan de la Cierva"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention a permis la diffusion de films au cinéma ?",
+    "answers": ["Projecteur cinématographique", "Télévision", "Radio", "Caméra"],
+    "correctIndex": 0
   },
   {
     "id": "q146",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du gramophone ?",
-    "answers": [
-      "Emile Berliner",
-      "Guglielmo Marconi",
-      "Alexander Graham Bell",
-      "Thomas Edison"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de mesurer une tension électrique ?",
+    "answers": ["Ampèremètre", "Voltmètre", "Wattmètre", "Ohmmètre"],
+    "correctIndex": 1
   },
   {
     "id": "q147",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la machine à coudre ?",
-    "answers": [
-      "Elias Howe",
-      "Walter Hunt",
-      "Isaac Singer",
-      "Thomas Saint"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention est utilisée pour refroidir des composants électroniques ?",
+    "answers": ["Radiateur", "Ventilateur", "Dissipateur thermique", "Pompe"],
+    "correctIndex": 2
   },
   {
     "id": "q148",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur à explosion ?",
-    "answers": [
-      "Karl Benz",
-      "Gottlieb Daimler",
-      "Rudolf Diesel",
-      "Nikolaus Otto"
-    ],
+    "text": "Quelle invention permet de sécuriser un paiement en ligne ?",
+    "answers": ["Mot de passe", "Carte bancaire", "Compte bancaire", "Cryptage"],
     "correctIndex": 3
   },
   {
     "id": "q149",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur diesel ?",
-    "answers": [
-      "Gottlieb Daimler",
-      "Nicholas Otto",
-      "Rudolf Diesel",
-      "Karl Benz"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention a permis la diffusion de l’heure exacte dans le monde ?",
+    "answers": ["Horloge atomique", "Montre", "Réveil", "Calendrier"],
+    "correctIndex": 0
   },
   {
     "id": "q150",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
-    "answers": [
-      "Carl von Linde",
-      "James Harrison",
-      "Jacob Perkins",
-      "Albert T. Marshall"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de suivre un itinéraire en temps réel ?",
+    "answers": ["Carte papier", "GPS", "Boussole", "Radar"],
+    "correctIndex": 1
   },
   {
     "id": "q151",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
-    "answers": [
-      "James Harrison",
-      "Jacob Perkins",
-      "Carl von Linde",
-      "Albert T. Marshall"
-    ],
+    "text": "Quelle invention permet de stocker de l’énergie sous forme magnétique ?",
+    "answers": ["Batterie", "Condensateur", "Bobine", "Alternateur"],
     "correctIndex": 2
   },
   {
     "id": "q152",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur à explosion ?",
-    "answers": [
-      "Gottlieb Daimler",
-      "Rudolf Diesel",
-      "Nikolaus Otto",
-      "Karl Benz"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de visualiser des objets très éloignés dans l’espace ?",
+    "answers": ["Microscope", "Radar", "Loupe", "Télescope"],
+    "correctIndex": 3
   },
   {
     "id": "q153",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la radio ?",
-    "answers": [
-      "Lee de Forest",
-      "Guglielmo Marconi",
-      "Reginald Fessenden",
-      "Nikola Tesla"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention a permis l’automatisation des feux de circulation ?",
+    "answers": ["Contrôleur électronique", "Ampoule", "Panneau", "Radar"],
+    "correctIndex": 0
   },
   {
     "id": "q154",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la machine à coudre ?",
-    "answers": [
-      "Walter Hunt",
-      "Thomas Saint",
-      "Elias Howe",
-      "Isaac Singer"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de convertir un mouvement rotatif en mouvement linéaire ?",
+    "answers": ["Engrenage", "Vis sans fin", "Ressort", "Levier"],
+    "correctIndex": 1
   },
   {
     "id": "q155",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur diesel ?",
-    "answers": [
-      "Rudolf Diesel",
-      "Karl Benz",
-      "Nicholas Otto",
-      "Gottlieb Daimler"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention est utilisée pour mesurer la profondeur des océans ?",
+    "answers": ["Altimètre", "Boussole", "Sonar", "Radar"],
+    "correctIndex": 2
   },
   {
     "id": "q156",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la machine à coudre ?",
-    "answers": [
-      "Isaac Singer",
-      "Walter Hunt",
-      "Elias Howe",
-      "Thomas Saint"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de détecter un excès de monoxyde de carbone ?",
+    "answers": ["Thermostat", "Détecteur de fumée", "Capteur de gaz", "Alarme"],
+    "correctIndex": 3
   },
   {
     "id": "q157",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur diesel ?",
-    "answers": [
-      "Rudolf Diesel",
-      "Karl Benz",
-      "Nicholas Otto",
-      "Gottlieb Daimler"
-    ],
+    "text": "Quelle invention a permis la miniaturisation des ordinateurs ?",
+    "answers": ["Microprocesseur", "Relais", "Tube à vide", "Condensateur"],
     "correctIndex": 0
   },
   {
     "id": "q158",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du sous-marin ?",
-    "answers": [
-      "David Bushnell",
-      "Cornelis Drebbel",
-      "Isaac Peral",
-      "John Philip Holland"
-    ],
+    "text": "Quelle invention permet de mesurer une résistance électrique ?",
+    "answers": ["Ampèremètre", "Ohmmètre", "Voltmètre", "Wattmètre"],
     "correctIndex": 1
   },
   {
     "id": "q159",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
-    "answers": [
-      "James Harrison",
-      "Carl von Linde",
-      "Jacob Perkins",
-      "Albert T. Marshall"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est utilisée pour produire de l’énergie géothermique ?",
+    "answers": ["Éolienne", "Barrage", "Centrale géothermique", "Panneau solaire"],
+    "correctIndex": 2
   },
   {
     "id": "q160",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la radio ?",
-    "answers": [
-      "Lee de Forest",
-      "Nikola Tesla",
-      "Reginald Fessenden",
-      "Guglielmo Marconi"
-    ],
+    "text": "Quelle invention permet de sécuriser une connexion Internet ?",
+    "answers": ["Navigateur", "Modem", "Routeur", "Cryptage SSL"],
     "correctIndex": 3
   },
+
   {
     "id": "q161",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
-    "answers": [
-      "Paul Cornu",
-      "Juan de la Cierva",
-      "Arthur Young",
-      "Igor Sikorsky"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention a permis la diffusion du son dans les salles de concert ?",
+    "answers": ["Haut-parleur", "Microphone", "Radio", "Amplificateur"],
+    "correctIndex": 0
   },
   {
     "id": "q162",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de la photographie ?",
-    "answers": [
-      "Nicéphore Niépce",
-      "William Fox Talbot",
-      "George Eastman",
-      "Louis Daguerre"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de mesurer la fréquence d’un signal ?",
+    "answers": ["Oscilloscope", "Fréquencemètre", "Voltmètre", "Ampèremètre"],
+    "correctIndex": 1
   },
   {
     "id": "q163",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la radio ?",
-    "answers": [
-      "Reginald Fessenden",
-      "Guglielmo Marconi",
-      "Lee de Forest",
-      "Nikola Tesla"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est utilisée pour observer les fonds marins ?",
+    "answers": ["Sous-marin", "Radar", "Bathyscaphe", "Drone"],
+    "correctIndex": 2
   },
   {
     "id": "q164",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du sous-marin ?",
-    "answers": [
-      "Isaac Peral",
-      "David Bushnell",
-      "John Philip Holland",
-      "Cornelis Drebbel"
-    ],
+    "text": "Quelle invention permet de convertir un signal électrique en son ?",
+    "answers": ["Microphone", "Amplificateur", "Câble", "Haut-parleur"],
     "correctIndex": 3
   },
   {
     "id": "q165",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du sous-marin ?",
-    "answers": [
-      "David Bushnell",
-      "Isaac Peral",
-      "John Philip Holland",
-      "Cornelis Drebbel"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention a permis la photographie en couleur ?",
+    "answers": ["Procédé trichrome", "Pellicule noir et blanc", "Scanner", "Flash"],
+    "correctIndex": 0
   },
   {
     "id": "q166",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la machine à coudre ?",
-    "answers": [
-      "Walter Hunt",
-      "Isaac Singer",
-      "Elias Howe",
-      "Thomas Saint"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de stabiliser un navire en mer agitée ?",
+    "answers": ["Ancre", "Gyroscope", "Quille", "Hélice"],
+    "correctIndex": 1
   },
   {
     "id": "q167",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du sous-marin ?",
-    "answers": [
-      "John Philip Holland",
-      "Cornelis Drebbel",
-      "Isaac Peral",
-      "David Bushnell"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est utilisée pour produire de l’électricité par combustion ?",
+    "answers": ["Alternateur", "Batterie", "Centrale thermique", "Condensateur"],
+    "correctIndex": 2
   },
   {
     "id": "q168",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
-    "answers": [
-      "James Harrison",
-      "Albert T. Marshall",
-      "Carl von Linde",
-      "Jacob Perkins"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet d’analyser les ondes sismiques ?",
+    "answers": ["Baromètre", "Altimètre", "Radar", "Sismographe"],
+    "correctIndex": 3
   },
   {
     "id": "q169",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier ordinateur programmable ?",
-    "answers": [
-      "Alan Turing",
-      "Konrad Zuse",
-      "Charles Babbage",
-      "John von Neumann"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention a permis la transmission de données par fibre optique ?",
+    "answers": ["Laser", "Câble cuivre", "Onde radio", "Satellite"],
+    "correctIndex": 0
   },
   {
     "id": "q170",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
-    "answers": [
-      "Juan de la Cierva",
-      "Paul Cornu",
-      "Arthur Young",
-      "Igor Sikorsky"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de mesurer la tension d’une pile ?",
+    "answers": ["Ohmmètre", "Voltmètre", "Ampèremètre", "Wattmètre"],
+    "correctIndex": 1
   },
+
   {
     "id": "q171",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du gramophone ?",
-    "answers": [
-      "Alexander Graham Bell",
-      "Emile Berliner",
-      "Thomas Edison",
-      "Guglielmo Marconi"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est utilisée pour stocker de grandes quantités de données en ligne ?",
+    "answers": ["Clé USB", "Disque dur", "Data center", "Carte mémoire"],
+    "correctIndex": 2
   },
   {
     "id": "q172",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur diesel ?",
-    "answers": [
-      "Karl Benz",
-      "Gottlieb Daimler",
-      "Nicholas Otto",
-      "Rudolf Diesel"
-    ],
+    "text": "Quelle invention permet de détecter des objets sous la surface de l’eau ?",
+    "answers": ["Radar", "GPS", "Boussole", "Sonar"],
     "correctIndex": 3
   },
   {
     "id": "q173",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
-    "answers": [
-      "James Harrison",
-      "Jacob Perkins",
-      "Albert T. Marshall",
-      "Carl von Linde"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention a permis la diffusion de la télévision en couleur ?",
+    "answers": ["Tube cathodique couleur", "Antenne", "Satellite", "Oscilloscope"],
+    "correctIndex": 0
   },
   {
     "id": "q174",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la machine à coudre ?",
-    "answers": [
-      "Thomas Saint",
-      "Elias Howe",
-      "Isaac Singer",
-      "Walter Hunt"
-    ],
+    "text": "Quelle invention permet de mesurer la puissance d’un moteur ?",
+    "answers": ["Compteur", "Dynamomètre", "Altimètre", "Voltmètre"],
     "correctIndex": 1
   },
   {
     "id": "q175",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur diesel ?",
-    "answers": [
-      "Nicholas Otto",
-      "Rudolf Diesel",
-      "Gottlieb Daimler",
-      "Karl Benz"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est utilisée pour refroidir une centrale nucléaire ?",
+    "answers": ["Ventilateur", "Radiateur", "Tour de refroidissement", "Condensateur"],
+    "correctIndex": 2
   },
   {
     "id": "q176",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
-    "answers": [
-      "Paul Cornu",
-      "Juan de la Cierva",
-      "Arthur Young",
-      "Igor Sikorsky"
-    ],
+    "text": "Quelle invention permet de convertir une image en signal vidéo ?",
+    "answers": ["Scanner", "Projecteur", "Écran", "Caméra"],
     "correctIndex": 3
   },
   {
     "id": "q177",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de la photographie ?",
-    "answers": [
-      "William Fox Talbot",
-      "George Eastman",
-      "Nicéphore Niépce",
-      "Louis Daguerre"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention a permis l’enregistrement vidéo domestique ?",
+    "answers": ["Magnétoscope", "Télévision", "Caméra", "Projecteur"],
+    "correctIndex": 0
   },
   {
     "id": "q178",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la machine à coudre ?",
-    "answers": [
-      "Walter Hunt",
-      "Elias Howe",
-      "Thomas Saint",
-      "Isaac Singer"
-    ],
+    "text": "Quelle invention permet de mesurer la vitesse du vent ?",
+    "answers": ["Baromètre", "Anémomètre", "Altimètre", "Thermomètre"],
     "correctIndex": 1
   },
   {
     "id": "q179",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur à explosion ?",
-    "answers": [
-      "Gottlieb Daimler",
-      "Nikolaus Otto",
-      "Rudolf Diesel",
-      "Karl Benz"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est utilisée pour produire de l’électricité solaire indirectement ?",
+    "answers": ["Panneau photovoltaïque", "Batterie", "Centrale solaire thermique", "Alternateur"],
+    "correctIndex": 2
   },
   {
     "id": "q180",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la machine à coudre ?",
-    "answers": [
-      "Walter Hunt",
-      "Isaac Singer",
-      "Thomas Saint",
-      "Elias Howe"
-    ],
+    "text": "Quelle invention permet de piloter un drone à distance ?",
+    "answers": ["GPS", "Radar", "Capteur", "Télécommande radio"],
     "correctIndex": 3
   },
+
   {
     "id": "q181",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur à explosion ?",
-    "answers": [
-      "Rudolf Diesel",
-      "Gottlieb Daimler",
-      "Karl Benz",
-      "Nikolaus Otto"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention a permis la standardisation du temps mondial ?",
+    "answers": ["Horloge atomique", "Montre", "Calendrier", "Chronomètre"],
+    "correctIndex": 0
   },
   {
     "id": "q182",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la machine à coudre ?",
-    "answers": [
-      "Isaac Singer",
-      "Walter Hunt",
-      "Elias Howe",
-      "Thomas Saint"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de mesurer la pression dans un pneu ?",
+    "answers": ["Thermomètre", "Manomètre", "Baromètre", "Altimètre"],
+    "correctIndex": 1
   },
   {
     "id": "q183",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier ordinateur programmable ?",
-    "answers": [
-      "Konrad Zuse",
-      "Alan Turing",
-      "Charles Babbage",
-      "John von Neumann"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention est utilisée pour observer des galaxies lointaines ?",
+    "answers": ["Microscope", "Radar", "Télescope spatial", "Scanner"],
+    "correctIndex": 2
   },
   {
     "id": "q184",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la radio ?",
-    "answers": [
-      "Lee de Forest",
-      "Reginald Fessenden",
-      "Nikola Tesla",
-      "Guglielmo Marconi"
-    ],
+    "text": "Quelle invention permet de stocker l’énergie cinétique ?",
+    "answers": ["Batterie", "Condensateur", "Ressort", "Volant d’inertie"],
     "correctIndex": 3
   },
   {
     "id": "q185",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du gramophone ?",
-    "answers": [
-      "Guglielmo Marconi",
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Emile Berliner"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention a permis la diffusion de la radio à grande échelle ?",
+    "answers": ["Émetteur radio", "Antenne TV", "Téléphone", "Satellite"],
+    "correctIndex": 0
   },
   {
     "id": "q186",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
-    "answers": [
-      "Carl von Linde",
-      "Jacob Perkins",
-      "Albert T. Marshall",
-      "James Harrison"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de mesurer l’altitude d’un avion ?",
+    "answers": ["GPS", "Altimètre", "Radar", "Boussole"],
+    "correctIndex": 1
   },
   {
     "id": "q187",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur diesel ?",
-    "answers": [
-      "Gottlieb Daimler",
-      "Karl Benz",
-      "Rudolf Diesel",
-      "Nicholas Otto"
-    ],
+    "text": "Quelle invention est utilisée pour analyser des signaux électriques complexes ?",
+    "answers": ["Multimètre", "Voltmètre", "Oscilloscope", "Ampèremètre"],
     "correctIndex": 2
   },
   {
     "id": "q188",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la machine à coudre ?",
-    "answers": [
-      "Elias Howe",
-      "Thomas Saint",
-      "Isaac Singer",
-      "Walter Hunt"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet d’automatiser l’arrosage d’un jardin ?",
+    "answers": ["Pompe", "Programmateur", "Capteur", "Système d’irrigation automatique"],
+    "correctIndex": 3
   },
   {
     "id": "q189",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la radio ?",
-    "answers": [
-      "Nikola Tesla",
-      "Reginald Fessenden",
-      "Lee de Forest",
-      "Guglielmo Marconi"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention a permis la fabrication de composants électroniques miniatures ?",
+    "answers": ["Circuit intégré", "Transistor", "Relais", "Bobine"],
+    "correctIndex": 0
   },
   {
     "id": "q190",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur à explosion ?",
-    "answers": [
-      "Gottlieb Daimler",
-      "Rudolf Diesel",
-      "Karl Benz",
-      "Nikolaus Otto"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de mesurer la luminosité ambiante ?",
+    "answers": ["Thermomètre", "Luxmètre", "Baromètre", "Hygromètre"],
+    "correctIndex": 1
   },
+
   {
     "id": "q191",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier ordinateur programmable ?",
-    "answers": [
-      "Alan Turing",
-      "John von Neumann",
-      "Charles Babbage",
-      "Konrad Zuse"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention est utilisée pour produire de l’électricité par la mer ?",
+    "answers": ["Barrage", "Éolienne", "Hydrolienne", "Panneau solaire"],
+    "correctIndex": 2
   },
   {
     "id": "q192",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du gramophone ?",
-    "answers": [
-      "Thomas Edison",
-      "Emile Berliner",
-      "Guglielmo Marconi",
-      "Alexander Graham Bell"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet de convertir la chaleur en électricité ?",
+    "answers": ["Alternateur", "Condensateur", "Batterie", "Thermocouple"],
+    "correctIndex": 3
   },
   {
     "id": "q193",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur à explosion ?",
-    "answers": [
-      "Rudolf Diesel",
-      "Nikolaus Otto",
-      "Gottlieb Daimler",
-      "Karl Benz"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention a permis la téléphonie mobile moderne ?",
+    "answers": ["Réseau cellulaire", "Télégraphe", "Radio", "Satellite"],
+    "correctIndex": 0
   },
   {
     "id": "q194",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la radio ?",
-    "answers": [
-      "Nikola Tesla",
-      "Lee de Forest",
-      "Reginald Fessenden",
-      "Guglielmo Marconi"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet de mesurer la vitesse de rotation d’un moteur ?",
+    "answers": ["Compteur", "Tachymètre", "Altimètre", "Manomètre"],
+    "correctIndex": 1
   },
   {
     "id": "q195",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
-    "answers": [
-      "James Harrison",
-      "Albert T. Marshall",
-      "Carl von Linde",
-      "Jacob Perkins"
-    ],
+    "text": "Quelle invention est utilisée pour produire de l’énergie éolienne offshore ?",
+    "answers": ["Barrage", "Panneau solaire", "Éolienne offshore", "Hydrolienne"],
     "correctIndex": 2
   },
   {
     "id": "q196",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la radio ?",
-    "answers": [
-      "Lee de Forest",
-      "Guglielmo Marconi",
-      "Nikola Tesla",
-      "Reginald Fessenden"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet de détecter des obstacles en avion ?",
+    "answers": ["GPS", "Altimètre", "Boussole", "Radar"],
+    "correctIndex": 3
   },
   {
     "id": "q197",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du gramophone ?",
-    "answers": [
-      "Guglielmo Marconi",
-      "Emile Berliner",
-      "Thomas Edison",
-      "Alexander Graham Bell"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention a permis l’automatisation des usines modernes ?",
+    "answers": ["Automate programmable", "Chaîne de montage", "Moteur électrique", "Convoyeur"],
+    "correctIndex": 0
   },
   {
     "id": "q198",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de la photographie ?",
-    "answers": [
-      "Nicéphore Niépce",
-      "Louis Daguerre",
-      "George Eastman",
-      "William Fox Talbot"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de mesurer la consommation d’électricité d’un logement ?",
+    "answers": ["Voltmètre", "Compteur électrique", "Ampèremètre", "Transformateur"],
+    "correctIndex": 1
   },
   {
     "id": "q199",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du sous-marin ?",
-    "answers": [
-      "Isaac Peral",
-      "John Philip Holland",
-      "David Bushnell",
-      "Cornelis Drebbel"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention est utilisée pour stocker de l’énergie sous forme chimique ?",
+    "answers": ["Condensateur", "Alternateur", "Batterie", "Transformateur"],
+    "correctIndex": 2
   },
   {
     "id": "q200",
     "category": "Inventions",
     "difficulty": "Moyen",
-    "text": "Qui a inventé la radio ?",
-    "answers": [
-      "Nikola Tesla",
-      "Guglielmo Marconi",
-      "Reginald Fessenden",
-      "Lee de Forest"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q201",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur à explosion ?",
-    "answers": [
-      "Rudolf Diesel",
-      "Nikolaus Otto",
-      "Karl Benz",
-      "Gottlieb Daimler"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q202",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur à explosion ?",
-    "answers": [
-      "Karl Benz",
-      "Nikolaus Otto",
-      "Gottlieb Daimler",
-      "Rudolf Diesel"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q203",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
-    "answers": [
-      "Juan de la Cierva",
-      "Arthur Young",
-      "Paul Cornu",
-      "Igor Sikorsky"
-    ],
+    "text": "Quelle invention permet de sécuriser un accès par identification sans clé ?",
+    "answers": ["Badge", "Code", "Carte", "Reconnaissance biométrique"],
     "correctIndex": 3
-  },
-  {
-    "id": "q204",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du sous-marin ?",
-    "answers": [
-      "John Philip Holland",
-      "Cornelis Drebbel",
-      "David Bushnell",
-      "Isaac Peral"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q205",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de la photographie ?",
-    "answers": [
-      "George Eastman",
-      "Nicéphore Niépce",
-      "William Fox Talbot",
-      "Louis Daguerre"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q206",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur à explosion ?",
-    "answers": [
-      "Gottlieb Daimler",
-      "Nikolaus Otto",
-      "Karl Benz",
-      "Rudolf Diesel"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q207",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
-    "answers": [
-      "James Harrison",
-      "Carl von Linde",
-      "Albert T. Marshall",
-      "Jacob Perkins"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q208",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur à explosion ?",
-    "answers": [
-      "Gottlieb Daimler",
-      "Nikolaus Otto",
-      "Karl Benz",
-      "Rudolf Diesel"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q209",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé le premier ordinateur programmable ?",
-    "answers": [
-      "Konrad Zuse",
-      "Charles Babbage",
-      "Alan Turing",
-      "John von Neumann"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q210",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du sous-marin ?",
-    "answers": [
-      "David Bushnell",
-      "Cornelis Drebbel",
-      "John Philip Holland",
-      "Isaac Peral"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q211",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
-    "answers": [
-      "Paul Cornu",
-      "Igor Sikorsky",
-      "Juan de la Cierva",
-      "Arthur Young"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q212",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur à explosion ?",
-    "answers": [
-      "Nikolaus Otto",
-      "Karl Benz",
-      "Gottlieb Daimler",
-      "Rudolf Diesel"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q213",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé la machine à coudre ?",
-    "answers": [
-      "Walter Hunt",
-      "Elias Howe",
-      "Isaac Singer",
-      "Thomas Saint"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q214",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé le premier ordinateur programmable ?",
-    "answers": [
-      "Alan Turing",
-      "Konrad Zuse",
-      "John von Neumann",
-      "Charles Babbage"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q215",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur diesel ?",
-    "answers": [
-      "Rudolf Diesel",
-      "Gottlieb Daimler",
-      "Karl Benz",
-      "Nicholas Otto"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q216",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
-    "answers": [
-      "Juan de la Cierva",
-      "Arthur Young",
-      "Paul Cornu",
-      "Igor Sikorsky"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q217",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du gramophone ?",
-    "answers": [
-      "Thomas Edison",
-      "Guglielmo Marconi",
-      "Emile Berliner",
-      "Alexander Graham Bell"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q218",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du gramophone ?",
-    "answers": [
-      "Alexander Graham Bell",
-      "Thomas Edison",
-      "Emile Berliner",
-      "Guglielmo Marconi"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q219",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé le premier ordinateur programmable ?",
-    "answers": [
-      "John von Neumann",
-      "Alan Turing",
-      "Konrad Zuse",
-      "Charles Babbage"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q220",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de la photographie ?",
-    "answers": [
-      "Nicéphore Niépce",
-      "Louis Daguerre",
-      "William Fox Talbot",
-      "George Eastman"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q221",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé la machine à coudre ?",
-    "answers": [
-      "Elias Howe",
-      "Thomas Saint",
-      "Isaac Singer",
-      "Walter Hunt"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q222",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du sous-marin ?",
-    "answers": [
-      "Cornelis Drebbel",
-      "David Bushnell",
-      "Isaac Peral",
-      "John Philip Holland"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q223",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur à explosion ?",
-    "answers": [
-      "Rudolf Diesel",
-      "Nikolaus Otto",
-      "Karl Benz",
-      "Gottlieb Daimler"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q224",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du gramophone ?",
-    "answers": [
-      "Emile Berliner",
-      "Guglielmo Marconi",
-      "Alexander Graham Bell",
-      "Thomas Edison"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q225",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de la photographie ?",
-    "answers": [
-      "Nicéphore Niépce",
-      "William Fox Talbot",
-      "George Eastman",
-      "Louis Daguerre"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q226",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du sous-marin ?",
-    "answers": [
-      "John Philip Holland",
-      "Isaac Peral",
-      "David Bushnell",
-      "Cornelis Drebbel"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q227",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
-    "answers": [
-      "Jacob Perkins",
-      "Albert T. Marshall",
-      "Carl von Linde",
-      "James Harrison"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q228",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
-    "answers": [
-      "Carl von Linde",
-      "Jacob Perkins",
-      "James Harrison",
-      "Albert T. Marshall"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q229",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé la machine à coudre ?",
-    "answers": [
-      "Isaac Singer",
-      "Walter Hunt",
-      "Elias Howe",
-      "Thomas Saint"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q230",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé la machine à coudre ?",
-    "answers": [
-      "Walter Hunt",
-      "Elias Howe",
-      "Thomas Saint",
-      "Isaac Singer"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q231",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de la photographie ?",
-    "answers": [
-      "Nicéphore Niépce",
-      "George Eastman",
-      "William Fox Talbot",
-      "Louis Daguerre"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q232",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du gramophone ?",
-    "answers": [
-      "Emile Berliner",
-      "Alexander Graham Bell",
-      "Guglielmo Marconi",
-      "Thomas Edison"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q233",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur à explosion ?",
-    "answers": [
-      "Rudolf Diesel",
-      "Gottlieb Daimler",
-      "Nikolaus Otto",
-      "Karl Benz"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q234",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur à explosion ?",
-    "answers": [
-      "Rudolf Diesel",
-      "Nikolaus Otto",
-      "Karl Benz",
-      "Gottlieb Daimler"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q235",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du gramophone ?",
-    "answers": [
-      "Thomas Edison",
-      "Guglielmo Marconi",
-      "Emile Berliner",
-      "Alexander Graham Bell"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q236",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de la photographie ?",
-    "answers": [
-      "Nicéphore Niépce",
-      "Louis Daguerre",
-      "William Fox Talbot",
-      "George Eastman"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q237",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du gramophone ?",
-    "answers": [
-      "Emile Berliner",
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Guglielmo Marconi"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q238",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur diesel ?",
-    "answers": [
-      "Karl Benz",
-      "Nicholas Otto",
-      "Rudolf Diesel",
-      "Gottlieb Daimler"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q239",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de la photographie ?",
-    "answers": [
-      "William Fox Talbot",
-      "George Eastman",
-      "Nicéphore Niépce",
-      "Louis Daguerre"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q240",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé la radio ?",
-    "answers": [
-      "Guglielmo Marconi",
-      "Nikola Tesla",
-      "Lee de Forest",
-      "Reginald Fessenden"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q241",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé le premier ordinateur programmable ?",
-    "answers": [
-      "Konrad Zuse",
-      "John von Neumann",
-      "Charles Babbage",
-      "Alan Turing"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q242",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé la radio ?",
-    "answers": [
-      "Nikola Tesla",
-      "Reginald Fessenden",
-      "Guglielmo Marconi",
-      "Lee de Forest"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q243",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur à explosion ?",
-    "answers": [
-      "Karl Benz",
-      "Nikolaus Otto",
-      "Gottlieb Daimler",
-      "Rudolf Diesel"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q244",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
-    "answers": [
-      "Igor Sikorsky",
-      "Juan de la Cierva",
-      "Paul Cornu",
-      "Arthur Young"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q245",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé la machine à coudre ?",
-    "answers": [
-      "Thomas Saint",
-      "Isaac Singer",
-      "Walter Hunt",
-      "Elias Howe"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q246",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du sous-marin ?",
-    "answers": [
-      "John Philip Holland",
-      "Isaac Peral",
-      "Cornelis Drebbel",
-      "David Bushnell"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q247",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
-    "answers": [
-      "James Harrison",
-      "Carl von Linde",
-      "Jacob Perkins",
-      "Albert T. Marshall"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q248",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
-    "answers": [
-      "Juan de la Cierva",
-      "Arthur Young",
-      "Paul Cornu",
-      "Igor Sikorsky"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q249",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur à explosion ?",
-    "answers": [
-      "Nikolaus Otto",
-      "Gottlieb Daimler",
-      "Rudolf Diesel",
-      "Karl Benz"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q250",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du gramophone ?",
-    "answers": [
-      "Guglielmo Marconi",
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Emile Berliner"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q251",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du sous-marin ?",
-    "answers": [
-      "John Philip Holland",
-      "Isaac Peral",
-      "Cornelis Drebbel",
-      "David Bushnell"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q252",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé le premier ordinateur programmable ?",
-    "answers": [
-      "John von Neumann",
-      "Alan Turing",
-      "Charles Babbage",
-      "Konrad Zuse"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q253",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur à explosion ?",
-    "answers": [
-      "Nikolaus Otto",
-      "Karl Benz",
-      "Gottlieb Daimler",
-      "Rudolf Diesel"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q254",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du gramophone ?",
-    "answers": [
-      "Thomas Edison",
-      "Guglielmo Marconi",
-      "Alexander Graham Bell",
-      "Emile Berliner"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q255",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé le premier ordinateur programmable ?",
-    "answers": [
-      "Alan Turing",
-      "Charles Babbage",
-      "Konrad Zuse",
-      "John von Neumann"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q256",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du gramophone ?",
-    "answers": [
-      "Emile Berliner",
-      "Alexander Graham Bell",
-      "Guglielmo Marconi",
-      "Thomas Edison"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q257",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
-    "answers": [
-      "Carl von Linde",
-      "Albert T. Marshall",
-      "James Harrison",
-      "Jacob Perkins"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q258",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de la photographie ?",
-    "answers": [
-      "Louis Daguerre",
-      "George Eastman",
-      "William Fox Talbot",
-      "Nicéphore Niépce"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q259",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur diesel ?",
-    "answers": [
-      "Rudolf Diesel",
-      "Gottlieb Daimler",
-      "Karl Benz",
-      "Nicholas Otto"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q260",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
-    "answers": [
-      "James Harrison",
-      "Albert T. Marshall",
-      "Carl von Linde",
-      "Jacob Perkins"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q261",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du sous-marin ?",
-    "answers": [
-      "David Bushnell",
-      "Isaac Peral",
-      "Cornelis Drebbel",
-      "John Philip Holland"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q262",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé le premier ordinateur programmable ?",
-    "answers": [
-      "Konrad Zuse",
-      "Charles Babbage",
-      "Alan Turing",
-      "John von Neumann"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q263",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
-    "answers": [
-      "Arthur Young",
-      "Igor Sikorsky",
-      "Paul Cornu",
-      "Juan de la Cierva"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q264",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
-    "answers": [
-      "James Harrison",
-      "Carl von Linde",
-      "Jacob Perkins",
-      "Albert T. Marshall"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q265",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du gramophone ?",
-    "answers": [
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Guglielmo Marconi",
-      "Emile Berliner"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q266",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de la photographie ?",
-    "answers": [
-      "William Fox Talbot",
-      "Nicéphore Niépce",
-      "Louis Daguerre",
-      "George Eastman"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q267",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
-    "answers": [
-      "Arthur Young",
-      "Paul Cornu",
-      "Igor Sikorsky",
-      "Juan de la Cierva"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q268",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé la radio ?",
-    "answers": [
-      "Lee de Forest",
-      "Guglielmo Marconi",
-      "Reginald Fessenden",
-      "Nikola Tesla"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q269",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur diesel ?",
-    "answers": [
-      "Gottlieb Daimler",
-      "Nicholas Otto",
-      "Karl Benz",
-      "Rudolf Diesel"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q270",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
-    "answers": [
-      "Juan de la Cierva",
-      "Paul Cornu",
-      "Arthur Young",
-      "Igor Sikorsky"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q271",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur à explosion ?",
-    "answers": [
-      "Karl Benz",
-      "Gottlieb Daimler",
-      "Nikolaus Otto",
-      "Rudolf Diesel"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q272",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé la machine à coudre ?",
-    "answers": [
-      "Walter Hunt",
-      "Thomas Saint",
-      "Elias Howe",
-      "Isaac Singer"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q273",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur diesel ?",
-    "answers": [
-      "Karl Benz",
-      "Rudolf Diesel",
-      "Nicholas Otto",
-      "Gottlieb Daimler"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q274",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du gramophone ?",
-    "answers": [
-      "Thomas Edison",
-      "Guglielmo Marconi",
-      "Emile Berliner",
-      "Alexander Graham Bell"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q275",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de la photographie ?",
-    "answers": [
-      "William Fox Talbot",
-      "George Eastman",
-      "Nicéphore Niépce",
-      "Louis Daguerre"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q276",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur à explosion ?",
-    "answers": [
-      "Nikolaus Otto",
-      "Karl Benz",
-      "Gottlieb Daimler",
-      "Rudolf Diesel"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q277",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de la photographie ?",
-    "answers": [
-      "Nicéphore Niépce",
-      "Louis Daguerre",
-      "George Eastman",
-      "William Fox Talbot"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q278",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur diesel ?",
-    "answers": [
-      "Gottlieb Daimler",
-      "Rudolf Diesel",
-      "Nicholas Otto",
-      "Karl Benz"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q279",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé la radio ?",
-    "answers": [
-      "Lee de Forest",
-      "Guglielmo Marconi",
-      "Reginald Fessenden",
-      "Nikola Tesla"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q280",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé le premier ordinateur programmable ?",
-    "answers": [
-      "Charles Babbage",
-      "John von Neumann",
-      "Konrad Zuse",
-      "Alan Turing"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q281",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé la machine à coudre ?",
-    "answers": [
-      "Isaac Singer",
-      "Elias Howe",
-      "Thomas Saint",
-      "Walter Hunt"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q282",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur à explosion ?",
-    "answers": [
-      "Gottlieb Daimler",
-      "Rudolf Diesel",
-      "Karl Benz",
-      "Nikolaus Otto"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q283",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur à explosion ?",
-    "answers": [
-      "Karl Benz",
-      "Rudolf Diesel",
-      "Gottlieb Daimler",
-      "Nikolaus Otto"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q284",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur à explosion ?",
-    "answers": [
-      "Gottlieb Daimler",
-      "Nikolaus Otto",
-      "Rudolf Diesel",
-      "Karl Benz"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q285",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
-    "answers": [
-      "Paul Cornu",
-      "Juan de la Cierva",
-      "Arthur Young",
-      "Igor Sikorsky"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q286",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé la machine à coudre ?",
-    "answers": [
-      "Walter Hunt",
-      "Isaac Singer",
-      "Thomas Saint",
-      "Elias Howe"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q287",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du sous-marin ?",
-    "answers": [
-      "Isaac Peral",
-      "David Bushnell",
-      "Cornelis Drebbel",
-      "John Philip Holland"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q288",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé la radio ?",
-    "answers": [
-      "Nikola Tesla",
-      "Lee de Forest",
-      "Reginald Fessenden",
-      "Guglielmo Marconi"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q289",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé la radio ?",
-    "answers": [
-      "Nikola Tesla",
-      "Guglielmo Marconi",
-      "Lee de Forest",
-      "Reginald Fessenden"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q290",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur diesel ?",
-    "answers": [
-      "Gottlieb Daimler",
-      "Rudolf Diesel",
-      "Nicholas Otto",
-      "Karl Benz"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q291",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé le premier ordinateur programmable ?",
-    "answers": [
-      "Alan Turing",
-      "John von Neumann",
-      "Charles Babbage",
-      "Konrad Zuse"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q292",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur à explosion ?",
-    "answers": [
-      "Karl Benz",
-      "Nikolaus Otto",
-      "Gottlieb Daimler",
-      "Rudolf Diesel"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q293",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du gramophone ?",
-    "answers": [
-      "Emile Berliner",
-      "Guglielmo Marconi",
-      "Thomas Edison",
-      "Alexander Graham Bell"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q294",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur diesel ?",
-    "answers": [
-      "Rudolf Diesel",
-      "Gottlieb Daimler",
-      "Nicholas Otto",
-      "Karl Benz"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q295",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du sous-marin ?",
-    "answers": [
-      "John Philip Holland",
-      "David Bushnell",
-      "Isaac Peral",
-      "Cornelis Drebbel"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q296",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de la photographie ?",
-    "answers": [
-      "George Eastman",
-      "Nicéphore Niépce",
-      "William Fox Talbot",
-      "Louis Daguerre"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q297",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur diesel ?",
-    "answers": [
-      "Gottlieb Daimler",
-      "Nicholas Otto",
-      "Karl Benz",
-      "Rudolf Diesel"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q298",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur de l'hélicoptère moderne ?",
-    "answers": [
-      "Igor Sikorsky",
-      "Paul Cornu",
-      "Juan de la Cierva",
-      "Arthur Young"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q299",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui a inventé le premier moteur diesel ?",
-    "answers": [
-      "Nicholas Otto",
-      "Gottlieb Daimler",
-      "Rudolf Diesel",
-      "Karl Benz"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q300",
-    "category": "Inventions",
-    "difficulty": "Moyen",
-    "text": "Qui est l'inventeur du réfrigérateur moderne ?",
-    "answers": [
-      "Carl von Linde",
-      "James Harrison",
-      "Albert T. Marshall",
-      "Jacob Perkins"
-    ],
-    "correctIndex": 0
   }
 ]
