@@ -3,3900 +3,1661 @@
     "id": "q1",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a créé le premier appareil IRM clinique ?",
-    "answers": [
-      "Damadian et Lauterbur",
-      "Raymond Damadian",
-      "Peter Mansfield",
-      "Paul Lauterbur"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention repose sur l’utilisation de jonctions Josephson pour fonctionner ?",
+    "answers": ["Le SQUID", "Le laser", "Le transistor MOSFET", "Le gyroscope à fibre optique"],
+    "correctIndex": 0
   },
   {
     "id": "q2",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine de la première horloge atomique ?",
-    "answers": [
-      "William Markowitz",
-      "Louis Essen",
-      "Isidor Rabi",
-      "Norman Ramsey"
-    ],
+    "text": "Quelle invention permet la mesure du temps avec une précision inférieure à la femtoseconde ?",
+    "answers": ["Le chronomètre marin", "L’horloge optique", "L’horloge atomique au césium", "L’oscillateur à quartz"],
     "correctIndex": 1
   },
   {
     "id": "q3",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a créé le premier appareil IRM clinique ?",
-    "answers": [
-      "Damadian et Lauterbur",
-      "Raymond Damadian",
-      "Paul Lauterbur",
-      "Peter Mansfield"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est utilisée pour observer la structure électronique des matériaux solides ?",
+    "answers": ["Le microscope optique", "Le scanner", "La spectroscopie photoélectronique", "La radiographie"],
+    "correctIndex": 2
   },
   {
     "id": "q4",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé la première fibre optique moderne ?",
-    "answers": [
-      "John Tyndall",
-      "Narinder Singh Kapany",
-      "Charles Kao",
-      "Elias Snitzer"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet le confinement magnétique d’un plasma pour la fusion nucléaire ?",
+    "answers": ["Le cyclotron", "Le synchrotron", "Le stellarator", "Le tokamak"],
+    "correctIndex": 3
   },
+
   {
     "id": "q5",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine de la première horloge atomique ?",
-    "answers": [
-      "Isidor Rabi",
-      "William Markowitz",
-      "Norman Ramsey",
-      "Louis Essen"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention est à la base du fonctionnement des ordinateurs quantiques supraconducteurs ?",
+    "answers": ["Le qubit supraconducteur", "Le transistor bipolaire", "La diode tunnel", "Le relais électromécanique"],
+    "correctIndex": 0
   },
   {
     "id": "q6",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Wankel ?",
-    "answers": [
-      "Wilhelm Maybach",
-      "Rudolf Diesel",
-      "Felix Wankel",
-      "Karl Benz"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la correction relativiste du positionnement GPS ?",
+    "answers": ["Le radar Doppler", "Les horloges atomiques embarquées", "Le gyroscope inertiel", "Le compas magnétique"],
+    "correctIndex": 1
   },
   {
     "id": "q7",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Wankel ?",
-    "answers": [
-      "Felix Wankel",
-      "Wilhelm Maybach",
-      "Karl Benz",
-      "Rudolf Diesel"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention est utilisée pour produire des impulsions laser ultracourtes de l’ordre de l’attoseconde ?",
+    "answers": ["Le laser continu", "La LED", "La technique HHG", "Le laser à colorant"],
+    "correctIndex": 2
   },
   {
     "id": "q8",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier laser opérationnel ?",
-    "answers": [
-      "Theodore Maiman",
-      "Charles Townes",
-      "Arthur Schawlow",
-      "Gordon Gould"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la détection directe des ondes gravitationnelles ?",
+    "answers": ["Le gravimètre", "Le sismographe", "Le radiotélescope", "L’interféromètre laser"],
+    "correctIndex": 3
   },
+
   {
     "id": "q9",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a créé le premier appareil IRM clinique ?",
-    "answers": [
-      "Raymond Damadian",
-      "Paul Lauterbur",
-      "Damadian et Lauterbur",
-      "Peter Mansfield"
-    ],
+    "text": "Quelle invention a rendu possible la lithographie à l’échelle nanométrique extrême (EUV) ?",
+    "answers": ["La lithographie EUV", "La photolithographie classique", "L’impression 3D", "La gravure ionique"],
     "correctIndex": 0
   },
   {
     "id": "q10",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Wankel ?",
-    "answers": [
-      "Felix Wankel",
-      "Wilhelm Maybach",
-      "Rudolf Diesel",
-      "Karl Benz"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet de maintenir la cohérence quantique d’un qubit ?",
+    "answers": ["Le cryostat", "Le refroidissement cryogénique", "Le laser pulsé", "Le champ électrique"],
+    "correctIndex": 1
   },
+
   {
     "id": "q11",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a conçu le premier procédé de galvanoplastie ?",
-    "answers": [
-      "Michael Faraday",
-      "Alessandro Volta",
-      "Moritz von Jacobi",
-      "Luigi Galvani"
-    ],
+    "text": "Quelle invention est utilisée pour analyser la dynamique ultrarapide des électrons ?",
+    "answers": ["Le microscope optique", "Le scanner", "La spectroscopie pompe-sonde", "L’IRM"],
     "correctIndex": 2
   },
   {
     "id": "q12",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui est l'inventeur du premier disque dur ?",
-    "answers": [
-      "Ken Olsen",
-      "Reynold Johnson",
-      "Alan Shugart",
-      "IBM Team"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet le positionnement inertiel sans signal externe ?",
+    "answers": ["Le GPS", "Le radar", "Le compas", "La centrale inertielle"],
+    "correctIndex": 3
   },
+
   {
     "id": "q13",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui est l'inventeur du premier disque dur ?",
-    "answers": [
-      "IBM Team",
-      "Alan Shugart",
-      "Reynold Johnson",
-      "Ken Olsen"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention a permis la visualisation d’atomes individuels ?",
+    "answers": ["Le microscope à effet tunnel", "Le microscope électronique", "Le microscope optique", "Le scanner"],
+    "correctIndex": 0
   },
   {
     "id": "q14",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Stirling ?",
-    "answers": [
-      "James Watt",
-      "John Ericsson",
-      "Robert Stirling",
-      "Sadi Carnot"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de réduire le bruit quantique dans les communications optiques ?",
+    "answers": ["Le filtre optique", "La lumière comprimée", "Le laser continu", "La fibre multimode"],
+    "correctIndex": 1
   },
   {
     "id": "q15",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a créé le premier appareil IRM clinique ?",
-    "answers": [
-      "Paul Lauterbur",
-      "Raymond Damadian",
-      "Damadian et Lauterbur",
-      "Peter Mansfield"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est utilisée pour mesurer la constante de Planck avec une extrême précision ?",
+    "answers": ["Le wattmètre", "Le spectromètre", "La balance de Kibble", "L’oscilloscope"],
+    "correctIndex": 2
   },
   {
     "id": "q16",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé la première fibre optique moderne ?",
-    "answers": [
-      "John Tyndall",
-      "Elias Snitzer",
-      "Narinder Singh Kapany",
-      "Charles Kao"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la stabilisation active des miroirs dans les interféromètres gravitationnels ?",
+    "answers": ["Le gyroscope", "L’amortisseur mécanique", "Le capteur optique", "Le contrôle par rétroaction"],
+    "correctIndex": 3
   },
+
   {
     "id": "q17",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier microprocesseur commercialisé ?",
-    "answers": [
-      "Stanley Mazor",
-      "Federico Faggin",
-      "Ted Hoff",
-      "Marcian Hoff"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention est essentielle à la fabrication des circuits intégrés modernes en silicium ?",
+    "answers": ["Le transistor MOSFET", "Le relais", "Le tube à vide", "La diode Zener"],
+    "correctIndex": 0
   },
   {
     "id": "q18",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier laser opérationnel ?",
-    "answers": [
-      "Gordon Gould",
-      "Theodore Maiman",
-      "Charles Townes",
-      "Arthur Schawlow"
-    ],
+    "text": "Quelle invention permet la détection des neutrinos dans de grands observatoires souterrains ?",
+    "answers": ["Le détecteur Cherenkov", "Le sismographe", "Le spectromètre", "Le radiotélescope"],
     "correctIndex": 1
   },
   {
     "id": "q19",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Wankel ?",
-    "answers": [
-      "Wilhelm Maybach",
-      "Karl Benz",
-      "Rudolf Diesel",
-      "Felix Wankel"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention est utilisée pour la tomographie de matériaux à l’échelle nanométrique ?",
+    "answers": ["Le scanner", "La radiographie", "La tomographie par rayons X synchrotron", "L’IRM"],
+    "correctIndex": 2
   },
   {
     "id": "q20",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier calculateur mécanique programmable ?",
-    "answers": [
-      "Charles Babbage",
-      "Blaise Pascal",
-      "Konrad Zuse",
-      "Gottfried Wilhelm Leibniz"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la correction des effets Doppler relativistes en astronomie ?",
+    "answers": ["Le télescope optique", "Le radiotélescope", "Le spectroscope", "Le spectrographe de haute précision"],
+    "correctIndex": 3
   },
+
   {
     "id": "q21",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé la première fibre optique moderne ?",
-    "answers": [
-      "John Tyndall",
-      "Elias Snitzer",
-      "Charles Kao",
-      "Narinder Singh Kapany"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention a rendu possible la communication quantique sécurisée ?",
+    "answers": ["L’intrication quantique", "Le laser", "La fibre optique", "Le cryptage symétrique"],
+    "correctIndex": 0
   },
   {
     "id": "q22",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine de la première horloge atomique ?",
-    "answers": [
-      "Louis Essen",
-      "William Markowitz",
-      "Norman Ramsey",
-      "Isidor Rabi"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet le refroidissement d’atomes jusqu’à quelques nanokelvins ?",
+    "answers": ["Le cryostat", "Le refroidissement laser", "La chambre à vide", "Le compresseur"],
+    "correctIndex": 1
   },
   {
     "id": "q23",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a créé le premier appareil IRM clinique ?",
-    "answers": [
-      "Paul Lauterbur",
-      "Peter Mansfield",
-      "Damadian et Lauterbur",
-      "Raymond Damadian"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention est utilisée pour simuler des systèmes physiques chaotiques complexes ?",
+    "answers": ["Le calculateur analogique", "Le PC classique", "Le superordinateur", "La calculatrice scientifique"],
+    "correctIndex": 2
   },
   {
     "id": "q24",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Wankel ?",
-    "answers": [
-      "Rudolf Diesel",
-      "Wilhelm Maybach",
-      "Karl Benz",
-      "Felix Wankel"
-    ],
+    "text": "Quelle invention permet la stabilisation orbitale des satellites géostationnaires ?",
+    "answers": ["Le radar", "Le gyroscope", "Le GPS", "Le système de contrôle d’attitude"],
     "correctIndex": 3
   },
+
   {
     "id": "q25",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé la première fibre optique moderne ?",
-    "answers": [
-      "Elias Snitzer",
-      "Narinder Singh Kapany",
-      "John Tyndall",
-      "Charles Kao"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention a permis l’observation directe de molécules individuelles ?",
+    "answers": ["Le microscope à force atomique", "Le microscope électronique", "Le microscope optique", "Le scanner"],
+    "correctIndex": 0
   },
   {
     "id": "q26",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier laser opérationnel ?",
-    "answers": [
-      "Theodore Maiman",
-      "Gordon Gould",
-      "Charles Townes",
-      "Arthur Schawlow"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la synchronisation mondiale des réseaux financiers ?",
+    "answers": ["Le serveur central", "Les horloges atomiques", "Le GPS", "La blockchain"],
+    "correctIndex": 1
   },
   {
     "id": "q27",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a créé le premier appareil IRM clinique ?",
-    "answers": [
-      "Peter Mansfield",
-      "Damadian et Lauterbur",
-      "Paul Lauterbur",
-      "Raymond Damadian"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention est utilisée pour l’analyse des matériaux supraconducteurs ?",
+    "answers": ["Le voltmètre", "Le microscope optique", "La spectroscopie tunneling", "Le scanner"],
+    "correctIndex": 2
   },
   {
     "id": "q28",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Wankel ?",
-    "answers": [
-      "Karl Benz",
-      "Rudolf Diesel",
-      "Wilhelm Maybach",
-      "Felix Wankel"
-    ],
+    "text": "Quelle invention permet la correction active des turbulences atmosphériques en astronomie ?",
+    "answers": ["Le télescope spatial", "Le miroir parabolique", "Le filtre optique", "L’optique adaptative"],
     "correctIndex": 3
   },
+
   {
     "id": "q29",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a créé le premier appareil IRM clinique ?",
-    "answers": [
-      "Peter Mansfield",
-      "Raymond Damadian",
-      "Damadian et Lauterbur",
-      "Paul Lauterbur"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est à la base du stockage d’informations dans les mémoires flash ?",
+    "answers": ["La grille flottante", "Le condensateur", "La bobine", "La résistance"],
+    "correctIndex": 0
   },
   {
     "id": "q30",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier microprocesseur commercialisé ?",
-    "answers": [
-      "Federico Faggin",
-      "Stanley Mazor",
-      "Ted Hoff",
-      "Marcian Hoff"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la mesure de champs magnétiques extrêmement faibles ?",
+    "answers": ["Le magnétomètre", "Le SQUID", "Le gaussmètre", "Le voltmètre"],
+    "correctIndex": 1
   },
+
   {
     "id": "q31",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Wankel ?",
-    "answers": [
-      "Rudolf Diesel",
-      "Wilhelm Maybach",
-      "Felix Wankel",
-      "Karl Benz"
-    ],
+    "text": "Quelle invention est utilisée pour la datation ultra-précise en métrologie fondamentale ?",
+    "answers": ["Le chronomètre", "L’horloge atomique", "L’horloge optique", "La montre à quartz"],
     "correctIndex": 2
   },
   {
     "id": "q32",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Wankel ?",
-    "answers": [
-      "Karl Benz",
-      "Rudolf Diesel",
-      "Felix Wankel",
-      "Wilhelm Maybach"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la propulsion de particules chargées à des vitesses relativistes ?",
+    "answers": ["Le cyclotron", "Le tokamak", "Le réacteur nucléaire", "L’accélérateur de particules"],
+    "correctIndex": 3
   },
+
   {
     "id": "q33",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier laser opérationnel ?",
-    "answers": [
-      "Gordon Gould",
-      "Charles Townes",
-      "Theodore Maiman",
-      "Arthur Schawlow"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention est essentielle à la détection de la matière noire indirecte ?",
+    "answers": ["Le détecteur cryogénique", "Le radiotélescope", "Le scanner", "Le microscope"],
+    "correctIndex": 0
   },
   {
     "id": "q34",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a créé le premier appareil IRM clinique ?",
-    "answers": [
-      "Paul Lauterbur",
-      "Raymond Damadian",
-      "Peter Mansfield",
-      "Damadian et Lauterbur"
-    ],
+    "text": "Quelle invention permet de contrôler la phase quantique d’un état lumineux ?",
+    "answers": ["Le laser", "Le modulateur électro-optique", "La fibre optique", "Le miroir"],
     "correctIndex": 1
   },
   {
     "id": "q35",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Stirling ?",
-    "answers": [
-      "Robert Stirling",
-      "Sadi Carnot",
-      "John Ericsson",
-      "James Watt"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention est utilisée pour la spectroscopie de précision des atomes froids ?",
+    "answers": ["Le microscope", "Le spectroscope", "Le peigne de fréquences optiques", "Le scanner"],
+    "correctIndex": 2
   },
   {
     "id": "q36",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a créé le premier appareil IRM clinique ?",
-    "answers": [
-      "Damadian et Lauterbur",
-      "Raymond Damadian",
-      "Peter Mansfield",
-      "Paul Lauterbur"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet la stabilisation de faisceaux laser de très haute puissance ?",
+    "answers": ["Le miroir fixe", "Le filtre", "Le cristal non linéaire", "Le contrôle actif du faisceau"],
+    "correctIndex": 3
   },
+
   {
     "id": "q37",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier microprocesseur commercialisé ?",
-    "answers": [
-      "Marcian Hoff",
-      "Federico Faggin",
-      "Stanley Mazor",
-      "Ted Hoff"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention a rendu possible l’imagerie médicale par résonance magnétique ?",
+    "answers": ["Le supraconducteur", "Le transformateur", "Le générateur", "Le condensateur"],
+    "correctIndex": 0
   },
   {
     "id": "q38",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine de la première horloge atomique ?",
-    "answers": [
-      "Louis Essen",
-      "Norman Ramsey",
-      "Isidor Rabi",
-      "William Markowitz"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la manipulation précise d’atomes individuels ?",
+    "answers": ["Le microscope optique", "La pince optique", "Le laser continu", "Le scanner"],
+    "correctIndex": 1
   },
   {
     "id": "q39",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a créé le premier appareil IRM clinique ?",
-    "answers": [
-      "Damadian et Lauterbur",
-      "Paul Lauterbur",
-      "Raymond Damadian",
-      "Peter Mansfield"
-    ],
+    "text": "Quelle invention est utilisée pour la mesure des constantes fondamentales de la physique ?",
+    "answers": ["Le baromètre", "Le thermomètre", "La balance de Kibble", "L’oscilloscope"],
     "correctIndex": 2
   },
   {
     "id": "q40",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui est l'inventeur du premier disque dur ?",
-    "answers": [
-      "Reynold Johnson",
-      "Ken Olsen",
-      "IBM Team",
-      "Alan Shugart"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la navigation autonome interplanétaire ?",
+    "answers": ["Le radar", "Le GPS", "Le compas", "La navigation stellaire"],
+    "correctIndex": 3
   },
+
   {
     "id": "q41",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier laser opérationnel ?",
-    "answers": [
-      "Arthur Schawlow",
-      "Theodore Maiman",
-      "Gordon Gould",
-      "Charles Townes"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est à la base des mémoires non volatiles MRAM ?",
+    "answers": ["La jonction tunnel magnétique", "Le condensateur", "La résistance", "La bobine"],
+    "correctIndex": 0
   },
   {
     "id": "q42",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier laser opérationnel ?",
-    "answers": [
-      "Charles Townes",
-      "Gordon Gould",
-      "Theodore Maiman",
-      "Arthur Schawlow"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la réduction du bruit thermique dans les capteurs cryogéniques ?",
+    "answers": ["Le filtre passif", "Le refroidissement dilution", "Le blindage", "Le laser"],
+    "correctIndex": 1
   },
   {
     "id": "q43",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui est l'inventeur du premier disque dur ?",
-    "answers": [
-      "Reynold Johnson",
-      "IBM Team",
-      "Ken Olsen",
-      "Alan Shugart"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention est utilisée pour étudier la dynamique des plasmas astrophysiques ?",
+    "answers": ["Le télescope", "Le radar", "La simulation numérique MHD", "Le scanner"],
+    "correctIndex": 2
   },
   {
     "id": "q44",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a créé le premier appareil IRM clinique ?",
-    "answers": [
-      "Damadian et Lauterbur",
-      "Paul Lauterbur",
-      "Peter Mansfield",
-      "Raymond Damadian"
-    ],
+    "text": "Quelle invention permet la stabilisation des horloges optiques ultra-précises ?",
+    "answers": ["Le quartz", "Le laser", "Le miroir", "Le contrôle par cavité optique"],
     "correctIndex": 3
   },
+
   {
     "id": "q45",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier calculateur mécanique programmable ?",
-    "answers": [
-      "Charles Babbage",
-      "Blaise Pascal",
-      "Gottfried Wilhelm Leibniz",
-      "Konrad Zuse"
-    ],
+    "text": "Quelle invention a permis la détection expérimentale du boson de Higgs ?",
+    "answers": ["Le grand collisionneur de hadrons", "Le tokamak", "Le synchrotron médical", "Le cyclotron"],
     "correctIndex": 0
   },
   {
     "id": "q46",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier laser opérationnel ?",
-    "answers": [
-      "Gordon Gould",
-      "Arthur Schawlow",
-      "Theodore Maiman",
-      "Charles Townes"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet le transfert quantique d’états d’information ?",
+    "answers": ["Le laser", "La téléportation quantique", "La fibre optique", "Le cryptage"],
+    "correctIndex": 1
   },
   {
     "id": "q47",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a créé le premier appareil IRM clinique ?",
-    "answers": [
-      "Peter Mansfield",
-      "Raymond Damadian",
-      "Damadian et Lauterbur",
-      "Paul Lauterbur"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est utilisée pour l’analyse des réseaux neuronaux biologiques ?",
+    "answers": ["L’IRM", "L’électroencéphalogramme", "La microscopie à deux photons", "Le scanner"],
+    "correctIndex": 2
   },
   {
     "id": "q48",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a créé le premier appareil IRM clinique ?",
-    "answers": [
-      "Paul Lauterbur",
-      "Peter Mansfield",
-      "Raymond Damadian",
-      "Damadian et Lauterbur"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la stabilisation thermique des instruments spatiaux sensibles ?",
+    "answers": ["Le radiateur passif", "Le bouclier thermique", "L’isolant multicouche", "Le système de contrôle thermique actif"],
+    "correctIndex": 3
   },
+
   {
     "id": "q49",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a conçu le premier procédé de galvanoplastie ?",
-    "answers": [
-      "Luigi Galvani",
-      "Michael Faraday",
-      "Alessandro Volta",
-      "Moritz von Jacobi"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention est à la base des détecteurs CMOS modernes ?",
+    "answers": ["Le transistor MOS", "La diode PN", "Le condensateur", "La résistance"],
+    "correctIndex": 0
   },
   {
     "id": "q50",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui est l'inventeur du premier disque dur ?",
-    "answers": [
-      "Ken Olsen",
-      "Alan Shugart",
-      "Reynold Johnson",
-      "IBM Team"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la synchronisation ultra-précise des expériences scientifiques internationales ?",
+    "answers": ["Le serveur NTP", "Le GPS", "La blockchain", "Les horloges atomiques"],
+    "correctIndex": 3
   },
   {
     "id": "q51",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier laser opérationnel ?",
-    "answers": [
-      "Gordon Gould",
-      "Arthur Schawlow",
-      "Theodore Maiman",
-      "Charles Townes"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la stabilisation de phase dans les réseaux de lasers cohérents ?",
+    "answers": ["Le verrouillage de phase", "Le miroir parabolique", "Le filtre optique", "Le cristal dopé"],
+    "correctIndex": 0
   },
   {
     "id": "q52",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier microprocesseur commercialisé ?",
-    "answers": [
-      "Stanley Mazor",
-      "Federico Faggin",
-      "Ted Hoff",
-      "Marcian Hoff"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet de mesurer des distances avec une précision inférieure au nanomètre ?",
+    "answers": ["Le télémètre laser", "L’interféromètre", "Le radar Doppler", "Le lidar"],
+    "correctIndex": 1
   },
   {
     "id": "q53",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine de la première horloge atomique ?",
-    "answers": [
-      "Norman Ramsey",
-      "Isidor Rabi",
-      "Louis Essen",
-      "William Markowitz"
-    ],
+    "text": "Quelle invention est utilisée pour confiner des atomes neutres dans des pièges magnétiques ?",
+    "answers": ["Le cyclotron", "Le tokamak", "Le piège magnéto-optique", "Le synchrotron"],
     "correctIndex": 2
   },
   {
     "id": "q54",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Wankel ?",
-    "answers": [
-      "Felix Wankel",
-      "Wilhelm Maybach",
-      "Rudolf Diesel",
-      "Karl Benz"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la correction des erreurs dans les ordinateurs quantiques ?",
+    "answers": ["Le refroidissement cryogénique", "Le qubit topologique", "La mesure faible", "Le code de correction quantique"],
+    "correctIndex": 3
   },
+
   {
     "id": "q55",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a créé le premier appareil IRM clinique ?",
-    "answers": [
-      "Peter Mansfield",
-      "Raymond Damadian",
-      "Damadian et Lauterbur",
-      "Paul Lauterbur"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est indispensable à la lithographie des puces gravées en 3 nanomètres ?",
+    "answers": ["La lithographie EUV", "La photolithographie UV", "La gravure chimique", "L’impression électronique"],
+    "correctIndex": 0
   },
   {
     "id": "q56",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Stirling ?",
-    "answers": [
-      "Sadi Carnot",
-      "John Ericsson",
-      "James Watt",
-      "Robert Stirling"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet la mesure directe de la décohérence quantique ?",
+    "answers": ["Le spectromètre", "Le tomographe quantique", "Le laser pulsé", "Le cryostat"],
+    "correctIndex": 1
   },
   {
     "id": "q57",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a conçu le premier procédé de galvanoplastie ?",
-    "answers": [
-      "Alessandro Volta",
-      "Michael Faraday",
-      "Moritz von Jacobi",
-      "Luigi Galvani"
-    ],
+    "text": "Quelle invention est utilisée pour simuler des collisions de galaxies ?",
+    "answers": ["Le calculateur analogique", "Le PC classique", "Le superordinateur", "Le réseau neuronal"],
     "correctIndex": 2
   },
   {
     "id": "q58",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier microprocesseur commercialisé ?",
-    "answers": [
-      "Ted Hoff",
-      "Federico Faggin",
-      "Marcian Hoff",
-      "Stanley Mazor"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la stabilisation des antennes spatiales à très haute résolution ?",
+    "answers": ["Le radar", "Le GPS", "Le gyroscope laser", "Le système de pointage actif"],
+    "correctIndex": 3
   },
+
   {
     "id": "q59",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a conçu le premier procédé de galvanoplastie ?",
-    "answers": [
-      "Moritz von Jacobi",
-      "Michael Faraday",
-      "Alessandro Volta",
-      "Luigi Galvani"
-    ],
+    "text": "Quelle invention est à la base des capteurs CCD astronomiques ?",
+    "answers": ["La charge couplée", "La diode PN", "Le transistor bipolaire", "La résistance variable"],
     "correctIndex": 0
   },
   {
     "id": "q60",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier calculateur mécanique programmable ?",
-    "answers": [
-      "Gottfried Wilhelm Leibniz",
-      "Konrad Zuse",
-      "Charles Babbage",
-      "Blaise Pascal"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la mesure du bruit de fond cosmologique ?",
+    "answers": ["Le télescope optique", "Le radiomètre", "Le spectroscope", "Le lidar"],
+    "correctIndex": 1
   },
+
   {
     "id": "q61",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine de la première horloge atomique ?",
-    "answers": [
-      "Isidor Rabi",
-      "William Markowitz",
-      "Louis Essen",
-      "Norman Ramsey"
-    ],
+    "text": "Quelle invention est utilisée pour produire des champs magnétiques supérieurs à 20 teslas ?",
+    "answers": ["L’électroaimant classique", "Le solénoïde", "L’aimant supraconducteur", "Le transformateur"],
     "correctIndex": 2
   },
   {
     "id": "q62",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé la première fibre optique moderne ?",
-    "answers": [
-      "John Tyndall",
-      "Elias Snitzer",
-      "Charles Kao",
-      "Narinder Singh Kapany"
-    ],
+    "text": "Quelle invention permet la navigation autonome des sondes interstellaires ?",
+    "answers": ["Le GPS", "Le radar spatial", "Le compas gyroscopique", "La navigation par pulsars"],
     "correctIndex": 3
   },
+
   {
     "id": "q63",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier calculateur mécanique programmable ?",
-    "answers": [
-      "Konrad Zuse",
-      "Gottfried Wilhelm Leibniz",
-      "Charles Babbage",
-      "Blaise Pascal"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention a permis la miniaturisation extrême des circuits intégrés ?",
+    "answers": ["Le transistor MOSFET", "Le tube à vide", "Le relais", "La diode Zener"],
+    "correctIndex": 0
   },
   {
     "id": "q64",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier calculateur mécanique programmable ?",
-    "answers": [
-      "Konrad Zuse",
-      "Blaise Pascal",
-      "Gottfried Wilhelm Leibniz",
-      "Charles Babbage"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet la détection de particules exotiques en physique des hautes énergies ?",
+    "answers": ["Le microscope", "La chambre à bulles", "Le spectromètre de masse", "Le sismographe"],
+    "correctIndex": 1
   },
   {
     "id": "q65",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Stirling ?",
-    "answers": [
-      "Sadi Carnot",
-      "Robert Stirling",
-      "John Ericsson",
-      "James Watt"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est utilisée pour la tomographie 3D de cellules vivantes à haute résolution ?",
+    "answers": ["Le scanner", "L’IRM", "La microscopie confocale", "La radiographie"],
+    "correctIndex": 2
   },
   {
     "id": "q66",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a créé le premier appareil IRM clinique ?",
-    "answers": [
-      "Paul Lauterbur",
-      "Peter Mansfield",
-      "Raymond Damadian",
-      "Damadian et Lauterbur"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la correction des aberrations chromatiques en optique avancée ?",
+    "answers": ["La lentille simple", "Le miroir concave", "Le filtre polarisant", "L’optique adaptative"],
+    "correctIndex": 3
   },
+
   {
     "id": "q67",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Stirling ?",
-    "answers": [
-      "James Watt",
-      "Sadi Carnot",
-      "John Ericsson",
-      "Robert Stirling"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention est au cœur des mémoires résistives ReRAM ?",
+    "answers": ["Le memristor", "Le condensateur", "La bobine", "La diode"],
+    "correctIndex": 0
   },
   {
     "id": "q68",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a conçu le premier procédé de galvanoplastie ?",
-    "answers": [
-      "Michael Faraday",
-      "Moritz von Jacobi",
-      "Alessandro Volta",
-      "Luigi Galvani"
-    ],
+    "text": "Quelle invention permet la mesure ultra-précise de la constante gravitationnelle ?",
+    "answers": ["Le pendule simple", "La balance de torsion", "Le gravimètre", "Le baromètre"],
     "correctIndex": 1
   },
   {
     "id": "q69",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier microprocesseur commercialisé ?",
-    "answers": [
-      "Federico Faggin",
-      "Ted Hoff",
-      "Marcian Hoff",
-      "Stanley Mazor"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est utilisée pour produire des plasmas à haute densité en laboratoire ?",
+    "answers": ["Le laser continu", "Le transformateur", "Le laser haute énergie", "Le générateur diesel"],
+    "correctIndex": 2
   },
   {
     "id": "q70",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier laser opérationnel ?",
-    "answers": [
-      "Charles Townes",
-      "Gordon Gould",
-      "Arthur Schawlow",
-      "Theodore Maiman"
-    ],
+    "text": "Quelle invention permet la correction automatique d’orbite des satellites ?",
+    "answers": ["Le radar", "Le GPS", "Le gyroscope", "Le système de propulsion ionique"],
     "correctIndex": 3
   },
+
   {
     "id": "q71",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a conçu le premier procédé de galvanoplastie ?",
-    "answers": [
-      "Luigi Galvani",
-      "Moritz von Jacobi",
-      "Michael Faraday",
-      "Alessandro Volta"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est utilisée pour le stockage d’énergie dans les réseaux supraconducteurs ?",
+    "answers": ["Le SMES", "La batterie lithium-ion", "Le supercondensateur", "Le volant d’inertie"],
+    "correctIndex": 0
   },
   {
     "id": "q72",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a conçu le premier procédé de galvanoplastie ?",
-    "answers": [
-      "Michael Faraday",
-      "Alessandro Volta",
-      "Moritz von Jacobi",
-      "Luigi Galvani"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la mesure directe de la vitesse de rotation de la Terre ?",
+    "answers": ["Le compas", "Le gyroscope laser", "Le sismographe", "Le baromètre"],
+    "correctIndex": 1
   },
   {
     "id": "q73",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui est l'inventeur du premier disque dur ?",
-    "answers": [
-      "Ken Olsen",
-      "Reynold Johnson",
-      "IBM Team",
-      "Alan Shugart"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est utilisée pour analyser la structure interne des planètes ?",
+    "answers": ["Le radar", "Le scanner", "La sismologie artificielle", "La spectroscopie"],
+    "correctIndex": 2
   },
   {
     "id": "q74",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Stirling ?",
-    "answers": [
-      "James Watt",
-      "John Ericsson",
-      "Sadi Carnot",
-      "Robert Stirling"
-    ],
+    "text": "Quelle invention permet la stabilisation des faisceaux dans les accélérateurs de particules ?",
+    "answers": ["Le détecteur", "Le champ électrique", "Le refroidissement cryogénique", "Le contrôle par feedback actif"],
     "correctIndex": 3
   },
+
   {
     "id": "q75",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a conçu le premier procédé de galvanoplastie ?",
-    "answers": [
-      "Luigi Galvani",
-      "Michael Faraday",
-      "Alessandro Volta",
-      "Moritz von Jacobi"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention est essentielle à la fabrication des fibres optiques monomodes ?",
+    "answers": ["La silice ultra-pure", "Le cuivre", "Le plastique", "Le germanium brut"],
+    "correctIndex": 0
   },
   {
     "id": "q76",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine de la première horloge atomique ?",
-    "answers": [
-      "Louis Essen",
-      "Norman Ramsey",
-      "William Markowitz",
-      "Isidor Rabi"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la détection d’exoplanètes par variation de vitesse radiale ?",
+    "answers": ["Le télescope optique", "Le spectrographe de précision", "Le radar spatial", "Le lidar"],
+    "correctIndex": 1
   },
   {
     "id": "q77",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier laser opérationnel ?",
-    "answers": [
-      "Charles Townes",
-      "Theodore Maiman",
-      "Arthur Schawlow",
-      "Gordon Gould"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est utilisée pour le calcul des trajectoires relativistes complexes ?",
+    "answers": ["La calculatrice", "Le PC standard", "Le supercalculateur", "Le tableur"],
+    "correctIndex": 2
   },
   {
     "id": "q78",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier calculateur mécanique programmable ?",
-    "answers": [
-      "Charles Babbage",
-      "Gottfried Wilhelm Leibniz",
-      "Konrad Zuse",
-      "Blaise Pascal"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet le maintien en orbite basse avec une consommation minimale de carburant ?",
+    "answers": ["Le moteur chimique", "Le moteur nucléaire", "Le moteur ionique", "Le moteur à effet Hall"],
+    "correctIndex": 3
   },
+
   {
     "id": "q79",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a conçu le premier procédé de galvanoplastie ?",
-    "answers": [
-      "Alessandro Volta",
-      "Moritz von Jacobi",
-      "Michael Faraday",
-      "Luigi Galvani"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est à la base du stockage holographique de données ?",
+    "answers": ["L’hologramme volumique", "Le disque dur", "La mémoire flash", "Le CD"],
+    "correctIndex": 0
   },
   {
     "id": "q80",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Wankel ?",
-    "answers": [
-      "Karl Benz",
-      "Rudolf Diesel",
-      "Wilhelm Maybach",
-      "Felix Wankel"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet la synchronisation temporelle des expériences du CERN ?",
+    "answers": ["Le serveur réseau", "Les horloges atomiques", "Le GPS", "La fibre cuivre"],
+    "correctIndex": 1
   },
+
   {
     "id": "q81",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier laser opérationnel ?",
-    "answers": [
-      "Theodore Maiman",
-      "Gordon Gould",
-      "Arthur Schawlow",
-      "Charles Townes"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention est utilisée pour observer les transitions quantiques interdites ?",
+    "answers": ["Le microscope", "Le laser continu", "La spectroscopie de haute précision", "Le radar"],
+    "correctIndex": 2
   },
   {
     "id": "q82",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a créé le premier appareil IRM clinique ?",
-    "answers": [
-      "Peter Mansfield",
-      "Paul Lauterbur",
-      "Raymond Damadian",
-      "Damadian et Lauterbur"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la correction thermique des miroirs de télescopes géants ?",
+    "answers": ["Le miroir fixe", "Le radiateur", "L’isolant", "Le contrôle thermique actif"],
+    "correctIndex": 3
   },
+
   {
     "id": "q83",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine de la première horloge atomique ?",
-    "answers": [
-      "William Markowitz",
-      "Norman Ramsey",
-      "Isidor Rabi",
-      "Louis Essen"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention est essentielle aux mémoires SRAM modernes ?",
+    "answers": ["Le transistor CMOS", "Le condensateur", "La bobine", "La diode"],
+    "correctIndex": 0
   },
   {
     "id": "q84",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier microprocesseur commercialisé ?",
-    "answers": [
-      "Stanley Mazor",
-      "Federico Faggin",
-      "Ted Hoff",
-      "Marcian Hoff"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la mesure ultra-précise du temps de vol des particules ?",
+    "answers": ["Le chronomètre", "Le détecteur TDC", "Le spectroscope", "Le voltmètre"],
+    "correctIndex": 1
   },
   {
     "id": "q85",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine de la première horloge atomique ?",
-    "answers": [
-      "Norman Ramsey",
-      "William Markowitz",
-      "Isidor Rabi",
-      "Louis Essen"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention est utilisée pour cartographier le cerveau à l’échelle synaptique ?",
+    "answers": ["L’IRM", "Le scanner", "La microscopie électronique", "L’EEG"],
+    "correctIndex": 2
   },
   {
     "id": "q86",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui est l'inventeur du premier disque dur ?",
-    "answers": [
-      "Ken Olsen",
-      "Alan Shugart",
-      "Reynold Johnson",
-      "IBM Team"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la stabilisation orbitale des stations spatiales ?",
+    "answers": ["Le radar", "Le GPS", "Le gyroscope", "Le contrôle d’attitude"],
+    "correctIndex": 3
   },
+
   {
     "id": "q87",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine de la première horloge atomique ?",
-    "answers": [
-      "Louis Essen",
-      "William Markowitz",
-      "Norman Ramsey",
-      "Isidor Rabi"
-    ],
+    "text": "Quelle invention est à la base des capteurs quantiques modernes ?",
+    "answers": ["La superposition quantique", "Le transistor", "La diode", "La résistance"],
     "correctIndex": 0
   },
   {
     "id": "q88",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui est l'inventeur du premier disque dur ?",
-    "answers": [
-      "Ken Olsen",
-      "IBM Team",
-      "Reynold Johnson",
-      "Alan Shugart"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la détection de variations gravitationnelles locales ?",
+    "answers": ["Le baromètre", "Le gravimètre", "Le sismographe", "Le compas"],
+    "correctIndex": 1
   },
   {
     "id": "q89",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier microprocesseur commercialisé ?",
-    "answers": [
-      "Ted Hoff",
-      "Marcian Hoff",
-      "Federico Faggin",
-      "Stanley Mazor"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention est utilisée pour modéliser le climat planétaire à long terme ?",
+    "answers": ["Le satellite", "Le radar", "Le modèle climatique numérique", "Le thermomètre"],
+    "correctIndex": 2
   },
   {
     "id": "q90",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a conçu le premier procédé de galvanoplastie ?",
-    "answers": [
-      "Alessandro Volta",
-      "Michael Faraday",
-      "Luigi Galvani",
-      "Moritz von Jacobi"
-    ],
+    "text": "Quelle invention permet la stabilisation dynamique des grands radiotélescopes ?",
+    "answers": ["Le miroir fixe", "Le contrepoids", "Le gyroscope", "Le contrôle actif structurel"],
     "correctIndex": 3
   },
+
   {
     "id": "q91",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Stirling ?",
-    "answers": [
-      "Robert Stirling",
-      "Sadi Carnot",
-      "James Watt",
-      "John Ericsson"
-    ],
+    "text": "Quelle invention est essentielle aux mémoires flash NAND ?",
+    "answers": ["La grille flottante", "Le condensateur", "La bobine", "La diode Zener"],
     "correctIndex": 0
   },
   {
     "id": "q92",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier calculateur mécanique programmable ?",
-    "answers": [
-      "Konrad Zuse",
-      "Gottfried Wilhelm Leibniz",
-      "Blaise Pascal",
-      "Charles Babbage"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet la mesure précise des constantes cosmologiques ?",
+    "answers": ["Le télescope optique", "Le satellite cosmologique", "Le spectromètre", "Le lidar"],
+    "correctIndex": 1
   },
+
   {
     "id": "q93",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a créé le premier appareil IRM clinique ?",
-    "answers": [
-      "Raymond Damadian",
-      "Peter Mansfield",
-      "Paul Lauterbur",
-      "Damadian et Lauterbur"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention est utilisée pour étudier les interactions faibles fondamentales ?",
+    "answers": ["Le microscope", "Le scanner", "Le détecteur de neutrinos", "Le radiotélescope"],
+    "correctIndex": 2
   },
   {
     "id": "q94",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier microprocesseur commercialisé ?",
-    "answers": [
-      "Stanley Mazor",
-      "Ted Hoff",
-      "Marcian Hoff",
-      "Federico Faggin"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet la correction orbitale en temps réel des satellites militaires ?",
+    "answers": ["Le radar", "Le GPS", "Le gyroscope", "Le système de propulsion autonome"],
+    "correctIndex": 3
   },
+
   {
     "id": "q95",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier calculateur mécanique programmable ?",
-    "answers": [
-      "Blaise Pascal",
-      "Konrad Zuse",
-      "Gottfried Wilhelm Leibniz",
-      "Charles Babbage"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention est à la base des capteurs à effet Hall modernes ?",
+    "answers": ["L’effet Hall", "Le transistor", "La diode", "La résistance"],
+    "correctIndex": 0
   },
   {
     "id": "q96",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé la première fibre optique moderne ?",
-    "answers": [
-      "Narinder Singh Kapany",
-      "John Tyndall",
-      "Charles Kao",
-      "Elias Snitzer"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la mesure ultra-stable de fréquence optique ?",
+    "answers": ["Le laser", "Le peigne de fréquences", "Le spectroscope", "Le détecteur CCD"],
+    "correctIndex": 1
   },
   {
     "id": "q97",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé la première fibre optique moderne ?",
-    "answers": [
-      "Charles Kao",
-      "John Tyndall",
-      "Narinder Singh Kapany",
-      "Elias Snitzer"
-    ],
+    "text": "Quelle invention est utilisée pour étudier les états topologiques de la matière ?",
+    "answers": ["Le microscope", "Le scanner", "La spectroscopie ARPES", "Le voltmètre"],
     "correctIndex": 2
   },
   {
     "id": "q98",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé la première fibre optique moderne ?",
-    "answers": [
-      "Charles Kao",
-      "John Tyndall",
-      "Elias Snitzer",
-      "Narinder Singh Kapany"
-    ],
+    "text": "Quelle invention permet la stabilisation des plateformes d’observation spatiale ?",
+    "answers": ["Le radar", "Le GPS", "Le gyroscope mécanique", "Le système de stabilisation inertielle"],
     "correctIndex": 3
   },
+
   {
     "id": "q99",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a créé le premier appareil IRM clinique ?",
-    "answers": [
-      "Damadian et Lauterbur",
-      "Raymond Damadian",
-      "Paul Lauterbur",
-      "Peter Mansfield"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est à la base des capteurs LiDAR modernes ?",
+    "answers": ["Le laser pulsé", "La LED", "Le radar", "Le sonar"],
+    "correctIndex": 0
   },
   {
     "id": "q100",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui est l'inventeur du premier disque dur ?",
-    "answers": [
-      "Alan Shugart",
-      "IBM Team",
-      "Ken Olsen",
-      "Reynold Johnson"
-    ],
+    "text": "Quelle invention permet la synchronisation absolue des réseaux scientifiques mondiaux ?",
+    "answers": ["Le serveur NTP", "Le GPS", "La fibre optique", "Les horloges atomiques"],
     "correctIndex": 3
   },
   {
     "id": "q101",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé la première fibre optique moderne ?",
-    "answers": [
-      "Charles Kao",
-      "Elias Snitzer",
-      "John Tyndall",
-      "Narinder Singh Kapany"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet la lecture quantique non destructive d’un état supraconducteur ?",
+    "answers": ["La mesure QND", "Le laser continu", "Le cryostat", "Le voltmètre"],
+    "correctIndex": 0
   },
   {
     "id": "q102",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier calculateur mécanique programmable ?",
-    "answers": [
-      "Konrad Zuse",
-      "Gottfried Wilhelm Leibniz",
-      "Charles Babbage",
-      "Blaise Pascal"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la stabilisation de fréquence dans les lasers ultra-stables ?",
+    "answers": ["Le cristal dopé", "La cavité Fabry-Pérot", "Le miroir diélectrique", "La fibre optique"],
+    "correctIndex": 1
   },
   {
     "id": "q103",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a conçu le premier procédé de galvanoplastie ?",
-    "answers": [
-      "Michael Faraday",
-      "Moritz von Jacobi",
-      "Alessandro Volta",
-      "Luigi Galvani"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est utilisée pour l’imagerie 3D de protéines à résolution atomique ?",
+    "answers": ["Le microscope optique", "Le scanner", "La cryo-microscopie électronique", "L’IRM"],
+    "correctIndex": 2
   },
   {
     "id": "q104",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé la première fibre optique moderne ?",
-    "answers": [
-      "John Tyndall",
-      "Charles Kao",
-      "Elias Snitzer",
-      "Narinder Singh Kapany"
-    ],
+    "text": "Quelle invention permet la compensation active des vibrations sismiques en laboratoire ?",
+    "answers": ["Le gyroscope", "Le radar", "L’amortisseur passif", "La plateforme antivibratoire active"],
     "correctIndex": 3
   },
+
   {
     "id": "q105",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a conçu le premier procédé de galvanoplastie ?",
-    "answers": [
-      "Alessandro Volta",
-      "Moritz von Jacobi",
-      "Michael Faraday",
-      "Luigi Galvani"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est à la base du stockage d’information dans les disques durs magnétiques ?",
+    "answers": ["La magnétorésistance géante", "Le condensateur", "La bobine", "La diode"],
+    "correctIndex": 0
   },
   {
     "id": "q106",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé la première fibre optique moderne ?",
-    "answers": [
-      "Charles Kao",
-      "Narinder Singh Kapany",
-      "Elias Snitzer",
-      "John Tyndall"
-    ],
+    "text": "Quelle invention permet la mesure du décalage gravitationnel du temps ?",
+    "answers": ["Le chronomètre", "L’horloge atomique", "Le spectromètre", "Le radar"],
     "correctIndex": 1
   },
   {
     "id": "q107",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier laser opérationnel ?",
-    "answers": [
-      "Arthur Schawlow",
-      "Theodore Maiman",
-      "Charles Townes",
-      "Gordon Gould"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est utilisée pour modéliser les écoulements turbulents complexes ?",
+    "answers": ["La soufflerie", "Le calcul analogique", "La simulation CFD", "Le baromètre"],
+    "correctIndex": 2
   },
   {
     "id": "q108",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a conçu le premier procédé de galvanoplastie ?",
-    "answers": [
-      "Alessandro Volta",
-      "Moritz von Jacobi",
-      "Luigi Galvani",
-      "Michael Faraday"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet la correction dynamique des miroirs segmentés des télescopes géants ?",
+    "answers": ["Le miroir fixe", "Le capteur CCD", "Le filtre optique", "Le contrôle actif des segments"],
+    "correctIndex": 3
   },
+
   {
     "id": "q109",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé la première fibre optique moderne ?",
-    "answers": [
-      "Charles Kao",
-      "John Tyndall",
-      "Narinder Singh Kapany",
-      "Elias Snitzer"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention est essentielle aux détecteurs de particules à pixels ?",
+    "answers": ["Le semi-conducteur silicium", "Le tube à vide", "Le relais", "La résistance"],
+    "correctIndex": 0
   },
   {
     "id": "q110",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine de la première horloge atomique ?",
-    "answers": [
-      "William Markowitz",
-      "Norman Ramsey",
-      "Louis Essen",
-      "Isidor Rabi"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la synchronisation temporelle des réseaux 5G avancés ?",
+    "answers": ["Le serveur NTP", "Les horloges atomiques", "Le Wi-Fi", "La fibre cuivre"],
+    "correctIndex": 1
   },
+
   {
     "id": "q111",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier microprocesseur commercialisé ?",
-    "answers": [
-      "Stanley Mazor",
-      "Marcian Hoff",
-      "Ted Hoff",
-      "Federico Faggin"
-    ],
+    "text": "Quelle invention est utilisée pour sonder la structure électronique des solides ?",
+    "answers": ["Le microscope", "Le scanner", "La spectroscopie ARPES", "Le voltmètre"],
     "correctIndex": 2
   },
   {
     "id": "q112",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine de la première horloge atomique ?",
-    "answers": [
-      "Isidor Rabi",
-      "Norman Ramsey",
-      "Louis Essen",
-      "William Markowitz"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la stabilisation thermique des détecteurs infrarouges spatiaux ?",
+    "answers": ["Le radiateur", "Le miroir", "Le filtre", "Le cryoréfrigérateur"],
+    "correctIndex": 3
   },
+
   {
     "id": "q113",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé la première fibre optique moderne ?",
-    "answers": [
-      "Narinder Singh Kapany",
-      "Charles Kao",
-      "Elias Snitzer",
-      "John Tyndall"
-    ],
+    "text": "Quelle invention est à la base des capteurs biologiques à haute sensibilité ?",
+    "answers": ["Le biosenseur", "Le thermomètre", "Le baromètre", "Le manomètre"],
     "correctIndex": 0
   },
   {
     "id": "q114",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine de la première horloge atomique ?",
-    "answers": [
-      "Isidor Rabi",
-      "Louis Essen",
-      "Norman Ramsey",
-      "William Markowitz"
-    ],
+    "text": "Quelle invention permet la mesure ultra-précise des champs électriques faibles ?",
+    "answers": ["Le voltmètre", "Le capteur électrostatique", "Le transformateur", "Le générateur"],
     "correctIndex": 1
   },
   {
     "id": "q115",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Stirling ?",
-    "answers": [
-      "James Watt",
-      "John Ericsson",
-      "Sadi Carnot",
-      "Robert Stirling"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention est utilisée pour l’étude des réseaux neuronaux artificiels matériels ?",
+    "answers": ["Le microcontrôleur", "Le GPU", "Les puces neuromorphiques", "Le FPGA"],
+    "correctIndex": 2
   },
   {
     "id": "q116",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé la première fibre optique moderne ?",
-    "answers": [
-      "Elias Snitzer",
-      "Narinder Singh Kapany",
-      "John Tyndall",
-      "Charles Kao"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet la stabilisation de trajectoire des faisceaux de protons ?",
+    "answers": ["Le détecteur", "Le champ magnétique", "Le refroidissement", "Le système de correction orbitale"],
+    "correctIndex": 3
   },
+
   {
     "id": "q117",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine de la première horloge atomique ?",
-    "answers": [
-      "Louis Essen",
-      "Norman Ramsey",
-      "Isidor Rabi",
-      "William Markowitz"
-    ],
+    "text": "Quelle invention est à la base du stockage magnétique à haute densité HAMR ?",
+    "answers": ["Le chauffage assisté par laser", "Le moteur électrique", "La bobine", "La diode"],
     "correctIndex": 0
   },
   {
     "id": "q118",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier calculateur mécanique programmable ?",
-    "answers": [
-      "Blaise Pascal",
-      "Gottfried Wilhelm Leibniz",
-      "Charles Babbage",
-      "Konrad Zuse"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la mesure précise de la constante de Boltzmann ?",
+    "answers": ["Le thermomètre", "La thermométrie acoustique", "Le baromètre", "Le manomètre"],
+    "correctIndex": 1
   },
   {
     "id": "q119",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a conçu le premier procédé de galvanoplastie ?",
-    "answers": [
-      "Michael Faraday",
-      "Moritz von Jacobi",
-      "Alessandro Volta",
-      "Luigi Galvani"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est utilisée pour cartographier les fonds océaniques profonds ?",
+    "answers": ["Le radar", "Le lidar", "Le sonar multifaisceaux", "Le GPS"],
+    "correctIndex": 2
   },
   {
     "id": "q120",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a créé le premier appareil IRM clinique ?",
-    "answers": [
-      "Raymond Damadian",
-      "Peter Mansfield",
-      "Damadian et Lauterbur",
-      "Paul Lauterbur"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la stabilisation dynamique des plateformes pétrolières offshore ?",
+    "answers": ["Le ballast", "Le contrepoids", "Le gyroscope", "Le contrôle actif de position"],
+    "correctIndex": 3
   },
+
   {
     "id": "q121",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine de la première horloge atomique ?",
-    "answers": [
-      "Norman Ramsey",
-      "Louis Essen",
-      "William Markowitz",
-      "Isidor Rabi"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est essentielle aux mémoires PCM (Phase Change Memory) ?",
+    "answers": ["Le matériau à changement de phase", "Le condensateur", "La bobine", "La diode"],
+    "correctIndex": 0
   },
   {
     "id": "q122",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Wankel ?",
-    "answers": [
-      "Felix Wankel",
-      "Rudolf Diesel",
-      "Karl Benz",
-      "Wilhelm Maybach"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la mesure des variations du champ gravitationnel terrestre ?",
+    "answers": ["Le sismographe", "Le gravimètre", "Le baromètre", "Le compas"],
+    "correctIndex": 1
   },
+
   {
     "id": "q123",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé la première fibre optique moderne ?",
-    "answers": [
-      "Charles Kao",
-      "Narinder Singh Kapany",
-      "John Tyndall",
-      "Elias Snitzer"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est utilisée pour simuler des systèmes quantiques complexes ?",
+    "answers": ["Le PC classique", "Le calculateur analogique", "Le simulateur quantique", "Le superordinateur"],
+    "correctIndex": 2
   },
   {
     "id": "q124",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui est l'inventeur du premier disque dur ?",
-    "answers": [
-      "Reynold Johnson",
-      "IBM Team",
-      "Ken Olsen",
-      "Alan Shugart"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la stabilisation des grandes structures spatiales déployables ?",
+    "answers": ["Le radar", "Le GPS", "Le gyroscope", "Le contrôle actif de structure"],
+    "correctIndex": 3
   },
+
   {
     "id": "q125",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé la première fibre optique moderne ?",
-    "answers": [
-      "Narinder Singh Kapany",
-      "John Tyndall",
-      "Elias Snitzer",
-      "Charles Kao"
-    ],
+    "text": "Quelle invention est à la base des capteurs photoniques intégrés ?",
+    "answers": ["Le guide d’onde optique", "Le câble cuivre", "La bobine", "La résistance"],
     "correctIndex": 0
   },
   {
     "id": "q126",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier calculateur mécanique programmable ?",
-    "answers": [
-      "Gottfried Wilhelm Leibniz",
-      "Blaise Pascal",
-      "Konrad Zuse",
-      "Charles Babbage"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet la mesure du temps de cohérence quantique ?",
+    "answers": ["Le voltmètre", "La spectroscopie Ramsey", "Le laser continu", "Le cryostat"],
+    "correctIndex": 1
   },
   {
     "id": "q127",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé la première fibre optique moderne ?",
-    "answers": [
-      "Charles Kao",
-      "Elias Snitzer",
-      "John Tyndall",
-      "Narinder Singh Kapany"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention est utilisée pour analyser les réseaux de communication planétaires ?",
+    "answers": ["Le routeur", "Le satellite", "La simulation réseau avancée", "Le modem"],
+    "correctIndex": 2
   },
   {
     "id": "q128",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé la première fibre optique moderne ?",
-    "answers": [
-      "John Tyndall",
-      "Narinder Singh Kapany",
-      "Elias Snitzer",
-      "Charles Kao"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet la stabilisation orbitale des constellations de satellites ?",
+    "answers": ["Le radar", "Le GPS", "Le gyroscope", "Le contrôle de flotte automatisé"],
+    "correctIndex": 3
   },
+
   {
     "id": "q129",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine de la première horloge atomique ?",
-    "answers": [
-      "Louis Essen",
-      "Isidor Rabi",
-      "William Markowitz",
-      "Norman Ramsey"
-    ],
+    "text": "Quelle invention est essentielle aux capteurs d’image CMOS rétroéclairés ?",
+    "answers": ["La photodiode intégrée", "Le tube cathodique", "Le relais", "La résistance"],
     "correctIndex": 0
   },
   {
     "id": "q130",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a conçu le premier procédé de galvanoplastie ?",
-    "answers": [
-      "Moritz von Jacobi",
-      "Michael Faraday",
-      "Alessandro Volta",
-      "Luigi Galvani"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la mesure de la dérive des constantes fondamentales ?",
+    "answers": ["Le spectroscope", "Les horloges optiques comparées", "Le baromètre", "Le radar"],
+    "correctIndex": 1
   },
+
   {
     "id": "q131",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier microprocesseur commercialisé ?",
-    "answers": [
-      "Marcian Hoff",
-      "Federico Faggin",
-      "Ted Hoff",
-      "Stanley Mazor"
-    ],
+    "text": "Quelle invention est utilisée pour l’étude des matériaux topologiques ?",
+    "answers": ["Le microscope optique", "Le scanner", "La spectroscopie STM", "Le voltmètre"],
     "correctIndex": 2
   },
   {
     "id": "q132",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Stirling ?",
-    "answers": [
-      "James Watt",
-      "Sadi Carnot",
-      "Robert Stirling",
-      "John Ericsson"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la stabilisation des lasers spatiaux longue distance ?",
+    "answers": ["Le miroir simple", "Le filtre", "Le cristal", "Le verrouillage actif de fréquence"],
+    "correctIndex": 3
   },
+
   {
     "id": "q133",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier laser opérationnel ?",
-    "answers": [
-      "Gordon Gould",
-      "Theodore Maiman",
-      "Charles Townes",
-      "Arthur Schawlow"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est à la base des détecteurs infrarouges bolométriques ?",
+    "answers": ["Le bolomètre", "Le thermocouple", "La résistance", "La diode"],
+    "correctIndex": 0
   },
   {
     "id": "q134",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine de la première horloge atomique ?",
-    "answers": [
-      "William Markowitz",
-      "Isidor Rabi",
-      "Norman Ramsey",
-      "Louis Essen"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet la mesure précise des flux de neutrinos solaires ?",
+    "answers": ["Le télescope", "Le détecteur Cherenkov", "Le scanner", "Le radar"],
+    "correctIndex": 1
   },
   {
     "id": "q135",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé la première fibre optique moderne ?",
-    "answers": [
-      "John Tyndall",
-      "Charles Kao",
-      "Elias Snitzer",
-      "Narinder Singh Kapany"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention est utilisée pour analyser les interactions photon-matière ?",
+    "answers": ["Le microscope", "Le spectromètre", "La spectroscopie non linéaire", "Le voltmètre"],
+    "correctIndex": 2
   },
   {
     "id": "q136",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier laser opérationnel ?",
-    "answers": [
-      "Charles Townes",
-      "Theodore Maiman",
-      "Gordon Gould",
-      "Arthur Schawlow"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet la stabilisation de trajectoire des drones autonomes longue durée ?",
+    "answers": ["Le radar", "Le GPS", "Le gyroscope", "Le contrôle inertiel avancé"],
+    "correctIndex": 3
   },
+
   {
     "id": "q137",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a créé le premier appareil IRM clinique ?",
-    "answers": [
-      "Paul Lauterbur",
-      "Damadian et Lauterbur",
-      "Raymond Damadian",
-      "Peter Mansfield"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention est à la base des capteurs MEMS modernes ?",
+    "answers": ["La microfabrication silicium", "Le tube à vide", "Le relais", "La bobine"],
+    "correctIndex": 0
   },
   {
     "id": "q138",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé la première fibre optique moderne ?",
-    "answers": [
-      "Charles Kao",
-      "Elias Snitzer",
-      "Narinder Singh Kapany",
-      "John Tyndall"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la mesure ultra-précise des champs magnétiques cérébraux ?",
+    "answers": ["L’IRM", "La magnétoencéphalographie", "L’EEG", "Le scanner"],
+    "correctIndex": 1
   },
   {
     "id": "q139",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a créé le premier appareil IRM clinique ?",
-    "answers": [
-      "Raymond Damadian",
-      "Peter Mansfield",
-      "Paul Lauterbur",
-      "Damadian et Lauterbur"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention est utilisée pour simuler l’évolution cosmologique à grande échelle ?",
+    "answers": ["Le télescope", "Le satellite", "La simulation N-body", "Le radar"],
+    "correctIndex": 2
   },
   {
     "id": "q140",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a créé le premier appareil IRM clinique ?",
-    "answers": [
-      "Paul Lauterbur",
-      "Peter Mansfield",
-      "Raymond Damadian",
-      "Damadian et Lauterbur"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la stabilisation active des faisceaux dans les synchrotrons ?",
+    "answers": ["Le détecteur", "Le refroidissement", "Le champ électrique", "Le feedback transverse"],
+    "correctIndex": 3
   },
+
   {
     "id": "q141",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier calculateur mécanique programmable ?",
-    "answers": [
-      "Konrad Zuse",
-      "Gottfried Wilhelm Leibniz",
-      "Charles Babbage",
-      "Blaise Pascal"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention est essentielle aux communications optiques cohérentes modernes ?",
+    "answers": ["La modulation de phase", "La LED", "Le câble cuivre", "La résistance"],
+    "correctIndex": 0
   },
   {
     "id": "q142",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier microprocesseur commercialisé ?",
-    "answers": [
-      "Marcian Hoff",
-      "Stanley Mazor",
-      "Ted Hoff",
-      "Federico Faggin"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la mesure ultra-stable de tension électrique quantifiée ?",
+    "answers": ["Le voltmètre", "L’effet Josephson", "Le transformateur", "Le générateur"],
+    "correctIndex": 1
   },
+
   {
     "id": "q143",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier calculateur mécanique programmable ?",
-    "answers": [
-      "Gottfried Wilhelm Leibniz",
-      "Charles Babbage",
-      "Konrad Zuse",
-      "Blaise Pascal"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est utilisée pour l’étude des réactions chimiques ultrarapides ?",
+    "answers": ["Le microscope", "Le scanner", "La spectroscopie femtoseconde", "Le thermomètre"],
+    "correctIndex": 2
   },
   {
     "id": "q144",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a créé le premier appareil IRM clinique ?",
-    "answers": [
-      "Damadian et Lauterbur",
-      "Raymond Damadian",
-      "Peter Mansfield",
-      "Paul Lauterbur"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet la stabilisation dynamique des réseaux électriques intelligents ?",
+    "answers": ["Le transformateur", "Le disjoncteur", "Le compteur", "Le contrôle en temps réel"],
+    "correctIndex": 3
   },
+
   {
     "id": "q145",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé la première fibre optique moderne ?",
-    "answers": [
-      "Elias Snitzer",
-      "Charles Kao",
-      "Narinder Singh Kapany",
-      "John Tyndall"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention est à la base des capteurs photoniques quantiques ?",
+    "answers": ["La détection à photon unique", "Le laser", "La fibre optique", "Le miroir"],
+    "correctIndex": 0
   },
   {
     "id": "q146",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine de la première horloge atomique ?",
-    "answers": [
-      "Norman Ramsey",
-      "William Markowitz",
-      "Isidor Rabi",
-      "Louis Essen"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet la mesure précise de la dérive orbitale des planètes ?",
+    "answers": ["Le télescope", "La télémétrie laser", "Le radar", "Le GPS"],
+    "correctIndex": 1
   },
   {
     "id": "q147",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier calculateur mécanique programmable ?",
-    "answers": [
-      "Gottfried Wilhelm Leibniz",
-      "Charles Babbage",
-      "Blaise Pascal",
-      "Konrad Zuse"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est utilisée pour l’analyse du comportement collectif des particules ?",
+    "answers": ["Le microscope", "Le scanner", "La simulation multi-agents", "Le baromètre"],
+    "correctIndex": 2
   },
   {
     "id": "q148",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé la première fibre optique moderne ?",
-    "answers": [
-      "John Tyndall",
-      "Charles Kao",
-      "Elias Snitzer",
-      "Narinder Singh Kapany"
-    ],
+    "text": "Quelle invention permet la stabilisation thermique des satellites en orbite profonde ?",
+    "answers": ["Le radiateur", "Le miroir", "L’isolant simple", "Le contrôle thermique actif"],
     "correctIndex": 3
   },
+
   {
     "id": "q149",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé la première fibre optique moderne ?",
-    "answers": [
-      "Elias Snitzer",
-      "Charles Kao",
-      "John Tyndall",
-      "Narinder Singh Kapany"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention est à la base des capteurs à avalanche de photons (SPAD) ?",
+    "answers": ["La photodiode à avalanche", "Le transistor", "La bobine", "La résistance"],
+    "correctIndex": 0
   },
   {
     "id": "q150",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier calculateur mécanique programmable ?",
-    "answers": [
-      "Konrad Zuse",
-      "Blaise Pascal",
-      "Gottfried Wilhelm Leibniz",
-      "Charles Babbage"
-    ],
+    "text": "Quelle invention permet la synchronisation ultime des expériences de physique fondamentale ?",
+    "answers": ["Le serveur réseau", "Le GPS", "La fibre optique", "Les horloges optiques"],
     "correctIndex": 3
   },
   {
     "id": "q151",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier laser opérationnel ?",
-    "answers": [
-      "Charles Townes",
-      "Arthur Schawlow",
-      "Gordon Gould",
-      "Theodore Maiman"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet la mesure quantifiée de la tension électrique avec une précision métrologique absolue ?",
+    "answers": ["L’effet Josephson", "Le voltmètre numérique", "Le transformateur", "Le générateur étalon"],
+    "correctIndex": 0
   },
   {
     "id": "q152",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui est l'inventeur du premier disque dur ?",
-    "answers": [
-      "Ken Olsen",
-      "IBM Team",
-      "Reynold Johnson",
-      "Alan Shugart"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la mesure de distances Terre-Lune avec une précision centimétrique ?",
+    "answers": ["Le radar", "La télémétrie laser lunaire", "Le GPS", "Le lidar atmosphérique"],
+    "correctIndex": 1
   },
   {
     "id": "q153",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Stirling ?",
-    "answers": [
-      "John Ericsson",
-      "James Watt",
-      "Robert Stirling",
-      "Sadi Carnot"
-    ],
+    "text": "Quelle invention est utilisée pour simuler les interactions fondamentales dans l’Univers primitif ?",
+    "answers": ["Le calculateur analogique", "Le PC classique", "La simulation lattice QCD", "Le superordinateur généraliste"],
     "correctIndex": 2
   },
   {
     "id": "q154",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a conçu le premier procédé de galvanoplastie ?",
-    "answers": [
-      "Moritz von Jacobi",
-      "Alessandro Volta",
-      "Luigi Galvani",
-      "Michael Faraday"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la stabilisation active de la trajectoire des faisceaux dans les collisionneurs ?",
+    "answers": ["Le détecteur", "Le champ magnétique statique", "Le refroidissement", "Le feedback faisceau-faisceau"],
+    "correctIndex": 3
   },
+
   {
     "id": "q155",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier microprocesseur commercialisé ?",
-    "answers": [
-      "Federico Faggin",
-      "Marcian Hoff",
-      "Ted Hoff",
-      "Stanley Mazor"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention est à la base des horloges atomiques à fontaine de césium ?",
+    "answers": ["Le refroidissement laser d’atomes", "Le quartz", "Le chronomètre mécanique", "Le laser continu"],
+    "correctIndex": 0
   },
   {
     "id": "q156",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a conçu le premier procédé de galvanoplastie ?",
-    "answers": [
-      "Alessandro Volta",
-      "Michael Faraday",
-      "Luigi Galvani",
-      "Moritz von Jacobi"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet la mesure directe du rayonnement fossile de l’Univers ?",
+    "answers": ["Le télescope optique", "Le satellite cosmologique", "Le spectroscope infrarouge", "Le lidar"],
+    "correctIndex": 1
   },
   {
     "id": "q157",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine de la première horloge atomique ?",
-    "answers": [
-      "Louis Essen",
-      "Isidor Rabi",
-      "Norman Ramsey",
-      "William Markowitz"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention est utilisée pour l’analyse topologique des bandes électroniques ?",
+    "answers": ["Le microscope", "Le scanner", "La spectroscopie ARPES", "Le voltmètre"],
+    "correctIndex": 2
   },
   {
     "id": "q158",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Stirling ?",
-    "answers": [
-      "Sadi Carnot",
-      "John Ericsson",
-      "Robert Stirling",
-      "James Watt"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la stabilisation thermique active des instruments cryogéniques spatiaux ?",
+    "answers": ["Le radiateur passif", "Le miroir thermique", "L’isolant multicouche", "Le contrôle cryothermique actif"],
+    "correctIndex": 3
   },
+
   {
     "id": "q159",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Wankel ?",
-    "answers": [
-      "Karl Benz",
-      "Rudolf Diesel",
-      "Wilhelm Maybach",
-      "Felix Wankel"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention est essentielle au fonctionnement des mémoires quantiques photoniques ?",
+    "answers": ["Le stockage cohérent de photons", "La fibre optique", "Le laser pulsé", "Le miroir"],
+    "correctIndex": 0
   },
   {
     "id": "q160",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé la première fibre optique moderne ?",
-    "answers": [
-      "John Tyndall",
-      "Elias Snitzer",
-      "Narinder Singh Kapany",
-      "Charles Kao"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la mesure ultra-précise des masses atomiques ?",
+    "answers": ["Le spectromètre optique", "La balance de Penning", "Le voltmètre", "Le calorimètre"],
+    "correctIndex": 1
   },
+
   {
     "id": "q161",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier calculateur mécanique programmable ?",
-    "answers": [
-      "Gottfried Wilhelm Leibniz",
-      "Konrad Zuse",
-      "Blaise Pascal",
-      "Charles Babbage"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention est utilisée pour simuler le comportement collectif des plasmas stellaires ?",
+    "answers": ["Le télescope", "Le radar", "La simulation MHD numérique", "Le baromètre"],
+    "correctIndex": 2
   },
   {
     "id": "q162",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a conçu le premier procédé de galvanoplastie ?",
-    "answers": [
-      "Moritz von Jacobi",
-      "Luigi Galvani",
-      "Alessandro Volta",
-      "Michael Faraday"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la stabilisation d’orientation des sondes interplanétaires lointaines ?",
+    "answers": ["Le GPS", "Le radar", "Le compas", "La navigation inertielle autonome"],
+    "correctIndex": 3
   },
+
   {
     "id": "q163",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a créé le premier appareil IRM clinique ?",
-    "answers": [
-      "Damadian et Lauterbur",
-      "Peter Mansfield",
-      "Paul Lauterbur",
-      "Raymond Damadian"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention est à la base des détecteurs de photons uniques supraconducteurs ?",
+    "answers": ["Le nanofil supraconducteur", "La photodiode classique", "Le transistor MOS", "La LED"],
+    "correctIndex": 0
   },
   {
     "id": "q164",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier microprocesseur commercialisé ?",
-    "answers": [
-      "Stanley Mazor",
-      "Marcian Hoff",
-      "Ted Hoff",
-      "Federico Faggin"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la mesure du décalage spectral relativiste des étoiles lointaines ?",
+    "answers": ["Le télescope", "Le spectrographe haute résolution", "Le radar", "Le lidar"],
+    "correctIndex": 1
   },
   {
     "id": "q165",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier laser opérationnel ?",
-    "answers": [
-      "Theodore Maiman",
-      "Arthur Schawlow",
-      "Charles Townes",
-      "Gordon Gould"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention est utilisée pour la reconstruction 3D de réseaux neuronaux complets ?",
+    "answers": ["L’IRM", "Le scanner", "La microscopie électronique sérielle", "L’EEG"],
+    "correctIndex": 2
   },
   {
     "id": "q166",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a conçu le premier procédé de galvanoplastie ?",
-    "answers": [
-      "Moritz von Jacobi",
-      "Alessandro Volta",
-      "Luigi Galvani",
-      "Michael Faraday"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la stabilisation dynamique des grands interféromètres scientifiques ?",
+    "answers": ["Le miroir fixe", "Le support passif", "Le filtre mécanique", "Le contrôle actif de position"],
+    "correctIndex": 3
   },
+
   {
     "id": "q167",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Stirling ?",
-    "answers": [
-      "James Watt",
-      "Sadi Carnot",
-      "Robert Stirling",
-      "John Ericsson"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention est essentielle au fonctionnement des ordinateurs neuromorphiques ?",
+    "answers": ["Le memristor", "Le transistor bipolaire", "La bobine", "La diode Zener"],
+    "correctIndex": 0
   },
   {
     "id": "q168",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a conçu le premier procédé de galvanoplastie ?",
-    "answers": [
-      "Luigi Galvani",
-      "Alessandro Volta",
-      "Moritz von Jacobi",
-      "Michael Faraday"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la mesure directe des variations du champ magnétique terrestre global ?",
+    "answers": ["Le compas", "Le magnétomètre satellitaire", "Le baromètre", "Le thermomètre"],
+    "correctIndex": 1
   },
   {
     "id": "q169",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier laser opérationnel ?",
-    "answers": [
-      "Arthur Schawlow",
-      "Charles Townes",
-      "Gordon Gould",
-      "Theodore Maiman"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention est utilisée pour simuler la formation des grandes structures cosmiques ?",
+    "answers": ["Le télescope", "Le satellite", "La simulation cosmologique N-body", "Le radar"],
+    "correctIndex": 2
   },
   {
     "id": "q170",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui est l'inventeur du premier disque dur ?",
-    "answers": [
-      "Reynold Johnson",
-      "Alan Shugart",
-      "IBM Team",
-      "Ken Olsen"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la stabilisation de tension dans les réseaux électriques quantifiés ?",
+    "answers": ["Le transformateur", "Le disjoncteur", "Le condensateur", "Le contrôle métrologique actif"],
+    "correctIndex": 3
   },
+
   {
     "id": "q171",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a créé le premier appareil IRM clinique ?",
-    "answers": [
-      "Raymond Damadian",
-      "Peter Mansfield",
-      "Damadian et Lauterbur",
-      "Paul Lauterbur"
-    ],
+    "text": "Quelle invention est à la base des capteurs gravitationnels de nouvelle génération ?",
+    "answers": ["L’interférométrie laser", "Le sismographe", "Le radar", "Le baromètre"],
     "correctIndex": 0
   },
   {
     "id": "q172",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Wankel ?",
-    "answers": [
-      "Wilhelm Maybach",
-      "Felix Wankel",
-      "Rudolf Diesel",
-      "Karl Benz"
-    ],
+    "text": "Quelle invention permet la mesure ultra-stable des constantes fondamentales du temps ?",
+    "answers": ["Le chronomètre", "Les horloges optiques", "Le quartz", "Le GPS"],
     "correctIndex": 1
   },
+
   {
     "id": "q173",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a conçu le premier procédé de galvanoplastie ?",
-    "answers": [
-      "Michael Faraday",
-      "Moritz von Jacobi",
-      "Luigi Galvani",
-      "Alessandro Volta"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est utilisée pour analyser les transitions électroniques interdites ?",
+    "answers": ["Le microscope", "Le scanner", "La spectroscopie de précision", "Le voltmètre"],
+    "correctIndex": 2
   },
   {
     "id": "q174",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a conçu le premier procédé de galvanoplastie ?",
-    "answers": [
-      "Moritz von Jacobi",
-      "Michael Faraday",
-      "Alessandro Volta",
-      "Luigi Galvani"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la stabilisation thermique des détecteurs bolométriques spatiaux ?",
+    "answers": ["Le radiateur", "Le miroir", "L’isolant simple", "Le contrôle thermique actif"],
+    "correctIndex": 3
   },
+
   {
     "id": "q175",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier calculateur mécanique programmable ?",
-    "answers": [
-      "Blaise Pascal",
-      "Konrad Zuse",
-      "Charles Babbage",
-      "Gottfried Wilhelm Leibniz"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention est à la base des réseaux photoniques intégrés quantiques ?",
+    "answers": ["Les guides d’onde quantiques", "La fibre cuivre", "La bobine", "La résistance"],
+    "correctIndex": 0
   },
   {
     "id": "q176",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui est l'inventeur du premier disque dur ?",
-    "answers": [
-      "Reynold Johnson",
-      "Alan Shugart",
-      "IBM Team",
-      "Ken Olsen"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la mesure du champ gravitationnel par variation de fréquence ?",
+    "answers": ["Le radar", "L’horloge atomique relativiste", "Le gravimètre classique", "Le baromètre"],
+    "correctIndex": 1
   },
   {
     "id": "q177",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a créé le premier appareil IRM clinique ?",
-    "answers": [
-      "Raymond Damadian",
-      "Peter Mansfield",
-      "Damadian et Lauterbur",
-      "Paul Lauterbur"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention est utilisée pour modéliser la turbulence quantique ?",
+    "answers": ["Le PC", "Le calculateur analogique", "La simulation quantique numérique", "Le superordinateur classique"],
+    "correctIndex": 2
   },
   {
     "id": "q178",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Wankel ?",
-    "answers": [
-      "Wilhelm Maybach",
-      "Felix Wankel",
-      "Rudolf Diesel",
-      "Karl Benz"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention permet la stabilisation dynamique des miroirs cryogéniques ?",
+    "answers": ["Le support rigide", "Le ressort", "Le filtre passif", "Le contrôle actif cryogénique"],
+    "correctIndex": 3
   },
+
   {
     "id": "q179",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui est l'inventeur du premier disque dur ?",
-    "answers": [
-      "Ken Olsen",
-      "IBM Team",
-      "Reynold Johnson",
-      "Alan Shugart"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention est à la base des capteurs de champ électrique quantique ?",
+    "answers": ["Les atomes de Rydberg", "Le voltmètre", "Le transformateur", "Le générateur"],
+    "correctIndex": 0
   },
   {
     "id": "q180",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier calculateur mécanique programmable ?",
-    "answers": [
-      "Gottfried Wilhelm Leibniz",
-      "Konrad Zuse",
-      "Charles Babbage",
-      "Blaise Pascal"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la synchronisation temporelle des expériences spatiales profondes ?",
+    "answers": ["Le serveur réseau", "Les horloges atomiques embarquées", "Le GPS", "Le radar"],
+    "correctIndex": 1
   },
+
   {
     "id": "q181",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier laser opérationnel ?",
-    "answers": [
-      "Charles Townes",
-      "Gordon Gould",
-      "Theodore Maiman",
-      "Arthur Schawlow"
-    ],
+    "text": "Quelle invention est utilisée pour analyser la matière à densité nucléaire ?",
+    "answers": ["Le microscope", "Le scanner", "Les collisions relativistes lourdes", "Le voltmètre"],
     "correctIndex": 2
   },
   {
     "id": "q182",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Stirling ?",
-    "answers": [
-      "Robert Stirling",
-      "John Ericsson",
-      "James Watt",
-      "Sadi Carnot"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la stabilisation orbitale des télescopes spatiaux géants ?",
+    "answers": ["Le GPS", "Le radar", "Le gyroscope", "Le contrôle d’attitude ultra-précis"],
+    "correctIndex": 3
   },
+
   {
     "id": "q183",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier microprocesseur commercialisé ?",
-    "answers": [
-      "Ted Hoff",
-      "Federico Faggin",
-      "Stanley Mazor",
-      "Marcian Hoff"
-    ],
+    "text": "Quelle invention est à la base de la détection cohérente des ondes gravitationnelles ?",
+    "answers": ["L’interféromètre Michelson amélioré", "Le sismographe", "Le radar", "Le lidar"],
     "correctIndex": 0
   },
   {
     "id": "q184",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a créé le premier appareil IRM clinique ?",
-    "answers": [
-      "Peter Mansfield",
-      "Damadian et Lauterbur",
-      "Paul Lauterbur",
-      "Raymond Damadian"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet la mesure précise du décalage temporel relativiste orbital ?",
+    "answers": ["Le chronomètre", "L’horloge atomique spatiale", "Le GPS", "Le spectromètre"],
+    "correctIndex": 1
   },
   {
     "id": "q185",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Wankel ?",
-    "answers": [
-      "Felix Wankel",
-      "Karl Benz",
-      "Wilhelm Maybach",
-      "Rudolf Diesel"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention est utilisée pour simuler l’évolution stellaire complète ?",
+    "answers": ["Le télescope", "Le satellite", "La simulation astrophysique numérique", "Le radar"],
+    "correctIndex": 2
   },
   {
     "id": "q186",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier calculateur mécanique programmable ?",
-    "answers": [
-      "Konrad Zuse",
-      "Gottfried Wilhelm Leibniz",
-      "Blaise Pascal",
-      "Charles Babbage"
-    ],
+    "text": "Quelle invention permet la stabilisation active des plateformes d’observation gravitationnelle ?",
+    "answers": ["Le support rigide", "Le contrepoids", "Le ressort", "Le contrôle inertiel actif"],
     "correctIndex": 3
   },
+
   {
     "id": "q187",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a conçu le premier procédé de galvanoplastie ?",
-    "answers": [
-      "Alessandro Volta",
-      "Luigi Galvani",
-      "Michael Faraday",
-      "Moritz von Jacobi"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention est à la base des capteurs optiques quantiques de phase ?",
+    "answers": ["La lumière comprimée", "Le laser classique", "La fibre optique", "Le miroir"],
+    "correctIndex": 0
   },
   {
     "id": "q188",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Wankel ?",
-    "answers": [
-      "Karl Benz",
-      "Rudolf Diesel",
-      "Wilhelm Maybach",
-      "Felix Wankel"
-    ],
-    "correctIndex": 3
+    "text": "Quelle invention permet la mesure ultra-précise des rotations terrestres instantanées ?",
+    "answers": ["Le compas", "Le gyroscope laser annulaire", "Le sismographe", "Le baromètre"],
+    "correctIndex": 1
   },
   {
     "id": "q189",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a créé le premier appareil IRM clinique ?",
-    "answers": [
-      "Paul Lauterbur",
-      "Damadian et Lauterbur",
-      "Raymond Damadian",
-      "Peter Mansfield"
-    ],
+    "text": "Quelle invention est utilisée pour l’étude des transitions de phase quantiques ?",
+    "answers": ["Le microscope", "Le scanner", "La simulation quantique expérimentale", "Le thermomètre"],
     "correctIndex": 2
   },
   {
     "id": "q190",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier calculateur mécanique programmable ?",
-    "answers": [
-      "Gottfried Wilhelm Leibniz",
-      "Blaise Pascal",
-      "Konrad Zuse",
-      "Charles Babbage"
-    ],
+    "text": "Quelle invention permet la stabilisation dynamique des systèmes de navigation spatiale autonome ?",
+    "answers": ["Le radar", "Le GPS", "Le compas", "Le contrôle autonome adaptatif"],
     "correctIndex": 3
   },
+
   {
     "id": "q191",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier microprocesseur commercialisé ?",
-    "answers": [
-      "Federico Faggin",
-      "Ted Hoff",
-      "Stanley Mazor",
-      "Marcian Hoff"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est à la base des détecteurs à transition supraconductrice (TES) ?",
+    "answers": ["La transition supraconductrice contrôlée", "La photodiode", "Le transistor", "La LED"],
+    "correctIndex": 0
   },
   {
     "id": "q192",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier calculateur mécanique programmable ?",
-    "answers": [
-      "Charles Babbage",
-      "Blaise Pascal",
-      "Gottfried Wilhelm Leibniz",
-      "Konrad Zuse"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la mesure directe de la dérive orbitale des satellites géodésiques ?",
+    "answers": ["Le radar", "La télémétrie laser spatiale", "Le GPS", "Le lidar"],
+    "correctIndex": 1
   },
+
   {
     "id": "q193",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui est l'inventeur du premier disque dur ?",
-    "answers": [
-      "Reynold Johnson",
-      "IBM Team",
-      "Alan Shugart",
-      "Ken Olsen"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention est utilisée pour simuler les champs quantiques sur réseau discret ?",
+    "answers": ["Le PC", "Le superordinateur classique", "La simulation lattice quantique", "Le calculateur analogique"],
+    "correctIndex": 2
   },
   {
     "id": "q194",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier calculateur mécanique programmable ?",
-    "answers": [
-      "Gottfried Wilhelm Leibniz",
-      "Blaise Pascal",
-      "Charles Babbage",
-      "Konrad Zuse"
-    ],
-    "correctIndex": 2
+    "text": "Quelle invention permet la stabilisation active des structures spatiales flexibles ?",
+    "answers": ["Le renfort passif", "Le contrepoids", "Le ressort", "Le contrôle structurel actif"],
+    "correctIndex": 3
   },
+
   {
     "id": "q195",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé la première fibre optique moderne ?",
-    "answers": [
-      "Charles Kao",
-      "Narinder Singh Kapany",
-      "John Tyndall",
-      "Elias Snitzer"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est à la base des capteurs quantiques de gravité portables ?",
+    "answers": ["L’interférométrie atomique", "Le gravimètre mécanique", "Le baromètre", "Le compas"],
+    "correctIndex": 0
   },
   {
     "id": "q196",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier calculateur mécanique programmable ?",
-    "answers": [
-      "Charles Babbage",
-      "Gottfried Wilhelm Leibniz",
-      "Blaise Pascal",
-      "Konrad Zuse"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la mesure ultra-précise du temps de vol relativiste ?",
+    "answers": ["Le chronomètre", "Les horloges atomiques synchronisées", "Le GPS", "Le radar"],
+    "correctIndex": 1
   },
   {
     "id": "q197",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui est l'inventeur du premier disque dur ?",
-    "answers": [
-      "Alan Shugart",
-      "Reynold Johnson",
-      "Ken Olsen",
-      "IBM Team"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est utilisée pour l’étude expérimentale de la gravité quantique ?",
+    "answers": ["Le télescope", "Le scanner", "Les simulateurs quantiques analogiques", "Le voltmètre"],
+    "correctIndex": 2
   },
   {
     "id": "q198",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui est l'inventeur du premier disque dur ?",
-    "answers": [
-      "Reynold Johnson",
-      "IBM Team",
-      "Ken Olsen",
-      "Alan Shugart"
-    ],
-    "correctIndex": 0
+    "text": "Quelle invention permet la stabilisation dynamique des constellations satellitaires autonomes ?",
+    "answers": ["Le GPS", "Le radar", "Le gyroscope", "Le contrôle coopératif distribué"],
+    "correctIndex": 3
   },
+
   {
     "id": "q199",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Wankel ?",
-    "answers": [
-      "Karl Benz",
-      "Felix Wankel",
-      "Wilhelm Maybach",
-      "Rudolf Diesel"
-    ],
-    "correctIndex": 1
+    "text": "Quelle invention est à la base des détecteurs quantiques de temps d’arrivée des photons ?",
+    "answers": ["Les détecteurs à avalanche supraconducteurs", "La photodiode classique", "Le transistor", "La LED"],
+    "correctIndex": 0
   },
   {
     "id": "q200",
     "category": "Inventions",
     "difficulty": "Extrême",
-    "text": "Quel inventeur a conçu le premier procédé de galvanoplastie ?",
-    "answers": [
-      "Luigi Galvani",
-      "Alessandro Volta",
-      "Moritz von Jacobi",
-      "Michael Faraday"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q201",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier calculateur mécanique programmable ?",
-    "answers": [
-      "Konrad Zuse",
-      "Blaise Pascal",
-      "Gottfried Wilhelm Leibniz",
-      "Charles Babbage"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q202",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé la première fibre optique moderne ?",
-    "answers": [
-      "John Tyndall",
-      "Charles Kao",
-      "Elias Snitzer",
-      "Narinder Singh Kapany"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q203",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur a conçu le premier procédé de galvanoplastie ?",
-    "answers": [
-      "Luigi Galvani",
-      "Moritz von Jacobi",
-      "Michael Faraday",
-      "Alessandro Volta"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q204",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier microprocesseur commercialisé ?",
-    "answers": [
-      "Stanley Mazor",
-      "Marcian Hoff",
-      "Federico Faggin",
-      "Ted Hoff"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q205",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui est l'inventeur du premier disque dur ?",
-    "answers": [
-      "Alan Shugart",
-      "Reynold Johnson",
-      "Ken Olsen",
-      "IBM Team"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q206",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur a conçu le premier procédé de galvanoplastie ?",
-    "answers": [
-      "Moritz von Jacobi",
-      "Michael Faraday",
-      "Alessandro Volta",
-      "Luigi Galvani"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q207",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier calculateur mécanique programmable ?",
-    "answers": [
-      "Charles Babbage",
-      "Konrad Zuse",
-      "Gottfried Wilhelm Leibniz",
-      "Blaise Pascal"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q208",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier calculateur mécanique programmable ?",
-    "answers": [
-      "Gottfried Wilhelm Leibniz",
-      "Charles Babbage",
-      "Konrad Zuse",
-      "Blaise Pascal"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q209",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Wankel ?",
-    "answers": [
-      "Wilhelm Maybach",
-      "Karl Benz",
-      "Felix Wankel",
-      "Rudolf Diesel"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q210",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé le premier laser opérationnel ?",
-    "answers": [
-      "Arthur Schawlow",
-      "Gordon Gould",
-      "Charles Townes",
-      "Theodore Maiman"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q211",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine de la première horloge atomique ?",
-    "answers": [
-      "Norman Ramsey",
-      "Isidor Rabi",
-      "Louis Essen",
-      "William Markowitz"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q212",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé le premier laser opérationnel ?",
-    "answers": [
-      "Arthur Schawlow",
-      "Charles Townes",
-      "Gordon Gould",
-      "Theodore Maiman"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q213",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur a conçu le premier procédé de galvanoplastie ?",
-    "answers": [
-      "Luigi Galvani",
-      "Moritz von Jacobi",
-      "Alessandro Volta",
-      "Michael Faraday"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q214",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur a créé le premier appareil IRM clinique ?",
-    "answers": [
-      "Peter Mansfield",
-      "Raymond Damadian",
-      "Damadian et Lauterbur",
-      "Paul Lauterbur"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q215",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur a conçu le premier procédé de galvanoplastie ?",
-    "answers": [
-      "Alessandro Volta",
-      "Luigi Galvani",
-      "Moritz von Jacobi",
-      "Michael Faraday"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q216",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui est l'inventeur du premier disque dur ?",
-    "answers": [
-      "Alan Shugart",
-      "Ken Olsen",
-      "IBM Team",
-      "Reynold Johnson"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q217",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier calculateur mécanique programmable ?",
-    "answers": [
-      "Charles Babbage",
-      "Gottfried Wilhelm Leibniz",
-      "Konrad Zuse",
-      "Blaise Pascal"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q218",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier calculateur mécanique programmable ?",
-    "answers": [
-      "Konrad Zuse",
-      "Gottfried Wilhelm Leibniz",
-      "Blaise Pascal",
-      "Charles Babbage"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q219",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier calculateur mécanique programmable ?",
-    "answers": [
-      "Gottfried Wilhelm Leibniz",
-      "Charles Babbage",
-      "Blaise Pascal",
-      "Konrad Zuse"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q220",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Stirling ?",
-    "answers": [
-      "James Watt",
-      "Robert Stirling",
-      "Sadi Carnot",
-      "John Ericsson"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q221",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé le premier laser opérationnel ?",
-    "answers": [
-      "Charles Townes",
-      "Theodore Maiman",
-      "Arthur Schawlow",
-      "Gordon Gould"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q222",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Wankel ?",
-    "answers": [
-      "Wilhelm Maybach",
-      "Felix Wankel",
-      "Karl Benz",
-      "Rudolf Diesel"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q223",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé le premier laser opérationnel ?",
-    "answers": [
-      "Arthur Schawlow",
-      "Gordon Gould",
-      "Theodore Maiman",
-      "Charles Townes"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q224",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé le premier laser opérationnel ?",
-    "answers": [
-      "Theodore Maiman",
-      "Gordon Gould",
-      "Charles Townes",
-      "Arthur Schawlow"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q225",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine de la première horloge atomique ?",
-    "answers": [
-      "Louis Essen",
-      "Isidor Rabi",
-      "Norman Ramsey",
-      "William Markowitz"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q226",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur a créé le premier appareil IRM clinique ?",
-    "answers": [
-      "Paul Lauterbur",
-      "Raymond Damadian",
-      "Damadian et Lauterbur",
-      "Peter Mansfield"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q227",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur a créé le premier appareil IRM clinique ?",
-    "answers": [
-      "Paul Lauterbur",
-      "Raymond Damadian",
-      "Damadian et Lauterbur",
-      "Peter Mansfield"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q228",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé la première fibre optique moderne ?",
-    "answers": [
-      "Narinder Singh Kapany",
-      "John Tyndall",
-      "Charles Kao",
-      "Elias Snitzer"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q229",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier calculateur mécanique programmable ?",
-    "answers": [
-      "Charles Babbage",
-      "Blaise Pascal",
-      "Gottfried Wilhelm Leibniz",
-      "Konrad Zuse"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q230",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine de la première horloge atomique ?",
-    "answers": [
-      "William Markowitz",
-      "Norman Ramsey",
-      "Isidor Rabi",
-      "Louis Essen"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q231",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur a conçu le premier procédé de galvanoplastie ?",
-    "answers": [
-      "Moritz von Jacobi",
-      "Alessandro Volta",
-      "Luigi Galvani",
-      "Michael Faraday"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q232",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine de la première horloge atomique ?",
-    "answers": [
-      "William Markowitz",
-      "Norman Ramsey",
-      "Louis Essen",
-      "Isidor Rabi"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q233",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui est l'inventeur du premier disque dur ?",
-    "answers": [
-      "Reynold Johnson",
-      "Alan Shugart",
-      "IBM Team",
-      "Ken Olsen"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q234",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé la première fibre optique moderne ?",
-    "answers": [
-      "Elias Snitzer",
-      "Narinder Singh Kapany",
-      "John Tyndall",
-      "Charles Kao"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q235",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur a conçu le premier procédé de galvanoplastie ?",
-    "answers": [
-      "Alessandro Volta",
-      "Luigi Galvani",
-      "Michael Faraday",
-      "Moritz von Jacobi"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q236",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur a créé le premier appareil IRM clinique ?",
-    "answers": [
-      "Raymond Damadian",
-      "Damadian et Lauterbur",
-      "Peter Mansfield",
-      "Paul Lauterbur"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q237",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Stirling ?",
-    "answers": [
-      "John Ericsson",
-      "Robert Stirling",
-      "James Watt",
-      "Sadi Carnot"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q238",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur a créé le premier appareil IRM clinique ?",
-    "answers": [
-      "Raymond Damadian",
-      "Damadian et Lauterbur",
-      "Peter Mansfield",
-      "Paul Lauterbur"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q239",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier calculateur mécanique programmable ?",
-    "answers": [
-      "Gottfried Wilhelm Leibniz",
-      "Blaise Pascal",
-      "Konrad Zuse",
-      "Charles Babbage"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q240",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Stirling ?",
-    "answers": [
-      "Sadi Carnot",
-      "Robert Stirling",
-      "John Ericsson",
-      "James Watt"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q241",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Stirling ?",
-    "answers": [
-      "Sadi Carnot",
-      "Robert Stirling",
-      "James Watt",
-      "John Ericsson"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q242",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé le premier laser opérationnel ?",
-    "answers": [
-      "Charles Townes",
-      "Theodore Maiman",
-      "Arthur Schawlow",
-      "Gordon Gould"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q243",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier microprocesseur commercialisé ?",
-    "answers": [
-      "Marcian Hoff",
-      "Stanley Mazor",
-      "Ted Hoff",
-      "Federico Faggin"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q244",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Wankel ?",
-    "answers": [
-      "Felix Wankel",
-      "Wilhelm Maybach",
-      "Rudolf Diesel",
-      "Karl Benz"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q245",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier microprocesseur commercialisé ?",
-    "answers": [
-      "Federico Faggin",
-      "Stanley Mazor",
-      "Marcian Hoff",
-      "Ted Hoff"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q246",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier calculateur mécanique programmable ?",
-    "answers": [
-      "Konrad Zuse",
-      "Charles Babbage",
-      "Gottfried Wilhelm Leibniz",
-      "Blaise Pascal"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q247",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Stirling ?",
-    "answers": [
-      "Sadi Carnot",
-      "John Ericsson",
-      "James Watt",
-      "Robert Stirling"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q248",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Wankel ?",
-    "answers": [
-      "Felix Wankel",
-      "Karl Benz",
-      "Wilhelm Maybach",
-      "Rudolf Diesel"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q249",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé la première fibre optique moderne ?",
-    "answers": [
-      "Narinder Singh Kapany",
-      "Charles Kao",
-      "Elias Snitzer",
-      "John Tyndall"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q250",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui est l'inventeur du premier disque dur ?",
-    "answers": [
-      "Ken Olsen",
-      "IBM Team",
-      "Reynold Johnson",
-      "Alan Shugart"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q251",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur a conçu le premier procédé de galvanoplastie ?",
-    "answers": [
-      "Michael Faraday",
-      "Alessandro Volta",
-      "Moritz von Jacobi",
-      "Luigi Galvani"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q252",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Stirling ?",
-    "answers": [
-      "Sadi Carnot",
-      "Robert Stirling",
-      "John Ericsson",
-      "James Watt"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q253",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier calculateur mécanique programmable ?",
-    "answers": [
-      "Konrad Zuse",
-      "Charles Babbage",
-      "Gottfried Wilhelm Leibniz",
-      "Blaise Pascal"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q254",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur a conçu le premier procédé de galvanoplastie ?",
-    "answers": [
-      "Michael Faraday",
-      "Alessandro Volta",
-      "Luigi Galvani",
-      "Moritz von Jacobi"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q255",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur a créé le premier appareil IRM clinique ?",
-    "answers": [
-      "Damadian et Lauterbur",
-      "Raymond Damadian",
-      "Paul Lauterbur",
-      "Peter Mansfield"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q256",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Stirling ?",
-    "answers": [
-      "Robert Stirling",
-      "Sadi Carnot",
-      "James Watt",
-      "John Ericsson"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q257",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui est l'inventeur du premier disque dur ?",
-    "answers": [
-      "Alan Shugart",
-      "Reynold Johnson",
-      "Ken Olsen",
-      "IBM Team"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q258",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui est l'inventeur du premier disque dur ?",
-    "answers": [
-      "Reynold Johnson",
-      "Alan Shugart",
-      "Ken Olsen",
-      "IBM Team"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q259",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé le premier laser opérationnel ?",
-    "answers": [
-      "Theodore Maiman",
-      "Charles Townes",
-      "Arthur Schawlow",
-      "Gordon Gould"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q260",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Wankel ?",
-    "answers": [
-      "Wilhelm Maybach",
-      "Karl Benz",
-      "Felix Wankel",
-      "Rudolf Diesel"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q261",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier calculateur mécanique programmable ?",
-    "answers": [
-      "Konrad Zuse",
-      "Blaise Pascal",
-      "Gottfried Wilhelm Leibniz",
-      "Charles Babbage"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q262",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé la première fibre optique moderne ?",
-    "answers": [
-      "Elias Snitzer",
-      "Narinder Singh Kapany",
-      "John Tyndall",
-      "Charles Kao"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q263",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé la première fibre optique moderne ?",
-    "answers": [
-      "Charles Kao",
-      "John Tyndall",
-      "Narinder Singh Kapany",
-      "Elias Snitzer"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q264",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier microprocesseur commercialisé ?",
-    "answers": [
-      "Federico Faggin",
-      "Marcian Hoff",
-      "Stanley Mazor",
-      "Ted Hoff"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q265",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui est l'inventeur du premier disque dur ?",
-    "answers": [
-      "Ken Olsen",
-      "Alan Shugart",
-      "IBM Team",
-      "Reynold Johnson"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q266",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Stirling ?",
-    "answers": [
-      "James Watt",
-      "Robert Stirling",
-      "Sadi Carnot",
-      "John Ericsson"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q267",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé le premier laser opérationnel ?",
-    "answers": [
-      "Charles Townes",
-      "Arthur Schawlow",
-      "Gordon Gould",
-      "Theodore Maiman"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q268",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur a conçu le premier procédé de galvanoplastie ?",
-    "answers": [
-      "Michael Faraday",
-      "Moritz von Jacobi",
-      "Alessandro Volta",
-      "Luigi Galvani"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q269",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui est l'inventeur du premier disque dur ?",
-    "answers": [
-      "Ken Olsen",
-      "Alan Shugart",
-      "Reynold Johnson",
-      "IBM Team"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q270",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé le premier laser opérationnel ?",
-    "answers": [
-      "Gordon Gould",
-      "Charles Townes",
-      "Arthur Schawlow",
-      "Theodore Maiman"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q271",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Wankel ?",
-    "answers": [
-      "Wilhelm Maybach",
-      "Rudolf Diesel",
-      "Felix Wankel",
-      "Karl Benz"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q272",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Wankel ?",
-    "answers": [
-      "Rudolf Diesel",
-      "Wilhelm Maybach",
-      "Felix Wankel",
-      "Karl Benz"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q273",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine de la première horloge atomique ?",
-    "answers": [
-      "Louis Essen",
-      "William Markowitz",
-      "Norman Ramsey",
-      "Isidor Rabi"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q274",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui est l'inventeur du premier disque dur ?",
-    "answers": [
-      "Reynold Johnson",
-      "Ken Olsen",
-      "IBM Team",
-      "Alan Shugart"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q275",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé le premier laser opérationnel ?",
-    "answers": [
-      "Charles Townes",
-      "Arthur Schawlow",
-      "Gordon Gould",
-      "Theodore Maiman"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q276",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine de la première horloge atomique ?",
-    "answers": [
-      "Louis Essen",
-      "Norman Ramsey",
-      "William Markowitz",
-      "Isidor Rabi"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q277",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Stirling ?",
-    "answers": [
-      "John Ericsson",
-      "Sadi Carnot",
-      "Robert Stirling",
-      "James Watt"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q278",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier calculateur mécanique programmable ?",
-    "answers": [
-      "Konrad Zuse",
-      "Charles Babbage",
-      "Blaise Pascal",
-      "Gottfried Wilhelm Leibniz"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q279",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur a créé le premier appareil IRM clinique ?",
-    "answers": [
-      "Raymond Damadian",
-      "Paul Lauterbur",
-      "Peter Mansfield",
-      "Damadian et Lauterbur"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q280",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui est l'inventeur du premier disque dur ?",
-    "answers": [
-      "IBM Team",
-      "Ken Olsen",
-      "Alan Shugart",
-      "Reynold Johnson"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q281",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Stirling ?",
-    "answers": [
-      "Robert Stirling",
-      "John Ericsson",
-      "James Watt",
-      "Sadi Carnot"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q282",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé la première fibre optique moderne ?",
-    "answers": [
-      "John Tyndall",
-      "Narinder Singh Kapany",
-      "Elias Snitzer",
-      "Charles Kao"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q283",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Wankel ?",
-    "answers": [
-      "Wilhelm Maybach",
-      "Rudolf Diesel",
-      "Karl Benz",
-      "Felix Wankel"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q284",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur a conçu le premier procédé de galvanoplastie ?",
-    "answers": [
-      "Alessandro Volta",
-      "Michael Faraday",
-      "Luigi Galvani",
-      "Moritz von Jacobi"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q285",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur a créé le premier appareil IRM clinique ?",
-    "answers": [
-      "Peter Mansfield",
-      "Damadian et Lauterbur",
-      "Raymond Damadian",
-      "Paul Lauterbur"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q286",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Stirling ?",
-    "answers": [
-      "James Watt",
-      "Sadi Carnot",
-      "John Ericsson",
-      "Robert Stirling"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q287",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé le premier laser opérationnel ?",
-    "answers": [
-      "Gordon Gould",
-      "Theodore Maiman",
-      "Charles Townes",
-      "Arthur Schawlow"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q288",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur a conçu le premier procédé de galvanoplastie ?",
-    "answers": [
-      "Moritz von Jacobi",
-      "Alessandro Volta",
-      "Luigi Galvani",
-      "Michael Faraday"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q289",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé le premier laser opérationnel ?",
-    "answers": [
-      "Gordon Gould",
-      "Charles Townes",
-      "Theodore Maiman",
-      "Arthur Schawlow"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q290",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier microprocesseur commercialisé ?",
-    "answers": [
-      "Ted Hoff",
-      "Federico Faggin",
-      "Stanley Mazor",
-      "Marcian Hoff"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q291",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur a créé le premier appareil IRM clinique ?",
-    "answers": [
-      "Damadian et Lauterbur",
-      "Paul Lauterbur",
-      "Peter Mansfield",
-      "Raymond Damadian"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q292",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier calculateur mécanique programmable ?",
-    "answers": [
-      "Konrad Zuse",
-      "Charles Babbage",
-      "Gottfried Wilhelm Leibniz",
-      "Blaise Pascal"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q293",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur a conçu le premier procédé de galvanoplastie ?",
-    "answers": [
-      "Michael Faraday",
-      "Moritz von Jacobi",
-      "Alessandro Volta",
-      "Luigi Galvani"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q294",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Stirling ?",
-    "answers": [
-      "John Ericsson",
-      "James Watt",
-      "Robert Stirling",
-      "Sadi Carnot"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q295",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine de la première horloge atomique ?",
-    "answers": [
-      "William Markowitz",
-      "Isidor Rabi",
-      "Louis Essen",
-      "Norman Ramsey"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q296",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine de la première horloge atomique ?",
-    "answers": [
-      "Isidor Rabi",
-      "Louis Essen",
-      "Norman Ramsey",
-      "William Markowitz"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q297",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur est à l'origine du premier calculateur mécanique programmable ?",
-    "answers": [
-      "Gottfried Wilhelm Leibniz",
-      "Konrad Zuse",
-      "Charles Babbage",
-      "Blaise Pascal"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q298",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Quel inventeur a créé le premier appareil IRM clinique ?",
-    "answers": [
-      "Paul Lauterbur",
-      "Raymond Damadian",
-      "Damadian et Lauterbur",
-      "Peter Mansfield"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q299",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé le premier moteur Wankel ?",
-    "answers": [
-      "Felix Wankel",
-      "Wilhelm Maybach",
-      "Karl Benz",
-      "Rudolf Diesel"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q300",
-    "category": "Inventions",
-    "difficulty": "Extrême",
-    "text": "Qui a inventé le premier laser opérationnel ?",
-    "answers": [
-      "Charles Townes",
-      "Gordon Gould",
-      "Arthur Schawlow",
-      "Theodore Maiman"
-    ],
+    "text": "Quelle invention permet la synchronisation ultime des expériences de métrologie fondamentale mondiale ?",
+    "answers": ["Le serveur réseau", "Le GPS", "La fibre optique", "Les horloges optiques intercomparées"],
     "correctIndex": 3
   }
 ]
