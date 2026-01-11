@@ -3,3900 +3,1659 @@
     "id": "q1",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel animal accompagne souvent la sorcière dans les contes ?",
-    "answers": [
-      "Corbeau",
-      "Chien",
-      "Chouette",
-      "Chat noir"
-    ],
-    "correctIndex": 3
+    "text": "Quel roi légendaire est associé à l’épée Excalibur ?",
+    "answers": ["Le roi Arthur", "Charlemagne", "Ulysse", "Alexandre le Grand"],
+    "correctIndex": 0
   },
   {
     "id": "q2",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel est le nom du marteau de Thor ?",
-    "answers": [
-      "Gram",
-      "Andúril",
-      "Mjöllnir",
-      "Gungnir"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal mythique renaît de ses cendres ?",
+    "answers": ["Le dragon", "Le phénix", "Le griffon", "La licorne"],
+    "correctIndex": 1
   },
   {
     "id": "q3",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel roi britannique est associé à la légende d'Excalibur ?",
-    "answers": [
-      "Arthur",
-      "Henri",
-      "Richard",
-      "Édouard"
-    ],
-    "correctIndex": 0
+    "text": "Quel héros grec a accompli les douze travaux ?",
+    "answers": ["Persée", "Achille", "Héraclès", "Thésée"],
+    "correctIndex": 2
   },
   {
     "id": "q4",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Dans quelle ville se déroulent les aventures de Robin des Bois ?",
-    "answers": [
-      "Nottingham",
-      "York",
-      "Canterbury",
-      "Londres"
-    ],
-    "correctIndex": 0
+    "text": "Quelle créature mythique est mi-homme mi-taureau ?",
+    "answers": ["Le centaure", "Le cyclope", "Le satyre", "Le minotaure"],
+    "correctIndex": 3
   },
+
   {
     "id": "q5",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel géant biblique est vaincu par David ?",
-    "answers": [
-      "Og",
-      "Nephilim",
-      "Anak",
-      "Goliath"
-    ],
-    "correctIndex": 3
+    "text": "Quel enchanteur est souvent présenté comme le conseiller du roi Arthur ?",
+    "answers": ["Merlin", "Gauvain", "Mordred", "Perceval"],
+    "correctIndex": 0
   },
   {
     "id": "q6",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel dragon est terrassé par Saint Georges ?",
-    "answers": [
-      "Basilic",
-      "Dragon",
-      "Wyvern",
-      "Serpent"
-    ],
+    "text": "Quel objet sacré est recherché par les chevaliers de la Table ronde ?",
+    "answers": ["Excalibur", "Le Graal", "La Toison d’or", "Le Trident"],
     "correctIndex": 1
   },
   {
     "id": "q7",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel animal accompagne souvent la sorcière dans les contes ?",
-    "answers": [
-      "Corbeau",
-      "Chouette",
-      "Chat noir",
-      "Chien"
-    ],
+    "text": "Quel héros grec est roi d’Ithaque dans l’Odyssée ?",
+    "answers": ["Hector", "Jason", "Ulysse", "Orphée"],
     "correctIndex": 2
   },
   {
     "id": "q8",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel est le nom du marteau de Thor ?",
-    "answers": [
-      "Gungnir",
-      "Gram",
-      "Mjöllnir",
-      "Andúril"
-    ],
-    "correctIndex": 2
+    "text": "Quelle créature mythique pose des énigmes aux voyageurs à Thèbes ?",
+    "answers": ["La chimère", "La gorgone", "Le griffon", "Le sphinx"],
+    "correctIndex": 3
   },
+
   {
     "id": "q9",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel dragon est terrassé par Saint Georges ?",
-    "answers": [
-      "Serpent",
-      "Wyvern",
-      "Basilic",
-      "Dragon"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros a vaincu le Minotaure dans le labyrinthe ?",
+    "answers": ["Thésée", "Héraclès", "Persée", "Ulysse"],
+    "correctIndex": 0
   },
   {
     "id": "q10",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel héros troyen est tué par Achille ?",
-    "answers": [
-      "Pâris",
-      "Énée",
-      "Priam",
-      "Hector"
-    ],
-    "correctIndex": 3
+    "text": "Dans la mythologie nordique, quel dieu manie le marteau Mjöllnir ?",
+    "answers": ["Odin", "Thor", "Loki", "Freyr"],
+    "correctIndex": 1
   },
   {
     "id": "q11",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel roi britannique est associé à la légende d'Excalibur ?",
-    "answers": [
-      "Arthur",
-      "Richard",
-      "Henri",
-      "Édouard"
-    ],
-    "correctIndex": 0
+    "text": "Quel héros grec a décapité la Méduse ?",
+    "answers": ["Héraclès", "Thésée", "Persée", "Achille"],
+    "correctIndex": 2
   },
   {
     "id": "q12",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quelle créature a une tête de lion, un corps de chèvre et une queue de serpent ?",
-    "answers": [
-      "Manticores",
-      "Chimère",
-      "Hydre",
-      "Sphinx"
-    ],
-    "correctIndex": 1
+    "text": "Quelle créature mythique n’a qu’un seul œil ?",
+    "answers": ["Le géant", "Le minotaure", "Le griffon", "Le cyclope"],
+    "correctIndex": 3
   },
+
   {
     "id": "q13",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel animal accompagne souvent la sorcière dans les contes ?",
-    "answers": [
-      "Chat noir",
-      "Corbeau",
-      "Chien",
-      "Chouette"
-    ],
+    "text": "Quel personnage légendaire vole aux riches pour donner aux pauvres ?",
+    "answers": ["Robin des Bois", "Merlin", "Arthur", "Tristan"],
     "correctIndex": 0
   },
   {
     "id": "q14",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Dans quelle ville se déroulent les aventures de Robin des Bois ?",
-    "answers": [
-      "Londres",
-      "Nottingham",
-      "York",
-      "Canterbury"
-    ],
+    "text": "Quel cheval ailé appartient à la mythologie grecque ?",
+    "answers": ["Bucéphale", "Pégase", "Sleipnir", "Arion"],
     "correctIndex": 1
   },
   {
     "id": "q15",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Artémis",
-      "Héra",
-      "Athéna",
-      "Aphrodite"
-    ],
+    "text": "Quel héros grec est célèbre pour son talon vulnérable ?",
+    "answers": ["Hector", "Ajax", "Achille", "Orphée"],
     "correctIndex": 2
   },
   {
     "id": "q16",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Dans quelle ville se déroulent les aventures de Robin des Bois ?",
-    "answers": [
-      "York",
-      "Nottingham",
-      "Canterbury",
-      "Londres"
-    ],
-    "correctIndex": 1
+    "text": "Quelle créature mythique attire les marins par son chant ?",
+    "answers": ["La nymphe", "La harpie", "La gorgone", "La sirène"],
+    "correctIndex": 3
   },
+
   {
     "id": "q17",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Aphrodite",
-      "Athéna",
-      "Héra",
-      "Artémis"
-    ],
-    "correctIndex": 1
+    "text": "Quel royaume légendaire est souvent associé au roi Arthur ?",
+    "answers": ["Camelot", "Troie", "Atlantide", "Ithaque"],
+    "correctIndex": 0
   },
   {
     "id": "q18",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel est le nom du marteau de Thor ?",
-    "answers": [
-      "Mjöllnir",
-      "Gungnir",
-      "Andúril",
-      "Gram"
-    ],
-    "correctIndex": 0
+    "text": "Quelle cité légendaire serait engloutie sous la mer ?",
+    "answers": ["Delphes", "Atlantide", "Babylone", "Mycènes"],
+    "correctIndex": 1
   },
   {
     "id": "q19",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel héros troyen est tué par Achille ?",
-    "answers": [
-      "Énée",
-      "Hector",
-      "Priam",
-      "Pâris"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros a conduit les Argonautes à la recherche de la Toison d’or ?",
+    "answers": ["Ulysse", "Persée", "Jason", "Héraclès"],
+    "correctIndex": 2
   },
   {
     "id": "q20",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Athéna",
-      "Héra",
-      "Artémis",
-      "Aphrodite"
-    ],
-    "correctIndex": 0
+    "text": "Quelle créature mythique est mi-homme mi-cheval ?",
+    "answers": ["Le satyre", "Le cyclope", "Le minotaure", "Le centaure"],
+    "correctIndex": 3
   },
+
   {
     "id": "q21",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quelle créature a une tête de lion, un corps de chèvre et une queue de serpent ?",
-    "answers": [
-      "Chimère",
-      "Manticores",
-      "Hydre",
-      "Sphinx"
-    ],
+    "text": "Quel chevalier est souvent présenté comme l’amant de la reine Guenièvre ?",
+    "answers": ["Lancelot", "Gauvain", "Perceval", "Galahad"],
     "correctIndex": 0
   },
   {
     "id": "q22",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel roi britannique est associé à la légende d'Excalibur ?",
-    "answers": [
-      "Édouard",
-      "Richard",
-      "Henri",
-      "Arthur"
-    ],
-    "correctIndex": 3
+    "text": "Dans la mythologie nordique, quel dieu est souvent appelé le “Père de tous” ?",
+    "answers": ["Thor", "Odin", "Loki", "Tyr"],
+    "correctIndex": 1
   },
   {
     "id": "q23",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Athéna",
-      "Héra",
-      "Artémis",
-      "Aphrodite"
-    ],
-    "correctIndex": 0
+    "text": "Quel héros grec a affronté le cyclope Polyphème ?",
+    "answers": ["Jason", "Achille", "Ulysse", "Thésée"],
+    "correctIndex": 2
   },
   {
     "id": "q24",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel est le nom du marteau de Thor ?",
-    "answers": [
-      "Gram",
-      "Andúril",
-      "Mjöllnir",
-      "Gungnir"
-    ],
-    "correctIndex": 2
+    "text": "Quelle créature mythique a un corps de lion et des ailes d’aigle ?",
+    "answers": ["La chimère", "Le dragon", "Le sphinx", "Le griffon"],
+    "correctIndex": 3
   },
+
   {
     "id": "q25",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel roi britannique est associé à la légende d'Excalibur ?",
-    "answers": [
-      "Édouard",
-      "Arthur",
-      "Richard",
-      "Henri"
-    ],
-    "correctIndex": 1
+    "text": "Quel dieu égyptien a une tête de chacal et est lié à l’embaumement ?",
+    "answers": ["Anubis", "Rê", "Horus", "Osiris"],
+    "correctIndex": 0
   },
   {
     "id": "q26",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quelle créature a une tête de lion, un corps de chèvre et une queue de serpent ?",
-    "answers": [
-      "Sphinx",
-      "Manticores",
-      "Hydre",
-      "Chimère"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal mythique ressemble à un cheval avec une corne ?",
+    "answers": ["Le pégase", "La licorne", "Le griffon", "Le centaure"],
+    "correctIndex": 1
   },
   {
     "id": "q27",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel dragon est terrassé par Saint Georges ?",
-    "answers": [
-      "Basilic",
-      "Dragon",
-      "Serpent",
-      "Wyvern"
-    ],
-    "correctIndex": 1
+    "text": "Quel personnage mythologique descend aux Enfers pour sauver Eurydice ?",
+    "answers": ["Thésée", "Ulysse", "Orphée", "Persée"],
+    "correctIndex": 2
   },
   {
     "id": "q28",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel animal accompagne souvent la sorcière dans les contes ?",
-    "answers": [
-      "Chouette",
-      "Chat noir",
-      "Corbeau",
-      "Chien"
-    ],
-    "correctIndex": 1
+    "text": "Quelle créature mythique est un chien à plusieurs têtes gardant les Enfers ?",
+    "answers": ["Fenrir", "Anubis", "Orthros", "Cerbère"],
+    "correctIndex": 3
   },
+
   {
     "id": "q29",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel géant biblique est vaincu par David ?",
-    "answers": [
-      "Goliath",
-      "Og",
-      "Nephilim",
-      "Anak"
-    ],
+    "text": "Quel être mythique est souvent représenté comme une petite créature farceuse ?",
+    "answers": ["Le lutin", "Le géant", "Le sphinx", "Le dragon"],
     "correctIndex": 0
   },
   {
     "id": "q30",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Dans quelle ville se déroulent les aventures de Robin des Bois ?",
-    "answers": [
-      "Londres",
-      "York",
-      "Nottingham",
-      "Canterbury"
-    ],
-    "correctIndex": 2
+    "text": "Dans les légendes, quel être vit souvent sous un pont et exige un péage ?",
+    "answers": ["Le gobelin", "Le troll", "Le nain", "Le centaure"],
+    "correctIndex": 1
   },
   {
     "id": "q31",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Aphrodite",
-      "Athéna",
-      "Héra",
-      "Artémis"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec a ramené Cerbère des Enfers ?",
+    "answers": ["Jason", "Thésée", "Héraclès", "Ulysse"],
+    "correctIndex": 2
   },
   {
     "id": "q32",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Athéna",
-      "Aphrodite",
-      "Artémis",
-      "Héra"
-    ],
-    "correctIndex": 0
+    "text": "Quelle créature mythique est mi-homme mi-chèvre ?",
+    "answers": ["Le centaure", "Le griffon", "Le minotaure", "Le satyre"],
+    "correctIndex": 3
   },
+
   {
     "id": "q33",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel roi britannique est associé à la légende d'Excalibur ?",
-    "answers": [
-      "Édouard",
-      "Richard",
-      "Arthur",
-      "Henri"
-    ],
-    "correctIndex": 2
+    "text": "Quel dieu nordique est célèbre pour sa ruse et ses mauvais tours ?",
+    "answers": ["Loki", "Odin", "Thor", "Baldr"],
+    "correctIndex": 0
   },
   {
     "id": "q34",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel dragon est terrassé par Saint Georges ?",
-    "answers": [
-      "Serpent",
-      "Basilic",
-      "Dragon",
-      "Wyvern"
-    ],
-    "correctIndex": 2
+    "text": "Quel être mythique irlandais est associé à un pot d’or ?",
+    "answers": ["Le troll", "Le leprechaun", "Le nain", "Le gobelin"],
+    "correctIndex": 1
   },
   {
     "id": "q35",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel héros grec a vaincu le Minotaure ?",
-    "answers": [
-      "Héraclès",
-      "Achille",
-      "Thésée",
-      "Persée"
-    ],
+    "text": "Quel héros a été rendu invulnérable sauf à un endroit, selon la légende ?",
+    "answers": ["Héraclès", "Persée", "Achille", "Ulysse"],
     "correctIndex": 2
   },
   {
     "id": "q36",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel héros grec a vaincu le Minotaure ?",
-    "answers": [
-      "Persée",
-      "Achille",
-      "Thésée",
-      "Héraclès"
-    ],
-    "correctIndex": 2
+    "text": "Quelle créature mythique a des cheveux de serpents et pétrifie du regard ?",
+    "answers": ["La harpie", "La chimère", "La sirène", "La Méduse"],
+    "correctIndex": 3
   },
+
   {
     "id": "q37",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel animal accompagne souvent la sorcière dans les contes ?",
-    "answers": [
-      "Corbeau",
-      "Chien",
-      "Chat noir",
-      "Chouette"
-    ],
-    "correctIndex": 2
+    "text": "Quel dieu égyptien est souvent représenté avec une tête de faucon ?",
+    "answers": ["Horus", "Anubis", "Rê", "Seth"],
+    "correctIndex": 0
   },
   {
     "id": "q38",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Aphrodite",
-      "Athéna",
-      "Artémis",
-      "Héra"
-    ],
+    "text": "Quelle créature mythique est un loup géant de la mythologie nordique ?",
+    "answers": ["Cerbère", "Fenrir", "Sleipnir", "Jörmungandr"],
     "correctIndex": 1
   },
   {
     "id": "q39",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel héros grec a vaincu le Minotaure ?",
-    "answers": [
-      "Achille",
-      "Persée",
-      "Thésée",
-      "Héraclès"
-    ],
+    "text": "Quel monstre marin entoure le monde dans la mythologie nordique ?",
+    "answers": ["Hydre", "Scylla", "Jörmungandr", "Kraken"],
     "correctIndex": 2
   },
   {
     "id": "q40",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quelle créature a une tête de lion, un corps de chèvre et une queue de serpent ?",
-    "answers": [
-      "Manticores",
-      "Sphinx",
-      "Hydre",
-      "Chimère"
-    ],
+    "text": "Quel cheval à huit pattes appartient à la mythologie nordique ?",
+    "answers": ["Pégase", "Arion", "Bucéphale", "Sleipnir"],
     "correctIndex": 3
   },
+
   {
     "id": "q41",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel animal accompagne souvent la sorcière dans les contes ?",
-    "answers": [
-      "Chat noir",
-      "Chien",
-      "Chouette",
-      "Corbeau"
-    ],
+    "text": "Quel objet magique sert à se rendre invisible dans de nombreuses légendes ?",
+    "answers": ["Une cape d’invisibilité", "Une épée de feu", "Un bouclier d’or", "Une couronne sacrée"],
     "correctIndex": 0
   },
   {
     "id": "q42",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel géant biblique est vaincu par David ?",
-    "answers": [
-      "Goliath",
-      "Og",
-      "Nephilim",
-      "Anak"
-    ],
-    "correctIndex": 0
+    "text": "Quel monstre grec possède plusieurs têtes et repousse lorsqu’on les coupe ?",
+    "answers": ["Le minotaure", "L’hydre de Lerne", "Le cyclope", "Le sphinx"],
+    "correctIndex": 1
   },
   {
     "id": "q43",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Artémis",
-      "Aphrodite",
-      "Héra",
-      "Athéna"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est connu pour sa force extraordinaire ?",
+    "answers": ["Ulysse", "Jason", "Héraclès", "Orphée"],
+    "correctIndex": 2
   },
   {
     "id": "q44",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel géant biblique est vaincu par David ?",
-    "answers": [
-      "Og",
-      "Goliath",
-      "Anak",
-      "Nephilim"
-    ],
-    "correctIndex": 1
+    "text": "Quelle créature mythique est un serpent ou dragon marin géant des récits ?",
+    "answers": ["Le griffon", "Le satyre", "Le centaure", "Le kraken"],
+    "correctIndex": 3
   },
+
   {
     "id": "q45",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Aphrodite",
-      "Artémis",
-      "Athéna",
-      "Héra"
-    ],
-    "correctIndex": 2
+    "text": "Quel lieu mythologique est la demeure des dieux grecs ?",
+    "answers": ["L’Olympe", "Le Tartare", "L’Atlantide", "Le Valhalla"],
+    "correctIndex": 0
   },
   {
     "id": "q46",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Dans quelle ville se déroulent les aventures de Robin des Bois ?",
-    "answers": [
-      "York",
-      "Londres",
-      "Canterbury",
-      "Nottingham"
-    ],
-    "correctIndex": 3
+    "text": "Dans la mythologie nordique, comment s’appelle le “paradis” des guerriers ?",
+    "answers": ["Elysée", "Valhalla", "Olympe", "Avalon"],
+    "correctIndex": 1
   },
   {
     "id": "q47",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Dans quelle ville se déroulent les aventures de Robin des Bois ?",
-    "answers": [
-      "York",
-      "Londres",
-      "Nottingham",
-      "Canterbury"
-    ],
+    "text": "Quel héros grec est réputé pour sa ruse plus que pour sa force ?",
+    "answers": ["Achille", "Héraclès", "Ulysse", "Persée"],
     "correctIndex": 2
   },
   {
     "id": "q48",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel est le nom du marteau de Thor ?",
-    "answers": [
-      "Mjöllnir",
-      "Gungnir",
-      "Gram",
-      "Andúril"
-    ],
-    "correctIndex": 0
+    "text": "Quel lieu légendaire est associé à l’île des fées dans le cycle arthurien ?",
+    "answers": ["Camelot", "Tintagel", "Ithaque", "Avalon"],
+    "correctIndex": 3
   },
+
   {
     "id": "q49",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Dans quelle ville se déroulent les aventures de Robin des Bois ?",
-    "answers": [
-      "York",
-      "Canterbury",
-      "Nottingham",
-      "Londres"
-    ],
-    "correctIndex": 2
+    "text": "Quel être mythique est souvent représenté comme un dragon cracheur de feu ?",
+    "answers": ["Le dragon", "Le phénix", "La licorne", "Le sphinx"],
+    "correctIndex": 0
   },
   {
     "id": "q50",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel roi britannique est associé à la légende d'Excalibur ?",
-    "answers": [
-      "Richard",
-      "Édouard",
-      "Henri",
-      "Arthur"
-    ],
-    "correctIndex": 3
+    "text": "Dans les légendes médiévales, quel animal symbolise souvent la pureté ?",
+    "answers": ["Le corbeau", "La licorne", "Le dragon", "Le loup"],
+    "correctIndex": 1
   },
   {
     "id": "q51",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel héros troyen est tué par Achille ?",
-    "answers": [
-      "Hector",
-      "Pâris",
-      "Énée",
-      "Priam"
-    ],
+    "text": "Quel héros grec a volé le feu aux dieux pour le donner aux humains ?",
+    "answers": ["Prométhée", "Hermès", "Apollon", "Arès"],
     "correctIndex": 0
   },
   {
     "id": "q52",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel héros grec a vaincu le Minotaure ?",
-    "answers": [
-      "Achille",
-      "Thésée",
-      "Héraclès",
-      "Persée"
-    ],
+    "text": "Quel personnage grec est condamné à pousser éternellement un rocher en haut d’une montagne ?",
+    "answers": ["Tantale", "Sisyphe", "Orphée", "Icare"],
     "correctIndex": 1
   },
   {
     "id": "q53",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel roi britannique est associé à la légende d'Excalibur ?",
-    "answers": [
-      "Henri",
-      "Arthur",
-      "Édouard",
-      "Richard"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec s’est approché trop près du Soleil avec des ailes de cire ?",
+    "answers": ["Dédale", "Phaéton", "Icare", "Énée"],
+    "correctIndex": 2
   },
   {
     "id": "q54",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel animal accompagne souvent la sorcière dans les contes ?",
-    "answers": [
-      "Corbeau",
-      "Chien",
-      "Chat noir",
-      "Chouette"
-    ],
-    "correctIndex": 2
+    "text": "Quelle créature mythique a un corps de chèvre, une tête de lion et une queue de serpent ?",
+    "answers": ["Le griffon", "Le sphinx", "L’hydre", "La chimère"],
+    "correctIndex": 3
   },
+
   {
     "id": "q55",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel animal accompagne souvent la sorcière dans les contes ?",
-    "answers": [
-      "Chien",
-      "Corbeau",
-      "Chat noir",
-      "Chouette"
-    ],
-    "correctIndex": 2
+    "text": "Quel personnage est un nain forgeron célèbre dans plusieurs mythes européens ?",
+    "answers": ["Wayland (Völundr)", "Merlin", "Tristan", "Gauvain"],
+    "correctIndex": 0
   },
   {
     "id": "q56",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Aphrodite",
-      "Héra",
-      "Athéna",
-      "Artémis"
-    ],
-    "correctIndex": 2
+    "text": "Dans les légendes nordiques, quel arbre relie les mondes ?",
+    "answers": ["Yggdrasil", "Yggdrasil", "Bifröst", "Mímir"],
+    "correctIndex": 1
   },
   {
     "id": "q57",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Aphrodite",
-      "Athéna",
-      "Héra",
-      "Artémis"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros de la guerre de Troie est le prince troyen le plus célèbre ?",
+    "answers": ["Achille", "Ajax", "Hector", "Patrocle"],
+    "correctIndex": 2
   },
   {
     "id": "q58",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quelle créature a une tête de lion, un corps de chèvre et une queue de serpent ?",
-    "answers": [
-      "Chimère",
-      "Sphinx",
-      "Hydre",
-      "Manticores"
-    ],
-    "correctIndex": 0
+    "text": "Quel monstre grec est une femme-oiseau qui enlève et tourmente ?",
+    "answers": ["La sirène", "La gorgone", "La nymphe", "La harpie"],
+    "correctIndex": 3
   },
+
   {
     "id": "q59",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel animal accompagne souvent la sorcière dans les contes ?",
-    "answers": [
-      "Corbeau",
-      "Chien",
-      "Chouette",
-      "Chat noir"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros est souvent associé à la quête du Saint Graal pour sa pureté ?",
+    "answers": ["Galahad", "Lancelot", "Gauvain", "Mordred"],
+    "correctIndex": 0
   },
   {
     "id": "q60",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel animal accompagne souvent la sorcière dans les contes ?",
-    "answers": [
-      "Corbeau",
-      "Chien",
-      "Chouette",
-      "Chat noir"
-    ],
-    "correctIndex": 3
+    "text": "Quel pont arc-en-ciel relie les mondes dans la mythologie nordique ?",
+    "answers": ["Midgard", "Bifröst", "Valhalla", "Helheim"],
+    "correctIndex": 1
   },
   {
     "id": "q61",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel dragon est terrassé par Saint Georges ?",
-    "answers": [
-      "Serpent",
-      "Basilic",
-      "Wyvern",
-      "Dragon"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec tue le sanglier de Calydon selon la légende ?",
+    "answers": ["Ulysse", "Jason", "Méléagre", "Thésée"],
+    "correctIndex": 2
   },
   {
     "id": "q62",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel héros troyen est tué par Achille ?",
-    "answers": [
-      "Énée",
-      "Priam",
-      "Hector",
-      "Pâris"
-    ],
-    "correctIndex": 2
+    "text": "Quelle créature mythique est une femme mi-serpent dans certaines traditions ?",
+    "answers": ["La nymphe", "La sirène", "La harpie", "La lamia"],
+    "correctIndex": 3
   },
+
   {
     "id": "q63",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quelle créature a une tête de lion, un corps de chèvre et une queue de serpent ?",
-    "answers": [
-      "Hydre",
-      "Chimère",
-      "Sphinx",
-      "Manticores"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est célèbre pour avoir dompté Pégase ?",
+    "answers": ["Bellérophon", "Persée", "Héraclès", "Orphée"],
+    "correctIndex": 0
   },
   {
     "id": "q64",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel géant biblique est vaincu par David ?",
-    "answers": [
-      "Goliath",
-      "Anak",
-      "Og",
-      "Nephilim"
-    ],
-    "correctIndex": 0
+    "text": "Quel dieu grec règne sur les mers avec un trident ?",
+    "answers": ["Zeus", "Poséidon", "Hadès", "Apollon"],
+    "correctIndex": 1
   },
   {
     "id": "q65",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Athéna",
-      "Aphrodite",
-      "Héra",
-      "Artémis"
-    ],
-    "correctIndex": 0
+    "text": "Quel lieu grec mythologique est le royaume des morts ?",
+    "answers": ["L’Olympe", "Les Champs Élysées", "L’Hadès", "Delphes"],
+    "correctIndex": 2
   },
   {
     "id": "q66",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel est le nom du marteau de Thor ?",
-    "answers": [
-      "Gram",
-      "Mjöllnir",
-      "Gungnir",
-      "Andúril"
-    ],
-    "correctIndex": 1
+    "text": "Quelle créature mythique est un serpent géant lié à la mer dans les récits nordiques ?",
+    "answers": ["Fenrir", "Sleipnir", "Níðhöggr", "Jörmungandr"],
+    "correctIndex": 3
   },
+
   {
     "id": "q67",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel dragon est terrassé par Saint Georges ?",
-    "answers": [
-      "Serpent",
-      "Dragon",
-      "Basilic",
-      "Wyvern"
-    ],
-    "correctIndex": 1
+    "text": "Quel roi légendaire est associé à la pierre du destin (Stone of Scone) en Écosse ?",
+    "answers": ["Kenneth MacAlpin", "Arthur", "Uther Pendragon", "Richard Cœur de Lion"],
+    "correctIndex": 0
   },
   {
     "id": "q68",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Artémis",
-      "Héra",
-      "Athéna",
-      "Aphrodite"
-    ],
-    "correctIndex": 2
+    "text": "Quel héros grec est connu pour avoir navigué entre Scylla et Charybde ?",
+    "answers": ["Jason", "Ulysse", "Persée", "Thésée"],
+    "correctIndex": 1
   },
   {
     "id": "q69",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel est le nom du marteau de Thor ?",
-    "answers": [
-      "Mjöllnir",
-      "Gungnir",
-      "Gram",
-      "Andúril"
-    ],
-    "correctIndex": 0
+    "text": "Quel héros est un demi-dieu, fils de Zeus, dans de nombreux récits ?",
+    "answers": ["Orphée", "Achille", "Héraclès", "Énée"],
+    "correctIndex": 2
   },
   {
     "id": "q70",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel héros troyen est tué par Achille ?",
-    "answers": [
-      "Hector",
-      "Priam",
-      "Énée",
-      "Pâris"
-    ],
-    "correctIndex": 0
+    "text": "Quelle créature mythique est un gardien des trésors représenté comme un dragon ?",
+    "answers": ["Le centaure", "Le sphinx", "Le griffon", "Le dragon"],
+    "correctIndex": 3
   },
+
   {
     "id": "q71",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Dans quelle ville se déroulent les aventures de Robin des Bois ?",
-    "answers": [
-      "Londres",
-      "Canterbury",
-      "Nottingham",
-      "York"
-    ],
-    "correctIndex": 2
+    "text": "Quel héros grec est associé au labyrinthe par son fil salvateur ?",
+    "answers": ["Ariane", "Héra", "Athéna", "Aphrodite"],
+    "correctIndex": 0
   },
   {
     "id": "q72",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel animal accompagne souvent la sorcière dans les contes ?",
-    "answers": [
-      "Chat noir",
-      "Chien",
-      "Corbeau",
-      "Chouette"
-    ],
-    "correctIndex": 0
+    "text": "Quel dieu grec est messager des dieux avec des sandales ailées ?",
+    "answers": ["Arès", "Hermès", "Apollon", "Hadès"],
+    "correctIndex": 1
   },
   {
     "id": "q73",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Aphrodite",
-      "Héra",
-      "Athéna",
-      "Artémis"
-    ],
+    "text": "Quel héros grec est l’archer célèbre de la guerre de Troie possédant l’arc d’Héraclès ?",
+    "answers": ["Hector", "Ajax", "Philoctète", "Ulysse"],
     "correctIndex": 2
   },
   {
     "id": "q74",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel animal accompagne souvent la sorcière dans les contes ?",
-    "answers": [
-      "Chien",
-      "Chat noir",
-      "Corbeau",
-      "Chouette"
-    ],
-    "correctIndex": 1
+    "text": "Quelle créature mythique est un géant de pierre dans certaines légendes ?",
+    "answers": ["Le gobelin", "Le nain", "Le lutin", "Le golem"],
+    "correctIndex": 3
   },
+
   {
     "id": "q75",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel roi britannique est associé à la légende d'Excalibur ?",
-    "answers": [
-      "Henri",
-      "Édouard",
-      "Arthur",
-      "Richard"
-    ],
-    "correctIndex": 2
+    "text": "Quel personnage arthurien est la reine du roi Arthur ?",
+    "answers": ["Guenièvre", "Morgane", "Elaine", "Iseult"],
+    "correctIndex": 0
   },
   {
     "id": "q76",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quelle créature a une tête de lion, un corps de chèvre et une queue de serpent ?",
-    "answers": [
-      "Hydre",
-      "Manticores",
-      "Chimère",
-      "Sphinx"
-    ],
-    "correctIndex": 2
+    "text": "Quel héros grec est connu pour avoir fondé Rome selon la tradition ?",
+    "answers": ["Romulus", "Énée", "Remus", "Tarquinius"],
+    "correctIndex": 1
   },
   {
     "id": "q77",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quelle créature a une tête de lion, un corps de chèvre et une queue de serpent ?",
-    "answers": [
-      "Chimère",
-      "Hydre",
-      "Manticores",
-      "Sphinx"
-    ],
-    "correctIndex": 0
+    "text": "Quel héros grec est lié à la création du cheval de Troie par la ruse ?",
+    "answers": ["Ajax", "Ménélas", "Ulysse", "Hector"],
+    "correctIndex": 2
   },
   {
     "id": "q78",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Dans quelle ville se déroulent les aventures de Robin des Bois ?",
-    "answers": [
-      "Londres",
-      "Nottingham",
-      "York",
-      "Canterbury"
-    ],
-    "correctIndex": 1
+    "text": "Quelle créature mythique garde les pommes d’or du jardin des Hespérides ?",
+    "answers": ["Le cyclope", "Le griffon", "Le minotaure", "Le dragon Ladon"],
+    "correctIndex": 3
   },
+
   {
     "id": "q79",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel géant biblique est vaincu par David ?",
-    "answers": [
-      "Goliath",
-      "Og",
-      "Nephilim",
-      "Anak"
-    ],
+    "text": "Quel héros mésopotamien est l’un des plus anciens héros légendaires connus ?",
+    "answers": ["Gilgamesh", "Ramsès", "Cyrus", "Hammurabi"],
     "correctIndex": 0
   },
   {
     "id": "q80",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel géant biblique est vaincu par David ?",
-    "answers": [
-      "Anak",
-      "Og",
-      "Nephilim",
-      "Goliath"
-    ],
-    "correctIndex": 3
+    "text": "Quel dieu grec est le maître des enfers ?",
+    "answers": ["Zeus", "Hadès", "Poséidon", "Hermès"],
+    "correctIndex": 1
   },
   {
     "id": "q81",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Dans quelle ville se déroulent les aventures de Robin des Bois ?",
-    "answers": [
-      "York",
-      "Londres",
-      "Nottingham",
-      "Canterbury"
-    ],
+    "text": "Quel héros grec a tué le lion de Némée lors de ses travaux ?",
+    "answers": ["Thésée", "Jason", "Héraclès", "Persée"],
     "correctIndex": 2
   },
   {
     "id": "q82",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel héros troyen est tué par Achille ?",
-    "answers": [
-      "Pâris",
-      "Hector",
-      "Priam",
-      "Énée"
-    ],
-    "correctIndex": 1
+    "text": "Quelle créature mythique est une jument ou un cheval aquatique dans des légendes celtiques ?",
+    "answers": ["La licorne", "Le griffon", "Le pégase", "Le kelpie"],
+    "correctIndex": 3
   },
+
   {
     "id": "q83",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel héros troyen est tué par Achille ?",
-    "answers": [
-      "Énée",
-      "Priam",
-      "Pâris",
-      "Hector"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec a affronté la Gorgone Méduse ?",
+    "answers": ["Persée", "Achille", "Thésée", "Orphée"],
+    "correctIndex": 0
   },
   {
     "id": "q84",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Dans quelle ville se déroulent les aventures de Robin des Bois ?",
-    "answers": [
-      "Canterbury",
-      "Nottingham",
-      "York",
-      "Londres"
-    ],
+    "text": "Dans les légendes arthuriennes, quelle femme est souvent présentée comme une enchanteresse ?",
+    "answers": ["Guenièvre", "Morgane", "Iseult", "Elaine"],
     "correctIndex": 1
   },
   {
     "id": "q85",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quelle créature a une tête de lion, un corps de chèvre et une queue de serpent ?",
-    "answers": [
-      "Manticores",
-      "Chimère",
-      "Hydre",
-      "Sphinx"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est célèbre pour avoir vaincu le monstre marin envoyé contre Andromède ?",
+    "answers": ["Jason", "Thésée", "Persée", "Ulysse"],
+    "correctIndex": 2
   },
   {
     "id": "q86",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel héros grec a vaincu le Minotaure ?",
-    "answers": [
-      "Persée",
-      "Achille",
-      "Thésée",
-      "Héraclès"
-    ],
-    "correctIndex": 2
+    "text": "Quelle créature mythique est un esprit de la forêt dans certaines légendes japonaises ?",
+    "answers": ["Kappa", "Oni", "Tengu", "Kodama"],
+    "correctIndex": 3
   },
+
   {
     "id": "q87",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel dragon est terrassé par Saint Georges ?",
-    "answers": [
-      "Serpent",
-      "Basilic",
-      "Dragon",
-      "Wyvern"
-    ],
-    "correctIndex": 2
+    "text": "Quel héros grec est le pilote du navire Argo dans la légende des Argonautes ?",
+    "answers": ["Tiphys", "Jason", "Orphée", "Héraclès"],
+    "correctIndex": 0
   },
   {
     "id": "q88",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel est le nom du marteau de Thor ?",
-    "answers": [
-      "Andúril",
-      "Gungnir",
-      "Gram",
-      "Mjöllnir"
-    ],
-    "correctIndex": 3
+    "text": "Quel dieu grec est associé à la foudre et au ciel ?",
+    "answers": ["Arès", "Zeus", "Hadès", "Hermès"],
+    "correctIndex": 1
   },
   {
     "id": "q89",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quelle créature a une tête de lion, un corps de chèvre et une queue de serpent ?",
-    "answers": [
-      "Chimère",
-      "Sphinx",
-      "Manticores",
-      "Hydre"
-    ],
-    "correctIndex": 0
+    "text": "Quel héros grec est un grand musicien dont la lyre charme les êtres ?",
+    "answers": ["Ajax", "Thésée", "Orphée", "Persée"],
+    "correctIndex": 2
   },
   {
     "id": "q90",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel roi britannique est associé à la légende d'Excalibur ?",
-    "answers": [
-      "Henri",
-      "Arthur",
-      "Richard",
-      "Édouard"
-    ],
-    "correctIndex": 1
+    "text": "Quelle créature mythique est un monstre marin à plusieurs têtes affronté par Héraclès ?",
+    "answers": ["Le kraken", "Scylla", "Charybde", "L’hydre"],
+    "correctIndex": 3
   },
+
   {
     "id": "q91",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel animal accompagne souvent la sorcière dans les contes ?",
-    "answers": [
-      "Corbeau",
-      "Chat noir",
-      "Chien",
-      "Chouette"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est connu pour sa vitesse et ses talents d’archer dans certains récits ?",
+    "answers": ["Atalante", "Hélène", "Pénélope", "Ariane"],
+    "correctIndex": 0
   },
   {
     "id": "q92",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel est le nom du marteau de Thor ?",
-    "answers": [
-      "Gram",
-      "Mjöllnir",
-      "Andúril",
-      "Gungnir"
-    ],
+    "text": "Quel dieu grec est associé à la guerre ?",
+    "answers": ["Apollon", "Arès", "Hermès", "Dionysos"],
     "correctIndex": 1
   },
   {
     "id": "q93",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel héros grec a vaincu le Minotaure ?",
-    "answers": [
-      "Achille",
-      "Thésée",
-      "Persée",
-      "Héraclès"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec a combattu le sanglier d’Érymanthe comme l’un de ses travaux ?",
+    "answers": ["Persée", "Jason", "Héraclès", "Ulysse"],
+    "correctIndex": 2
   },
   {
     "id": "q94",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Athéna",
-      "Héra",
-      "Artémis",
-      "Aphrodite"
-    ],
-    "correctIndex": 0
+    "text": "Quel être mythique est un esprit-vampire féminin dans certaines traditions d’Europe de l’Est ?",
+    "answers": ["La fée", "La sirène", "La nymphe", "La stryge"],
+    "correctIndex": 3
   },
+
   {
     "id": "q95",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel animal accompagne souvent la sorcière dans les contes ?",
-    "answers": [
-      "Corbeau",
-      "Chien",
-      "Chouette",
-      "Chat noir"
-    ],
-    "correctIndex": 3
+    "text": "Quel chevalier arthurien est souvent lié à la quête du Graal dans de nombreuses versions ?",
+    "answers": ["Perceval", "Mordred", "Tristan", "Gauvain"],
+    "correctIndex": 0
   },
   {
     "id": "q96",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Dans quelle ville se déroulent les aventures de Robin des Bois ?",
-    "answers": [
-      "York",
-      "Londres",
-      "Canterbury",
-      "Nottingham"
-    ],
-    "correctIndex": 3
+    "text": "Quel dieu grec est associé au soleil, à la musique et aux arts ?",
+    "answers": ["Hermès", "Apollon", "Arès", "Hadès"],
+    "correctIndex": 1
   },
   {
     "id": "q97",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel dragon est terrassé par Saint Georges ?",
-    "answers": [
-      "Wyvern",
-      "Basilic",
-      "Dragon",
-      "Serpent"
-    ],
+    "text": "Quel héros grec a été englouti par la mer lors de son retour de Troie selon une légende célèbre ?",
+    "answers": ["Ménélas", "Ajax", "Ajax le Petit", "Achille"],
     "correctIndex": 2
   },
   {
     "id": "q98",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Dans quelle ville se déroulent les aventures de Robin des Bois ?",
-    "answers": [
-      "Nottingham",
-      "Londres",
-      "Canterbury",
-      "York"
-    ],
-    "correctIndex": 0
+    "text": "Quelle créature mythique est une femme à la beauté dangereuse, parfois associée aux serpents ?",
+    "answers": ["La nymphe", "La fée", "La sirène", "La gorgone"],
+    "correctIndex": 3
   },
+
   {
     "id": "q99",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Aphrodite",
-      "Artémis",
-      "Héra",
-      "Athéna"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est connu pour avoir créé le labyrinthe de Crète ?",
+    "answers": ["Dédale", "Minos", "Thésée", "Icare"],
+    "correctIndex": 0
   },
   {
     "id": "q100",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel géant biblique est vaincu par David ?",
-    "answers": [
-      "Og",
-      "Nephilim",
-      "Anak",
-      "Goliath"
-    ],
-    "correctIndex": 3
+    "text": "Quel dieu grec est le dieu du vin et des fêtes ?",
+    "answers": ["Arès", "Dionysos", "Apollon", "Hermès"],
+    "correctIndex": 1
   },
+
   {
     "id": "q101",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel roi britannique est associé à la légende d'Excalibur ?",
-    "answers": [
-      "Henri",
-      "Richard",
-      "Arthur",
-      "Édouard"
-    ],
-    "correctIndex": 2
+    "text": "Quel héros grec est lié à un navire mythique appelé l’Argo ?",
+    "answers": ["Jason", "Ulysse", "Thésée", "Persée"],
+    "correctIndex": 0
   },
   {
     "id": "q102",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel héros grec a vaincu le Minotaure ?",
-    "answers": [
-      "Thésée",
-      "Achille",
-      "Héraclès",
-      "Persée"
-    ],
-    "correctIndex": 0
+    "text": "Quelle déesse grecque est associée à la sagesse et à la stratégie ?",
+    "answers": ["Héra", "Athéna", "Aphrodite", "Artémis"],
+    "correctIndex": 1
   },
   {
     "id": "q103",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel roi britannique est associé à la légende d'Excalibur ?",
-    "answers": [
-      "Édouard",
-      "Henri",
-      "Arthur",
-      "Richard"
-    ],
+    "text": "Quel héros grec a construit le cheval de Troie selon la tradition ?",
+    "answers": ["Ulysse", "Ménélas", "Épéios", "Hector"],
     "correctIndex": 2
   },
   {
     "id": "q104",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel est le nom du marteau de Thor ?",
-    "answers": [
-      "Gram",
-      "Andúril",
-      "Gungnir",
-      "Mjöllnir"
-    ],
+    "text": "Quel monstre marin est associé aux tourbillons et à la destruction des navires ?",
+    "answers": ["Scylla", "L’hydre", "Le kraken", "Charybde"],
     "correctIndex": 3
   },
+
   {
     "id": "q105",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Dans quelle ville se déroulent les aventures de Robin des Bois ?",
-    "answers": [
-      "Nottingham",
-      "Londres",
-      "Canterbury",
-      "York"
-    ],
+    "text": "Quel personnage est le géant de la mythologie grecque portant la voûte céleste ?",
+    "answers": ["Atlas", "Cronos", "Typhon", "Prométhée"],
     "correctIndex": 0
   },
   {
     "id": "q106",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Héra",
-      "Aphrodite",
-      "Artémis",
-      "Athéna"
-    ],
-    "correctIndex": 3
+    "text": "Dans la mythologie égyptienne, quel dieu du Soleil traverse le ciel chaque jour ?",
+    "answers": ["Osiris", "Rê", "Anubis", "Seth"],
+    "correctIndex": 1
   },
   {
     "id": "q107",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel géant biblique est vaincu par David ?",
-    "answers": [
-      "Goliath",
-      "Nephilim",
-      "Anak",
-      "Og"
-    ],
-    "correctIndex": 0
+    "text": "Quel héros grec est le fils de Pélée et de Thétis ?",
+    "answers": ["Hector", "Ulysse", "Achille", "Ajax"],
+    "correctIndex": 2
   },
   {
     "id": "q108",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel roi britannique est associé à la légende d'Excalibur ?",
-    "answers": [
-      "Arthur",
-      "Richard",
-      "Henri",
-      "Édouard"
-    ],
-    "correctIndex": 0
+    "text": "Quel monstre grec est le père de nombreux monstres, représenté comme un géant ailé ?",
+    "answers": ["Cyclope", "Minotaure", "Griffon", "Typhon"],
+    "correctIndex": 3
   },
+
   {
     "id": "q109",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel roi britannique est associé à la légende d'Excalibur ?",
-    "answers": [
-      "Henri",
-      "Édouard",
-      "Richard",
-      "Arthur"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec a vaincu le géant Antée en le soulevant du sol ?",
+    "answers": ["Héraclès", "Persée", "Thésée", "Jason"],
+    "correctIndex": 0
   },
   {
     "id": "q110",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel héros troyen est tué par Achille ?",
-    "answers": [
-      "Pâris",
-      "Priam",
-      "Énée",
-      "Hector"
-    ],
-    "correctIndex": 3
+    "text": "Quel dieu nordique est associé à la sagesse et au sacrifice d’un œil ?",
+    "answers": ["Thor", "Odin", "Loki", "Tyr"],
+    "correctIndex": 1
   },
   {
     "id": "q111",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel est le nom du marteau de Thor ?",
-    "answers": [
-      "Mjöllnir",
-      "Andúril",
-      "Gungnir",
-      "Gram"
-    ],
-    "correctIndex": 0
+    "text": "Quel héros grec a tué le monstre Méduse pour obtenir sa tête ?",
+    "answers": ["Thésée", "Héraclès", "Persée", "Ulysse"],
+    "correctIndex": 2
   },
   {
     "id": "q112",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel dragon est terrassé par Saint Georges ?",
-    "answers": [
-      "Wyvern",
-      "Serpent",
-      "Basilic",
-      "Dragon"
-    ],
+    "text": "Quelle créature mythique est un esprit de l’eau qui attire les humains dans certains récits européens ?",
+    "answers": ["La fée", "Le lutin", "Le golem", "L’ondine"],
     "correctIndex": 3
   },
+
   {
     "id": "q113",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel géant biblique est vaincu par David ?",
-    "answers": [
-      "Og",
-      "Goliath",
-      "Nephilim",
-      "Anak"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est célèbre pour avoir tiré un char solaire et provoqué un désastre ?",
+    "answers": ["Phaéton", "Icare", "Orphée", "Dédale"],
+    "correctIndex": 0
   },
   {
     "id": "q114",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel héros grec a vaincu le Minotaure ?",
-    "answers": [
-      "Achille",
-      "Héraclès",
-      "Persée",
-      "Thésée"
-    ],
-    "correctIndex": 3
+    "text": "Quelle déesse grecque est associée à l’amour et à la beauté ?",
+    "answers": ["Héra", "Aphrodite", "Athéna", "Déméter"],
+    "correctIndex": 1
   },
   {
     "id": "q115",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel roi britannique est associé à la légende d'Excalibur ?",
-    "answers": [
-      "Henri",
-      "Édouard",
-      "Richard",
-      "Arthur"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est connu pour avoir vaincu le sanglier de Calydon avec d’autres chasseurs ?",
+    "answers": ["Thésée", "Persée", "Méléagre", "Ulysse"],
+    "correctIndex": 2
   },
   {
     "id": "q116",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quelle créature a une tête de lion, un corps de chèvre et une queue de serpent ?",
-    "answers": [
-      "Manticores",
-      "Hydre",
-      "Sphinx",
-      "Chimère"
-    ],
+    "text": "Quelle créature mythique est un esprit renard à pouvoirs surnaturels dans le folklore japonais ?",
+    "answers": ["Oni", "Tengu", "Kappa", "Kitsune"],
     "correctIndex": 3
   },
+
   {
     "id": "q117",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel géant biblique est vaincu par David ?",
-    "answers": [
-      "Nephilim",
-      "Goliath",
-      "Anak",
-      "Og"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est connu pour son “arc infaillible” et ses flèches mortelles dans certains récits ?",
+    "answers": ["Philoctète", "Héraclès", "Ulysse", "Ajax"],
+    "correctIndex": 0
   },
   {
     "id": "q118",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel héros troyen est tué par Achille ?",
-    "answers": [
-      "Hector",
-      "Énée",
-      "Priam",
-      "Pâris"
-    ],
-    "correctIndex": 0
+    "text": "Quel dieu grec est le dieu des forges et des artisans ?",
+    "answers": ["Arès", "Héphaïstos", "Hermès", "Poséidon"],
+    "correctIndex": 1
   },
   {
     "id": "q119",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel est le nom du marteau de Thor ?",
-    "answers": [
-      "Mjöllnir",
-      "Gram",
-      "Andúril",
-      "Gungnir"
-    ],
-    "correctIndex": 0
+    "text": "Quel héros grec a été puni pour avoir voulu défier les dieux en musique ?",
+    "answers": ["Orphée", "Marsyas", "Dédale", "Icare"],
+    "correctIndex": 2
   },
   {
     "id": "q120",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel animal accompagne souvent la sorcière dans les contes ?",
-    "answers": [
-      "Chouette",
-      "Chat noir",
-      "Corbeau",
-      "Chien"
-    ],
-    "correctIndex": 1
+    "text": "Quelle créature mythique est une femme-oiseau prophétique associée à la mort dans certaines traditions ?",
+    "answers": ["La sirène", "La nymphe", "La harpie", "La banshee"],
+    "correctIndex": 3
   },
+
   {
     "id": "q121",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel héros grec a vaincu le Minotaure ?",
-    "answers": [
-      "Thésée",
-      "Achille",
-      "Héraclès",
-      "Persée"
-    ],
+    "text": "Quel héros grec a donné son nom à une célèbre constellation liée à l’ours ?",
+    "answers": ["Callisto", "Orion", "Persée", "Héraclès"],
     "correctIndex": 0
   },
   {
     "id": "q122",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quelle créature a une tête de lion, un corps de chèvre et une queue de serpent ?",
-    "answers": [
-      "Sphinx",
-      "Chimère",
-      "Manticores",
-      "Hydre"
-    ],
+    "text": "Dans la mythologie romaine, quel dieu correspond à Zeus ?",
+    "answers": ["Mars", "Jupiter", "Neptune", "Vulcain"],
     "correctIndex": 1
   },
   {
     "id": "q123",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel animal accompagne souvent la sorcière dans les contes ?",
-    "answers": [
-      "Chien",
-      "Chouette",
-      "Chat noir",
-      "Corbeau"
-    ],
+    "text": "Quel héros grec a été englouti par un monstre marin nommé Charybde dans les récits de navigation ?",
+    "answers": ["Jason", "Thésée", "Ulysse", "Persée"],
     "correctIndex": 2
   },
   {
     "id": "q124",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel géant biblique est vaincu par David ?",
-    "answers": [
-      "Anak",
-      "Goliath",
-      "Og",
-      "Nephilim"
-    ],
-    "correctIndex": 1
+    "text": "Quel monstre grec est un chien à deux têtes, frère de Cerbère ?",
+    "answers": ["Fenrir", "Ladon", "Scylla", "Orthros"],
+    "correctIndex": 3
   },
+
   {
     "id": "q125",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel roi britannique est associé à la légende d'Excalibur ?",
-    "answers": [
-      "Arthur",
-      "Richard",
-      "Édouard",
-      "Henri"
-    ],
+    "text": "Quel héros grec est connu pour avoir tué le monstre marin “Céto” afin de sauver Andromède ?",
+    "answers": ["Persée", "Thésée", "Jason", "Ulysse"],
     "correctIndex": 0
   },
   {
     "id": "q126",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel héros troyen est tué par Achille ?",
-    "answers": [
-      "Énée",
-      "Hector",
-      "Priam",
-      "Pâris"
-    ],
+    "text": "Quel dieu nordique perd un bras en enchaînant le loup Fenrir ?",
+    "answers": ["Odin", "Tyr", "Thor", "Loki"],
     "correctIndex": 1
   },
   {
     "id": "q127",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Artémis",
-      "Aphrodite",
-      "Athéna",
-      "Héra"
-    ],
+    "text": "Quel héros grec a vaincu le taureau de Crète, l’un de ses travaux ?",
+    "answers": ["Persée", "Jason", "Héraclès", "Thésée"],
     "correctIndex": 2
   },
   {
     "id": "q128",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Héra",
-      "Artémis",
-      "Aphrodite",
-      "Athéna"
-    ],
+    "text": "Quelle créature mythique est un esprit d’eau japonais souvent représenté avec une cavité sur la tête ?",
+    "answers": ["Oni", "Kitsune", "Tengu", "Kappa"],
     "correctIndex": 3
   },
+
   {
     "id": "q129",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel géant biblique est vaincu par David ?",
-    "answers": [
-      "Og",
-      "Anak",
-      "Goliath",
-      "Nephilim"
-    ],
-    "correctIndex": 2
+    "text": "Quel héros grec est associé à une constellation représentant un chasseur géant ?",
+    "answers": ["Orion", "Persée", "Héraclès", "Thésée"],
+    "correctIndex": 0
   },
   {
     "id": "q130",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel est le nom du marteau de Thor ?",
-    "answers": [
-      "Andúril",
-      "Mjöllnir",
-      "Gungnir",
-      "Gram"
-    ],
+    "text": "Quelle déesse grecque est associée à la chasse et à la lune ?",
+    "answers": ["Athéna", "Artémis", "Héra", "Déméter"],
     "correctIndex": 1
   },
   {
     "id": "q131",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel héros grec a vaincu le Minotaure ?",
-    "answers": [
-      "Thésée",
-      "Persée",
-      "Achille",
-      "Héraclès"
-    ],
-    "correctIndex": 0
+    "text": "Quel héros grec a épousé Médée dans la légende des Argonautes ?",
+    "answers": ["Thésée", "Ulysse", "Jason", "Persée"],
+    "correctIndex": 2
   },
   {
     "id": "q132",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Athéna",
-      "Aphrodite",
-      "Artémis",
-      "Héra"
-    ],
-    "correctIndex": 0
+    "text": "Quelle créature mythique est un géant qui dévore, souvent lié aux contes scandinaves ?",
+    "answers": ["Le nain", "Le lutin", "Le gobelin", "L’ogre"],
+    "correctIndex": 3
   },
+
   {
     "id": "q133",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel est le nom du marteau de Thor ?",
-    "answers": [
-      "Gungnir",
-      "Gram",
-      "Mjöllnir",
-      "Andúril"
-    ],
-    "correctIndex": 2
+    "text": "Quel héros grec est le père d’Ulysse selon la tradition la plus connue ?",
+    "answers": ["Laërte", "Agamemnon", "Priam", "Nestor"],
+    "correctIndex": 0
   },
   {
     "id": "q134",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel roi britannique est associé à la légende d'Excalibur ?",
-    "answers": [
-      "Arthur",
-      "Richard",
-      "Henri",
-      "Édouard"
-    ],
-    "correctIndex": 0
+    "text": "Dans la mythologie égyptienne, quel dieu est associé au monde des morts et à la résurrection ?",
+    "answers": ["Anubis", "Osiris", "Horus", "Rê"],
+    "correctIndex": 1
   },
   {
     "id": "q135",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel est le nom du marteau de Thor ?",
-    "answers": [
-      "Gram",
-      "Gungnir",
-      "Andúril",
-      "Mjöllnir"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est connu pour sa “colère” au début de l’Iliade ?",
+    "answers": ["Hector", "Ulysse", "Achille", "Ajax"],
+    "correctIndex": 2
   },
   {
     "id": "q136",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel est le nom du marteau de Thor ?",
-    "answers": [
-      "Gram",
-      "Mjöllnir",
-      "Gungnir",
-      "Andúril"
-    ],
-    "correctIndex": 1
+    "text": "Quelle créature mythique garde l’entrée d’un trésor et pose une énigme dans un conte germanique ?",
+    "answers": ["Le troll", "Le dragon", "Le golem", "Le nain"],
+    "correctIndex": 3
   },
+
   {
     "id": "q137",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Aphrodite",
-      "Athéna",
-      "Artémis",
-      "Héra"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est connu pour avoir participé à la chasse au sanglier de Calydon ?",
+    "answers": ["Atalante", "Hélène", "Ariane", "Médée"],
+    "correctIndex": 0
   },
   {
     "id": "q138",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel géant biblique est vaincu par David ?",
-    "answers": [
-      "Goliath",
-      "Nephilim",
-      "Anak",
-      "Og"
-    ],
-    "correctIndex": 0
+    "text": "Quel dieu grec est le dieu des rêves dans certaines traditions ?",
+    "answers": ["Pan", "Morphée", "Hypnos", "Éros"],
+    "correctIndex": 1
   },
   {
     "id": "q139",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel héros grec a vaincu le Minotaure ?",
-    "answers": [
-      "Achille",
-      "Persée",
-      "Héraclès",
-      "Thésée"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec descend aux Enfers dans l’Énéide pour y voir son père ?",
+    "answers": ["Ulysse", "Thésée", "Énée", "Jason"],
+    "correctIndex": 2
   },
   {
     "id": "q140",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel dragon est terrassé par Saint Georges ?",
-    "answers": [
-      "Serpent",
-      "Dragon",
-      "Basilic",
-      "Wyvern"
-    ],
-    "correctIndex": 1
+    "text": "Quelle créature mythique est un cheval de mer dans certaines représentations antiques ?",
+    "answers": ["Pégase", "Sleipnir", "Kelpie", "Hippocampe"],
+    "correctIndex": 3
   },
+
   {
     "id": "q141",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel dragon est terrassé par Saint Georges ?",
-    "answers": [
-      "Basilic",
-      "Serpent",
-      "Dragon",
-      "Wyvern"
-    ],
-    "correctIndex": 2
+    "text": "Quel héros grec est connu pour avoir vaincu la chimère ?",
+    "answers": ["Bellérophon", "Persée", "Héraclès", "Thésée"],
+    "correctIndex": 0
   },
   {
     "id": "q142",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Athéna",
-      "Aphrodite",
-      "Héra",
-      "Artémis"
-    ],
-    "correctIndex": 0
+    "text": "Quel dieu grec est associé au vin, au théâtre et à l’extase ?",
+    "answers": ["Apollon", "Dionysos", "Arès", "Hermès"],
+    "correctIndex": 1
   },
   {
     "id": "q143",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Dans quelle ville se déroulent les aventures de Robin des Bois ?",
-    "answers": [
-      "Canterbury",
-      "York",
-      "Londres",
-      "Nottingham"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est connu pour avoir dompté le taureau de Marathon ?",
+    "answers": ["Jason", "Persée", "Thésée", "Ulysse"],
+    "correctIndex": 2
   },
   {
     "id": "q144",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Dans quelle ville se déroulent les aventures de Robin des Bois ?",
-    "answers": [
-      "York",
-      "Canterbury",
-      "Londres",
-      "Nottingham"
-    ],
+    "text": "Quelle créature mythique est un esprit montagneux souvent associé aux corbeaux dans certains folklores ?",
+    "answers": ["Kappa", "Kitsune", "Oni", "Tengu"],
     "correctIndex": 3
   },
+
   {
     "id": "q145",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quelle créature a une tête de lion, un corps de chèvre et une queue de serpent ?",
-    "answers": [
-      "Chimère",
-      "Hydre",
-      "Sphinx",
-      "Manticores"
-    ],
+    "text": "Quel héros grec est célèbre pour sa force et son appétit dans les récits d’Argonautes ?",
+    "answers": ["Héraclès", "Orphée", "Jason", "Castor"],
     "correctIndex": 0
   },
   {
     "id": "q146",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel animal accompagne souvent la sorcière dans les contes ?",
-    "answers": [
-      "Chat noir",
-      "Corbeau",
-      "Chouette",
-      "Chien"
-    ],
-    "correctIndex": 0
+    "text": "Quel dieu grec est associé aux moissons et à l’agriculture (déesse) ?",
+    "answers": ["Héra", "Déméter", "Athéna", "Artémis"],
+    "correctIndex": 1
   },
   {
     "id": "q147",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel héros grec a vaincu le Minotaure ?",
-    "answers": [
-      "Héraclès",
-      "Thésée",
-      "Achille",
-      "Persée"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est le maître du labyrinthe, roi de Crète, lié au Minotaure ?",
+    "answers": ["Agamemnon", "Priam", "Minos", "Nestor"],
+    "correctIndex": 2
   },
   {
     "id": "q148",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel animal accompagne souvent la sorcière dans les contes ?",
-    "answers": [
-      "Corbeau",
-      "Chouette",
-      "Chat noir",
-      "Chien"
-    ],
-    "correctIndex": 2
+    "text": "Quelle créature mythique est une femme-serpent liée à des récits médiévaux français ?",
+    "answers": ["La banshee", "La lamia", "La gorgone", "Mélusine"],
+    "correctIndex": 3
   },
+
   {
     "id": "q149",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel animal accompagne souvent la sorcière dans les contes ?",
-    "answers": [
-      "Chat noir",
-      "Chouette",
-      "Chien",
-      "Corbeau"
-    ],
+    "text": "Quel héros grec est connu pour avoir tiré le char d’Apollon contre l’avis des dieux ?",
+    "answers": ["Phaéton", "Icare", "Dédale", "Orphée"],
     "correctIndex": 0
   },
   {
     "id": "q150",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel héros troyen est tué par Achille ?",
-    "answers": [
-      "Pâris",
-      "Énée",
-      "Priam",
-      "Hector"
-    ],
-    "correctIndex": 3
+    "text": "Quelle déesse grecque est associée au mariage et à la royauté ?",
+    "answers": ["Athéna", "Héra", "Aphrodite", "Déméter"],
+    "correctIndex": 1
   },
   {
     "id": "q151",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Dans quelle ville se déroulent les aventures de Robin des Bois ?",
-    "answers": [
-      "Londres",
-      "Nottingham",
-      "York",
-      "Canterbury"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est le fils d’Achille selon certaines traditions postérieures ?",
+    "answers": ["Télémaque", "Persée", "Néoptolème", "Ajax"],
+    "correctIndex": 2
   },
   {
     "id": "q152",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel animal accompagne souvent la sorcière dans les contes ?",
-    "answers": [
-      "Chien",
-      "Chouette",
-      "Corbeau",
-      "Chat noir"
-    ],
+    "text": "Quelle créature mythique est un esprit féminin annonçant la mort dans les légendes celtiques ?",
+    "answers": ["La fée", "La sirène", "La nymphe", "La banshee"],
     "correctIndex": 3
   },
   {
     "id": "q153",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel animal accompagne souvent la sorcière dans les contes ?",
-    "answers": [
-      "Chat noir",
-      "Corbeau",
-      "Chien",
-      "Chouette"
-    ],
+    "text": "Quel héros grec est connu pour avoir porté le ciel sur ses épaules pendant un temps ?",
+    "answers": ["Atlas", "Héraclès", "Prométhée", "Cronos"],
     "correctIndex": 0
   },
   {
     "id": "q154",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel est le nom du marteau de Thor ?",
-    "answers": [
-      "Mjöllnir",
-      "Andúril",
-      "Gungnir",
-      "Gram"
-    ],
-    "correctIndex": 0
+    "text": "Quel dieu grec est le dieu du sommeil ?",
+    "answers": ["Morphée", "Hypnos", "Thanatos", "Éros"],
+    "correctIndex": 1
   },
+
   {
     "id": "q155",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel est le nom du marteau de Thor ?",
-    "answers": [
-      "Andúril",
-      "Gungnir",
-      "Mjöllnir",
-      "Gram"
-    ],
+    "text": "Quel héros grec a survécu au chant des sirènes grâce à la ruse ?",
+    "answers": ["Jason", "Achille", "Ulysse", "Thésée"],
     "correctIndex": 2
   },
   {
     "id": "q156",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Artémis",
-      "Athéna",
-      "Aphrodite",
-      "Héra"
-    ],
-    "correctIndex": 1
+    "text": "Quelle créature mythique est un esprit de la nuit dans le folklore japonais ?",
+    "answers": ["Kappa", "Kitsune", "Oni", "Yōkai"],
+    "correctIndex": 3
   },
   {
     "id": "q157",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel héros grec a vaincu le Minotaure ?",
-    "answers": [
-      "Héraclès",
-      "Achille",
-      "Thésée",
-      "Persée"
-    ],
-    "correctIndex": 2
+    "text": "Quel héros grec est célèbre pour avoir combattu l’hydre de Lerne ?",
+    "answers": ["Héraclès", "Persée", "Jason", "Thésée"],
+    "correctIndex": 0
   },
   {
     "id": "q158",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quelle créature a une tête de lion, un corps de chèvre et une queue de serpent ?",
-    "answers": [
-      "Manticores",
-      "Chimère",
-      "Hydre",
-      "Sphinx"
-    ],
+    "text": "Quel dieu grec est associé au feu et à la forge ?",
+    "answers": ["Arès", "Héphaïstos", "Hermès", "Apollon"],
     "correctIndex": 1
   },
+
   {
     "id": "q159",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel animal accompagne souvent la sorcière dans les contes ?",
-    "answers": [
-      "Chouette",
-      "Corbeau",
-      "Chien",
-      "Chat noir"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec a épousé Andromède après l’avoir sauvée ?",
+    "answers": ["Jason", "Héraclès", "Persée", "Ulysse"],
+    "correctIndex": 2
   },
   {
     "id": "q160",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Dans quelle ville se déroulent les aventures de Robin des Bois ?",
-    "answers": [
-      "Nottingham",
-      "Londres",
-      "York",
-      "Canterbury"
-    ],
-    "correctIndex": 0
+    "text": "Quelle créature mythique est un esprit féminin des sources et des rivières ?",
+    "answers": ["La sirène", "La gorgone", "La harpie", "La naïade"],
+    "correctIndex": 3
   },
+
   {
     "id": "q161",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel géant biblique est vaincu par David ?",
-    "answers": [
-      "Anak",
-      "Nephilim",
-      "Goliath",
-      "Og"
-    ],
-    "correctIndex": 2
+    "text": "Quel héros grec a participé à l’expédition des Argonautes ?",
+    "answers": ["Orphée", "Ajax", "Achille", "Hector"],
+    "correctIndex": 0
   },
   {
     "id": "q162",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Aphrodite",
-      "Artémis",
-      "Héra",
-      "Athéna"
-    ],
-    "correctIndex": 3
+    "text": "Quel dieu grec est le messager des dieux ?",
+    "answers": ["Apollon", "Hermès", "Arès", "Hadès"],
+    "correctIndex": 1
   },
+
   {
     "id": "q163",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel héros grec a vaincu le Minotaure ?",
-    "answers": [
-      "Achille",
-      "Héraclès",
-      "Persée",
-      "Thésée"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est célèbre pour sa musique capable de charmer les bêtes ?",
+    "answers": ["Persée", "Jason", "Orphée", "Ulysse"],
+    "correctIndex": 2
   },
   {
     "id": "q164",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel géant biblique est vaincu par David ?",
-    "answers": [
-      "Og",
-      "Anak",
-      "Goliath",
-      "Nephilim"
-    ],
-    "correctIndex": 2
+    "text": "Quelle créature mythique est un géant mangeur d’hommes dans les contes européens ?",
+    "answers": ["Le troll", "Le nain", "Le lutin", "L’ogre"],
+    "correctIndex": 3
   },
+
   {
     "id": "q165",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel héros troyen est tué par Achille ?",
-    "answers": [
-      "Pâris",
-      "Priam",
-      "Énée",
-      "Hector"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est connu pour sa force colossale et ses travaux ?",
+    "answers": ["Héraclès", "Achille", "Ajax", "Persée"],
+    "correctIndex": 0
   },
   {
     "id": "q166",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Dans quelle ville se déroulent les aventures de Robin des Bois ?",
-    "answers": [
-      "Nottingham",
-      "Canterbury",
-      "York",
-      "Londres"
-    ],
-    "correctIndex": 0
+    "text": "Quelle déesse grecque est associée aux moissons ?",
+    "answers": ["Héra", "Déméter", "Artémis", "Athéna"],
+    "correctIndex": 1
   },
+
   {
     "id": "q167",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quelle créature a une tête de lion, un corps de chèvre et une queue de serpent ?",
-    "answers": [
-      "Hydre",
-      "Sphinx",
-      "Manticores",
-      "Chimère"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec a vaincu le taureau de Marathon ?",
+    "answers": ["Jason", "Persée", "Thésée", "Héraclès"],
+    "correctIndex": 2
   },
   {
     "id": "q168",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel est le nom du marteau de Thor ?",
-    "answers": [
-      "Andúril",
-      "Gungnir",
-      "Gram",
-      "Mjöllnir"
-    ],
+    "text": "Quelle créature mythique est un cheval ailé à huit pattes dans la mythologie nordique ?",
+    "answers": ["Pégase", "Arion", "Bucéphale", "Sleipnir"],
     "correctIndex": 3
   },
+
   {
     "id": "q169",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Dans quelle ville se déroulent les aventures de Robin des Bois ?",
-    "answers": [
-      "Londres",
-      "Nottingham",
-      "Canterbury",
-      "York"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros mésopotamien est l’un des plus anciens héros légendaires connus ?",
+    "answers": ["Gilgamesh", "Sargon", "Hammurabi", "Assurbanipal"],
+    "correctIndex": 0
   },
   {
     "id": "q170",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel héros grec a vaincu le Minotaure ?",
-    "answers": [
-      "Héraclès",
-      "Achille",
-      "Persée",
-      "Thésée"
-    ],
-    "correctIndex": 3
+    "text": "Quel dieu grec est le roi des dieux de l’Olympe ?",
+    "answers": ["Poséidon", "Zeus", "Hadès", "Apollon"],
+    "correctIndex": 1
   },
+
   {
     "id": "q171",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel roi britannique est associé à la légende d'Excalibur ?",
-    "answers": [
-      "Richard",
-      "Édouard",
-      "Henri",
-      "Arthur"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec a affronté le géant Antée ?",
+    "answers": ["Persée", "Achille", "Héraclès", "Ulysse"],
+    "correctIndex": 2
   },
   {
     "id": "q172",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Aphrodite",
-      "Artémis",
-      "Athéna",
-      "Héra"
-    ],
-    "correctIndex": 2
+    "text": "Quelle créature mythique est un esprit protecteur des arbres dans le folklore japonais ?",
+    "answers": ["Oni", "Kappa", "Tengu", "Kodama"],
+    "correctIndex": 3
   },
+
   {
     "id": "q173",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel héros troyen est tué par Achille ?",
-    "answers": [
-      "Énée",
-      "Priam",
-      "Hector",
-      "Pâris"
-    ],
-    "correctIndex": 2
+    "text": "Quel héros grec est associé au cheval de Troie par sa ruse ?",
+    "answers": ["Ulysse", "Ménélas", "Hector", "Ajax"],
+    "correctIndex": 0
   },
   {
     "id": "q174",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel géant biblique est vaincu par David ?",
-    "answers": [
-      "Og",
-      "Nephilim",
-      "Anak",
-      "Goliath"
-    ],
-    "correctIndex": 3
+    "text": "Quelle déesse grecque est associée à la chasse ?",
+    "answers": ["Athéna", "Artémis", "Aphrodite", "Héra"],
+    "correctIndex": 1
   },
+
   {
     "id": "q175",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Héra",
-      "Artémis",
-      "Aphrodite",
-      "Athéna"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est fils de Zeus et d’Alcmène ?",
+    "answers": ["Persée", "Jason", "Héraclès", "Achille"],
+    "correctIndex": 2
   },
   {
     "id": "q176",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel héros grec a vaincu le Minotaure ?",
-    "answers": [
-      "Héraclès",
-      "Thésée",
-      "Achille",
-      "Persée"
-    ],
-    "correctIndex": 1
+    "text": "Quelle créature mythique est un monstre marin géant souvent cité dans les sagas nordiques ?",
+    "answers": ["Scylla", "Charybde", "Hydre", "Kraken"],
+    "correctIndex": 3
   },
+
   {
     "id": "q177",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Héra",
-      "Aphrodite",
-      "Artémis",
-      "Athéna"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est connu pour sa grande intelligence et sa ruse ?",
+    "answers": ["Ulysse", "Achille", "Ajax", "Hector"],
+    "correctIndex": 0
   },
   {
     "id": "q178",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Athéna",
-      "Artémis",
-      "Aphrodite",
-      "Héra"
-    ],
-    "correctIndex": 0
+    "text": "Quel dieu grec est associé à la mer ?",
+    "answers": ["Apollon", "Poséidon", "Hermès", "Arès"],
+    "correctIndex": 1
   },
+
   {
     "id": "q179",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel géant biblique est vaincu par David ?",
-    "answers": [
-      "Anak",
-      "Goliath",
-      "Nephilim",
-      "Og"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est lié à la fondation mythique de Rome ?",
+    "answers": ["Romulus", "Persée", "Énée", "Jason"],
+    "correctIndex": 2
   },
   {
     "id": "q180",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel héros troyen est tué par Achille ?",
-    "answers": [
-      "Priam",
-      "Pâris",
-      "Hector",
-      "Énée"
-    ],
-    "correctIndex": 2
+    "text": "Quelle créature mythique est une femme-serpent dans le folklore européen ?",
+    "answers": ["La gorgone", "La lamia", "La sirène", "Mélusine"],
+    "correctIndex": 3
   },
+
   {
     "id": "q181",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quelle créature a une tête de lion, un corps de chèvre et une queue de serpent ?",
-    "answers": [
-      "Sphinx",
-      "Hydre",
-      "Manticores",
-      "Chimère"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est connu pour avoir vaincu la Chimère ?",
+    "answers": ["Bellérophon", "Persée", "Héraclès", "Jason"],
+    "correctIndex": 0
   },
   {
     "id": "q182",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel roi britannique est associé à la légende d'Excalibur ?",
-    "answers": [
-      "Henri",
-      "Arthur",
-      "Édouard",
-      "Richard"
-    ],
+    "text": "Quel dieu grec est associé à l’amour ?",
+    "answers": ["Athéna", "Aphrodite", "Artémis", "Déméter"],
     "correctIndex": 1
   },
+
   {
     "id": "q183",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quelle créature a une tête de lion, un corps de chèvre et une queue de serpent ?",
-    "answers": [
-      "Chimère",
-      "Hydre",
-      "Sphinx",
-      "Manticores"
-    ],
-    "correctIndex": 0
+    "text": "Quel héros grec est le père de Télémaque ?",
+    "answers": ["Achille", "Hector", "Ulysse", "Agamemnon"],
+    "correctIndex": 2
   },
   {
     "id": "q184",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel géant biblique est vaincu par David ?",
-    "answers": [
-      "Og",
-      "Anak",
-      "Goliath",
-      "Nephilim"
-    ],
-    "correctIndex": 2
+    "text": "Quelle créature mythique est un esprit féminin de l’air dans certaines légendes ?",
+    "answers": ["La sirène", "La nymphe", "La fée", "La sylphide"],
+    "correctIndex": 3
   },
+
   {
     "id": "q185",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quelle créature a une tête de lion, un corps de chèvre et une queue de serpent ?",
-    "answers": [
-      "Manticores",
-      "Hydre",
-      "Sphinx",
-      "Chimère"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est associé à la constellation du Lion ?",
+    "answers": ["Héraclès", "Persée", "Orion", "Jason"],
+    "correctIndex": 0
   },
   {
     "id": "q186",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel héros grec a vaincu le Minotaure ?",
-    "answers": [
-      "Héraclès",
-      "Achille",
-      "Thésée",
-      "Persée"
-    ],
-    "correctIndex": 2
+    "text": "Quel dieu grec est associé aux arts et à la musique ?",
+    "answers": ["Hermès", "Apollon", "Arès", "Hadès"],
+    "correctIndex": 1
   },
+
   {
     "id": "q187",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Héra",
-      "Aphrodite",
-      "Athéna",
-      "Artémis"
-    ],
+    "text": "Quel héros grec a tué le sanglier de Calydon ?",
+    "answers": ["Persée", "Jason", "Méléagre", "Héraclès"],
     "correctIndex": 2
   },
   {
     "id": "q188",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel animal accompagne souvent la sorcière dans les contes ?",
-    "answers": [
-      "Chat noir",
-      "Chouette",
-      "Chien",
-      "Corbeau"
-    ],
-    "correctIndex": 0
+    "text": "Quelle créature mythique est un esprit renard capable de métamorphose ?",
+    "answers": ["Oni", "Tengu", "Kappa", "Kitsune"],
+    "correctIndex": 3
   },
+
   {
     "id": "q189",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Aphrodite",
-      "Héra",
-      "Athéna",
-      "Artémis"
-    ],
-    "correctIndex": 2
+    "text": "Quel héros grec est associé à la constellation d’Orion ?",
+    "answers": ["Orion", "Persée", "Héraclès", "Achille"],
+    "correctIndex": 0
   },
   {
     "id": "q190",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel animal accompagne souvent la sorcière dans les contes ?",
-    "answers": [
-      "Chouette",
-      "Chien",
-      "Chat noir",
-      "Corbeau"
-    ],
-    "correctIndex": 2
+    "text": "Quelle déesse grecque est la protectrice du foyer ?",
+    "answers": ["Héra", "Hestia", "Déméter", "Athéna"],
+    "correctIndex": 1
   },
+
   {
     "id": "q191",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Dans quelle ville se déroulent les aventures de Robin des Bois ?",
-    "answers": [
-      "Canterbury",
-      "Londres",
-      "York",
-      "Nottingham"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est connu pour avoir défié les dieux par orgueil musical ?",
+    "answers": ["Orphée", "Marsyas", "Apollon", "Pan"],
+    "correctIndex": 2
   },
   {
     "id": "q192",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Artémis",
-      "Athéna",
-      "Héra",
-      "Aphrodite"
-    ],
-    "correctIndex": 1
+    "text": "Quelle créature mythique est un esprit de la mort dans le folklore irlandais ?",
+    "answers": ["La fée", "La nymphe", "La sirène", "La banshee"],
+    "correctIndex": 3
   },
+
   {
     "id": "q193",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel géant biblique est vaincu par David ?",
-    "answers": [
-      "Anak",
-      "Nephilim",
-      "Goliath",
-      "Og"
-    ],
-    "correctIndex": 2
+    "text": "Quel héros grec a vaincu le lion de Némée ?",
+    "answers": ["Héraclès", "Persée", "Jason", "Thésée"],
+    "correctIndex": 0
   },
   {
     "id": "q194",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel géant biblique est vaincu par David ?",
-    "answers": [
-      "Anak",
-      "Og",
-      "Goliath",
-      "Nephilim"
-    ],
-    "correctIndex": 2
+    "text": "Quel dieu grec est le dieu des morts ?",
+    "answers": ["Zeus", "Hadès", "Poséidon", "Apollon"],
+    "correctIndex": 1
   },
+
   {
     "id": "q195",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Dans quelle ville se déroulent les aventures de Robin des Bois ?",
-    "answers": [
-      "York",
-      "Nottingham",
-      "Londres",
-      "Canterbury"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est lié au voyage aux Enfers dans l’Odyssée ?",
+    "answers": ["Achille", "Héraclès", "Ulysse", "Persée"],
+    "correctIndex": 2
   },
   {
     "id": "q196",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel animal accompagne souvent la sorcière dans les contes ?",
-    "answers": [
-      "Corbeau",
-      "Chat noir",
-      "Chouette",
-      "Chien"
-    ],
-    "correctIndex": 1
+    "text": "Quelle créature mythique est un esprit des montagnes dans le folklore asiatique ?",
+    "answers": ["Kappa", "Kitsune", "Kodama", "Tengu"],
+    "correctIndex": 3
   },
+
   {
     "id": "q197",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel géant biblique est vaincu par David ?",
-    "answers": [
-      "Goliath",
-      "Og",
-      "Anak",
-      "Nephilim"
-    ],
+    "text": "Quel héros grec est connu pour avoir survécu à de nombreux monstres lors de son retour ?",
+    "answers": ["Ulysse", "Jason", "Persée", "Thésée"],
     "correctIndex": 0
   },
   {
     "id": "q198",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel est le nom du marteau de Thor ?",
-    "answers": [
-      "Gram",
-      "Gungnir",
-      "Andúril",
-      "Mjöllnir"
-    ],
-    "correctIndex": 3
+    "text": "Quelle déesse grecque est associée à la sagesse ?",
+    "answers": ["Héra", "Athéna", "Aphrodite", "Artémis"],
+    "correctIndex": 1
   },
+
   {
     "id": "q199",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Dans quelle ville se déroulent les aventures de Robin des Bois ?",
-    "answers": [
-      "Nottingham",
-      "York",
-      "Londres",
-      "Canterbury"
-    ],
-    "correctIndex": 0
+    "text": "Quel héros grec est le fondateur mythique de la lignée romaine ?",
+    "answers": ["Romulus", "Persée", "Énée", "Héraclès"],
+    "correctIndex": 2
   },
   {
     "id": "q200",
     "category": "Légendes",
     "difficulty": "Facile",
-    "text": "Quel est le nom du marteau de Thor ?",
-    "answers": [
-      "Gram",
-      "Andúril",
-      "Gungnir",
-      "Mjöllnir"
-    ],
+    "text": "Quelle créature mythique est un esprit féminin de la forêt dans les légendes européennes ?",
+    "answers": ["La sirène", "La fée", "La nymphe", "La dryade"],
     "correctIndex": 3
-  },
-  {
-    "id": "q201",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel roi britannique est associé à la légende d'Excalibur ?",
-    "answers": [
-      "Henri",
-      "Richard",
-      "Édouard",
-      "Arthur"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q202",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Dans quelle ville se déroulent les aventures de Robin des Bois ?",
-    "answers": [
-      "Nottingham",
-      "York",
-      "Canterbury",
-      "Londres"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q203",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel est le nom du marteau de Thor ?",
-    "answers": [
-      "Gram",
-      "Mjöllnir",
-      "Andúril",
-      "Gungnir"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q204",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel géant biblique est vaincu par David ?",
-    "answers": [
-      "Anak",
-      "Og",
-      "Nephilim",
-      "Goliath"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q205",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel dragon est terrassé par Saint Georges ?",
-    "answers": [
-      "Serpent",
-      "Basilic",
-      "Dragon",
-      "Wyvern"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q206",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel héros troyen est tué par Achille ?",
-    "answers": [
-      "Priam",
-      "Pâris",
-      "Hector",
-      "Énée"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q207",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quelle créature a une tête de lion, un corps de chèvre et une queue de serpent ?",
-    "answers": [
-      "Hydre",
-      "Sphinx",
-      "Chimère",
-      "Manticores"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q208",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Dans quelle ville se déroulent les aventures de Robin des Bois ?",
-    "answers": [
-      "Canterbury",
-      "Londres",
-      "York",
-      "Nottingham"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q209",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel héros troyen est tué par Achille ?",
-    "answers": [
-      "Hector",
-      "Pâris",
-      "Énée",
-      "Priam"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q210",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel dragon est terrassé par Saint Georges ?",
-    "answers": [
-      "Dragon",
-      "Serpent",
-      "Basilic",
-      "Wyvern"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q211",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel roi britannique est associé à la légende d'Excalibur ?",
-    "answers": [
-      "Henri",
-      "Arthur",
-      "Richard",
-      "Édouard"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q212",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Héra",
-      "Artémis",
-      "Athéna",
-      "Aphrodite"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q213",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel héros grec a vaincu le Minotaure ?",
-    "answers": [
-      "Thésée",
-      "Héraclès",
-      "Persée",
-      "Achille"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q214",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel héros grec a vaincu le Minotaure ?",
-    "answers": [
-      "Achille",
-      "Héraclès",
-      "Thésée",
-      "Persée"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q215",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel dragon est terrassé par Saint Georges ?",
-    "answers": [
-      "Dragon",
-      "Wyvern",
-      "Serpent",
-      "Basilic"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q216",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Héra",
-      "Aphrodite",
-      "Athéna",
-      "Artémis"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q217",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel animal accompagne souvent la sorcière dans les contes ?",
-    "answers": [
-      "Chat noir",
-      "Chien",
-      "Corbeau",
-      "Chouette"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q218",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel est le nom du marteau de Thor ?",
-    "answers": [
-      "Andúril",
-      "Mjöllnir",
-      "Gram",
-      "Gungnir"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q219",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Dans quelle ville se déroulent les aventures de Robin des Bois ?",
-    "answers": [
-      "York",
-      "Londres",
-      "Canterbury",
-      "Nottingham"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q220",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel roi britannique est associé à la légende d'Excalibur ?",
-    "answers": [
-      "Henri",
-      "Arthur",
-      "Édouard",
-      "Richard"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q221",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel dragon est terrassé par Saint Georges ?",
-    "answers": [
-      "Dragon",
-      "Basilic",
-      "Wyvern",
-      "Serpent"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q222",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel est le nom du marteau de Thor ?",
-    "answers": [
-      "Andúril",
-      "Gram",
-      "Mjöllnir",
-      "Gungnir"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q223",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel animal accompagne souvent la sorcière dans les contes ?",
-    "answers": [
-      "Chien",
-      "Corbeau",
-      "Chouette",
-      "Chat noir"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q224",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel géant biblique est vaincu par David ?",
-    "answers": [
-      "Anak",
-      "Goliath",
-      "Og",
-      "Nephilim"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q225",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Athéna",
-      "Artémis",
-      "Aphrodite",
-      "Héra"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q226",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel héros grec a vaincu le Minotaure ?",
-    "answers": [
-      "Achille",
-      "Thésée",
-      "Héraclès",
-      "Persée"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q227",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel animal accompagne souvent la sorcière dans les contes ?",
-    "answers": [
-      "Chien",
-      "Corbeau",
-      "Chouette",
-      "Chat noir"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q228",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel est le nom du marteau de Thor ?",
-    "answers": [
-      "Andúril",
-      "Gram",
-      "Gungnir",
-      "Mjöllnir"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q229",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel animal accompagne souvent la sorcière dans les contes ?",
-    "answers": [
-      "Chouette",
-      "Chat noir",
-      "Corbeau",
-      "Chien"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q230",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel héros troyen est tué par Achille ?",
-    "answers": [
-      "Priam",
-      "Énée",
-      "Pâris",
-      "Hector"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q231",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel héros troyen est tué par Achille ?",
-    "answers": [
-      "Priam",
-      "Pâris",
-      "Énée",
-      "Hector"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q232",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel héros grec a vaincu le Minotaure ?",
-    "answers": [
-      "Persée",
-      "Thésée",
-      "Héraclès",
-      "Achille"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q233",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel roi britannique est associé à la légende d'Excalibur ?",
-    "answers": [
-      "Édouard",
-      "Henri",
-      "Arthur",
-      "Richard"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q234",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel roi britannique est associé à la légende d'Excalibur ?",
-    "answers": [
-      "Arthur",
-      "Henri",
-      "Édouard",
-      "Richard"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q235",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel héros troyen est tué par Achille ?",
-    "answers": [
-      "Pâris",
-      "Priam",
-      "Hector",
-      "Énée"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q236",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quelle créature a une tête de lion, un corps de chèvre et une queue de serpent ?",
-    "answers": [
-      "Manticores",
-      "Sphinx",
-      "Hydre",
-      "Chimère"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q237",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Héra",
-      "Aphrodite",
-      "Artémis",
-      "Athéna"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q238",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quelle créature a une tête de lion, un corps de chèvre et une queue de serpent ?",
-    "answers": [
-      "Hydre",
-      "Manticores",
-      "Sphinx",
-      "Chimère"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q239",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel géant biblique est vaincu par David ?",
-    "answers": [
-      "Goliath",
-      "Og",
-      "Anak",
-      "Nephilim"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q240",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel est le nom du marteau de Thor ?",
-    "answers": [
-      "Andúril",
-      "Mjöllnir",
-      "Gram",
-      "Gungnir"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q241",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel roi britannique est associé à la légende d'Excalibur ?",
-    "answers": [
-      "Henri",
-      "Édouard",
-      "Arthur",
-      "Richard"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q242",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Athéna",
-      "Aphrodite",
-      "Artémis",
-      "Héra"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q243",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Dans quelle ville se déroulent les aventures de Robin des Bois ?",
-    "answers": [
-      "York",
-      "Canterbury",
-      "Londres",
-      "Nottingham"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q244",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Aphrodite",
-      "Artémis",
-      "Athéna",
-      "Héra"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q245",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Dans quelle ville se déroulent les aventures de Robin des Bois ?",
-    "answers": [
-      "Nottingham",
-      "Canterbury",
-      "Londres",
-      "York"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q246",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel est le nom du marteau de Thor ?",
-    "answers": [
-      "Mjöllnir",
-      "Andúril",
-      "Gram",
-      "Gungnir"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q247",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel est le nom du marteau de Thor ?",
-    "answers": [
-      "Andúril",
-      "Gram",
-      "Gungnir",
-      "Mjöllnir"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q248",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quelle créature a une tête de lion, un corps de chèvre et une queue de serpent ?",
-    "answers": [
-      "Hydre",
-      "Manticores",
-      "Chimère",
-      "Sphinx"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q249",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Athéna",
-      "Héra",
-      "Artémis",
-      "Aphrodite"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q250",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel héros grec a vaincu le Minotaure ?",
-    "answers": [
-      "Héraclès",
-      "Achille",
-      "Thésée",
-      "Persée"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q251",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quelle créature a une tête de lion, un corps de chèvre et une queue de serpent ?",
-    "answers": [
-      "Manticores",
-      "Sphinx",
-      "Hydre",
-      "Chimère"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q252",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel animal accompagne souvent la sorcière dans les contes ?",
-    "answers": [
-      "Corbeau",
-      "Chouette",
-      "Chien",
-      "Chat noir"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q253",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel géant biblique est vaincu par David ?",
-    "answers": [
-      "Og",
-      "Nephilim",
-      "Goliath",
-      "Anak"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q254",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel roi britannique est associé à la légende d'Excalibur ?",
-    "answers": [
-      "Édouard",
-      "Arthur",
-      "Richard",
-      "Henri"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q255",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel animal accompagne souvent la sorcière dans les contes ?",
-    "answers": [
-      "Chat noir",
-      "Chouette",
-      "Corbeau",
-      "Chien"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q256",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quelle créature a une tête de lion, un corps de chèvre et une queue de serpent ?",
-    "answers": [
-      "Hydre",
-      "Sphinx",
-      "Manticores",
-      "Chimère"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q257",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Athéna",
-      "Aphrodite",
-      "Artémis",
-      "Héra"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q258",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel est le nom du marteau de Thor ?",
-    "answers": [
-      "Gram",
-      "Andúril",
-      "Gungnir",
-      "Mjöllnir"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q259",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel géant biblique est vaincu par David ?",
-    "answers": [
-      "Goliath",
-      "Nephilim",
-      "Anak",
-      "Og"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q260",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel animal accompagne souvent la sorcière dans les contes ?",
-    "answers": [
-      "Chouette",
-      "Corbeau",
-      "Chien",
-      "Chat noir"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q261",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel roi britannique est associé à la légende d'Excalibur ?",
-    "answers": [
-      "Henri",
-      "Édouard",
-      "Arthur",
-      "Richard"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q262",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel héros troyen est tué par Achille ?",
-    "answers": [
-      "Pâris",
-      "Priam",
-      "Énée",
-      "Hector"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q263",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Dans quelle ville se déroulent les aventures de Robin des Bois ?",
-    "answers": [
-      "Nottingham",
-      "Canterbury",
-      "Londres",
-      "York"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q264",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel est le nom du marteau de Thor ?",
-    "answers": [
-      "Mjöllnir",
-      "Gram",
-      "Gungnir",
-      "Andúril"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q265",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel géant biblique est vaincu par David ?",
-    "answers": [
-      "Og",
-      "Goliath",
-      "Anak",
-      "Nephilim"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q266",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Dans quelle ville se déroulent les aventures de Robin des Bois ?",
-    "answers": [
-      "Nottingham",
-      "Londres",
-      "Canterbury",
-      "York"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q267",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel héros troyen est tué par Achille ?",
-    "answers": [
-      "Pâris",
-      "Énée",
-      "Priam",
-      "Hector"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q268",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quelle créature a une tête de lion, un corps de chèvre et une queue de serpent ?",
-    "answers": [
-      "Chimère",
-      "Sphinx",
-      "Manticores",
-      "Hydre"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q269",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quelle créature a une tête de lion, un corps de chèvre et une queue de serpent ?",
-    "answers": [
-      "Chimère",
-      "Manticores",
-      "Sphinx",
-      "Hydre"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q270",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Aphrodite",
-      "Athéna",
-      "Artémis",
-      "Héra"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q271",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel héros troyen est tué par Achille ?",
-    "answers": [
-      "Priam",
-      "Hector",
-      "Énée",
-      "Pâris"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q272",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Qui est la déesse grecque de la sagesse ?",
-    "answers": [
-      "Artémis",
-      "Héra",
-      "Athéna",
-      "Aphrodite"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q273",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Dans quelle ville se déroulent les aventures de Robin des Bois ?",
-    "answers": [
-      "Nottingham",
-      "Londres",
-      "York",
-      "Canterbury"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q274",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel est le nom du marteau de Thor ?",
-    "answers": [
-      "Mjöllnir",
-      "Gungnir",
-      "Gram",
-      "Andúril"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q275",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Dans quelle ville se déroulent les aventures de Robin des Bois ?",
-    "answers": [
-      "Londres",
-      "York",
-      "Nottingham",
-      "Canterbury"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q276",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel roi britannique est associé à la légende d'Excalibur ?",
-    "answers": [
-      "Henri",
-      "Richard",
-      "Arthur",
-      "Édouard"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q277",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel géant biblique est vaincu par David ?",
-    "answers": [
-      "Og",
-      "Nephilim",
-      "Anak",
-      "Goliath"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q278",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Dans quelle ville se déroulent les aventures de Robin des Bois ?",
-    "answers": [
-      "Canterbury",
-      "Nottingham",
-      "Londres",
-      "York"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q279",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel roi britannique est associé à la légende d'Excalibur ?",
-    "answers": [
-      "Richard",
-      "Édouard",
-      "Arthur",
-      "Henri"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q280",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel dragon est terrassé par Saint Georges ?",
-    "answers": [
-      "Serpent",
-      "Dragon",
-      "Basilic",
-      "Wyvern"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q281",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel roi britannique est associé à la légende d'Excalibur ?",
-    "answers": [
-      "Richard",
-      "Édouard",
-      "Henri",
-      "Arthur"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q282",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel roi britannique est associé à la légende d'Excalibur ?",
-    "answers": [
-      "Richard",
-      "Arthur",
-      "Henri",
-      "Édouard"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q283",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quelle créature a une tête de lion, un corps de chèvre et une queue de serpent ?",
-    "answers": [
-      "Manticores",
-      "Chimère",
-      "Sphinx",
-      "Hydre"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q284",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel est le nom du marteau de Thor ?",
-    "answers": [
-      "Gram",
-      "Gungnir",
-      "Mjöllnir",
-      "Andúril"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q285",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel héros grec a vaincu le Minotaure ?",
-    "answers": [
-      "Héraclès",
-      "Persée",
-      "Thésée",
-      "Achille"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q286",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel héros troyen est tué par Achille ?",
-    "answers": [
-      "Hector",
-      "Pâris",
-      "Énée",
-      "Priam"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q287",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel héros troyen est tué par Achille ?",
-    "answers": [
-      "Hector",
-      "Pâris",
-      "Priam",
-      "Énée"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q288",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel géant biblique est vaincu par David ?",
-    "answers": [
-      "Anak",
-      "Og",
-      "Nephilim",
-      "Goliath"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q289",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quelle créature a une tête de lion, un corps de chèvre et une queue de serpent ?",
-    "answers": [
-      "Manticores",
-      "Chimère",
-      "Hydre",
-      "Sphinx"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q290",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel dragon est terrassé par Saint Georges ?",
-    "answers": [
-      "Serpent",
-      "Dragon",
-      "Wyvern",
-      "Basilic"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q291",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Dans quelle ville se déroulent les aventures de Robin des Bois ?",
-    "answers": [
-      "Nottingham",
-      "Londres",
-      "Canterbury",
-      "York"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q292",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quelle créature a une tête de lion, un corps de chèvre et une queue de serpent ?",
-    "answers": [
-      "Manticores",
-      "Sphinx",
-      "Hydre",
-      "Chimère"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q293",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel héros grec a vaincu le Minotaure ?",
-    "answers": [
-      "Héraclès",
-      "Persée",
-      "Thésée",
-      "Achille"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q294",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel roi britannique est associé à la légende d'Excalibur ?",
-    "answers": [
-      "Henri",
-      "Arthur",
-      "Édouard",
-      "Richard"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q295",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel héros troyen est tué par Achille ?",
-    "answers": [
-      "Pâris",
-      "Hector",
-      "Énée",
-      "Priam"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q296",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel est le nom du marteau de Thor ?",
-    "answers": [
-      "Gram",
-      "Gungnir",
-      "Andúril",
-      "Mjöllnir"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q297",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel est le nom du marteau de Thor ?",
-    "answers": [
-      "Gungnir",
-      "Mjöllnir",
-      "Andúril",
-      "Gram"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q298",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Dans quelle ville se déroulent les aventures de Robin des Bois ?",
-    "answers": [
-      "Canterbury",
-      "York",
-      "Nottingham",
-      "Londres"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q299",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Dans quelle ville se déroulent les aventures de Robin des Bois ?",
-    "answers": [
-      "Nottingham",
-      "Canterbury",
-      "York",
-      "Londres"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q300",
-    "category": "Légendes",
-    "difficulty": "Facile",
-    "text": "Quel roi britannique est associé à la légende d'Excalibur ?",
-    "answers": [
-      "Édouard",
-      "Richard",
-      "Arthur",
-      "Henri"
-    ],
-    "correctIndex": 2
   }
 ]
