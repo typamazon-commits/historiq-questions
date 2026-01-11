@@ -3,3900 +3,1666 @@
     "id": "q1",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi anglais fut capturé pendant la guerre de Cent Ans ?",
-    "answers": [
-      "Édouard IV",
-      "Henri VI",
-      "Richard II",
-      "Jean II le Bon"
-    ],
-    "correctIndex": 3
+    "text": "Quel système social organisait les relations entre seigneurs et vassaux au Moyen Âge ?",
+    "answers": ["La féodalité", "Le mercantilisme", "La démocratie", "Le capitalisme"],
+    "correctIndex": 0
   },
   {
     "id": "q2",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Aix-la-Chapelle",
-      "Tours",
-      "Paris",
-      "Reims"
-    ],
-    "correctIndex": 0
+    "text": "Quel serment liait un vassal à son seigneur ?",
+    "answers": ["Le sacre", "L’hommage", "Le baptême", "Le contrat"],
+    "correctIndex": 1
   },
   {
     "id": "q3",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel est l'architecte célèbre des cathédrales gothiques ?",
-    "answers": [
-      "Abélard",
-      "Suger",
-      "Pierre de Montreuil",
-      "Villard de Honnecourt"
-    ],
-    "correctIndex": 3
+    "text": "Quel ordre religieux est fondé par Benoît de Nursie ?",
+    "answers": ["Les franciscains", "Les dominicains", "Les bénédictins", "Les templiers"],
+    "correctIndex": 2
   },
   {
     "id": "q4",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "En quelle année a eu lieu la bataille de Bouvines ?",
-    "answers": [
-      "1415",
-      "1099",
-      "1066",
-      "1214"
-    ],
+    "text": "Quel impôt médiéval était payé à l’Église par les paysans ?",
+    "answers": ["Le cens", "La taille", "La corvée", "La dîme"],
     "correctIndex": 3
   },
+
   {
     "id": "q5",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel était l'usage principal des moulins à vent au Moyen-Âge ?",
-    "answers": [
-      "Produire du papier",
-      "Produire de la farine",
-      "Pomper de l'eau",
-      "Moudre le grain"
-    ],
-    "correctIndex": 3
+    "text": "Quel type de château est caractéristique du début du Moyen Âge ?",
+    "answers": ["Le château à motte", "Le château Renaissance", "Le palais royal", "La citadelle bastionnée"],
+    "correctIndex": 0
   },
   {
     "id": "q6",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Qui fut le premier roi capétien ?",
-    "answers": [
-      "Hugues Capet",
-      "Robert II",
-      "Charles le Chauve",
-      "Louis le Pieux"
-    ],
-    "correctIndex": 0
+    "text": "Quel texte juridique recense les droits et devoirs des seigneurs sur les terres ?",
+    "answers": ["Le codex", "Le terrier", "La charte", "Le capitulaire"],
+    "correctIndex": 1
   },
   {
     "id": "q7",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi a ordonné l'arrestation des Templiers en 1307 ?",
-    "answers": [
-      "Charles V",
-      "Philippe VI",
-      "Philippe le Bel",
-      "Louis IX"
-    ],
+    "text": "Quel ordre militaire protégeait les pèlerins en Terre sainte ?",
+    "answers": ["Les hospitaliers", "Les bénédictins", "Les templiers", "Les cisterciens"],
     "correctIndex": 2
   },
   {
     "id": "q8",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi anglais fut capturé pendant la guerre de Cent Ans ?",
-    "answers": [
-      "Richard II",
-      "Jean II le Bon",
-      "Édouard IV",
-      "Henri VI"
-    ],
-    "correctIndex": 1
+    "text": "Quel événement marque traditionnellement le début du Moyen Âge en Europe ?",
+    "answers": ["La bataille de Poitiers", "Le sac de Rome", "Le sac de Constantinople", "La chute de l’Empire romain d’Occident"],
+    "correctIndex": 3
   },
+
   {
     "id": "q9",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Qui fut le premier roi capétien ?",
-    "answers": [
-      "Charles le Chauve",
-      "Louis le Pieux",
-      "Robert II",
-      "Hugues Capet"
-    ],
-    "correctIndex": 3
+    "text": "Quel personnage détenait l’autorité spirituelle sur un diocèse ?",
+    "answers": ["L’évêque", "L’abbé", "Le pape", "Le prêtre"],
+    "correctIndex": 0
   },
   {
     "id": "q10",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "En quelle année a eu lieu la bataille de Bouvines ?",
-    "answers": [
-      "1214",
-      "1066",
-      "1415",
-      "1099"
-    ],
-    "correctIndex": 0
+    "text": "Comment appelait-on un seigneur dépendant d’un autre plus puissant ?",
+    "answers": ["Un suzerain", "Un vassal", "Un prévôt", "Un bailli"],
+    "correctIndex": 1
   },
   {
     "id": "q11",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel était l'usage principal des moulins à vent au Moyen-Âge ?",
-    "answers": [
-      "Pomper de l'eau",
-      "Produire du papier",
-      "Moudre le grain",
-      "Produire de la farine"
-    ],
+    "text": "Quel type d’écrit relatait les événements historiques année par année ?",
+    "answers": ["La charte", "Le cartulaire", "La chronique", "Le capitulaire"],
     "correctIndex": 2
   },
   {
     "id": "q12",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi anglais fut capturé pendant la guerre de Cent Ans ?",
-    "answers": [
-      "Henri VI",
-      "Jean II le Bon",
-      "Édouard IV",
-      "Richard II"
-    ],
-    "correctIndex": 1
+    "text": "Quel bâtiment central accueillait les offices dans un monastère ?",
+    "answers": ["Le réfectoire", "Le dortoir", "Le scriptorium", "L’église abbatiale"],
+    "correctIndex": 3
   },
+
   {
     "id": "q13",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel est l'architecte célèbre des cathédrales gothiques ?",
-    "answers": [
-      "Villard de Honnecourt",
-      "Pierre de Montreuil",
-      "Suger",
-      "Abélard"
-    ],
+    "text": "Quel roi est sacré empereur d’Occident en 800 ?",
+    "answers": ["Charlemagne", "Clovis", "Hugues Capet", "Otton Ier"],
     "correctIndex": 0
   },
   {
     "id": "q14",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Qui fut le premier roi capétien ?",
-    "answers": [
-      "Robert II",
-      "Hugues Capet",
-      "Louis le Pieux",
-      "Charles le Chauve"
-    ],
+    "text": "Quel terme désigne un paysan juridiquement attaché à la terre ?",
+    "answers": ["Un vilain", "Un serf", "Un manant", "Un artisan"],
     "correctIndex": 1
   },
   {
     "id": "q15",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi a ordonné l'arrestation des Templiers en 1307 ?",
-    "answers": [
-      "Philippe le Bel",
-      "Louis IX",
-      "Philippe VI",
-      "Charles V"
-    ],
-    "correctIndex": 0
+    "text": "Quel art décoratif médiéval consiste à illustrer les manuscrits ?",
+    "answers": ["La gravure", "La sculpture", "L’enluminure", "La fresque"],
+    "correctIndex": 2
   },
   {
     "id": "q16",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel traité mit fin à la guerre de Cent Ans ?",
-    "answers": [
-      "Traité de Paris",
-      "Traité de Picquigny",
-      "Traité de Verdun",
-      "Traité de Troyes"
-    ],
-    "correctIndex": 1
+    "text": "Quel concile a renforcé l’autorité du pape au Moyen Âge central ?",
+    "answers": ["Nicée", "Trente", "Chalcédoine", "Latran IV"],
+    "correctIndex": 3
   },
+
   {
     "id": "q17",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Qui fut le premier roi capétien ?",
-    "answers": [
-      "Hugues Capet",
-      "Charles le Chauve",
-      "Louis le Pieux",
-      "Robert II"
-    ],
+    "text": "Quel type de monnaie circule majoritairement au Moyen Âge ?",
+    "answers": ["La monnaie métallique", "Le papier-monnaie", "La monnaie électronique", "Le troc uniquement"],
     "correctIndex": 0
   },
   {
     "id": "q18",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Reims",
-      "Aix-la-Chapelle",
-      "Tours",
-      "Paris"
-    ],
+    "text": "Comment appelait-on un acte écrit accordant des privilèges à une ville ?",
+    "answers": ["Un édit", "Une charte de franchise", "Un capitulaire", "Un traité"],
     "correctIndex": 1
   },
   {
     "id": "q19",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel ordre religieux a été fondé pour protéger les pèlerins en Terre sainte ?",
-    "answers": [
-      "Dominicains",
-      "Franciscains",
-      "Bénédictins",
-      "Templiers"
-    ],
-    "correctIndex": 3
+    "text": "Quel ordre religieux prône la pauvreté absolue au XIIIe siècle ?",
+    "answers": ["Les bénédictins", "Les cisterciens", "Les franciscains", "Les templiers"],
+    "correctIndex": 2
   },
   {
     "id": "q20",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel était l'usage principal des moulins à vent au Moyen-Âge ?",
-    "answers": [
-      "Moudre le grain",
-      "Produire de la farine",
-      "Pomper de l'eau",
-      "Produire du papier"
-    ],
-    "correctIndex": 0
+    "text": "Quelle institution médiévale jugeait les crimes religieux ?",
+    "answers": ["Le parlement", "La seigneurie", "Le tribunal royal", "L’Inquisition"],
+    "correctIndex": 3
   },
+
   {
     "id": "q21",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi de France a signé la Magna Carta ?",
-    "answers": [
-      "Aucun",
-      "Louis IX",
-      "Philippe le Bel",
-      "Philippe II"
-    ],
+    "text": "Quel bâtiment servait à conserver les archives seigneuriales ?",
+    "answers": ["La chancellerie", "Le cellier", "La grange", "Le cloître"],
     "correctIndex": 0
   },
   {
     "id": "q22",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi anglais fut capturé pendant la guerre de Cent Ans ?",
-    "answers": [
-      "Richard II",
-      "Édouard IV",
-      "Henri VI",
-      "Jean II le Bon"
-    ],
-    "correctIndex": 3
+    "text": "Quel représentant royal administrait une circonscription locale ?",
+    "answers": ["Le duc", "Le bailli", "Le vassal", "Le chanoine"],
+    "correctIndex": 1
   },
   {
     "id": "q23",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Qui fut le premier roi capétien ?",
-    "answers": [
-      "Robert II",
-      "Hugues Capet",
-      "Louis le Pieux",
-      "Charles le Chauve"
-    ],
-    "correctIndex": 1
+    "text": "Quel type d’assemblée réunissait les grands du royaume ?",
+    "answers": ["Le synode", "Le conseil urbain", "Les états généraux", "La confrérie"],
+    "correctIndex": 2
   },
   {
     "id": "q24",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel ordre religieux a été fondé pour protéger les pèlerins en Terre sainte ?",
-    "answers": [
-      "Franciscains",
-      "Dominicains",
-      "Templiers",
-      "Bénédictins"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment était le cœur économique d’une ville médiévale ?",
+    "answers": ["La cathédrale", "Le château", "Le cloître", "La halle"],
+    "correctIndex": 3
   },
+
   {
     "id": "q25",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "En quelle année a eu lieu la bataille de Bouvines ?",
-    "answers": [
-      "1214",
-      "1415",
-      "1099",
-      "1066"
-    ],
+    "text": "Quel document officialisait un accord entre deux seigneurs ?",
+    "answers": ["Un traité", "Une chronique", "Un missel", "Un inventaire"],
     "correctIndex": 0
   },
   {
     "id": "q26",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel était l'usage principal des moulins à vent au Moyen-Âge ?",
-    "answers": [
-      "Produire de la farine",
-      "Pomper de l'eau",
-      "Moudre le grain",
-      "Produire du papier"
-    ],
-    "correctIndex": 2
+    "text": "Comment appelait-on l’impôt payé en journées de travail ?",
+    "answers": ["La taille", "La corvée", "Le cens", "La dîme"],
+    "correctIndex": 1
   },
   {
     "id": "q27",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi a ordonné l'arrestation des Templiers en 1307 ?",
-    "answers": [
-      "Louis IX",
-      "Philippe VI",
-      "Charles V",
-      "Philippe le Bel"
-    ],
-    "correctIndex": 3
+    "text": "Quelle activité médiévale assurait la conservation des aliments par le sel ?",
+    "answers": ["La pêche", "La chasse", "La salaison", "La fumaison"],
+    "correctIndex": 2
   },
   {
     "id": "q28",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel est l'architecte célèbre des cathédrales gothiques ?",
-    "answers": [
-      "Abélard",
-      "Suger",
-      "Pierre de Montreuil",
-      "Villard de Honnecourt"
-    ],
+    "text": "Quel bâtiment accueillait les étudiants au Moyen Âge tardif ?",
+    "answers": ["Le monastère", "La cathédrale", "La halle", "L’université"],
     "correctIndex": 3
   },
+
   {
     "id": "q29",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel traité mit fin à la guerre de Cent Ans ?",
-    "answers": [
-      "Traité de Troyes",
-      "Traité de Verdun",
-      "Traité de Paris",
-      "Traité de Picquigny"
-    ],
-    "correctIndex": 3
+    "text": "Quel pouvoir détenait le suzerain sur ses vassaux ?",
+    "answers": ["Le pouvoir féodal", "Le pouvoir marchand", "Le pouvoir ecclésiastique", "Le pouvoir communal"],
+    "correctIndex": 0
   },
   {
     "id": "q30",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel était l'usage principal des moulins à vent au Moyen-Âge ?",
-    "answers": [
-      "Produire de la farine",
-      "Pomper de l'eau",
-      "Moudre le grain",
-      "Produire du papier"
-    ],
-    "correctIndex": 2
+    "text": "Comment appelait-on un registre foncier médiéval ?",
+    "answers": ["Un cartulaire", "Un terrier", "Un missel", "Un psautier"],
+    "correctIndex": 1
   },
   {
     "id": "q31",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel était l'usage principal des moulins à vent au Moyen-Âge ?",
-    "answers": [
-      "Pomper de l'eau",
-      "Moudre le grain",
-      "Produire de la farine",
-      "Produire du papier"
-    ],
-    "correctIndex": 1
+    "text": "Quelle activité artisanale travaillait le cuir ?",
+    "answers": ["La cordonnerie", "La forge", "La tannerie", "La verrerie"],
+    "correctIndex": 2
   },
   {
     "id": "q32",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "En quelle année a eu lieu la bataille de Bouvines ?",
-    "answers": [
-      "1099",
-      "1415",
-      "1214",
-      "1066"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment abritait les réunions religieuses d’un chapitre ?",
+    "answers": ["Le cloître", "Le réfectoire", "Le dortoir", "La salle capitulaire"],
+    "correctIndex": 3
   },
+
   {
     "id": "q33",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi de France a signé la Magna Carta ?",
-    "answers": [
-      "Philippe le Bel",
-      "Aucun",
-      "Philippe II",
-      "Louis IX"
-    ],
-    "correctIndex": 1
+    "text": "Quel texte fixait les règles de vie monastique ?",
+    "answers": ["La règle de saint Benoît", "Le capitulaire", "La charte", "Le concile"],
+    "correctIndex": 0
   },
   {
     "id": "q34",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel est l'architecte célèbre des cathédrales gothiques ?",
-    "answers": [
-      "Pierre de Montreuil",
-      "Abélard",
-      "Suger",
-      "Villard de Honnecourt"
-    ],
-    "correctIndex": 3
+    "text": "Comment appelait-on un groupe de marchands d’un même métier ?",
+    "answers": ["Une armée", "Une guilde", "Une paroisse", "Un ordre"],
+    "correctIndex": 1
   },
   {
     "id": "q35",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel traité mit fin à la guerre de Cent Ans ?",
-    "answers": [
-      "Traité de Paris",
-      "Traité de Troyes",
-      "Traité de Verdun",
-      "Traité de Picquigny"
-    ],
-    "correctIndex": 3
+    "text": "Quelle activité médiévale permettait la fabrication des vitraux ?",
+    "answers": ["La poterie", "La peinture", "La verrerie", "La sculpture"],
+    "correctIndex": 2
   },
   {
     "id": "q36",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Qui fut le premier roi capétien ?",
-    "answers": [
-      "Hugues Capet",
-      "Robert II",
-      "Charles le Chauve",
-      "Louis le Pieux"
-    ],
-    "correctIndex": 0
+    "text": "Quel bâtiment abritait les trésors religieux ?",
+    "answers": ["La grange", "La cave", "Le cloître", "Le trésor"],
+    "correctIndex": 3
   },
+
   {
     "id": "q37",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Tours",
-      "Paris",
-      "Reims",
-      "Aix-la-Chapelle"
-    ],
-    "correctIndex": 3
+    "text": "Quel type de justice était rendue par le seigneur ?",
+    "answers": ["La justice seigneuriale", "La justice royale", "La justice ecclésiastique", "La justice communale"],
+    "correctIndex": 0
   },
   {
     "id": "q38",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi anglais fut capturé pendant la guerre de Cent Ans ?",
-    "answers": [
-      "Henri VI",
-      "Richard II",
-      "Édouard IV",
-      "Jean II le Bon"
-    ],
-    "correctIndex": 3
+    "text": "Comment appelait-on une taxe levée par le roi ?",
+    "answers": ["La dîme", "La taille", "Le cens", "La corvée"],
+    "correctIndex": 1
   },
   {
     "id": "q39",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel est l'architecte célèbre des cathédrales gothiques ?",
-    "answers": [
-      "Villard de Honnecourt",
-      "Suger",
-      "Pierre de Montreuil",
-      "Abélard"
-    ],
-    "correctIndex": 0
+    "text": "Quelle activité médiévale concernait la copie des manuscrits ?",
+    "answers": ["La sculpture", "La peinture", "La copie monastique", "La gravure"],
+    "correctIndex": 2
   },
   {
     "id": "q40",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Tours",
-      "Reims",
-      "Aix-la-Chapelle",
-      "Paris"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment servait à enseigner la théologie ?",
+    "answers": ["Le monastère", "La cathédrale", "Le cloître", "L’université"],
+    "correctIndex": 3
   },
+
   {
     "id": "q41",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi a ordonné l'arrestation des Templiers en 1307 ?",
-    "answers": [
-      "Charles V",
-      "Louis IX",
-      "Philippe le Bel",
-      "Philippe VI"
-    ],
-    "correctIndex": 2
+    "text": "Quel pouvoir détenait l’Église au Moyen Âge ?",
+    "answers": ["Un pouvoir spirituel", "Un pouvoir marchand", "Un pouvoir militaire direct", "Un pouvoir industriel"],
+    "correctIndex": 0
   },
   {
     "id": "q42",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Tours",
-      "Reims",
-      "Paris",
-      "Aix-la-Chapelle"
-    ],
-    "correctIndex": 3
+    "text": "Comment appelait-on un texte de loi royal ?",
+    "answers": ["Un codex", "Un capitulaire", "Un missel", "Un terrier"],
+    "correctIndex": 1
   },
   {
     "id": "q43",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel était l'usage principal des moulins à vent au Moyen-Âge ?",
-    "answers": [
-      "Produire de la farine",
-      "Pomper de l'eau",
-      "Produire du papier",
-      "Moudre le grain"
-    ],
-    "correctIndex": 3
+    "text": "Quelle activité permettait de fondre le métal ?",
+    "answers": ["La poterie", "La menuiserie", "La fonderie", "La verrerie"],
+    "correctIndex": 2
   },
   {
     "id": "q44",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi anglais fut capturé pendant la guerre de Cent Ans ?",
-    "answers": [
-      "Henri VI",
-      "Jean II le Bon",
-      "Édouard IV",
-      "Richard II"
-    ],
-    "correctIndex": 1
+    "text": "Quel bâtiment centralisait les décisions urbaines ?",
+    "answers": ["La cathédrale", "Le château", "La halle", "L’hôtel de ville"],
+    "correctIndex": 3
   },
+
   {
     "id": "q45",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Tours",
-      "Paris",
-      "Reims",
-      "Aix-la-Chapelle"
-    ],
-    "correctIndex": 3
+    "text": "Quel élément symbolisait l’autorité seigneuriale ?",
+    "answers": ["Le sceau", "La monnaie", "L’épée", "Le parchemin"],
+    "correctIndex": 0
   },
   {
     "id": "q46",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi a ordonné l'arrestation des Templiers en 1307 ?",
-    "answers": [
-      "Louis IX",
-      "Philippe le Bel",
-      "Philippe VI",
-      "Charles V"
-    ],
+    "text": "Comment appelait-on un responsable religieux d’un monastère ?",
+    "answers": ["Un évêque", "Un abbé", "Un chanoine", "Un curé"],
     "correctIndex": 1
   },
   {
     "id": "q47",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel était l'usage principal des moulins à vent au Moyen-Âge ?",
-    "answers": [
-      "Moudre le grain",
-      "Produire du papier",
-      "Produire de la farine",
-      "Pomper de l'eau"
-    ],
-    "correctIndex": 0
+    "text": "Quelle activité consistait à produire des tapisseries ?",
+    "answers": ["La couture", "La broderie", "La tapisserie", "La teinture"],
+    "correctIndex": 2
   },
   {
     "id": "q48",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi de France a signé la Magna Carta ?",
-    "answers": [
-      "Aucun",
-      "Louis IX",
-      "Philippe le Bel",
-      "Philippe II"
-    ],
-    "correctIndex": 0
+    "text": "Quel bâtiment servait à loger les pèlerins ?",
+    "answers": ["La grange", "Le cloître", "Le marché", "L’hospice"],
+    "correctIndex": 3
   },
+
   {
     "id": "q49",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel est l'architecte célèbre des cathédrales gothiques ?",
-    "answers": [
-      "Pierre de Montreuil",
-      "Suger",
-      "Abélard",
-      "Villard de Honnecourt"
-    ],
-    "correctIndex": 3
+    "text": "Quel outil servait à sceller les documents officiels ?",
+    "answers": ["Le sceau", "La plume", "Le marteau", "Le burin"],
+    "correctIndex": 0
   },
   {
     "id": "q50",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel était l'usage principal des moulins à vent au Moyen-Âge ?",
-    "answers": [
-      "Moudre le grain",
-      "Pomper de l'eau",
-      "Produire de la farine",
-      "Produire du papier"
-    ],
-    "correctIndex": 0
+    "text": "Comment appelait-on un officier chargé des finances locales ?",
+    "answers": ["Le bailli", "Le trésorier", "Le prévôt", "Le sénéchal"],
+    "correctIndex": 1
   },
   {
     "id": "q51",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Tours",
-      "Aix-la-Chapelle",
-      "Paris",
-      "Reims"
-    ],
-    "correctIndex": 1
+    "text": "Quelle activité médiévale permettait de conserver la viande par le sel ?",
+    "answers": ["La fumaison", "La cuisson", "La salaison", "La fermentation"],
+    "correctIndex": 2
   },
   {
     "id": "q52",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "En quelle année a eu lieu la bataille de Bouvines ?",
-    "answers": [
-      "1415",
-      "1066",
-      "1099",
-      "1214"
-    ],
+    "text": "Quel bâtiment médiéval abritait les réunions du chapitre religieux ?",
+    "answers": ["Le cloître", "Le dortoir", "Le réfectoire", "La salle capitulaire"],
     "correctIndex": 3
   },
+
   {
     "id": "q53",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel est l'architecte célèbre des cathédrales gothiques ?",
-    "answers": [
-      "Villard de Honnecourt",
-      "Pierre de Montreuil",
-      "Suger",
-      "Abélard"
-    ],
+    "text": "Quel pouvoir détenait un seigneur sur ses terres ?",
+    "answers": ["Le pouvoir seigneurial", "Le pouvoir royal", "Le pouvoir communal", "Le pouvoir marchand"],
     "correctIndex": 0
   },
   {
     "id": "q54",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "En quelle année a eu lieu la bataille de Bouvines ?",
-    "answers": [
-      "1415",
-      "1066",
-      "1099",
-      "1214"
-    ],
-    "correctIndex": 3
+    "text": "Comment appelait-on un impôt direct perçu par le roi ?",
+    "answers": ["Le cens", "La taille", "La dîme", "La corvée"],
+    "correctIndex": 1
   },
+
   {
     "id": "q55",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi anglais fut capturé pendant la guerre de Cent Ans ?",
-    "answers": [
-      "Henri VI",
-      "Édouard IV",
-      "Richard II",
-      "Jean II le Bon"
-    ],
-    "correctIndex": 3
+    "text": "Quelle activité artisanale transformait les peaux en cuir ?",
+    "answers": ["La cordonnerie", "La forge", "La tannerie", "La menuiserie"],
+    "correctIndex": 2
   },
   {
     "id": "q56",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel est l'architecte célèbre des cathédrales gothiques ?",
-    "answers": [
-      "Suger",
-      "Villard de Honnecourt",
-      "Pierre de Montreuil",
-      "Abélard"
-    ],
-    "correctIndex": 1
+    "text": "Quel bâtiment centralisait les échanges commerciaux d’une ville ?",
+    "answers": ["Le château", "La cathédrale", "Le cloître", "La halle"],
+    "correctIndex": 3
   },
+
   {
     "id": "q57",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel traité mit fin à la guerre de Cent Ans ?",
-    "answers": [
-      "Traité de Picquigny",
-      "Traité de Verdun",
-      "Traité de Paris",
-      "Traité de Troyes"
-    ],
+    "text": "Quel document officiel authentifiait un acte au Moyen Âge ?",
+    "answers": ["Le sceau", "La chronique", "Le missel", "Le terrier"],
     "correctIndex": 0
   },
   {
     "id": "q58",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi a ordonné l'arrestation des Templiers en 1307 ?",
-    "answers": [
-      "Charles V",
-      "Philippe le Bel",
-      "Louis IX",
-      "Philippe VI"
-    ],
+    "text": "Comment appelait-on un officier royal chargé de la justice locale ?",
+    "answers": ["Le duc", "Le bailli", "Le vassal", "Le chanoine"],
     "correctIndex": 1
   },
+
   {
     "id": "q59",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel ordre religieux a été fondé pour protéger les pèlerins en Terre sainte ?",
-    "answers": [
-      "Franciscains",
-      "Dominicains",
-      "Templiers",
-      "Bénédictins"
-    ],
+    "text": "Quelle activité monastique consistait à copier les livres ?",
+    "answers": ["La gravure", "La sculpture", "La copie manuscrite", "La reliure"],
     "correctIndex": 2
   },
   {
     "id": "q60",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel est l'architecte célèbre des cathédrales gothiques ?",
-    "answers": [
-      "Villard de Honnecourt",
-      "Pierre de Montreuil",
-      "Abélard",
-      "Suger"
-    ],
-    "correctIndex": 0
+    "text": "Quel bâtiment conservait les biens précieux d’une abbaye ?",
+    "answers": ["La cave", "Le grenier", "Le cellier", "Le trésor"],
+    "correctIndex": 3
   },
+
   {
     "id": "q61",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Tours",
-      "Aix-la-Chapelle",
-      "Paris",
-      "Reims"
-    ],
-    "correctIndex": 1
+    "text": "Quel système liait juridiquement un vassal à son seigneur ?",
+    "answers": ["La vassalité", "La démocratie", "Le mercantilisme", "La théocratie"],
+    "correctIndex": 0
   },
   {
     "id": "q62",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel traité mit fin à la guerre de Cent Ans ?",
-    "answers": [
-      "Traité de Verdun",
-      "Traité de Troyes",
-      "Traité de Paris",
-      "Traité de Picquigny"
-    ],
-    "correctIndex": 3
+    "text": "Comment appelait-on un document recensant les terres d’un seigneur ?",
+    "answers": ["Un cartulaire", "Un terrier", "Un capitulaire", "Un psautier"],
+    "correctIndex": 1
   },
+
   {
     "id": "q63",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi anglais fut capturé pendant la guerre de Cent Ans ?",
-    "answers": [
-      "Henri VI",
-      "Jean II le Bon",
-      "Richard II",
-      "Édouard IV"
-    ],
-    "correctIndex": 1
+    "text": "Quelle activité médiévale produisait les vitraux des cathédrales ?",
+    "answers": ["La peinture", "La sculpture", "La verrerie", "La tapisserie"],
+    "correctIndex": 2
   },
   {
     "id": "q64",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel était l'usage principal des moulins à vent au Moyen-Âge ?",
-    "answers": [
-      "Produire du papier",
-      "Moudre le grain",
-      "Pomper de l'eau",
-      "Produire de la farine"
-    ],
-    "correctIndex": 1
+    "text": "Quel bâtiment servait à l’enseignement supérieur au Moyen Âge tardif ?",
+    "answers": ["Le monastère", "La cathédrale", "Le cloître", "L’université"],
+    "correctIndex": 3
   },
+
   {
     "id": "q65",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Aix-la-Chapelle",
-      "Paris",
-      "Reims",
-      "Tours"
-    ],
+    "text": "Quel symbole matérialisait l’autorité du roi ?",
+    "answers": ["La couronne", "Le sceptre", "Le trône", "Le manteau"],
     "correctIndex": 0
   },
   {
     "id": "q66",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Aix-la-Chapelle",
-      "Tours",
-      "Reims",
-      "Paris"
-    ],
-    "correctIndex": 0
+    "text": "Comment appelait-on un responsable militaire régional ?",
+    "answers": ["Le prévôt", "Le sénéchal", "Le serf", "Le marchand"],
+    "correctIndex": 1
   },
+
   {
     "id": "q67",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi de France a signé la Magna Carta ?",
-    "answers": [
-      "Philippe le Bel",
-      "Aucun",
-      "Philippe II",
-      "Louis IX"
-    ],
-    "correctIndex": 1
+    "text": "Quelle activité produisait les tapisseries murales ?",
+    "answers": ["La broderie", "La couture", "La tapisserie", "La teinture"],
+    "correctIndex": 2
   },
   {
     "id": "q68",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Tours",
-      "Reims",
-      "Paris",
-      "Aix-la-Chapelle"
-    ],
+    "text": "Quel bâtiment accueillait les malades et les pauvres ?",
+    "answers": ["Le cloître", "La halle", "La grange", "L’hôpital"],
     "correctIndex": 3
   },
+
   {
     "id": "q69",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi de France a signé la Magna Carta ?",
-    "answers": [
-      "Philippe II",
-      "Aucun",
-      "Philippe le Bel",
-      "Louis IX"
-    ],
-    "correctIndex": 1
+    "text": "Quel type de justice était exercée par le seigneur ?",
+    "answers": ["La justice seigneuriale", "La justice royale", "La justice ecclésiastique", "La justice communale"],
+    "correctIndex": 0
   },
   {
     "id": "q70",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Paris",
-      "Reims",
-      "Aix-la-Chapelle",
-      "Tours"
-    ],
-    "correctIndex": 2
+    "text": "Comment appelait-on un texte de loi émis par un roi carolingien ?",
+    "answers": ["Un codex", "Un capitulaire", "Un terrier", "Un missel"],
+    "correctIndex": 1
   },
+
   {
     "id": "q71",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "En quelle année a eu lieu la bataille de Bouvines ?",
-    "answers": [
-      "1099",
-      "1066",
-      "1214",
-      "1415"
-    ],
+    "text": "Quelle activité consistait à fondre et mouler le métal ?",
+    "answers": ["La forge", "La menuiserie", "La fonderie", "La verrerie"],
     "correctIndex": 2
   },
   {
     "id": "q72",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi a ordonné l'arrestation des Templiers en 1307 ?",
-    "answers": [
-      "Philippe le Bel",
-      "Louis IX",
-      "Charles V",
-      "Philippe VI"
-    ],
-    "correctIndex": 0
+    "text": "Quel bâtiment abritait les archives urbaines ?",
+    "answers": ["La halle", "La cathédrale", "Le cloître", "L’hôtel de ville"],
+    "correctIndex": 3
   },
+
   {
     "id": "q73",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "En quelle année a eu lieu la bataille de Bouvines ?",
-    "answers": [
-      "1066",
-      "1099",
-      "1214",
-      "1415"
-    ],
-    "correctIndex": 2
+    "text": "Quel élément permettait d’authentifier un document écrit ?",
+    "answers": ["Le sceau", "La signature", "Le cachet postal", "Le timbre"],
+    "correctIndex": 0
   },
   {
     "id": "q74",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel est l'architecte célèbre des cathédrales gothiques ?",
-    "answers": [
-      "Pierre de Montreuil",
-      "Villard de Honnecourt",
-      "Abélard",
-      "Suger"
-    ],
+    "text": "Comment appelait-on un chef religieux d’un monastère ?",
+    "answers": ["L’évêque", "L’abbé", "Le chanoine", "Le curé"],
     "correctIndex": 1
   },
+
   {
     "id": "q75",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Aix-la-Chapelle",
-      "Tours",
-      "Reims",
-      "Paris"
-    ],
-    "correctIndex": 0
+    "text": "Quelle activité permettait la production de parchemin ?",
+    "answers": ["La verrerie", "La tannerie", "La parchmenterie", "La poterie"],
+    "correctIndex": 2
   },
   {
     "id": "q76",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi a ordonné l'arrestation des Templiers en 1307 ?",
-    "answers": [
-      "Louis IX",
-      "Philippe le Bel",
-      "Charles V",
-      "Philippe VI"
-    ],
-    "correctIndex": 1
+    "text": "Quel bâtiment abritait la vie communautaire des moines ?",
+    "answers": ["Le réfectoire", "Le dortoir", "Le scriptorium", "Le cloître"],
+    "correctIndex": 3
   },
+
   {
     "id": "q77",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel est l'architecte célèbre des cathédrales gothiques ?",
-    "answers": [
-      "Suger",
-      "Villard de Honnecourt",
-      "Pierre de Montreuil",
-      "Abélard"
-    ],
-    "correctIndex": 1
+    "text": "Quel pouvoir était exercé par l’Église médiévale ?",
+    "answers": ["Le pouvoir spirituel", "Le pouvoir industriel", "Le pouvoir scientifique", "Le pouvoir bancaire"],
+    "correctIndex": 0
   },
   {
     "id": "q78",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi anglais fut capturé pendant la guerre de Cent Ans ?",
-    "answers": [
-      "Richard II",
-      "Henri VI",
-      "Jean II le Bon",
-      "Édouard IV"
-    ],
-    "correctIndex": 2
+    "text": "Comment appelait-on un registre regroupant les actes d’une abbaye ?",
+    "answers": ["Un capitulaire", "Un cartulaire", "Un terrier", "Un psautier"],
+    "correctIndex": 1
   },
+
   {
     "id": "q79",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi a ordonné l'arrestation des Templiers en 1307 ?",
-    "answers": [
-      "Louis IX",
-      "Philippe le Bel",
-      "Philippe VI",
-      "Charles V"
-    ],
-    "correctIndex": 1
+    "text": "Quelle activité artisanale façonnait les meubles ?",
+    "answers": ["La forge", "La sculpture", "La menuiserie", "La poterie"],
+    "correctIndex": 2
   },
   {
     "id": "q80",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel traité mit fin à la guerre de Cent Ans ?",
-    "answers": [
-      "Traité de Verdun",
-      "Traité de Troyes",
-      "Traité de Picquigny",
-      "Traité de Paris"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment servait de lieu de culte principal d’une ville ?",
+    "answers": ["Le monastère", "Le château", "La halle", "La cathédrale"],
+    "correctIndex": 3
   },
+
   {
     "id": "q81",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi de France a signé la Magna Carta ?",
-    "answers": [
-      "Louis IX",
-      "Aucun",
-      "Philippe II",
-      "Philippe le Bel"
-    ],
-    "correctIndex": 1
+    "text": "Quel objet symbolisait l’engagement féodal ?",
+    "answers": ["L’anneau", "Le sceptre", "L’épée", "La couronne"],
+    "correctIndex": 0
   },
   {
     "id": "q82",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Tours",
-      "Aix-la-Chapelle",
-      "Reims",
-      "Paris"
-    ],
+    "text": "Comment appelait-on un agent chargé des finances seigneuriales ?",
+    "answers": ["Le prévôt", "Le receveur", "Le sénéchal", "Le bailli"],
     "correctIndex": 1
   },
+
   {
     "id": "q83",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel était l'usage principal des moulins à vent au Moyen-Âge ?",
-    "answers": [
-      "Moudre le grain",
-      "Pomper de l'eau",
-      "Produire du papier",
-      "Produire de la farine"
-    ],
-    "correctIndex": 0
+    "text": "Quelle activité permettait de fabriquer des armes ?",
+    "answers": ["La poterie", "La verrerie", "La forge", "La menuiserie"],
+    "correctIndex": 2
   },
   {
     "id": "q84",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel était l'usage principal des moulins à vent au Moyen-Âge ?",
-    "answers": [
-      "Pomper de l'eau",
-      "Produire du papier",
-      "Produire de la farine",
-      "Moudre le grain"
-    ],
+    "text": "Quel bâtiment accueillait les pèlerins de passage ?",
+    "answers": ["Le marché", "La grange", "Le cloître", "L’hospice"],
     "correctIndex": 3
   },
+
   {
     "id": "q85",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel traité mit fin à la guerre de Cent Ans ?",
-    "answers": [
-      "Traité de Verdun",
-      "Traité de Picquigny",
-      "Traité de Paris",
-      "Traité de Troyes"
-    ],
-    "correctIndex": 1
+    "text": "Quel outil permettait de marquer les documents officiels ?",
+    "answers": ["Le sceau", "La plume", "Le burin", "La cire"],
+    "correctIndex": 0
   },
   {
     "id": "q86",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel est l'architecte célèbre des cathédrales gothiques ?",
-    "answers": [
-      "Abélard",
-      "Pierre de Montreuil",
-      "Villard de Honnecourt",
-      "Suger"
-    ],
-    "correctIndex": 2
+    "text": "Comment appelait-on un gouverneur régional sous l’Ancien Régime médiéval ?",
+    "answers": ["Le comte", "Le duc", "Le sénéchal", "Le chanoine"],
+    "correctIndex": 1
   },
+
   {
     "id": "q87",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Aix-la-Chapelle",
-      "Tours",
-      "Reims",
-      "Paris"
-    ],
-    "correctIndex": 0
+    "text": "Quelle activité médiévale produisait les cloches ?",
+    "answers": ["La forge", "La sculpture", "La fonderie", "La verrerie"],
+    "correctIndex": 2
   },
   {
     "id": "q88",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "En quelle année a eu lieu la bataille de Bouvines ?",
-    "answers": [
-      "1066",
-      "1415",
-      "1214",
-      "1099"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment conservait les richesses d’une ville ?",
+    "answers": ["La halle", "Le marché", "La grange", "Le trésor"],
+    "correctIndex": 3
   },
+
   {
     "id": "q89",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Paris",
-      "Reims",
-      "Tours",
-      "Aix-la-Chapelle"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal était essentiel à la guerre médiévale ?",
+    "answers": ["Le cheval", "Le chien", "Le bœuf", "Le mouton"],
+    "correctIndex": 0
   },
   {
     "id": "q90",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "En quelle année a eu lieu la bataille de Bouvines ?",
-    "answers": [
-      "1415",
-      "1214",
-      "1099",
-      "1066"
-    ],
+    "text": "Comment appelait-on un texte racontant la vie d’un saint ?",
+    "answers": ["Une chronique", "Une hagiographie", "Un capitulaire", "Un cartulaire"],
     "correctIndex": 1
   },
+
   {
     "id": "q91",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel ordre religieux a été fondé pour protéger les pèlerins en Terre sainte ?",
-    "answers": [
-      "Franciscains",
-      "Dominicains",
-      "Bénédictins",
-      "Templiers"
-    ],
-    "correctIndex": 3
+    "text": "Quelle activité consistait à fabriquer des cordes ?",
+    "answers": ["La menuiserie", "La poterie", "La corderie", "La forge"],
+    "correctIndex": 2
   },
   {
     "id": "q92",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Reims",
-      "Aix-la-Chapelle",
-      "Paris",
-      "Tours"
-    ],
-    "correctIndex": 1
+    "text": "Quel bâtiment servait à conserver les semences ?",
+    "answers": ["La cave", "Le cellier", "La grange", "Le grenier"],
+    "correctIndex": 3
   },
+
   {
     "id": "q93",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel est l'architecte célèbre des cathédrales gothiques ?",
-    "answers": [
-      "Pierre de Montreuil",
-      "Villard de Honnecourt",
-      "Suger",
-      "Abélard"
-    ],
-    "correctIndex": 1
+    "text": "Quel objet facilitait l’éclairage public nocturne ?",
+    "answers": ["La lanterne", "La torche", "La chandelle", "Le brasero"],
+    "correctIndex": 0
   },
   {
     "id": "q94",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi anglais fut capturé pendant la guerre de Cent Ans ?",
-    "answers": [
-      "Édouard IV",
-      "Richard II",
-      "Henri VI",
-      "Jean II le Bon"
-    ],
-    "correctIndex": 3
+    "text": "Comment appelait-on un responsable des impôts locaux ?",
+    "answers": ["Le bailli", "Le receveur", "Le prévôt", "Le chancelier"],
+    "correctIndex": 1
   },
+
   {
     "id": "q95",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "En quelle année a eu lieu la bataille de Bouvines ?",
-    "answers": [
-      "1066",
-      "1099",
-      "1415",
-      "1214"
-    ],
-    "correctIndex": 3
+    "text": "Quelle activité permettait la production de tissus décorés ?",
+    "answers": ["La couture", "La broderie", "La tapisserie", "La teinture"],
+    "correctIndex": 2
   },
   {
     "id": "q96",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi anglais fut capturé pendant la guerre de Cent Ans ?",
-    "answers": [
-      "Édouard IV",
-      "Henri VI",
-      "Richard II",
-      "Jean II le Bon"
-    ],
+    "text": "Quel bâtiment servait à l’accueil des voyageurs ?",
+    "answers": ["La grange", "Le cloître", "Le marché", "L’auberge"],
     "correctIndex": 3
   },
+
   {
     "id": "q97",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel était l'usage principal des moulins à vent au Moyen-Âge ?",
-    "answers": [
-      "Moudre le grain",
-      "Pomper de l'eau",
-      "Produire du papier",
-      "Produire de la farine"
-    ],
+    "text": "Quel symbole représentait l’autorité judiciaire ?",
+    "answers": ["Le bâton de justice", "La couronne", "L’épée", "Le sceau"],
     "correctIndex": 0
   },
   {
     "id": "q98",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi a ordonné l'arrestation des Templiers en 1307 ?",
-    "answers": [
-      "Philippe le Bel",
-      "Louis IX",
-      "Charles V",
-      "Philippe VI"
-    ],
-    "correctIndex": 0
+    "text": "Comment appelait-on un représentant du roi dans une province ?",
+    "answers": ["Le vassal", "Le sénéchal", "Le marchand", "Le chanoine"],
+    "correctIndex": 1
   },
+
   {
     "id": "q99",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi a ordonné l'arrestation des Templiers en 1307 ?",
-    "answers": [
-      "Charles V",
-      "Louis IX",
-      "Philippe VI",
-      "Philippe le Bel"
-    ],
-    "correctIndex": 3
+    "text": "Quelle activité consistait à produire des armes blanches ?",
+    "answers": ["La poterie", "La verrerie", "La forge", "La menuiserie"],
+    "correctIndex": 2
   },
   {
     "id": "q100",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi de France a signé la Magna Carta ?",
-    "answers": [
-      "Philippe II",
-      "Louis IX",
-      "Aucun",
-      "Philippe le Bel"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment symbolisait le pouvoir municipal ?",
+    "answers": ["La cathédrale", "Le château", "La halle", "L’hôtel de ville"],
+    "correctIndex": 3
   },
   {
     "id": "q101",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Reims",
-      "Paris",
-      "Tours",
-      "Aix-la-Chapelle"
-    ],
-    "correctIndex": 3
+    "text": "Quel outil agricole médiéval servait à retourner la terre en profondeur ?",
+    "answers": ["La charrue", "La houe", "La faucille", "La herse"],
+    "correctIndex": 0
   },
   {
     "id": "q102",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel est l'architecte célèbre des cathédrales gothiques ?",
-    "answers": [
-      "Abélard",
-      "Suger",
-      "Pierre de Montreuil",
-      "Villard de Honnecourt"
-    ],
-    "correctIndex": 3
+    "text": "Comment appelait-on un manuscrit enluminé religieux ?",
+    "answers": ["Un cartulaire", "Un évangéliaire", "Un terrier", "Un capitulaire"],
+    "correctIndex": 1
   },
   {
     "id": "q103",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel est l'architecte célèbre des cathédrales gothiques ?",
-    "answers": [
-      "Villard de Honnecourt",
-      "Pierre de Montreuil",
-      "Abélard",
-      "Suger"
-    ],
-    "correctIndex": 0
+    "text": "Quelle activité permettait la fabrication des vitraux ?",
+    "answers": ["La verrerie", "La sculpture", "La fonderie", "La tapisserie"],
+    "correctIndex": 2
   },
   {
     "id": "q104",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel était l'usage principal des moulins à vent au Moyen-Âge ?",
-    "answers": [
-      "Pomper de l'eau",
-      "Produire de la farine",
-      "Produire du papier",
-      "Moudre le grain"
-    ],
+    "text": "Quel bâtiment servait de résidence fortifiée au seigneur ?",
+    "answers": ["Le palais", "La halle", "L’abbaye", "Le château"],
     "correctIndex": 3
   },
+
   {
     "id": "q105",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi de France a signé la Magna Carta ?",
-    "answers": [
-      "Philippe II",
-      "Aucun",
-      "Louis IX",
-      "Philippe le Bel"
-    ],
-    "correctIndex": 1
+    "text": "Quel système agricole alternait cultures et jachère ?",
+    "answers": ["L’assolement triennal", "La monoculture", "L’irrigation", "La rotation industrielle"],
+    "correctIndex": 0
   },
   {
     "id": "q106",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel ordre religieux a été fondé pour protéger les pèlerins en Terre sainte ?",
-    "answers": [
-      "Franciscains",
-      "Bénédictins",
-      "Templiers",
-      "Dominicains"
-    ],
-    "correctIndex": 2
+    "text": "Comment appelait-on un responsable local de la police urbaine ?",
+    "answers": ["Le bailli", "Le prévôt", "Le sénéchal", "Le chanoine"],
+    "correctIndex": 1
   },
   {
     "id": "q107",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Paris",
-      "Tours",
-      "Aix-la-Chapelle",
-      "Reims"
-    ],
+    "text": "Quelle activité consistait à fabriquer des chaussures ?",
+    "answers": ["La tannerie", "La couture", "La cordonnerie", "La menuiserie"],
     "correctIndex": 2
   },
   {
     "id": "q108",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel traité mit fin à la guerre de Cent Ans ?",
-    "answers": [
-      "Traité de Troyes",
-      "Traité de Paris",
-      "Traité de Picquigny",
-      "Traité de Verdun"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment accueillait les assemblées communales ?",
+    "answers": ["La cathédrale", "Le cloître", "La halle", "L’hôtel de ville"],
+    "correctIndex": 3
   },
+
   {
     "id": "q109",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi anglais fut capturé pendant la guerre de Cent Ans ?",
-    "answers": [
-      "Richard II",
-      "Édouard IV",
-      "Jean II le Bon",
-      "Henri VI"
-    ],
-    "correctIndex": 2
+    "text": "Quel objet permettait de protéger la tête du chevalier ?",
+    "answers": ["Le heaume", "Le bouclier", "La cotte", "La visière"],
+    "correctIndex": 0
   },
   {
     "id": "q110",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi a ordonné l'arrestation des Templiers en 1307 ?",
-    "answers": [
-      "Philippe VI",
-      "Louis IX",
-      "Charles V",
-      "Philippe le Bel"
-    ],
-    "correctIndex": 3
+    "text": "Comment appelait-on une taxe prélevée par l’Église ?",
+    "answers": ["La taille", "La dîme", "Le cens", "La corvée"],
+    "correctIndex": 1
   },
   {
     "id": "q111",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Tours",
-      "Aix-la-Chapelle",
-      "Paris",
-      "Reims"
-    ],
-    "correctIndex": 1
+    "text": "Quelle activité produisait les armes de siège ?",
+    "answers": ["La forge", "La charpenterie", "La fonderie", "La poterie"],
+    "correctIndex": 2
   },
   {
     "id": "q112",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel est l'architecte célèbre des cathédrales gothiques ?",
-    "answers": [
-      "Villard de Honnecourt",
-      "Abélard",
-      "Pierre de Montreuil",
-      "Suger"
-    ],
-    "correctIndex": 0
+    "text": "Quel bâtiment conservait les récoltes céréalières ?",
+    "answers": ["Le cellier", "La cave", "Le grenier", "La grange"],
+    "correctIndex": 3
   },
+
   {
     "id": "q113",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel traité mit fin à la guerre de Cent Ans ?",
-    "answers": [
-      "Traité de Paris",
-      "Traité de Troyes",
-      "Traité de Verdun",
-      "Traité de Picquigny"
-    ],
-    "correctIndex": 3
+    "text": "Quel lien unissait le seigneur et son vassal ?",
+    "answers": ["L’hommage", "Le contrat marchand", "La conscription", "Le serment royal"],
+    "correctIndex": 0
   },
   {
     "id": "q114",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Qui fut le premier roi capétien ?",
-    "answers": [
-      "Robert II",
-      "Hugues Capet",
-      "Louis le Pieux",
-      "Charles le Chauve"
-    ],
+    "text": "Comment appelait-on un juge royal itinérant ?",
+    "answers": ["Le prévôt", "Le bailli", "Le comte", "Le sergent"],
     "correctIndex": 1
   },
   {
     "id": "q115",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi de France a signé la Magna Carta ?",
-    "answers": [
-      "Philippe II",
-      "Louis IX",
-      "Aucun",
-      "Philippe le Bel"
-    ],
+    "text": "Quelle activité permettait la fabrication de livres reliés ?",
+    "answers": ["La copie", "L’enluminure", "La reliure", "La gravure"],
     "correctIndex": 2
   },
   {
     "id": "q116",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi anglais fut capturé pendant la guerre de Cent Ans ?",
-    "answers": [
-      "Édouard IV",
-      "Henri VI",
-      "Richard II",
-      "Jean II le Bon"
-    ],
+    "text": "Quel bâtiment abritait la prière quotidienne des moines ?",
+    "answers": ["Le cloître", "Le dortoir", "Le réfectoire", "L’église"],
     "correctIndex": 3
   },
+
   {
     "id": "q117",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi a ordonné l'arrestation des Templiers en 1307 ?",
-    "answers": [
-      "Charles V",
-      "Louis IX",
-      "Philippe VI",
-      "Philippe le Bel"
-    ],
-    "correctIndex": 3
+    "text": "Quel élément défensif entourait les villes médiévales ?",
+    "answers": ["Les remparts", "Les douves", "Les tours", "Les fossés"],
+    "correctIndex": 0
   },
   {
     "id": "q118",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel traité mit fin à la guerre de Cent Ans ?",
-    "answers": [
-      "Traité de Troyes",
-      "Traité de Verdun",
-      "Traité de Paris",
-      "Traité de Picquigny"
-    ],
-    "correctIndex": 3
+    "text": "Comment appelait-on un soldat à pied au Moyen Âge ?",
+    "answers": ["Le chevalier", "Le fantassin", "Le noble", "Le sergent"],
+    "correctIndex": 1
   },
   {
     "id": "q119",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Qui fut le premier roi capétien ?",
-    "answers": [
-      "Charles le Chauve",
-      "Hugues Capet",
-      "Louis le Pieux",
-      "Robert II"
-    ],
-    "correctIndex": 1
+    "text": "Quelle activité consistait à fabriquer des tonneaux ?",
+    "answers": ["La menuiserie", "La charpenterie", "La tonnellerie", "La sculpture"],
+    "correctIndex": 2
   },
   {
     "id": "q120",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel traité mit fin à la guerre de Cent Ans ?",
-    "answers": [
-      "Traité de Troyes",
-      "Traité de Verdun",
-      "Traité de Paris",
-      "Traité de Picquigny"
-    ],
+    "text": "Quel bâtiment accueillait les pèlerins malades ?",
+    "answers": ["La grange", "Le cloître", "L’auberge", "L’hôpital"],
     "correctIndex": 3
   },
+
   {
     "id": "q121",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel traité mit fin à la guerre de Cent Ans ?",
-    "answers": [
-      "Traité de Picquigny",
-      "Traité de Paris",
-      "Traité de Verdun",
-      "Traité de Troyes"
-    ],
+    "text": "Quel symbole figurait sur les armoiries ?",
+    "answers": ["Le blason", "Le sceau", "La couronne", "La bannière"],
     "correctIndex": 0
   },
   {
     "id": "q122",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi a ordonné l'arrestation des Templiers en 1307 ?",
-    "answers": [
-      "Philippe le Bel",
-      "Charles V",
-      "Philippe VI",
-      "Louis IX"
-    ],
-    "correctIndex": 0
+    "text": "Comment appelait-on un noble propriétaire d’un fief ?",
+    "answers": ["Le serf", "Le seigneur", "Le marchand", "Le vilain"],
+    "correctIndex": 1
   },
   {
     "id": "q123",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi de France a signé la Magna Carta ?",
-    "answers": [
-      "Aucun",
-      "Philippe II",
-      "Louis IX",
-      "Philippe le Bel"
-    ],
-    "correctIndex": 0
+    "text": "Quelle activité produisait les vêtements en laine ?",
+    "answers": ["La filature", "La couture", "Le tissage", "La teinture"],
+    "correctIndex": 2
   },
   {
     "id": "q124",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi de France a signé la Magna Carta ?",
-    "answers": [
-      "Philippe II",
-      "Louis IX",
-      "Philippe le Bel",
-      "Aucun"
-    ],
+    "text": "Quel bâtiment conservait les archives religieuses ?",
+    "answers": ["Le cloître", "La halle", "Le cellier", "Le trésor"],
     "correctIndex": 3
   },
+
   {
     "id": "q125",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi de France a signé la Magna Carta ?",
-    "answers": [
-      "Philippe le Bel",
-      "Aucun",
-      "Philippe II",
-      "Louis IX"
-    ],
-    "correctIndex": 1
+    "text": "Quel objet était utilisé pour sceller un document ?",
+    "answers": ["La cire", "La plume", "Le parchemin", "Le fil"],
+    "correctIndex": 0
   },
   {
     "id": "q126",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi de France a signé la Magna Carta ?",
-    "answers": [
-      "Philippe le Bel",
-      "Philippe II",
-      "Louis IX",
-      "Aucun"
-    ],
-    "correctIndex": 3
+    "text": "Comment appelait-on un officier chargé de la justice seigneuriale ?",
+    "answers": ["Le prévôt", "Le bailli", "Le sénéchal", "Le vassal"],
+    "correctIndex": 1
   },
   {
     "id": "q127",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Qui fut le premier roi capétien ?",
-    "answers": [
-      "Robert II",
-      "Charles le Chauve",
-      "Louis le Pieux",
-      "Hugues Capet"
-    ],
-    "correctIndex": 3
+    "text": "Quelle activité consistait à fabriquer des boucliers ?",
+    "answers": ["La forge", "La menuiserie", "L’armurerie", "La charpenterie"],
+    "correctIndex": 2
   },
   {
     "id": "q128",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel était l'usage principal des moulins à vent au Moyen-Âge ?",
-    "answers": [
-      "Pomper de l'eau",
-      "Produire du papier",
-      "Moudre le grain",
-      "Produire de la farine"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment servait à stocker le vin ?",
+    "answers": ["La grange", "Le grenier", "La cave", "Le cellier"],
+    "correctIndex": 3
   },
+
   {
     "id": "q129",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel traité mit fin à la guerre de Cent Ans ?",
-    "answers": [
-      "Traité de Paris",
-      "Traité de Troyes",
-      "Traité de Picquigny",
-      "Traité de Verdun"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal fournissait la laine ?",
+    "answers": ["Le mouton", "La chèvre", "Le bœuf", "Le porc"],
+    "correctIndex": 0
   },
   {
     "id": "q130",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi a ordonné l'arrestation des Templiers en 1307 ?",
-    "answers": [
-      "Philippe le Bel",
-      "Louis IX",
-      "Charles V",
-      "Philippe VI"
-    ],
-    "correctIndex": 0
+    "text": "Comment appelait-on un texte racontant les faits historiques ?",
+    "answers": ["Un cartulaire", "Une chronique", "Un missel", "Un capitulaire"],
+    "correctIndex": 1
   },
   {
     "id": "q131",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "En quelle année a eu lieu la bataille de Bouvines ?",
-    "answers": [
-      "1214",
-      "1415",
-      "1066",
-      "1099"
-    ],
-    "correctIndex": 0
+    "text": "Quelle activité produisait les cloches d’église ?",
+    "answers": ["La forge", "La sculpture", "La fonderie", "La verrerie"],
+    "correctIndex": 2
   },
   {
     "id": "q132",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "En quelle année a eu lieu la bataille de Bouvines ?",
-    "answers": [
-      "1099",
-      "1214",
-      "1066",
-      "1415"
-    ],
-    "correctIndex": 1
+    "text": "Quel bâtiment symbolisait la puissance religieuse d’une ville ?",
+    "answers": ["Le château", "Le palais", "La halle", "La cathédrale"],
+    "correctIndex": 3
   },
+
   {
     "id": "q133",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel traité mit fin à la guerre de Cent Ans ?",
-    "answers": [
-      "Traité de Troyes",
-      "Traité de Verdun",
-      "Traité de Paris",
-      "Traité de Picquigny"
-    ],
-    "correctIndex": 3
+    "text": "Quel élément protégeait le corps du chevalier ?",
+    "answers": ["L’armure", "La tunique", "La cotte de laine", "Le manteau"],
+    "correctIndex": 0
   },
   {
     "id": "q134",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel ordre religieux a été fondé pour protéger les pèlerins en Terre sainte ?",
-    "answers": [
-      "Bénédictins",
-      "Dominicains",
-      "Templiers",
-      "Franciscains"
-    ],
-    "correctIndex": 2
+    "text": "Comment appelait-on un habitant non noble de la ville ?",
+    "answers": ["Le serf", "Le bourgeois", "Le chevalier", "Le clerc"],
+    "correctIndex": 1
   },
   {
     "id": "q135",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel est l'architecte célèbre des cathédrales gothiques ?",
-    "answers": [
-      "Villard de Honnecourt",
-      "Abélard",
-      "Pierre de Montreuil",
-      "Suger"
-    ],
-    "correctIndex": 0
+    "text": "Quelle activité consistait à fabriquer des vitres ?",
+    "answers": ["La poterie", "La sculpture", "La verrerie", "La fonderie"],
+    "correctIndex": 2
   },
   {
     "id": "q136",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Reims",
-      "Tours",
-      "Aix-la-Chapelle",
-      "Paris"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment accueillait les marchés hebdomadaires ?",
+    "answers": ["Le cloître", "La cathédrale", "Le château", "La halle"],
+    "correctIndex": 3
   },
+
   {
     "id": "q137",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel était l'usage principal des moulins à vent au Moyen-Âge ?",
-    "answers": [
-      "Produire de la farine",
-      "Moudre le grain",
-      "Pomper de l'eau",
-      "Produire du papier"
-    ],
-    "correctIndex": 1
+    "text": "Quel objet était utilisé pour écrire ?",
+    "answers": ["La plume", "Le burin", "Le pinceau", "Le calame"],
+    "correctIndex": 0
   },
   {
     "id": "q138",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "En quelle année a eu lieu la bataille de Bouvines ?",
-    "answers": [
-      "1066",
-      "1415",
-      "1099",
-      "1214"
-    ],
-    "correctIndex": 3
+    "text": "Comment appelait-on un responsable militaire du château ?",
+    "answers": ["Le comte", "Le châtelain", "Le prévôt", "Le sergent"],
+    "correctIndex": 1
   },
   {
     "id": "q139",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Tours",
-      "Reims",
-      "Aix-la-Chapelle",
-      "Paris"
-    ],
+    "text": "Quelle activité produisait les tapisseries décoratives ?",
+    "answers": ["La broderie", "La couture", "La tapisserie", "La teinture"],
     "correctIndex": 2
   },
   {
     "id": "q140",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel ordre religieux a été fondé pour protéger les pèlerins en Terre sainte ?",
-    "answers": [
-      "Franciscains",
-      "Bénédictins",
-      "Dominicains",
-      "Templiers"
-    ],
+    "text": "Quel bâtiment abritait les moines pendant le sommeil ?",
+    "answers": ["Le cloître", "Le réfectoire", "Le scriptorium", "Le dortoir"],
     "correctIndex": 3
   },
+
   {
     "id": "q141",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Aix-la-Chapelle",
-      "Paris",
-      "Tours",
-      "Reims"
-    ],
+    "text": "Quel animal était utilisé pour le labour ?",
+    "answers": ["Le bœuf", "Le cheval", "Le mouton", "L’âne"],
     "correctIndex": 0
   },
   {
     "id": "q142",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel était l'usage principal des moulins à vent au Moyen-Âge ?",
-    "answers": [
-      "Pomper de l'eau",
-      "Moudre le grain",
-      "Produire de la farine",
-      "Produire du papier"
-    ],
+    "text": "Comment appelait-on un chef de corporation artisanale ?",
+    "answers": ["Le prévôt", "Le maître", "Le serf", "Le bailli"],
     "correctIndex": 1
   },
   {
     "id": "q143",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel ordre religieux a été fondé pour protéger les pèlerins en Terre sainte ?",
-    "answers": [
-      "Bénédictins",
-      "Dominicains",
-      "Templiers",
-      "Franciscains"
-    ],
+    "text": "Quelle activité consistait à fabriquer des tissus en soie ?",
+    "answers": ["La couture", "La broderie", "Le tissage", "La teinture"],
     "correctIndex": 2
   },
   {
     "id": "q144",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel ordre religieux a été fondé pour protéger les pèlerins en Terre sainte ?",
-    "answers": [
-      "Templiers",
-      "Franciscains",
-      "Bénédictins",
-      "Dominicains"
-    ],
-    "correctIndex": 0
+    "text": "Quel bâtiment conservait les documents juridiques ?",
+    "answers": ["La halle", "La grange", "Le cloître", "Les archives"],
+    "correctIndex": 3
   },
+
   {
     "id": "q145",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi a ordonné l'arrestation des Templiers en 1307 ?",
-    "answers": [
-      "Philippe le Bel",
-      "Louis IX",
-      "Charles V",
-      "Philippe VI"
-    ],
+    "text": "Quel symbole représentait la royauté ?",
+    "answers": ["La couronne", "Le sceau", "La bannière", "Le blason"],
     "correctIndex": 0
   },
   {
     "id": "q146",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel est l'architecte célèbre des cathédrales gothiques ?",
-    "answers": [
-      "Pierre de Montreuil",
-      "Villard de Honnecourt",
-      "Abélard",
-      "Suger"
-    ],
+    "text": "Comment appelait-on un impôt sur les marchandises ?",
+    "answers": ["La taille", "Le péage", "La dîme", "La corvée"],
     "correctIndex": 1
   },
   {
     "id": "q147",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi de France a signé la Magna Carta ?",
-    "answers": [
-      "Aucun",
-      "Philippe II",
-      "Louis IX",
-      "Philippe le Bel"
-    ],
-    "correctIndex": 0
+    "text": "Quelle activité produisait les outils agricoles ?",
+    "answers": ["La menuiserie", "La charpenterie", "La forge", "La fonderie"],
+    "correctIndex": 2
   },
   {
     "id": "q148",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel est l'architecte célèbre des cathédrales gothiques ?",
-    "answers": [
-      "Villard de Honnecourt",
-      "Suger",
-      "Pierre de Montreuil",
-      "Abélard"
-    ],
-    "correctIndex": 0
+    "text": "Quel bâtiment servait de résidence aux moines voyageurs ?",
+    "answers": ["Le cloître", "La grange", "L’auberge", "L’hôtellerie"],
+    "correctIndex": 3
   },
+
   {
     "id": "q149",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel traité mit fin à la guerre de Cent Ans ?",
-    "answers": [
-      "Traité de Verdun",
-      "Traité de Picquigny",
-      "Traité de Troyes",
-      "Traité de Paris"
-    ],
-    "correctIndex": 1
+    "text": "Quel objet protégeait le bras du chevalier ?",
+    "answers": ["Le bouclier", "La cotte", "Le gantelet", "La visière"],
+    "correctIndex": 0
   },
   {
     "id": "q150",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Tours",
-      "Paris",
-      "Aix-la-Chapelle",
-      "Reims"
-    ],
-    "correctIndex": 2
+    "text": "Comment appelait-on un récit héroïque chanté ?",
+    "answers": ["Une fable", "Une chanson de geste", "Une chronique", "Un sermon"],
+    "correctIndex": 1
   },
   {
     "id": "q151",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel est l'architecte célèbre des cathédrales gothiques ?",
-    "answers": [
-      "Pierre de Montreuil",
-      "Suger",
-      "Abélard",
-      "Villard de Honnecourt"
-    ],
-    "correctIndex": 3
+    "text": "Quelle institution médiévale regroupait les marchands d’une même ville ?",
+    "answers": ["La seigneurie", "La paroisse", "La guilde", "La cour féodale"],
+    "correctIndex": 2
   },
   {
     "id": "q152",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Tours",
-      "Reims",
-      "Paris",
-      "Aix-la-Chapelle"
-    ],
+    "text": "Quel bâtiment abritait la copie des manuscrits dans les monastères ?",
+    "answers": ["Le cloître", "Le réfectoire", "Le dortoir", "Le scriptorium"],
     "correctIndex": 3
   },
   {
     "id": "q153",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Reims",
-      "Tours",
-      "Aix-la-Chapelle",
-      "Paris"
-    ],
-    "correctIndex": 2
+    "text": "Quel document officialisait un accord au Moyen Âge ?",
+    "answers": ["La charte", "Le sermon", "La chronique", "Le missel"],
+    "correctIndex": 0
   },
   {
     "id": "q154",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi anglais fut capturé pendant la guerre de Cent Ans ?",
-    "answers": [
-      "Édouard IV",
-      "Jean II le Bon",
-      "Henri VI",
-      "Richard II"
-    ],
+    "text": "Comment appelait-on une taxe perçue sur l’utilisation du moulin ?",
+    "answers": ["La taille", "Le cens", "La dîme", "La banalité"],
     "correctIndex": 1
   },
+
   {
     "id": "q155",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel est l'architecte célèbre des cathédrales gothiques ?",
-    "answers": [
-      "Villard de Honnecourt",
-      "Pierre de Montreuil",
-      "Abélard",
-      "Suger"
-    ],
-    "correctIndex": 0
+    "text": "Quelle activité consistait à fabriquer des armes de guerre ?",
+    "answers": ["La menuiserie", "La charpenterie", "L’armurerie", "La verrerie"],
+    "correctIndex": 2
   },
   {
     "id": "q156",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel ordre religieux a été fondé pour protéger les pèlerins en Terre sainte ?",
-    "answers": [
-      "Templiers",
-      "Bénédictins",
-      "Franciscains",
-      "Dominicains"
-    ],
-    "correctIndex": 0
+    "text": "Quel bâtiment symbolisait le pouvoir seigneurial local ?",
+    "answers": ["La halle", "L’église", "Le palais", "Le donjon"],
+    "correctIndex": 3
   },
+
   {
     "id": "q157",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel est l'architecte célèbre des cathédrales gothiques ?",
-    "answers": [
-      "Pierre de Montreuil",
-      "Abélard",
-      "Suger",
-      "Villard de Honnecourt"
-    ],
-    "correctIndex": 3
+    "text": "Quel système liait un vassal à son seigneur ?",
+    "answers": ["La féodalité", "La monarchie", "La démocratie", "La théocratie"],
+    "correctIndex": 0
   },
   {
     "id": "q158",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Reims",
-      "Aix-la-Chapelle",
-      "Tours",
-      "Paris"
-    ],
+    "text": "Comment appelait-on un officier chargé de l’administration d’un comté ?",
+    "answers": ["Le prévôt", "Le sénéchal", "Le sergent", "Le chanoine"],
     "correctIndex": 1
   },
   {
     "id": "q159",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi a ordonné l'arrestation des Templiers en 1307 ?",
-    "answers": [
-      "Philippe VI",
-      "Louis IX",
-      "Philippe le Bel",
-      "Charles V"
-    ],
+    "text": "Quelle activité produisait les tissus en laine ?",
+    "answers": ["La broderie", "La couture", "Le tissage", "La poterie"],
     "correctIndex": 2
   },
   {
     "id": "q160",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "En quelle année a eu lieu la bataille de Bouvines ?",
-    "answers": [
-      "1415",
-      "1099",
-      "1214",
-      "1066"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment servait à conserver les archives royales ?",
+    "answers": ["Le cloître", "La halle", "Le cellier", "La chancellerie"],
+    "correctIndex": 3
   },
+
   {
     "id": "q161",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel était l'usage principal des moulins à vent au Moyen-Âge ?",
-    "answers": [
-      "Pomper de l'eau",
-      "Moudre le grain",
-      "Produire du papier",
-      "Produire de la farine"
-    ],
-    "correctIndex": 1
+    "text": "Quel élément défensif protégeait l’entrée d’un château ?",
+    "answers": ["Le pont-levis", "Le rempart", "La tour", "Le fossé"],
+    "correctIndex": 0
   },
   {
     "id": "q162",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Qui fut le premier roi capétien ?",
-    "answers": [
-      "Robert II",
-      "Charles le Chauve",
-      "Louis le Pieux",
-      "Hugues Capet"
-    ],
-    "correctIndex": 3
+    "text": "Comment appelait-on un territoire dirigé par un comte ?",
+    "answers": ["Une seigneurie", "Un comté", "Un duché", "Un fief"],
+    "correctIndex": 1
   },
+
   {
     "id": "q163",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel ordre religieux a été fondé pour protéger les pèlerins en Terre sainte ?",
-    "answers": [
-      "Franciscains",
-      "Templiers",
-      "Dominicains",
-      "Bénédictins"
-    ],
-    "correctIndex": 1
+    "text": "Quelle activité consistait à fabriquer des vitraux d’église ?",
+    "answers": ["La sculpture", "La fonderie", "La verrerie", "La tapisserie"],
+    "correctIndex": 2
   },
   {
     "id": "q164",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Qui fut le premier roi capétien ?",
-    "answers": [
-      "Louis le Pieux",
-      "Hugues Capet",
-      "Charles le Chauve",
-      "Robert II"
-    ],
-    "correctIndex": 1
+    "text": "Quel bâtiment accueillait les réunions religieuses majeures ?",
+    "answers": ["Le cloître", "Le monastère", "La chapelle", "La cathédrale"],
+    "correctIndex": 3
   },
+
   {
     "id": "q165",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi a ordonné l'arrestation des Templiers en 1307 ?",
-    "answers": [
-      "Louis IX",
-      "Philippe le Bel",
-      "Philippe VI",
-      "Charles V"
-    ],
-    "correctIndex": 1
+    "text": "Quel objet servait à authentifier un document officiel ?",
+    "answers": ["Le sceau", "La plume", "Le parchemin", "La reliure"],
+    "correctIndex": 0
   },
   {
     "id": "q166",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel traité mit fin à la guerre de Cent Ans ?",
-    "answers": [
-      "Traité de Troyes",
-      "Traité de Verdun",
-      "Traité de Paris",
-      "Traité de Picquigny"
-    ],
-    "correctIndex": 3
+    "text": "Comment appelait-on un chevalier débutant ?",
+    "answers": ["Un noble", "Un écuyer", "Un sergent", "Un page"],
+    "correctIndex": 1
   },
   {
     "id": "q167",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel traité mit fin à la guerre de Cent Ans ?",
-    "answers": [
-      "Traité de Verdun",
-      "Traité de Troyes",
-      "Traité de Picquigny",
-      "Traité de Paris"
-    ],
+    "text": "Quelle activité produisait les outils en métal ?",
+    "answers": ["La menuiserie", "La charpenterie", "La forge", "La verrerie"],
     "correctIndex": 2
   },
   {
     "id": "q168",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel était l'usage principal des moulins à vent au Moyen-Âge ?",
-    "answers": [
-      "Produire du papier",
-      "Pomper de l'eau",
-      "Moudre le grain",
-      "Produire de la farine"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment stockait les récoltes collectées par l’impôt ?",
+    "answers": ["La cave", "Le cellier", "Le grenier", "La grange seigneuriale"],
+    "correctIndex": 3
   },
+
   {
     "id": "q169",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi anglais fut capturé pendant la guerre de Cent Ans ?",
-    "answers": [
-      "Jean II le Bon",
-      "Henri VI",
-      "Édouard IV",
-      "Richard II"
-    ],
+    "text": "Quel symbole représentait une famille noble ?",
+    "answers": ["Les armoiries", "Le sceau", "La couronne", "La bannière"],
     "correctIndex": 0
   },
   {
     "id": "q170",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Paris",
-      "Aix-la-Chapelle",
-      "Tours",
-      "Reims"
-    ],
+    "text": "Comment appelait-on un impôt payé par les paysans ?",
+    "answers": ["La dîme", "La taille", "Le péage", "La banalité"],
     "correctIndex": 1
   },
+
   {
     "id": "q171",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Aix-la-Chapelle",
-      "Reims",
-      "Tours",
-      "Paris"
-    ],
-    "correctIndex": 0
+    "text": "Quelle activité consistait à copier les livres à la main ?",
+    "answers": ["La reliure", "L’enluminure", "La copie", "La gravure"],
+    "correctIndex": 2
   },
   {
     "id": "q172",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi anglais fut capturé pendant la guerre de Cent Ans ?",
-    "answers": [
-      "Richard II",
-      "Henri VI",
-      "Édouard IV",
-      "Jean II le Bon"
-    ],
+    "text": "Quel bâtiment abritait la salle de justice seigneuriale ?",
+    "answers": ["La halle", "Le cloître", "La tour", "La salle d’audience"],
     "correctIndex": 3
   },
+
   {
     "id": "q173",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel traité mit fin à la guerre de Cent Ans ?",
-    "answers": [
-      "Traité de Paris",
-      "Traité de Picquigny",
-      "Traité de Troyes",
-      "Traité de Verdun"
-    ],
-    "correctIndex": 1
+    "text": "Quel élément protégeait les murs d’un château ?",
+    "answers": ["Les créneaux", "Les fossés", "Les tours", "Les remparts"],
+    "correctIndex": 0
   },
   {
     "id": "q174",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel traité mit fin à la guerre de Cent Ans ?",
-    "answers": [
-      "Traité de Verdun",
-      "Traité de Paris",
-      "Traité de Picquigny",
-      "Traité de Troyes"
-    ],
-    "correctIndex": 2
+    "text": "Comment appelait-on un chef religieux d’un diocèse ?",
+    "answers": ["L’abbé", "L’évêque", "Le prieur", "Le moine"],
+    "correctIndex": 1
   },
   {
     "id": "q175",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Reims",
-      "Tours",
-      "Aix-la-Chapelle",
-      "Paris"
-    ],
+    "text": "Quelle activité produisait les tissus décoratifs muraux ?",
+    "answers": ["La broderie", "La couture", "La tapisserie", "La teinture"],
     "correctIndex": 2
   },
   {
     "id": "q176",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi a ordonné l'arrestation des Templiers en 1307 ?",
-    "answers": [
-      "Charles V",
-      "Philippe VI",
-      "Louis IX",
-      "Philippe le Bel"
-    ],
+    "text": "Quel bâtiment accueillait les malades et pèlerins ?",
+    "answers": ["La grange", "L’auberge", "Le cloître", "L’hôpital"],
     "correctIndex": 3
   },
+
   {
     "id": "q177",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Reims",
-      "Tours",
-      "Aix-la-Chapelle",
-      "Paris"
-    ],
-    "correctIndex": 2
+    "text": "Quel objet protégeait la main du chevalier ?",
+    "answers": ["Le gantelet", "La visière", "Le bouclier", "La cotte"],
+    "correctIndex": 0
   },
   {
     "id": "q178",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel traité mit fin à la guerre de Cent Ans ?",
-    "answers": [
-      "Traité de Verdun",
-      "Traité de Picquigny",
-      "Traité de Paris",
-      "Traité de Troyes"
-    ],
+    "text": "Comment appelait-on une grande foire commerciale ?",
+    "answers": ["Un marché", "Une foire", "Un péage", "Une halle"],
     "correctIndex": 1
   },
+
   {
     "id": "q179",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "En quelle année a eu lieu la bataille de Bouvines ?",
-    "answers": [
-      "1415",
-      "1214",
-      "1099",
-      "1066"
-    ],
-    "correctIndex": 1
+    "text": "Quelle activité produisait les tonneaux en bois ?",
+    "answers": ["La charpenterie", "La menuiserie", "La tonnellerie", "La sculpture"],
+    "correctIndex": 2
   },
   {
     "id": "q180",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel était l'usage principal des moulins à vent au Moyen-Âge ?",
-    "answers": [
-      "Produire du papier",
-      "Pomper de l'eau",
-      "Produire de la farine",
-      "Moudre le grain"
-    ],
+    "text": "Quel bâtiment servait à héberger les marchands étrangers ?",
+    "answers": ["Le cloître", "La grange", "Le cellier", "L’auberge"],
     "correctIndex": 3
   },
+
   {
     "id": "q181",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel traité mit fin à la guerre de Cent Ans ?",
-    "answers": [
-      "Traité de Paris",
-      "Traité de Picquigny",
-      "Traité de Troyes",
-      "Traité de Verdun"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal était utilisé pour la traction lourde ?",
+    "answers": ["Le bœuf", "Le cheval", "L’âne", "Le mulet"],
+    "correctIndex": 0
   },
   {
     "id": "q182",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "En quelle année a eu lieu la bataille de Bouvines ?",
-    "answers": [
-      "1415",
-      "1214",
-      "1066",
-      "1099"
-    ],
+    "text": "Comment appelait-on un texte relatant la vie d’un saint ?",
+    "answers": ["Une chronique", "Une hagiographie", "Un capitulaire", "Un missel"],
     "correctIndex": 1
   },
   {
     "id": "q183",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "En quelle année a eu lieu la bataille de Bouvines ?",
-    "answers": [
-      "1415",
-      "1066",
-      "1099",
-      "1214"
-    ],
-    "correctIndex": 3
+    "text": "Quelle activité produisait les vitres colorées ?",
+    "answers": ["La poterie", "La fonderie", "La verrerie", "La sculpture"],
+    "correctIndex": 2
   },
   {
     "id": "q184",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Paris",
-      "Reims",
-      "Aix-la-Chapelle",
-      "Tours"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment accueillait les cérémonies religieuses majeures ?",
+    "answers": ["La chapelle", "Le cloître", "Le monastère", "La cathédrale"],
+    "correctIndex": 3
   },
+
   {
     "id": "q185",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi anglais fut capturé pendant la guerre de Cent Ans ?",
-    "answers": [
-      "Jean II le Bon",
-      "Richard II",
-      "Édouard IV",
-      "Henri VI"
-    ],
+    "text": "Quel objet servait à mesurer le temps ?",
+    "answers": ["Le sablier", "La cloche", "Le cadran solaire", "L’horloge"],
     "correctIndex": 0
   },
   {
     "id": "q186",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel traité mit fin à la guerre de Cent Ans ?",
-    "answers": [
-      "Traité de Verdun",
-      "Traité de Troyes",
-      "Traité de Paris",
-      "Traité de Picquigny"
-    ],
-    "correctIndex": 3
+    "text": "Comment appelait-on un territoire dirigé par un duc ?",
+    "answers": ["Un comté", "Un duché", "Un fief", "Une seigneurie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q187",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi a ordonné l'arrestation des Templiers en 1307 ?",
-    "answers": [
-      "Philippe le Bel",
-      "Philippe VI",
-      "Charles V",
-      "Louis IX"
-    ],
-    "correctIndex": 0
+    "text": "Quelle activité produisait les objets liturgiques en or ?",
+    "answers": ["La forge", "La sculpture", "L’orfèvrerie", "La verrerie"],
+    "correctIndex": 2
   },
   {
     "id": "q188",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel traité mit fin à la guerre de Cent Ans ?",
-    "answers": [
-      "Traité de Paris",
-      "Traité de Picquigny",
-      "Traité de Troyes",
-      "Traité de Verdun"
-    ],
-    "correctIndex": 1
+    "text": "Quel bâtiment conservait les reliques religieuses ?",
+    "answers": ["La halle", "Le cloître", "La grange", "Le trésor"],
+    "correctIndex": 3
   },
+
   {
     "id": "q189",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Paris",
-      "Aix-la-Chapelle",
-      "Tours",
-      "Reims"
-    ],
-    "correctIndex": 1
+    "text": "Quel objet protégeait la poitrine du chevalier ?",
+    "answers": ["La cuirasse", "La cotte", "Le bouclier", "Le plastron"],
+    "correctIndex": 0
   },
   {
     "id": "q190",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Tours",
-      "Reims",
-      "Aix-la-Chapelle",
-      "Paris"
-    ],
-    "correctIndex": 2
+    "text": "Comment appelait-on un texte juridique royal ?",
+    "answers": ["Une charte", "Un capitulaire", "Un missel", "Un cartulaire"],
+    "correctIndex": 1
   },
+
   {
     "id": "q191",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi de France a signé la Magna Carta ?",
-    "answers": [
-      "Philippe le Bel",
-      "Louis IX",
-      "Philippe II",
-      "Aucun"
-    ],
-    "correctIndex": 3
+    "text": "Quelle activité produisait les armes blanches ?",
+    "answers": ["La fonderie", "La menuiserie", "La forge", "La verrerie"],
+    "correctIndex": 2
   },
   {
     "id": "q192",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Tours",
-      "Paris",
-      "Aix-la-Chapelle",
-      "Reims"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment accueillait les moines pour les repas ?",
+    "answers": ["Le cloître", "Le dortoir", "Le scriptorium", "Le réfectoire"],
+    "correctIndex": 3
   },
+
   {
     "id": "q193",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Paris",
-      "Aix-la-Chapelle",
-      "Tours",
-      "Reims"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal fournissait le cuir ?",
+    "answers": ["Le bœuf", "Le mouton", "Le porc", "La chèvre"],
+    "correctIndex": 0
   },
   {
     "id": "q194",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi anglais fut capturé pendant la guerre de Cent Ans ?",
-    "answers": [
-      "Richard II",
-      "Édouard IV",
-      "Jean II le Bon",
-      "Henri VI"
-    ],
-    "correctIndex": 2
+    "text": "Comment appelait-on un impôt religieux ?",
+    "answers": ["La taille", "La dîme", "Le cens", "La banalité"],
+    "correctIndex": 1
   },
+
   {
     "id": "q195",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi a ordonné l'arrestation des Templiers en 1307 ?",
-    "answers": [
-      "Charles V",
-      "Louis IX",
-      "Philippe VI",
-      "Philippe le Bel"
-    ],
-    "correctIndex": 3
+    "text": "Quelle activité produisait les cordages ?",
+    "answers": ["La menuiserie", "La charpenterie", "La corderie", "La poterie"],
+    "correctIndex": 2
   },
   {
     "id": "q196",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi a ordonné l'arrestation des Templiers en 1307 ?",
-    "answers": [
-      "Charles V",
-      "Philippe le Bel",
-      "Louis IX",
-      "Philippe VI"
-    ],
-    "correctIndex": 1
+    "text": "Quel bâtiment stockait les armes du seigneur ?",
+    "answers": ["La grange", "Le cellier", "Le grenier", "L’arsenal"],
+    "correctIndex": 3
   },
+
   {
     "id": "q197",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel roi a ordonné l'arrestation des Templiers en 1307 ?",
-    "answers": [
-      "Philippe le Bel",
-      "Philippe VI",
-      "Louis IX",
-      "Charles V"
-    ],
+    "text": "Quel objet servait à appeler les fidèles ?",
+    "answers": ["La cloche", "La trompe", "Le tambour", "Le cor"],
     "correctIndex": 0
   },
   {
     "id": "q198",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Qui fut le premier roi capétien ?",
-    "answers": [
-      "Charles le Chauve",
-      "Louis le Pieux",
-      "Hugues Capet",
-      "Robert II"
-    ],
-    "correctIndex": 2
+    "text": "Comment appelait-on un chef militaire régional ?",
+    "answers": ["Le prévôt", "Le comte", "Le bailli", "Le sergent"],
+    "correctIndex": 1
   },
   {
     "id": "q199",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Aix-la-Chapelle",
-      "Reims",
-      "Paris",
-      "Tours"
-    ],
-    "correctIndex": 0
+    "text": "Quelle activité produisait les manuscrits décorés ?",
+    "answers": ["La copie", "La reliure", "L’enluminure", "La gravure"],
+    "correctIndex": 2
   },
   {
     "id": "q200",
     "category": "Moyen-Âge",
     "difficulty": "Moyen",
-    "text": "Quel traité mit fin à la guerre de Cent Ans ?",
-    "answers": [
-      "Traité de Paris",
-      "Traité de Verdun",
-      "Traité de Picquigny",
-      "Traité de Troyes"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q201",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel roi anglais fut capturé pendant la guerre de Cent Ans ?",
-    "answers": [
-      "Henri VI",
-      "Jean II le Bon",
-      "Édouard IV",
-      "Richard II"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q202",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Qui fut le premier roi capétien ?",
-    "answers": [
-      "Charles le Chauve",
-      "Louis le Pieux",
-      "Hugues Capet",
-      "Robert II"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q203",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel roi de France a signé la Magna Carta ?",
-    "answers": [
-      "Aucun",
-      "Philippe le Bel",
-      "Louis IX",
-      "Philippe II"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q204",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel était l'usage principal des moulins à vent au Moyen-Âge ?",
-    "answers": [
-      "Moudre le grain",
-      "Produire de la farine",
-      "Produire du papier",
-      "Pomper de l'eau"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q205",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel roi de France a signé la Magna Carta ?",
-    "answers": [
-      "Louis IX",
-      "Philippe le Bel",
-      "Philippe II",
-      "Aucun"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q206",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel est l'architecte célèbre des cathédrales gothiques ?",
-    "answers": [
-      "Pierre de Montreuil",
-      "Abélard",
-      "Villard de Honnecourt",
-      "Suger"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q207",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel roi de France a signé la Magna Carta ?",
-    "answers": [
-      "Aucun",
-      "Louis IX",
-      "Philippe II",
-      "Philippe le Bel"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q208",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel était l'usage principal des moulins à vent au Moyen-Âge ?",
-    "answers": [
-      "Pomper de l'eau",
-      "Produire du papier",
-      "Produire de la farine",
-      "Moudre le grain"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q209",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel était l'usage principal des moulins à vent au Moyen-Âge ?",
-    "answers": [
-      "Moudre le grain",
-      "Pomper de l'eau",
-      "Produire de la farine",
-      "Produire du papier"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q210",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Tours",
-      "Reims",
-      "Aix-la-Chapelle",
-      "Paris"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q211",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel traité mit fin à la guerre de Cent Ans ?",
-    "answers": [
-      "Traité de Paris",
-      "Traité de Troyes",
-      "Traité de Picquigny",
-      "Traité de Verdun"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q212",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel était l'usage principal des moulins à vent au Moyen-Âge ?",
-    "answers": [
-      "Moudre le grain",
-      "Produire du papier",
-      "Pomper de l'eau",
-      "Produire de la farine"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q213",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel roi anglais fut capturé pendant la guerre de Cent Ans ?",
-    "answers": [
-      "Henri VI",
-      "Richard II",
-      "Édouard IV",
-      "Jean II le Bon"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q214",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Qui fut le premier roi capétien ?",
-    "answers": [
-      "Louis le Pieux",
-      "Charles le Chauve",
-      "Robert II",
-      "Hugues Capet"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q215",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel roi a ordonné l'arrestation des Templiers en 1307 ?",
-    "answers": [
-      "Charles V",
-      "Philippe VI",
-      "Louis IX",
-      "Philippe le Bel"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q216",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel roi anglais fut capturé pendant la guerre de Cent Ans ?",
-    "answers": [
-      "Henri VI",
-      "Édouard IV",
-      "Richard II",
-      "Jean II le Bon"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q217",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel traité mit fin à la guerre de Cent Ans ?",
-    "answers": [
-      "Traité de Troyes",
-      "Traité de Paris",
-      "Traité de Picquigny",
-      "Traité de Verdun"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q218",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "En quelle année a eu lieu la bataille de Bouvines ?",
-    "answers": [
-      "1415",
-      "1099",
-      "1214",
-      "1066"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q219",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Reims",
-      "Tours",
-      "Paris",
-      "Aix-la-Chapelle"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q220",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel roi anglais fut capturé pendant la guerre de Cent Ans ?",
-    "answers": [
-      "Henri VI",
-      "Édouard IV",
-      "Jean II le Bon",
-      "Richard II"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q221",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel traité mit fin à la guerre de Cent Ans ?",
-    "answers": [
-      "Traité de Verdun",
-      "Traité de Paris",
-      "Traité de Troyes",
-      "Traité de Picquigny"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q222",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Paris",
-      "Aix-la-Chapelle",
-      "Reims",
-      "Tours"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q223",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel ordre religieux a été fondé pour protéger les pèlerins en Terre sainte ?",
-    "answers": [
-      "Bénédictins",
-      "Templiers",
-      "Dominicains",
-      "Franciscains"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q224",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Aix-la-Chapelle",
-      "Tours",
-      "Paris",
-      "Reims"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q225",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel roi de France a signé la Magna Carta ?",
-    "answers": [
-      "Louis IX",
-      "Philippe le Bel",
-      "Aucun",
-      "Philippe II"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q226",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel est l'architecte célèbre des cathédrales gothiques ?",
-    "answers": [
-      "Villard de Honnecourt",
-      "Abélard",
-      "Suger",
-      "Pierre de Montreuil"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q227",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Qui fut le premier roi capétien ?",
-    "answers": [
-      "Charles le Chauve",
-      "Louis le Pieux",
-      "Hugues Capet",
-      "Robert II"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q228",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Qui fut le premier roi capétien ?",
-    "answers": [
-      "Louis le Pieux",
-      "Hugues Capet",
-      "Charles le Chauve",
-      "Robert II"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q229",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel ordre religieux a été fondé pour protéger les pèlerins en Terre sainte ?",
-    "answers": [
-      "Bénédictins",
-      "Templiers",
-      "Dominicains",
-      "Franciscains"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q230",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Qui fut le premier roi capétien ?",
-    "answers": [
-      "Hugues Capet",
-      "Louis le Pieux",
-      "Robert II",
-      "Charles le Chauve"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q231",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel traité mit fin à la guerre de Cent Ans ?",
-    "answers": [
-      "Traité de Troyes",
-      "Traité de Picquigny",
-      "Traité de Paris",
-      "Traité de Verdun"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q232",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel traité mit fin à la guerre de Cent Ans ?",
-    "answers": [
-      "Traité de Verdun",
-      "Traité de Paris",
-      "Traité de Picquigny",
-      "Traité de Troyes"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q233",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel traité mit fin à la guerre de Cent Ans ?",
-    "answers": [
-      "Traité de Picquigny",
-      "Traité de Verdun",
-      "Traité de Paris",
-      "Traité de Troyes"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q234",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel ordre religieux a été fondé pour protéger les pèlerins en Terre sainte ?",
-    "answers": [
-      "Templiers",
-      "Bénédictins",
-      "Dominicains",
-      "Franciscains"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q235",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel roi a ordonné l'arrestation des Templiers en 1307 ?",
-    "answers": [
-      "Philippe VI",
-      "Philippe le Bel",
-      "Louis IX",
-      "Charles V"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q236",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel traité mit fin à la guerre de Cent Ans ?",
-    "answers": [
-      "Traité de Troyes",
-      "Traité de Paris",
-      "Traité de Verdun",
-      "Traité de Picquigny"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q237",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Aix-la-Chapelle",
-      "Paris",
-      "Reims",
-      "Tours"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q238",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel ordre religieux a été fondé pour protéger les pèlerins en Terre sainte ?",
-    "answers": [
-      "Dominicains",
-      "Templiers",
-      "Franciscains",
-      "Bénédictins"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q239",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel était l'usage principal des moulins à vent au Moyen-Âge ?",
-    "answers": [
-      "Moudre le grain",
-      "Pomper de l'eau",
-      "Produire de la farine",
-      "Produire du papier"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q240",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel était l'usage principal des moulins à vent au Moyen-Âge ?",
-    "answers": [
-      "Moudre le grain",
-      "Produire de la farine",
-      "Produire du papier",
-      "Pomper de l'eau"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q241",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel roi anglais fut capturé pendant la guerre de Cent Ans ?",
-    "answers": [
-      "Édouard IV",
-      "Richard II",
-      "Jean II le Bon",
-      "Henri VI"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q242",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel est l'architecte célèbre des cathédrales gothiques ?",
-    "answers": [
-      "Abélard",
-      "Suger",
-      "Villard de Honnecourt",
-      "Pierre de Montreuil"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q243",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Qui fut le premier roi capétien ?",
-    "answers": [
-      "Charles le Chauve",
-      "Robert II",
-      "Hugues Capet",
-      "Louis le Pieux"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q244",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel était l'usage principal des moulins à vent au Moyen-Âge ?",
-    "answers": [
-      "Produire du papier",
-      "Produire de la farine",
-      "Pomper de l'eau",
-      "Moudre le grain"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q245",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel était l'usage principal des moulins à vent au Moyen-Âge ?",
-    "answers": [
-      "Pomper de l'eau",
-      "Moudre le grain",
-      "Produire du papier",
-      "Produire de la farine"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q246",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel traité mit fin à la guerre de Cent Ans ?",
-    "answers": [
-      "Traité de Troyes",
-      "Traité de Paris",
-      "Traité de Verdun",
-      "Traité de Picquigny"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q247",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Qui fut le premier roi capétien ?",
-    "answers": [
-      "Hugues Capet",
-      "Robert II",
-      "Charles le Chauve",
-      "Louis le Pieux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q248",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel roi anglais fut capturé pendant la guerre de Cent Ans ?",
-    "answers": [
-      "Édouard IV",
-      "Richard II",
-      "Henri VI",
-      "Jean II le Bon"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q249",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel traité mit fin à la guerre de Cent Ans ?",
-    "answers": [
-      "Traité de Picquigny",
-      "Traité de Troyes",
-      "Traité de Paris",
-      "Traité de Verdun"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q250",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Qui fut le premier roi capétien ?",
-    "answers": [
-      "Robert II",
-      "Charles le Chauve",
-      "Louis le Pieux",
-      "Hugues Capet"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q251",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Qui fut le premier roi capétien ?",
-    "answers": [
-      "Robert II",
-      "Louis le Pieux",
-      "Charles le Chauve",
-      "Hugues Capet"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q252",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel ordre religieux a été fondé pour protéger les pèlerins en Terre sainte ?",
-    "answers": [
-      "Dominicains",
-      "Templiers",
-      "Franciscains",
-      "Bénédictins"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q253",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel était l'usage principal des moulins à vent au Moyen-Âge ?",
-    "answers": [
-      "Pomper de l'eau",
-      "Produire du papier",
-      "Moudre le grain",
-      "Produire de la farine"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q254",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel roi anglais fut capturé pendant la guerre de Cent Ans ?",
-    "answers": [
-      "Jean II le Bon",
-      "Henri VI",
-      "Édouard IV",
-      "Richard II"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q255",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "En quelle année a eu lieu la bataille de Bouvines ?",
-    "answers": [
-      "1214",
-      "1066",
-      "1415",
-      "1099"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q256",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel ordre religieux a été fondé pour protéger les pèlerins en Terre sainte ?",
-    "answers": [
-      "Franciscains",
-      "Templiers",
-      "Dominicains",
-      "Bénédictins"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q257",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Qui fut le premier roi capétien ?",
-    "answers": [
-      "Charles le Chauve",
-      "Robert II",
-      "Hugues Capet",
-      "Louis le Pieux"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q258",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel était l'usage principal des moulins à vent au Moyen-Âge ?",
-    "answers": [
-      "Moudre le grain",
-      "Produire de la farine",
-      "Produire du papier",
-      "Pomper de l'eau"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q259",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel roi de France a signé la Magna Carta ?",
-    "answers": [
-      "Louis IX",
-      "Philippe le Bel",
-      "Philippe II",
-      "Aucun"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q260",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Qui fut le premier roi capétien ?",
-    "answers": [
-      "Charles le Chauve",
-      "Louis le Pieux",
-      "Robert II",
-      "Hugues Capet"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q261",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel est l'architecte célèbre des cathédrales gothiques ?",
-    "answers": [
-      "Villard de Honnecourt",
-      "Pierre de Montreuil",
-      "Suger",
-      "Abélard"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q262",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel roi de France a signé la Magna Carta ?",
-    "answers": [
-      "Aucun",
-      "Philippe le Bel",
-      "Louis IX",
-      "Philippe II"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q263",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "En quelle année a eu lieu la bataille de Bouvines ?",
-    "answers": [
-      "1415",
-      "1099",
-      "1066",
-      "1214"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q264",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel était l'usage principal des moulins à vent au Moyen-Âge ?",
-    "answers": [
-      "Produire du papier",
-      "Moudre le grain",
-      "Produire de la farine",
-      "Pomper de l'eau"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q265",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Qui fut le premier roi capétien ?",
-    "answers": [
-      "Louis le Pieux",
-      "Hugues Capet",
-      "Charles le Chauve",
-      "Robert II"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q266",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel roi de France a signé la Magna Carta ?",
-    "answers": [
-      "Philippe II",
-      "Philippe le Bel",
-      "Aucun",
-      "Louis IX"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q267",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Qui fut le premier roi capétien ?",
-    "answers": [
-      "Louis le Pieux",
-      "Robert II",
-      "Hugues Capet",
-      "Charles le Chauve"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q268",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel roi a ordonné l'arrestation des Templiers en 1307 ?",
-    "answers": [
-      "Philippe VI",
-      "Louis IX",
-      "Philippe le Bel",
-      "Charles V"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q269",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel ordre religieux a été fondé pour protéger les pèlerins en Terre sainte ?",
-    "answers": [
-      "Franciscains",
-      "Templiers",
-      "Dominicains",
-      "Bénédictins"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q270",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel roi de France a signé la Magna Carta ?",
-    "answers": [
-      "Philippe II",
-      "Aucun",
-      "Louis IX",
-      "Philippe le Bel"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q271",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel est l'architecte célèbre des cathédrales gothiques ?",
-    "answers": [
-      "Abélard",
-      "Suger",
-      "Pierre de Montreuil",
-      "Villard de Honnecourt"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q272",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel roi a ordonné l'arrestation des Templiers en 1307 ?",
-    "answers": [
-      "Charles V",
-      "Philippe le Bel",
-      "Philippe VI",
-      "Louis IX"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q273",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel roi de France a signé la Magna Carta ?",
-    "answers": [
-      "Philippe II",
-      "Aucun",
-      "Philippe le Bel",
-      "Louis IX"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q274",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel était l'usage principal des moulins à vent au Moyen-Âge ?",
-    "answers": [
-      "Moudre le grain",
-      "Produire du papier",
-      "Pomper de l'eau",
-      "Produire de la farine"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q275",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel traité mit fin à la guerre de Cent Ans ?",
-    "answers": [
-      "Traité de Troyes",
-      "Traité de Picquigny",
-      "Traité de Verdun",
-      "Traité de Paris"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q276",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel roi de France a signé la Magna Carta ?",
-    "answers": [
-      "Philippe II",
-      "Philippe le Bel",
-      "Aucun",
-      "Louis IX"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q277",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quelle est la capitale du royaume franc sous Charlemagne ?",
-    "answers": [
-      "Aix-la-Chapelle",
-      "Reims",
-      "Paris",
-      "Tours"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q278",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel était l'usage principal des moulins à vent au Moyen-Âge ?",
-    "answers": [
-      "Produire de la farine",
-      "Pomper de l'eau",
-      "Moudre le grain",
-      "Produire du papier"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q279",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel roi anglais fut capturé pendant la guerre de Cent Ans ?",
-    "answers": [
-      "Édouard IV",
-      "Richard II",
-      "Henri VI",
-      "Jean II le Bon"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q280",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel était l'usage principal des moulins à vent au Moyen-Âge ?",
-    "answers": [
-      "Produire du papier",
-      "Pomper de l'eau",
-      "Produire de la farine",
-      "Moudre le grain"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q281",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel était l'usage principal des moulins à vent au Moyen-Âge ?",
-    "answers": [
-      "Produire de la farine",
-      "Moudre le grain",
-      "Pomper de l'eau",
-      "Produire du papier"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q282",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel roi de France a signé la Magna Carta ?",
-    "answers": [
-      "Philippe II",
-      "Philippe le Bel",
-      "Aucun",
-      "Louis IX"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q283",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel traité mit fin à la guerre de Cent Ans ?",
-    "answers": [
-      "Traité de Picquigny",
-      "Traité de Verdun",
-      "Traité de Paris",
-      "Traité de Troyes"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q284",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Qui fut le premier roi capétien ?",
-    "answers": [
-      "Robert II",
-      "Charles le Chauve",
-      "Hugues Capet",
-      "Louis le Pieux"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q285",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel ordre religieux a été fondé pour protéger les pèlerins en Terre sainte ?",
-    "answers": [
-      "Franciscains",
-      "Bénédictins",
-      "Templiers",
-      "Dominicains"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q286",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel ordre religieux a été fondé pour protéger les pèlerins en Terre sainte ?",
-    "answers": [
-      "Templiers",
-      "Franciscains",
-      "Dominicains",
-      "Bénédictins"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q287",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel était l'usage principal des moulins à vent au Moyen-Âge ?",
-    "answers": [
-      "Pomper de l'eau",
-      "Produire du papier",
-      "Produire de la farine",
-      "Moudre le grain"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q288",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Qui fut le premier roi capétien ?",
-    "answers": [
-      "Hugues Capet",
-      "Robert II",
-      "Louis le Pieux",
-      "Charles le Chauve"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q289",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "En quelle année a eu lieu la bataille de Bouvines ?",
-    "answers": [
-      "1415",
-      "1214",
-      "1066",
-      "1099"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q290",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel était l'usage principal des moulins à vent au Moyen-Âge ?",
-    "answers": [
-      "Moudre le grain",
-      "Pomper de l'eau",
-      "Produire du papier",
-      "Produire de la farine"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q291",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel roi a ordonné l'arrestation des Templiers en 1307 ?",
-    "answers": [
-      "Charles V",
-      "Louis IX",
-      "Philippe le Bel",
-      "Philippe VI"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q292",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel ordre religieux a été fondé pour protéger les pèlerins en Terre sainte ?",
-    "answers": [
-      "Bénédictins",
-      "Dominicains",
-      "Templiers",
-      "Franciscains"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q293",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel roi de France a signé la Magna Carta ?",
-    "answers": [
-      "Philippe II",
-      "Aucun",
-      "Louis IX",
-      "Philippe le Bel"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q294",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel était l'usage principal des moulins à vent au Moyen-Âge ?",
-    "answers": [
-      "Moudre le grain",
-      "Produire du papier",
-      "Produire de la farine",
-      "Pomper de l'eau"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q295",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel roi de France a signé la Magna Carta ?",
-    "answers": [
-      "Philippe le Bel",
-      "Aucun",
-      "Philippe II",
-      "Louis IX"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q296",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel roi a ordonné l'arrestation des Templiers en 1307 ?",
-    "answers": [
-      "Charles V",
-      "Philippe le Bel",
-      "Louis IX",
-      "Philippe VI"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q297",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel roi a ordonné l'arrestation des Templiers en 1307 ?",
-    "answers": [
-      "Philippe le Bel",
-      "Philippe VI",
-      "Charles V",
-      "Louis IX"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q298",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel était l'usage principal des moulins à vent au Moyen-Âge ?",
-    "answers": [
-      "Moudre le grain",
-      "Produire de la farine",
-      "Produire du papier",
-      "Pomper de l'eau"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q299",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel ordre religieux a été fondé pour protéger les pèlerins en Terre sainte ?",
-    "answers": [
-      "Bénédictins",
-      "Dominicains",
-      "Templiers",
-      "Franciscains"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q300",
-    "category": "Moyen-Âge",
-    "difficulty": "Moyen",
-    "text": "Quel roi anglais fut capturé pendant la guerre de Cent Ans ?",
-    "answers": [
-      "Richard II",
-      "Édouard IV",
-      "Henri VI",
-      "Jean II le Bon"
-    ],
+    "text": "Quel bâtiment symbolisait l’autorité municipale ?",
+    "answers": ["La halle", "Le cloître", "Le château", "L’hôtel de ville"],
     "correctIndex": 3
   }
 ]
