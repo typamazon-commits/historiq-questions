@@ -3,3900 +3,1688 @@
     "id": "q1",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel archéologue a découvert le tombeau de Toutânkhamon en 1922 ?",
-    "answers": [
-      "Arthur Evans",
-      "Giovanni Belzoni",
-      "Lord Carnarvon",
-      "Howard Carter"
-    ],
-    "correctIndex": 3
+    "text": "Quel manuscrit médiéval est réputé pour son alphabet inconnu et son iconographie botanique non identifiée ?",
+    "answers": ["Le manuscrit de Voynich", "Le Codex Gigas", "Le Livre de Kells", "Le Codex Sinaiticus"],
+    "correctIndex": 0
   },
   {
     "id": "q2",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel temple indien est sculpté dans une seule masse rocheuse ?",
-    "answers": [
-      "Mahabalipuram",
-      "Ajanta",
-      "Ellora",
-      "Kailasa"
-    ],
-    "correctIndex": 3
+    "text": "Quel site néolithique est considéré comme le plus ancien complexe cultuel monumental connu à ce jour ?",
+    "answers": ["Stonehenge", "Göbekli Tepe", "Çatal Höyük", "Nabta Playa"],
+    "correctIndex": 1
   },
   {
     "id": "q3",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel site mégalithique maltais est plus ancien que les pyramides ?",
-    "answers": [
-      "Ġgantija",
-      "Mnajdra",
-      "Hagar Qim",
-      "Tarxien"
-    ],
-    "correctIndex": 0
+    "text": "Quel phénomène désigne des émissions lumineuses observées avant ou pendant des séismes majeurs ?",
+    "answers": ["Les feux follets", "Les aurores boréales", "Les lumières sismiques", "Les météores"],
+    "correctIndex": 2
   },
   {
     "id": "q4",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel archéologue a découvert le tombeau de Toutânkhamon en 1922 ?",
-    "answers": [
-      "Howard Carter",
-      "Giovanni Belzoni",
-      "Arthur Evans",
-      "Lord Carnarvon"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays abrite les temples mégalithiques de Ġgantija, parmi les plus anciens édifices en pierre ?",
+    "answers": ["Grèce", "Italie", "Chypre", "Malte"],
+    "correctIndex": 3
   },
+
   {
     "id": "q5",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel artefact controversé serait une carte ancienne montrant l'Antarctique ?",
-    "answers": [
-      "Carte de Waldseemüller",
-      "Carte de Piri Reis",
-      "Portulan de Cantino",
-      "Carte de Vinland"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal mythique est associé à la fonction de gardien du savoir interdit dans l’Antiquité ?",
+    "answers": ["Le sphinx", "Le dragon", "Le griffon", "Le lion"],
+    "correctIndex": 0
   },
   {
     "id": "q6",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Horloge hydraulique",
-      "Instrument musical",
-      "Carte de navigation",
-      "Calcul astronomique"
-    ],
-    "correctIndex": 3
+    "text": "Quel site grec était le centre des Mystères d’Éleusis dédiés à Déméter et Perséphone ?",
+    "answers": ["Delphes", "Éleusis", "Dodone", "Épidaure"],
+    "correctIndex": 1
   },
   {
     "id": "q7",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel objet préhistorique gravé d'étoiles a été trouvé en France ?",
-    "answers": [
-      "Plaque de Glozel",
-      "Os de Blanchard",
-      "Disque de Nebra",
-      "Menhir de Gavrinis"
-    ],
+    "text": "Quel terme désigne la divination fondée sur l’observation des entrailles sacrificielles ?",
+    "answers": ["La mantique", "L’oniromancie", "L’haruspicine", "La théurgie"],
     "correctIndex": 2
   },
   {
     "id": "q8",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel artefact controversé aurait été trouvé à Oak Island ?",
-    "answers": [
-      "Croix templière",
-      "Manuscrit maya",
-      "Trésor viking",
-      "Sceptre égyptien"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays est associé aux lignes géantes du désert de Nazca ?",
+    "answers": ["Bolivie", "Chili", "Argentine", "Pérou"],
+    "correctIndex": 3
   },
+
   {
     "id": "q9",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Calcul astronomique",
-      "Instrument musical",
-      "Carte de navigation",
-      "Horloge hydraulique"
-    ],
+    "text": "Quel animal mythique symbolise la renaissance cyclique par le feu ?",
+    "answers": ["Le phénix", "Le dragon", "Le griffon", "Le serpent"],
     "correctIndex": 0
   },
   {
     "id": "q10",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel roi mystérieux est enterré dans un tumulus à Sutton Hoo ?",
-    "answers": [
-      "Inconnu",
-      "Alfred le Grand",
-      "Raedwald",
-      "Offa"
-    ],
-    "correctIndex": 0
+    "text": "Quel site andin est célèbre pour ses blocs cyclopéens assemblés sans mortier ?",
+    "answers": ["Tiwanaku", "Sacsayhuamán", "Chan Chan", "Nazca"],
+    "correctIndex": 1
   },
+
   {
     "id": "q11",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Calcul astronomique",
-      "Instrument musical",
-      "Horloge hydraulique",
-      "Carte de navigation"
-    ],
-    "correctIndex": 0
+    "text": "Quel concept jungien décrit des coïncidences perçues comme significatives sans lien causal ?",
+    "answers": ["L’archétype", "L’inconscient collectif", "La synchronicité", "La projection"],
+    "correctIndex": 2
   },
   {
     "id": "q12",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel roi mystérieux est enterré dans un tumulus à Sutton Hoo ?",
-    "answers": [
-      "Offa",
-      "Raedwald",
-      "Inconnu",
-      "Alfred le Grand"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé aux temples rupestres de Lalibela ?",
+    "answers": ["Soudan", "Érythrée", "Égypte", "Éthiopie"],
+    "correctIndex": 3
   },
+
   {
     "id": "q13",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Calcul astronomique",
-      "Carte de navigation",
-      "Instrument musical",
-      "Horloge hydraulique"
-    ],
+    "text": "Quel animal mythique est associé à la transmission du savoir ésotérique ?",
+    "answers": ["Le serpent", "Le dragon", "Le corbeau", "Le sphinx"],
     "correctIndex": 0
   },
   {
     "id": "q14",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel site mégalithique maltais est plus ancien que les pyramides ?",
-    "answers": [
-      "Mnajdra",
-      "Ġgantija",
-      "Hagar Qim",
-      "Tarxien"
-    ],
+    "text": "Quel site antique est considéré comme le centre religieux du zoroastrisme achéménide ?",
+    "answers": ["Suse", "Persépolis", "Pasargades", "Ecbatane"],
     "correctIndex": 1
   },
+
   {
     "id": "q15",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Horloge hydraulique",
-      "Calcul astronomique",
-      "Carte de navigation",
-      "Instrument musical"
-    ],
-    "correctIndex": 1
+    "text": "Quel terme désigne la croyance en la transmigration des âmes ?",
+    "answers": ["La réincarnation", "La résurrection", "La métempsycose", "La spiritualité"],
+    "correctIndex": 2
   },
   {
     "id": "q16",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel phénomène acoustique étrange se produit dans la 'porte du diable' au Kansas ?",
-    "answers": [
-      "Silence total",
-      "Voix chuchotées",
-      "Écho inversé",
-      "Bruit constant"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé aux temples antiques de Baalbek ?",
+    "answers": ["Syrie", "Israël", "Jordanie", "Liban"],
+    "correctIndex": 3
   },
+
   {
     "id": "q17",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel phénomène acoustique étrange se produit dans la 'porte du diable' au Kansas ?",
-    "answers": [
-      "Bruit constant",
-      "Écho inversé",
-      "Silence total",
-      "Voix chuchotées"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal mythique est gardien des Enfers dans la mythologie grecque ?",
+    "answers": ["Cerbère", "Hadès", "Le minotaure", "Le sphinx"],
+    "correctIndex": 0
   },
   {
     "id": "q18",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel phénomène acoustique étrange se produit dans la 'porte du diable' au Kansas ?",
-    "answers": [
-      "Bruit constant",
-      "Écho inversé",
-      "Silence total",
-      "Voix chuchotées"
-    ],
+    "text": "Quel site égyptien était associé au culte funéraire d’Osiris ?",
+    "answers": ["Saqqarah", "Abydos", "Memphis", "Gizeh"],
     "correctIndex": 1
   },
+
   {
     "id": "q19",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel roi mystérieux est enterré dans un tumulus à Sutton Hoo ?",
-    "answers": [
-      "Offa",
-      "Inconnu",
-      "Alfred le Grand",
-      "Raedwald"
-    ],
-    "correctIndex": 1
+    "text": "Quel terme désigne la divination par l’observation des éclairs et du tonnerre ?",
+    "answers": ["La pyromancie", "La géomancie", "La céraunomancie", "L’aéromancie"],
+    "correctIndex": 2
   },
   {
     "id": "q20",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel archéologue a découvert le tombeau de Toutânkhamon en 1922 ?",
-    "answers": [
-      "Howard Carter",
-      "Giovanni Belzoni",
-      "Lord Carnarvon",
-      "Arthur Evans"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays est associé aux temples antiques de Karnak ?",
+    "answers": ["Libye", "Soudan", "Nubie", "Égypte"],
+    "correctIndex": 3
   },
+
   {
     "id": "q21",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel archéologue a découvert le tombeau de Toutânkhamon en 1922 ?",
-    "answers": [
-      "Giovanni Belzoni",
-      "Howard Carter",
-      "Arthur Evans",
-      "Lord Carnarvon"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal mythique est symbole de justice cosmique et d’équilibre universel ?",
+    "answers": ["Le lion", "Le dragon", "Le taureau", "Le griffon"],
+    "correctIndex": 0
   },
   {
     "id": "q22",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel mystérieux globe en pierre se trouve au Costa Rica ?",
-    "answers": [
-      "Sphère mégalithique",
-      "Obélisque",
-      "Menhir solaire",
-      "Pierre levée"
-    ],
-    "correctIndex": 0
+    "text": "Quel site antique était le centre des Mystères de Samothrace ?",
+    "answers": ["Délos", "Samothrace", "Rhodes", "Naxos"],
+    "correctIndex": 1
   },
+
   {
     "id": "q23",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel artefact controversé serait une carte ancienne montrant l'Antarctique ?",
-    "answers": [
-      "Carte de Vinland",
-      "Carte de Waldseemüller",
-      "Portulan de Cantino",
-      "Carte de Piri Reis"
-    ],
-    "correctIndex": 3
+    "text": "Quel terme désigne la divination par l’observation des nuages ?",
+    "answers": ["L’aéromancie", "La météorologie", "La néphomancie", "L’augure"],
+    "correctIndex": 2
   },
   {
     "id": "q24",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel artefact controversé serait une carte ancienne montrant l'Antarctique ?",
-    "answers": [
-      "Carte de Piri Reis",
-      "Carte de Waldseemüller",
-      "Carte de Vinland",
-      "Portulan de Cantino"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays est associé aux temples antiques d’Angkor ?",
+    "answers": ["Thaïlande", "Vietnam", "Laos", "Cambodge"],
+    "correctIndex": 3
   },
+
   {
     "id": "q25",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel site mégalithique maltais est plus ancien que les pyramides ?",
-    "answers": [
-      "Ġgantija",
-      "Hagar Qim",
-      "Tarxien",
-      "Mnajdra"
-    ],
+    "text": "Quel animal mythique est symbole d’énigme et de seuil initiatique ?",
+    "answers": ["Le sphinx", "Le dragon", "Le griffon", "Le lion"],
     "correctIndex": 0
   },
   {
     "id": "q26",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel phénomène acoustique étrange se produit dans la 'porte du diable' au Kansas ?",
-    "answers": [
-      "Bruit constant",
-      "Silence total",
-      "Écho inversé",
-      "Voix chuchotées"
-    ],
-    "correctIndex": 2
+    "text": "Quel site antique est associé au culte de Mithra dans le monde romain ?",
+    "answers": ["Rome", "Ostie", "Pergame", "Antioche"],
+    "correctIndex": 1
   },
+
   {
     "id": "q27",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel phénomène acoustique étrange se produit dans la 'porte du diable' au Kansas ?",
-    "answers": [
-      "Bruit constant",
-      "Écho inversé",
-      "Silence total",
-      "Voix chuchotées"
-    ],
-    "correctIndex": 1
+    "text": "Quel terme désigne la communication supposée avec des entités non humaines ?",
+    "answers": ["La médiumnité", "La théurgie", "Le channeling", "La divination"],
+    "correctIndex": 2
   },
   {
     "id": "q28",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel roi mystérieux est enterré dans un tumulus à Sutton Hoo ?",
-    "answers": [
-      "Raedwald",
-      "Inconnu",
-      "Alfred le Grand",
-      "Offa"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé aux temples antiques de Chichén Itzá ?",
+    "answers": ["Guatemala", "Belize", "Honduras", "Mexique"],
+    "correctIndex": 3
   },
+
   {
     "id": "q29",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel archéologue a découvert le tombeau de Toutânkhamon en 1922 ?",
-    "answers": [
-      "Giovanni Belzoni",
-      "Howard Carter",
-      "Arthur Evans",
-      "Lord Carnarvon"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal mythique est symbole de protection absolue des lieux sacrés ?",
+    "answers": ["Le griffon", "Le dragon", "Le lion", "Le taureau"],
+    "correctIndex": 0
   },
   {
     "id": "q30",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel mystérieux globe en pierre se trouve au Costa Rica ?",
-    "answers": [
-      "Sphère mégalithique",
-      "Pierre levée",
-      "Menhir solaire",
-      "Obélisque"
-    ],
-    "correctIndex": 0
+    "text": "Quel site antique est associé aux mystères religieux de la civilisation sumérienne ?",
+    "answers": ["Lagash", "Uruk", "Nippur", "Eridu"],
+    "correctIndex": 1
   },
+
   {
     "id": "q31",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel objet préhistorique gravé d'étoiles a été trouvé en France ?",
-    "answers": [
-      "Disque de Nebra",
-      "Os de Blanchard",
-      "Plaque de Glozel",
-      "Menhir de Gavrinis"
-    ],
-    "correctIndex": 0
+    "text": "Quel terme désigne la croyance en une force vitale universelle reliant tous les êtres ?",
+    "answers": ["La foi", "La spiritualité", "L’énergie vitale", "La religion"],
+    "correctIndex": 2
   },
   {
     "id": "q32",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel site mégalithique maltais est plus ancien que les pyramides ?",
-    "answers": [
-      "Mnajdra",
-      "Hagar Qim",
-      "Tarxien",
-      "Ġgantija"
-    ],
+    "text": "Quel pays est associé aux temples antiques de Louxor ?",
+    "answers": ["Libye", "Soudan", "Nubie", "Égypte"],
     "correctIndex": 3
   },
+
   {
     "id": "q33",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Calcul astronomique",
-      "Instrument musical",
-      "Carte de navigation",
-      "Horloge hydraulique"
-    ],
+    "text": "Quel animal mythique est symbole de maîtrise du chaos primordial ?",
+    "answers": ["Le dragon", "Le serpent", "Le taureau", "Le lion"],
     "correctIndex": 0
   },
   {
     "id": "q34",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel mystérieux globe en pierre se trouve au Costa Rica ?",
-    "answers": [
-      "Menhir solaire",
-      "Obélisque",
-      "Sphère mégalithique",
-      "Pierre levée"
-    ],
-    "correctIndex": 2
+    "text": "Quel site antique est associé aux mystères de la civilisation minoenne ?",
+    "answers": ["Mycènes", "Cnossos", "Phaistos", "Mallia"],
+    "correctIndex": 1
   },
+
   {
     "id": "q35",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel roi mystérieux est enterré dans un tumulus à Sutton Hoo ?",
-    "answers": [
-      "Offa",
-      "Raedwald",
-      "Alfred le Grand",
-      "Inconnu"
-    ],
-    "correctIndex": 3
+    "text": "Quel terme désigne l’étude ésotérique des symboles et textes sacrés ?",
+    "answers": ["La philologie", "La sémiologie", "L’herméneutique", "La linguistique"],
+    "correctIndex": 2
   },
   {
     "id": "q36",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Carte de navigation",
-      "Calcul astronomique",
-      "Horloge hydraulique",
-      "Instrument musical"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé aux temples antiques de Bagan ?",
+    "answers": ["Thaïlande", "Cambodge", "Laos", "Myanmar"],
+    "correctIndex": 3
   },
+
   {
     "id": "q37",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel mystérieux globe en pierre se trouve au Costa Rica ?",
-    "answers": [
-      "Pierre levée",
-      "Menhir solaire",
-      "Obélisque",
-      "Sphère mégalithique"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal mythique est associé à la transmission ancestrale du savoir ?",
+    "answers": ["Le corbeau", "Le serpent", "Le dragon", "Le sphinx"],
+    "correctIndex": 0
   },
   {
     "id": "q38",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel archéologue a découvert le tombeau de Toutânkhamon en 1922 ?",
-    "answers": [
-      "Howard Carter",
-      "Arthur Evans",
-      "Giovanni Belzoni",
-      "Lord Carnarvon"
-    ],
-    "correctIndex": 0
+    "text": "Quel site antique est associé aux mystères de la civilisation étrusque ?",
+    "answers": ["Tarquinia", "Cerveteri", "Volterra", "Veies"],
+    "correctIndex": 1
   },
+
   {
     "id": "q39",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel roi mystérieux est enterré dans un tumulus à Sutton Hoo ?",
-    "answers": [
-      "Inconnu",
-      "Offa",
-      "Raedwald",
-      "Alfred le Grand"
-    ],
-    "correctIndex": 0
+    "text": "Quel terme désigne la divination par l’observation des pierres et du sol ?",
+    "answers": ["La lithomancie", "La chiromancie", "La géomancie", "La pyromancie"],
+    "correctIndex": 2
   },
   {
     "id": "q40",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Instrument musical",
-      "Calcul astronomique",
-      "Carte de navigation",
-      "Horloge hydraulique"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé aux temples antiques de Delphes ?",
+    "answers": ["Italie", "Macédoine", "Crète", "Grèce"],
+    "correctIndex": 3
   },
+
   {
     "id": "q41",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel artefact controversé aurait été trouvé à Oak Island ?",
-    "answers": [
-      "Croix templière",
-      "Sceptre égyptien",
-      "Manuscrit maya",
-      "Trésor viking"
-    ],
+    "text": "Quel animal mythique est symbole de protection spirituelle suprême ?",
+    "answers": ["Le sphinx", "Le dragon", "Le lion", "Le griffon"],
     "correctIndex": 0
   },
   {
     "id": "q42",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel mystérieux globe en pierre se trouve au Costa Rica ?",
-    "answers": [
-      "Menhir solaire",
-      "Obélisque",
-      "Sphère mégalithique",
-      "Pierre levée"
-    ],
-    "correctIndex": 2
+    "text": "Quel site antique est associé aux mystères de la civilisation carthaginoise ?",
+    "answers": ["Utique", "Carthage", "Hippo Regius", "Byrsa"],
+    "correctIndex": 1
   },
+
   {
     "id": "q43",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel roi mystérieux est enterré dans un tumulus à Sutton Hoo ?",
-    "answers": [
-      "Alfred le Grand",
-      "Raedwald",
-      "Offa",
-      "Inconnu"
-    ],
-    "correctIndex": 3
+    "text": "Quel terme désigne la croyance en une connaissance réservée aux initiés ?",
+    "answers": ["La mystique", "La théologie", "L’ésotérisme", "La superstition"],
+    "correctIndex": 2
   },
   {
     "id": "q44",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel artefact controversé aurait été trouvé à Oak Island ?",
-    "answers": [
-      "Trésor viking",
-      "Sceptre égyptien",
-      "Croix templière",
-      "Manuscrit maya"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé aux temples antiques de Petra ?",
+    "answers": ["Syrie", "Arabie saoudite", "Israël", "Jordanie"],
+    "correctIndex": 3
   },
+
   {
     "id": "q45",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel mystérieux globe en pierre se trouve au Costa Rica ?",
-    "answers": [
-      "Menhir solaire",
-      "Obélisque",
-      "Sphère mégalithique",
-      "Pierre levée"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal mythique est symbole d’épreuve initiatique ultime ?",
+    "answers": ["Le dragon", "Le lion", "Le taureau", "Le griffon"],
+    "correctIndex": 0
   },
   {
     "id": "q46",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel site mégalithique maltais est plus ancien que les pyramides ?",
-    "answers": [
-      "Ġgantija",
-      "Tarxien",
-      "Hagar Qim",
-      "Mnajdra"
-    ],
-    "correctIndex": 0
+    "text": "Quel site antique est associé aux mystères les plus anciens de la Mésopotamie ?",
+    "answers": ["Ur", "Uruk", "Babylone", "Nippur"],
+    "correctIndex": 1
   },
+
   {
     "id": "q47",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Instrument musical",
-      "Horloge hydraulique",
-      "Carte de navigation",
-      "Calcul astronomique"
-    ],
-    "correctIndex": 3
+    "text": "Quel terme désigne la croyance en des messages transmis par les rêves ?",
+    "answers": ["La prophétie", "La divination", "L’oniromancie", "La méditation"],
+    "correctIndex": 2
   },
   {
     "id": "q48",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel roi mystérieux est enterré dans un tumulus à Sutton Hoo ?",
-    "answers": [
-      "Offa",
-      "Raedwald",
-      "Alfred le Grand",
-      "Inconnu"
-    ],
+    "text": "Quel pays est associé aux temples antiques d’Abydos ?",
+    "answers": ["Soudan", "Libye", "Nubie", "Égypte"],
     "correctIndex": 3
   },
+
   {
     "id": "q49",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel temple indien est sculpté dans une seule masse rocheuse ?",
-    "answers": [
-      "Ajanta",
-      "Ellora",
-      "Mahabalipuram",
-      "Kailasa"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal mythique est symbole de protection ultime des secrets sacrés ?",
+    "answers": ["Le griffon", "Le dragon", "Le sphinx", "Le lion"],
+    "correctIndex": 0
   },
   {
     "id": "q50",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel temple indien est sculpté dans une seule masse rocheuse ?",
-    "answers": [
-      "Ellora",
-      "Ajanta",
-      "Kailasa",
-      "Mahabalipuram"
-    ],
+    "text": "Quel site antique est associé aux plus anciens rituels funéraires connus d’Égypte ?",
+    "answers": ["Memphis", "Thèbes", "Abydos", "Saqqarah"],
     "correctIndex": 2
   },
   {
     "id": "q51",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel archéologue a découvert le tombeau de Toutânkhamon en 1922 ?",
-    "answers": [
-      "Giovanni Belzoni",
-      "Howard Carter",
-      "Lord Carnarvon",
-      "Arthur Evans"
-    ],
-    "correctIndex": 1
+    "text": "Quel concept ésotérique désigne l’existence d’un savoir caché transmis uniquement par initiation ?",
+    "answers": ["La gnose", "La théologie", "La mythologie", "La superstition"],
+    "correctIndex": 0
   },
   {
     "id": "q52",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel artefact controversé serait une carte ancienne montrant l'Antarctique ?",
-    "answers": [
-      "Portulan de Cantino",
-      "Carte de Waldseemüller",
-      "Carte de Vinland",
-      "Carte de Piri Reis"
-    ],
-    "correctIndex": 3
+    "text": "Quel site antique était consacré aux mystères de Cybèle en Asie Mineure ?",
+    "answers": ["Sardes", "Pessinonte", "Éphèse", "Pergame"],
+    "correctIndex": 1
   },
   {
     "id": "q53",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel roi mystérieux est enterré dans un tumulus à Sutton Hoo ?",
-    "answers": [
-      "Alfred le Grand",
-      "Raedwald",
-      "Offa",
-      "Inconnu"
-    ],
-    "correctIndex": 3
+    "text": "Quel terme désigne la divination par l’observation des mouvements de la fumée ?",
+    "answers": ["La pyromancie", "La céraunomancie", "La capnomancie", "La théurgie"],
+    "correctIndex": 2
   },
   {
     "id": "q54",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel temple indien est sculpté dans une seule masse rocheuse ?",
-    "answers": [
-      "Ellora",
-      "Mahabalipuram",
-      "Kailasa",
-      "Ajanta"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé aux cercles mégalithiques de Callanish ?",
+    "answers": ["Irlande", "Angleterre", "Pays de Galles", "Écosse"],
+    "correctIndex": 3
   },
+
   {
     "id": "q55",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel archéologue a découvert le tombeau de Toutânkhamon en 1922 ?",
-    "answers": [
-      "Giovanni Belzoni",
-      "Arthur Evans",
-      "Howard Carter",
-      "Lord Carnarvon"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal mythique est associé à la protection des archives sacrées dans l’Antiquité ?",
+    "answers": ["Le griffon", "Le dragon", "Le lion", "Le taureau"],
+    "correctIndex": 0
   },
   {
     "id": "q56",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel site mégalithique maltais est plus ancien que les pyramides ?",
-    "answers": [
-      "Ġgantija",
-      "Tarxien",
-      "Mnajdra",
-      "Hagar Qim"
-    ],
-    "correctIndex": 0
+    "text": "Quel site antique est lié aux mystères oraculaires les plus anciens de Grèce ?",
+    "answers": ["Delphes", "Dodone", "Éleusis", "Délos"],
+    "correctIndex": 1
   },
   {
     "id": "q57",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel artefact controversé serait une carte ancienne montrant l'Antarctique ?",
-    "answers": [
-      "Carte de Piri Reis",
-      "Portulan de Cantino",
-      "Carte de Vinland",
-      "Carte de Waldseemüller"
-    ],
-    "correctIndex": 0
+    "text": "Quel concept désigne l’idée d’un temps cyclique éternel dans certaines traditions mystiques ?",
+    "answers": ["L’eschatologie", "La chronologie", "L’éternel retour", "La linéarité"],
+    "correctIndex": 2
   },
   {
     "id": "q58",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Calcul astronomique",
-      "Carte de navigation",
-      "Instrument musical",
-      "Horloge hydraulique"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays est associé aux statues monumentales de l’île de Pâques ?",
+    "answers": ["Pérou", "Bolivie", "Argentine", "Chili"],
+    "correctIndex": 3
   },
+
   {
     "id": "q59",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel phénomène acoustique étrange se produit dans la 'porte du diable' au Kansas ?",
-    "answers": [
-      "Bruit constant",
-      "Écho inversé",
-      "Silence total",
-      "Voix chuchotées"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal mythique est symbole de passage entre les cycles cosmiques ?",
+    "answers": ["Le serpent", "Le dragon", "Le sphinx", "Le griffon"],
+    "correctIndex": 0
   },
   {
     "id": "q60",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Carte de navigation",
-      "Calcul astronomique",
-      "Instrument musical",
-      "Horloge hydraulique"
-    ],
+    "text": "Quel site antique est associé aux mystères religieux de la civilisation de l’Indus ?",
+    "answers": ["Harappa", "Mohenjo-daro", "Lothal", "Dholavira"],
     "correctIndex": 1
   },
+
   {
     "id": "q61",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel mystérieux globe en pierre se trouve au Costa Rica ?",
-    "answers": [
-      "Pierre levée",
-      "Menhir solaire",
-      "Obélisque",
-      "Sphère mégalithique"
-    ],
-    "correctIndex": 3
+    "text": "Quel terme désigne la divination fondée sur l’observation des miroirs ou surfaces réfléchissantes ?",
+    "answers": ["La catoptromancie", "La chiromancie", "La nécromancie", "La lithomancie"],
+    "correctIndex": 2
   },
   {
     "id": "q62",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel phénomène acoustique étrange se produit dans la 'porte du diable' au Kansas ?",
-    "answers": [
-      "Voix chuchotées",
-      "Bruit constant",
-      "Silence total",
-      "Écho inversé"
-    ],
+    "text": "Quel pays est associé au site mégalithique de Nabta Playa ?",
+    "answers": ["Libye", "Tchad", "Soudan", "Égypte"],
     "correctIndex": 3
   },
+
   {
     "id": "q63",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel archéologue a découvert le tombeau de Toutânkhamon en 1922 ?",
-    "answers": [
-      "Howard Carter",
-      "Lord Carnarvon",
-      "Giovanni Belzoni",
-      "Arthur Evans"
-    ],
+    "text": "Quel animal mythique est associé à la mémoire primordiale du monde ?",
+    "answers": ["Le serpent", "Le corbeau", "Le dragon", "Le sphinx"],
     "correctIndex": 0
   },
   {
     "id": "q64",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel artefact controversé serait une carte ancienne montrant l'Antarctique ?",
-    "answers": [
-      "Carte de Vinland",
-      "Portulan de Cantino",
-      "Carte de Waldseemüller",
-      "Carte de Piri Reis"
-    ],
-    "correctIndex": 3
+    "text": "Quel site antique est lié aux mystères funéraires royaux de Nubie ?",
+    "answers": ["Kerma", "Mérowé", "Napata", "Dongola"],
+    "correctIndex": 1
   },
+
   {
     "id": "q65",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel objet préhistorique gravé d'étoiles a été trouvé en France ?",
-    "answers": [
-      "Menhir de Gavrinis",
-      "Plaque de Glozel",
-      "Os de Blanchard",
-      "Disque de Nebra"
-    ],
-    "correctIndex": 3
+    "text": "Quel concept désigne la croyance en un ordre caché structurant l’univers ?",
+    "answers": ["Le chaos", "La cosmologie", "Le logos", "Le dogme"],
+    "correctIndex": 2
   },
   {
     "id": "q66",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel artefact controversé serait une carte ancienne montrant l'Antarctique ?",
-    "answers": [
-      "Portulan de Cantino",
-      "Carte de Vinland",
-      "Carte de Piri Reis",
-      "Carte de Waldseemüller"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé aux temples antiques de Hampi ?",
+    "answers": ["Pakistan", "Sri Lanka", "Bangladesh", "Inde"],
+    "correctIndex": 3
   },
+
   {
     "id": "q67",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel artefact controversé aurait été trouvé à Oak Island ?",
-    "answers": [
-      "Trésor viking",
-      "Croix templière",
-      "Manuscrit maya",
-      "Sceptre égyptien"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal mythique est symbole de vigilance éternelle aux portes du sacré ?",
+    "answers": ["Le sphinx", "Le lion", "Le dragon", "Le taureau"],
+    "correctIndex": 0
   },
   {
     "id": "q68",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel mystérieux globe en pierre se trouve au Costa Rica ?",
-    "answers": [
-      "Sphère mégalithique",
-      "Menhir solaire",
-      "Pierre levée",
-      "Obélisque"
-    ],
-    "correctIndex": 0
+    "text": "Quel site antique est associé aux mystères de la civilisation zapotèque ?",
+    "answers": ["Mitla", "Monte Albán", "El Tajín", "Teotihuacan"],
+    "correctIndex": 1
   },
+
   {
     "id": "q69",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel temple indien est sculpté dans une seule masse rocheuse ?",
-    "answers": [
-      "Mahabalipuram",
-      "Kailasa",
-      "Ajanta",
-      "Ellora"
-    ],
-    "correctIndex": 1
+    "text": "Quel terme désigne la divination par l’observation des os ou restes animaux ?",
+    "answers": ["L’ostéomancie", "La nécromancie", "La mantique", "La géomancie"],
+    "correctIndex": 2
   },
   {
     "id": "q70",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel roi mystérieux est enterré dans un tumulus à Sutton Hoo ?",
-    "answers": [
-      "Inconnu",
-      "Offa",
-      "Raedwald",
-      "Alfred le Grand"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays est associé aux temples antiques de Tiwanaku ?",
+    "answers": ["Pérou", "Chili", "Argentine", "Bolivie"],
+    "correctIndex": 3
   },
+
   {
     "id": "q71",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Calcul astronomique",
-      "Instrument musical",
-      "Carte de navigation",
-      "Horloge hydraulique"
-    ],
+    "text": "Quel animal mythique est symbole de souveraineté cosmique ?",
+    "answers": ["Le lion", "Le dragon", "Le griffon", "Le taureau"],
     "correctIndex": 0
   },
   {
     "id": "q72",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel roi mystérieux est enterré dans un tumulus à Sutton Hoo ?",
-    "answers": [
-      "Raedwald",
-      "Inconnu",
-      "Offa",
-      "Alfred le Grand"
-    ],
+    "text": "Quel site antique est associé aux mystères de la civilisation hittite ?",
+    "answers": ["Troie", "Hattusa", "Pergame", "Sardes"],
     "correctIndex": 1
   },
+
   {
     "id": "q73",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel temple indien est sculpté dans une seule masse rocheuse ?",
-    "answers": [
-      "Mahabalipuram",
-      "Kailasa",
-      "Ellora",
-      "Ajanta"
-    ],
-    "correctIndex": 1
+    "text": "Quel concept désigne la connaissance intuitive directe sans raisonnement ?",
+    "answers": ["La foi", "La logique", "La gnose intuitive", "La dialectique"],
+    "correctIndex": 2
   },
   {
     "id": "q74",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel artefact controversé serait une carte ancienne montrant l'Antarctique ?",
-    "answers": [
-      "Carte de Vinland",
-      "Carte de Waldseemüller",
-      "Portulan de Cantino",
-      "Carte de Piri Reis"
-    ],
+    "text": "Quel pays est associé aux temples antiques de Bagan ?",
+    "answers": ["Thaïlande", "Cambodge", "Laos", "Myanmar"],
     "correctIndex": 3
   },
+
   {
     "id": "q75",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel phénomène acoustique étrange se produit dans la 'porte du diable' au Kansas ?",
-    "answers": [
-      "Silence total",
-      "Bruit constant",
-      "Voix chuchotées",
-      "Écho inversé"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal mythique est associé à la protection des seuils initiatiques ?",
+    "answers": ["Le griffon", "Le dragon", "Le lion", "Le sphinx"],
+    "correctIndex": 0
   },
   {
     "id": "q76",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel artefact controversé serait une carte ancienne montrant l'Antarctique ?",
-    "answers": [
-      "Carte de Piri Reis",
-      "Portulan de Cantino",
-      "Carte de Vinland",
-      "Carte de Waldseemüller"
-    ],
-    "correctIndex": 0
+    "text": "Quel site antique est associé aux mystères religieux de la civilisation étrusque ?",
+    "answers": ["Tarquinia", "Cerveteri", "Veies", "Volterra"],
+    "correctIndex": 1
   },
+
   {
     "id": "q77",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel phénomène acoustique étrange se produit dans la 'porte du diable' au Kansas ?",
-    "answers": [
-      "Écho inversé",
-      "Voix chuchotées",
-      "Silence total",
-      "Bruit constant"
-    ],
-    "correctIndex": 0
+    "text": "Quel terme désigne la divination par l’observation du sable ou de la terre ?",
+    "answers": ["La lithomancie", "La chiromancie", "La géomancie", "La céraunomancie"],
+    "correctIndex": 2
   },
   {
     "id": "q78",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel archéologue a découvert le tombeau de Toutânkhamon en 1922 ?",
-    "answers": [
-      "Arthur Evans",
-      "Giovanni Belzoni",
-      "Howard Carter",
-      "Lord Carnarvon"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé aux temples antiques de Delphes ?",
+    "answers": ["Italie", "Macédoine", "Crète", "Grèce"],
+    "correctIndex": 3
   },
+
   {
     "id": "q79",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel temple indien est sculpté dans une seule masse rocheuse ?",
-    "answers": [
-      "Mahabalipuram",
-      "Ajanta",
-      "Ellora",
-      "Kailasa"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal mythique est symbole d’harmonie entre forces célestes et terrestres ?",
+    "answers": ["Le dragon", "Le serpent", "Le griffon", "Le lion"],
+    "correctIndex": 0
   },
   {
     "id": "q80",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel site mégalithique maltais est plus ancien que les pyramides ?",
-    "answers": [
-      "Ġgantija",
-      "Mnajdra",
-      "Tarxien",
-      "Hagar Qim"
-    ],
-    "correctIndex": 0
+    "text": "Quel site antique est associé aux mystères du culte de Mithra ?",
+    "answers": ["Rome", "Ostie", "Pergame", "Antioche"],
+    "correctIndex": 1
   },
+
   {
     "id": "q81",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel temple indien est sculpté dans une seule masse rocheuse ?",
-    "answers": [
-      "Ajanta",
-      "Ellora",
-      "Kailasa",
-      "Mahabalipuram"
-    ],
+    "text": "Quel concept désigne la croyance en une unité fondamentale de toute chose ?",
+    "answers": ["Le dualisme", "Le pluralisme", "Le monisme", "Le relativisme"],
     "correctIndex": 2
   },
   {
     "id": "q82",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel roi mystérieux est enterré dans un tumulus à Sutton Hoo ?",
-    "answers": [
-      "Raedwald",
-      "Alfred le Grand",
-      "Inconnu",
-      "Offa"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé aux temples antiques de Petra ?",
+    "answers": ["Syrie", "Arabie saoudite", "Israël", "Jordanie"],
+    "correctIndex": 3
   },
+
   {
     "id": "q83",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel artefact controversé serait une carte ancienne montrant l'Antarctique ?",
-    "answers": [
-      "Portulan de Cantino",
-      "Carte de Vinland",
-      "Carte de Piri Reis",
-      "Carte de Waldseemüller"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal mythique est symbole de sagesse cachée et silencieuse ?",
+    "answers": ["Le hibou", "Le serpent", "Le dragon", "Le sphinx"],
+    "correctIndex": 0
   },
   {
     "id": "q84",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel objet préhistorique gravé d'étoiles a été trouvé en France ?",
-    "answers": [
-      "Os de Blanchard",
-      "Plaque de Glozel",
-      "Disque de Nebra",
-      "Menhir de Gavrinis"
-    ],
-    "correctIndex": 2
+    "text": "Quel site antique est associé aux mystères de la civilisation carthaginoise ?",
+    "answers": ["Utique", "Carthage", "Hippo Regius", "Byrsa"],
+    "correctIndex": 1
   },
+
   {
     "id": "q85",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel site mégalithique maltais est plus ancien que les pyramides ?",
-    "answers": [
-      "Ġgantija",
-      "Tarxien",
-      "Mnajdra",
-      "Hagar Qim"
-    ],
-    "correctIndex": 0
+    "text": "Quel terme désigne l’étude ésotérique des nombres sacrés ?",
+    "answers": ["La mathématique", "La géométrie", "La numérologie", "L’arithmétique"],
+    "correctIndex": 2
   },
   {
     "id": "q86",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel site mégalithique maltais est plus ancien que les pyramides ?",
-    "answers": [
-      "Ġgantija",
-      "Hagar Qim",
-      "Mnajdra",
-      "Tarxien"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays est associé aux temples antiques de Karnak ?",
+    "answers": ["Libye", "Soudan", "Nubie", "Égypte"],
+    "correctIndex": 3
   },
+
   {
     "id": "q87",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel objet préhistorique gravé d'étoiles a été trouvé en France ?",
-    "answers": [
-      "Menhir de Gavrinis",
-      "Os de Blanchard",
-      "Disque de Nebra",
-      "Plaque de Glozel"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal mythique est symbole d’épreuve initiatique et de dépassement ?",
+    "answers": ["Le dragon", "Le lion", "Le taureau", "Le griffon"],
+    "correctIndex": 0
   },
   {
     "id": "q88",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel artefact controversé serait une carte ancienne montrant l'Antarctique ?",
-    "answers": [
-      "Carte de Vinland",
-      "Carte de Waldseemüller",
-      "Portulan de Cantino",
-      "Carte de Piri Reis"
-    ],
-    "correctIndex": 3
+    "text": "Quel site antique est associé aux mystères de la civilisation maya ?",
+    "answers": ["Palenque", "Chichén Itzá", "Copán", "Uxmal"],
+    "correctIndex": 1
   },
+
   {
     "id": "q89",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel artefact controversé aurait été trouvé à Oak Island ?",
-    "answers": [
-      "Croix templière",
-      "Sceptre égyptien",
-      "Manuscrit maya",
-      "Trésor viking"
-    ],
-    "correctIndex": 0
+    "text": "Quel concept désigne la croyance en une âme universelle du monde ?",
+    "answers": ["Le matérialisme", "La théologie", "L’anima mundi", "Le scepticisme"],
+    "correctIndex": 2
   },
   {
     "id": "q90",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel temple indien est sculpté dans une seule masse rocheuse ?",
-    "answers": [
-      "Kailasa",
-      "Ajanta",
-      "Mahabalipuram",
-      "Ellora"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays est associé aux temples antiques de Louxor ?",
+    "answers": ["Libye", "Soudan", "Nubie", "Égypte"],
+    "correctIndex": 3
   },
+
   {
     "id": "q91",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel objet préhistorique gravé d'étoiles a été trouvé en France ?",
-    "answers": [
-      "Disque de Nebra",
-      "Plaque de Glozel",
-      "Os de Blanchard",
-      "Menhir de Gavrinis"
-    ],
+    "text": "Quel animal mythique est symbole de protection ultime des secrets anciens ?",
+    "answers": ["Le griffon", "Le dragon", "Le sphinx", "Le lion"],
     "correctIndex": 0
   },
   {
     "id": "q92",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel archéologue a découvert le tombeau de Toutânkhamon en 1922 ?",
-    "answers": [
-      "Arthur Evans",
-      "Howard Carter",
-      "Giovanni Belzoni",
-      "Lord Carnarvon"
-    ],
+    "text": "Quel site antique est associé aux mystères de la civilisation sumérienne ?",
+    "answers": ["Lagash", "Uruk", "Nippur", "Eridu"],
     "correctIndex": 1
   },
+
   {
     "id": "q93",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel mystérieux globe en pierre se trouve au Costa Rica ?",
-    "answers": [
-      "Obélisque",
-      "Sphère mégalithique",
-      "Menhir solaire",
-      "Pierre levée"
-    ],
-    "correctIndex": 1
+    "text": "Quel terme désigne la divination par l’observation des astres ?",
+    "answers": ["L’astronomie", "La cosmologie", "L’astrologie", "L’astromancie"],
+    "correctIndex": 2
   },
   {
     "id": "q94",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel artefact controversé serait une carte ancienne montrant l'Antarctique ?",
-    "answers": [
-      "Portulan de Cantino",
-      "Carte de Waldseemüller",
-      "Carte de Piri Reis",
-      "Carte de Vinland"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé aux temples antiques de Chichén Itzá ?",
+    "answers": ["Guatemala", "Belize", "Honduras", "Mexique"],
+    "correctIndex": 3
   },
+
   {
     "id": "q95",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel temple indien est sculpté dans une seule masse rocheuse ?",
-    "answers": [
-      "Ajanta",
-      "Ellora",
-      "Kailasa",
-      "Mahabalipuram"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal mythique est symbole de justice cosmique absolue ?",
+    "answers": ["Le lion", "Le dragon", "Le taureau", "Le griffon"],
+    "correctIndex": 0
   },
   {
     "id": "q96",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel artefact controversé serait une carte ancienne montrant l'Antarctique ?",
-    "answers": [
-      "Portulan de Cantino",
-      "Carte de Vinland",
-      "Carte de Waldseemüller",
-      "Carte de Piri Reis"
-    ],
-    "correctIndex": 3
+    "text": "Quel site antique est associé aux mystères du culte d’Osiris ?",
+    "answers": ["Memphis", "Abydos", "Thèbes", "Saqqarah"],
+    "correctIndex": 1
   },
+
   {
     "id": "q97",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel site mégalithique maltais est plus ancien que les pyramides ?",
-    "answers": [
-      "Hagar Qim",
-      "Tarxien",
-      "Mnajdra",
-      "Ġgantija"
-    ],
-    "correctIndex": 3
+    "text": "Quel concept désigne la croyance en des lois invisibles gouvernant l’univers ?",
+    "answers": ["Le hasard", "La science", "L’ésotérisme", "Le positivisme"],
+    "correctIndex": 2
   },
   {
     "id": "q98",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel archéologue a découvert le tombeau de Toutânkhamon en 1922 ?",
-    "answers": [
-      "Lord Carnarvon",
-      "Arthur Evans",
-      "Giovanni Belzoni",
-      "Howard Carter"
-    ],
+    "text": "Quel pays est associé aux temples antiques de Baalbek ?",
+    "answers": ["Syrie", "Israël", "Jordanie", "Liban"],
     "correctIndex": 3
   },
+
   {
     "id": "q99",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Carte de navigation",
-      "Horloge hydraulique",
-      "Calcul astronomique",
-      "Instrument musical"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal mythique est symbole de permanence et d’éternité cyclique ?",
+    "answers": ["Le serpent", "Le dragon", "Le corbeau", "Le sphinx"],
+    "correctIndex": 0
   },
   {
     "id": "q100",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel temple indien est sculpté dans une seule masse rocheuse ?",
-    "answers": [
-      "Ajanta",
-      "Ellora",
-      "Mahabalipuram",
-      "Kailasa"
-    ],
-    "correctIndex": 3
+    "text": "Quel site antique est associé aux plus anciens cultes funéraires d’Égypte ?",
+    "answers": ["Memphis", "Thèbes", "Abydos", "Gizeh"],
+    "correctIndex": 2
   },
   {
     "id": "q101",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel objet préhistorique gravé d'étoiles a été trouvé en France ?",
-    "answers": [
-      "Plaque de Glozel",
-      "Os de Blanchard",
-      "Disque de Nebra",
-      "Menhir de Gavrinis"
-    ],
-    "correctIndex": 2
+    "text": "Quel concept mystique désigne la connaissance directe du divin sans intermédiaire institutionnel ?",
+    "answers": ["La gnose", "La liturgie", "La scolastique", "La théologie dogmatique"],
+    "correctIndex": 0
   },
   {
     "id": "q102",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel archéologue a découvert le tombeau de Toutânkhamon en 1922 ?",
-    "answers": [
-      "Howard Carter",
-      "Arthur Evans",
-      "Giovanni Belzoni",
-      "Lord Carnarvon"
-    ],
-    "correctIndex": 0
+    "text": "Quel site antique est associé aux rituels secrets du dieu Sabazios ?",
+    "answers": ["Delphes", "Pergame", "Éleusis", "Byzance"],
+    "correctIndex": 1
   },
   {
     "id": "q103",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel artefact controversé serait une carte ancienne montrant l'Antarctique ?",
-    "answers": [
-      "Carte de Waldseemüller",
-      "Carte de Piri Reis",
-      "Portulan de Cantino",
-      "Carte de Vinland"
-    ],
-    "correctIndex": 1
+    "text": "Quel terme désigne la croyance en une révélation progressive réservée à une élite initiée ?",
+    "answers": ["L’orthodoxie", "L’exotérisme", "L’ésotérisme", "Le syncrétisme"],
+    "correctIndex": 2
   },
   {
     "id": "q104",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel phénomène acoustique étrange se produit dans la 'porte du diable' au Kansas ?",
-    "answers": [
-      "Silence total",
-      "Écho inversé",
-      "Voix chuchotées",
-      "Bruit constant"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays abrite le site mégalithique de Göbekli Tepe ?",
+    "answers": ["Syrie", "Iran", "Arménie", "Turquie"],
+    "correctIndex": 3
   },
+
   {
     "id": "q105",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel temple indien est sculpté dans une seule masse rocheuse ?",
-    "answers": [
-      "Ellora",
-      "Mahabalipuram",
-      "Kailasa",
-      "Ajanta"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal mythique est associé à la renaissance cyclique et à l’immortalité ?",
+    "answers": ["Le phénix", "Le dragon", "Le serpent", "Le griffon"],
+    "correctIndex": 0
   },
   {
     "id": "q106",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel artefact controversé aurait été trouvé à Oak Island ?",
-    "answers": [
-      "Croix templière",
-      "Trésor viking",
-      "Manuscrit maya",
-      "Sceptre égyptien"
-    ],
-    "correctIndex": 0
+    "text": "Quel sanctuaire était dédié aux mystères d’Isis dans le monde gréco-romain ?",
+    "answers": ["Délos", "Philae", "Carthage", "Pompéi"],
+    "correctIndex": 1
   },
   {
     "id": "q107",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel artefact controversé aurait été trouvé à Oak Island ?",
-    "answers": [
-      "Trésor viking",
-      "Manuscrit maya",
-      "Sceptre égyptien",
-      "Croix templière"
-    ],
-    "correctIndex": 3
+    "text": "Quel concept désigne l’union mystique de l’âme avec le principe absolu ?",
+    "answers": ["La métempsycose", "L’ascèse", "L’henosis", "La théurgie"],
+    "correctIndex": 2
   },
   {
     "id": "q108",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel objet préhistorique gravé d'étoiles a été trouvé en France ?",
-    "answers": [
-      "Plaque de Glozel",
-      "Menhir de Gavrinis",
-      "Os de Blanchard",
-      "Disque de Nebra"
-    ],
+    "text": "Quel pays est associé aux lignes de Nazca ?",
+    "answers": ["Bolivie", "Équateur", "Chili", "Pérou"],
     "correctIndex": 3
   },
+
   {
     "id": "q109",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel site mégalithique maltais est plus ancien que les pyramides ?",
-    "answers": [
-      "Tarxien",
-      "Mnajdra",
-      "Ġgantija",
-      "Hagar Qim"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal mythique est symbole de gardien du savoir interdit ?",
+    "answers": ["Le dragon", "Le lion", "Le taureau", "Le corbeau"],
+    "correctIndex": 0
   },
   {
     "id": "q110",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel artefact controversé aurait été trouvé à Oak Island ?",
-    "answers": [
-      "Trésor viking",
-      "Sceptre égyptien",
-      "Manuscrit maya",
-      "Croix templière"
-    ],
-    "correctIndex": 3
+    "text": "Quel lieu était le centre des mystères d’Éleusis dans la Grèce antique ?",
+    "answers": ["Athènes", "Éleusis", "Delphes", "Corinthe"],
+    "correctIndex": 1
   },
+
   {
     "id": "q111",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel phénomène acoustique étrange se produit dans la 'porte du diable' au Kansas ?",
-    "answers": [
-      "Silence total",
-      "Bruit constant",
-      "Voix chuchotées",
-      "Écho inversé"
-    ],
-    "correctIndex": 3
+    "text": "Quel terme désigne l’art de communiquer avec les âmes des morts selon certaines croyances ?",
+    "answers": ["La théurgie", "La mantique", "La nécromancie", "La divination"],
+    "correctIndex": 2
   },
   {
     "id": "q112",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel artefact controversé aurait été trouvé à Oak Island ?",
-    "answers": [
-      "Trésor viking",
-      "Manuscrit maya",
-      "Croix templière",
-      "Sceptre égyptien"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé au site ancien de Stonehenge ?",
+    "answers": ["Irlande", "Écosse", "Pays de Galles", "Angleterre"],
+    "correctIndex": 3
   },
+
   {
     "id": "q113",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel objet préhistorique gravé d'étoiles a été trouvé en France ?",
-    "answers": [
-      "Os de Blanchard",
-      "Disque de Nebra",
-      "Menhir de Gavrinis",
-      "Plaque de Glozel"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal mythique est associé à la traversée entre le monde des vivants et des morts ?",
+    "answers": ["Le chien", "Le serpent", "Le cheval", "Le corbeau"],
+    "correctIndex": 0
   },
   {
     "id": "q114",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel mystérieux globe en pierre se trouve au Costa Rica ?",
-    "answers": [
-      "Menhir solaire",
-      "Sphère mégalithique",
-      "Pierre levée",
-      "Obélisque"
-    ],
+    "text": "Quel site est lié aux mystères du culte orphique ?",
+    "answers": ["Délos", "Thrace", "Samos", "Delphes"],
     "correctIndex": 1
   },
+
   {
     "id": "q115",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Horloge hydraulique",
-      "Instrument musical",
-      "Calcul astronomique",
-      "Carte de navigation"
-    ],
+    "text": "Quel concept philosophique mystique affirme que tout émane d’un principe unique ?",
+    "answers": ["Le dualisme", "Le scepticisme", "L’émanatisme", "Le matérialisme"],
     "correctIndex": 2
   },
   {
     "id": "q116",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel site mégalithique maltais est plus ancien que les pyramides ?",
-    "answers": [
-      "Hagar Qim",
-      "Ġgantija",
-      "Mnajdra",
-      "Tarxien"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé aux temples d’Angkor ?",
+    "answers": ["Thaïlande", "Laos", "Vietnam", "Cambodge"],
+    "correctIndex": 3
   },
+
   {
     "id": "q117",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Carte de navigation",
-      "Calcul astronomique",
-      "Horloge hydraulique",
-      "Instrument musical"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal mythique est symbole de clairvoyance et de vision prophétique ?",
+    "answers": ["Le corbeau", "Le serpent", "Le hibou", "Le dragon"],
+    "correctIndex": 0
   },
   {
     "id": "q118",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel objet préhistorique gravé d'étoiles a été trouvé en France ?",
-    "answers": [
-      "Menhir de Gavrinis",
-      "Disque de Nebra",
-      "Plaque de Glozel",
-      "Os de Blanchard"
-    ],
+    "text": "Quel site est associé aux mystères initiatiques des druides ?",
+    "answers": ["Stonehenge", "Carnac", "Avebury", "Tara"],
     "correctIndex": 1
   },
+
   {
     "id": "q119",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel roi mystérieux est enterré dans un tumulus à Sutton Hoo ?",
-    "answers": [
-      "Inconnu",
-      "Alfred le Grand",
-      "Offa",
-      "Raedwald"
-    ],
-    "correctIndex": 0
+    "text": "Quel terme désigne la croyance en la transmigration des âmes ?",
+    "answers": ["La résurrection", "L’eschatologie", "La métempsycose", "L’anagogie"],
+    "correctIndex": 2
   },
   {
     "id": "q120",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel artefact controversé serait une carte ancienne montrant l'Antarctique ?",
-    "answers": [
-      "Portulan de Cantino",
-      "Carte de Piri Reis",
-      "Carte de Waldseemüller",
-      "Carte de Vinland"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé au site sacré du Machu Picchu ?",
+    "answers": ["Bolivie", "Colombie", "Équateur", "Pérou"],
+    "correctIndex": 3
   },
+
   {
     "id": "q121",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel artefact controversé serait une carte ancienne montrant l'Antarctique ?",
-    "answers": [
-      "Carte de Waldseemüller",
-      "Portulan de Cantino",
-      "Carte de Vinland",
-      "Carte de Piri Reis"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal mythique symbolise la totalité cosmique dans plusieurs traditions ?",
+    "answers": ["Le serpent", "Le dragon", "Le lion", "Le griffon"],
+    "correctIndex": 0
   },
   {
     "id": "q122",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Horloge hydraulique",
-      "Carte de navigation",
-      "Calcul astronomique",
-      "Instrument musical"
-    ],
-    "correctIndex": 2
+    "text": "Quel site est associé aux mystères solaires de l’Égypte antique ?",
+    "answers": ["Abydos", "Héliopolis", "Saqqarah", "Memphis"],
+    "correctIndex": 1
   },
+
   {
     "id": "q123",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel archéologue a découvert le tombeau de Toutânkhamon en 1922 ?",
-    "answers": [
-      "Howard Carter",
-      "Lord Carnarvon",
-      "Arthur Evans",
-      "Giovanni Belzoni"
-    ],
-    "correctIndex": 0
+    "text": "Quel concept désigne l’interprétation symbolique cachée des textes sacrés ?",
+    "answers": ["L’exégèse", "L’herméneutique", "L’anagogie", "La typologie"],
+    "correctIndex": 2
   },
   {
     "id": "q124",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel mystérieux globe en pierre se trouve au Costa Rica ?",
-    "answers": [
-      "Pierre levée",
-      "Menhir solaire",
-      "Sphère mégalithique",
-      "Obélisque"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé au site sacré de Lalibela ?",
+    "answers": ["Érythrée", "Soudan", "Somalie", "Éthiopie"],
+    "correctIndex": 3
   },
+
   {
     "id": "q125",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel objet préhistorique gravé d'étoiles a été trouvé en France ?",
-    "answers": [
-      "Os de Blanchard",
-      "Menhir de Gavrinis",
-      "Disque de Nebra",
-      "Plaque de Glozel"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal mythique est symbole de résilience cosmique face au chaos ?",
+    "answers": ["Le dragon", "Le taureau", "Le lion", "Le griffon"],
+    "correctIndex": 0
   },
   {
     "id": "q126",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel archéologue a découvert le tombeau de Toutânkhamon en 1922 ?",
-    "answers": [
-      "Giovanni Belzoni",
-      "Arthur Evans",
-      "Lord Carnarvon",
-      "Howard Carter"
-    ],
-    "correctIndex": 3
+    "text": "Quel site est associé aux mystères du culte de Dionysos ?",
+    "answers": ["Thèbes", "Delphes", "Naxos", "Corinthe"],
+    "correctIndex": 1
   },
+
   {
     "id": "q127",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel archéologue a découvert le tombeau de Toutânkhamon en 1922 ?",
-    "answers": [
-      "Howard Carter",
-      "Giovanni Belzoni",
-      "Lord Carnarvon",
-      "Arthur Evans"
-    ],
-    "correctIndex": 0
+    "text": "Quel terme désigne la science ésotérique des correspondances symboliques ?",
+    "answers": ["L’alchimie", "La magie", "L’analogie", "La cabale"],
+    "correctIndex": 2
   },
   {
     "id": "q128",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Calcul astronomique",
-      "Carte de navigation",
-      "Horloge hydraulique",
-      "Instrument musical"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays est associé aux temples d’Abou Simbel ?",
+    "answers": ["Soudan", "Nubie", "Libye", "Égypte"],
+    "correctIndex": 3
   },
+
   {
     "id": "q129",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel temple indien est sculpté dans une seule masse rocheuse ?",
-    "answers": [
-      "Ellora",
-      "Kailasa",
-      "Mahabalipuram",
-      "Ajanta"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal mythique est symbole d’initiation et d’épreuve spirituelle ?",
+    "answers": ["Le serpent", "Le lion", "Le dragon", "Le griffon"],
+    "correctIndex": 0
   },
   {
     "id": "q130",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Carte de navigation",
-      "Calcul astronomique",
-      "Instrument musical",
-      "Horloge hydraulique"
-    ],
+    "text": "Quel site est associé aux mystères de la civilisation olmèque ?",
+    "answers": ["La Venta", "San Lorenzo", "Tres Zapotes", "Monte Albán"],
     "correctIndex": 1
   },
+
   {
     "id": "q131",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel archéologue a découvert le tombeau de Toutânkhamon en 1922 ?",
-    "answers": [
-      "Giovanni Belzoni",
-      "Lord Carnarvon",
-      "Arthur Evans",
-      "Howard Carter"
-    ],
-    "correctIndex": 3
+    "text": "Quel concept désigne la purification spirituelle par l’épreuve ?",
+    "answers": ["La pénitence", "L’ascèse", "La catharsis", "La rédemption"],
+    "correctIndex": 2
   },
   {
     "id": "q132",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel site mégalithique maltais est plus ancien que les pyramides ?",
-    "answers": [
-      "Tarxien",
-      "Mnajdra",
-      "Hagar Qim",
-      "Ġgantija"
-    ],
+    "text": "Quel pays est associé aux temples de Borobudur ?",
+    "answers": ["Malaisie", "Thaïlande", "Cambodge", "Indonésie"],
     "correctIndex": 3
   },
+
   {
     "id": "q133",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel mystérieux globe en pierre se trouve au Costa Rica ?",
-    "answers": [
-      "Menhir solaire",
-      "Obélisque",
-      "Sphère mégalithique",
-      "Pierre levée"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal mythique symbolise la médiation entre ciel et terre ?",
+    "answers": ["Le griffon", "Le dragon", "Le serpent", "Le lion"],
+    "correctIndex": 0
   },
   {
     "id": "q134",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel roi mystérieux est enterré dans un tumulus à Sutton Hoo ?",
-    "answers": [
-      "Alfred le Grand",
-      "Raedwald",
-      "Inconnu",
-      "Offa"
-    ],
-    "correctIndex": 2
+    "text": "Quel site est associé aux mystères du culte de Cybèle ?",
+    "answers": ["Pergame", "Éphèse", "Sardes", "Milet"],
+    "correctIndex": 1
   },
+
   {
     "id": "q135",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel temple indien est sculpté dans une seule masse rocheuse ?",
-    "answers": [
-      "Kailasa",
-      "Ellora",
-      "Ajanta",
-      "Mahabalipuram"
-    ],
-    "correctIndex": 0
+    "text": "Quel terme désigne l’interprétation mystique des nombres sacrés ?",
+    "answers": ["La géométrie", "L’arithmétique", "La numérologie", "La symbolique"],
+    "correctIndex": 2
   },
   {
     "id": "q136",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel objet préhistorique gravé d'étoiles a été trouvé en France ?",
-    "answers": [
-      "Disque de Nebra",
-      "Os de Blanchard",
-      "Plaque de Glozel",
-      "Menhir de Gavrinis"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays est associé au site ancien de Tikal ?",
+    "answers": ["Honduras", "Belize", "Mexique", "Guatemala"],
+    "correctIndex": 3
   },
+
   {
     "id": "q137",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel roi mystérieux est enterré dans un tumulus à Sutton Hoo ?",
-    "answers": [
-      "Raedwald",
-      "Inconnu",
-      "Alfred le Grand",
-      "Offa"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal mythique est symbole de sagesse primordiale et de silence ?",
+    "answers": ["Le sphinx", "Le serpent", "Le hibou", "Le dragon"],
+    "correctIndex": 0
   },
   {
     "id": "q138",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel site mégalithique maltais est plus ancien que les pyramides ?",
-    "answers": [
-      "Hagar Qim",
-      "Ġgantija",
-      "Mnajdra",
-      "Tarxien"
-    ],
+    "text": "Quel site est associé aux mystères du culte solaire inca ?",
+    "answers": ["Cusco", "Machu Picchu", "Ollantaytambo", "Sacsayhuamán"],
     "correctIndex": 1
   },
+
   {
     "id": "q139",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel objet préhistorique gravé d'étoiles a été trouvé en France ?",
-    "answers": [
-      "Os de Blanchard",
-      "Plaque de Glozel",
-      "Disque de Nebra",
-      "Menhir de Gavrinis"
-    ],
+    "text": "Quel concept désigne l’élévation spirituelle progressive de l’âme ?",
+    "answers": ["La résurrection", "La conversion", "L’initiation", "La transmutation"],
     "correctIndex": 2
   },
   {
     "id": "q140",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel objet préhistorique gravé d'étoiles a été trouvé en France ?",
-    "answers": [
-      "Menhir de Gavrinis",
-      "Disque de Nebra",
-      "Plaque de Glozel",
-      "Os de Blanchard"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé au site sacré d’Axoum ?",
+    "answers": ["Soudan", "Érythrée", "Somalie", "Éthiopie"],
+    "correctIndex": 3
   },
+
   {
     "id": "q141",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel phénomène acoustique étrange se produit dans la 'porte du diable' au Kansas ?",
-    "answers": [
-      "Bruit constant",
-      "Silence total",
-      "Voix chuchotées",
-      "Écho inversé"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal mythique symbolise la continuité entre passé et futur ?",
+    "answers": ["Le serpent", "Le dragon", "Le corbeau", "Le lion"],
+    "correctIndex": 0
   },
   {
     "id": "q142",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Calcul astronomique",
-      "Carte de navigation",
-      "Horloge hydraulique",
-      "Instrument musical"
-    ],
-    "correctIndex": 0
+    "text": "Quel site est associé aux mystères du culte de Mithra ?",
+    "answers": ["Rome", "Ostie", "Antioche", "Pergame"],
+    "correctIndex": 1
   },
+
   {
     "id": "q143",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel artefact controversé serait une carte ancienne montrant l'Antarctique ?",
-    "answers": [
-      "Portulan de Cantino",
-      "Carte de Waldseemüller",
-      "Carte de Vinland",
-      "Carte de Piri Reis"
-    ],
-    "correctIndex": 3
+    "text": "Quel terme désigne la science sacrée des lettres dans la tradition hébraïque ?",
+    "answers": ["La Torah", "Le midrash", "La kabbale", "La halakha"],
+    "correctIndex": 2
   },
   {
     "id": "q144",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel roi mystérieux est enterré dans un tumulus à Sutton Hoo ?",
-    "answers": [
-      "Alfred le Grand",
-      "Inconnu",
-      "Raedwald",
-      "Offa"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé au site ancien de Teotihuacan ?",
+    "answers": ["Guatemala", "Honduras", "Belize", "Mexique"],
+    "correctIndex": 3
   },
+
   {
     "id": "q145",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel artefact controversé serait une carte ancienne montrant l'Antarctique ?",
-    "answers": [
-      "Portulan de Cantino",
-      "Carte de Waldseemüller",
-      "Carte de Vinland",
-      "Carte de Piri Reis"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal mythique est symbole de jugement et d’équilibre cosmique ?",
+    "answers": ["Le lion", "Le griffon", "Le dragon", "Le taureau"],
+    "correctIndex": 0
   },
   {
     "id": "q146",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel phénomène acoustique étrange se produit dans la 'porte du diable' au Kansas ?",
-    "answers": [
-      "Voix chuchotées",
-      "Silence total",
-      "Écho inversé",
-      "Bruit constant"
-    ],
-    "correctIndex": 2
+    "text": "Quel site est associé aux mystères funéraires de l’Égypte ancienne ?",
+    "answers": ["Saqqarah", "Abydos", "Thèbes", "Gizeh"],
+    "correctIndex": 1
   },
+
   {
     "id": "q147",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel phénomène acoustique étrange se produit dans la 'porte du diable' au Kansas ?",
-    "answers": [
-      "Voix chuchotées",
-      "Bruit constant",
-      "Écho inversé",
-      "Silence total"
-    ],
+    "text": "Quel concept désigne la transformation intérieure par la connaissance sacrée ?",
+    "answers": ["La métanoïa", "La pénitence", "La transmutation", "La conversion"],
     "correctIndex": 2
   },
   {
     "id": "q148",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel temple indien est sculpté dans une seule masse rocheuse ?",
-    "answers": [
-      "Mahabalipuram",
-      "Ajanta",
-      "Kailasa",
-      "Ellora"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé aux temples antiques de Palmyre ?",
+    "answers": ["Liban", "Israël", "Jordanie", "Syrie"],
+    "correctIndex": 3
   },
+
   {
     "id": "q149",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel site mégalithique maltais est plus ancien que les pyramides ?",
-    "answers": [
-      "Ġgantija",
-      "Mnajdra",
-      "Tarxien",
-      "Hagar Qim"
-    ],
+    "text": "Quel animal mythique symbolise la vigilance éternelle du sacré ?",
+    "answers": ["Le sphinx", "Le lion", "Le dragon", "Le griffon"],
     "correctIndex": 0
   },
   {
     "id": "q150",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel phénomène acoustique étrange se produit dans la 'porte du diable' au Kansas ?",
-    "answers": [
-      "Bruit constant",
-      "Silence total",
-      "Écho inversé",
-      "Voix chuchotées"
-    ],
+    "text": "Quel site est associé aux mystères de la plus ancienne civilisation urbaine connue ?",
+    "answers": ["Ur", "Lagash", "Eridu", "Babylone"],
     "correctIndex": 2
   },
   {
     "id": "q151",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel archéologue a découvert le tombeau de Toutânkhamon en 1922 ?",
-    "answers": [
-      "Howard Carter",
-      "Giovanni Belzoni",
-      "Arthur Evans",
-      "Lord Carnarvon"
-    ],
+    "text": "Quel animal mythique est associé à la conservation éternelle du savoir primordial ?",
+    "answers": ["Le dragon", "Le lion", "Le griffon", "Le taureau"],
     "correctIndex": 0
   },
   {
     "id": "q152",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel archéologue a découvert le tombeau de Toutânkhamon en 1922 ?",
-    "answers": [
-      "Giovanni Belzoni",
-      "Lord Carnarvon",
-      "Arthur Evans",
-      "Howard Carter"
-    ],
-    "correctIndex": 3
+    "text": "Quel site antique est considéré comme le centre spirituel du culte d’Amon ?",
+    "answers": ["Saqqarah", "Karnak", "Abydos", "Memphis"],
+    "correctIndex": 1
   },
   {
     "id": "q153",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel objet préhistorique gravé d'étoiles a été trouvé en France ?",
-    "answers": [
-      "Plaque de Glozel",
-      "Menhir de Gavrinis",
-      "Disque de Nebra",
-      "Os de Blanchard"
-    ],
+    "text": "Quel terme désigne la croyance en un ordre cosmique invisible régissant l’univers ?",
+    "answers": ["Le chaos", "Le matérialisme", "Le cosmos sacré", "Le positivisme"],
     "correctIndex": 2
   },
   {
     "id": "q154",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel roi mystérieux est enterré dans un tumulus à Sutton Hoo ?",
-    "answers": [
-      "Offa",
-      "Inconnu",
-      "Raedwald",
-      "Alfred le Grand"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé aux temples antiques de My Son ?",
+    "answers": ["Thaïlande", "Laos", "Cambodge", "Vietnam"],
+    "correctIndex": 3
   },
+
   {
     "id": "q155",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel site mégalithique maltais est plus ancien que les pyramides ?",
-    "answers": [
-      "Mnajdra",
-      "Hagar Qim",
-      "Tarxien",
-      "Ġgantija"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal mythique symbolise l’accès interdit aux vérités ultimes ?",
+    "answers": ["Le sphinx", "Le dragon", "Le lion", "Le griffon"],
+    "correctIndex": 0
   },
   {
     "id": "q156",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel roi mystérieux est enterré dans un tumulus à Sutton Hoo ?",
-    "answers": [
-      "Inconnu",
-      "Alfred le Grand",
-      "Raedwald",
-      "Offa"
-    ],
-    "correctIndex": 0
+    "text": "Quel site antique est associé aux mystères religieux de la civilisation nabatéenne ?",
+    "answers": ["Baalbek", "Petra", "Palmyre", "Damas"],
+    "correctIndex": 1
   },
   {
     "id": "q157",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel site mégalithique maltais est plus ancien que les pyramides ?",
-    "answers": [
-      "Mnajdra",
-      "Hagar Qim",
-      "Ġgantija",
-      "Tarxien"
-    ],
+    "text": "Quel concept désigne l’élévation progressive de l’âme vers l’absolu ?",
+    "answers": ["La résurrection", "La pénitence", "L’ascension mystique", "La conversion"],
     "correctIndex": 2
   },
   {
     "id": "q158",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel artefact controversé serait une carte ancienne montrant l'Antarctique ?",
-    "answers": [
-      "Carte de Waldseemüller",
-      "Portulan de Cantino",
-      "Carte de Vinland",
-      "Carte de Piri Reis"
-    ],
+    "text": "Quel pays est associé au site mégalithique de Carnac ?",
+    "answers": ["Irlande", "Écosse", "Angleterre", "France"],
     "correctIndex": 3
   },
+
   {
     "id": "q159",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Instrument musical",
-      "Horloge hydraulique",
-      "Carte de navigation",
-      "Calcul astronomique"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal mythique est symbole de continuité cyclique du temps ?",
+    "answers": ["Le serpent", "Le dragon", "Le corbeau", "Le sphinx"],
+    "correctIndex": 0
   },
   {
     "id": "q160",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Carte de navigation",
-      "Instrument musical",
-      "Calcul astronomique",
-      "Horloge hydraulique"
-    ],
-    "correctIndex": 2
+    "text": "Quel site antique est associé aux mystères initiatiques de Samothrace ?",
+    "answers": ["Délos", "Samothrace", "Rhodes", "Naxos"],
+    "correctIndex": 1
   },
+
   {
     "id": "q161",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel roi mystérieux est enterré dans un tumulus à Sutton Hoo ?",
-    "answers": [
-      "Offa",
-      "Inconnu",
-      "Raedwald",
-      "Alfred le Grand"
-    ],
-    "correctIndex": 1
+    "text": "Quel terme désigne la science sacrée des transformations spirituelles en alchimie ?",
+    "answers": ["La métallurgie", "La chimie", "La transmutation", "La symbolique"],
+    "correctIndex": 2
   },
   {
     "id": "q162",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel mystérieux globe en pierre se trouve au Costa Rica ?",
-    "answers": [
-      "Obélisque",
-      "Sphère mégalithique",
-      "Menhir solaire",
-      "Pierre levée"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé au site sacré de Mount Kailash ?",
+    "answers": ["Inde", "Népal", "Bhoutan", "Tibet"],
+    "correctIndex": 3
   },
+
   {
     "id": "q163",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel artefact controversé serait une carte ancienne montrant l'Antarctique ?",
-    "answers": [
-      "Carte de Piri Reis",
-      "Carte de Waldseemüller",
-      "Portulan de Cantino",
-      "Carte de Vinland"
-    ],
+    "text": "Quel animal mythique est associé à la frontière entre monde visible et invisible ?",
+    "answers": ["Le corbeau", "Le serpent", "Le dragon", "Le griffon"],
     "correctIndex": 0
   },
   {
     "id": "q164",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Horloge hydraulique",
-      "Carte de navigation",
-      "Instrument musical",
-      "Calcul astronomique"
-    ],
-    "correctIndex": 3
+    "text": "Quel site antique est lié aux mystères du culte solaire aztèque ?",
+    "answers": ["Tenochtitlan", "Teotihuacan", "Palenque", "Uxmal"],
+    "correctIndex": 1
   },
+
   {
     "id": "q165",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel mystérieux globe en pierre se trouve au Costa Rica ?",
-    "answers": [
-      "Pierre levée",
-      "Menhir solaire",
-      "Sphère mégalithique",
-      "Obélisque"
-    ],
+    "text": "Quel concept désigne la révélation progressive d’une vérité cachée ?",
+    "answers": ["La foi", "La théologie", "L’initiation", "La dogmatique"],
     "correctIndex": 2
   },
   {
     "id": "q166",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel phénomène acoustique étrange se produit dans la 'porte du diable' au Kansas ?",
-    "answers": [
-      "Silence total",
-      "Écho inversé",
-      "Voix chuchotées",
-      "Bruit constant"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé aux temples antiques de Heliopolis ?",
+    "answers": ["Liban", "Syrie", "Jordanie", "Égypte"],
+    "correctIndex": 3
   },
+
   {
     "id": "q167",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel mystérieux globe en pierre se trouve au Costa Rica ?",
-    "answers": [
-      "Pierre levée",
-      "Menhir solaire",
-      "Sphère mégalithique",
-      "Obélisque"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal mythique symbolise l’ordre cosmique face au chaos ?",
+    "answers": ["Le lion", "Le dragon", "Le taureau", "Le griffon"],
+    "correctIndex": 0
   },
   {
     "id": "q168",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel roi mystérieux est enterré dans un tumulus à Sutton Hoo ?",
-    "answers": [
-      "Alfred le Grand",
-      "Offa",
-      "Raedwald",
-      "Inconnu"
-    ],
-    "correctIndex": 3
+    "text": "Quel site antique est associé aux mystères de la civilisation chalcolithique de Malte ?",
+    "answers": ["Mnajdra", "Ħaġar Qim", "Tarxien", "Skorba"],
+    "correctIndex": 1
   },
+
   {
     "id": "q169",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Carte de navigation",
-      "Calcul astronomique",
-      "Horloge hydraulique",
-      "Instrument musical"
-    ],
-    "correctIndex": 1
+    "text": "Quel terme désigne la communication rituelle avec les forces cosmiques ?",
+    "answers": ["La mantique", "La prière", "La théurgie", "La méditation"],
+    "correctIndex": 2
   },
   {
     "id": "q170",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Horloge hydraulique",
-      "Instrument musical",
-      "Calcul astronomique",
-      "Carte de navigation"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé au site sacré de Chavín de Huántar ?",
+    "answers": ["Bolivie", "Équateur", "Colombie", "Pérou"],
+    "correctIndex": 3
   },
+
   {
     "id": "q171",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel artefact controversé aurait été trouvé à Oak Island ?",
-    "answers": [
-      "Trésor viking",
-      "Croix templière",
-      "Manuscrit maya",
-      "Sceptre égyptien"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal mythique est symbole de jugement spirituel ultime ?",
+    "answers": ["Le griffon", "Le lion", "Le dragon", "Le taureau"],
+    "correctIndex": 0
   },
   {
     "id": "q172",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel temple indien est sculpté dans une seule masse rocheuse ?",
-    "answers": [
-      "Kailasa",
-      "Ellora",
-      "Mahabalipuram",
-      "Ajanta"
-    ],
-    "correctIndex": 0
+    "text": "Quel site antique est associé aux mystères funéraires de la vallée des Rois ?",
+    "answers": ["Abydos", "Gizeh", "Saqqarah", "Thèbes"],
+    "correctIndex": 1
   },
+
   {
     "id": "q173",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel artefact controversé serait une carte ancienne montrant l'Antarctique ?",
-    "answers": [
-      "Carte de Waldseemüller",
-      "Carte de Vinland",
-      "Carte de Piri Reis",
-      "Portulan de Cantino"
-    ],
+    "text": "Quel concept désigne l’âme universelle animant le monde selon le platonisme ?",
+    "answers": ["Le logos", "L’archè", "L’anima mundi", "Le chaos"],
     "correctIndex": 2
   },
   {
     "id": "q174",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel roi mystérieux est enterré dans un tumulus à Sutton Hoo ?",
-    "answers": [
-      "Alfred le Grand",
-      "Offa",
-      "Inconnu",
-      "Raedwald"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé au site antique de Great Zimbabwe ?",
+    "answers": ["Zambie", "Mozambique", "Botswana", "Zimbabwe"],
+    "correctIndex": 3
   },
+
   {
     "id": "q175",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel site mégalithique maltais est plus ancien que les pyramides ?",
-    "answers": [
-      "Hagar Qim",
-      "Mnajdra",
-      "Ġgantija",
-      "Tarxien"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal mythique est associé à la sagesse silencieuse et éternelle ?",
+    "answers": ["Le sphinx", "Le serpent", "Le hibou", "Le dragon"],
+    "correctIndex": 0
   },
   {
     "id": "q176",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel artefact controversé serait une carte ancienne montrant l'Antarctique ?",
-    "answers": [
-      "Carte de Waldseemüller",
-      "Carte de Piri Reis",
-      "Carte de Vinland",
-      "Portulan de Cantino"
-    ],
-    "correctIndex": 1
+    "text": "Quel site antique est lié aux mystères du culte de Baal ?",
+    "answers": ["Byblos", "Tyr", "Sidon", "Baalbek"],
+    "correctIndex": 3
   },
+
   {
     "id": "q177",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel temple indien est sculpté dans une seule masse rocheuse ?",
-    "answers": [
-      "Mahabalipuram",
-      "Kailasa",
-      "Ajanta",
-      "Ellora"
-    ],
-    "correctIndex": 1
+    "text": "Quel terme désigne la quête spirituelle par la connaissance cachée ?",
+    "answers": ["La religion", "La morale", "La gnose", "La tradition"],
+    "correctIndex": 2
   },
   {
     "id": "q178",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel phénomène acoustique étrange se produit dans la 'porte du diable' au Kansas ?",
-    "answers": [
-      "Écho inversé",
-      "Silence total",
-      "Bruit constant",
-      "Voix chuchotées"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays est associé aux temples antiques de Sukhothai ?",
+    "answers": ["Myanmar", "Cambodge", "Laos", "Thaïlande"],
+    "correctIndex": 3
   },
+
   {
     "id": "q179",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel roi mystérieux est enterré dans un tumulus à Sutton Hoo ?",
-    "answers": [
-      "Alfred le Grand",
-      "Inconnu",
-      "Raedwald",
-      "Offa"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal mythique symbolise la protection des cycles cosmiques ?",
+    "answers": ["Le dragon", "Le lion", "Le griffon", "Le serpent"],
+    "correctIndex": 0
   },
   {
     "id": "q180",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Calcul astronomique",
-      "Horloge hydraulique",
-      "Instrument musical",
-      "Carte de navigation"
-    ],
-    "correctIndex": 0
+    "text": "Quel site antique est associé aux mystères initiatiques des Celtes ?",
+    "answers": ["Carnac", "Tara", "Avebury", "Stonehenge"],
+    "correctIndex": 1
   },
+
   {
     "id": "q181",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel artefact controversé aurait été trouvé à Oak Island ?",
-    "answers": [
-      "Trésor viking",
-      "Manuscrit maya",
-      "Sceptre égyptien",
-      "Croix templière"
-    ],
-    "correctIndex": 3
+    "text": "Quel concept désigne la purification de l’âme par la connaissance sacrée ?",
+    "answers": ["La pénitence", "La conversion", "La catharsis", "La rédemption"],
+    "correctIndex": 2
   },
   {
     "id": "q182",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel temple indien est sculpté dans une seule masse rocheuse ?",
-    "answers": [
-      "Ajanta",
-      "Ellora",
-      "Mahabalipuram",
-      "Kailasa"
-    ],
+    "text": "Quel pays est associé aux temples antiques de Borobudur ?",
+    "answers": ["Malaisie", "Thaïlande", "Cambodge", "Indonésie"],
     "correctIndex": 3
   },
+
   {
     "id": "q183",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Carte de navigation",
-      "Horloge hydraulique",
-      "Calcul astronomique",
-      "Instrument musical"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal mythique est symbole de médiation entre ciel et terre ?",
+    "answers": ["Le griffon", "Le dragon", "Le serpent", "Le lion"],
+    "correctIndex": 0
   },
   {
     "id": "q184",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel phénomène acoustique étrange se produit dans la 'porte du diable' au Kansas ?",
-    "answers": [
-      "Silence total",
-      "Écho inversé",
-      "Bruit constant",
-      "Voix chuchotées"
-    ],
+    "text": "Quel site antique est associé aux mystères du culte de Taranis ?",
+    "answers": ["Lugdunum", "Gaule centrale", "Bibracte", "Autun"],
     "correctIndex": 1
   },
+
   {
     "id": "q185",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel archéologue a découvert le tombeau de Toutânkhamon en 1922 ?",
-    "answers": [
-      "Giovanni Belzoni",
-      "Arthur Evans",
-      "Howard Carter",
-      "Lord Carnarvon"
-    ],
+    "text": "Quel terme désigne la science ésotérique des correspondances universelles ?",
+    "answers": ["La symbolique", "La magie", "L’analogie", "La théologie"],
     "correctIndex": 2
   },
   {
     "id": "q186",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel objet préhistorique gravé d'étoiles a été trouvé en France ?",
-    "answers": [
-      "Os de Blanchard",
-      "Disque de Nebra",
-      "Menhir de Gavrinis",
-      "Plaque de Glozel"
-    ],
-    "correctIndex": 1
+    "text": "Quel pays est associé au site sacré d’Uluru ?",
+    "answers": ["Nouvelle-Zélande", "Indonésie", "Papouasie", "Australie"],
+    "correctIndex": 3
   },
+
   {
     "id": "q187",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel mystérieux globe en pierre se trouve au Costa Rica ?",
-    "answers": [
-      "Menhir solaire",
-      "Obélisque",
-      "Pierre levée",
-      "Sphère mégalithique"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal mythique est symbole de l’épreuve initiatique suprême ?",
+    "answers": ["Le dragon", "Le lion", "Le taureau", "Le griffon"],
+    "correctIndex": 0
   },
   {
     "id": "q188",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Calcul astronomique",
-      "Horloge hydraulique",
-      "Carte de navigation",
-      "Instrument musical"
-    ],
-    "correctIndex": 0
+    "text": "Quel site antique est associé aux mystères du culte de Mithra ?",
+    "answers": ["Rome", "Ostie", "Pergame", "Antioche"],
+    "correctIndex": 1
   },
+
   {
     "id": "q189",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel mystérieux globe en pierre se trouve au Costa Rica ?",
-    "answers": [
-      "Menhir solaire",
-      "Sphère mégalithique",
-      "Obélisque",
-      "Pierre levée"
-    ],
-    "correctIndex": 1
+    "text": "Quel concept désigne la transformation intérieure par l’épreuve spirituelle ?",
+    "answers": ["La conversion", "La pénitence", "La transmutation", "La foi"],
+    "correctIndex": 2
   },
   {
     "id": "q190",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Instrument musical",
-      "Horloge hydraulique",
-      "Calcul astronomique",
-      "Carte de navigation"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays est associé au site antique de Palenque ?",
+    "answers": ["Guatemala", "Belize", "Honduras", "Mexique"],
+    "correctIndex": 3
   },
+
   {
     "id": "q191",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel archéologue a découvert le tombeau de Toutânkhamon en 1922 ?",
-    "answers": [
-      "Howard Carter",
-      "Giovanni Belzoni",
-      "Lord Carnarvon",
-      "Arthur Evans"
-    ],
+    "text": "Quel animal mythique est symbole de vigilance éternelle du sacré ?",
+    "answers": ["Le sphinx", "Le lion", "Le dragon", "Le griffon"],
     "correctIndex": 0
   },
   {
     "id": "q192",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel roi mystérieux est enterré dans un tumulus à Sutton Hoo ?",
-    "answers": [
-      "Inconnu",
-      "Raedwald",
-      "Offa",
-      "Alfred le Grand"
-    ],
-    "correctIndex": 0
+    "text": "Quel site antique est associé aux mystères du culte d’Ishtar ?",
+    "answers": ["Uruk", "Babylone", "Lagash", "Nippur"],
+    "correctIndex": 1
   },
+
   {
     "id": "q193",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel temple indien est sculpté dans une seule masse rocheuse ?",
-    "answers": [
-      "Kailasa",
-      "Ellora",
-      "Ajanta",
-      "Mahabalipuram"
-    ],
-    "correctIndex": 0
+    "text": "Quel terme désigne la connaissance sacrée transmise oralement ?",
+    "answers": ["La tradition", "La doctrine", "La gnose orale", "La révélation"],
+    "correctIndex": 2
   },
   {
     "id": "q194",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel site mégalithique maltais est plus ancien que les pyramides ?",
-    "answers": [
-      "Mnajdra",
-      "Tarxien",
-      "Hagar Qim",
-      "Ġgantija"
-    ],
+    "text": "Quel pays est associé au site sacré de Lalibela ?",
+    "answers": ["Soudan", "Érythrée", "Somalie", "Éthiopie"],
     "correctIndex": 3
   },
+
   {
     "id": "q195",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel artefact controversé serait une carte ancienne montrant l'Antarctique ?",
-    "answers": [
-      "Carte de Piri Reis",
-      "Portulan de Cantino",
-      "Carte de Waldseemüller",
-      "Carte de Vinland"
-    ],
+    "text": "Quel animal mythique symbolise la permanence cosmique au-delà du temps ?",
+    "answers": ["Le serpent", "Le dragon", "Le corbeau", "Le lion"],
     "correctIndex": 0
   },
   {
     "id": "q196",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel site mégalithique maltais est plus ancien que les pyramides ?",
-    "answers": [
-      "Tarxien",
-      "Ġgantija",
-      "Hagar Qim",
-      "Mnajdra"
-    ],
+    "text": "Quel site antique est associé aux mystères religieux de la civilisation olmèque ?",
+    "answers": ["La Venta", "San Lorenzo", "Tres Zapotes", "Monte Albán"],
     "correctIndex": 1
   },
+
   {
     "id": "q197",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Carte de navigation",
-      "Calcul astronomique",
-      "Instrument musical",
-      "Horloge hydraulique"
-    ],
-    "correctIndex": 1
+    "text": "Quel concept désigne l’unification finale de l’âme avec le principe absolu ?",
+    "answers": ["La fusion", "La résurrection", "L’henosis", "La foi"],
+    "correctIndex": 2
   },
   {
     "id": "q198",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel phénomène acoustique étrange se produit dans la 'porte du diable' au Kansas ?",
-    "answers": [
-      "Écho inversé",
-      "Silence total",
-      "Voix chuchotées",
-      "Bruit constant"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays est associé au site ancien de Teotihuacan ?",
+    "answers": ["Guatemala", "Honduras", "Belize", "Mexique"],
+    "correctIndex": 3
   },
+
   {
     "id": "q199",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel temple indien est sculpté dans une seule masse rocheuse ?",
-    "answers": [
-      "Ajanta",
-      "Ellora",
-      "Mahabalipuram",
-      "Kailasa"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal mythique est symbole de protection ultime des secrets cosmiques ?",
+    "answers": ["Le griffon", "Le dragon", "Le sphinx", "Le lion"],
+    "correctIndex": 0
   },
   {
     "id": "q200",
     "category": "Mystères",
     "difficulty": "Extrême",
-    "text": "Quel archéologue a découvert le tombeau de Toutânkhamon en 1922 ?",
-    "answers": [
-      "Giovanni Belzoni",
-      "Lord Carnarvon",
-      "Arthur Evans",
-      "Howard Carter"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q201",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Calcul astronomique",
-      "Carte de navigation",
-      "Horloge hydraulique",
-      "Instrument musical"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q202",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel mystérieux globe en pierre se trouve au Costa Rica ?",
-    "answers": [
-      "Obélisque",
-      "Pierre levée",
-      "Sphère mégalithique",
-      "Menhir solaire"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q203",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel objet préhistorique gravé d'étoiles a été trouvé en France ?",
-    "answers": [
-      "Os de Blanchard",
-      "Disque de Nebra",
-      "Menhir de Gavrinis",
-      "Plaque de Glozel"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q204",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel artefact controversé aurait été trouvé à Oak Island ?",
-    "answers": [
-      "Trésor viking",
-      "Sceptre égyptien",
-      "Croix templière",
-      "Manuscrit maya"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q205",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel archéologue a découvert le tombeau de Toutânkhamon en 1922 ?",
-    "answers": [
-      "Lord Carnarvon",
-      "Howard Carter",
-      "Giovanni Belzoni",
-      "Arthur Evans"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q206",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel archéologue a découvert le tombeau de Toutânkhamon en 1922 ?",
-    "answers": [
-      "Lord Carnarvon",
-      "Arthur Evans",
-      "Giovanni Belzoni",
-      "Howard Carter"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q207",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel artefact controversé serait une carte ancienne montrant l'Antarctique ?",
-    "answers": [
-      "Carte de Waldseemüller",
-      "Carte de Vinland",
-      "Portulan de Cantino",
-      "Carte de Piri Reis"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q208",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel artefact controversé serait une carte ancienne montrant l'Antarctique ?",
-    "answers": [
-      "Carte de Piri Reis",
-      "Carte de Waldseemüller",
-      "Portulan de Cantino",
-      "Carte de Vinland"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q209",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel archéologue a découvert le tombeau de Toutânkhamon en 1922 ?",
-    "answers": [
-      "Lord Carnarvon",
-      "Giovanni Belzoni",
-      "Howard Carter",
-      "Arthur Evans"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q210",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Carte de navigation",
-      "Horloge hydraulique",
-      "Calcul astronomique",
-      "Instrument musical"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q211",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel temple indien est sculpté dans une seule masse rocheuse ?",
-    "answers": [
-      "Ellora",
-      "Ajanta",
-      "Kailasa",
-      "Mahabalipuram"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q212",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel roi mystérieux est enterré dans un tumulus à Sutton Hoo ?",
-    "answers": [
-      "Alfred le Grand",
-      "Offa",
-      "Raedwald",
-      "Inconnu"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q213",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel mystérieux globe en pierre se trouve au Costa Rica ?",
-    "answers": [
-      "Menhir solaire",
-      "Obélisque",
-      "Pierre levée",
-      "Sphère mégalithique"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q214",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Instrument musical",
-      "Calcul astronomique",
-      "Horloge hydraulique",
-      "Carte de navigation"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q215",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel mystérieux globe en pierre se trouve au Costa Rica ?",
-    "answers": [
-      "Menhir solaire",
-      "Sphère mégalithique",
-      "Pierre levée",
-      "Obélisque"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q216",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel archéologue a découvert le tombeau de Toutânkhamon en 1922 ?",
-    "answers": [
-      "Howard Carter",
-      "Lord Carnarvon",
-      "Arthur Evans",
-      "Giovanni Belzoni"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q217",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel archéologue a découvert le tombeau de Toutânkhamon en 1922 ?",
-    "answers": [
-      "Howard Carter",
-      "Lord Carnarvon",
-      "Arthur Evans",
-      "Giovanni Belzoni"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q218",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel artefact controversé serait une carte ancienne montrant l'Antarctique ?",
-    "answers": [
-      "Carte de Vinland",
-      "Carte de Piri Reis",
-      "Portulan de Cantino",
-      "Carte de Waldseemüller"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q219",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel temple indien est sculpté dans une seule masse rocheuse ?",
-    "answers": [
-      "Ellora",
-      "Ajanta",
-      "Kailasa",
-      "Mahabalipuram"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q220",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel site mégalithique maltais est plus ancien que les pyramides ?",
-    "answers": [
-      "Hagar Qim",
-      "Mnajdra",
-      "Ġgantija",
-      "Tarxien"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q221",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel artefact controversé aurait été trouvé à Oak Island ?",
-    "answers": [
-      "Trésor viking",
-      "Manuscrit maya",
-      "Croix templière",
-      "Sceptre égyptien"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q222",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel artefact controversé aurait été trouvé à Oak Island ?",
-    "answers": [
-      "Manuscrit maya",
-      "Croix templière",
-      "Sceptre égyptien",
-      "Trésor viking"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q223",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Instrument musical",
-      "Calcul astronomique",
-      "Carte de navigation",
-      "Horloge hydraulique"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q224",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel site mégalithique maltais est plus ancien que les pyramides ?",
-    "answers": [
-      "Ġgantija",
-      "Mnajdra",
-      "Hagar Qim",
-      "Tarxien"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q225",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel archéologue a découvert le tombeau de Toutânkhamon en 1922 ?",
-    "answers": [
-      "Arthur Evans",
-      "Howard Carter",
-      "Giovanni Belzoni",
-      "Lord Carnarvon"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q226",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel archéologue a découvert le tombeau de Toutânkhamon en 1922 ?",
-    "answers": [
-      "Lord Carnarvon",
-      "Giovanni Belzoni",
-      "Arthur Evans",
-      "Howard Carter"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q227",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel artefact controversé serait une carte ancienne montrant l'Antarctique ?",
-    "answers": [
-      "Carte de Vinland",
-      "Carte de Piri Reis",
-      "Portulan de Cantino",
-      "Carte de Waldseemüller"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q228",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel artefact controversé serait une carte ancienne montrant l'Antarctique ?",
-    "answers": [
-      "Carte de Piri Reis",
-      "Carte de Waldseemüller",
-      "Carte de Vinland",
-      "Portulan de Cantino"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q229",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel roi mystérieux est enterré dans un tumulus à Sutton Hoo ?",
-    "answers": [
-      "Alfred le Grand",
-      "Offa",
-      "Raedwald",
-      "Inconnu"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q230",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel temple indien est sculpté dans une seule masse rocheuse ?",
-    "answers": [
-      "Ellora",
-      "Ajanta",
-      "Kailasa",
-      "Mahabalipuram"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q231",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel objet préhistorique gravé d'étoiles a été trouvé en France ?",
-    "answers": [
-      "Os de Blanchard",
-      "Disque de Nebra",
-      "Plaque de Glozel",
-      "Menhir de Gavrinis"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q232",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel objet préhistorique gravé d'étoiles a été trouvé en France ?",
-    "answers": [
-      "Disque de Nebra",
-      "Os de Blanchard",
-      "Plaque de Glozel",
-      "Menhir de Gavrinis"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q233",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Calcul astronomique",
-      "Horloge hydraulique",
-      "Carte de navigation",
-      "Instrument musical"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q234",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel mystérieux globe en pierre se trouve au Costa Rica ?",
-    "answers": [
-      "Menhir solaire",
-      "Pierre levée",
-      "Obélisque",
-      "Sphère mégalithique"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q235",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel artefact controversé aurait été trouvé à Oak Island ?",
-    "answers": [
-      "Croix templière",
-      "Manuscrit maya",
-      "Trésor viking",
-      "Sceptre égyptien"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q236",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel artefact controversé aurait été trouvé à Oak Island ?",
-    "answers": [
-      "Trésor viking",
-      "Manuscrit maya",
-      "Croix templière",
-      "Sceptre égyptien"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q237",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel phénomène acoustique étrange se produit dans la 'porte du diable' au Kansas ?",
-    "answers": [
-      "Bruit constant",
-      "Silence total",
-      "Voix chuchotées",
-      "Écho inversé"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q238",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel mystérieux globe en pierre se trouve au Costa Rica ?",
-    "answers": [
-      "Menhir solaire",
-      "Sphère mégalithique",
-      "Pierre levée",
-      "Obélisque"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q239",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel mystérieux globe en pierre se trouve au Costa Rica ?",
-    "answers": [
-      "Menhir solaire",
-      "Sphère mégalithique",
-      "Obélisque",
-      "Pierre levée"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q240",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel temple indien est sculpté dans une seule masse rocheuse ?",
-    "answers": [
-      "Ellora",
-      "Mahabalipuram",
-      "Ajanta",
-      "Kailasa"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q241",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel phénomène acoustique étrange se produit dans la 'porte du diable' au Kansas ?",
-    "answers": [
-      "Bruit constant",
-      "Écho inversé",
-      "Silence total",
-      "Voix chuchotées"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q242",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel mystérieux globe en pierre se trouve au Costa Rica ?",
-    "answers": [
-      "Sphère mégalithique",
-      "Pierre levée",
-      "Obélisque",
-      "Menhir solaire"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q243",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel mystérieux globe en pierre se trouve au Costa Rica ?",
-    "answers": [
-      "Obélisque",
-      "Sphère mégalithique",
-      "Pierre levée",
-      "Menhir solaire"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q244",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel objet préhistorique gravé d'étoiles a été trouvé en France ?",
-    "answers": [
-      "Os de Blanchard",
-      "Menhir de Gavrinis",
-      "Plaque de Glozel",
-      "Disque de Nebra"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q245",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel archéologue a découvert le tombeau de Toutânkhamon en 1922 ?",
-    "answers": [
-      "Lord Carnarvon",
-      "Arthur Evans",
-      "Giovanni Belzoni",
-      "Howard Carter"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q246",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Carte de navigation",
-      "Instrument musical",
-      "Horloge hydraulique",
-      "Calcul astronomique"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q247",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel archéologue a découvert le tombeau de Toutânkhamon en 1922 ?",
-    "answers": [
-      "Arthur Evans",
-      "Howard Carter",
-      "Lord Carnarvon",
-      "Giovanni Belzoni"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q248",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel mystérieux globe en pierre se trouve au Costa Rica ?",
-    "answers": [
-      "Menhir solaire",
-      "Sphère mégalithique",
-      "Obélisque",
-      "Pierre levée"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q249",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel archéologue a découvert le tombeau de Toutânkhamon en 1922 ?",
-    "answers": [
-      "Giovanni Belzoni",
-      "Arthur Evans",
-      "Lord Carnarvon",
-      "Howard Carter"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q250",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel site mégalithique maltais est plus ancien que les pyramides ?",
-    "answers": [
-      "Mnajdra",
-      "Tarxien",
-      "Ġgantija",
-      "Hagar Qim"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q251",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel phénomène acoustique étrange se produit dans la 'porte du diable' au Kansas ?",
-    "answers": [
-      "Bruit constant",
-      "Écho inversé",
-      "Silence total",
-      "Voix chuchotées"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q252",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel roi mystérieux est enterré dans un tumulus à Sutton Hoo ?",
-    "answers": [
-      "Raedwald",
-      "Inconnu",
-      "Offa",
-      "Alfred le Grand"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q253",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel mystérieux globe en pierre se trouve au Costa Rica ?",
-    "answers": [
-      "Sphère mégalithique",
-      "Menhir solaire",
-      "Pierre levée",
-      "Obélisque"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q254",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Horloge hydraulique",
-      "Instrument musical",
-      "Carte de navigation",
-      "Calcul astronomique"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q255",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel artefact controversé aurait été trouvé à Oak Island ?",
-    "answers": [
-      "Croix templière",
-      "Manuscrit maya",
-      "Sceptre égyptien",
-      "Trésor viking"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q256",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel objet préhistorique gravé d'étoiles a été trouvé en France ?",
-    "answers": [
-      "Disque de Nebra",
-      "Plaque de Glozel",
-      "Menhir de Gavrinis",
-      "Os de Blanchard"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q257",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel objet préhistorique gravé d'étoiles a été trouvé en France ?",
-    "answers": [
-      "Plaque de Glozel",
-      "Disque de Nebra",
-      "Menhir de Gavrinis",
-      "Os de Blanchard"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q258",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel archéologue a découvert le tombeau de Toutânkhamon en 1922 ?",
-    "answers": [
-      "Lord Carnarvon",
-      "Arthur Evans",
-      "Giovanni Belzoni",
-      "Howard Carter"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q259",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel roi mystérieux est enterré dans un tumulus à Sutton Hoo ?",
-    "answers": [
-      "Alfred le Grand",
-      "Inconnu",
-      "Offa",
-      "Raedwald"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q260",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel site mégalithique maltais est plus ancien que les pyramides ?",
-    "answers": [
-      "Tarxien",
-      "Hagar Qim",
-      "Ġgantija",
-      "Mnajdra"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q261",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel artefact controversé aurait été trouvé à Oak Island ?",
-    "answers": [
-      "Sceptre égyptien",
-      "Croix templière",
-      "Manuscrit maya",
-      "Trésor viking"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q262",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel archéologue a découvert le tombeau de Toutânkhamon en 1922 ?",
-    "answers": [
-      "Lord Carnarvon",
-      "Giovanni Belzoni",
-      "Arthur Evans",
-      "Howard Carter"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q263",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel temple indien est sculpté dans une seule masse rocheuse ?",
-    "answers": [
-      "Mahabalipuram",
-      "Ajanta",
-      "Ellora",
-      "Kailasa"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q264",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel phénomène acoustique étrange se produit dans la 'porte du diable' au Kansas ?",
-    "answers": [
-      "Écho inversé",
-      "Silence total",
-      "Bruit constant",
-      "Voix chuchotées"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q265",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel artefact controversé aurait été trouvé à Oak Island ?",
-    "answers": [
-      "Sceptre égyptien",
-      "Croix templière",
-      "Manuscrit maya",
-      "Trésor viking"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q266",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel artefact controversé aurait été trouvé à Oak Island ?",
-    "answers": [
-      "Croix templière",
-      "Manuscrit maya",
-      "Sceptre égyptien",
-      "Trésor viking"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q267",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel artefact controversé serait une carte ancienne montrant l'Antarctique ?",
-    "answers": [
-      "Carte de Vinland",
-      "Carte de Waldseemüller",
-      "Carte de Piri Reis",
-      "Portulan de Cantino"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q268",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel temple indien est sculpté dans une seule masse rocheuse ?",
-    "answers": [
-      "Ellora",
-      "Kailasa",
-      "Mahabalipuram",
-      "Ajanta"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q269",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel site mégalithique maltais est plus ancien que les pyramides ?",
-    "answers": [
-      "Mnajdra",
-      "Ġgantija",
-      "Tarxien",
-      "Hagar Qim"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q270",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel artefact controversé serait une carte ancienne montrant l'Antarctique ?",
-    "answers": [
-      "Carte de Piri Reis",
-      "Carte de Vinland",
-      "Carte de Waldseemüller",
-      "Portulan de Cantino"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q271",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Instrument musical",
-      "Calcul astronomique",
-      "Horloge hydraulique",
-      "Carte de navigation"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q272",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel roi mystérieux est enterré dans un tumulus à Sutton Hoo ?",
-    "answers": [
-      "Inconnu",
-      "Alfred le Grand",
-      "Raedwald",
-      "Offa"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q273",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel artefact controversé aurait été trouvé à Oak Island ?",
-    "answers": [
-      "Manuscrit maya",
-      "Croix templière",
-      "Sceptre égyptien",
-      "Trésor viking"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q274",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel archéologue a découvert le tombeau de Toutânkhamon en 1922 ?",
-    "answers": [
-      "Howard Carter",
-      "Lord Carnarvon",
-      "Giovanni Belzoni",
-      "Arthur Evans"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q275",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel artefact controversé serait une carte ancienne montrant l'Antarctique ?",
-    "answers": [
-      "Carte de Piri Reis",
-      "Portulan de Cantino",
-      "Carte de Waldseemüller",
-      "Carte de Vinland"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q276",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel temple indien est sculpté dans une seule masse rocheuse ?",
-    "answers": [
-      "Ellora",
-      "Kailasa",
-      "Mahabalipuram",
-      "Ajanta"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q277",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel roi mystérieux est enterré dans un tumulus à Sutton Hoo ?",
-    "answers": [
-      "Inconnu",
-      "Raedwald",
-      "Offa",
-      "Alfred le Grand"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q278",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Horloge hydraulique",
-      "Instrument musical",
-      "Calcul astronomique",
-      "Carte de navigation"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q279",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel site mégalithique maltais est plus ancien que les pyramides ?",
-    "answers": [
-      "Hagar Qim",
-      "Mnajdra",
-      "Ġgantija",
-      "Tarxien"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q280",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel mystérieux globe en pierre se trouve au Costa Rica ?",
-    "answers": [
-      "Pierre levée",
-      "Menhir solaire",
-      "Obélisque",
-      "Sphère mégalithique"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q281",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel artefact controversé aurait été trouvé à Oak Island ?",
-    "answers": [
-      "Trésor viking",
-      "Croix templière",
-      "Sceptre égyptien",
-      "Manuscrit maya"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q282",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel objet préhistorique gravé d'étoiles a été trouvé en France ?",
-    "answers": [
-      "Os de Blanchard",
-      "Disque de Nebra",
-      "Menhir de Gavrinis",
-      "Plaque de Glozel"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q283",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Carte de navigation",
-      "Horloge hydraulique",
-      "Calcul astronomique",
-      "Instrument musical"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q284",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel objet préhistorique gravé d'étoiles a été trouvé en France ?",
-    "answers": [
-      "Disque de Nebra",
-      "Plaque de Glozel",
-      "Os de Blanchard",
-      "Menhir de Gavrinis"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q285",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel phénomène acoustique étrange se produit dans la 'porte du diable' au Kansas ?",
-    "answers": [
-      "Bruit constant",
-      "Écho inversé",
-      "Voix chuchotées",
-      "Silence total"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q286",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel artefact controversé serait une carte ancienne montrant l'Antarctique ?",
-    "answers": [
-      "Carte de Piri Reis",
-      "Carte de Vinland",
-      "Carte de Waldseemüller",
-      "Portulan de Cantino"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q287",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel site mégalithique maltais est plus ancien que les pyramides ?",
-    "answers": [
-      "Hagar Qim",
-      "Tarxien",
-      "Ġgantija",
-      "Mnajdra"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q288",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel artefact controversé serait une carte ancienne montrant l'Antarctique ?",
-    "answers": [
-      "Carte de Vinland",
-      "Carte de Waldseemüller",
-      "Carte de Piri Reis",
-      "Portulan de Cantino"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q289",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel artefact controversé serait une carte ancienne montrant l'Antarctique ?",
-    "answers": [
-      "Carte de Piri Reis",
-      "Portulan de Cantino",
-      "Carte de Vinland",
-      "Carte de Waldseemüller"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q290",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Calcul astronomique",
-      "Instrument musical",
-      "Horloge hydraulique",
-      "Carte de navigation"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q291",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel objet préhistorique gravé d'étoiles a été trouvé en France ?",
-    "answers": [
-      "Menhir de Gavrinis",
-      "Plaque de Glozel",
-      "Disque de Nebra",
-      "Os de Blanchard"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q292",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Calcul astronomique",
-      "Carte de navigation",
-      "Instrument musical",
-      "Horloge hydraulique"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q293",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel artefact controversé aurait été trouvé à Oak Island ?",
-    "answers": [
-      "Sceptre égyptien",
-      "Croix templière",
-      "Trésor viking",
-      "Manuscrit maya"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q294",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel artefact controversé serait une carte ancienne montrant l'Antarctique ?",
-    "answers": [
-      "Carte de Vinland",
-      "Carte de Waldseemüller",
-      "Portulan de Cantino",
-      "Carte de Piri Reis"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q295",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel artefact controversé serait une carte ancienne montrant l'Antarctique ?",
-    "answers": [
-      "Portulan de Cantino",
-      "Carte de Waldseemüller",
-      "Carte de Piri Reis",
-      "Carte de Vinland"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q296",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel temple indien est sculpté dans une seule masse rocheuse ?",
-    "answers": [
-      "Mahabalipuram",
-      "Kailasa",
-      "Ajanta",
-      "Ellora"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q297",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel artefact controversé serait une carte ancienne montrant l'Antarctique ?",
-    "answers": [
-      "Carte de Vinland",
-      "Portulan de Cantino",
-      "Carte de Waldseemüller",
-      "Carte de Piri Reis"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q298",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quelle énigme antique concerne la fonction exacte du mécanisme d'Anticythère ?",
-    "answers": [
-      "Calcul astronomique",
-      "Carte de navigation",
-      "Horloge hydraulique",
-      "Instrument musical"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q299",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel site mégalithique maltais est plus ancien que les pyramides ?",
-    "answers": [
-      "Hagar Qim",
-      "Tarxien",
-      "Mnajdra",
-      "Ġgantija"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q300",
-    "category": "Mystères",
-    "difficulty": "Extrême",
-    "text": "Quel phénomène acoustique étrange se produit dans la 'porte du diable' au Kansas ?",
-    "answers": [
-      "Silence total",
-      "Voix chuchotées",
-      "Bruit constant",
-      "Écho inversé"
-    ],
+    "text": "Quel site antique est associé aux plus anciennes traditions religieuses mésopotamiennes ?",
+    "answers": ["Ur", "Lagash", "Nippur", "Eridu"],
     "correctIndex": 3
   }
 ]
