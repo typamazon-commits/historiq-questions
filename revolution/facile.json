@@ -3,3900 +3,1688 @@
     "id": "q1",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Qui était roi de France au début de la Révolution française ?",
-    "answers": [
-      "Louis XVI",
-      "Louis XV",
-      "Charles X",
-      "Napoléon Ier"
-    ],
+    "text": "Quelle révolution a débuté en France en 1789 ?",
+    "answers": ["La Révolution française", "La Révolution industrielle", "La Révolution russe", "La Révolution américaine"],
     "correctIndex": 0
   },
   {
     "id": "q2",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel leader a dirigé la révolution chinoise de 1949 ?",
-    "answers": [
-      "Chiang Kai-shek",
-      "Mao Zedong",
-      "Sun Yat-sen",
-      "Deng Xiaoping"
-    ],
+    "text": "Quel événement symbolise le début de la Révolution française ?",
+    "answers": ["La fuite à Varennes", "La prise de la Bastille", "Le sacre de Napoléon", "La Terreur"],
     "correctIndex": 1
   },
   {
     "id": "q3",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel leader a dirigé la révolution chinoise de 1949 ?",
-    "answers": [
-      "Mao Zedong",
-      "Sun Yat-sen",
-      "Deng Xiaoping",
-      "Chiang Kai-shek"
-    ],
-    "correctIndex": 0
+    "text": "Quel document proclame l’égalité des droits en 1789 ?",
+    "answers": ["La Constitution", "Le Code civil", "La Déclaration des droits de l’Homme et du citoyen", "La Charte royale"],
+    "correctIndex": 2
   },
   {
     "id": "q4",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel pays a connu une révolution en 1917 ?",
-    "answers": [
-      "France",
-      "Cuba",
-      "Russie",
-      "Chine"
-    ],
-    "correctIndex": 2
+    "text": "Quel roi de France est renversé pendant la Révolution française ?",
+    "answers": ["Louis XIV", "Louis XV", "Charles X", "Louis XVI"],
+    "correctIndex": 3
   },
+
   {
     "id": "q5",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la Révolution des Œillets au Portugal ?",
-    "answers": [
-      "1976",
-      "1974",
-      "1972",
-      "1980"
-    ],
-    "correctIndex": 1
+    "text": "Quelle classe sociale est majoritaire pendant la Révolution française ?",
+    "answers": ["Le Tiers état", "La noblesse", "Le clergé", "La monarchie"],
+    "correctIndex": 0
   },
   {
     "id": "q6",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la Révolution des Œillets au Portugal ?",
-    "answers": [
-      "1974",
-      "1976",
-      "1980",
-      "1972"
-    ],
-    "correctIndex": 0
+    "text": "Dans quelle ville se trouve la Bastille ?",
+    "answers": ["Lyon", "Paris", "Marseille", "Versailles"],
+    "correctIndex": 1
   },
   {
     "id": "q7",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel mouvement a renversé le Shah d'Iran en 1979 ?",
-    "answers": [
-      "Révolution verte",
-      "Révolution islamique",
-      "Révolution rouge",
-      "Révolution blanche"
-    ],
-    "correctIndex": 1
+    "text": "Quel symbole est associé à la Révolution française ?",
+    "answers": ["La couronne", "La fleur de lys", "Le bonnet phrygien", "L’aigle"],
+    "correctIndex": 2
   },
   {
     "id": "q8",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début de la Révolution française ?",
-    "answers": [
-      "La prise de la Bastille",
-      "L'exécution de Louis XVI",
-      "La fuite de Varennes",
-      "La proclamation de la République"
-    ],
-    "correctIndex": 0
+    "text": "Quel instrument est utilisé pour les exécutions pendant la Révolution ?",
+    "answers": ["La potence", "Le sabre", "Le peloton", "La guillotine"],
+    "correctIndex": 3
   },
+
   {
     "id": "q9",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "La croix de Lorraine",
-      "La fleur de lys",
-      "La cocarde blanche",
-      "Le bonnet phrygien"
-    ],
-    "correctIndex": 3
+    "text": "Quel mot d’ordre résume les valeurs de la Révolution française ?",
+    "answers": ["Liberté, Égalité, Fraternité", "Travail, Famille, Patrie", "Paix et Progrès", "Foi et Monarchie"],
+    "correctIndex": 0
   },
   {
     "id": "q10",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Qui a mené la révolution cubaine en 1959 ?",
-    "answers": [
-      "Che Guevara",
-      "Camilo Cienfuegos",
-      "Fidel Castro",
-      "Raúl Castro"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment était une prison avant sa prise en 1789 ?",
+    "answers": ["Le Louvre", "La Bastille", "Les Invalides", "La Conciergerie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q11",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a débuté la Révolution française ?",
-    "answers": [
-      "1804",
-      "1789",
-      "1776",
-      "1792"
-    ],
-    "correctIndex": 1
+    "text": "Quel régime politique est aboli en 1789 ?",
+    "answers": ["La république", "L’empire", "La monarchie absolue", "La dictature"],
+    "correctIndex": 2
   },
   {
     "id": "q12",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel mouvement a renversé le Shah d'Iran en 1979 ?",
-    "answers": [
-      "Révolution rouge",
-      "Révolution blanche",
-      "Révolution islamique",
-      "Révolution verte"
-    ],
-    "correctIndex": 2
+    "text": "Quel personnage devient empereur après la Révolution française ?",
+    "answers": ["Robespierre", "Danton", "Marat", "Napoléon Bonaparte"],
+    "correctIndex": 3
   },
+
   {
     "id": "q13",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel leader a dirigé la révolution chinoise de 1949 ?",
-    "answers": [
-      "Sun Yat-sen",
-      "Mao Zedong",
-      "Chiang Kai-shek",
-      "Deng Xiaoping"
-    ],
-    "correctIndex": 1
+    "text": "Quel groupe social payait le plus d’impôts avant la Révolution ?",
+    "answers": ["Le Tiers état", "La noblesse", "Le clergé", "Le roi"],
+    "correctIndex": 0
   },
   {
     "id": "q14",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel leader a dirigé la révolution chinoise de 1949 ?",
-    "answers": [
-      "Deng Xiaoping",
-      "Chiang Kai-shek",
-      "Mao Zedong",
-      "Sun Yat-sen"
-    ],
-    "correctIndex": 2
+    "text": "Quel mois voit la prise de la Bastille ?",
+    "answers": ["Juin", "Juillet", "Août", "Septembre"],
+    "correctIndex": 1
   },
+
   {
     "id": "q15",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel leader a dirigé la révolution chinoise de 1949 ?",
-    "answers": [
-      "Mao Zedong",
-      "Chiang Kai-shek",
-      "Deng Xiaoping",
-      "Sun Yat-sen"
-    ],
-    "correctIndex": 0
+    "text": "Quelle assemblée représente le peuple en 1789 ?",
+    "answers": ["Les États généraux", "Le Sénat", "L’Assemblée nationale", "Le Conseil d’État"],
+    "correctIndex": 2
   },
   {
     "id": "q16",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel mouvement a renversé le Shah d'Iran en 1979 ?",
-    "answers": [
-      "Révolution islamique",
-      "Révolution blanche",
-      "Révolution verte",
-      "Révolution rouge"
-    ],
-    "correctIndex": 0
+    "text": "Quel symbole est porté par les révolutionnaires sur la tête ?",
+    "answers": ["Le tricorne", "La couronne", "Le casque", "Le bonnet phrygien"],
+    "correctIndex": 3
   },
+
   {
     "id": "q17",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la Révolution des Œillets au Portugal ?",
-    "answers": [
-      "1980",
-      "1972",
-      "1976",
-      "1974"
-    ],
-    "correctIndex": 3
+    "text": "Quelle couleur fait partie du drapeau révolutionnaire français ?",
+    "answers": ["Le bleu", "Le vert", "Le noir", "Le violet"],
+    "correctIndex": 0
   },
   {
     "id": "q18",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quelle révolution américaine a eu lieu en 1776 ?",
-    "answers": [
-      "La Déclaration d'indépendance",
-      "La Constitution",
-      "La Boston Tea Party",
-      "La Guerre de Sécession"
-    ],
-    "correctIndex": 0
+    "text": "Quel bâtiment devient un symbole du pouvoir royal ?",
+    "answers": ["Le Louvre", "Versailles", "La Bastille", "Les Tuileries"],
+    "correctIndex": 1
   },
+
   {
     "id": "q19",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quelle révolution américaine a eu lieu en 1776 ?",
-    "answers": [
-      "La Constitution",
-      "La Guerre de Sécession",
-      "La Boston Tea Party",
-      "La Déclaration d'indépendance"
-    ],
-    "correctIndex": 3
+    "text": "Quel terme désigne une exécution sans procès équitable ?",
+    "answers": ["L’exil", "La grâce", "La Terreur", "L’amnistie"],
+    "correctIndex": 2
   },
   {
     "id": "q20",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel pays a connu une révolution en 1917 ?",
-    "answers": [
-      "France",
-      "Chine",
-      "Russie",
-      "Cuba"
-    ],
-    "correctIndex": 2
+    "text": "Quel roi est exécuté en 1793 ?",
+    "answers": ["Louis XIV", "Louis XV", "Charles X", "Louis XVI"],
+    "correctIndex": 3
   },
+
   {
     "id": "q21",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "Le bonnet phrygien",
-      "La cocarde blanche",
-      "La fleur de lys",
-      "La croix de Lorraine"
-    ],
+    "text": "Quel idéal est défendu par les révolutionnaires ?",
+    "answers": ["L’égalité", "La monarchie", "Le privilège", "La noblesse"],
     "correctIndex": 0
   },
   {
     "id": "q22",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Qui a mené la révolution cubaine en 1959 ?",
-    "answers": [
-      "Che Guevara",
-      "Camilo Cienfuegos",
-      "Fidel Castro",
-      "Raúl Castro"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment parisien abrite une prison révolutionnaire célèbre ?",
+    "answers": ["Le Louvre", "La Conciergerie", "Le Panthéon", "L’Opéra"],
+    "correctIndex": 1
   },
+
   {
     "id": "q23",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "Le bonnet phrygien",
-      "La fleur de lys",
-      "La cocarde blanche",
-      "La croix de Lorraine"
-    ],
-    "correctIndex": 0
+    "text": "Quel groupe dirige pendant la Terreur ?",
+    "answers": ["Les Girondins", "Les royalistes", "Les Jacobins", "Les monarchistes"],
+    "correctIndex": 2
   },
   {
     "id": "q24",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel mouvement a renversé le Shah d'Iran en 1979 ?",
-    "answers": [
-      "Révolution blanche",
-      "Révolution verte",
-      "Révolution islamique",
-      "Révolution rouge"
-    ],
-    "correctIndex": 2
+    "text": "Quel tribunal juge les ennemis de la Révolution ?",
+    "answers": ["Le Parlement", "La Cour royale", "Le Sénat", "Le Tribunal révolutionnaire"],
+    "correctIndex": 3
   },
+
   {
     "id": "q25",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Qui a mené la révolution cubaine en 1959 ?",
-    "answers": [
-      "Fidel Castro",
-      "Camilo Cienfuegos",
-      "Che Guevara",
-      "Raúl Castro"
-    ],
+    "text": "Quel symbole représente la République française ?",
+    "answers": ["Marianne", "Jeanne d’Arc", "Napoléon", "Le roi"],
     "correctIndex": 0
   },
   {
     "id": "q26",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "La croix de Lorraine",
-      "La cocarde blanche",
-      "La fleur de lys",
-      "Le bonnet phrygien"
-    ],
-    "correctIndex": 3
+    "text": "Quel objet sert à écrire les lois révolutionnaires ?",
+    "answers": ["Le parchemin", "La plume", "L’épée", "Le sceptre"],
+    "correctIndex": 1
   },
+
   {
     "id": "q27",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel leader a dirigé la révolution chinoise de 1949 ?",
-    "answers": [
-      "Sun Yat-sen",
-      "Mao Zedong",
-      "Deng Xiaoping",
-      "Chiang Kai-shek"
-    ],
-    "correctIndex": 1
+    "text": "Quel changement majeur concerne la société après 1789 ?",
+    "answers": ["Le retour des privilèges", "La monarchie renforcée", "L’égalité devant la loi", "Le pouvoir absolu"],
+    "correctIndex": 2
   },
   {
     "id": "q28",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel mouvement a renversé le Shah d'Iran en 1979 ?",
-    "answers": [
-      "Révolution rouge",
-      "Révolution islamique",
-      "Révolution verte",
-      "Révolution blanche"
-    ],
-    "correctIndex": 1
+    "text": "Quel bâtiment devient un musée après la Révolution ?",
+    "answers": ["Versailles", "La Bastille", "Le Panthéon", "Le Louvre"],
+    "correctIndex": 3
   },
+
   {
     "id": "q29",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la Révolution des Œillets au Portugal ?",
-    "answers": [
-      "1974",
-      "1976",
-      "1980",
-      "1972"
-    ],
+    "text": "Quel principe met fin aux privilèges ?",
+    "answers": ["L’égalité", "La hiérarchie", "La noblesse", "La tradition"],
     "correctIndex": 0
   },
   {
     "id": "q30",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début de la Révolution française ?",
-    "answers": [
-      "La fuite de Varennes",
-      "La proclamation de la République",
-      "La prise de la Bastille",
-      "L'exécution de Louis XVI"
-    ],
-    "correctIndex": 2
+    "text": "Quel groupe s’oppose au roi ?",
+    "answers": ["La noblesse", "Les révolutionnaires", "Le clergé", "L’armée royale"],
+    "correctIndex": 1
   },
+
   {
     "id": "q31",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "La cocarde blanche",
-      "La croix de Lorraine",
-      "La fleur de lys",
-      "Le bonnet phrygien"
-    ],
-    "correctIndex": 3
+    "text": "Quel type de gouvernement apparaît après la monarchie ?",
+    "answers": ["La dictature", "L’empire", "La république", "La théocratie"],
+    "correctIndex": 2
   },
   {
     "id": "q32",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel pays a connu une révolution en 1917 ?",
-    "answers": [
-      "Chine",
-      "Cuba",
-      "Russie",
-      "France"
-    ],
-    "correctIndex": 2
+    "text": "Quel lieu accueille les États généraux ?",
+    "answers": ["Paris", "Orléans", "Reims", "Versailles"],
+    "correctIndex": 3
   },
+
   {
     "id": "q33",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel pays a connu une révolution en 1917 ?",
-    "answers": [
-      "Russie",
-      "Cuba",
-      "Chine",
-      "France"
-    ],
+    "text": "Quel droit est proclamé fondamental en 1789 ?",
+    "answers": ["La liberté", "Le privilège", "L’héritage", "La soumission"],
     "correctIndex": 0
   },
   {
     "id": "q34",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel pays a connu une révolution en 1917 ?",
-    "answers": [
-      "Russie",
-      "France",
-      "Cuba",
-      "Chine"
-    ],
-    "correctIndex": 0
+    "text": "Quel symbole est présent sur le drapeau français ?",
+    "answers": ["L’aigle", "Le blanc", "Le noir", "L’or"],
+    "correctIndex": 1
   },
+
   {
     "id": "q35",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "La cocarde blanche",
-      "La fleur de lys",
-      "La croix de Lorraine",
-      "Le bonnet phrygien"
-    ],
-    "correctIndex": 3
+    "text": "Quel événement marque la fin de la monarchie ?",
+    "answers": ["La Constitution", "La prise de la Bastille", "La proclamation de la République", "La Terreur"],
+    "correctIndex": 2
   },
   {
     "id": "q36",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a débuté la Révolution française ?",
-    "answers": [
-      "1792",
-      "1804",
-      "1776",
-      "1789"
-    ],
+    "text": "Quel symbole remplace la royauté ?",
+    "answers": ["La couronne", "Le sceptre", "Le trône", "La République"],
     "correctIndex": 3
   },
+
   {
     "id": "q37",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quelle révolution américaine a eu lieu en 1776 ?",
-    "answers": [
-      "La Déclaration d'indépendance",
-      "La Constitution",
-      "La Guerre de Sécession",
-      "La Boston Tea Party"
-    ],
+    "text": "Quel idéal concerne la fraternité entre citoyens ?",
+    "answers": ["La solidarité", "La hiérarchie", "La noblesse", "La domination"],
     "correctIndex": 0
   },
   {
     "id": "q38",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel leader a dirigé la révolution chinoise de 1949 ?",
-    "answers": [
-      "Sun Yat-sen",
-      "Deng Xiaoping",
-      "Mao Zedong",
-      "Chiang Kai-shek"
-    ],
-    "correctIndex": 2
+    "text": "Quel document fixe les droits fondamentaux ?",
+    "answers": ["Le Code civil", "La Déclaration des droits de l’Homme", "La Constitution impériale", "La Charte royale"],
+    "correctIndex": 1
   },
+
   {
     "id": "q39",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a débuté la Révolution française ?",
-    "answers": [
-      "1776",
-      "1789",
-      "1792",
-      "1804"
-    ],
-    "correctIndex": 1
+    "text": "Quel type de pouvoir est contesté en 1789 ?",
+    "answers": ["Le pouvoir populaire", "Le pouvoir démocratique", "Le pouvoir absolu", "Le pouvoir local"],
+    "correctIndex": 2
   },
   {
     "id": "q40",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel pays a connu une révolution en 1917 ?",
-    "answers": [
-      "Cuba",
-      "France",
-      "Chine",
-      "Russie"
-    ],
+    "text": "Quel symbole est associé à la liberté ?",
+    "answers": ["La chaîne", "Le sceptre", "La couronne", "La cocarde tricolore"],
     "correctIndex": 3
   },
+
   {
     "id": "q41",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "La croix de Lorraine",
-      "La fleur de lys",
-      "La cocarde blanche",
-      "Le bonnet phrygien"
-    ],
-    "correctIndex": 3
+    "text": "Quel droit est reconnu à tous les citoyens ?",
+    "answers": ["L’égalité devant la loi", "Le privilège de naissance", "Le droit divin", "L’hérédité"],
+    "correctIndex": 0
   },
   {
     "id": "q42",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quelle révolution américaine a eu lieu en 1776 ?",
-    "answers": [
-      "La Guerre de Sécession",
-      "La Boston Tea Party",
-      "La Déclaration d'indépendance",
-      "La Constitution"
-    ],
-    "correctIndex": 2
+    "text": "Quel groupe social disparaît en tant que classe privilégiée ?",
+    "answers": ["Le Tiers état", "La noblesse", "Les paysans", "Les artisans"],
+    "correctIndex": 1
   },
+
   {
     "id": "q43",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel mouvement a renversé le Shah d'Iran en 1979 ?",
-    "answers": [
-      "Révolution blanche",
-      "Révolution rouge",
-      "Révolution verte",
-      "Révolution islamique"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe politique naît avec la Révolution ?",
+    "answers": ["Le despotisme", "La monarchie divine", "La souveraineté nationale", "L’absolutisme"],
+    "correctIndex": 2
   },
   {
     "id": "q44",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel mouvement a renversé le Shah d'Iran en 1979 ?",
-    "answers": [
-      "Révolution verte",
-      "Révolution blanche",
-      "Révolution islamique",
-      "Révolution rouge"
-    ],
-    "correctIndex": 2
+    "text": "Quel mot désigne un partisan du roi ?",
+    "answers": ["Républicain", "Jacobins", "Girondin", "Royaliste"],
+    "correctIndex": 3
   },
+
   {
     "id": "q45",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Qui était roi de France au début de la Révolution française ?",
-    "answers": [
-      "Louis XVI",
-      "Charles X",
-      "Napoléon Ier",
-      "Louis XV"
-    ],
+    "text": "Quel idéal inspire encore la République française actuelle ?",
+    "answers": ["Liberté, Égalité, Fraternité", "Travail et Ordre", "Foi et Roi", "Empire et Gloire"],
     "correctIndex": 0
   },
   {
     "id": "q46",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a débuté la Révolution française ?",
-    "answers": [
-      "1776",
-      "1792",
-      "1804",
-      "1789"
-    ],
-    "correctIndex": 3
+    "text": "Quel événement met fin à la Terreur ?",
+    "answers": ["La prise de la Bastille", "La chute de Robespierre", "Le sacre de Napoléon", "La Constitution"],
+    "correctIndex": 1
   },
+
   {
     "id": "q47",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début de la Révolution française ?",
-    "answers": [
-      "La prise de la Bastille",
-      "La fuite de Varennes",
-      "La proclamation de la République",
-      "L'exécution de Louis XVI"
-    ],
-    "correctIndex": 0
+    "text": "Quel changement touche l’organisation de la société ?",
+    "answers": ["Le retour des privilèges", "La séparation des ordres", "L’égalité civile", "La domination royale"],
+    "correctIndex": 2
   },
   {
     "id": "q48",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la Révolution des Œillets au Portugal ?",
-    "answers": [
-      "1972",
-      "1980",
-      "1976",
-      "1974"
-    ],
+    "text": "Quel symbole remplace les armoiries royales ?",
+    "answers": ["Le lys", "La couronne", "Le sceptre", "Les symboles républicains"],
     "correctIndex": 3
   },
+
   {
     "id": "q49",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début de la Révolution française ?",
-    "answers": [
-      "La proclamation de la République",
-      "La prise de la Bastille",
-      "L'exécution de Louis XVI",
-      "La fuite de Varennes"
-    ],
-    "correctIndex": 1
+    "text": "Quel événement est célébré chaque 14 juillet en France ?",
+    "answers": ["La prise de la Bastille", "La proclamation de l’Empire", "La chute de la monarchie", "La Terreur"],
+    "correctIndex": 0
   },
   {
     "id": "q50",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "Le bonnet phrygien",
-      "La fleur de lys",
-      "La cocarde blanche",
-      "La croix de Lorraine"
-    ],
-    "correctIndex": 0
+    "text": "Quel héritage principal laisse la Révolution française ?",
+    "answers": ["La monarchie", "Les privilèges", "L’égalité des droits", "Le pouvoir absolu"],
+    "correctIndex": 2
   },
   {
     "id": "q51",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a débuté la Révolution française ?",
-    "answers": [
-      "1792",
-      "1789",
-      "1776",
-      "1804"
-    ],
-    "correctIndex": 1
+    "text": "Quel lieu parisien devient un symbole révolutionnaire après 1789 ?",
+    "answers": ["La Bastille", "Le Louvre", "Versailles", "Le Panthéon"],
+    "correctIndex": 0
   },
   {
     "id": "q52",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Qui a mené la révolution cubaine en 1959 ?",
-    "answers": [
-      "Raúl Castro",
-      "Fidel Castro",
-      "Che Guevara",
-      "Camilo Cienfuegos"
-    ],
+    "text": "Quel organe politique vote les lois pendant la Révolution française ?",
+    "answers": ["Le Sénat", "L’Assemblée nationale", "Le Conseil royal", "Le Parlement royal"],
     "correctIndex": 1
   },
   {
     "id": "q53",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "La croix de Lorraine",
-      "Le bonnet phrygien",
-      "La cocarde blanche",
-      "La fleur de lys"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe est supprimé avec la fin de l’Ancien Régime ?",
+    "answers": ["Le suffrage", "La liberté", "Les privilèges", "La citoyenneté"],
+    "correctIndex": 2
   },
   {
     "id": "q54",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "La fleur de lys",
-      "La cocarde blanche",
-      "Le bonnet phrygien",
-      "La croix de Lorraine"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment accueille la Convention nationale ?",
+    "answers": ["Le Louvre", "Versailles", "Les Invalides", "Le palais des Tuileries"],
+    "correctIndex": 3
   },
+
   {
     "id": "q55",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a débuté la Révolution française ?",
-    "answers": [
-      "1789",
-      "1776",
-      "1792",
-      "1804"
-    ],
+    "text": "Quel idéal révolutionnaire défend la liberté d’expression ?",
+    "answers": ["La liberté", "L’autorité", "L’obéissance", "La hiérarchie"],
     "correctIndex": 0
   },
   {
     "id": "q56",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Qui était roi de France au début de la Révolution française ?",
-    "answers": [
-      "Louis XVI",
-      "Charles X",
-      "Napoléon Ier",
-      "Louis XV"
-    ],
-    "correctIndex": 0
+    "text": "Quelle institution représente la nation après 1789 ?",
+    "answers": ["La Cour royale", "L’Assemblée nationale", "Le Conseil du roi", "Le clergé"],
+    "correctIndex": 1
   },
   {
     "id": "q57",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a débuté la Révolution française ?",
-    "answers": [
-      "1789",
-      "1792",
-      "1776",
-      "1804"
-    ],
-    "correctIndex": 0
+    "text": "Quel changement touche le système judiciaire après la Révolution ?",
+    "answers": ["Le retour des privilèges", "La justice royale", "L’égalité devant la loi", "La suppression des tribunaux"],
+    "correctIndex": 2
   },
   {
     "id": "q58",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Qui a mené la révolution cubaine en 1959 ?",
-    "answers": [
-      "Camilo Cienfuegos",
-      "Raúl Castro",
-      "Che Guevara",
-      "Fidel Castro"
-    ],
+    "text": "Quel symbole représente le peuple souverain ?",
+    "answers": ["Le roi", "La couronne", "Le sceptre", "Marianne"],
     "correctIndex": 3
   },
+
   {
     "id": "q59",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "Le bonnet phrygien",
-      "La fleur de lys",
-      "La cocarde blanche",
-      "La croix de Lorraine"
-    ],
+    "text": "Quel idéal révolutionnaire concerne la solidarité entre citoyens ?",
+    "answers": ["La fraternité", "La domination", "La hiérarchie", "La soumission"],
     "correctIndex": 0
   },
   {
     "id": "q60",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel mouvement a renversé le Shah d'Iran en 1979 ?",
-    "answers": [
-      "Révolution islamique",
-      "Révolution rouge",
-      "Révolution verte",
-      "Révolution blanche"
-    ],
-    "correctIndex": 0
+    "text": "Quel groupe politique siège à gauche de l’Assemblée ?",
+    "answers": ["Les royalistes", "Les Jacobins", "Les nobles", "Les monarchistes"],
+    "correctIndex": 1
   },
+
   {
     "id": "q61",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Qui a mené la révolution cubaine en 1959 ?",
-    "answers": [
-      "Raúl Castro",
-      "Fidel Castro",
-      "Camilo Cienfuegos",
-      "Che Guevara"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe garantit les mêmes droits pour tous ?",
+    "answers": ["La hiérarchie", "Le privilège", "L’égalité", "L’hérédité"],
+    "correctIndex": 2
   },
   {
     "id": "q62",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quelle révolution américaine a eu lieu en 1776 ?",
-    "answers": [
-      "La Guerre de Sécession",
-      "La Déclaration d'indépendance",
-      "La Boston Tea Party",
-      "La Constitution"
-    ],
-    "correctIndex": 1
+    "text": "Quel événement marque la fin officielle de la monarchie en France ?",
+    "answers": ["La fuite à Varennes", "La prise de la Bastille", "La Terreur", "La proclamation de la République"],
+    "correctIndex": 3
   },
+
   {
     "id": "q63",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début de la Révolution française ?",
-    "answers": [
-      "La proclamation de la République",
-      "La fuite de Varennes",
-      "La prise de la Bastille",
-      "L'exécution de Louis XVI"
-    ],
-    "correctIndex": 2
+    "text": "Quel symbole est porté sur les vêtements révolutionnaires ?",
+    "answers": ["La cocarde tricolore", "La couronne", "Le lys", "L’aigle"],
+    "correctIndex": 0
   },
   {
     "id": "q64",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "La croix de Lorraine",
-      "La fleur de lys",
-      "La cocarde blanche",
-      "Le bonnet phrygien"
-    ],
-    "correctIndex": 3
+    "text": "Quel bâtiment est pris d’assaut le 14 juillet 1789 ?",
+    "answers": ["Le Louvre", "La Bastille", "Les Tuileries", "Versailles"],
+    "correctIndex": 1
   },
+
   {
     "id": "q65",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la Révolution des Œillets au Portugal ?",
-    "answers": [
-      "1980",
-      "1972",
-      "1974",
-      "1976"
-    ],
+    "text": "Quel texte affirme que la loi est la même pour tous ?",
+    "answers": ["La Constitution impériale", "Le Code civil", "La Déclaration des droits de l’Homme", "La Charte royale"],
     "correctIndex": 2
   },
   {
     "id": "q66",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a débuté la Révolution française ?",
-    "answers": [
-      "1792",
-      "1789",
-      "1804",
-      "1776"
-    ],
-    "correctIndex": 1
+    "text": "Quel personnage est exécuté en même temps que le roi ?",
+    "answers": ["Danton", "Robespierre", "Marat", "Marie-Antoinette"],
+    "correctIndex": 3
   },
+
   {
     "id": "q67",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a débuté la Révolution française ?",
-    "answers": [
-      "1804",
-      "1789",
-      "1776",
-      "1792"
-    ],
-    "correctIndex": 1
+    "text": "Quel idéal met fin aux inégalités de naissance ?",
+    "answers": ["L’égalité", "La tradition", "La monarchie", "Le privilège"],
+    "correctIndex": 0
   },
   {
     "id": "q68",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel mouvement a renversé le Shah d'Iran en 1979 ?",
-    "answers": [
-      "Révolution verte",
-      "Révolution islamique",
-      "Révolution rouge",
-      "Révolution blanche"
-    ],
+    "text": "Quel organe gouverne la France pendant la Terreur ?",
+    "answers": ["Le Sénat", "Le Comité de salut public", "Le Conseil royal", "Le Parlement"],
     "correctIndex": 1
   },
+
   {
     "id": "q69",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quelle révolution américaine a eu lieu en 1776 ?",
-    "answers": [
-      "La Constitution",
-      "La Boston Tea Party",
-      "La Déclaration d'indépendance",
-      "La Guerre de Sécession"
-    ],
+    "text": "Quel changement touche la propriété foncière ?",
+    "answers": ["Le retour des droits féodaux", "La confiscation totale", "La fin des droits seigneuriaux", "La suppression des terres"],
     "correctIndex": 2
   },
   {
     "id": "q70",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début de la Révolution française ?",
-    "answers": [
-      "La fuite de Varennes",
-      "La proclamation de la République",
-      "La prise de la Bastille",
-      "L'exécution de Louis XVI"
-    ],
-    "correctIndex": 2
+    "text": "Quel lieu devient un symbole républicain à Paris ?",
+    "answers": ["Versailles", "Le Louvre", "La Bastille", "La place de la Concorde"],
+    "correctIndex": 3
   },
+
   {
     "id": "q71",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel pays a connu une révolution en 1917 ?",
-    "answers": [
-      "France",
-      "Russie",
-      "Cuba",
-      "Chine"
-    ],
-    "correctIndex": 1
+    "text": "Quel idéal affirme le droit de penser librement ?",
+    "answers": ["La liberté", "La censure", "La hiérarchie", "La tradition"],
+    "correctIndex": 0
   },
   {
     "id": "q72",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel leader a dirigé la révolution chinoise de 1949 ?",
-    "answers": [
-      "Sun Yat-sen",
-      "Mao Zedong",
-      "Chiang Kai-shek",
-      "Deng Xiaoping"
-    ],
+    "text": "Quel groupe défend une Révolution plus modérée ?",
+    "answers": ["Les Jacobins", "Les Girondins", "Les royalistes", "Les nobles"],
     "correctIndex": 1
   },
+
   {
     "id": "q73",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel mouvement a renversé le Shah d'Iran en 1979 ?",
-    "answers": [
-      "Révolution verte",
-      "Révolution islamique",
-      "Révolution blanche",
-      "Révolution rouge"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe politique remplace le droit divin du roi ?",
+    "answers": ["L’absolutisme", "Le privilège", "La souveraineté nationale", "La théocratie"],
+    "correctIndex": 2
   },
   {
     "id": "q74",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quelle révolution américaine a eu lieu en 1776 ?",
-    "answers": [
-      "La Constitution",
-      "La Boston Tea Party",
-      "La Déclaration d'indépendance",
-      "La Guerre de Sécession"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment est détruit après la Révolution ?",
+    "answers": ["Le Louvre", "Versailles", "Le Panthéon", "La Bastille"],
+    "correctIndex": 3
   },
+
   {
     "id": "q75",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel pays a connu une révolution en 1917 ?",
-    "answers": [
-      "Cuba",
-      "France",
-      "Russie",
-      "Chine"
-    ],
-    "correctIndex": 2
+    "text": "Quel principe garantit les mêmes devoirs pour tous ?",
+    "answers": ["L’égalité devant la loi", "Le privilège", "La hiérarchie sociale", "L’hérédité"],
+    "correctIndex": 0
   },
   {
     "id": "q76",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Qui a mené la révolution cubaine en 1959 ?",
-    "answers": [
-      "Fidel Castro",
-      "Che Guevara",
-      "Camilo Cienfuegos",
-      "Raúl Castro"
-    ],
-    "correctIndex": 0
+    "text": "Quel organe rédige la Constitution de 1791 ?",
+    "answers": ["Le Sénat", "L’Assemblée constituante", "Le Conseil royal", "Le clergé"],
+    "correctIndex": 1
   },
+
   {
     "id": "q77",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début de la Révolution française ?",
-    "answers": [
-      "L'exécution de Louis XVI",
-      "La prise de la Bastille",
-      "La fuite de Varennes",
-      "La proclamation de la République"
-    ],
-    "correctIndex": 1
+    "text": "Quel changement touche la société civile après 1789 ?",
+    "answers": ["Le retour des ordres", "La suppression des droits", "La fin des ordres sociaux", "La domination nobiliaire"],
+    "correctIndex": 2
   },
   {
     "id": "q78",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la Révolution des Œillets au Portugal ?",
-    "answers": [
-      "1974",
-      "1972",
-      "1980",
-      "1976"
-    ],
-    "correctIndex": 0
+    "text": "Quel lieu devient le centre politique pendant la Révolution ?",
+    "answers": ["Versailles", "Orléans", "Reims", "Paris"],
+    "correctIndex": 3
   },
+
   {
     "id": "q79",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel mouvement a renversé le Shah d'Iran en 1979 ?",
-    "answers": [
-      "Révolution rouge",
-      "Révolution blanche",
-      "Révolution islamique",
-      "Révolution verte"
-    ],
-    "correctIndex": 2
+    "text": "Quel idéal inspire la devise républicaine actuelle ?",
+    "answers": ["Liberté", "Ordre", "Tradition", "Autorité"],
+    "correctIndex": 0
   },
   {
     "id": "q80",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel leader a dirigé la révolution chinoise de 1949 ?",
-    "answers": [
-      "Mao Zedong",
-      "Chiang Kai-shek",
-      "Sun Yat-sen",
-      "Deng Xiaoping"
-    ],
-    "correctIndex": 0
+    "text": "Quel bâtiment abrite le pouvoir exécutif après la Révolution ?",
+    "answers": ["Le Louvre", "Les Tuileries", "Versailles", "Le Panthéon"],
+    "correctIndex": 1
   },
+
   {
     "id": "q81",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quelle révolution américaine a eu lieu en 1776 ?",
-    "answers": [
-      "La Boston Tea Party",
-      "La Guerre de Sécession",
-      "La Déclaration d'indépendance",
-      "La Constitution"
-    ],
+    "text": "Quel principe protège les citoyens contre l’arbitraire ?",
+    "answers": ["La liberté", "Le privilège", "L’état de droit", "La monarchie"],
     "correctIndex": 2
   },
   {
     "id": "q82",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début de la Révolution française ?",
-    "answers": [
-      "La proclamation de la République",
-      "La fuite de Varennes",
-      "L'exécution de Louis XVI",
-      "La prise de la Bastille"
-    ],
+    "text": "Quel événement met fin à la monarchie constitutionnelle ?",
+    "answers": ["La prise de la Bastille", "La Constitution de 1791", "La Terreur", "L’insurrection du 10 août 1792"],
     "correctIndex": 3
   },
+
   {
     "id": "q83",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début de la Révolution française ?",
-    "answers": [
-      "La prise de la Bastille",
-      "L'exécution de Louis XVI",
-      "La proclamation de la République",
-      "La fuite de Varennes"
-    ],
+    "text": "Quel idéal défend la participation du peuple au pouvoir ?",
+    "answers": ["La démocratie", "La monarchie", "L’oligarchie", "La théocratie"],
     "correctIndex": 0
   },
   {
     "id": "q84",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quelle révolution américaine a eu lieu en 1776 ?",
-    "answers": [
-      "La Boston Tea Party",
-      "La Déclaration d'indépendance",
-      "La Guerre de Sécession",
-      "La Constitution"
-    ],
+    "text": "Quel groupe politique est le plus radical ?",
+    "answers": ["Les Girondins", "Les Jacobins", "Les Feuillants", "Les royalistes"],
     "correctIndex": 1
   },
+
   {
     "id": "q85",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Qui a mené la révolution cubaine en 1959 ?",
-    "answers": [
-      "Raúl Castro",
-      "Fidel Castro",
-      "Camilo Cienfuegos",
-      "Che Guevara"
-    ],
-    "correctIndex": 1
+    "text": "Quel changement touche la notion de citoyen ?",
+    "answers": ["La soumission au roi", "Le privilège", "L’égalité civique", "La hiérarchie"],
+    "correctIndex": 2
   },
   {
     "id": "q86",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a débuté la Révolution française ?",
-    "answers": [
-      "1776",
-      "1789",
-      "1792",
-      "1804"
-    ],
-    "correctIndex": 1
+    "text": "Quel lieu est rebaptisé place de la Révolution ?",
+    "answers": ["La place Vendôme", "La place des Vosges", "La place de la Bastille", "La place de la Concorde"],
+    "correctIndex": 3
   },
+
   {
     "id": "q87",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel pays a connu une révolution en 1917 ?",
-    "answers": [
-      "France",
-      "Chine",
-      "Cuba",
-      "Russie"
-    ],
-    "correctIndex": 3
+    "text": "Quel idéal met fin à l’arbitraire royal ?",
+    "answers": ["La loi", "La tradition", "La noblesse", "Le droit divin"],
+    "correctIndex": 0
   },
   {
     "id": "q88",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel leader a dirigé la révolution chinoise de 1949 ?",
-    "answers": [
-      "Chiang Kai-shek",
-      "Deng Xiaoping",
-      "Mao Zedong",
-      "Sun Yat-sen"
-    ],
-    "correctIndex": 2
+    "text": "Quel texte fonde les droits modernes en France ?",
+    "answers": ["Le Code civil", "La Déclaration des droits de l’Homme", "La Constitution impériale", "La Charte royale"],
+    "correctIndex": 1
   },
+
   {
     "id": "q89",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a débuté la Révolution française ?",
-    "answers": [
-      "1776",
-      "1789",
-      "1792",
-      "1804"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe assure la même justice pour tous ?",
+    "answers": ["Le privilège", "La hiérarchie", "L’égalité devant la loi", "L’hérédité"],
+    "correctIndex": 2
   },
   {
     "id": "q90",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a débuté la Révolution française ?",
-    "answers": [
-      "1776",
-      "1804",
-      "1789",
-      "1792"
-    ],
-    "correctIndex": 2
+    "text": "Quel symbole est détruit pour marquer la fin de l’Ancien Régime ?",
+    "answers": ["Versailles", "Le Louvre", "Les Tuileries", "La Bastille"],
+    "correctIndex": 3
   },
+
   {
     "id": "q91",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début de la Révolution française ?",
-    "answers": [
-      "La proclamation de la République",
-      "L'exécution de Louis XVI",
-      "La fuite de Varennes",
-      "La prise de la Bastille"
-    ],
-    "correctIndex": 3
+    "text": "Quel idéal politique s’oppose à la monarchie absolue ?",
+    "answers": ["La république", "L’empire", "La théocratie", "La féodalité"],
+    "correctIndex": 0
   },
   {
     "id": "q92",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "La cocarde blanche",
-      "La fleur de lys",
-      "La croix de Lorraine",
-      "Le bonnet phrygien"
-    ],
-    "correctIndex": 3
+    "text": "Quel organe remplace le pouvoir royal ?",
+    "answers": ["Le clergé", "La nation", "La noblesse", "L’armée"],
+    "correctIndex": 1
   },
+
   {
     "id": "q93",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a débuté la Révolution française ?",
-    "answers": [
-      "1804",
-      "1789",
-      "1792",
-      "1776"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe protège la liberté individuelle ?",
+    "answers": ["L’obéissance", "La censure", "L’état de droit", "Le privilège"],
+    "correctIndex": 2
   },
   {
     "id": "q94",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "La croix de Lorraine",
-      "La fleur de lys",
-      "Le bonnet phrygien",
-      "La cocarde blanche"
-    ],
-    "correctIndex": 2
+    "text": "Quel lieu devient un symbole national le 14 juillet ?",
+    "answers": ["Versailles", "Le Louvre", "La Conciergerie", "La Bastille"],
+    "correctIndex": 3
   },
+
   {
     "id": "q95",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel mouvement a renversé le Shah d'Iran en 1979 ?",
-    "answers": [
-      "Révolution verte",
-      "Révolution islamique",
-      "Révolution rouge",
-      "Révolution blanche"
-    ],
-    "correctIndex": 1
+    "text": "Quel idéal défend l’égalité entre les citoyens ?",
+    "answers": ["L’égalité", "La noblesse", "La hiérarchie", "Le privilège"],
+    "correctIndex": 0
   },
   {
     "id": "q96",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "La fleur de lys",
-      "La cocarde blanche",
-      "Le bonnet phrygien",
-      "La croix de Lorraine"
-    ],
-    "correctIndex": 2
+    "text": "Quel événement met fin à la Convention ?",
+    "answers": ["La prise de la Bastille", "Le Directoire", "La Terreur", "Le Consulat"],
+    "correctIndex": 1
   },
+
   {
     "id": "q97",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "La fleur de lys",
-      "La croix de Lorraine",
-      "Le bonnet phrygien",
-      "La cocarde blanche"
-    ],
+    "text": "Quel changement concerne la participation politique ?",
+    "answers": ["La suppression du vote", "Le retour du pouvoir royal", "L’accès des citoyens à la vie politique", "La domination nobiliaire"],
     "correctIndex": 2
   },
   {
     "id": "q98",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel pays a connu une révolution en 1917 ?",
-    "answers": [
-      "Chine",
-      "Cuba",
-      "Russie",
-      "France"
-    ],
-    "correctIndex": 2
+    "text": "Quel régime succède à la Révolution française ?",
+    "answers": ["La monarchie absolue", "La théocratie", "La république directe", "Le Consulat"],
+    "correctIndex": 3
   },
+
   {
     "id": "q99",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "La croix de Lorraine",
-      "La fleur de lys",
-      "Le bonnet phrygien",
-      "La cocarde blanche"
-    ],
-    "correctIndex": 2
+    "text": "Quel idéal politique inspire la démocratie moderne ?",
+    "answers": ["La liberté", "La tradition", "L’absolutisme", "La féodalité"],
+    "correctIndex": 0
   },
   {
     "id": "q100",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quelle révolution américaine a eu lieu en 1776 ?",
-    "answers": [
-      "La Déclaration d'indépendance",
-      "La Guerre de Sécession",
-      "La Boston Tea Party",
-      "La Constitution"
-    ],
-    "correctIndex": 0
-  },
+    "text": "Quel héritage principal de la Révolution française demeure aujourd’hui ?",
+    "answers": ["La monarchie", "Les privilèges", "Le pouvoir absolu", "Les droits de l’Homme"],
+    "correctIndex": 3
+  },  
   {
     "id": "q101",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a débuté la Révolution française ?",
-    "answers": [
-      "1776",
-      "1792",
-      "1789",
-      "1804"
-    ],
-    "correctIndex": 2
+    "text": "Quel principe révolutionnaire affirme que la loi s’applique à tous de la même manière ?",
+    "answers": ["L’égalité devant la loi", "Le privilège", "Le droit divin", "La hiérarchie sociale"],
+    "correctIndex": 0
   },
   {
     "id": "q102",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Qui était roi de France au début de la Révolution française ?",
-    "answers": [
-      "Louis XV",
-      "Napoléon Ier",
-      "Louis XVI",
-      "Charles X"
-    ],
-    "correctIndex": 2
+    "text": "Quel groupe social perd ses privilèges pendant la Révolution française ?",
+    "answers": ["Le Tiers état", "La noblesse", "Les artisans", "Les paysans"],
+    "correctIndex": 1
   },
   {
     "id": "q103",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel mouvement a renversé le Shah d'Iran en 1979 ?",
-    "answers": [
-      "Révolution verte",
-      "Révolution rouge",
-      "Révolution blanche",
-      "Révolution islamique"
-    ],
-    "correctIndex": 3
+    "text": "Quel texte affirme la liberté d’opinion et d’expression ?",
+    "answers": ["Le Code civil", "La Constitution impériale", "La Déclaration des droits de l’Homme", "La Charte royale"],
+    "correctIndex": 2
   },
   {
     "id": "q104",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a débuté la Révolution française ?",
-    "answers": [
-      "1804",
-      "1792",
-      "1789",
-      "1776"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment parisien devient un symbole de la fin de l’Ancien Régime ?",
+    "answers": ["Le Louvre", "Les Tuileries", "Versailles", "La Bastille"],
+    "correctIndex": 3
   },
+
   {
     "id": "q105",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la Révolution des Œillets au Portugal ?",
-    "answers": [
-      "1980",
-      "1974",
-      "1976",
-      "1972"
-    ],
-    "correctIndex": 1
+    "text": "Quel idéal révolutionnaire garantit la liberté individuelle ?",
+    "answers": ["La liberté", "La censure", "La tradition", "La soumission"],
+    "correctIndex": 0
   },
   {
     "id": "q106",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Qui a mené la révolution cubaine en 1959 ?",
-    "answers": [
-      "Che Guevara",
-      "Fidel Castro",
-      "Raúl Castro",
-      "Camilo Cienfuegos"
-    ],
+    "text": "Quel organe politique représente la nation après 1789 ?",
+    "answers": ["Le Conseil du roi", "L’Assemblée nationale", "Le Parlement royal", "Le clergé"],
     "correctIndex": 1
   },
   {
     "id": "q107",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quelle révolution américaine a eu lieu en 1776 ?",
-    "answers": [
-      "La Déclaration d'indépendance",
-      "La Guerre de Sécession",
-      "La Boston Tea Party",
-      "La Constitution"
-    ],
-    "correctIndex": 0
+    "text": "Quel changement touche l’organisation sociale après la Révolution ?",
+    "answers": ["Le retour des ordres", "La domination nobiliaire", "La fin des privilèges", "Le pouvoir absolu"],
+    "correctIndex": 2
   },
   {
     "id": "q108",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Qui a mené la révolution cubaine en 1959 ?",
-    "answers": [
-      "Che Guevara",
-      "Raúl Castro",
-      "Fidel Castro",
-      "Camilo Cienfuegos"
-    ],
-    "correctIndex": 2
+    "text": "Quel symbole devient l’emblème de la République française ?",
+    "answers": ["La couronne", "Le lys", "L’aigle", "Marianne"],
+    "correctIndex": 3
   },
+
   {
     "id": "q109",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la Révolution des Œillets au Portugal ?",
-    "answers": [
-      "1972",
-      "1976",
-      "1980",
-      "1974"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe fonde la citoyenneté moderne ?",
+    "answers": ["L’égalité civile", "La naissance noble", "Le droit divin", "La hiérarchie"],
+    "correctIndex": 0
   },
   {
     "id": "q110",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel leader a dirigé la révolution chinoise de 1949 ?",
-    "answers": [
-      "Deng Xiaoping",
-      "Mao Zedong",
-      "Sun Yat-sen",
-      "Chiang Kai-shek"
-    ],
+    "text": "Quel événement marque la fin du pouvoir royal absolu ?",
+    "answers": ["La fuite à Varennes", "La prise de la Bastille", "La Terreur", "Le Consulat"],
     "correctIndex": 1
   },
+
   {
     "id": "q111",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début de la Révolution française ?",
-    "answers": [
-      "L'exécution de Louis XVI",
-      "La prise de la Bastille",
-      "La fuite de Varennes",
-      "La proclamation de la République"
-    ],
-    "correctIndex": 1
+    "text": "Quel texte pose les bases des droits fondamentaux modernes ?",
+    "answers": ["Le Code civil", "La Constitution de 1791", "La Déclaration des droits de l’Homme", "La Charte royale"],
+    "correctIndex": 2
   },
   {
     "id": "q112",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Qui était roi de France au début de la Révolution française ?",
-    "answers": [
-      "Napoléon Ier",
-      "Louis XVI",
-      "Louis XV",
-      "Charles X"
-    ],
-    "correctIndex": 1
+    "text": "Quel événement conduit à l’exécution de Louis XVI ?",
+    "answers": ["La Constitution", "La prise de la Bastille", "La fuite à Varennes", "Le procès du roi"],
+    "correctIndex": 3
   },
+
   {
     "id": "q113",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Qui a mené la révolution cubaine en 1959 ?",
-    "answers": [
-      "Fidel Castro",
-      "Che Guevara",
-      "Camilo Cienfuegos",
-      "Raúl Castro"
-    ],
+    "text": "Quel idéal défend la participation du peuple au pouvoir ?",
+    "answers": ["La démocratie", "La monarchie", "L’oligarchie", "La théocratie"],
     "correctIndex": 0
   },
   {
     "id": "q114",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Qui était roi de France au début de la Révolution française ?",
-    "answers": [
-      "Charles X",
-      "Louis XVI",
-      "Napoléon Ier",
-      "Louis XV"
-    ],
+    "text": "Quel groupe politique est favorable à une révolution modérée ?",
+    "answers": ["Les Jacobins", "Les Girondins", "Les royalistes", "Les Montagnards"],
     "correctIndex": 1
   },
+
   {
     "id": "q115",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quelle révolution américaine a eu lieu en 1776 ?",
-    "answers": [
-      "La Guerre de Sécession",
-      "La Boston Tea Party",
-      "La Déclaration d'indépendance",
-      "La Constitution"
-    ],
+    "text": "Quel principe met fin à la société d’ordres ?",
+    "answers": ["La hiérarchie", "Le privilège", "L’égalité juridique", "La tradition"],
     "correctIndex": 2
   },
   {
     "id": "q116",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "La cocarde blanche",
-      "Le bonnet phrygien",
-      "La croix de Lorraine",
-      "La fleur de lys"
-    ],
-    "correctIndex": 1
+    "text": "Quel lieu devient le centre du pouvoir révolutionnaire ?",
+    "answers": ["Versailles", "Orléans", "Reims", "Paris"],
+    "correctIndex": 3
   },
+
   {
     "id": "q117",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel mouvement a renversé le Shah d'Iran en 1979 ?",
-    "answers": [
-      "Révolution islamique",
-      "Révolution rouge",
-      "Révolution verte",
-      "Révolution blanche"
-    ],
+    "text": "Quel idéal est associé à la liberté de pensée ?",
+    "answers": ["La liberté d’opinion", "La censure", "La soumission", "La hiérarchie"],
     "correctIndex": 0
   },
   {
     "id": "q118",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la Révolution des Œillets au Portugal ?",
-    "answers": [
-      "1974",
-      "1976",
-      "1972",
-      "1980"
-    ],
-    "correctIndex": 0
+    "text": "Quel organe dirige la France pendant la Terreur ?",
+    "answers": ["Le Sénat", "Le Comité de salut public", "Le Conseil royal", "L’Assemblée constituante"],
+    "correctIndex": 1
   },
+
   {
     "id": "q119",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Qui a mené la révolution cubaine en 1959 ?",
-    "answers": [
-      "Fidel Castro",
-      "Che Guevara",
-      "Raúl Castro",
-      "Camilo Cienfuegos"
-    ],
-    "correctIndex": 0
+    "text": "Quel changement touche la justice après la Révolution ?",
+    "answers": ["La justice royale", "Les privilèges judiciaires", "L’égalité devant la loi", "La suppression des tribunaux"],
+    "correctIndex": 2
   },
   {
     "id": "q120",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a débuté la Révolution française ?",
-    "answers": [
-      "1792",
-      "1776",
-      "1789",
-      "1804"
-    ],
-    "correctIndex": 2
+    "text": "Quel symbole est détruit pour marquer la fin de l’Ancien Régime ?",
+    "answers": ["Versailles", "Le Louvre", "Les Tuileries", "La Bastille"],
+    "correctIndex": 3
   },
+
   {
     "id": "q121",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début de la Révolution française ?",
-    "answers": [
-      "L'exécution de Louis XVI",
-      "La fuite de Varennes",
-      "La prise de la Bastille",
-      "La proclamation de la République"
-    ],
-    "correctIndex": 2
+    "text": "Quel principe garantit les mêmes droits civiques à tous ?",
+    "answers": ["L’égalité", "La noblesse", "La tradition", "Le privilège"],
+    "correctIndex": 0
   },
   {
     "id": "q122",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quelle révolution américaine a eu lieu en 1776 ?",
-    "answers": [
-      "La Déclaration d'indépendance",
-      "La Boston Tea Party",
-      "La Guerre de Sécession",
-      "La Constitution"
-    ],
-    "correctIndex": 0
+    "text": "Quel texte fonde la première Constitution révolutionnaire ?",
+    "answers": ["La Déclaration des droits", "La Constitution de 1791", "Le Code civil", "La Charte royale"],
+    "correctIndex": 1
   },
+
   {
     "id": "q123",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Qui a mené la révolution cubaine en 1959 ?",
-    "answers": [
-      "Fidel Castro",
-      "Raúl Castro",
-      "Camilo Cienfuegos",
-      "Che Guevara"
-    ],
-    "correctIndex": 0
+    "text": "Quel principe politique remplace le droit divin du roi ?",
+    "answers": ["L’absolutisme", "La monarchie", "La souveraineté nationale", "La théocratie"],
+    "correctIndex": 2
   },
   {
     "id": "q124",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Qui a mené la révolution cubaine en 1959 ?",
-    "answers": [
-      "Raúl Castro",
-      "Fidel Castro",
-      "Camilo Cienfuegos",
-      "Che Guevara"
-    ],
-    "correctIndex": 1
+    "text": "Quel événement marque la proclamation de la République ?",
+    "answers": ["La prise de la Bastille", "La fuite à Varennes", "La Constitution", "Le 21 septembre 1792"],
+    "correctIndex": 3
   },
+
   {
     "id": "q125",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel pays a connu une révolution en 1917 ?",
-    "answers": [
-      "Russie",
-      "Cuba",
-      "Chine",
-      "France"
-    ],
+    "text": "Quel idéal vise à unir les citoyens entre eux ?",
+    "answers": ["La fraternité", "La domination", "La hiérarchie", "La soumission"],
     "correctIndex": 0
   },
   {
     "id": "q126",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel leader a dirigé la révolution chinoise de 1949 ?",
-    "answers": [
-      "Deng Xiaoping",
-      "Chiang Kai-shek",
-      "Mao Zedong",
-      "Sun Yat-sen"
-    ],
-    "correctIndex": 2
+    "text": "Quel groupe politique soutient une République centralisée et forte ?",
+    "answers": ["Les Girondins", "Les Jacobins", "Les royalistes", "Les nobles"],
+    "correctIndex": 1
   },
+
   {
     "id": "q127",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "Le bonnet phrygien",
-      "La cocarde blanche",
-      "La fleur de lys",
-      "La croix de Lorraine"
-    ],
-    "correctIndex": 0
+    "text": "Quel principe assure l’égalité des peines devant la justice ?",
+    "answers": ["Le privilège", "La tradition", "L’égalité pénale", "La hiérarchie"],
+    "correctIndex": 2
   },
   {
     "id": "q128",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel leader a dirigé la révolution chinoise de 1949 ?",
-    "answers": [
-      "Sun Yat-sen",
-      "Mao Zedong",
-      "Deng Xiaoping",
-      "Chiang Kai-shek"
-    ],
-    "correctIndex": 1
+    "text": "Quel symbole est porté par les sans-culottes ?",
+    "answers": ["La couronne", "Le lys", "Le sceptre", "Le bonnet phrygien"],
+    "correctIndex": 3
   },
+
   {
     "id": "q129",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel pays a connu une révolution en 1917 ?",
-    "answers": [
-      "Chine",
-      "Cuba",
-      "Russie",
-      "France"
-    ],
-    "correctIndex": 2
+    "text": "Quel idéal fonde la liberté politique moderne ?",
+    "answers": ["La liberté", "La censure", "La soumission", "L’obéissance"],
+    "correctIndex": 0
   },
   {
     "id": "q130",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel mouvement a renversé le Shah d'Iran en 1979 ?",
-    "answers": [
-      "Révolution rouge",
-      "Révolution verte",
-      "Révolution blanche",
-      "Révolution islamique"
-    ],
-    "correctIndex": 3
+    "text": "Quel événement marque la chute de Robespierre ?",
+    "answers": ["La prise de la Bastille", "Le 9 Thermidor", "La Constitution de 1791", "Le Consulat"],
+    "correctIndex": 1
   },
+
   {
     "id": "q131",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "Le bonnet phrygien",
-      "La fleur de lys",
-      "La croix de Lorraine",
-      "La cocarde blanche"
-    ],
-    "correctIndex": 0
+    "text": "Quel principe est inscrit durablement dans la société française ?",
+    "answers": ["Le privilège", "La tradition", "L’égalité des citoyens", "Le droit divin"],
+    "correctIndex": 2
   },
   {
     "id": "q132",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "La croix de Lorraine",
-      "Le bonnet phrygien",
-      "La fleur de lys",
-      "La cocarde blanche"
-    ],
-    "correctIndex": 1
+    "text": "Quel régime succède directement au Directoire ?",
+    "answers": ["La monarchie", "La République", "L’Empire", "Le Consulat"],
+    "correctIndex": 3
   },
+
   {
     "id": "q133",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la Révolution des Œillets au Portugal ?",
-    "answers": [
-      "1980",
-      "1974",
-      "1972",
-      "1976"
-    ],
-    "correctIndex": 1
+    "text": "Quel idéal protège les libertés fondamentales ?",
+    "answers": ["La liberté", "La tradition", "La hiérarchie", "Le privilège"],
+    "correctIndex": 0
   },
   {
     "id": "q134",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "Le bonnet phrygien",
-      "La fleur de lys",
-      "La cocarde blanche",
-      "La croix de Lorraine"
-    ],
-    "correctIndex": 0
+    "text": "Quel texte inspire les démocraties modernes ?",
+    "answers": ["Le Code civil", "La Déclaration des droits de l’Homme", "La Constitution impériale", "La Charte royale"],
+    "correctIndex": 1
   },
+
   {
     "id": "q135",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "La croix de Lorraine",
-      "La cocarde blanche",
-      "La fleur de lys",
-      "Le bonnet phrygien"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe met fin aux distinctions de naissance ?",
+    "answers": ["La hiérarchie", "Le privilège", "L’égalité", "La tradition"],
+    "correctIndex": 2
   },
   {
     "id": "q136",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Qui était roi de France au début de la Révolution française ?",
-    "answers": [
-      "Napoléon Ier",
-      "Louis XVI",
-      "Louis XV",
-      "Charles X"
-    ],
-    "correctIndex": 1
+    "text": "Quel événement est célébré comme fête nationale en France ?",
+    "answers": ["La proclamation de la République", "La chute de Robespierre", "La Constitution", "Le 14 juillet"],
+    "correctIndex": 3
   },
+
   {
     "id": "q137",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quelle révolution américaine a eu lieu en 1776 ?",
-    "answers": [
-      "La Guerre de Sécession",
-      "La Déclaration d'indépendance",
-      "La Constitution",
-      "La Boston Tea Party"
-    ],
-    "correctIndex": 1
+    "text": "Quel idéal structure la citoyenneté moderne ?",
+    "answers": ["L’égalité civique", "La noblesse", "La hiérarchie", "Le privilège"],
+    "correctIndex": 0
   },
   {
     "id": "q138",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la Révolution des Œillets au Portugal ?",
-    "answers": [
-      "1980",
-      "1976",
-      "1974",
-      "1972"
-    ],
-    "correctIndex": 2
+    "text": "Quel symbole représente la souveraineté du peuple ?",
+    "answers": ["La couronne", "Le drapeau tricolore", "Le sceptre", "Le lys"],
+    "correctIndex": 1
   },
+
   {
     "id": "q139",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "La cocarde blanche",
-      "Le bonnet phrygien",
-      "La fleur de lys",
-      "La croix de Lorraine"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe garantit la même loi pour tous ?",
+    "answers": ["La tradition", "Le privilège", "L’égalité juridique", "Le droit divin"],
+    "correctIndex": 2
   },
   {
     "id": "q140",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel leader a dirigé la révolution chinoise de 1949 ?",
-    "answers": [
-      "Chiang Kai-shek",
-      "Sun Yat-sen",
-      "Deng Xiaoping",
-      "Mao Zedong"
-    ],
+    "text": "Quel événement marque la fin définitive de la Révolution française ?",
+    "answers": ["La Terreur", "Le Directoire", "La République", "Le coup d’État de Bonaparte"],
     "correctIndex": 3
   },
+
   {
     "id": "q141",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quelle révolution américaine a eu lieu en 1776 ?",
-    "answers": [
-      "La Déclaration d'indépendance",
-      "La Boston Tea Party",
-      "La Guerre de Sécession",
-      "La Constitution"
-    ],
+    "text": "Quel idéal défend la liberté individuelle et collective ?",
+    "answers": ["La liberté", "La censure", "La soumission", "La tradition"],
     "correctIndex": 0
   },
   {
     "id": "q142",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a débuté la Révolution française ?",
-    "answers": [
-      "1789",
-      "1804",
-      "1776",
-      "1792"
-    ],
-    "correctIndex": 0
+    "text": "Quel groupe social devient politiquement dominant après 1789 ?",
+    "answers": ["La noblesse", "La bourgeoisie", "Le clergé", "La monarchie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q143",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la Révolution des Œillets au Portugal ?",
-    "answers": [
-      "1980",
-      "1974",
-      "1976",
-      "1972"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe politique fonde la République ?",
+    "answers": ["Le droit divin", "L’absolutisme", "La souveraineté nationale", "La tradition"],
+    "correctIndex": 2
   },
   {
     "id": "q144",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel leader a dirigé la révolution chinoise de 1949 ?",
-    "answers": [
-      "Mao Zedong",
-      "Sun Yat-sen",
-      "Chiang Kai-shek",
-      "Deng Xiaoping"
-    ],
-    "correctIndex": 0
+    "text": "Quel régime est instauré par Napoléon Bonaparte en 1799 ?",
+    "answers": ["La monarchie", "La république directe", "L’empire", "Le Consulat"],
+    "correctIndex": 3
   },
+
   {
     "id": "q145",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Qui était roi de France au début de la Révolution française ?",
-    "answers": [
-      "Charles X",
-      "Louis XVI",
-      "Louis XV",
-      "Napoléon Ier"
-    ],
-    "correctIndex": 1
+    "text": "Quel idéal garantit la liberté de conscience ?",
+    "answers": ["La liberté religieuse", "La censure", "La tradition", "L’obéissance"],
+    "correctIndex": 0
   },
   {
     "id": "q146",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début de la Révolution française ?",
-    "answers": [
-      "La proclamation de la République",
-      "La prise de la Bastille",
-      "L'exécution de Louis XVI",
-      "La fuite de Varennes"
-    ],
+    "text": "Quel événement marque la fin de la Terreur ?",
+    "answers": ["La prise de la Bastille", "La chute de Robespierre", "La Constitution", "Le Directoire"],
     "correctIndex": 1
   },
+
   {
     "id": "q147",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel leader a dirigé la révolution chinoise de 1949 ?",
-    "answers": [
-      "Mao Zedong",
-      "Sun Yat-sen",
-      "Chiang Kai-shek",
-      "Deng Xiaoping"
-    ],
-    "correctIndex": 0
+    "text": "Quel principe juridique est hérité durablement de la Révolution ?",
+    "answers": ["Le privilège", "La tradition", "L’égalité devant la loi", "Le droit divin"],
+    "correctIndex": 2
   },
   {
     "id": "q148",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Qui a mené la révolution cubaine en 1959 ?",
-    "answers": [
-      "Fidel Castro",
-      "Camilo Cienfuegos",
-      "Che Guevara",
-      "Raúl Castro"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement marque la prise du pouvoir par Napoléon ?",
+    "answers": ["La Terreur", "La Convention", "Le Directoire", "Le coup d’État du 18 Brumaire"],
+    "correctIndex": 3
   },
+
   {
     "id": "q149",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel mouvement a renversé le Shah d'Iran en 1979 ?",
-    "answers": [
-      "Révolution blanche",
-      "Révolution verte",
-      "Révolution rouge",
-      "Révolution islamique"
-    ],
-    "correctIndex": 3
+    "text": "Quel idéal inspire encore les institutions françaises actuelles ?",
+    "answers": ["Liberté, Égalité, Fraternité", "Foi et roi", "Empire et ordre", "Tradition et autorité"],
+    "correctIndex": 0
   },
   {
     "id": "q150",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a débuté la Révolution française ?",
-    "answers": [
-      "1792",
-      "1804",
-      "1776",
-      "1789"
-    ],
+    "text": "Quel héritage principal de la Révolution française demeure aujourd’hui ?",
+    "answers": ["La monarchie", "Les privilèges", "Le pouvoir absolu", "Les droits fondamentaux"],
     "correctIndex": 3
   },
   {
     "id": "q151",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Qui a mené la révolution cubaine en 1959 ?",
-    "answers": [
-      "Fidel Castro",
-      "Camilo Cienfuegos",
-      "Raúl Castro",
-      "Che Guevara"
-    ],
+    "text": "Quel principe révolutionnaire affirme que tous les citoyens sont égaux en droits ?",
+    "answers": ["L’égalité", "La hiérarchie", "Le privilège", "La tradition"],
     "correctIndex": 0
   },
   {
     "id": "q152",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début de la Révolution française ?",
-    "answers": [
-      "L'exécution de Louis XVI",
-      "La prise de la Bastille",
-      "La proclamation de la République",
-      "La fuite de Varennes"
-    ],
+    "text": "Quel groupe social dominait la société avant la Révolution française ?",
+    "answers": ["Les paysans", "La noblesse", "Les artisans", "La bourgeoisie"],
     "correctIndex": 1
   },
   {
     "id": "q153",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quelle révolution américaine a eu lieu en 1776 ?",
-    "answers": [
-      "La Constitution",
-      "La Guerre de Sécession",
-      "La Boston Tea Party",
-      "La Déclaration d'indépendance"
-    ],
-    "correctIndex": 3
+    "text": "Quel texte fonde les libertés modernes en France ?",
+    "answers": ["La Constitution impériale", "Le Code civil", "La Déclaration des droits de l’Homme", "La Charte royale"],
+    "correctIndex": 2
   },
   {
     "id": "q154",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Qui a mené la révolution cubaine en 1959 ?",
-    "answers": [
-      "Raúl Castro",
-      "Che Guevara",
-      "Fidel Castro",
-      "Camilo Cienfuegos"
-    ],
-    "correctIndex": 2
+    "text": "Quel symbole est détruit pour marquer la fin de l’Ancien Régime ?",
+    "answers": ["Le Louvre", "Versailles", "Les Tuileries", "La Bastille"],
+    "correctIndex": 3
   },
+
   {
     "id": "q155",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la Révolution des Œillets au Portugal ?",
-    "answers": [
-      "1976",
-      "1980",
-      "1974",
-      "1972"
-    ],
-    "correctIndex": 2
+    "text": "Quel idéal révolutionnaire garantit la liberté individuelle ?",
+    "answers": ["La liberté", "La soumission", "La tradition", "L’obéissance"],
+    "correctIndex": 0
   },
   {
     "id": "q156",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Qui a mené la révolution cubaine en 1959 ?",
-    "answers": [
-      "Raúl Castro",
-      "Fidel Castro",
-      "Camilo Cienfuegos",
-      "Che Guevara"
-    ],
+    "text": "Quel organe politique représente la nation après 1789 ?",
+    "answers": ["Le Conseil du roi", "L’Assemblée nationale", "Le Parlement royal", "Le clergé"],
     "correctIndex": 1
   },
   {
     "id": "q157",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Qui était roi de France au début de la Révolution française ?",
-    "answers": [
-      "Louis XV",
-      "Napoléon Ier",
-      "Louis XVI",
-      "Charles X"
-    ],
+    "text": "Quel changement majeur touche la société après la Révolution ?",
+    "answers": ["Le retour des ordres", "La domination nobiliaire", "La fin des privilèges", "Le pouvoir absolu"],
     "correctIndex": 2
   },
   {
     "id": "q158",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a débuté la Révolution française ?",
-    "answers": [
-      "1776",
-      "1789",
-      "1792",
-      "1804"
-    ],
-    "correctIndex": 1
+    "text": "Quel symbole représente la République française ?",
+    "answers": ["La couronne", "Le lys", "L’aigle", "Marianne"],
+    "correctIndex": 3
   },
+
   {
     "id": "q159",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Qui a mené la révolution cubaine en 1959 ?",
-    "answers": [
-      "Raúl Castro",
-      "Fidel Castro",
-      "Camilo Cienfuegos",
-      "Che Guevara"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe fonde la citoyenneté moderne ?",
+    "answers": ["L’égalité civique", "La naissance noble", "Le droit divin", "La hiérarchie"],
+    "correctIndex": 0
   },
   {
     "id": "q160",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quelle révolution américaine a eu lieu en 1776 ?",
-    "answers": [
-      "La Guerre de Sécession",
-      "La Constitution",
-      "La Déclaration d'indépendance",
-      "La Boston Tea Party"
-    ],
-    "correctIndex": 2
+    "text": "Quel événement marque symboliquement le début de la Révolution française ?",
+    "answers": ["La fuite à Varennes", "La prise de la Bastille", "La Terreur", "Le Consulat"],
+    "correctIndex": 1
   },
+
   {
     "id": "q161",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel pays a connu une révolution en 1917 ?",
-    "answers": [
-      "Russie",
-      "Chine",
-      "France",
-      "Cuba"
-    ],
-    "correctIndex": 0
+    "text": "Quel principe garantit la même loi pour tous les citoyens ?",
+    "answers": ["Le privilège", "La tradition", "L’égalité devant la loi", "Le droit divin"],
+    "correctIndex": 2
   },
   {
     "id": "q162",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a débuté la Révolution française ?",
-    "answers": [
-      "1792",
-      "1776",
-      "1789",
-      "1804"
-    ],
-    "correctIndex": 2
+    "text": "Quel événement conduit à l’exécution de Louis XVI ?",
+    "answers": ["La Constitution", "La prise de la Bastille", "La fuite à Varennes", "Le procès du roi"],
+    "correctIndex": 3
   },
+
   {
     "id": "q163",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "La croix de Lorraine",
-      "Le bonnet phrygien",
-      "La fleur de lys",
-      "La cocarde blanche"
-    ],
-    "correctIndex": 1
+    "text": "Quel idéal politique défend la participation du peuple au pouvoir ?",
+    "answers": ["La démocratie", "La monarchie", "L’oligarchie", "La théocratie"],
+    "correctIndex": 0
   },
   {
     "id": "q164",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel leader a dirigé la révolution chinoise de 1949 ?",
-    "answers": [
-      "Deng Xiaoping",
-      "Chiang Kai-shek",
-      "Sun Yat-sen",
-      "Mao Zedong"
-    ],
-    "correctIndex": 3
+    "text": "Quel groupe politique défend une Révolution modérée ?",
+    "answers": ["Les Jacobins", "Les Girondins", "Les Montagnards", "Les royalistes"],
+    "correctIndex": 1
   },
+
   {
     "id": "q165",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quelle révolution américaine a eu lieu en 1776 ?",
-    "answers": [
-      "La Constitution",
-      "La Déclaration d'indépendance",
-      "La Boston Tea Party",
-      "La Guerre de Sécession"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe met fin à la société d’ordres ?",
+    "answers": ["La hiérarchie", "Le privilège", "L’égalité juridique", "La tradition"],
+    "correctIndex": 2
   },
   {
     "id": "q166",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel mouvement a renversé le Shah d'Iran en 1979 ?",
-    "answers": [
-      "Révolution blanche",
-      "Révolution islamique",
-      "Révolution verte",
-      "Révolution rouge"
-    ],
-    "correctIndex": 1
+    "text": "Quelle ville devient le centre du pouvoir révolutionnaire ?",
+    "answers": ["Versailles", "Orléans", "Reims", "Paris"],
+    "correctIndex": 3
   },
+
   {
     "id": "q167",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quelle révolution américaine a eu lieu en 1776 ?",
-    "answers": [
-      "La Déclaration d'indépendance",
-      "La Boston Tea Party",
-      "La Constitution",
-      "La Guerre de Sécession"
-    ],
+    "text": "Quel idéal est associé à la liberté de pensée ?",
+    "answers": ["La liberté d’opinion", "La censure", "La soumission", "La hiérarchie"],
     "correctIndex": 0
   },
   {
     "id": "q168",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quelle révolution américaine a eu lieu en 1776 ?",
-    "answers": [
-      "La Boston Tea Party",
-      "La Guerre de Sécession",
-      "La Constitution",
-      "La Déclaration d'indépendance"
-    ],
-    "correctIndex": 3
+    "text": "Quel organe gouverne la France pendant la Terreur ?",
+    "answers": ["Le Sénat", "Le Comité de salut public", "Le Conseil royal", "L’Assemblée constituante"],
+    "correctIndex": 1
   },
+
   {
     "id": "q169",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel pays a connu une révolution en 1917 ?",
-    "answers": [
-      "Cuba",
-      "Russie",
-      "Chine",
-      "France"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe touche l’organisation de la justice après 1789 ?",
+    "answers": ["La justice royale", "Les privilèges judiciaires", "L’égalité devant la loi", "La suppression des tribunaux"],
+    "correctIndex": 2
   },
   {
     "id": "q170",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début de la Révolution française ?",
-    "answers": [
-      "La proclamation de la République",
-      "La fuite de Varennes",
-      "La prise de la Bastille",
-      "L'exécution de Louis XVI"
-    ],
-    "correctIndex": 2
+    "text": "Quel symbole est détruit pour affirmer la souveraineté du peuple ?",
+    "answers": ["Versailles", "Le Louvre", "Les Tuileries", "La Bastille"],
+    "correctIndex": 3
   },
+
   {
     "id": "q171",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quelle révolution américaine a eu lieu en 1776 ?",
-    "answers": [
-      "La Boston Tea Party",
-      "La Constitution",
-      "La Guerre de Sécession",
-      "La Déclaration d'indépendance"
-    ],
-    "correctIndex": 3
+    "text": "Quel idéal vise à unir les citoyens entre eux ?",
+    "answers": ["La fraternité", "La domination", "La hiérarchie", "La soumission"],
+    "correctIndex": 0
   },
   {
     "id": "q172",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a débuté la Révolution française ?",
-    "answers": [
-      "1792",
-      "1776",
-      "1804",
-      "1789"
-    ],
-    "correctIndex": 3
+    "text": "Quel texte établit la première Constitution française ?",
+    "answers": ["La Déclaration des droits", "La Constitution de 1791", "Le Code civil", "La Charte royale"],
+    "correctIndex": 1
   },
+
   {
     "id": "q173",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a débuté la Révolution française ?",
-    "answers": [
-      "1776",
-      "1792",
-      "1789",
-      "1804"
-    ],
+    "text": "Quel principe politique remplace le droit divin du roi ?",
+    "answers": ["L’absolutisme", "La monarchie", "La souveraineté nationale", "La théocratie"],
     "correctIndex": 2
   },
   {
     "id": "q174",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a débuté la Révolution française ?",
-    "answers": [
-      "1804",
-      "1792",
-      "1789",
-      "1776"
-    ],
-    "correctIndex": 2
+    "text": "Quel événement marque la proclamation de la République ?",
+    "answers": ["La prise de la Bastille", "La fuite à Varennes", "La Constitution", "Le 21 septembre 1792"],
+    "correctIndex": 3
   },
+
   {
     "id": "q175",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel leader a dirigé la révolution chinoise de 1949 ?",
-    "answers": [
-      "Sun Yat-sen",
-      "Deng Xiaoping",
-      "Mao Zedong",
-      "Chiang Kai-shek"
-    ],
-    "correctIndex": 2
+    "text": "Quel idéal garantit la liberté de conscience ?",
+    "answers": ["La liberté religieuse", "La censure", "La tradition", "L’obéissance"],
+    "correctIndex": 0
   },
   {
     "id": "q176",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel pays a connu une révolution en 1917 ?",
-    "answers": [
-      "France",
-      "Russie",
-      "Cuba",
-      "Chine"
-    ],
+    "text": "Quel groupe devient politiquement dominant après 1789 ?",
+    "answers": ["La noblesse", "La bourgeoisie", "Le clergé", "La monarchie"],
     "correctIndex": 1
   },
+
   {
     "id": "q177",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel pays a connu une révolution en 1917 ?",
-    "answers": [
-      "Cuba",
-      "France",
-      "Russie",
-      "Chine"
-    ],
+    "text": "Quel principe est durablement inscrit dans la société française ?",
+    "answers": ["Le privilège", "La tradition", "L’égalité des citoyens", "Le droit divin"],
     "correctIndex": 2
   },
   {
     "id": "q178",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début de la Révolution française ?",
-    "answers": [
-      "L'exécution de Louis XVI",
-      "La proclamation de la République",
-      "La fuite de Varennes",
-      "La prise de la Bastille"
-    ],
+    "text": "Quel régime succède directement au Directoire ?",
+    "answers": ["La monarchie", "La République", "L’Empire", "Le Consulat"],
     "correctIndex": 3
   },
+
   {
     "id": "q179",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "Le bonnet phrygien",
-      "La fleur de lys",
-      "La cocarde blanche",
-      "La croix de Lorraine"
-    ],
+    "text": "Quel idéal protège les libertés fondamentales ?",
+    "answers": ["La liberté", "La tradition", "La hiérarchie", "Le privilège"],
     "correctIndex": 0
   },
   {
     "id": "q180",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la Révolution des Œillets au Portugal ?",
-    "answers": [
-      "1980",
-      "1974",
-      "1972",
-      "1976"
-    ],
+    "text": "Quel texte inspire les démocraties modernes ?",
+    "answers": ["Le Code civil", "La Déclaration des droits de l’Homme", "La Constitution impériale", "La Charte royale"],
     "correctIndex": 1
   },
+
   {
     "id": "q181",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "La fleur de lys",
-      "Le bonnet phrygien",
-      "La cocarde blanche",
-      "La croix de Lorraine"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe met fin aux distinctions de naissance ?",
+    "answers": ["La hiérarchie", "Le privilège", "L’égalité", "La tradition"],
+    "correctIndex": 2
   },
   {
     "id": "q182",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel pays a connu une révolution en 1917 ?",
-    "answers": [
-      "Cuba",
-      "Russie",
-      "Chine",
-      "France"
-    ],
-    "correctIndex": 1
+    "text": "Quel événement est célébré comme fête nationale en France ?",
+    "answers": ["La proclamation de la République", "La chute de Robespierre", "La Constitution", "Le 14 juillet"],
+    "correctIndex": 3
   },
+
   {
     "id": "q183",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "La cocarde blanche",
-      "Le bonnet phrygien",
-      "La fleur de lys",
-      "La croix de Lorraine"
-    ],
-    "correctIndex": 1
+    "text": "Quel idéal structure la citoyenneté moderne ?",
+    "answers": ["L’égalité civique", "La noblesse", "La hiérarchie", "Le privilège"],
+    "correctIndex": 0
   },
   {
     "id": "q184",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quelle révolution américaine a eu lieu en 1776 ?",
-    "answers": [
-      "La Déclaration d'indépendance",
-      "La Constitution",
-      "La Guerre de Sécession",
-      "La Boston Tea Party"
-    ],
-    "correctIndex": 0
+    "text": "Quel symbole représente la souveraineté du peuple ?",
+    "answers": ["La couronne", "Le drapeau tricolore", "Le sceptre", "Le lys"],
+    "correctIndex": 1
   },
+
   {
     "id": "q185",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel pays a connu une révolution en 1917 ?",
-    "answers": [
-      "Cuba",
-      "France",
-      "Chine",
-      "Russie"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe garantit la même loi pour tous ?",
+    "answers": ["La tradition", "Le privilège", "L’égalité juridique", "Le droit divin"],
+    "correctIndex": 2
   },
   {
     "id": "q186",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Qui a mené la révolution cubaine en 1959 ?",
-    "answers": [
-      "Fidel Castro",
-      "Camilo Cienfuegos",
-      "Raúl Castro",
-      "Che Guevara"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement marque la fin définitive de la Révolution française ?",
+    "answers": ["La Terreur", "Le Directoire", "La République", "Le coup d’État de Bonaparte"],
+    "correctIndex": 3
   },
+
   {
     "id": "q187",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a débuté la Révolution française ?",
-    "answers": [
-      "1789",
-      "1776",
-      "1792",
-      "1804"
-    ],
+    "text": "Quel idéal défend la liberté individuelle et collective ?",
+    "answers": ["La liberté", "La censure", "La soumission", "La tradition"],
     "correctIndex": 0
   },
   {
     "id": "q188",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quelle révolution américaine a eu lieu en 1776 ?",
-    "answers": [
-      "La Boston Tea Party",
-      "La Guerre de Sécession",
-      "La Constitution",
-      "La Déclaration d'indépendance"
-    ],
-    "correctIndex": 3
+    "text": "Quel événement marque la chute de Robespierre ?",
+    "answers": ["La prise de la Bastille", "Le 9 Thermidor", "La Constitution de 1791", "Le Consulat"],
+    "correctIndex": 1
   },
+
   {
     "id": "q189",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Qui a mené la révolution cubaine en 1959 ?",
-    "answers": [
-      "Raúl Castro",
-      "Fidel Castro",
-      "Che Guevara",
-      "Camilo Cienfuegos"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe juridique est hérité durablement de la Révolution ?",
+    "answers": ["Le privilège", "La tradition", "L’égalité devant la loi", "Le droit divin"],
+    "correctIndex": 2
   },
   {
     "id": "q190",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "Le bonnet phrygien",
-      "La cocarde blanche",
-      "La croix de Lorraine",
-      "La fleur de lys"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement marque la prise du pouvoir par Napoléon ?",
+    "answers": ["La Terreur", "La Convention", "Le Directoire", "Le coup d’État du 18 Brumaire"],
+    "correctIndex": 3
   },
+
   {
     "id": "q191",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "La cocarde blanche",
-      "Le bonnet phrygien",
-      "La croix de Lorraine",
-      "La fleur de lys"
-    ],
-    "correctIndex": 1
+    "text": "Quel idéal inspire encore les institutions françaises actuelles ?",
+    "answers": ["Liberté, Égalité, Fraternité", "Foi et roi", "Empire et ordre", "Tradition et autorité"],
+    "correctIndex": 0
   },
   {
     "id": "q192",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel événement marque le début de la Révolution française ?",
-    "answers": [
-      "La fuite de Varennes",
-      "La proclamation de la République",
-      "L'exécution de Louis XVI",
-      "La prise de la Bastille"
-    ],
-    "correctIndex": 3
+    "text": "Quel texte fonde la citoyenneté moderne en France ?",
+    "answers": ["Le Code civil", "La Déclaration des droits de l’Homme", "La Constitution impériale", "La Charte royale"],
+    "correctIndex": 1
   },
+
   {
     "id": "q193",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Qui était roi de France au début de la Révolution française ?",
-    "answers": [
-      "Charles X",
-      "Louis XVI",
-      "Louis XV",
-      "Napoléon Ier"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe assure l’égalité des citoyens devant la justice ?",
+    "answers": ["Le privilège", "La tradition", "L’égalité devant la loi", "La hiérarchie"],
+    "correctIndex": 2
   },
   {
     "id": "q194",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Qui était roi de France au début de la Révolution française ?",
-    "answers": [
-      "Napoléon Ier",
-      "Charles X",
-      "Louis XVI",
-      "Louis XV"
-    ],
-    "correctIndex": 2
+    "text": "Quel régime est instauré après le coup d’État de 1799 ?",
+    "answers": ["La monarchie", "La République", "L’Empire", "Le Consulat"],
+    "correctIndex": 3
   },
+
   {
     "id": "q195",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a débuté la Révolution française ?",
-    "answers": [
-      "1776",
-      "1792",
-      "1804",
-      "1789"
-    ],
-    "correctIndex": 3
+    "text": "Quel idéal garantit la liberté politique moderne ?",
+    "answers": ["La liberté", "La tradition", "La hiérarchie", "Le privilège"],
+    "correctIndex": 0
   },
   {
     "id": "q196",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel leader a dirigé la révolution chinoise de 1949 ?",
-    "answers": [
-      "Mao Zedong",
-      "Sun Yat-sen",
-      "Deng Xiaoping",
-      "Chiang Kai-shek"
-    ],
-    "correctIndex": 0
+    "text": "Quel symbole national remplace les armoiries royales ?",
+    "answers": ["Le lys", "Le drapeau tricolore", "La couronne", "Le sceptre"],
+    "correctIndex": 1
   },
+
   {
     "id": "q197",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel pays a connu une révolution en 1917 ?",
-    "answers": [
-      "Russie",
-      "Chine",
-      "Cuba",
-      "France"
-    ],
-    "correctIndex": 0
+    "text": "Quel principe met fin à l’arbitraire royal ?",
+    "answers": ["La soumission", "La tradition", "L’état de droit", "Le droit divin"],
+    "correctIndex": 2
   },
   {
     "id": "q198",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "Quel leader a dirigé la révolution chinoise de 1949 ?",
-    "answers": [
-      "Deng Xiaoping",
-      "Chiang Kai-shek",
-      "Mao Zedong",
-      "Sun Yat-sen"
-    ],
-    "correctIndex": 2
+    "text": "Quel événement marque l’instauration du Consulat ?",
+    "answers": ["La Terreur", "La Convention", "Le Directoire", "Le 18 Brumaire"],
+    "correctIndex": 3
   },
+
   {
     "id": "q199",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la Révolution des Œillets au Portugal ?",
-    "answers": [
-      "1976",
-      "1974",
-      "1980",
-      "1972"
-    ],
-    "correctIndex": 1
+    "text": "Quel idéal politique fonde la démocratie moderne ?",
+    "answers": ["La liberté", "La tradition", "L’absolutisme", "La féodalité"],
+    "correctIndex": 0
   },
   {
     "id": "q200",
     "category": "Révolution",
     "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la Révolution des Œillets au Portugal ?",
-    "answers": [
-      "1980",
-      "1976",
-      "1974",
-      "1972"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q201",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "Le bonnet phrygien",
-      "La croix de Lorraine",
-      "La cocarde blanche",
-      "La fleur de lys"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q202",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Qui était roi de France au début de la Révolution française ?",
-    "answers": [
-      "Napoléon Ier",
-      "Louis XV",
-      "Charles X",
-      "Louis XVI"
-    ],
+    "text": "Quel héritage principal de la Révolution française demeure aujourd’hui ?",
+    "answers": ["La monarchie", "Les privilèges", "Le pouvoir absolu", "Les droits fondamentaux"],
     "correctIndex": 3
-  },
-  {
-    "id": "q203",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel événement marque le début de la Révolution française ?",
-    "answers": [
-      "La fuite de Varennes",
-      "L'exécution de Louis XVI",
-      "La prise de la Bastille",
-      "La proclamation de la République"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q204",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "La croix de Lorraine",
-      "La fleur de lys",
-      "Le bonnet phrygien",
-      "La cocarde blanche"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q205",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel leader a dirigé la révolution chinoise de 1949 ?",
-    "answers": [
-      "Chiang Kai-shek",
-      "Mao Zedong",
-      "Deng Xiaoping",
-      "Sun Yat-sen"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q206",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel pays a connu une révolution en 1917 ?",
-    "answers": [
-      "Russie",
-      "France",
-      "Chine",
-      "Cuba"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q207",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la Révolution des Œillets au Portugal ?",
-    "answers": [
-      "1976",
-      "1972",
-      "1974",
-      "1980"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q208",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quelle révolution américaine a eu lieu en 1776 ?",
-    "answers": [
-      "La Boston Tea Party",
-      "La Déclaration d'indépendance",
-      "La Guerre de Sécession",
-      "La Constitution"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q209",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "En quelle année a débuté la Révolution française ?",
-    "answers": [
-      "1789",
-      "1776",
-      "1792",
-      "1804"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q210",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "En quelle année a débuté la Révolution française ?",
-    "answers": [
-      "1792",
-      "1776",
-      "1804",
-      "1789"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q211",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel leader a dirigé la révolution chinoise de 1949 ?",
-    "answers": [
-      "Mao Zedong",
-      "Sun Yat-sen",
-      "Chiang Kai-shek",
-      "Deng Xiaoping"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q212",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quelle révolution américaine a eu lieu en 1776 ?",
-    "answers": [
-      "La Guerre de Sécession",
-      "La Constitution",
-      "La Déclaration d'indépendance",
-      "La Boston Tea Party"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q213",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "En quelle année a débuté la Révolution française ?",
-    "answers": [
-      "1776",
-      "1804",
-      "1792",
-      "1789"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q214",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quelle révolution américaine a eu lieu en 1776 ?",
-    "answers": [
-      "La Boston Tea Party",
-      "La Constitution",
-      "La Déclaration d'indépendance",
-      "La Guerre de Sécession"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q215",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Qui était roi de France au début de la Révolution française ?",
-    "answers": [
-      "Napoléon Ier",
-      "Charles X",
-      "Louis XVI",
-      "Louis XV"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q216",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Qui a mené la révolution cubaine en 1959 ?",
-    "answers": [
-      "Camilo Cienfuegos",
-      "Raúl Castro",
-      "Che Guevara",
-      "Fidel Castro"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q217",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "En quelle année a débuté la Révolution française ?",
-    "answers": [
-      "1792",
-      "1789",
-      "1776",
-      "1804"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q218",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel événement marque le début de la Révolution française ?",
-    "answers": [
-      "La proclamation de la République",
-      "L'exécution de Louis XVI",
-      "La prise de la Bastille",
-      "La fuite de Varennes"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q219",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "En quelle année a débuté la Révolution française ?",
-    "answers": [
-      "1789",
-      "1792",
-      "1804",
-      "1776"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q220",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Qui était roi de France au début de la Révolution française ?",
-    "answers": [
-      "Napoléon Ier",
-      "Charles X",
-      "Louis XVI",
-      "Louis XV"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q221",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Qui était roi de France au début de la Révolution française ?",
-    "answers": [
-      "Charles X",
-      "Louis XVI",
-      "Louis XV",
-      "Napoléon Ier"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q222",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel pays a connu une révolution en 1917 ?",
-    "answers": [
-      "Cuba",
-      "France",
-      "Russie",
-      "Chine"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q223",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel mouvement a renversé le Shah d'Iran en 1979 ?",
-    "answers": [
-      "Révolution blanche",
-      "Révolution islamique",
-      "Révolution verte",
-      "Révolution rouge"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q224",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel pays a connu une révolution en 1917 ?",
-    "answers": [
-      "Chine",
-      "Cuba",
-      "France",
-      "Russie"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q225",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel pays a connu une révolution en 1917 ?",
-    "answers": [
-      "Cuba",
-      "France",
-      "Chine",
-      "Russie"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q226",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Qui a mené la révolution cubaine en 1959 ?",
-    "answers": [
-      "Camilo Cienfuegos",
-      "Raúl Castro",
-      "Che Guevara",
-      "Fidel Castro"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q227",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel leader a dirigé la révolution chinoise de 1949 ?",
-    "answers": [
-      "Deng Xiaoping",
-      "Mao Zedong",
-      "Sun Yat-sen",
-      "Chiang Kai-shek"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q228",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "En quelle année a débuté la Révolution française ?",
-    "answers": [
-      "1792",
-      "1776",
-      "1804",
-      "1789"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q229",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel pays a connu une révolution en 1917 ?",
-    "answers": [
-      "Cuba",
-      "Chine",
-      "Russie",
-      "France"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q230",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "En quelle année a débuté la Révolution française ?",
-    "answers": [
-      "1776",
-      "1789",
-      "1804",
-      "1792"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q231",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel événement marque le début de la Révolution française ?",
-    "answers": [
-      "L'exécution de Louis XVI",
-      "La proclamation de la République",
-      "La prise de la Bastille",
-      "La fuite de Varennes"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q232",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "La fleur de lys",
-      "La cocarde blanche",
-      "Le bonnet phrygien",
-      "La croix de Lorraine"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q233",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel événement marque le début de la Révolution française ?",
-    "answers": [
-      "La proclamation de la République",
-      "La fuite de Varennes",
-      "La prise de la Bastille",
-      "L'exécution de Louis XVI"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q234",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel mouvement a renversé le Shah d'Iran en 1979 ?",
-    "answers": [
-      "Révolution islamique",
-      "Révolution blanche",
-      "Révolution rouge",
-      "Révolution verte"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q235",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Qui a mené la révolution cubaine en 1959 ?",
-    "answers": [
-      "Camilo Cienfuegos",
-      "Fidel Castro",
-      "Raúl Castro",
-      "Che Guevara"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q236",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel leader a dirigé la révolution chinoise de 1949 ?",
-    "answers": [
-      "Deng Xiaoping",
-      "Sun Yat-sen",
-      "Mao Zedong",
-      "Chiang Kai-shek"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q237",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel mouvement a renversé le Shah d'Iran en 1979 ?",
-    "answers": [
-      "Révolution verte",
-      "Révolution rouge",
-      "Révolution islamique",
-      "Révolution blanche"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q238",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "La croix de Lorraine",
-      "Le bonnet phrygien",
-      "La fleur de lys",
-      "La cocarde blanche"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q239",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel événement marque le début de la Révolution française ?",
-    "answers": [
-      "La proclamation de la République",
-      "La prise de la Bastille",
-      "L'exécution de Louis XVI",
-      "La fuite de Varennes"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q240",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel mouvement a renversé le Shah d'Iran en 1979 ?",
-    "answers": [
-      "Révolution islamique",
-      "Révolution blanche",
-      "Révolution rouge",
-      "Révolution verte"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q241",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel mouvement a renversé le Shah d'Iran en 1979 ?",
-    "answers": [
-      "Révolution islamique",
-      "Révolution rouge",
-      "Révolution blanche",
-      "Révolution verte"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q242",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel pays a connu une révolution en 1917 ?",
-    "answers": [
-      "Chine",
-      "Cuba",
-      "France",
-      "Russie"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q243",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quelle révolution américaine a eu lieu en 1776 ?",
-    "answers": [
-      "La Déclaration d'indépendance",
-      "La Guerre de Sécession",
-      "La Constitution",
-      "La Boston Tea Party"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q244",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel pays a connu une révolution en 1917 ?",
-    "answers": [
-      "Russie",
-      "France",
-      "Chine",
-      "Cuba"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q245",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel mouvement a renversé le Shah d'Iran en 1979 ?",
-    "answers": [
-      "Révolution rouge",
-      "Révolution blanche",
-      "Révolution islamique",
-      "Révolution verte"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q246",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel événement marque le début de la Révolution française ?",
-    "answers": [
-      "La proclamation de la République",
-      "L'exécution de Louis XVI",
-      "La prise de la Bastille",
-      "La fuite de Varennes"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q247",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la Révolution des Œillets au Portugal ?",
-    "answers": [
-      "1980",
-      "1972",
-      "1974",
-      "1976"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q248",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel mouvement a renversé le Shah d'Iran en 1979 ?",
-    "answers": [
-      "Révolution islamique",
-      "Révolution verte",
-      "Révolution rouge",
-      "Révolution blanche"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q249",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Qui a mené la révolution cubaine en 1959 ?",
-    "answers": [
-      "Che Guevara",
-      "Raúl Castro",
-      "Fidel Castro",
-      "Camilo Cienfuegos"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q250",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Qui était roi de France au début de la Révolution française ?",
-    "answers": [
-      "Napoléon Ier",
-      "Louis XVI",
-      "Charles X",
-      "Louis XV"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q251",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la Révolution des Œillets au Portugal ?",
-    "answers": [
-      "1974",
-      "1972",
-      "1976",
-      "1980"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q252",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "En quelle année a débuté la Révolution française ?",
-    "answers": [
-      "1792",
-      "1789",
-      "1776",
-      "1804"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q253",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel mouvement a renversé le Shah d'Iran en 1979 ?",
-    "answers": [
-      "Révolution rouge",
-      "Révolution islamique",
-      "Révolution blanche",
-      "Révolution verte"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q254",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la Révolution des Œillets au Portugal ?",
-    "answers": [
-      "1980",
-      "1974",
-      "1972",
-      "1976"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q255",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel pays a connu une révolution en 1917 ?",
-    "answers": [
-      "Russie",
-      "Chine",
-      "Cuba",
-      "France"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q256",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel pays a connu une révolution en 1917 ?",
-    "answers": [
-      "Chine",
-      "Russie",
-      "Cuba",
-      "France"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q257",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "En quelle année a débuté la Révolution française ?",
-    "answers": [
-      "1789",
-      "1776",
-      "1804",
-      "1792"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q258",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Qui était roi de France au début de la Révolution française ?",
-    "answers": [
-      "Charles X",
-      "Louis XVI",
-      "Napoléon Ier",
-      "Louis XV"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q259",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quelle révolution américaine a eu lieu en 1776 ?",
-    "answers": [
-      "La Boston Tea Party",
-      "La Déclaration d'indépendance",
-      "La Constitution",
-      "La Guerre de Sécession"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q260",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "En quelle année a débuté la Révolution française ?",
-    "answers": [
-      "1804",
-      "1789",
-      "1792",
-      "1776"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q261",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la Révolution des Œillets au Portugal ?",
-    "answers": [
-      "1974",
-      "1972",
-      "1980",
-      "1976"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q262",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "La croix de Lorraine",
-      "Le bonnet phrygien",
-      "La cocarde blanche",
-      "La fleur de lys"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q263",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel pays a connu une révolution en 1917 ?",
-    "answers": [
-      "Chine",
-      "Russie",
-      "France",
-      "Cuba"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q264",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quelle révolution américaine a eu lieu en 1776 ?",
-    "answers": [
-      "La Constitution",
-      "La Boston Tea Party",
-      "La Déclaration d'indépendance",
-      "La Guerre de Sécession"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q265",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quelle révolution américaine a eu lieu en 1776 ?",
-    "answers": [
-      "La Boston Tea Party",
-      "La Guerre de Sécession",
-      "La Déclaration d'indépendance",
-      "La Constitution"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q266",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel leader a dirigé la révolution chinoise de 1949 ?",
-    "answers": [
-      "Chiang Kai-shek",
-      "Sun Yat-sen",
-      "Mao Zedong",
-      "Deng Xiaoping"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q267",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "En quelle année a débuté la Révolution française ?",
-    "answers": [
-      "1804",
-      "1789",
-      "1792",
-      "1776"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q268",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quelle révolution américaine a eu lieu en 1776 ?",
-    "answers": [
-      "La Déclaration d'indépendance",
-      "La Constitution",
-      "La Boston Tea Party",
-      "La Guerre de Sécession"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q269",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel événement marque le début de la Révolution française ?",
-    "answers": [
-      "La fuite de Varennes",
-      "L'exécution de Louis XVI",
-      "La proclamation de la République",
-      "La prise de la Bastille"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q270",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quelle révolution américaine a eu lieu en 1776 ?",
-    "answers": [
-      "La Constitution",
-      "La Boston Tea Party",
-      "La Guerre de Sécession",
-      "La Déclaration d'indépendance"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q271",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la Révolution des Œillets au Portugal ?",
-    "answers": [
-      "1980",
-      "1976",
-      "1972",
-      "1974"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q272",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la Révolution des Œillets au Portugal ?",
-    "answers": [
-      "1980",
-      "1974",
-      "1976",
-      "1972"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q273",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quelle révolution américaine a eu lieu en 1776 ?",
-    "answers": [
-      "La Constitution",
-      "La Guerre de Sécession",
-      "La Déclaration d'indépendance",
-      "La Boston Tea Party"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q274",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "Le bonnet phrygien",
-      "La croix de Lorraine",
-      "La cocarde blanche",
-      "La fleur de lys"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q275",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "En quelle année a débuté la Révolution française ?",
-    "answers": [
-      "1776",
-      "1789",
-      "1804",
-      "1792"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q276",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Qui a mené la révolution cubaine en 1959 ?",
-    "answers": [
-      "Che Guevara",
-      "Camilo Cienfuegos",
-      "Raúl Castro",
-      "Fidel Castro"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q277",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "La cocarde blanche",
-      "La croix de Lorraine",
-      "Le bonnet phrygien",
-      "La fleur de lys"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q278",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel pays a connu une révolution en 1917 ?",
-    "answers": [
-      "Russie",
-      "France",
-      "Chine",
-      "Cuba"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q279",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quelle révolution américaine a eu lieu en 1776 ?",
-    "answers": [
-      "La Boston Tea Party",
-      "La Guerre de Sécession",
-      "La Constitution",
-      "La Déclaration d'indépendance"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q280",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "La fleur de lys",
-      "Le bonnet phrygien",
-      "La cocarde blanche",
-      "La croix de Lorraine"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q281",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel événement marque le début de la Révolution française ?",
-    "answers": [
-      "La prise de la Bastille",
-      "L'exécution de Louis XVI",
-      "La proclamation de la République",
-      "La fuite de Varennes"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q282",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel mouvement a renversé le Shah d'Iran en 1979 ?",
-    "answers": [
-      "Révolution islamique",
-      "Révolution verte",
-      "Révolution rouge",
-      "Révolution blanche"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q283",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "En quelle année a débuté la Révolution française ?",
-    "answers": [
-      "1776",
-      "1804",
-      "1792",
-      "1789"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q284",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la Révolution des Œillets au Portugal ?",
-    "answers": [
-      "1972",
-      "1974",
-      "1976",
-      "1980"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q285",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "Le bonnet phrygien",
-      "La fleur de lys",
-      "La cocarde blanche",
-      "La croix de Lorraine"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q286",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Qui était roi de France au début de la Révolution française ?",
-    "answers": [
-      "Louis XVI",
-      "Charles X",
-      "Napoléon Ier",
-      "Louis XV"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q287",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la Révolution des Œillets au Portugal ?",
-    "answers": [
-      "1976",
-      "1972",
-      "1980",
-      "1974"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q288",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "La fleur de lys",
-      "Le bonnet phrygien",
-      "La cocarde blanche",
-      "La croix de Lorraine"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q289",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "La croix de Lorraine",
-      "Le bonnet phrygien",
-      "La cocarde blanche",
-      "La fleur de lys"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q290",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "En quelle année a eu lieu la Révolution des Œillets au Portugal ?",
-    "answers": [
-      "1974",
-      "1980",
-      "1976",
-      "1972"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q291",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "La croix de Lorraine",
-      "La cocarde blanche",
-      "Le bonnet phrygien",
-      "La fleur de lys"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q292",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quelle révolution américaine a eu lieu en 1776 ?",
-    "answers": [
-      "La Guerre de Sécession",
-      "La Déclaration d'indépendance",
-      "La Boston Tea Party",
-      "La Constitution"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q293",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "En quelle année a débuté la Révolution française ?",
-    "answers": [
-      "1792",
-      "1776",
-      "1789",
-      "1804"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q294",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Qui a mené la révolution cubaine en 1959 ?",
-    "answers": [
-      "Che Guevara",
-      "Raúl Castro",
-      "Camilo Cienfuegos",
-      "Fidel Castro"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q295",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel leader a dirigé la révolution chinoise de 1949 ?",
-    "answers": [
-      "Deng Xiaoping",
-      "Sun Yat-sen",
-      "Chiang Kai-shek",
-      "Mao Zedong"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q296",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "La fleur de lys",
-      "Le bonnet phrygien",
-      "La cocarde blanche",
-      "La croix de Lorraine"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q297",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel mouvement a renversé le Shah d'Iran en 1979 ?",
-    "answers": [
-      "Révolution blanche",
-      "Révolution islamique",
-      "Révolution verte",
-      "Révolution rouge"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q298",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel symbole est associé à la Révolution française ?",
-    "answers": [
-      "Le bonnet phrygien",
-      "La croix de Lorraine",
-      "La fleur de lys",
-      "La cocarde blanche"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q299",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Qui était roi de France au début de la Révolution française ?",
-    "answers": [
-      "Louis XVI",
-      "Louis XV",
-      "Charles X",
-      "Napoléon Ier"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q300",
-    "category": "Révolution",
-    "difficulty": "Facile",
-    "text": "Quel mouvement a renversé le Shah d'Iran en 1979 ?",
-    "answers": [
-      "Révolution islamique",
-      "Révolution blanche",
-      "Révolution rouge",
-      "Révolution verte"
-    ],
-    "correctIndex": 0
   }
 ]
