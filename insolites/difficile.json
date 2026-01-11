@@ -3,3900 +3,1616 @@
     "id": "q1",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel pays n'a pas d'armée officielle ?",
-    "answers": [
-      "Islande",
-      "Costa Rica",
-      "Vatican",
-      "Monaco"
-    ],
+    "text": "Quel phénomène physique explique la résistance ressentie par un objet se déplaçant dans un fluide ?",
+    "answers": ["Traînée", "Portance", "Poussée", "Inertie"],
     "correctIndex": 0
   },
   {
     "id": "q2",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Mercure",
-      "Gallium",
-      "Plomb",
-      "Césium"
-    ],
-    "correctIndex": 0
+    "text": "Quel organe humain consomme proportionnellement le plus d’oxygène au repos ?",
+    "answers": ["Cœur", "Cerveau", "Foie", "Poumons"],
+    "correctIndex": 1
   },
   {
     "id": "q3",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Plomb",
-      "Gallium",
-      "Césium",
-      "Mercure"
-    ],
-    "correctIndex": 3
+    "text": "Quel élément chimique possède le numéro atomique 79 ?",
+    "answers": ["Argent", "Platine", "Or", "Mercure"],
+    "correctIndex": 2
   },
   {
     "id": "q4",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel animal peut survivre dans l'espace ?",
-    "answers": [
-      "Fourmi",
-      "Araignée",
-      "Scarabée",
-      "Tardigrade"
-    ],
+    "text": "Quel animal est capable de survivre à une congélation partielle de son corps ?",
+    "answers": ["Serpent", "Grenouille des bois", "Tortue", "Salamandre"],
     "correctIndex": 3
   },
   {
     "id": "q5",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
-    "answers": [
-      "New Horizons",
-      "Pioneer 10",
-      "Hubble",
-      "Voyager 1"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe physique permet aux satellites de rester en orbite autour de la Terre ?",
+    "answers": ["Équilibre entre vitesse et gravité", "Champ magnétique terrestre", "Absence d’air", "Rotation terrestre"],
+    "correctIndex": 0
   },
   {
     "id": "q6",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est le sport le plus pratiqué au monde ?",
-    "answers": [
-      "Tennis",
-      "Cricket",
-      "Football",
-      "Basketball"
-    ],
-    "correctIndex": 2
+    "text": "Quel organe humain est responsable de la synthèse de la majorité des protéines sanguines ?",
+    "answers": ["Rate", "Foie", "Moelle osseuse", "Pancréas"],
+    "correctIndex": 1
   },
   {
     "id": "q7",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Gallium",
-      "Mercure",
-      "Plomb",
-      "Césium"
-    ],
-    "correctIndex": 1
+    "text": "Quel type de rayonnement est principalement utilisé dans les fours à micro-ondes ?",
+    "answers": ["Infrarouge", "Ultraviolet", "Micro-ondes", "Rayons X"],
+    "correctIndex": 2
   },
   {
     "id": "q8",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel animal peut survivre dans l'espace ?",
-    "answers": [
-      "Araignée",
-      "Tardigrade",
-      "Scarabée",
-      "Fourmi"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal possède le plus grand nombre de neurones en dehors du cerveau ?",
+    "answers": ["Dauphin", "Pieuvre", "Éléphant", "Calmar géant"],
+    "correctIndex": 3
   },
   {
     "id": "q9",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Gallium",
-      "Plomb",
-      "Césium",
-      "Mercure"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène explique la dilatation des métaux lorsqu’ils sont chauffés ?",
+    "answers": ["Agitation thermique", "Oxydation", "Ionisation", "Fusion"],
+    "correctIndex": 0
   },
   {
     "id": "q10",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel pays possède la plus longue côte maritime au monde ?",
-    "answers": [
-      "Canada",
-      "Indonésie",
-      "Australie",
-      "Russie"
-    ],
-    "correctIndex": 0
+    "text": "Quel organe humain est le principal producteur de chaleur corporelle ?",
+    "answers": ["Peau", "Muscles", "Foie", "Cerveau"],
+    "correctIndex": 1
   },
+
   {
     "id": "q11",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel pays n'a pas d'armée officielle ?",
-    "answers": [
-      "Costa Rica",
-      "Islande",
-      "Monaco",
-      "Vatican"
-    ],
-    "correctIndex": 1
+    "text": "Quel élément chimique est indispensable à la respiration cellulaire humaine ?",
+    "answers": ["Carbone", "Hydrogène", "Oxygène", "Azote"],
+    "correctIndex": 2
   },
   {
     "id": "q12",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Gallium",
-      "Mercure",
-      "Césium",
-      "Plomb"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal peut détecter des champs électriques produits par ses proies ?",
+    "answers": ["Dauphin", "Baleine", "Raie", "Requin"],
+    "correctIndex": 3
   },
   {
     "id": "q13",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel animal peut survivre dans l'espace ?",
-    "answers": [
-      "Tardigrade",
-      "Scarabée",
-      "Fourmi",
-      "Araignée"
-    ],
+    "text": "Quel principe explique que l’eau bout à une température plus basse en altitude ?",
+    "answers": ["Baisse de la pression atmosphérique", "Manque d’oxygène", "Variation de gravité", "Humidité de l’air"],
     "correctIndex": 0
   },
   {
     "id": "q14",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
-    "answers": [
-      "Drosera",
-      "Utricularia",
-      "Dionée",
-      "Nepenthes"
-    ],
-    "correctIndex": 3
+    "text": "Quel organe humain joue un rôle clé dans la réponse immunitaire adaptative ?",
+    "answers": ["Foie", "Rate", "Thymus", "Reins"],
+    "correctIndex": 1
   },
   {
     "id": "q15",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel pays n'a pas d'armée officielle ?",
-    "answers": [
-      "Islande",
-      "Monaco",
-      "Costa Rica",
-      "Vatican"
-    ],
-    "correctIndex": 0
+    "text": "Quel type de liaison chimique maintient ensemble les molécules d’eau ?",
+    "answers": ["Ionique", "Covalente", "Hydrogène", "Métallique"],
+    "correctIndex": 2
   },
   {
     "id": "q16",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel pays possède la plus longue côte maritime au monde ?",
-    "answers": [
-      "Australie",
-      "Indonésie",
-      "Russie",
-      "Canada"
-    ],
+    "text": "Quel animal est capable de régénérer une partie de son cerveau ?",
+    "answers": ["Grenouille", "Poisson-zèbre", "Axolotl", "Salamandre"],
     "correctIndex": 3
   },
   {
     "id": "q17",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
-    "answers": [
-      "Antilope",
-      "Lion",
-      "Lévrier",
-      "Guépard"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène permet la transmission de la chaleur dans le vide ?",
+    "answers": ["Rayonnement", "Conduction", "Convection", "Diffusion"],
+    "correctIndex": 0
   },
   {
     "id": "q18",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel pays possède la plus longue côte maritime au monde ?",
-    "answers": [
-      "Canada",
-      "Indonésie",
-      "Russie",
-      "Australie"
-    ],
-    "correctIndex": 0
+    "text": "Quel organe humain est responsable de la production de la majorité des enzymes digestives ?",
+    "answers": ["Estomac", "Pancréas", "Foie", "Intestin grêle"],
+    "correctIndex": 1
   },
   {
     "id": "q19",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel pays possède la plus longue côte maritime au monde ?",
-    "answers": [
-      "Indonésie",
-      "Australie",
-      "Russie",
-      "Canada"
-    ],
-    "correctIndex": 3
+    "text": "Quel élément chimique est utilisé comme modérateur dans certains réacteurs nucléaires ?",
+    "answers": ["Uranium", "Plutonium", "Carbone", "Thorium"],
+    "correctIndex": 2
   },
   {
     "id": "q20",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
-    "answers": [
-      "New Horizons",
-      "Voyager 1",
-      "Pioneer 10",
-      "Hubble"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal est connu pour utiliser des outils dans la nature ?",
+    "answers": ["Chien", "Chat", "Loutre", "Renard"],
+    "correctIndex": 3
   },
+
   {
     "id": "q21",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
-    "answers": [
-      "Voyager 1",
-      "New Horizons",
-      "Hubble",
-      "Pioneer 10"
-    ],
+    "text": "Quel principe physique explique la flottaison d’un iceberg ?",
+    "answers": ["Poussée d’Archimède", "Pression atmosphérique", "Inertie", "Gravité inverse"],
     "correctIndex": 0
   },
   {
     "id": "q22",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
-    "answers": [
-      "Pioneer 10",
-      "New Horizons",
-      "Hubble",
-      "Voyager 1"
-    ],
-    "correctIndex": 3
+    "text": "Quel organe humain stocke principalement la vitamine B12 ?",
+    "answers": ["Rate", "Foie", "Reins", "Pancréas"],
+    "correctIndex": 1
   },
   {
     "id": "q23",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'aliment le plus calorique au monde ?",
-    "answers": [
-      "Huile",
-      "Beurre",
-      "Fromage",
-      "Chocolat"
-    ],
-    "correctIndex": 0
+    "text": "Quel type de particule subatomique possède une charge négative ?",
+    "answers": ["Proton", "Neutron", "Électron", "Positron"],
+    "correctIndex": 2
   },
   {
     "id": "q24",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel pays n'a pas d'armée officielle ?",
-    "answers": [
-      "Costa Rica",
-      "Vatican",
-      "Islande",
-      "Monaco"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal est capable de survivre à des doses de radiation mortelles pour l’humain ?",
+    "answers": ["Fourmi", "Scarabée", "Cafard", "Tardigrade"],
+    "correctIndex": 3
   },
   {
     "id": "q25",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est le sport le plus pratiqué au monde ?",
-    "answers": [
-      "Football",
-      "Tennis",
-      "Basketball",
-      "Cricket"
-    ],
+    "text": "Quel phénomène explique la déviation des vents à la surface de la Terre ?",
+    "answers": ["Effet Coriolis", "Gravitation", "Pression thermique", "Marées atmosphériques"],
     "correctIndex": 0
   },
   {
     "id": "q26",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
-    "answers": [
-      "Lévrier",
-      "Lion",
-      "Antilope",
-      "Guépard"
-    ],
-    "correctIndex": 3
+    "text": "Quel organe humain est capable de produire de nouvelles cellules tout au long de la vie ?",
+    "answers": ["Cerveau", "Moelle osseuse", "Cœur", "Poumons"],
+    "correctIndex": 1
   },
   {
     "id": "q27",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'aliment le plus calorique au monde ?",
-    "answers": [
-      "Beurre",
-      "Chocolat",
-      "Huile",
-      "Fromage"
-    ],
+    "text": "Quel élément chimique est essentiel à la transmission de l’influx nerveux ?",
+    "answers": ["Calcium", "Magnésium", "Sodium", "Fer"],
     "correctIndex": 2
   },
   {
     "id": "q28",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
-    "answers": [
-      "Lévrier",
-      "Antilope",
-      "Guépard",
-      "Lion"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal est capable de modifier la structure de sa peau pour mieux se camoufler ?",
+    "answers": ["Caméléon", "Seiche", "Poulpe", "Calmar"],
+    "correctIndex": 3
   },
   {
     "id": "q29",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel pays n'a pas d'armée officielle ?",
-    "answers": [
-      "Islande",
-      "Costa Rica",
-      "Monaco",
-      "Vatican"
-    ],
+    "text": "Quel phénomène permet la propagation des ondes radio sur de longues distances ?",
+    "answers": ["Réflexion ionosphérique", "Diffraction", "Conduction", "Absorption"],
     "correctIndex": 0
   },
   {
     "id": "q30",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Plomb",
-      "Césium",
-      "Mercure",
-      "Gallium"
-    ],
-    "correctIndex": 2
+    "text": "Quel organe humain est responsable de la production du facteur de coagulation ?",
+    "answers": ["Rate", "Foie", "Moelle osseuse", "Poumons"],
+    "correctIndex": 1
   },
+
   {
     "id": "q31",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
-    "answers": [
-      "Hubble",
-      "New Horizons",
-      "Voyager 1",
-      "Pioneer 10"
-    ],
+    "text": "Quel élément chimique est utilisé dans les panneaux solaires à base de silicium ?",
+    "answers": ["Aluminium", "Germanium", "Silicium", "Cuivre"],
     "correctIndex": 2
   },
   {
     "id": "q32",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel animal pond les plus gros œufs ?",
-    "answers": [
-      "Aigle",
-      "Tortue luth",
-      "Autruche",
-      "Manchot empereur"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal est capable de percevoir la lumière ultraviolette ?",
+    "answers": ["Chien", "Chat", "Aigle", "Abeille"],
+    "correctIndex": 3
   },
   {
     "id": "q33",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
-    "answers": [
-      "Pioneer 10",
-      "New Horizons",
-      "Hubble",
-      "Voyager 1"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène explique la formation d’un arc-en-ciel ?",
+    "answers": ["Réfraction et réflexion", "Diffraction seule", "Absorption lumineuse", "Polarisation"],
+    "correctIndex": 0
   },
   {
     "id": "q34",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est le sport le plus pratiqué au monde ?",
-    "answers": [
-      "Cricket",
-      "Basketball",
-      "Tennis",
-      "Football"
-    ],
-    "correctIndex": 3
+    "text": "Quel organe humain est le principal site de l’absorption des nutriments ?",
+    "answers": ["Estomac", "Intestin grêle", "Côlon", "Foie"],
+    "correctIndex": 1
   },
   {
     "id": "q35",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Plomb",
-      "Gallium",
-      "Mercure",
-      "Césium"
-    ],
+    "text": "Quel type de particule est responsable de la radioactivité bêta ?",
+    "answers": ["Proton", "Neutron", "Électron", "Photon"],
     "correctIndex": 2
   },
   {
     "id": "q36",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
-    "answers": [
-      "Voyager 1",
-      "New Horizons",
-      "Hubble",
-      "Pioneer 10"
-    ],
-    "correctIndex": 0
+    "text": "Quel animal possède un système circulatoire ouvert ?",
+    "answers": ["Poisson", "Oiseau", "Reptile", "Insecte"],
+    "correctIndex": 3
   },
   {
     "id": "q37",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'aliment le plus calorique au monde ?",
-    "answers": [
-      "Beurre",
-      "Huile",
-      "Chocolat",
-      "Fromage"
-    ],
-    "correctIndex": 1
+    "text": "Quel phénomène permet aux lasers d’émettre une lumière cohérente ?",
+    "answers": ["Émission stimulée", "Rayonnement thermique", "Ionisation", "Fluorescence"],
+    "correctIndex": 0
   },
   {
     "id": "q38",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel animal pond les plus gros œufs ?",
-    "answers": [
-      "Manchot empereur",
-      "Autruche",
-      "Tortue luth",
-      "Aigle"
-    ],
+    "text": "Quel organe humain est responsable de la production des hormones thyroïdiennes ?",
+    "answers": ["Hypophyse", "Thyroïde", "Pancréas", "Surrénales"],
     "correctIndex": 1
   },
   {
     "id": "q39",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
-    "answers": [
-      "Lévrier",
-      "Lion",
-      "Antilope",
-      "Guépard"
-    ],
-    "correctIndex": 3
+    "text": "Quel élément chimique est majoritaire dans la composition du Soleil ?",
+    "answers": ["Hélium", "Carbone", "Hydrogène", "Oxygène"],
+    "correctIndex": 2
   },
   {
     "id": "q40",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel animal peut survivre dans l'espace ?",
-    "answers": [
-      "Tardigrade",
-      "Araignée",
-      "Fourmi",
-      "Scarabée"
-    ],
-    "correctIndex": 0
+    "text": "Quel animal est capable de se cloner naturellement par reproduction asexuée ?",
+    "answers": ["Étoile de mer", "Méduse", "Ver planaire", "Corail"],
+    "correctIndex": 3
   },
+
   {
     "id": "q41",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel pays n'a pas d'armée officielle ?",
-    "answers": [
-      "Islande",
-      "Costa Rica",
-      "Monaco",
-      "Vatican"
-    ],
+    "text": "Quel phénomène explique l’écrasement des objets sous l’eau à grande profondeur ?",
+    "answers": ["Pression hydrostatique", "Gravité accrue", "Densité lumineuse", "Friction"],
     "correctIndex": 0
   },
   {
     "id": "q42",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'aliment le plus calorique au monde ?",
-    "answers": [
-      "Huile",
-      "Fromage",
-      "Chocolat",
-      "Beurre"
-    ],
-    "correctIndex": 0
+    "text": "Quel organe humain est responsable de la production de la mélatonine ?",
+    "answers": ["Hypothalamus", "Glande pinéale", "Thyroïde", "Hypophyse"],
+    "correctIndex": 1
   },
   {
     "id": "q43",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel animal peut survivre dans l'espace ?",
-    "answers": [
-      "Fourmi",
-      "Araignée",
-      "Tardigrade",
-      "Scarabée"
-    ],
+    "text": "Quel type de force maintient les planètes en orbite autour du Soleil ?",
+    "answers": ["Électromagnétique", "Nucléaire", "Gravitationnelle", "Centrifuge"],
     "correctIndex": 2
   },
   {
     "id": "q44",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel pays possède la plus longue côte maritime au monde ?",
-    "answers": [
-      "Indonésie",
-      "Russie",
-      "Canada",
-      "Australie"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal est capable de détecter des variations infimes de pression atmosphérique ?",
+    "answers": ["Chien", "Chat", "Cheval", "Pigeon"],
+    "correctIndex": 3
   },
   {
     "id": "q45",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est le sport le plus pratiqué au monde ?",
-    "answers": [
-      "Football",
-      "Basketball",
-      "Cricket",
-      "Tennis"
-    ],
+    "text": "Quel phénomène explique la formation des dunes de sable ?",
+    "answers": ["Transport éolien", "Érosion chimique", "Sédimentation marine", "Glaciation"],
     "correctIndex": 0
   },
   {
     "id": "q46",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel animal peut survivre dans l'espace ?",
-    "answers": [
-      "Fourmi",
-      "Araignée",
-      "Scarabée",
-      "Tardigrade"
-    ],
-    "correctIndex": 3
+    "text": "Quel organe humain est capable de stocker le fer sous forme de ferritine ?",
+    "answers": ["Rate", "Foie", "Cœur", "Poumons"],
+    "correctIndex": 1
   },
   {
     "id": "q47",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Gallium",
-      "Césium",
-      "Mercure",
-      "Plomb"
-    ],
+    "text": "Quel élément chimique est utilisé dans les piles alcalines ?",
+    "answers": ["Lithium", "Plomb", "Zinc", "Nickel"],
     "correctIndex": 2
   },
   {
     "id": "q48",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Plomb",
-      "Mercure",
-      "Gallium",
-      "Césium"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal est capable de mémoriser des trajets complexes sur plusieurs kilomètres ?",
+    "answers": ["Chien", "Chat", "Loup", "Fourmi"],
+    "correctIndex": 3
   },
   {
     "id": "q49",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel animal pond les plus gros œufs ?",
-    "answers": [
-      "Tortue luth",
-      "Manchot empereur",
-      "Autruche",
-      "Aigle"
-    ],
-    "correctIndex": 2
+    "text": "Quel phénomène explique la persistance d’une image sur la rétine ?",
+    "answers": ["Rétinence", "Diffraction", "Réfraction", "Accommodation"],
+    "correctIndex": 0
   },
   {
     "id": "q50",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel pays n'a pas d'armée officielle ?",
-    "answers": [
-      "Costa Rica",
-      "Monaco",
-      "Islande",
-      "Vatican"
-    ],
-    "correctIndex": 2
+    "text": "Quel organe humain est responsable de la production des globules blancs ?",
+    "answers": ["Cœur", "Moelle osseuse", "Foie", "Rate"],
+    "correctIndex": 1
   },
   {
     "id": "q51",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
-    "answers": [
-      "Lion",
-      "Lévrier",
-      "Antilope",
-      "Guépard"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène astrophysique provoque l’émission de jets relativistes à partir de certains trous noirs ?",
+    "answers": ["Accrétion", "Fusion stellaire", "Rayonnement Hawking", "Explosion supernova"],
+    "correctIndex": 0
   },
   {
     "id": "q52",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'aliment le plus calorique au monde ?",
-    "answers": [
-      "Beurre",
-      "Fromage",
-      "Chocolat",
-      "Huile"
-    ],
-    "correctIndex": 3
+    "text": "Quel organe humain est responsable de la production du facteur intrinsèque nécessaire à l’absorption de la vitamine B12 ?",
+    "answers": ["Foie", "Estomac", "Pancréas", "Intestin grêle"],
+    "correctIndex": 1
   },
   {
     "id": "q53",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'aliment le plus calorique au monde ?",
-    "answers": [
-      "Huile",
-      "Chocolat",
-      "Beurre",
-      "Fromage"
-    ],
-    "correctIndex": 0
+    "text": "Quel isotope est couramment utilisé pour la datation au carbone ?",
+    "answers": ["Carbone-12", "Carbone-13", "Carbone-14", "Carbone-15"],
+    "correctIndex": 2
   },
   {
     "id": "q54",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
-    "answers": [
-      "Pioneer 10",
-      "New Horizons",
-      "Hubble",
-      "Voyager 1"
-    ],
+    "text": "Quel animal est capable de modifier activement la polarisation de la lumière réfléchie par sa peau ?",
+    "answers": ["Caméléon", "Seiche", "Poulpe", "Calmar"],
     "correctIndex": 3
   },
   {
     "id": "q55",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
-    "answers": [
-      "Antilope",
-      "Lion",
-      "Guépard",
-      "Lévrier"
-    ],
-    "correctIndex": 2
+    "text": "Quel phénomène physique explique la perte d’énergie d’un signal lumineux dans une fibre optique ?",
+    "answers": ["Atténuation", "Diffraction", "Ionisation", "Résonance"],
+    "correctIndex": 0
   },
   {
     "id": "q56",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
-    "answers": [
-      "Dionée",
-      "Nepenthes",
-      "Utricularia",
-      "Drosera"
-    ],
+    "text": "Quel organe humain est le principal site de synthèse du cholestérol endogène ?",
+    "answers": ["Intestin", "Foie", "Pancréas", "Rate"],
     "correctIndex": 1
   },
   {
     "id": "q57",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
-    "answers": [
-      "Hubble",
-      "Pioneer 10",
-      "New Horizons",
-      "Voyager 1"
-    ],
-    "correctIndex": 3
+    "text": "Quel type de particule est échangée lors de l’interaction électromagnétique ?",
+    "answers": ["Gluon", "Boson W", "Photon", "Neutrino"],
+    "correctIndex": 2
   },
   {
     "id": "q58",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
-    "answers": [
-      "Dionée",
-      "Drosera",
-      "Utricularia",
-      "Nepenthes"
-    ],
+    "text": "Quel animal possède un système circulatoire partiellement fermé et partiellement ouvert ?",
+    "answers": ["Poisson", "Amphibien", "Reptile", "Céphalopode"],
     "correctIndex": 3
   },
   {
     "id": "q59",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel pays possède la plus longue côte maritime au monde ?",
-    "answers": [
-      "Australie",
-      "Canada",
-      "Russie",
-      "Indonésie"
-    ],
-    "correctIndex": 1
+    "text": "Quel phénomène explique l’élargissement spectral d’une raie lumineuse à haute température ?",
+    "answers": ["Effet Doppler thermique", "Effet photoélectrique", "Diffraction", "Polarisation"],
+    "correctIndex": 0
   },
   {
     "id": "q60",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
-    "answers": [
-      "New Horizons",
-      "Voyager 1",
-      "Hubble",
-      "Pioneer 10"
-    ],
+    "text": "Quel organe humain sécrète principalement l’érythropoïétine ?",
+    "answers": ["Foie", "Reins", "Rate", "Moelle osseuse"],
     "correctIndex": 1
   },
+
   {
     "id": "q61",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
-    "answers": [
-      "Pioneer 10",
-      "Voyager 1",
-      "Hubble",
-      "New Horizons"
-    ],
-    "correctIndex": 1
+    "text": "Quel élément chimique est utilisé comme dopant dans les semi-conducteurs de type N ?",
+    "answers": ["Bore", "Gallium", "Phosphore", "Silicium"],
+    "correctIndex": 2
   },
   {
     "id": "q62",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel pays possède la plus longue côte maritime au monde ?",
-    "answers": [
-      "Indonésie",
-      "Canada",
-      "Russie",
-      "Australie"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal est capable d’entrer en cryptobiose pour survivre à des conditions extrêmes ?",
+    "answers": ["Scorpion", "Fourmi", "Cafard", "Tardigrade"],
+    "correctIndex": 3
   },
   {
     "id": "q63",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel pays n'a pas d'armée officielle ?",
-    "answers": [
-      "Costa Rica",
-      "Monaco",
-      "Islande",
-      "Vatican"
-    ],
-    "correctIndex": 2
+    "text": "Quel phénomène physique est à l’origine de la supraconductivité ?",
+    "answers": ["Appariement de Cooper", "Ionisation", "Effet Hall", "Diffusion quantique"],
+    "correctIndex": 0
   },
   {
     "id": "q64",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel animal peut survivre dans l'espace ?",
-    "answers": [
-      "Araignée",
-      "Scarabée",
-      "Tardigrade",
-      "Fourmi"
-    ],
-    "correctIndex": 2
+    "text": "Quel organe humain est responsable de la conversion de la vitamine D en sa forme active ?",
+    "answers": ["Peau", "Reins", "Foie", "Intestin"],
+    "correctIndex": 1
   },
   {
     "id": "q65",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Césium",
-      "Gallium",
-      "Mercure",
-      "Plomb"
-    ],
+    "text": "Quel type de rayonnement est majoritairement absorbé par la couche d’ozone ?",
+    "answers": ["Infrarouge", "Visible", "Ultraviolet", "Micro-ondes"],
     "correctIndex": 2
   },
   {
     "id": "q66",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
-    "answers": [
-      "Dionée",
-      "Utricularia",
-      "Nepenthes",
-      "Drosera"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal utilise un système d’écholocalisation parmi les plus précis du règne animal ?",
+    "answers": ["Dauphin", "Chien", "Chauve-souris", "Oiseau"],
+    "correctIndex": 3
   },
   {
     "id": "q67",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel animal pond les plus gros œufs ?",
-    "answers": [
-      "Manchot empereur",
-      "Aigle",
-      "Tortue luth",
-      "Autruche"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène explique la perte de masse apparente d’un objet immergé dans un fluide ?",
+    "answers": ["Poussée d’Archimède", "Pression hydrostatique", "Viscosité", "Capillarité"],
+    "correctIndex": 0
   },
   {
     "id": "q68",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
-    "answers": [
-      "Pioneer 10",
-      "Hubble",
-      "New Horizons",
-      "Voyager 1"
-    ],
-    "correctIndex": 3
+    "text": "Quel organe humain est le principal site de la gluconéogenèse ?",
+    "answers": ["Muscles", "Foie", "Reins", "Pancréas"],
+    "correctIndex": 1
   },
   {
     "id": "q69",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est le sport le plus pratiqué au monde ?",
-    "answers": [
-      "Cricket",
-      "Tennis",
-      "Football",
-      "Basketball"
-    ],
+    "text": "Quel élément chimique est utilisé dans les alliages pour renforcer l’acier inoxydable ?",
+    "answers": ["Nickel", "Zinc", "Chrome", "Cuivre"],
     "correctIndex": 2
   },
   {
     "id": "q70",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel animal pond les plus gros œufs ?",
-    "answers": [
-      "Aigle",
-      "Autruche",
-      "Tortue luth",
-      "Manchot empereur"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal est capable de percevoir des infrasons sur de très longues distances ?",
+    "answers": ["Chien", "Chat", "Loup", "Éléphant"],
+    "correctIndex": 3
   },
+
   {
     "id": "q71",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel animal peut survivre dans l'espace ?",
-    "answers": [
-      "Fourmi",
-      "Scarabée",
-      "Araignée",
-      "Tardigrade"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène permet l’émission spontanée d’un photon par un atome excité ?",
+    "answers": ["Émission spontanée", "Émission stimulée", "Ionisation", "Fluorescence"],
+    "correctIndex": 0
   },
   {
     "id": "q72",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel pays n'a pas d'armée officielle ?",
-    "answers": [
-      "Islande",
-      "Costa Rica",
-      "Vatican",
-      "Monaco"
-    ],
-    "correctIndex": 0
+    "text": "Quel organe humain joue un rôle clé dans le métabolisme des lipides ?",
+    "answers": ["Rate", "Foie", "Reins", "Estomac"],
+    "correctIndex": 1
   },
   {
     "id": "q73",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
-    "answers": [
-      "Drosera",
-      "Dionée",
-      "Nepenthes",
-      "Utricularia"
-    ],
+    "text": "Quel type de particule est responsable de l’interaction forte ?",
+    "answers": ["Photon", "Boson W", "Gluon", "Neutrino"],
     "correctIndex": 2
   },
   {
     "id": "q74",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel pays possède la plus longue côte maritime au monde ?",
-    "answers": [
-      "Canada",
-      "Indonésie",
-      "Russie",
-      "Australie"
-    ],
-    "correctIndex": 0
+    "text": "Quel animal est capable de reconnaître sa propre image dans un miroir ?",
+    "answers": ["Chien", "Chat", "Corbeau", "Dauphin"],
+    "correctIndex": 3
   },
   {
     "id": "q75",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Gallium",
-      "Césium",
-      "Plomb",
-      "Mercure"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène explique la variation de longueur d’un matériau soumis à une contrainte ?",
+    "answers": ["Élasticité", "Plasticité", "Viscosité", "Diffusion"],
+    "correctIndex": 0
   },
   {
     "id": "q76",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
-    "answers": [
-      "Hubble",
-      "Pioneer 10",
-      "New Horizons",
-      "Voyager 1"
-    ],
-    "correctIndex": 3
+    "text": "Quel organe humain est responsable de la sécrétion de l’aldostérone ?",
+    "answers": ["Hypophyse", "Glandes surrénales", "Pancréas", "Thyroïde"],
+    "correctIndex": 1
   },
   {
     "id": "q77",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'aliment le plus calorique au monde ?",
-    "answers": [
-      "Beurre",
-      "Fromage",
-      "Chocolat",
-      "Huile"
-    ],
-    "correctIndex": 3
+    "text": "Quel élément chimique est utilisé dans les batteries lithium-ion ?",
+    "answers": ["Sodium", "Potassium", "Lithium", "Magnésium"],
+    "correctIndex": 2
   },
   {
     "id": "q78",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
-    "answers": [
-      "Guépard",
-      "Lévrier",
-      "Antilope",
-      "Lion"
-    ],
-    "correctIndex": 0
+    "text": "Quel animal possède le rapport masse cérébrale / masse corporelle le plus élevé ?",
+    "answers": ["Dauphin", "Chimpanzé", "Pieuvre", "Fourmi"],
+    "correctIndex": 3
   },
   {
     "id": "q79",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
-    "answers": [
-      "Pioneer 10",
-      "Hubble",
-      "Voyager 1",
-      "New Horizons"
-    ],
-    "correctIndex": 2
+    "text": "Quel phénomène explique la propagation du son plus rapide dans l’eau que dans l’air ?",
+    "answers": ["Rigidité du milieu", "Densité", "Température", "Pression"],
+    "correctIndex": 0
   },
   {
     "id": "q80",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'aliment le plus calorique au monde ?",
-    "answers": [
-      "Fromage",
-      "Chocolat",
-      "Beurre",
-      "Huile"
-    ],
-    "correctIndex": 3
+    "text": "Quel organe humain est responsable de la sécrétion de la gastrine ?",
+    "answers": ["Duodénum", "Estomac", "Pancréas", "Foie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q81",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Gallium",
-      "Plomb",
-      "Mercure",
-      "Césium"
-    ],
+    "text": "Quel type de particule est associé à la radioactivité alpha ?",
+    "answers": ["Électron", "Proton", "Noyau d’hélium", "Photon"],
     "correctIndex": 2
   },
   {
     "id": "q82",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
-    "answers": [
-      "Guépard",
-      "Lévrier",
-      "Antilope",
-      "Lion"
-    ],
-    "correctIndex": 0
+    "text": "Quel animal est capable de détecter des variations minimes du champ magnétique terrestre ?",
+    "answers": ["Chien", "Chat", "Cheval", "Oiseau migrateur"],
+    "correctIndex": 3
   },
   {
     "id": "q83",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel animal pond les plus gros œufs ?",
-    "answers": [
-      "Tortue luth",
-      "Autruche",
-      "Aigle",
-      "Manchot empereur"
-    ],
-    "correctIndex": 1
+    "text": "Quel phénomène explique la déformation de l’espace-temps selon la relativité générale ?",
+    "answers": ["Masse-énergie", "Vitesse", "Charge électrique", "Pression"],
+    "correctIndex": 0
   },
   {
     "id": "q84",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est le sport le plus pratiqué au monde ?",
-    "answers": [
-      "Football",
-      "Tennis",
-      "Basketball",
-      "Cricket"
-    ],
-    "correctIndex": 0
+    "text": "Quel organe humain est le principal site de production des lymphocytes ?",
+    "answers": ["Rate", "Moelle osseuse", "Foie", "Thymus"],
+    "correctIndex": 1
   },
   {
     "id": "q85",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
-    "answers": [
-      "Lion",
-      "Antilope",
-      "Guépard",
-      "Lévrier"
-    ],
+    "text": "Quel élément chimique est utilisé comme modérateur dans les réacteurs à eau pressurisée ?",
+    "answers": ["Uranium", "Plomb", "Hydrogène", "Carbone"],
     "correctIndex": 2
   },
   {
     "id": "q86",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
-    "answers": [
-      "Antilope",
-      "Lévrier",
-      "Lion",
-      "Guépard"
-    ],
+    "text": "Quel animal est capable de se déplacer sans utiliser ses muscles ?",
+    "answers": ["Ver", "Méduse", "Étoile de mer", "Corail"],
     "correctIndex": 3
   },
   {
     "id": "q87",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
-    "answers": [
-      "Utricularia",
-      "Dionée",
-      "Drosera",
-      "Nepenthes"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène permet la transmission de l’électricité dans un métal ?",
+    "answers": ["Électrons libres", "Ions fixes", "Protons mobiles", "Photons"],
+    "correctIndex": 0
   },
   {
     "id": "q88",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel animal peut survivre dans l'espace ?",
-    "answers": [
-      "Fourmi",
-      "Araignée",
-      "Scarabée",
-      "Tardigrade"
-    ],
-    "correctIndex": 3
+    "text": "Quel organe humain est responsable de la synthèse de l’albumine ?",
+    "answers": ["Rate", "Foie", "Reins", "Pancréas"],
+    "correctIndex": 1
   },
   {
     "id": "q89",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel animal pond les plus gros œufs ?",
-    "answers": [
-      "Manchot empereur",
-      "Autruche",
-      "Tortue luth",
-      "Aigle"
-    ],
-    "correctIndex": 1
+    "text": "Quel élément chimique est majoritaire dans la croûte terrestre ?",
+    "answers": ["Fer", "Aluminium", "Oxygène", "Silicium"],
+    "correctIndex": 2
   },
   {
     "id": "q90",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
-    "answers": [
-      "Dionée",
-      "Drosera",
-      "Nepenthes",
-      "Utricularia"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal est capable d’apprendre et d’utiliser un langage symbolique ?",
+    "answers": ["Chien", "Chat", "Loup", "Grand singe"],
+    "correctIndex": 3
   },
+
   {
     "id": "q91",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'aliment le plus calorique au monde ?",
-    "answers": [
-      "Huile",
-      "Beurre",
-      "Chocolat",
-      "Fromage"
-    ],
+    "text": "Quel phénomène explique la perte d’énergie mécanique due aux frottements ?",
+    "answers": ["Dissipation", "Inertie", "Résonance", "Amplification"],
     "correctIndex": 0
   },
   {
     "id": "q92",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Plomb",
-      "Gallium",
-      "Césium",
-      "Mercure"
-    ],
-    "correctIndex": 3
+    "text": "Quel organe humain est responsable de la régulation du calcium sanguin ?",
+    "answers": ["Reins", "Parathyroïdes", "Thyroïde", "Foie"],
+    "correctIndex": 1
   },
   {
     "id": "q93",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
-    "answers": [
-      "Lion",
-      "Guépard",
-      "Lévrier",
-      "Antilope"
-    ],
-    "correctIndex": 1
+    "text": "Quel type de liaison maintient les bases de l’ADN entre elles ?",
+    "answers": ["Covalente", "Ionique", "Hydrogène", "Métallique"],
+    "correctIndex": 2
   },
   {
     "id": "q94",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
-    "answers": [
-      "Voyager 1",
-      "Hubble",
-      "New Horizons",
-      "Pioneer 10"
-    ],
-    "correctIndex": 0
+    "text": "Quel animal possède une mémoire spatiale exceptionnelle pour retrouver des milliers de caches de nourriture ?",
+    "answers": ["Écureuil", "Renard", "Corbeau", "Geai"],
+    "correctIndex": 3
   },
   {
     "id": "q95",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel pays n'a pas d'armée officielle ?",
-    "answers": [
-      "Monaco",
-      "Islande",
-      "Costa Rica",
-      "Vatican"
-    ],
-    "correctIndex": 1
+    "text": "Quel phénomène explique la propagation des ondes sismiques dans la Terre ?",
+    "answers": ["Élasticité des roches", "Pression atmosphérique", "Gravité", "Température interne"],
+    "correctIndex": 0
   },
   {
     "id": "q96",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel animal peut survivre dans l'espace ?",
-    "answers": [
-      "Fourmi",
-      "Araignée",
-      "Tardigrade",
-      "Scarabée"
-    ],
-    "correctIndex": 2
+    "text": "Quel organe humain est responsable de la dégradation de l’hémoglobine en bilirubine ?",
+    "answers": ["Poumons", "Foie", "Rate", "Reins"],
+    "correctIndex": 1
   },
   {
     "id": "q97",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
-    "answers": [
-      "Drosera",
-      "Utricularia",
-      "Dionée",
-      "Nepenthes"
-    ],
-    "correctIndex": 3
+    "text": "Quel élément chimique est utilisé dans les alliages légers de l’aéronautique ?",
+    "answers": ["Fer", "Cuivre", "Aluminium", "Plomb"],
+    "correctIndex": 2
   },
   {
     "id": "q98",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'aliment le plus calorique au monde ?",
-    "answers": [
-      "Huile",
-      "Beurre",
-      "Chocolat",
-      "Fromage"
-    ],
-    "correctIndex": 0
+    "text": "Quel animal est capable de ralentir drastiquement son métabolisme en cas de famine ?",
+    "answers": ["Ours", "Serpent", "Grenouille", "Crocodile"],
+    "correctIndex": 3
   },
   {
     "id": "q99",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Mercure",
-      "Gallium",
-      "Césium",
-      "Plomb"
-    ],
+    "text": "Quel phénomène explique la variation de la fréquence perçue d’un son en mouvement ?",
+    "answers": ["Effet Doppler", "Résonance", "Interférence", "Diffraction"],
     "correctIndex": 0
   },
   {
     "id": "q100",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
-    "answers": [
-      "Voyager 1",
-      "Hubble",
-      "New Horizons",
-      "Pioneer 10"
-    ],
-    "correctIndex": 0
+    "text": "Quel organe humain est responsable de la production de l’hormone cortisol ?",
+    "answers": ["Hypophyse", "Glandes surrénales", "Pancréas", "Thyroïde"],
+    "correctIndex": 1
   },
   {
     "id": "q101",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
-    "answers": [
-      "New Horizons",
-      "Hubble",
-      "Voyager 1",
-      "Pioneer 10"
-    ],
+    "text": "Quel type de particule intervient dans la radioactivité gamma ?",
+    "answers": ["Électron", "Proton", "Photon", "Neutrino"],
     "correctIndex": 2
   },
   {
     "id": "q102",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
-    "answers": [
-      "Lévrier",
-      "Antilope",
-      "Lion",
-      "Guépard"
-    ],
+    "text": "Quel animal est capable de survivre à une pression équivalente à plusieurs kilomètres de profondeur ?",
+    "answers": ["Méduse", "Crabe", "Poisson-lanterne", "Bactérie extrêmophile"],
     "correctIndex": 3
   },
   {
     "id": "q103",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
-    "answers": [
-      "Drosera",
-      "Dionée",
-      "Nepenthes",
-      "Utricularia"
-    ],
-    "correctIndex": 2
+    "text": "Quel phénomène explique la stabilité d’un gyroscope en rotation ?",
+    "answers": ["Conservation du moment cinétique", "Gravitation", "Frottement", "Inertie thermique"],
+    "correctIndex": 0
   },
   {
     "id": "q104",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel animal peut survivre dans l'espace ?",
-    "answers": [
-      "Scarabée",
-      "Tardigrade",
-      "Fourmi",
-      "Araignée"
-    ],
+    "text": "Quel organe humain est le principal site de stockage du cuivre ?",
+    "answers": ["Reins", "Foie", "Rate", "Moelle osseuse"],
     "correctIndex": 1
   },
   {
     "id": "q105",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel animal pond les plus gros œufs ?",
-    "answers": [
-      "Manchot empereur",
-      "Autruche",
-      "Tortue luth",
-      "Aigle"
-    ],
-    "correctIndex": 1
+    "text": "Quel élément chimique est utilisé comme combustible principal dans les réacteurs nucléaires classiques ?",
+    "answers": ["Thorium", "Plutonium", "Uranium", "Carbone"],
+    "correctIndex": 2
   },
   {
     "id": "q106",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'aliment le plus calorique au monde ?",
-    "answers": [
-      "Chocolat",
-      "Beurre",
-      "Fromage",
-      "Huile"
-    ],
+    "text": "Quel animal est capable de reconnaître des individus humains sur plusieurs années ?",
+    "answers": ["Chien", "Chat", "Cheval", "Corbeau"],
     "correctIndex": 3
   },
   {
     "id": "q107",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel animal pond les plus gros œufs ?",
-    "answers": [
-      "Aigle",
-      "Manchot empereur",
-      "Tortue luth",
-      "Autruche"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène explique la transmission de la chaleur dans un liquide ?",
+    "answers": ["Convection", "Rayonnement", "Diffusion", "Ionisation"],
+    "correctIndex": 0
   },
   {
     "id": "q108",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
-    "answers": [
-      "Lion",
-      "Lévrier",
-      "Guépard",
-      "Antilope"
-    ],
-    "correctIndex": 2
+    "text": "Quel organe humain est responsable de la production des facteurs de croissance sanguins ?",
+    "answers": ["Rate", "Foie", "Reins", "Moelle osseuse"],
+    "correctIndex": 1
   },
   {
     "id": "q109",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
-    "answers": [
-      "Utricularia",
-      "Dionée",
-      "Nepenthes",
-      "Drosera"
-    ],
+    "text": "Quel élément chimique est utilisé pour fabriquer les aimants permanents les plus puissants ?",
+    "answers": ["Fer", "Nickel", "Néodyme", "Cobalt"],
     "correctIndex": 2
   },
   {
     "id": "q110",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
-    "answers": [
-      "Voyager 1",
-      "New Horizons",
-      "Pioneer 10",
-      "Hubble"
-    ],
-    "correctIndex": 0
+    "text": "Quel animal est capable de naviguer en utilisant la position des étoiles ?",
+    "answers": ["Chauve-souris", "Dauphin", "Chien", "Oiseau migrateur"],
+    "correctIndex": 3
   },
+
   {
     "id": "q111",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Césium",
-      "Gallium",
-      "Mercure",
-      "Plomb"
-    ],
-    "correctIndex": 2
+    "text": "Quel phénomène explique la désintégration spontanée d’un noyau instable ?",
+    "answers": ["Radioactivité", "Fusion", "Fission contrôlée", "Ionisation"],
+    "correctIndex": 0
   },
   {
     "id": "q112",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Mercure",
-      "Gallium",
-      "Plomb",
-      "Césium"
-    ],
-    "correctIndex": 0
+    "text": "Quel organe humain est le principal site de production des anticorps ?",
+    "answers": ["Foie", "Moelle osseuse", "Rate", "Thymus"],
+    "correctIndex": 1
   },
   {
     "id": "q113",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel pays n'a pas d'armée officielle ?",
-    "answers": [
-      "Islande",
-      "Monaco",
-      "Costa Rica",
-      "Vatican"
-    ],
-    "correctIndex": 0
+    "text": "Quel type de liaison maintient les atomes dans un cristal métallique ?",
+    "answers": ["Ionique", "Covalente", "Métallique", "Hydrogène"],
+    "correctIndex": 2
   },
   {
     "id": "q114",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel animal peut survivre dans l'espace ?",
-    "answers": [
-      "Fourmi",
-      "Tardigrade",
-      "Araignée",
-      "Scarabée"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal est capable d’apprendre par imitation directe ?",
+    "answers": ["Serpent", "Poisson", "Grenouille", "Chimpanzé"],
+    "correctIndex": 3
   },
   {
     "id": "q115",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'aliment le plus calorique au monde ?",
-    "answers": [
-      "Beurre",
-      "Huile",
-      "Fromage",
-      "Chocolat"
-    ],
-    "correctIndex": 1
+    "text": "Quel phénomène explique l’augmentation de la masse relativiste à grande vitesse ?",
+    "answers": ["Relativité restreinte", "Gravitation", "Effet Doppler", "Résonance"],
+    "correctIndex": 0
   },
   {
     "id": "q116",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel animal peut survivre dans l'espace ?",
-    "answers": [
-      "Tardigrade",
-      "Fourmi",
-      "Scarabée",
-      "Araignée"
-    ],
-    "correctIndex": 0
+    "text": "Quel organe humain est responsable de la régulation du pH sanguin ?",
+    "answers": ["Poumons", "Reins", "Foie", "Cœur"],
+    "correctIndex": 1
   },
   {
     "id": "q117",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Gallium",
-      "Mercure",
-      "Plomb",
-      "Césium"
-    ],
-    "correctIndex": 1
+    "text": "Quel élément chimique est indispensable au fonctionnement de l’hémoglobine ?",
+    "answers": ["Cuivre", "Zinc", "Fer", "Magnésium"],
+    "correctIndex": 2
   },
   {
     "id": "q118",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est le sport le plus pratiqué au monde ?",
-    "answers": [
-      "Tennis",
-      "Cricket",
-      "Football",
-      "Basketball"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal est capable de détecter les courants électriques générés par d’autres organismes ?",
+    "answers": ["Méduse", "Poisson-clown", "Raie manta", "Requin"],
+    "correctIndex": 3
   },
   {
     "id": "q119",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel pays possède la plus longue côte maritime au monde ?",
-    "answers": [
-      "Australie",
-      "Russie",
-      "Indonésie",
-      "Canada"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène explique la dispersion des couleurs dans un prisme ?",
+    "answers": ["Dispersion", "Polarisation", "Absorption", "Diffraction"],
+    "correctIndex": 0
   },
   {
     "id": "q120",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
-    "answers": [
-      "Lion",
-      "Guépard",
-      "Lévrier",
-      "Antilope"
-    ],
+    "text": "Quel organe humain est responsable de la production des hormones stéroïdes ?",
+    "answers": ["Hypophyse", "Glandes surrénales", "Pancréas", "Thyroïde"],
     "correctIndex": 1
   },
+
   {
     "id": "q121",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est le sport le plus pratiqué au monde ?",
-    "answers": [
-      "Cricket",
-      "Basketball",
-      "Tennis",
-      "Football"
-    ],
-    "correctIndex": 3
+    "text": "Quel élément chimique est utilisé dans les écrans LCD pour contrôler la lumière ?",
+    "answers": ["Silicium", "Carbone", "Indium", "Cuivre"],
+    "correctIndex": 2
   },
   {
     "id": "q122",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel pays possède la plus longue côte maritime au monde ?",
-    "answers": [
-      "Indonésie",
-      "Canada",
-      "Russie",
-      "Australie"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal est capable d’entrer en diapause pour survivre à des conditions défavorables ?",
+    "answers": ["Ours", "Grenouille", "Serpent", "Insecte"],
+    "correctIndex": 3
   },
   {
     "id": "q123",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel pays n'a pas d'armée officielle ?",
-    "answers": [
-      "Monaco",
-      "Islande",
-      "Costa Rica",
-      "Vatican"
-    ],
-    "correctIndex": 1
+    "text": "Quel phénomène explique la résistance électrique d’un conducteur ?",
+    "answers": ["Collisions électroniques", "Champ magnétique", "Ionisation", "Polarisation"],
+    "correctIndex": 0
   },
   {
     "id": "q124",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel animal pond les plus gros œufs ?",
-    "answers": [
-      "Manchot empereur",
-      "Tortue luth",
-      "Aigle",
-      "Autruche"
-    ],
-    "correctIndex": 3
+    "text": "Quel organe humain est le principal site de stockage de la vitamine A ?",
+    "answers": ["Reins", "Foie", "Rate", "Peau"],
+    "correctIndex": 1
   },
   {
     "id": "q125",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel pays n'a pas d'armée officielle ?",
-    "answers": [
-      "Vatican",
-      "Costa Rica",
-      "Monaco",
-      "Islande"
-    ],
-    "correctIndex": 3
+    "text": "Quel élément chimique est utilisé dans les fibres optiques dopées pour amplifier la lumière ?",
+    "answers": ["Bore", "Phosphore", "Erbium", "Lithium"],
+    "correctIndex": 2
   },
   {
     "id": "q126",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
-    "answers": [
-      "Pioneer 10",
-      "Hubble",
-      "New Horizons",
-      "Voyager 1"
-    ],
+    "text": "Quel animal est capable de mémoriser des centaines de points de repère visuels ?",
+    "answers": ["Chat", "Chien", "Renard", "Pieuvre"],
     "correctIndex": 3
   },
   {
     "id": "q127",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel animal pond les plus gros œufs ?",
-    "answers": [
-      "Autruche",
-      "Manchot empereur",
-      "Tortue luth",
-      "Aigle"
-    ],
+    "text": "Quel phénomène explique la perte d’énergie d’une onde sonore avec la distance ?",
+    "answers": ["Atténuation", "Résonance", "Diffraction", "Amplification"],
     "correctIndex": 0
   },
   {
     "id": "q128",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
-    "answers": [
-      "Drosera",
-      "Nepenthes",
-      "Utricularia",
-      "Dionée"
-    ],
+    "text": "Quel organe humain est responsable de la sécrétion de la calcitonine ?",
+    "answers": ["Parathyroïdes", "Thyroïde", "Hypophyse", "Surrénales"],
     "correctIndex": 1
   },
   {
     "id": "q129",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel pays possède la plus longue côte maritime au monde ?",
-    "answers": [
-      "Australie",
-      "Russie",
-      "Indonésie",
-      "Canada"
-    ],
-    "correctIndex": 3
+    "text": "Quel élément chimique est essentiel à la structure de l’ADN ?",
+    "answers": ["Soufre", "Magnésium", "Phosphore", "Potassium"],
+    "correctIndex": 2
   },
   {
     "id": "q130",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel pays n'a pas d'armée officielle ?",
-    "answers": [
-      "Vatican",
-      "Monaco",
-      "Islande",
-      "Costa Rica"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal est capable de se souvenir d’événements passés spécifiques (mémoire épisodique) ?",
+    "answers": ["Rat", "Pigeon", "Chien", "Pieuvre"],
+    "correctIndex": 3
   },
+
   {
     "id": "q131",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
-    "answers": [
-      "Lion",
-      "Antilope",
-      "Lévrier",
-      "Guépard"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène explique la formation d’une image réelle par une lentille convergente ?",
+    "answers": ["Réfraction", "Diffraction", "Réflexion", "Polarisation"],
+    "correctIndex": 0
   },
   {
     "id": "q132",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel pays possède la plus longue côte maritime au monde ?",
-    "answers": [
-      "Canada",
-      "Russie",
-      "Indonésie",
-      "Australie"
-    ],
-    "correctIndex": 0
+    "text": "Quel organe humain est responsable de la dégradation de l’alcool ?",
+    "answers": ["Estomac", "Foie", "Reins", "Pancréas"],
+    "correctIndex": 1
   },
   {
     "id": "q133",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
-    "answers": [
-      "Drosera",
-      "Nepenthes",
-      "Utricularia",
-      "Dionée"
-    ],
-    "correctIndex": 1
+    "text": "Quel élément chimique est utilisé comme électrolyte dans certaines batteries solides ?",
+    "answers": ["Sodium", "Potassium", "Lithium", "Calcium"],
+    "correctIndex": 2
   },
   {
     "id": "q134",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
-    "answers": [
-      "Voyager 1",
-      "Pioneer 10",
-      "New Horizons",
-      "Hubble"
-    ],
-    "correctIndex": 0
+    "text": "Quel animal est capable de reconnaître des séquences sonores complexes ?",
+    "answers": ["Chat", "Cheval", "Chien", "Perroquet"],
+    "correctIndex": 3
   },
   {
     "id": "q135",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel animal pond les plus gros œufs ?",
-    "answers": [
-      "Manchot empereur",
-      "Tortue luth",
-      "Aigle",
-      "Autruche"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène explique la propagation de la lumière dans le vide ?",
+    "answers": ["Onde électromagnétique", "Conduction", "Convection", "Diffusion"],
+    "correctIndex": 0
   },
   {
     "id": "q136",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
-    "answers": [
-      "Lion",
-      "Antilope",
-      "Lévrier",
-      "Guépard"
-    ],
-    "correctIndex": 3
+    "text": "Quel organe humain est responsable de la sécrétion de l’adrénaline ?",
+    "answers": ["Hypophyse", "Glandes surrénales", "Pancréas", "Thyroïde"],
+    "correctIndex": 1
   },
   {
     "id": "q137",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel pays possède la plus longue côte maritime au monde ?",
-    "answers": [
-      "Russie",
-      "Indonésie",
-      "Canada",
-      "Australie"
-    ],
+    "text": "Quel élément chimique est utilisé dans les superalliages aéronautiques pour résister à la chaleur ?",
+    "answers": ["Fer", "Aluminium", "Nickel", "Titane"],
     "correctIndex": 2
   },
   {
     "id": "q138",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est le sport le plus pratiqué au monde ?",
-    "answers": [
-      "Basketball",
-      "Tennis",
-      "Football",
-      "Cricket"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal est capable de détecter des fréquences sonores hors du spectre humain ?",
+    "answers": ["Chat", "Cheval", "Vache", "Chauve-souris"],
+    "correctIndex": 3
   },
   {
     "id": "q139",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
-    "answers": [
-      "Drosera",
-      "Nepenthes",
-      "Dionée",
-      "Utricularia"
-    ],
-    "correctIndex": 1
+    "text": "Quel phénomène explique la stabilité thermique des océans ?",
+    "answers": ["Capacité calorifique élevée", "Salinité", "Pression", "Rayonnement solaire"],
+    "correctIndex": 0
   },
   {
     "id": "q140",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel animal pond les plus gros œufs ?",
-    "answers": [
-      "Manchot empereur",
-      "Aigle",
-      "Tortue luth",
-      "Autruche"
-    ],
-    "correctIndex": 3
+    "text": "Quel organe humain est responsable de la production de la progestérone ?",
+    "answers": ["Hypophyse", "Ovaires", "Surrénales", "Pancréas"],
+    "correctIndex": 1
   },
+
   {
     "id": "q141",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'aliment le plus calorique au monde ?",
-    "answers": [
-      "Chocolat",
-      "Fromage",
-      "Beurre",
-      "Huile"
-    ],
-    "correctIndex": 3
+    "text": "Quel élément chimique est utilisé dans les panneaux photovoltaïques organiques ?",
+    "answers": ["Silicium", "Cuivre", "Carbone", "Germanium"],
+    "correctIndex": 2
   },
   {
     "id": "q142",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
-    "answers": [
-      "Voyager 1",
-      "Pioneer 10",
-      "Hubble",
-      "New Horizons"
-    ],
-    "correctIndex": 0
+    "text": "Quel animal est capable de coopérer avec des individus non apparentés ?",
+    "answers": ["Chat", "Renard", "Chien", "Dauphin"],
+    "correctIndex": 3
   },
   {
     "id": "q143",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'aliment le plus calorique au monde ?",
-    "answers": [
-      "Beurre",
-      "Huile",
-      "Chocolat",
-      "Fromage"
-    ],
-    "correctIndex": 1
+    "text": "Quel phénomène explique la réflexion totale interne dans une fibre optique ?",
+    "answers": ["Angle critique", "Diffraction", "Absorption", "Polarisation"],
+    "correctIndex": 0
   },
   {
     "id": "q144",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
-    "answers": [
-      "Pioneer 10",
-      "Hubble",
-      "New Horizons",
-      "Voyager 1"
-    ],
-    "correctIndex": 3
+    "text": "Quel organe humain est responsable de la synthèse de la vitamine D à partir du cholestérol ?",
+    "answers": ["Foie", "Peau", "Reins", "Intestin"],
+    "correctIndex": 1
   },
   {
     "id": "q145",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel pays n'a pas d'armée officielle ?",
-    "answers": [
-      "Islande",
-      "Monaco",
-      "Costa Rica",
-      "Vatican"
-    ],
-    "correctIndex": 0
+    "text": "Quel élément chimique est utilisé dans les catalyseurs automobiles pour réduire les émissions ?",
+    "answers": ["Fer", "Cuivre", "Platine", "Zinc"],
+    "correctIndex": 2
   },
   {
     "id": "q146",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel animal pond les plus gros œufs ?",
-    "answers": [
-      "Tortue luth",
-      "Autruche",
-      "Aigle",
-      "Manchot empereur"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal est capable de planifier des actions futures complexes ?",
+    "answers": ["Rat", "Chien", "Cheval", "Corbeau"],
+    "correctIndex": 3
   },
   {
     "id": "q147",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
-    "answers": [
-      "Dionée",
-      "Drosera",
-      "Utricularia",
-      "Nepenthes"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène explique la formation d’ondes stationnaires ?",
+    "answers": ["Interférences", "Diffraction", "Absorption", "Ionisation"],
+    "correctIndex": 0
   },
   {
     "id": "q148",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Plomb",
-      "Mercure",
-      "Gallium",
-      "Césium"
-    ],
+    "text": "Quel organe humain est responsable de la production de la testostérone ?",
+    "answers": ["Hypophyse", "Testicules", "Surrénales", "Pancréas"],
     "correctIndex": 1
   },
   {
     "id": "q149",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
-    "answers": [
-      "Nepenthes",
-      "Utricularia",
-      "Dionée",
-      "Drosera"
-    ],
-    "correctIndex": 0
+    "text": "Quel élément chimique est utilisé dans les écrans OLED comme matériau conducteur transparent ?",
+    "answers": ["Argent", "Cuivre", "Indium", "Aluminium"],
+    "correctIndex": 2
   },
   {
     "id": "q150",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel animal peut survivre dans l'espace ?",
-    "answers": [
-      "Scarabée",
-      "Tardigrade",
-      "Araignée",
-      "Fourmi"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal est capable de résoudre des problèmes multi-étapes sans entraînement préalable ?",
+    "answers": ["Chien", "Chat", "Singe", "Pieuvre"],
+    "correctIndex": 3
   },
   {
     "id": "q151",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
-    "answers": [
-      "Pioneer 10",
-      "New Horizons",
-      "Hubble",
-      "Voyager 1"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène quantique explique l’émission d’électrons par un métal éclairé par une lumière adéquate ?",
+    "answers": ["Effet photoélectrique", "Effet Doppler", "Diffraction", "Ionisation thermique"],
+    "correctIndex": 0
   },
   {
     "id": "q152",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'aliment le plus calorique au monde ?",
-    "answers": [
-      "Fromage",
-      "Chocolat",
-      "Huile",
-      "Beurre"
-    ],
-    "correctIndex": 2
+    "text": "Quel organe humain est principalement responsable de la clairance de l’ammoniac sanguin ?",
+    "answers": ["Reins", "Foie", "Poumons", "Rate"],
+    "correctIndex": 1
   },
   {
     "id": "q153",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel animal pond les plus gros œufs ?",
-    "answers": [
-      "Manchot empereur",
-      "Autruche",
-      "Aigle",
-      "Tortue luth"
-    ],
-    "correctIndex": 1
+    "text": "Quel élément chimique est indispensable au fonctionnement des enzymes antioxydantes comme la catalase ?",
+    "answers": ["Cuivre", "Zinc", "Fer", "Sélénium"],
+    "correctIndex": 2
   },
   {
     "id": "q154",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel pays n'a pas d'armée officielle ?",
-    "answers": [
-      "Costa Rica",
-      "Vatican",
-      "Monaco",
-      "Islande"
-    ],
+    "text": "Quel animal est capable d’utiliser des signaux gestuels appris pour communiquer avec l’humain ?",
+    "answers": ["Chien", "Chat", "Cheval", "Gorille"],
     "correctIndex": 3
   },
   {
     "id": "q155",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel pays possède la plus longue côte maritime au monde ?",
-    "answers": [
-      "Australie",
-      "Indonésie",
-      "Russie",
-      "Canada"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène explique la perte d’intensité lumineuse avec la distance à partir d’une source ponctuelle ?",
+    "answers": ["Loi de l’inverse du carré", "Réfraction", "Diffusion", "Polarisation"],
+    "correctIndex": 0
   },
   {
     "id": "q156",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
-    "answers": [
-      "Lion",
-      "Antilope",
-      "Lévrier",
-      "Guépard"
-    ],
-    "correctIndex": 3
+    "text": "Quel organe humain est responsable de la synthèse des facteurs de coagulation dépendants de la vitamine K ?",
+    "answers": ["Rate", "Foie", "Moelle osseuse", "Intestin"],
+    "correctIndex": 1
   },
   {
     "id": "q157",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
-    "answers": [
-      "Utricularia",
-      "Dionée",
-      "Nepenthes",
-      "Drosera"
-    ],
+    "text": "Quel type de particule est échangée lors de l’interaction faible ?",
+    "answers": ["Photon", "Gluon", "Boson W", "Graviton"],
     "correctIndex": 2
   },
   {
     "id": "q158",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel pays possède la plus longue côte maritime au monde ?",
-    "answers": [
-      "Indonésie",
-      "Russie",
-      "Canada",
-      "Australie"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal est capable de reconnaître des relations numériques simples (quantités) ?",
+    "answers": ["Souris", "Pigeon", "Chien", "Corbeau"],
+    "correctIndex": 3
   },
   {
     "id": "q159",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel animal pond les plus gros œufs ?",
-    "answers": [
-      "Autruche",
-      "Manchot empereur",
-      "Tortue luth",
-      "Aigle"
-    ],
+    "text": "Quel phénomène explique la montée de la sève brute dans les arbres ?",
+    "answers": ["Cohésion-tension", "Osmose", "Diffusion", "Convection"],
     "correctIndex": 0
   },
   {
     "id": "q160",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'aliment le plus calorique au monde ?",
-    "answers": [
-      "Huile",
-      "Fromage",
-      "Chocolat",
-      "Beurre"
-    ],
-    "correctIndex": 0
+    "text": "Quel organe humain est le principal site de la production des sels biliaires ?",
+    "answers": ["Vésicule biliaire", "Foie", "Pancréas", "Intestin grêle"],
+    "correctIndex": 1
   },
+
   {
     "id": "q161",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
-    "answers": [
-      "Guépard",
-      "Antilope",
-      "Lion",
-      "Lévrier"
-    ],
-    "correctIndex": 0
+    "text": "Quel élément chimique est utilisé dans les thermocouples pour mesurer des températures élevées ?",
+    "answers": ["Cuivre", "Platine", "Chrome", "Nickel"],
+    "correctIndex": 2
   },
   {
     "id": "q162",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
-    "answers": [
-      "Guépard",
-      "Lion",
-      "Lévrier",
-      "Antilope"
-    ],
-    "correctIndex": 0
+    "text": "Quel animal est capable de modifier sa stratégie de chasse en fonction de l’expérience acquise ?",
+    "answers": ["Chat", "Chien", "Renard", "Pieuvre"],
+    "correctIndex": 3
   },
   {
     "id": "q163",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Césium",
-      "Mercure",
-      "Gallium",
-      "Plomb"
-    ],
-    "correctIndex": 1
+    "text": "Quel phénomène explique la propagation des ondes électromagnétiques dans le vide ?",
+    "answers": ["Champs électrique et magnétique couplés", "Conduction", "Convection", "Diffusion"],
+    "correctIndex": 0
   },
   {
     "id": "q164",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'aliment le plus calorique au monde ?",
-    "answers": [
-      "Chocolat",
-      "Beurre",
-      "Fromage",
-      "Huile"
-    ],
-    "correctIndex": 3
+    "text": "Quel organe humain est responsable de la sécrétion de l’hormone antidiurétique (ADH) ?",
+    "answers": ["Thyroïde", "Hypophyse", "Reins", "Surrénales"],
+    "correctIndex": 1
   },
   {
     "id": "q165",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Gallium",
-      "Césium",
-      "Plomb",
-      "Mercure"
-    ],
-    "correctIndex": 3
+    "text": "Quel élément chimique est utilisé comme absorbeur de neutrons dans certaines barres de contrôle ?",
+    "answers": ["Carbone", "Cadmium", "Uranium", "Lithium"],
+    "correctIndex": 2
   },
   {
     "id": "q166",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
-    "answers": [
-      "New Horizons",
-      "Hubble",
-      "Voyager 1",
-      "Pioneer 10"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal est capable d’anticiper les actions d’un partenaire coopératif ?",
+    "answers": ["Chien", "Chat", "Cheval", "Dauphin"],
+    "correctIndex": 3
   },
   {
     "id": "q167",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
-    "answers": [
-      "Voyager 1",
-      "New Horizons",
-      "Pioneer 10",
-      "Hubble"
-    ],
+    "text": "Quel phénomène explique la formation d’un mirage dans les déserts ?",
+    "answers": ["Gradient de réfraction", "Diffraction", "Polarisation", "Absorption"],
     "correctIndex": 0
   },
   {
     "id": "q168",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel animal peut survivre dans l'espace ?",
-    "answers": [
-      "Tardigrade",
-      "Fourmi",
-      "Scarabée",
-      "Araignée"
-    ],
-    "correctIndex": 0
+    "text": "Quel organe humain est responsable de la conversion de l’angiotensinogène en angiotensine I ?",
+    "answers": ["Poumons", "Reins", "Foie", "Cœur"],
+    "correctIndex": 1
   },
   {
     "id": "q169",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est le sport le plus pratiqué au monde ?",
-    "answers": [
-      "Football",
-      "Cricket",
-      "Basketball",
-      "Tennis"
-    ],
-    "correctIndex": 0
+    "text": "Quel élément chimique est essentiel au fonctionnement des pigments photosynthétiques ?",
+    "answers": ["Fer", "Cuivre", "Magnésium", "Zinc"],
+    "correctIndex": 2
   },
   {
     "id": "q170",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
-    "answers": [
-      "Lévrier",
-      "Lion",
-      "Guépard",
-      "Antilope"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal est capable de reconnaître des visages humains sur des supports bidimensionnels ?",
+    "answers": ["Chien", "Chat", "Cheval", "Mouton"],
+    "correctIndex": 3
   },
+
   {
     "id": "q171",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel animal pond les plus gros œufs ?",
-    "answers": [
-      "Autruche",
-      "Tortue luth",
-      "Aigle",
-      "Manchot empereur"
-    ],
+    "text": "Quel phénomène explique la stabilité d’un satellite géostationnaire au-dessus de l’équateur ?",
+    "answers": ["Égalité période orbitale/rotation terrestre", "Champ magnétique", "Absence de frottement", "Pression solaire"],
     "correctIndex": 0
   },
   {
     "id": "q172",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Plomb",
-      "Césium",
-      "Gallium",
-      "Mercure"
-    ],
-    "correctIndex": 3
+    "text": "Quel organe humain est le principal site de production du complément immunitaire ?",
+    "answers": ["Rate", "Foie", "Moelle osseuse", "Thymus"],
+    "correctIndex": 1
   },
   {
     "id": "q173",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
-    "answers": [
-      "Antilope",
-      "Guépard",
-      "Lévrier",
-      "Lion"
-    ],
-    "correctIndex": 1
+    "text": "Quel élément chimique est utilisé dans les alliages à mémoire de forme ?",
+    "answers": ["Aluminium", "Cuivre", "Nickel", "Titane"],
+    "correctIndex": 2
   },
   {
     "id": "q174",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'aliment le plus calorique au monde ?",
-    "answers": [
-      "Chocolat",
-      "Huile",
-      "Beurre",
-      "Fromage"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal est capable d’enseigner activement une technique à ses congénères ?",
+    "answers": ["Renard", "Chat", "Chien", "Suricate"],
+    "correctIndex": 3
   },
   {
     "id": "q175",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'aliment le plus calorique au monde ?",
-    "answers": [
-      "Beurre",
-      "Huile",
-      "Chocolat",
-      "Fromage"
-    ],
-    "correctIndex": 1
+    "text": "Quel phénomène explique la persistance de la vision au cinéma ?",
+    "answers": ["Intégration rétinienne", "Diffraction", "Réfraction", "Polarisation"],
+    "correctIndex": 0
   },
   {
     "id": "q176",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
-    "answers": [
-      "Utricularia",
-      "Drosera",
-      "Nepenthes",
-      "Dionée"
-    ],
-    "correctIndex": 2
+    "text": "Quel organe humain est responsable de la synthèse du fibrinogène ?",
+    "answers": ["Rate", "Foie", "Moelle osseuse", "Poumons"],
+    "correctIndex": 1
   },
   {
     "id": "q177",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'aliment le plus calorique au monde ?",
-    "answers": [
-      "Chocolat",
-      "Huile",
-      "Beurre",
-      "Fromage"
-    ],
-    "correctIndex": 1
+    "text": "Quel élément chimique est utilisé dans les écrans à points quantiques (quantum dots) ?",
+    "answers": ["Carbone", "Silicium", "Cadmium", "Aluminium"],
+    "correctIndex": 2
   },
   {
     "id": "q178",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'aliment le plus calorique au monde ?",
-    "answers": [
-      "Fromage",
-      "Huile",
-      "Chocolat",
-      "Beurre"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal est capable d’utiliser des probabilités simples pour prendre une décision ?",
+    "answers": ["Rat", "Pigeon", "Chien", "Corbeau"],
+    "correctIndex": 3
   },
   {
     "id": "q179",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'aliment le plus calorique au monde ?",
-    "answers": [
-      "Huile",
-      "Beurre",
-      "Chocolat",
-      "Fromage"
-    ],
+    "text": "Quel phénomène explique la formation de la foudre en boule (théorie la plus répandue) ?",
+    "answers": ["Plasma confiné", "Effet Doppler", "Ionisation cosmique", "Résonance magnétique"],
     "correctIndex": 0
   },
   {
     "id": "q180",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'aliment le plus calorique au monde ?",
-    "answers": [
-      "Huile",
-      "Fromage",
-      "Chocolat",
-      "Beurre"
-    ],
-    "correctIndex": 0
+    "text": "Quel organe humain est responsable de la production de l’hormone parathormone ?",
+    "answers": ["Thyroïde", "Parathyroïdes", "Hypophyse", "Surrénales"],
+    "correctIndex": 1
   },
+
   {
     "id": "q181",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel animal peut survivre dans l'espace ?",
-    "answers": [
-      "Scarabée",
-      "Tardigrade",
-      "Fourmi",
-      "Araignée"
-    ],
-    "correctIndex": 1
+    "text": "Quel élément chimique est indispensable au fonctionnement des cytochromes mitochondriaux ?",
+    "answers": ["Zinc", "Cuivre", "Fer", "Manganèse"],
+    "correctIndex": 2
   },
   {
     "id": "q182",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Plomb",
-      "Gallium",
-      "Césium",
-      "Mercure"
-    ],
+    "text": "Quel animal est capable de synchroniser ses mouvements avec un rythme externe ?",
+    "answers": ["Chien", "Chat", "Cheval", "Perroquet"],
     "correctIndex": 3
   },
   {
     "id": "q183",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel animal pond les plus gros œufs ?",
-    "answers": [
-      "Autruche",
-      "Tortue luth",
-      "Aigle",
-      "Manchot empereur"
-    ],
+    "text": "Quel phénomène explique la courbure des trajectoires lumineuses près d’un objet massif ?",
+    "answers": ["Lentille gravitationnelle", "Diffraction", "Polarisation", "Réfraction atmosphérique"],
     "correctIndex": 0
   },
   {
     "id": "q184",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est le sport le plus pratiqué au monde ?",
-    "answers": [
-      "Tennis",
-      "Football",
-      "Cricket",
-      "Basketball"
-    ],
+    "text": "Quel organe humain est responsable de la sécrétion de la cholécystokinine (CCK) ?",
+    "answers": ["Estomac", "Intestin grêle", "Pancréas", "Foie"],
     "correctIndex": 1
   },
   {
     "id": "q185",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel animal pond les plus gros œufs ?",
-    "answers": [
-      "Autruche",
-      "Manchot empereur",
-      "Tortue luth",
-      "Aigle"
-    ],
-    "correctIndex": 0
+    "text": "Quel élément chimique est utilisé comme électrode dans certaines piles à combustible ?",
+    "answers": ["Cuivre", "Nickel", "Platine", "Aluminium"],
+    "correctIndex": 2
   },
   {
     "id": "q186",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
-    "answers": [
-      "Lévrier",
-      "Antilope",
-      "Lion",
-      "Guépard"
-    ],
+    "text": "Quel animal est capable de planifier des actions différées dans le temps ?",
+    "answers": ["Chat", "Chien", "Cheval", "Corbeau"],
     "correctIndex": 3
   },
   {
     "id": "q187",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Gallium",
-      "Plomb",
-      "Mercure",
-      "Césium"
-    ],
-    "correctIndex": 2
+    "text": "Quel phénomène explique la dispersion atmosphérique responsable du ciel bleu ?",
+    "answers": ["Diffusion Rayleigh", "Diffraction", "Réfraction", "Polarisation"],
+    "correctIndex": 0
   },
   {
     "id": "q188",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
-    "answers": [
-      "Lévrier",
-      "Guépard",
-      "Lion",
-      "Antilope"
-    ],
+    "text": "Quel organe humain est responsable de la production de l’hormone leptine ?",
+    "answers": ["Foie", "Tissu adipeux", "Pancréas", "Hypophyse"],
     "correctIndex": 1
   },
   {
     "id": "q189",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
-    "answers": [
-      "Lévrier",
-      "Guépard",
-      "Lion",
-      "Antilope"
-    ],
-    "correctIndex": 1
+    "text": "Quel élément chimique est utilisé dans les capteurs CCD pour l’imagerie astronomique ?",
+    "answers": ["Germanium", "Carbone", "Silicium", "Gallium"],
+    "correctIndex": 2
   },
   {
     "id": "q190",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel animal peut survivre dans l'espace ?",
-    "answers": [
-      "Scarabée",
-      "Araignée",
-      "Tardigrade",
-      "Fourmi"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal est capable de reconnaître des individus à partir de leur voix seule ?",
+    "answers": ["Chat", "Cheval", "Vache", "Dauphin"],
+    "correctIndex": 3
   },
+
   {
     "id": "q191",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel pays possède la plus longue côte maritime au monde ?",
-    "answers": [
-      "Indonésie",
-      "Russie",
-      "Canada",
-      "Australie"
-    ],
-    "correctIndex": 2
+    "text": "Quel phénomène explique l’existence d’un courant électrique induit dans un conducteur en mouvement ?",
+    "answers": ["Induction électromagnétique", "Effet Joule", "Effet Hall", "Polarisation"],
+    "correctIndex": 0
   },
   {
     "id": "q192",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Plomb",
-      "Mercure",
-      "Gallium",
-      "Césium"
-    ],
+    "text": "Quel organe humain est responsable de la production de la thyroxine (T4) ?",
+    "answers": ["Hypophyse", "Thyroïde", "Parathyroïdes", "Surrénales"],
     "correctIndex": 1
   },
   {
     "id": "q193",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel pays possède la plus longue côte maritime au monde ?",
-    "answers": [
-      "Canada",
-      "Indonésie",
-      "Russie",
-      "Australie"
-    ],
-    "correctIndex": 0
+    "text": "Quel élément chimique est essentiel à la structure des ribosomes ?",
+    "answers": ["Sodium", "Potassium", "Magnésium", "Calcium"],
+    "correctIndex": 2
   },
   {
     "id": "q194",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel pays possède la plus longue côte maritime au monde ?",
-    "answers": [
-      "Canada",
-      "Russie",
-      "Australie",
-      "Indonésie"
-    ],
-    "correctIndex": 0
+    "text": "Quel animal est capable d’apprendre par observation sans renforcement direct ?",
+    "answers": ["Rat", "Chat", "Chien", "Chimpanzé"],
+    "correctIndex": 3
   },
   {
     "id": "q195",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
-    "answers": [
-      "Hubble",
-      "Pioneer 10",
-      "New Horizons",
-      "Voyager 1"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène explique la quantification des niveaux d’énergie dans l’atome ?",
+    "answers": ["Mécanique quantique", "Thermodynamique", "Relativité", "Électrodynamique classique"],
+    "correctIndex": 0
   },
   {
     "id": "q196",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel animal peut survivre dans l'espace ?",
-    "answers": [
-      "Tardigrade",
-      "Araignée",
-      "Scarabée",
-      "Fourmi"
-    ],
-    "correctIndex": 0
+    "text": "Quel organe humain est responsable de la conversion de la prothrombine en thrombine ?",
+    "answers": ["Rate", "Foie", "Sang (cascade de coagulation)", "Poumons"],
+    "correctIndex": 1
   },
   {
     "id": "q197",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Plomb",
-      "Gallium",
-      "Césium",
-      "Mercure"
-    ],
-    "correctIndex": 3
+    "text": "Quel élément chimique est utilisé dans les supraconducteurs à haute température critique ?",
+    "answers": ["Argent", "Cuivre", "Yttrium", "Fer"],
+    "correctIndex": 2
   },
   {
     "id": "q198",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Césium",
-      "Mercure",
-      "Gallium",
-      "Plomb"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal est capable de résoudre des énigmes nécessitant l’utilisation séquentielle d’outils ?",
+    "answers": ["Chien", "Chat", "Singe", "Corbeau"],
+    "correctIndex": 3
   },
   {
     "id": "q199",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
-    "answers": [
-      "Dionée",
-      "Drosera",
-      "Utricularia",
-      "Nepenthes"
-    ],
-    "correctIndex": 3
+    "text": "Quel phénomène explique la décroissance exponentielle d’une substance radioactive ?",
+    "answers": ["Loi de décroissance radioactive", "Fusion nucléaire", "Diffusion", "Ionisation"],
+    "correctIndex": 0
   },
   {
     "id": "q200",
     "category": "Insolites",
     "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Césium",
-      "Mercure",
-      "Gallium",
-      "Plomb"
-    ],
+    "text": "Quel organe humain est responsable de la production de l’hormone ocytocine ?",
+    "answers": ["Hypothalamus", "Hypophyse postérieure", "Glandes surrénales", "Thyroïde"],
     "correctIndex": 1
-  },
-  {
-    "id": "q201",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Césium",
-      "Gallium",
-      "Mercure",
-      "Plomb"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q202",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Césium",
-      "Plomb",
-      "Mercure",
-      "Gallium"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q203",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Césium",
-      "Mercure",
-      "Plomb",
-      "Gallium"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q204",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Gallium",
-      "Césium",
-      "Mercure",
-      "Plomb"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q205",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel animal peut survivre dans l'espace ?",
-    "answers": [
-      "Tardigrade",
-      "Araignée",
-      "Scarabée",
-      "Fourmi"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q206",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel est l'aliment le plus calorique au monde ?",
-    "answers": [
-      "Beurre",
-      "Huile",
-      "Fromage",
-      "Chocolat"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q207",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
-    "answers": [
-      "Lion",
-      "Guépard",
-      "Antilope",
-      "Lévrier"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q208",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel animal peut survivre dans l'espace ?",
-    "answers": [
-      "Tardigrade",
-      "Fourmi",
-      "Scarabée",
-      "Araignée"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q209",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel pays n'a pas d'armée officielle ?",
-    "answers": [
-      "Monaco",
-      "Islande",
-      "Costa Rica",
-      "Vatican"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q210",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel est l'aliment le plus calorique au monde ?",
-    "answers": [
-      "Fromage",
-      "Beurre",
-      "Huile",
-      "Chocolat"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q211",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel est l'aliment le plus calorique au monde ?",
-    "answers": [
-      "Chocolat",
-      "Huile",
-      "Fromage",
-      "Beurre"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q212",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel animal peut survivre dans l'espace ?",
-    "answers": [
-      "Scarabée",
-      "Tardigrade",
-      "Fourmi",
-      "Araignée"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q213",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel pays n'a pas d'armée officielle ?",
-    "answers": [
-      "Islande",
-      "Vatican",
-      "Monaco",
-      "Costa Rica"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q214",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Césium",
-      "Mercure",
-      "Plomb",
-      "Gallium"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q215",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel animal pond les plus gros œufs ?",
-    "answers": [
-      "Autruche",
-      "Manchot empereur",
-      "Aigle",
-      "Tortue luth"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q216",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel est l'aliment le plus calorique au monde ?",
-    "answers": [
-      "Chocolat",
-      "Huile",
-      "Fromage",
-      "Beurre"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q217",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel animal pond les plus gros œufs ?",
-    "answers": [
-      "Tortue luth",
-      "Aigle",
-      "Manchot empereur",
-      "Autruche"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q218",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel animal pond les plus gros œufs ?",
-    "answers": [
-      "Aigle",
-      "Autruche",
-      "Manchot empereur",
-      "Tortue luth"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q219",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Plomb",
-      "Gallium",
-      "Mercure",
-      "Césium"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q220",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
-    "answers": [
-      "Utricularia",
-      "Nepenthes",
-      "Drosera",
-      "Dionée"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q221",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel animal peut survivre dans l'espace ?",
-    "answers": [
-      "Fourmi",
-      "Tardigrade",
-      "Scarabée",
-      "Araignée"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q222",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel pays n'a pas d'armée officielle ?",
-    "answers": [
-      "Monaco",
-      "Costa Rica",
-      "Vatican",
-      "Islande"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q223",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Mercure",
-      "Césium",
-      "Gallium",
-      "Plomb"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q224",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel animal peut survivre dans l'espace ?",
-    "answers": [
-      "Araignée",
-      "Tardigrade",
-      "Scarabée",
-      "Fourmi"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q225",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel est le sport le plus pratiqué au monde ?",
-    "answers": [
-      "Football",
-      "Cricket",
-      "Basketball",
-      "Tennis"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q226",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel est l'aliment le plus calorique au monde ?",
-    "answers": [
-      "Fromage",
-      "Beurre",
-      "Chocolat",
-      "Huile"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q227",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel animal pond les plus gros œufs ?",
-    "answers": [
-      "Autruche",
-      "Tortue luth",
-      "Aigle",
-      "Manchot empereur"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q228",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
-    "answers": [
-      "Pioneer 10",
-      "New Horizons",
-      "Voyager 1",
-      "Hubble"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q229",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel est le sport le plus pratiqué au monde ?",
-    "answers": [
-      "Tennis",
-      "Basketball",
-      "Cricket",
-      "Football"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q230",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel est l'aliment le plus calorique au monde ?",
-    "answers": [
-      "Beurre",
-      "Chocolat",
-      "Huile",
-      "Fromage"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q231",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel animal peut survivre dans l'espace ?",
-    "answers": [
-      "Fourmi",
-      "Tardigrade",
-      "Araignée",
-      "Scarabée"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q232",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel animal peut survivre dans l'espace ?",
-    "answers": [
-      "Araignée",
-      "Tardigrade",
-      "Fourmi",
-      "Scarabée"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q233",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel animal pond les plus gros œufs ?",
-    "answers": [
-      "Aigle",
-      "Manchot empereur",
-      "Autruche",
-      "Tortue luth"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q234",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel animal pond les plus gros œufs ?",
-    "answers": [
-      "Manchot empereur",
-      "Tortue luth",
-      "Aigle",
-      "Autruche"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q235",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel est le sport le plus pratiqué au monde ?",
-    "answers": [
-      "Football",
-      "Cricket",
-      "Tennis",
-      "Basketball"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q236",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Plomb",
-      "Mercure",
-      "Gallium",
-      "Césium"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q237",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
-    "answers": [
-      "Lion",
-      "Antilope",
-      "Lévrier",
-      "Guépard"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q238",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel est le sport le plus pratiqué au monde ?",
-    "answers": [
-      "Cricket",
-      "Tennis",
-      "Basketball",
-      "Football"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q239",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel pays n'a pas d'armée officielle ?",
-    "answers": [
-      "Vatican",
-      "Monaco",
-      "Islande",
-      "Costa Rica"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q240",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel est l'aliment le plus calorique au monde ?",
-    "answers": [
-      "Chocolat",
-      "Beurre",
-      "Fromage",
-      "Huile"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q241",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel pays possède la plus longue côte maritime au monde ?",
-    "answers": [
-      "Australie",
-      "Indonésie",
-      "Canada",
-      "Russie"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q242",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel pays n'a pas d'armée officielle ?",
-    "answers": [
-      "Costa Rica",
-      "Vatican",
-      "Islande",
-      "Monaco"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q243",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel est l'aliment le plus calorique au monde ?",
-    "answers": [
-      "Fromage",
-      "Beurre",
-      "Chocolat",
-      "Huile"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q244",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel est l'aliment le plus calorique au monde ?",
-    "answers": [
-      "Chocolat",
-      "Beurre",
-      "Huile",
-      "Fromage"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q245",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Mercure",
-      "Gallium",
-      "Césium",
-      "Plomb"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q246",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
-    "answers": [
-      "Pioneer 10",
-      "New Horizons",
-      "Voyager 1",
-      "Hubble"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q247",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel est le sport le plus pratiqué au monde ?",
-    "answers": [
-      "Tennis",
-      "Basketball",
-      "Football",
-      "Cricket"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q248",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel est le sport le plus pratiqué au monde ?",
-    "answers": [
-      "Football",
-      "Tennis",
-      "Basketball",
-      "Cricket"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q249",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Gallium",
-      "Mercure",
-      "Césium",
-      "Plomb"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q250",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel est l'aliment le plus calorique au monde ?",
-    "answers": [
-      "Chocolat",
-      "Fromage",
-      "Huile",
-      "Beurre"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q251",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel animal peut survivre dans l'espace ?",
-    "answers": [
-      "Tardigrade",
-      "Fourmi",
-      "Scarabée",
-      "Araignée"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q252",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel pays n'a pas d'armée officielle ?",
-    "answers": [
-      "Monaco",
-      "Islande",
-      "Costa Rica",
-      "Vatican"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q253",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel pays n'a pas d'armée officielle ?",
-    "answers": [
-      "Islande",
-      "Monaco",
-      "Costa Rica",
-      "Vatican"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q254",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel est le sport le plus pratiqué au monde ?",
-    "answers": [
-      "Tennis",
-      "Cricket",
-      "Basketball",
-      "Football"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q255",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel animal peut survivre dans l'espace ?",
-    "answers": [
-      "Fourmi",
-      "Tardigrade",
-      "Scarabée",
-      "Araignée"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q256",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel pays possède la plus longue côte maritime au monde ?",
-    "answers": [
-      "Russie",
-      "Australie",
-      "Canada",
-      "Indonésie"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q257",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Plomb",
-      "Mercure",
-      "Gallium",
-      "Césium"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q258",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Plomb",
-      "Gallium",
-      "Césium",
-      "Mercure"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q259",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel pays possède la plus longue côte maritime au monde ?",
-    "answers": [
-      "Canada",
-      "Indonésie",
-      "Australie",
-      "Russie"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q260",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
-    "answers": [
-      "Utricularia",
-      "Drosera",
-      "Nepenthes",
-      "Dionée"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q261",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
-    "answers": [
-      "New Horizons",
-      "Pioneer 10",
-      "Hubble",
-      "Voyager 1"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q262",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel est l'aliment le plus calorique au monde ?",
-    "answers": [
-      "Fromage",
-      "Chocolat",
-      "Huile",
-      "Beurre"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q263",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
-    "answers": [
-      "Guépard",
-      "Antilope",
-      "Lévrier",
-      "Lion"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q264",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
-    "answers": [
-      "Antilope",
-      "Guépard",
-      "Lévrier",
-      "Lion"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q265",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel animal peut survivre dans l'espace ?",
-    "answers": [
-      "Scarabée",
-      "Fourmi",
-      "Tardigrade",
-      "Araignée"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q266",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel est le sport le plus pratiqué au monde ?",
-    "answers": [
-      "Basketball",
-      "Football",
-      "Cricket",
-      "Tennis"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q267",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel est le sport le plus pratiqué au monde ?",
-    "answers": [
-      "Tennis",
-      "Cricket",
-      "Basketball",
-      "Football"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q268",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel est l'aliment le plus calorique au monde ?",
-    "answers": [
-      "Fromage",
-      "Beurre",
-      "Huile",
-      "Chocolat"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q269",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel animal peut survivre dans l'espace ?",
-    "answers": [
-      "Fourmi",
-      "Araignée",
-      "Tardigrade",
-      "Scarabée"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q270",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel animal peut survivre dans l'espace ?",
-    "answers": [
-      "Fourmi",
-      "Araignée",
-      "Tardigrade",
-      "Scarabée"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q271",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Mercure",
-      "Césium",
-      "Gallium",
-      "Plomb"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q272",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel est l'aliment le plus calorique au monde ?",
-    "answers": [
-      "Chocolat",
-      "Huile",
-      "Beurre",
-      "Fromage"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q273",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel pays n'a pas d'armée officielle ?",
-    "answers": [
-      "Islande",
-      "Monaco",
-      "Costa Rica",
-      "Vatican"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q274",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel est l'aliment le plus calorique au monde ?",
-    "answers": [
-      "Chocolat",
-      "Fromage",
-      "Beurre",
-      "Huile"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q275",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
-    "answers": [
-      "Nepenthes",
-      "Dionée",
-      "Utricularia",
-      "Drosera"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q276",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel est le sport le plus pratiqué au monde ?",
-    "answers": [
-      "Cricket",
-      "Basketball",
-      "Football",
-      "Tennis"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q277",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
-    "answers": [
-      "Hubble",
-      "New Horizons",
-      "Voyager 1",
-      "Pioneer 10"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q278",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel pays n'a pas d'armée officielle ?",
-    "answers": [
-      "Islande",
-      "Vatican",
-      "Costa Rica",
-      "Monaco"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q279",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
-    "answers": [
-      "Lion",
-      "Antilope",
-      "Guépard",
-      "Lévrier"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q280",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel est l'aliment le plus calorique au monde ?",
-    "answers": [
-      "Chocolat",
-      "Beurre",
-      "Fromage",
-      "Huile"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q281",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Gallium",
-      "Mercure",
-      "Plomb",
-      "Césium"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q282",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel animal peut survivre dans l'espace ?",
-    "answers": [
-      "Tardigrade",
-      "Araignée",
-      "Fourmi",
-      "Scarabée"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q283",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
-    "answers": [
-      "Pioneer 10",
-      "Voyager 1",
-      "New Horizons",
-      "Hubble"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q284",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Mercure",
-      "Plomb",
-      "Césium",
-      "Gallium"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q285",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel animal pond les plus gros œufs ?",
-    "answers": [
-      "Aigle",
-      "Autruche",
-      "Manchot empereur",
-      "Tortue luth"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q286",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel est l'objet le plus éloigné jamais envoyé par l'homme ?",
-    "answers": [
-      "New Horizons",
-      "Pioneer 10",
-      "Voyager 1",
-      "Hubble"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q287",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel est l'animal terrestre le plus rapide sur courte distance ?",
-    "answers": [
-      "Lion",
-      "Lévrier",
-      "Guépard",
-      "Antilope"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q288",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel pays n'a pas d'armée officielle ?",
-    "answers": [
-      "Vatican",
-      "Islande",
-      "Monaco",
-      "Costa Rica"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q289",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
-    "answers": [
-      "Drosera",
-      "Dionée",
-      "Nepenthes",
-      "Utricularia"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q290",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel animal peut survivre dans l'espace ?",
-    "answers": [
-      "Fourmi",
-      "Tardigrade",
-      "Scarabée",
-      "Araignée"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q291",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel pays n'a pas d'armée officielle ?",
-    "answers": [
-      "Islande",
-      "Costa Rica",
-      "Monaco",
-      "Vatican"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q292",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel pays possède la plus longue côte maritime au monde ?",
-    "answers": [
-      "Canada",
-      "Indonésie",
-      "Russie",
-      "Australie"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q293",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel animal pond les plus gros œufs ?",
-    "answers": [
-      "Autruche",
-      "Manchot empereur",
-      "Aigle",
-      "Tortue luth"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q294",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel est le sport le plus pratiqué au monde ?",
-    "answers": [
-      "Tennis",
-      "Football",
-      "Basketball",
-      "Cricket"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q295",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel métal reste liquide à température ambiante ?",
-    "answers": [
-      "Césium",
-      "Gallium",
-      "Plomb",
-      "Mercure"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q296",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel est l'aliment le plus calorique au monde ?",
-    "answers": [
-      "Beurre",
-      "Fromage",
-      "Chocolat",
-      "Huile"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q297",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quelle plante carnivore peut atteindre plus d’un mètre de haut ?",
-    "answers": [
-      "Nepenthes",
-      "Dionée",
-      "Utricularia",
-      "Drosera"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q298",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel animal peut survivre dans l'espace ?",
-    "answers": [
-      "Scarabée",
-      "Fourmi",
-      "Araignée",
-      "Tardigrade"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q299",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel est l'aliment le plus calorique au monde ?",
-    "answers": [
-      "Chocolat",
-      "Beurre",
-      "Fromage",
-      "Huile"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q300",
-    "category": "Insolites",
-    "difficulty": "Difficile",
-    "text": "Quel animal pond les plus gros œufs ?",
-    "answers": [
-      "Manchot empereur",
-      "Tortue luth",
-      "Aigle",
-      "Autruche"
-    ],
-    "correctIndex": 3
   }
 ]
