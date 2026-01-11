@@ -3,3900 +3,1646 @@
     "id": "q1",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du serpent géant de la légende nordique ?",
-    "answers": [
-      "Nidhogg",
-      "Fenrir",
-      "Jörmungandr",
-      "Fafnir"
-    ],
-    "correctIndex": 2
+    "text": "Quel roi mythique grec est associé au sacrifice de sa fille Iphigénie avant la guerre de Troie ?",
+    "answers": ["Agamemnon", "Ménélas", "Priam", "Nestor"],
+    "correctIndex": 0
   },
   {
     "id": "q2",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quelle épée japonaise mythique aurait été forgée par Muramasa ?",
-    "answers": [
-      "Doji-giri",
-      "Muramasa",
-      "Kusanagi",
-      "Honjo Masamune"
-    ],
-    "correctIndex": 3
+    "text": "Quelle divinité primordiale grecque personnifie le gouffre originel avant la création ?",
+    "answers": ["Gaïa", "Chaos", "Nyx", "Érèbe"],
+    "correctIndex": 1
   },
   {
     "id": "q3",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quelle ville mythique du Sahara serait faite d'or pur ?",
-    "answers": [
-      "El Dorado",
-      "Zerzura",
-      "Ophir",
-      "Timbuktu"
-    ],
+    "text": "Quel héros grec est le père de Néoptolème, aussi appelé Pyrrhus ?",
+    "answers": ["Pélée", "Agamemnon", "Achille", "Laërte"],
     "correctIndex": 2
   },
   {
     "id": "q4",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du serpent géant de la légende nordique ?",
-    "answers": [
-      "Fafnir",
-      "Fenrir",
-      "Nidhogg",
-      "Jörmungandr"
-    ],
+    "text": "Dans la mythologie nordique, quel géant est le père du loup Fenrir ?",
+    "answers": ["Ymir", "Thrym", "Skrymir", "Loki"],
     "correctIndex": 3
   },
+
   {
     "id": "q5",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quelle épée japonaise mythique aurait été forgée par Muramasa ?",
-    "answers": [
-      "Muramasa",
-      "Kusanagi",
-      "Honjo Masamune",
-      "Doji-giri"
-    ],
-    "correctIndex": 2
+    "text": "Quel héros grec est puni pour avoir révélé les secrets des dieux aux mortels ?",
+    "answers": ["Prométhée", "Atlas", "Sisyphe", "Ixion"],
+    "correctIndex": 0
   },
   {
     "id": "q6",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel roi gallois est lié à la prophétie du retour ?",
-    "answers": [
-      "Cadwaladr",
-      "Owain",
-      "Geraint",
-      "Arthur"
-    ],
-    "correctIndex": 3
+    "text": "Quelle déesse grecque est la mère des Érinyes selon certaines traditions ?",
+    "answers": ["Héra", "Nyx", "Gaïa", "Perséphone"],
+    "correctIndex": 1
   },
   {
     "id": "q7",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quelle ville mythique du Sahara serait faite d'or pur ?",
-    "answers": [
-      "Timbuktu",
-      "Zerzura",
-      "Ophir",
-      "El Dorado"
-    ],
+    "text": "Quel héros grec est responsable de la mort d’Ajax le Petit selon la légende ?",
+    "answers": ["Ulysse", "Agamemnon", "Athéna", "Poséidon"],
     "correctIndex": 2
   },
   {
     "id": "q8",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quelle épée japonaise mythique aurait été forgée par Muramasa ?",
-    "answers": [
-      "Kusanagi",
-      "Muramasa",
-      "Doji-giri",
-      "Honjo Masamune"
-    ],
+    "text": "Dans la mythologie japonaise, quel dieu tranche le corps du serpent Yamata no Orochi ?",
+    "answers": ["Raijin", "Izanagi", "Tsukuyomi", "Susanoo"],
     "correctIndex": 3
   },
+
   {
     "id": "q9",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quelle ville mythique du Sahara serait faite d'or pur ?",
-    "answers": [
-      "Timbuktu",
-      "Ophir",
-      "Zerzura",
-      "El Dorado"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec fonde la lignée des rois de Mycènes selon la tradition la plus répandue ?",
+    "answers": ["Persée", "Pélops", "Atrée", "Danaos"],
+    "correctIndex": 0
   },
   {
     "id": "q10",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel héros grec a dompté le cheval ailé Pégase ?",
-    "answers": [
-      "Bellérophon",
-      "Achille",
-      "Héraclès",
-      "Persée"
-    ],
-    "correctIndex": 0
+    "text": "Quelle divinité grecque est la personnification du fleuve infernal Styx ?",
+    "answers": ["Hécate", "Styx", "Nyx", "Thémis"],
+    "correctIndex": 1
   },
   {
     "id": "q11",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel héros grec a dompté le cheval ailé Pégase ?",
-    "answers": [
-      "Achille",
-      "Persée",
-      "Héraclès",
-      "Bellérophon"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est le père d’Orion selon certaines traditions mythologiques ?",
+    "answers": ["Zeus", "Hermès", "Poséidon", "Océan"],
+    "correctIndex": 2
   },
   {
     "id": "q12",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel héros grec a dompté le cheval ailé Pégase ?",
-    "answers": [
-      "Achille",
-      "Héraclès",
-      "Persée",
-      "Bellérophon"
-    ],
+    "text": "Dans la mythologie nordique, quel dieu est destiné à survivre au Ragnarök ?",
+    "answers": ["Thor", "Odin", "Baldr", "Víðarr"],
     "correctIndex": 3
   },
+
   {
     "id": "q13",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quelle ville mythique du Sahara serait faite d'or pur ?",
-    "answers": [
-      "Zerzura",
-      "El Dorado",
-      "Timbuktu",
-      "Ophir"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est associé au mythe de la fondation de la cité de Thespies ?",
+    "answers": ["Héraclès", "Persée", "Cadmos", "Jason"],
+    "correctIndex": 0
   },
   {
     "id": "q14",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du fantôme japonais sans visage ?",
-    "answers": [
-      "Onryō",
-      "Rokurokubi",
-      "Noppera-bō",
-      "Yūrei"
-    ],
-    "correctIndex": 2
+    "text": "Quelle déesse grecque est assimilée à la justice cosmique et à l’ordre universel ?",
+    "answers": ["Némésis", "Thémis", "Héra", "Athéna"],
+    "correctIndex": 1
   },
   {
     "id": "q15",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du fantôme japonais sans visage ?",
-    "answers": [
-      "Onryō",
-      "Noppera-bō",
-      "Rokurokubi",
-      "Yūrei"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est le père d’Œnomaos, roi de Pise, selon la tradition ?",
+    "answers": ["Pélops", "Arès", "Tantale", "Laomédon"],
+    "correctIndex": 2
   },
   {
     "id": "q16",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du démon scandinave des tempêtes marines ?",
-    "answers": [
-      "Mares",
-      "Nøkk",
-      "Kraken",
-      "Draugr"
-    ],
+    "text": "Dans la mythologie nordique, quel lieu est le domaine de la déesse Freyja après la mort ?",
+    "answers": ["Valhalla", "Niflheim", "Helheim", "Fólkvangr"],
     "correctIndex": 3
   },
+
   {
     "id": "q17",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel roi gallois est lié à la prophétie du retour ?",
-    "answers": [
-      "Cadwaladr",
-      "Owain",
-      "Arthur",
-      "Geraint"
-    ],
-    "correctIndex": 2
+    "text": "Quel héros grec est associé au mythe du sacrifice volontaire pour sauver Thèbes ?",
+    "answers": ["Ménécée", "Créon", "Cadmos", "Polynice"],
+    "correctIndex": 0
   },
   {
     "id": "q18",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quelle ville mythique du Sahara serait faite d'or pur ?",
-    "answers": [
-      "Zerzura",
-      "Timbuktu",
-      "Ophir",
-      "El Dorado"
-    ],
-    "correctIndex": 2
+    "text": "Quelle divinité grecque est la personnification du désir incontrôlable ?",
+    "answers": ["Pan", "Éros", "Dionysos", "Hyménée"],
+    "correctIndex": 1
   },
   {
     "id": "q19",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel héros grec a dompté le cheval ailé Pégase ?",
-    "answers": [
-      "Héraclès",
-      "Bellérophon",
-      "Achille",
-      "Persée"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est parfois présenté comme le père de Pégase ?",
+    "answers": ["Persée", "Bellérophon", "Poséidon", "Glaucos"],
+    "correctIndex": 2
   },
   {
     "id": "q20",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du démon scandinave des tempêtes marines ?",
-    "answers": [
-      "Draugr",
-      "Mares",
-      "Kraken",
-      "Nøkk"
-    ],
-    "correctIndex": 0
+    "text": "Dans la mythologie nordique, quel géant de feu affronte Freyr lors du Ragnarök ?",
+    "answers": ["Ymir", "Thrym", "Skrymir", "Surt"],
+    "correctIndex": 3
   },
+
   {
     "id": "q21",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du chien de chasse spectral écossais ?",
-    "answers": [
-      "Black Shuck",
-      "Barghest",
-      "Moddey Dhoo",
-      "Cù Sìth"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est lié au mythe du trépied sacré de Delphes ?",
+    "answers": ["Héraclès", "Ulysse", "Persée", "Thésée"],
+    "correctIndex": 0
   },
   {
     "id": "q22",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Dans la mythologie sumérienne, qui est le dieu des orages ?",
-    "answers": [
-      "Enlil",
-      "Nergal",
-      "Anu",
-      "Ishkur"
-    ],
-    "correctIndex": 3
+    "text": "Quelle déesse grecque est associée à la mémoire et mère des Muses ?",
+    "answers": ["Hécate", "Mnémosyne", "Nyx", "Gaïa"],
+    "correctIndex": 1
   },
   {
     "id": "q23",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quelle épée japonaise mythique aurait été forgée par Muramasa ?",
-    "answers": [
-      "Doji-giri",
-      "Kusanagi",
-      "Muramasa",
-      "Honjo Masamune"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est le père de Lycurgue, roi de Thrace ?",
+    "answers": ["Dryas", "Cadmos", "Œdipe", "Pélops"],
+    "correctIndex": 2
   },
   {
     "id": "q24",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel héros grec a dompté le cheval ailé Pégase ?",
-    "answers": [
-      "Héraclès",
-      "Bellérophon",
-      "Persée",
-      "Achille"
-    ],
-    "correctIndex": 1
+    "text": "Dans le folklore celtique gallois, quel chaudron possède le pouvoir de résurrection ?",
+    "answers": ["Chaudron de Cerridwen", "Chaudron d’abondance", "Chaudron de Bran", "Chaudron d’Annwn"],
+    "correctIndex": 3
   },
+
   {
     "id": "q25",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Dans la mythologie sumérienne, qui est le dieu des orages ?",
-    "answers": [
-      "Anu",
-      "Ishkur",
-      "Nergal",
-      "Enlil"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est associé à la purification d’Oreste après le matricide ?",
+    "answers": ["Apollon", "Hermès", "Athéna", "Zeus"],
+    "correctIndex": 0
   },
   {
     "id": "q26",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel héros grec a dompté le cheval ailé Pégase ?",
-    "answers": [
-      "Achille",
-      "Héraclès",
-      "Bellérophon",
-      "Persée"
-    ],
-    "correctIndex": 2
+    "text": "Quelle divinité grecque est la personnification de la discorde ?",
+    "answers": ["Héra", "Éris", "Némésis", "Hécate"],
+    "correctIndex": 1
   },
   {
     "id": "q27",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du démon scandinave des tempêtes marines ?",
-    "answers": [
-      "Mares",
-      "Kraken",
-      "Nøkk",
-      "Draugr"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est parfois considéré comme l’ancêtre mythique des Troyens ?",
+    "answers": ["Dardanos", "Ilos", "Anchise", "Énée"],
+    "correctIndex": 2
   },
   {
     "id": "q28",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du chien de chasse spectral écossais ?",
-    "answers": [
-      "Cù Sìth",
-      "Black Shuck",
-      "Barghest",
-      "Moddey Dhoo"
-    ],
-    "correctIndex": 0
+    "text": "Dans la mythologie nordique, quel dieu est le gardien du pont Bifröst ?",
+    "answers": ["Tyr", "Odin", "Baldr", "Heimdall"],
+    "correctIndex": 3
   },
+
   {
     "id": "q29",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du chien de chasse spectral écossais ?",
-    "answers": [
-      "Moddey Dhoo",
-      "Black Shuck",
-      "Barghest",
-      "Cù Sìth"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est associé au mythe du géant Antée, invincible tant qu’il touche la terre ?",
+    "answers": ["Héraclès", "Thésée", "Persée", "Jason"],
+    "correctIndex": 0
   },
   {
     "id": "q30",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du serpent géant de la légende nordique ?",
-    "answers": [
-      "Jörmungandr",
-      "Fenrir",
-      "Nidhogg",
-      "Fafnir"
-    ],
-    "correctIndex": 0
+    "text": "Quelle déesse grecque est identifiée à la Lune dans certaines traditions orphiques ?",
+    "answers": ["Artémis", "Séléné", "Hécate", "Nyx"],
+    "correctIndex": 1
   },
   {
     "id": "q31",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quelle épée japonaise mythique aurait été forgée par Muramasa ?",
-    "answers": [
-      "Doji-giri",
-      "Kusanagi",
-      "Muramasa",
-      "Honjo Masamune"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est le père de Déjanire ?",
+    "answers": ["Œnée", "Dryas", "Dionysos", "Cadmos"],
+    "correctIndex": 2
   },
   {
     "id": "q32",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel héros grec a dompté le cheval ailé Pégase ?",
-    "answers": [
-      "Persée",
-      "Héraclès",
-      "Achille",
-      "Bellérophon"
-    ],
+    "text": "Dans la mythologie nordique, quel loup est destiné à dévorer le Soleil ?",
+    "answers": ["Fenrir", "Garm", "Hati", "Sköll"],
     "correctIndex": 3
   },
+
   {
     "id": "q33",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du démon scandinave des tempêtes marines ?",
-    "answers": [
-      "Kraken",
-      "Nøkk",
-      "Mares",
-      "Draugr"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est lié au mythe du bouclier invincible forgé par Héphaïstos ?",
+    "answers": ["Achille", "Ajax", "Persée", "Héraclès"],
+    "correctIndex": 0
   },
   {
     "id": "q34",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quelle ville mythique du Sahara serait faite d'or pur ?",
-    "answers": [
-      "El Dorado",
-      "Ophir",
-      "Zerzura",
-      "Timbuktu"
-    ],
+    "text": "Quelle déesse grecque est associée aux carrefours, à la magie et aux fantômes ?",
+    "answers": ["Nyx", "Hécate", "Perséphone", "Artémis"],
     "correctIndex": 1
   },
   {
     "id": "q35",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du fantôme japonais sans visage ?",
-    "answers": [
-      "Onryō",
-      "Rokurokubi",
-      "Noppera-bō",
-      "Yūrei"
-    ],
+    "text": "Quel héros grec est le fils de Télamon et combat à Troie ?",
+    "answers": ["Patrocle", "Achille", "Ajax", "Diomède"],
     "correctIndex": 2
   },
   {
     "id": "q36",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du serpent géant de la légende nordique ?",
-    "answers": [
-      "Jörmungandr",
-      "Fafnir",
-      "Nidhogg",
-      "Fenrir"
-    ],
-    "correctIndex": 0
+    "text": "Dans la mythologie japonaise, quel esprit est associé aux montagnes et à la guerre ?",
+    "answers": ["Oni", "Kappa", "Kitsune", "Tengu"],
+    "correctIndex": 3
   },
+
   {
     "id": "q37",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quelle épée japonaise mythique aurait été forgée par Muramasa ?",
-    "answers": [
-      "Honjo Masamune",
-      "Muramasa",
-      "Kusanagi",
-      "Doji-giri"
-    ],
+    "text": "Quel héros grec est associé au mythe de la fondation de Massalia (Marseille) ?",
+    "answers": ["Protis", "Énée", "Jason", "Ulysse"],
     "correctIndex": 0
   },
   {
     "id": "q38",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel héros grec a dompté le cheval ailé Pégase ?",
-    "answers": [
-      "Achille",
-      "Bellérophon",
-      "Persée",
-      "Héraclès"
-    ],
+    "text": "Quelle divinité grecque est la personnification de la nuit primordiale ?",
+    "answers": ["Hécate", "Nyx", "Gaïa", "Thémis"],
     "correctIndex": 1
   },
   {
     "id": "q39",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du serpent géant de la légende nordique ?",
-    "answers": [
-      "Jörmungandr",
-      "Nidhogg",
-      "Fenrir",
-      "Fafnir"
-    ],
-    "correctIndex": 0
+    "text": "Quel héros grec est lié au mythe du roi Minos et du tribut athénien ?",
+    "answers": ["Persée", "Héraclès", "Thésée", "Jason"],
+    "correctIndex": 2
   },
   {
     "id": "q40",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quelle ville mythique du Sahara serait faite d'or pur ?",
-    "answers": [
-      "Ophir",
-      "Timbuktu",
-      "Zerzura",
-      "El Dorado"
-    ],
-    "correctIndex": 0
+    "text": "Dans la mythologie nordique, quel navire des morts est fait d’ongles humains ?",
+    "answers": ["Skidbladnir", "Hringhorni", "Gjallar", "Naglfar"],
+    "correctIndex": 3
   },
+
   {
     "id": "q41",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du serpent géant de la légende nordique ?",
-    "answers": [
-      "Jörmungandr",
-      "Nidhogg",
-      "Fafnir",
-      "Fenrir"
-    ],
+    "text": "Quel héros grec est associé au mythe de la fondation d’Arcadie ?",
+    "answers": ["Pélasgos", "Lycaon", "Danaos", "Inachos"],
     "correctIndex": 0
   },
   {
     "id": "q42",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel héros grec a dompté le cheval ailé Pégase ?",
-    "answers": [
-      "Persée",
-      "Bellérophon",
-      "Achille",
-      "Héraclès"
-    ],
+    "text": "Quelle déesse grecque est associée à la vengeance des crimes d’orgueil ?",
+    "answers": ["Héra", "Némésis", "Athéna", "Artémis"],
     "correctIndex": 1
   },
   {
     "id": "q43",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Dans la mythologie sumérienne, qui est le dieu des orages ?",
-    "answers": [
-      "Anu",
-      "Ishkur",
-      "Nergal",
-      "Enlil"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est le père de Laomédon, roi de Troie ?",
+    "answers": ["Ilos", "Anchise", "Tros", "Dardanos"],
+    "correctIndex": 2
   },
   {
     "id": "q44",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quelle épée japonaise mythique aurait été forgée par Muramasa ?",
-    "answers": [
-      "Kusanagi",
-      "Doji-giri",
-      "Muramasa",
-      "Honjo Masamune"
-    ],
+    "text": "Dans le folklore irlandais, quel héros manie la lance Gáe Bolg ?",
+    "answers": ["Fionn", "Conchobar", "Diarmuid", "Cúchulainn"],
     "correctIndex": 3
   },
+
   {
     "id": "q45",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du chien de chasse spectral écossais ?",
-    "answers": [
-      "Barghest",
-      "Moddey Dhoo",
-      "Black Shuck",
-      "Cù Sìth"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est lié au mythe de la malédiction des Atrides ?",
+    "answers": ["Pélops", "Atrée", "Agamemnon", "Thyeste"],
+    "correctIndex": 0
   },
   {
     "id": "q46",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du serpent géant de la légende nordique ?",
-    "answers": [
-      "Jörmungandr",
-      "Fenrir",
-      "Fafnir",
-      "Nidhogg"
-    ],
-    "correctIndex": 0
+    "text": "Quel dieu grec est associé aux serments inviolables ?",
+    "answers": ["Hermès", "Zeus", "Apollon", "Arès"],
+    "correctIndex": 1
   },
   {
     "id": "q47",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du démon scandinave des tempêtes marines ?",
-    "answers": [
-      "Mares",
-      "Kraken",
-      "Draugr",
-      "Nøkk"
-    ],
+    "text": "Quel héros grec est le père d’Ascalaphos, gardien des Enfers ?",
+    "answers": ["Hadès", "Arès", "Hermès", "Apollon"],
     "correctIndex": 2
   },
   {
     "id": "q48",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel héros grec a dompté le cheval ailé Pégase ?",
-    "answers": [
-      "Achille",
-      "Bellérophon",
-      "Persée",
-      "Héraclès"
-    ],
-    "correctIndex": 1
+    "text": "Dans la mythologie nordique, quel dieu venge Odin en tuant Fenrir ?",
+    "answers": ["Thor", "Baldr", "Tyr", "Víðarr"],
+    "correctIndex": 3
   },
+
   {
     "id": "q49",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du démon scandinave des tempêtes marines ?",
-    "answers": [
-      "Kraken",
-      "Draugr",
-      "Mares",
-      "Nøkk"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est associé au mythe du fleuve Scamandre personnifié ?",
+    "answers": ["Achille", "Hector", "Énée", "Ajax"],
+    "correctIndex": 0
   },
   {
     "id": "q50",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel héros chinois a vaincu le roi singe Sun Wukong ?",
-    "answers": [
-      "Xuanzang",
-      "Bouddha",
-      "Guan Yu",
-      "Nezha"
-    ],
+    "text": "Quelle divinité grecque est le souverain absolu de l’Olympe ?",
+    "answers": ["Poséidon", "Zeus", "Hadès", "Apollon"],
     "correctIndex": 1
   },
   {
     "id": "q51",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du fantôme japonais sans visage ?",
-    "answers": [
-      "Yūrei",
-      "Onryō",
-      "Rokurokubi",
-      "Noppera-bō"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est associé au mythe de la descente d’Héraclès aux Enfers pour capturer Cerbère ?",
+    "answers": ["Héraclès", "Orphée", "Thésée", "Persée"],
+    "correctIndex": 0
   },
   {
     "id": "q52",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du fantôme japonais sans visage ?",
-    "answers": [
-      "Onryō",
-      "Rokurokubi",
-      "Noppera-bō",
-      "Yūrei"
-    ],
-    "correctIndex": 2
+    "text": "Quelle divinité grecque est la personnification du serment sacré invoqué par les dieux ?",
+    "answers": ["Héra", "Styx", "Thémis", "Némésis"],
+    "correctIndex": 1
   },
   {
     "id": "q53",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du chien de chasse spectral écossais ?",
-    "answers": [
-      "Barghest",
-      "Cù Sìth",
-      "Moddey Dhoo",
-      "Black Shuck"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est le père d’Acamas et de Démophon ?",
+    "answers": ["Égée", "Pirithoos", "Thésée", "Laërte"],
+    "correctIndex": 2
   },
   {
     "id": "q54",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quelle ville mythique du Sahara serait faite d'or pur ?",
-    "answers": [
-      "Timbuktu",
-      "Zerzura",
-      "El Dorado",
-      "Ophir"
-    ],
+    "text": "Dans la mythologie nordique, quel géant est destiné à combattre Heimdall lors du Ragnarök ?",
+    "answers": ["Ymir", "Thrym", "Skrymir", "Loki"],
     "correctIndex": 3
   },
+
   {
     "id": "q55",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quelle ville mythique du Sahara serait faite d'or pur ?",
-    "answers": [
-      "Timbuktu",
-      "Ophir",
-      "Zerzura",
-      "El Dorado"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est lié au mythe du fleuve Alphée et de la nymphe Aréthuse ?",
+    "answers": ["Alphée", "Orion", "Actéon", "Pélops"],
+    "correctIndex": 0
   },
   {
     "id": "q56",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Dans la mythologie sumérienne, qui est le dieu des orages ?",
-    "answers": [
-      "Anu",
-      "Enlil",
-      "Ishkur",
-      "Nergal"
-    ],
-    "correctIndex": 2
+    "text": "Quelle déesse grecque est identifiée à la loi naturelle et à l’ordre cosmique ?",
+    "answers": ["Héra", "Thémis", "Athéna", "Gaïa"],
+    "correctIndex": 1
   },
   {
     "id": "q57",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel roi gallois est lié à la prophétie du retour ?",
-    "answers": [
-      "Owain",
-      "Cadwaladr",
-      "Arthur",
-      "Geraint"
-    ],
+    "text": "Quel héros grec est le père d’Idoménée, roi de Crète ?",
+    "answers": ["Minos", "Radamanthe", "Deucalion", "Sarpédon"],
     "correctIndex": 2
   },
   {
     "id": "q58",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel héros chinois a vaincu le roi singe Sun Wukong ?",
-    "answers": [
-      "Bouddha",
-      "Xuanzang",
-      "Guan Yu",
-      "Nezha"
-    ],
-    "correctIndex": 0
+    "text": "Dans la mythologie japonaise, quel esprit féminin apparaît sans pieds flottant dans l’air ?",
+    "answers": ["Yūrei", "Oni", "Kappa", "Noppera-bō"],
+    "correctIndex": 3
   },
+
   {
     "id": "q59",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quelle ville mythique du Sahara serait faite d'or pur ?",
-    "answers": [
-      "Zerzura",
-      "Ophir",
-      "El Dorado",
-      "Timbuktu"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est lié au mythe du sacrifice de Polyxène sur la tombe d’Achille ?",
+    "answers": ["Achille", "Néoptolème", "Agamemnon", "Ulysse"],
+    "correctIndex": 0
   },
   {
     "id": "q60",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quelle épée japonaise mythique aurait été forgée par Muramasa ?",
-    "answers": [
-      "Honjo Masamune",
-      "Kusanagi",
-      "Doji-giri",
-      "Muramasa"
-    ],
-    "correctIndex": 0
+    "text": "Quelle divinité grecque est la mère des Parques selon certaines traditions ?",
+    "answers": ["Nyx", "Thémis", "Gaïa", "Héra"],
+    "correctIndex": 1
   },
   {
     "id": "q61",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel roi gallois est lié à la prophétie du retour ?",
-    "answers": [
-      "Cadwaladr",
-      "Owain",
-      "Arthur",
-      "Geraint"
-    ],
+    "text": "Quel héros grec est le père de Médon, héraut des rois achéens ?",
+    "answers": ["Laërte", "Nestor", "Agamemnon", "Oïlée"],
     "correctIndex": 2
   },
   {
     "id": "q62",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quelle épée japonaise mythique aurait été forgée par Muramasa ?",
-    "answers": [
-      "Doji-giri",
-      "Honjo Masamune",
-      "Kusanagi",
-      "Muramasa"
-    ],
-    "correctIndex": 1
+    "text": "Dans la mythologie nordique, quel dieu souffle dans la corne Gjallarhorn au Ragnarök ?",
+    "answers": ["Odin", "Tyr", "Baldr", "Heimdall"],
+    "correctIndex": 3
   },
+
   {
     "id": "q63",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Dans la mythologie sumérienne, qui est le dieu des orages ?",
-    "answers": [
-      "Enlil",
-      "Ishkur",
-      "Nergal",
-      "Anu"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est associé au mythe de la reine Clytemnestre et du matricide ?",
+    "answers": ["Oreste", "Électre", "Agamemnon", "Égisthe"],
+    "correctIndex": 0
   },
   {
     "id": "q64",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du serpent géant de la légende nordique ?",
-    "answers": [
-      "Jörmungandr",
-      "Fafnir",
-      "Nidhogg",
-      "Fenrir"
-    ],
-    "correctIndex": 0
+    "text": "Quelle déesse grecque est honorée comme protectrice des suppliants ?",
+    "answers": ["Héra", "Athéna", "Artémis", "Hestia"],
+    "correctIndex": 1
   },
   {
     "id": "q65",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel héros chinois a vaincu le roi singe Sun Wukong ?",
-    "answers": [
-      "Nezha",
-      "Bouddha",
-      "Guan Yu",
-      "Xuanzang"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est le père de Tros, ancêtre mythique des Troyens ?",
+    "answers": ["Ilos", "Dardanos", "Érichthonios", "Laomédon"],
+    "correctIndex": 2
   },
   {
     "id": "q66",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel héros chinois a vaincu le roi singe Sun Wukong ?",
-    "answers": [
-      "Nezha",
-      "Guan Yu",
-      "Xuanzang",
-      "Bouddha"
-    ],
+    "text": "Dans la mythologie nordique, quel monstre est enchaîné jusqu’au Ragnarök sous un serpent venimeux ?",
+    "answers": ["Fenrir", "Garm", "Jörmungandr", "Loki"],
     "correctIndex": 3
   },
+
   {
     "id": "q67",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Dans la mythologie sumérienne, qui est le dieu des orages ?",
-    "answers": [
-      "Nergal",
-      "Anu",
-      "Enlil",
-      "Ishkur"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est associé au mythe du roi Amphiaraos englouti par la terre ?",
+    "answers": ["Amphiaraos", "Tydeus", "Capaneus", "Adraste"],
+    "correctIndex": 0
   },
   {
     "id": "q68",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du fantôme japonais sans visage ?",
-    "answers": [
-      "Noppera-bō",
-      "Yūrei",
-      "Onryō",
-      "Rokurokubi"
-    ],
-    "correctIndex": 0
+    "text": "Quelle divinité grecque préside aux oracles et aux vérités révélées ?",
+    "answers": ["Hermès", "Apollon", "Zeus", "Hadès"],
+    "correctIndex": 1
   },
   {
     "id": "q69",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel héros grec a dompté le cheval ailé Pégase ?",
-    "answers": [
-      "Bellérophon",
-      "Persée",
-      "Héraclès",
-      "Achille"
-    ],
-    "correctIndex": 0
+    "text": "Quel héros grec est le père de Sarpédon, allié troyen ?",
+    "answers": ["Minos", "Radamanthe", "Zeus", "Deucalion"],
+    "correctIndex": 2
   },
   {
     "id": "q70",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel héros chinois a vaincu le roi singe Sun Wukong ?",
-    "answers": [
-      "Guan Yu",
-      "Bouddha",
-      "Xuanzang",
-      "Nezha"
-    ],
-    "correctIndex": 1
+    "text": "Dans le folklore celtique irlandais, quel peuple est repoussé sous terre pour devenir le Sidhe ?",
+    "answers": ["Fir Bolg", "Fomoires", "Milesiens", "Tuatha Dé Danann"],
+    "correctIndex": 3
   },
+
   {
     "id": "q71",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du fantôme japonais sans visage ?",
-    "answers": [
-      "Noppera-bō",
-      "Yūrei",
-      "Onryō",
-      "Rokurokubi"
-    ],
+    "text": "Quel héros grec est associé au mythe de la purification de Delphes après un meurtre sacré ?",
+    "answers": ["Apollon", "Héraclès", "Orphée", "Thésée"],
     "correctIndex": 0
   },
   {
     "id": "q72",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du chien de chasse spectral écossais ?",
-    "answers": [
-      "Moddey Dhoo",
-      "Barghest",
-      "Cù Sìth",
-      "Black Shuck"
-    ],
-    "correctIndex": 2
+    "text": "Quelle déesse grecque est associée à la protection du foyer domestique ?",
+    "answers": ["Héra", "Hestia", "Déméter", "Athéna"],
+    "correctIndex": 1
   },
   {
     "id": "q73",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du serpent géant de la légende nordique ?",
-    "answers": [
-      "Jörmungandr",
-      "Nidhogg",
-      "Fafnir",
-      "Fenrir"
-    ],
-    "correctIndex": 0
+    "text": "Quel héros grec est le père de Déiphobe, prince troyen ?",
+    "answers": ["Anchise", "Laomédon", "Priam", "Tros"],
+    "correctIndex": 2
   },
   {
     "id": "q74",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du chien de chasse spectral écossais ?",
-    "answers": [
-      "Barghest",
-      "Moddey Dhoo",
-      "Black Shuck",
-      "Cù Sìth"
-    ],
+    "text": "Dans la mythologie nordique, quel loup dévore le Soleil lors du Ragnarök ?",
+    "answers": ["Fenrir", "Garm", "Hati", "Sköll"],
     "correctIndex": 3
   },
+
   {
     "id": "q75",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du fantôme japonais sans visage ?",
-    "answers": [
-      "Noppera-bō",
-      "Rokurokubi",
-      "Yūrei",
-      "Onryō"
-    ],
+    "text": "Quel héros grec est lié au mythe de la fondation de Salamine ?",
+    "answers": ["Ajax", "Thésée", "Cécrops", "Égée"],
     "correctIndex": 0
   },
   {
     "id": "q76",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du chien de chasse spectral écossais ?",
-    "answers": [
-      "Moddey Dhoo",
-      "Black Shuck",
-      "Barghest",
-      "Cù Sìth"
-    ],
-    "correctIndex": 3
+    "text": "Quelle divinité grecque est associée aux songes prophétiques ?",
+    "answers": ["Hypnos", "Morphée", "Thanatos", "Pan"],
+    "correctIndex": 1
   },
   {
     "id": "q77",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Dans la mythologie sumérienne, qui est le dieu des orages ?",
-    "answers": [
-      "Anu",
-      "Nergal",
-      "Enlil",
-      "Ishkur"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est le père d’Ascagne (Iule) selon la tradition romaine ?",
+    "answers": ["Anchise", "Laomédon", "Énée", "Priam"],
+    "correctIndex": 2
   },
   {
     "id": "q78",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Dans la mythologie sumérienne, qui est le dieu des orages ?",
-    "answers": [
-      "Nergal",
-      "Anu",
-      "Enlil",
-      "Ishkur"
-    ],
+    "text": "Dans la mythologie nordique, quel dieu sacrifie son œil pour la sagesse ?",
+    "answers": ["Tyr", "Thor", "Baldr", "Odin"],
     "correctIndex": 3
   },
+
   {
     "id": "q79",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel roi gallois est lié à la prophétie du retour ?",
-    "answers": [
-      "Geraint",
-      "Owain",
-      "Arthur",
-      "Cadwaladr"
-    ],
-    "correctIndex": 2
+    "text": "Quel héros grec est associé au mythe de la chasse au sanglier de Calydon ?",
+    "answers": ["Méléagre", "Héraclès", "Thésée", "Jason"],
+    "correctIndex": 0
   },
   {
     "id": "q80",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Dans la mythologie sumérienne, qui est le dieu des orages ?",
-    "answers": [
-      "Ishkur",
-      "Anu",
-      "Nergal",
-      "Enlil"
-    ],
-    "correctIndex": 0
+    "text": "Quelle déesse grecque est la mère d’Apollon et d’Artémis ?",
+    "answers": ["Héra", "Léto", "Déméter", "Mnémosyne"],
+    "correctIndex": 1
   },
   {
     "id": "q81",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du démon scandinave des tempêtes marines ?",
-    "answers": [
-      "Kraken",
-      "Draugr",
-      "Mares",
-      "Nøkk"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est le père de Télamon ?",
+    "answers": ["Éaque", "Pélée", "Laërte", "Minos"],
+    "correctIndex": 2
   },
   {
     "id": "q82",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quelle ville mythique du Sahara serait faite d'or pur ?",
-    "answers": [
-      "Timbuktu",
-      "Zerzura",
-      "Ophir",
-      "El Dorado"
-    ],
-    "correctIndex": 2
+    "text": "Dans le folklore breton, quel être spectral annonce la mort ?",
+    "answers": ["La lavandière", "La korrigane", "La fée", "L’Ankou"],
+    "correctIndex": 3
   },
+
   {
     "id": "q83",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du chien de chasse spectral écossais ?",
-    "answers": [
-      "Black Shuck",
-      "Moddey Dhoo",
-      "Barghest",
-      "Cù Sìth"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est associé au mythe du sang d’Héraclès empoisonnant Nessos ?",
+    "answers": ["Héraclès", "Thésée", "Jason", "Persée"],
+    "correctIndex": 0
   },
   {
     "id": "q84",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du chien de chasse spectral écossais ?",
-    "answers": [
-      "Barghest",
-      "Black Shuck",
-      "Cù Sìth",
-      "Moddey Dhoo"
-    ],
-    "correctIndex": 2
+    "text": "Quelle divinité grecque est associée à la punition du parjure ?",
+    "answers": ["Hécate", "Némésis", "Thémis", "Éris"],
+    "correctIndex": 1
   },
   {
     "id": "q85",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du démon scandinave des tempêtes marines ?",
-    "answers": [
-      "Nøkk",
-      "Kraken",
-      "Mares",
-      "Draugr"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est le père d’Hylas, compagnon d’Héraclès ?",
+    "answers": ["Théiodamas", "Pélops", "Jason", "Laomédon"],
+    "correctIndex": 2
   },
   {
     "id": "q86",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel héros chinois a vaincu le roi singe Sun Wukong ?",
-    "answers": [
-      "Bouddha",
-      "Guan Yu",
-      "Xuanzang",
-      "Nezha"
-    ],
-    "correctIndex": 0
+    "text": "Dans la mythologie nordique, quel royaume est réservé à une partie des guerriers morts ?",
+    "answers": ["Helheim", "Niflheim", "Asgard", "Fólkvangr"],
+    "correctIndex": 3
   },
+
   {
     "id": "q87",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quelle ville mythique du Sahara serait faite d'or pur ?",
-    "answers": [
-      "Zerzura",
-      "Timbuktu",
-      "El Dorado",
-      "Ophir"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est associé au mythe du trône brûlant de Lycurgue ?",
+    "answers": ["Dionysos", "Héraclès", "Orphée", "Persée"],
+    "correctIndex": 0
   },
   {
     "id": "q88",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quelle ville mythique du Sahara serait faite d'or pur ?",
-    "answers": [
-      "El Dorado",
-      "Ophir",
-      "Zerzura",
-      "Timbuktu"
-    ],
+    "text": "Quelle divinité grecque est la personnification de la mémoire ?",
+    "answers": ["Gaïa", "Mnémosyne", "Nyx", "Thémis"],
     "correctIndex": 1
   },
   {
     "id": "q89",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du chien de chasse spectral écossais ?",
-    "answers": [
-      "Moddey Dhoo",
-      "Black Shuck",
-      "Cù Sìth",
-      "Barghest"
-    ],
+    "text": "Quel héros grec est le père de Pyrrhos (Néoptolème) ?",
+    "answers": ["Pélée", "Agamemnon", "Achille", "Laërte"],
     "correctIndex": 2
   },
   {
     "id": "q90",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du serpent géant de la légende nordique ?",
-    "answers": [
-      "Fenrir",
-      "Jörmungandr",
-      "Nidhogg",
-      "Fafnir"
-    ],
-    "correctIndex": 1
+    "text": "Dans la mythologie nordique, quel géant marin affronte Thor à la fin des temps ?",
+    "answers": ["Ymir", "Garm", "Surt", "Jörmungandr"],
+    "correctIndex": 3
   },
+
   {
     "id": "q91",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quelle ville mythique du Sahara serait faite d'or pur ?",
-    "answers": [
-      "Timbuktu",
-      "El Dorado",
-      "Zerzura",
-      "Ophir"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est associé au mythe du serment de Tyndare ?",
+    "answers": ["Ulysse", "Agamemnon", "Ménélas", "Nestor"],
+    "correctIndex": 0
   },
   {
     "id": "q92",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel roi gallois est lié à la prophétie du retour ?",
-    "answers": [
-      "Arthur",
-      "Owain",
-      "Cadwaladr",
-      "Geraint"
-    ],
-    "correctIndex": 0
+    "text": "Quelle divinité grecque est associée à la destinée inéluctable ?",
+    "answers": ["Héra", "Ananké", "Moira", "Némésis"],
+    "correctIndex": 1
   },
   {
     "id": "q93",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quelle épée japonaise mythique aurait été forgée par Muramasa ?",
-    "answers": [
-      "Doji-giri",
-      "Kusanagi",
-      "Muramasa",
-      "Honjo Masamune"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est le père de Machaon, médecin de l’armée achéenne ?",
+    "answers": ["Apollon", "Asclépios", "Chiron", "Pélée"],
+    "correctIndex": 2
   },
   {
     "id": "q94",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel héros chinois a vaincu le roi singe Sun Wukong ?",
-    "answers": [
-      "Bouddha",
-      "Xuanzang",
-      "Guan Yu",
-      "Nezha"
-    ],
-    "correctIndex": 0
+    "text": "Dans la mythologie nordique, quel arbre cosmique soutient les neuf mondes ?",
+    "answers": ["Irminsul", "Mímameiðr", "Hliðskjálf", "Yggdrasil"],
+    "correctIndex": 3
   },
+
   {
     "id": "q95",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du chien de chasse spectral écossais ?",
-    "answers": [
-      "Black Shuck",
-      "Barghest",
-      "Cù Sìth",
-      "Moddey Dhoo"
-    ],
-    "correctIndex": 2
+    "text": "Quel héros grec est lié au mythe de la mort de Polyxène ?",
+    "answers": ["Néoptolème", "Agamemnon", "Ulysse", "Achille"],
+    "correctIndex": 0
   },
   {
     "id": "q96",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Dans la mythologie sumérienne, qui est le dieu des orages ?",
-    "answers": [
-      "Nergal",
-      "Enlil",
-      "Anu",
-      "Ishkur"
-    ],
-    "correctIndex": 3
+    "text": "Quelle déesse grecque est associée à la rétribution divine ?",
+    "answers": ["Héra", "Némésis", "Athéna", "Artémis"],
+    "correctIndex": 1
   },
   {
     "id": "q97",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quelle épée japonaise mythique aurait été forgée par Muramasa ?",
-    "answers": [
-      "Honjo Masamune",
-      "Kusanagi",
-      "Doji-giri",
-      "Muramasa"
-    ],
-    "correctIndex": 0
+    "text": "Quel héros grec est le père de Télégone ?",
+    "answers": ["Agamemnon", "Laërte", "Ulysse", "Achille"],
+    "correctIndex": 2
   },
   {
     "id": "q98",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du serpent géant de la légende nordique ?",
-    "answers": [
-      "Jörmungandr",
-      "Fenrir",
-      "Nidhogg",
-      "Fafnir"
-    ],
-    "correctIndex": 0
+    "text": "Dans le folklore japonais, quel yōkai enlève l’âme par le regard ?",
+    "answers": ["Oni", "Kappa", "Yūrei", "Nurikabe"],
+    "correctIndex": 3
   },
+
   {
     "id": "q99",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel roi gallois est lié à la prophétie du retour ?",
-    "answers": [
-      "Geraint",
-      "Cadwaladr",
-      "Arthur",
-      "Owain"
-    ],
-    "correctIndex": 2
+    "text": "Quel héros grec est associé au mythe du roi Érechthée d’Athènes ?",
+    "answers": ["Ion", "Thésée", "Cécrops", "Érechthée"],
+    "correctIndex": 0
   },
   {
     "id": "q100",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du démon scandinave des tempêtes marines ?",
-    "answers": [
-      "Nøkk",
-      "Draugr",
-      "Mares",
-      "Kraken"
-    ],
+    "text": "Quelle divinité grecque est le souverain suprême de l’Olympe ?",
+    "answers": ["Poséidon", "Zeus", "Hadès", "Apollon"],
     "correctIndex": 1
   },
   {
     "id": "q101",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du fantôme japonais sans visage ?",
-    "answers": [
-      "Onryō",
-      "Yūrei",
-      "Rokurokubi",
-      "Noppera-bō"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est le fils d’Éaque et le père d’Achille ?",
+    "answers": ["Laërte", "Minos", "Pélée", "Télamon"],
+    "correctIndex": 2
   },
   {
     "id": "q102",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quelle épée japonaise mythique aurait été forgée par Muramasa ?",
-    "answers": [
-      "Kusanagi",
-      "Honjo Masamune",
-      "Muramasa",
-      "Doji-giri"
-    ],
-    "correctIndex": 1
+    "text": "Dans la mythologie nordique, quel royaume est gouverné par Hel ?",
+    "answers": ["Niflheim", "Asgard", "Vanaheim", "Helheim"],
+    "correctIndex": 3
   },
   {
     "id": "q103",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du serpent géant de la légende nordique ?",
-    "answers": [
-      "Nidhogg",
-      "Fenrir",
-      "Jörmungandr",
-      "Fafnir"
-    ],
-    "correctIndex": 2
+    "text": "Quel héros grec a instauré les Jeux olympiques selon la tradition mythologique ?",
+    "answers": ["Héraclès", "Pélops", "Achille", "Thésée"],
+    "correctIndex": 0
   },
   {
     "id": "q104",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel roi gallois est lié à la prophétie du retour ?",
-    "answers": [
-      "Arthur",
-      "Owain",
-      "Cadwaladr",
-      "Geraint"
-    ],
-    "correctIndex": 0
+    "text": "Quelle déesse grecque est associée aux carrefours et à la magie nocturne ?",
+    "answers": ["Artémis", "Hécate", "Nyx", "Perséphone"],
+    "correctIndex": 1
   },
   {
     "id": "q105",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Dans la mythologie sumérienne, qui est le dieu des orages ?",
-    "answers": [
-      "Ishkur",
-      "Anu",
-      "Enlil",
-      "Nergal"
-    ],
-    "correctIndex": 0
+    "text": "Quel héros grec est le fondateur mythique de Mycènes ?",
+    "answers": ["Atrée", "Agamemnon", "Persée", "Danaos"],
+    "correctIndex": 2
   },
   {
     "id": "q106",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Dans la mythologie sumérienne, qui est le dieu des orages ?",
-    "answers": [
-      "Nergal",
-      "Anu",
-      "Ishkur",
-      "Enlil"
-    ],
-    "correctIndex": 2
+    "text": "Dans la mythologie nordique, quel dieu est enchaîné avec les entrailles de son fils ?",
+    "answers": ["Odin", "Baldr", "Tyr", "Loki"],
+    "correctIndex": 3
   },
   {
     "id": "q107",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du démon scandinave des tempêtes marines ?",
-    "answers": [
-      "Mares",
-      "Nøkk",
-      "Draugr",
-      "Kraken"
-    ],
-    "correctIndex": 2
+    "text": "Quel héros grec est connu pour avoir défié Hadès afin de ramener Eurydice ?",
+    "answers": ["Orphée", "Héraclès", "Thésée", "Ulysse"],
+    "correctIndex": 0
   },
   {
     "id": "q108",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel héros chinois a vaincu le roi singe Sun Wukong ?",
-    "answers": [
-      "Bouddha",
-      "Xuanzang",
-      "Nezha",
-      "Guan Yu"
-    ],
-    "correctIndex": 0
+    "text": "Quelle divinité grecque personnifie la discorde ?",
+    "answers": ["Héra", "Éris", "Némésis", "Athéna"],
+    "correctIndex": 1
   },
   {
     "id": "q109",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quelle ville mythique du Sahara serait faite d'or pur ?",
-    "answers": [
-      "El Dorado",
-      "Zerzura",
-      "Timbuktu",
-      "Ophir"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est le père d’Œdipe selon la tradition ?",
+    "answers": ["Créon", "Polybe", "Laïos", "Cadmos"],
+    "correctIndex": 2
   },
   {
     "id": "q110",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quelle ville mythique du Sahara serait faite d'or pur ?",
-    "answers": [
-      "El Dorado",
-      "Timbuktu",
-      "Zerzura",
-      "Ophir"
-    ],
+    "text": "Dans la mythologie nordique, quel feu primordial détruit le monde au Ragnarök ?",
+    "answers": ["Muspell", "Niflheim", "Ginnungagap", "Surt"],
     "correctIndex": 3
   },
+
   {
     "id": "q111",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du démon scandinave des tempêtes marines ?",
-    "answers": [
-      "Draugr",
-      "Mares",
-      "Nøkk",
-      "Kraken"
-    ],
+    "text": "Quel héros grec est associé au mythe de la purification de Thèbes ?",
+    "answers": ["Cadmos", "Œdipe", "Amphion", "Zéthos"],
     "correctIndex": 0
   },
   {
     "id": "q112",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Dans la mythologie sumérienne, qui est le dieu des orages ?",
-    "answers": [
-      "Anu",
-      "Enlil",
-      "Nergal",
-      "Ishkur"
-    ],
-    "correctIndex": 3
+    "text": "Quelle déesse grecque est la mère de Dionysos ?",
+    "answers": ["Héra", "Sémélé", "Perséphone", "Rhée"],
+    "correctIndex": 1
   },
   {
     "id": "q113",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du serpent géant de la légende nordique ?",
-    "answers": [
-      "Fenrir",
-      "Nidhogg",
-      "Fafnir",
-      "Jörmungandr"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est le fils de Danaé ?",
+    "answers": ["Héraclès", "Bellérophon", "Persée", "Thésée"],
+    "correctIndex": 2
   },
   {
     "id": "q114",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quelle ville mythique du Sahara serait faite d'or pur ?",
-    "answers": [
-      "Timbuktu",
-      "El Dorado",
-      "Ophir",
-      "Zerzura"
-    ],
-    "correctIndex": 2
+    "text": "Dans la mythologie nordique, quel animal ronge les racines d’Yggdrasil ?",
+    "answers": ["Ratatosk", "Fenrir", "Hati", "Níðhöggr"],
+    "correctIndex": 3
   },
+
   {
     "id": "q115",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du serpent géant de la légende nordique ?",
-    "answers": [
-      "Fenrir",
-      "Jörmungandr",
-      "Nidhogg",
-      "Fafnir"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est associé au mythe du meurtre d’Apsyrtos ?",
+    "answers": ["Jason", "Orphée", "Héraclès", "Castor"],
+    "correctIndex": 0
   },
   {
     "id": "q116",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du fantôme japonais sans visage ?",
-    "answers": [
-      "Noppera-bō",
-      "Yūrei",
-      "Rokurokubi",
-      "Onryō"
-    ],
-    "correctIndex": 0
+    "text": "Quelle déesse grecque est associée à la nuit primordiale ?",
+    "answers": ["Hécate", "Nyx", "Gaïa", "Éos"],
+    "correctIndex": 1
   },
   {
     "id": "q117",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Dans la mythologie sumérienne, qui est le dieu des orages ?",
-    "answers": [
-      "Nergal",
-      "Enlil",
-      "Anu",
-      "Ishkur"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est le père de Bellérophon selon Homère ?",
+    "answers": ["Glaucos", "Sisyphe", "Poséidon", "Nauplios"],
+    "correctIndex": 2
   },
   {
     "id": "q118",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Dans la mythologie sumérienne, qui est le dieu des orages ?",
-    "answers": [
-      "Enlil",
-      "Nergal",
-      "Anu",
-      "Ishkur"
-    ],
+    "text": "Dans la mythologie nordique, quel dieu est destiné à mourir face au loup Fenrir ?",
+    "answers": ["Thor", "Baldr", "Tyr", "Odin"],
     "correctIndex": 3
   },
+
   {
     "id": "q119",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du fantôme japonais sans visage ?",
-    "answers": [
-      "Onryō",
-      "Yūrei",
-      "Noppera-bō",
-      "Rokurokubi"
-    ],
-    "correctIndex": 2
+    "text": "Quel héros grec a fondé la cité de Cyrène selon la tradition ?",
+    "answers": ["Battos", "Cadmos", "Danaos", "Énée"],
+    "correctIndex": 0
   },
   {
     "id": "q120",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Dans la mythologie sumérienne, qui est le dieu des orages ?",
-    "answers": [
-      "Anu",
-      "Nergal",
-      "Enlil",
-      "Ishkur"
-    ],
-    "correctIndex": 3
+    "text": "Quelle divinité grecque est associée à l’oubli et au Léthé ?",
+    "answers": ["Mnémosyne", "Léthé", "Perséphone", "Nyx"],
+    "correctIndex": 1
   },
   {
     "id": "q121",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel roi gallois est lié à la prophétie du retour ?",
-    "answers": [
-      "Geraint",
-      "Owain",
-      "Arthur",
-      "Cadwaladr"
-    ],
+    "text": "Quel héros grec est le père d’Hippolyte ?",
+    "answers": ["Pirithoos", "Égée", "Thésée", "Minos"],
     "correctIndex": 2
   },
   {
     "id": "q122",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quelle épée japonaise mythique aurait été forgée par Muramasa ?",
-    "answers": [
-      "Honjo Masamune",
-      "Kusanagi",
-      "Doji-giri",
-      "Muramasa"
-    ],
-    "correctIndex": 0
+    "text": "Dans la mythologie nordique, quel pont relie Midgard à Asgard ?",
+    "answers": ["Gjallarbrú", "Hliðskjálf", "Yggdrasil", "Bifröst"],
+    "correctIndex": 3
   },
+
   {
     "id": "q123",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel héros grec a dompté le cheval ailé Pégase ?",
-    "answers": [
-      "Achille",
-      "Bellérophon",
-      "Héraclès",
-      "Persée"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est lié au mythe du châtiment de Tantale ?",
+    "answers": ["Tantale", "Atrée", "Pélops", "Thyeste"],
+    "correctIndex": 0
   },
   {
     "id": "q124",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel héros grec a dompté le cheval ailé Pégase ?",
-    "answers": [
-      "Héraclès",
-      "Persée",
-      "Achille",
-      "Bellérophon"
-    ],
-    "correctIndex": 3
+    "text": "Quelle déesse grecque est associée à la vengeance familiale ?",
+    "answers": ["Artémis", "Némésis", "Érinys", "Héra"],
+    "correctIndex": 1
   },
   {
     "id": "q125",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du fantôme japonais sans visage ?",
-    "answers": [
-      "Rokurokubi",
-      "Onryō",
-      "Yūrei",
-      "Noppera-bō"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est le père d’Antiloque ?",
+    "answers": ["Ménélas", "Diomède", "Nestor", "Ajax"],
+    "correctIndex": 2
   },
   {
     "id": "q126",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du chien de chasse spectral écossais ?",
-    "answers": [
-      "Moddey Dhoo",
-      "Black Shuck",
-      "Cù Sìth",
-      "Barghest"
-    ],
-    "correctIndex": 2
+    "text": "Dans la mythologie nordique, quel géant de feu gouverne Muspellheim ?",
+    "answers": ["Ymir", "Thrym", "Skrymir", "Surt"],
+    "correctIndex": 3
   },
+
   {
     "id": "q127",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel héros chinois a vaincu le roi singe Sun Wukong ?",
-    "answers": [
-      "Nezha",
-      "Xuanzang",
-      "Guan Yu",
-      "Bouddha"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est associé au mythe du roi Lycurgue puni par Dionysos ?",
+    "answers": ["Dionysos", "Orphée", "Héraclès", "Thésée"],
+    "correctIndex": 0
   },
   {
     "id": "q128",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du chien de chasse spectral écossais ?",
-    "answers": [
-      "Cù Sìth",
-      "Moddey Dhoo",
-      "Black Shuck",
-      "Barghest"
-    ],
-    "correctIndex": 0
+    "text": "Quelle déesse grecque est la mère des Muses ?",
+    "answers": ["Gaïa", "Mnémosyne", "Héra", "Rhée"],
+    "correctIndex": 1
   },
   {
     "id": "q129",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du fantôme japonais sans visage ?",
-    "answers": [
-      "Noppera-bō",
-      "Yūrei",
-      "Onryō",
-      "Rokurokubi"
-    ],
-    "correctIndex": 0
+    "text": "Quel héros grec est le père de Pâris ?",
+    "answers": ["Tros", "Anchise", "Priam", "Laomédon"],
+    "correctIndex": 2
   },
   {
     "id": "q130",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du démon scandinave des tempêtes marines ?",
-    "answers": [
-      "Nøkk",
-      "Mares",
-      "Draugr",
-      "Kraken"
-    ],
-    "correctIndex": 2
+    "text": "Dans la mythologie nordique, quel dieu manie le marteau Mjöllnir ?",
+    "answers": ["Tyr", "Odin", "Baldr", "Thor"],
+    "correctIndex": 3
   },
+
   {
     "id": "q131",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du chien de chasse spectral écossais ?",
-    "answers": [
-      "Cù Sìth",
-      "Black Shuck",
-      "Moddey Dhoo",
-      "Barghest"
-    ],
+    "text": "Quel héros grec est associé au mythe de la fondation d’Argos ?",
+    "answers": ["Danaos", "Cadmos", "Persée", "Inachos"],
     "correctIndex": 0
   },
   {
     "id": "q132",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel héros grec a dompté le cheval ailé Pégase ?",
-    "answers": [
-      "Persée",
-      "Achille",
-      "Héraclès",
-      "Bellérophon"
-    ],
-    "correctIndex": 3
+    "text": "Quelle divinité grecque préside aux châtiments infernaux ?",
+    "answers": ["Héra", "Hadès", "Perséphone", "Thanatos"],
+    "correctIndex": 1
   },
   {
     "id": "q133",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quelle ville mythique du Sahara serait faite d'or pur ?",
-    "answers": [
-      "Timbuktu",
-      "Ophir",
-      "El Dorado",
-      "Zerzura"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est le père de Polydore, prince troyen ?",
+    "answers": ["Anchise", "Laomédon", "Priam", "Tros"],
+    "correctIndex": 2
   },
   {
     "id": "q134",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Dans la mythologie sumérienne, qui est le dieu des orages ?",
-    "answers": [
-      "Nergal",
-      "Ishkur",
-      "Enlil",
-      "Anu"
-    ],
-    "correctIndex": 1
+    "text": "Dans la mythologie nordique, quel dieu est aveugle et tue Baldr ?",
+    "answers": ["Odin", "Tyr", "Loki", "Höðr"],
+    "correctIndex": 3
   },
+
   {
     "id": "q135",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel héros grec a dompté le cheval ailé Pégase ?",
-    "answers": [
-      "Persée",
-      "Héraclès",
-      "Achille",
-      "Bellérophon"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est associé au mythe de la reine Pasiphaé ?",
+    "answers": ["Minos", "Thésée", "Dédale", "Androgée"],
+    "correctIndex": 0
   },
   {
     "id": "q136",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du fantôme japonais sans visage ?",
-    "answers": [
-      "Noppera-bō",
-      "Rokurokubi",
-      "Yūrei",
-      "Onryō"
-    ],
-    "correctIndex": 0
+    "text": "Quelle déesse grecque est associée à l’aube ?",
+    "answers": ["Nyx", "Éos", "Hécate", "Artémis"],
+    "correctIndex": 1
   },
   {
     "id": "q137",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Dans la mythologie sumérienne, qui est le dieu des orages ?",
-    "answers": [
-      "Ishkur",
-      "Nergal",
-      "Anu",
-      "Enlil"
-    ],
-    "correctIndex": 0
+    "text": "Quel héros grec est le père de Philoctète ?",
+    "answers": ["Héraclès", "Péan", "Poias", "Laërte"],
+    "correctIndex": 2
   },
   {
     "id": "q138",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du démon scandinave des tempêtes marines ?",
-    "answers": [
-      "Draugr",
-      "Mares",
-      "Kraken",
-      "Nøkk"
-    ],
-    "correctIndex": 0
+    "text": "Dans la mythologie nordique, quel animal poursuit la Lune ?",
+    "answers": ["Fenrir", "Sköll", "Garm", "Hati"],
+    "correctIndex": 3
   },
+
   {
     "id": "q139",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du fantôme japonais sans visage ?",
-    "answers": [
-      "Rokurokubi",
-      "Noppera-bō",
-      "Yūrei",
-      "Onryō"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est lié au mythe du châtiment de Prométhée ?",
+    "answers": ["Héraclès", "Zeus", "Atlas", "Persée"],
+    "correctIndex": 0
   },
   {
     "id": "q140",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel héros grec a dompté le cheval ailé Pégase ?",
-    "answers": [
-      "Héraclès",
-      "Bellérophon",
-      "Achille",
-      "Persée"
-    ],
+    "text": "Quelle divinité grecque est associée à la loi sacrée et divine ?",
+    "answers": ["Héra", "Thémis", "Athéna", "Diké"],
     "correctIndex": 1
   },
   {
     "id": "q141",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quelle ville mythique du Sahara serait faite d'or pur ?",
-    "answers": [
-      "El Dorado",
-      "Zerzura",
-      "Timbuktu",
-      "Ophir"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est le père de Télémaque ?",
+    "answers": ["Laërte", "Agamemnon", "Ulysse", "Nestor"],
+    "correctIndex": 2
   },
   {
     "id": "q142",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel héros grec a dompté le cheval ailé Pégase ?",
-    "answers": [
-      "Héraclès",
-      "Bellérophon",
-      "Persée",
-      "Achille"
-    ],
-    "correctIndex": 1
+    "text": "Dans la mythologie nordique, quel royaume est celui des Vanes ?",
+    "answers": ["Asgard", "Midgard", "Jötunheim", "Vanaheim"],
+    "correctIndex": 3
   },
+
   {
     "id": "q143",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du fantôme japonais sans visage ?",
-    "answers": [
-      "Yūrei",
-      "Rokurokubi",
-      "Noppera-bō",
-      "Onryō"
-    ],
-    "correctIndex": 2
+    "text": "Quel héros grec est associé au mythe de la fondation de Thèbes ?",
+    "answers": ["Cadmos", "Œdipe", "Amphion", "Zéthos"],
+    "correctIndex": 0
   },
   {
     "id": "q144",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du serpent géant de la légende nordique ?",
-    "answers": [
-      "Jörmungandr",
-      "Fafnir",
-      "Nidhogg",
-      "Fenrir"
-    ],
-    "correctIndex": 0
+    "text": "Quelle déesse grecque est associée à la justice humaine ?",
+    "answers": ["Thémis", "Diké", "Némésis", "Héra"],
+    "correctIndex": 1
   },
   {
     "id": "q145",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du serpent géant de la légende nordique ?",
-    "answers": [
-      "Fenrir",
-      "Fafnir",
-      "Nidhogg",
-      "Jörmungandr"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est le père d’Astyanax ?",
+    "answers": ["Priam", "Anchise", "Hector", "Pâris"],
+    "correctIndex": 2
   },
   {
     "id": "q146",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel roi gallois est lié à la prophétie du retour ?",
-    "answers": [
-      "Owain",
-      "Cadwaladr",
-      "Geraint",
-      "Arthur"
-    ],
+    "text": "Dans la mythologie nordique, quel chien garde l’entrée de Hel ?",
+    "answers": ["Fenrir", "Hati", "Sköll", "Garm"],
     "correctIndex": 3
   },
+
   {
     "id": "q147",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel héros chinois a vaincu le roi singe Sun Wukong ?",
-    "answers": [
-      "Guan Yu",
-      "Xuanzang",
-      "Bouddha",
-      "Nezha"
-    ],
-    "correctIndex": 2
+    "text": "Quel héros grec est associé au mythe du sacrifice d’Iphigénie ?",
+    "answers": ["Agamemnon", "Ménélas", "Ulysse", "Achille"],
+    "correctIndex": 0
   },
   {
     "id": "q148",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du fantôme japonais sans visage ?",
-    "answers": [
-      "Rokurokubi",
-      "Yūrei",
-      "Onryō",
-      "Noppera-bō"
-    ],
-    "correctIndex": 3
+    "text": "Quelle divinité grecque est associée au sommeil ?",
+    "answers": ["Thanatos", "Hypnos", "Morphée", "Nyx"],
+    "correctIndex": 1
   },
   {
     "id": "q149",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du serpent géant de la légende nordique ?",
-    "answers": [
-      "Fenrir",
-      "Jörmungandr",
-      "Fafnir",
-      "Nidhogg"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est le père d’Hélène de Troie ?",
+    "answers": ["Tyndare", "Agamemnon", "Zeus", "Castor"],
+    "correctIndex": 2
   },
   {
     "id": "q150",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du chien de chasse spectral écossais ?",
-    "answers": [
-      "Black Shuck",
-      "Moddey Dhoo",
-      "Cù Sìth",
-      "Barghest"
-    ],
-    "correctIndex": 2
+    "text": "Dans la mythologie nordique, quel dieu règne sur Asgard ?",
+    "answers": ["Thor", "Baldr", "Tyr", "Odin"],
+    "correctIndex": 3
   },
   {
     "id": "q151",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel héros chinois a vaincu le roi singe Sun Wukong ?",
-    "answers": [
-      "Nezha",
-      "Guan Yu",
-      "Xuanzang",
-      "Bouddha"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est associé au mythe de la fondation de la cité de Pergame ?",
+    "answers": ["Télèphe", "Persée", "Énée", "Héraclès"],
+    "correctIndex": 0
   },
   {
     "id": "q152",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel roi gallois est lié à la prophétie du retour ?",
-    "answers": [
-      "Owain",
-      "Geraint",
-      "Arthur",
-      "Cadwaladr"
-    ],
-    "correctIndex": 2
+    "text": "Quelle divinité grecque est la personnification de la justice humaine appliquée ?",
+    "answers": ["Thémis", "Diké", "Némésis", "Héra"],
+    "correctIndex": 1
   },
   {
     "id": "q153",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du démon scandinave des tempêtes marines ?",
-    "answers": [
-      "Draugr",
-      "Mares",
-      "Nøkk",
-      "Kraken"
-    ],
-    "correctIndex": 0
+    "text": "Quel héros grec est le père de Médée selon la mythologie ?",
+    "answers": ["Hélios", "Éson", "Æétès", "Jason"],
+    "correctIndex": 2
   },
   {
     "id": "q154",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du démon scandinave des tempêtes marines ?",
-    "answers": [
-      "Draugr",
-      "Mares",
-      "Nøkk",
-      "Kraken"
-    ],
-    "correctIndex": 0
+    "text": "Dans la mythologie nordique, quel géant est le gardien du royaume de Jötunheim ?",
+    "answers": ["Ymir", "Surt", "Thrym", "Utgard-Loki"],
+    "correctIndex": 3
   },
+
   {
     "id": "q155",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel héros chinois a vaincu le roi singe Sun Wukong ?",
-    "answers": [
-      "Bouddha",
-      "Xuanzang",
-      "Nezha",
-      "Guan Yu"
-    ],
+    "text": "Quel héros grec est associé au mythe de la purification de la ville d’Athènes ?",
+    "answers": ["Épiménide", "Solon", "Thésée", "Dracon"],
     "correctIndex": 0
   },
   {
     "id": "q156",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quelle ville mythique du Sahara serait faite d'or pur ?",
-    "answers": [
-      "El Dorado",
-      "Zerzura",
-      "Timbuktu",
-      "Ophir"
-    ],
-    "correctIndex": 3
+    "text": "Quelle déesse grecque est associée à la vengeance inexorable des crimes familiaux ?",
+    "answers": ["Artémis", "Érinys", "Némésis", "Hécate"],
+    "correctIndex": 1
   },
   {
     "id": "q157",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du fantôme japonais sans visage ?",
-    "answers": [
-      "Rokurokubi",
-      "Onryō",
-      "Noppera-bō",
-      "Yūrei"
-    ],
+    "text": "Quel héros grec est le père de Mélanippe, liée au mythe de Poséidon ?",
+    "answers": ["Œnée", "Éole", "Desmontès", "Phrixos"],
     "correctIndex": 2
   },
   {
     "id": "q158",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel héros grec a dompté le cheval ailé Pégase ?",
-    "answers": [
-      "Achille",
-      "Héraclès",
-      "Persée",
-      "Bellérophon"
-    ],
+    "text": "Dans la mythologie nordique, quel animal ronge les racines d’Yggdrasil sans cesse ?",
+    "answers": ["Ratatosk", "Fenrir", "Hati", "Níðhöggr"],
     "correctIndex": 3
   },
+
   {
     "id": "q159",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quelle épée japonaise mythique aurait été forgée par Muramasa ?",
-    "answers": [
-      "Honjo Masamune",
-      "Doji-giri",
-      "Kusanagi",
-      "Muramasa"
-    ],
+    "text": "Quel héros grec est associé au mythe de la fondation de la ville de Troezen ?",
+    "answers": ["Pittheus", "Égée", "Thésée", "Pélops"],
     "correctIndex": 0
   },
   {
     "id": "q160",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quelle épée japonaise mythique aurait été forgée par Muramasa ?",
-    "answers": [
-      "Kusanagi",
-      "Honjo Masamune",
-      "Muramasa",
-      "Doji-giri"
-    ],
+    "text": "Quelle divinité grecque est la personnification de la nécessité absolue ?",
+    "answers": ["Moira", "Ananké", "Nyx", "Thémis"],
     "correctIndex": 1
   },
   {
     "id": "q161",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel roi gallois est lié à la prophétie du retour ?",
-    "answers": [
-      "Arthur",
-      "Geraint",
-      "Cadwaladr",
-      "Owain"
-    ],
-    "correctIndex": 0
+    "text": "Quel héros grec est le père de Phèdre ?",
+    "answers": ["Minos", "Radamanthe", "Thésée", "Égée"],
+    "correctIndex": 2
   },
   {
     "id": "q162",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel roi gallois est lié à la prophétie du retour ?",
-    "answers": [
-      "Cadwaladr",
-      "Owain",
-      "Geraint",
-      "Arthur"
-    ],
+    "text": "Dans la mythologie nordique, quel dieu est lié à la justice et au sacrifice de la main ?",
+    "answers": ["Odin", "Baldr", "Thor", "Tyr"],
     "correctIndex": 3
   },
+
   {
     "id": "q163",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Dans la mythologie sumérienne, qui est le dieu des orages ?",
-    "answers": [
-      "Ishkur",
-      "Anu",
-      "Enlil",
-      "Nergal"
-    ],
+    "text": "Quel héros grec est associé au mythe du combat contre le géant Encelade ?",
+    "answers": ["Athéna", "Zeus", "Apollon", "Héraclès"],
     "correctIndex": 0
   },
   {
     "id": "q164",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Dans la mythologie sumérienne, qui est le dieu des orages ?",
-    "answers": [
-      "Enlil",
-      "Nergal",
-      "Anu",
-      "Ishkur"
-    ],
-    "correctIndex": 3
+    "text": "Quelle déesse grecque est honorée comme protectrice des accouchements ?",
+    "answers": ["Héra", "Ilithyie", "Artémis", "Hécate"],
+    "correctIndex": 1
   },
   {
     "id": "q165",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quelle ville mythique du Sahara serait faite d'or pur ?",
-    "answers": [
-      "Timbuktu",
-      "Zerzura",
-      "Ophir",
-      "El Dorado"
-    ],
+    "text": "Quel héros grec est le père de Téléphos ?",
+    "answers": ["Achille", "Héraclès", "Pélée", "Laërte"],
     "correctIndex": 2
   },
   {
     "id": "q166",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du chien de chasse spectral écossais ?",
-    "answers": [
-      "Black Shuck",
-      "Moddey Dhoo",
-      "Cù Sìth",
-      "Barghest"
-    ],
-    "correctIndex": 2
+    "text": "Dans la mythologie nordique, quel serpent encercle le monde des hommes ?",
+    "answers": ["Fenrir", "Garm", "Surt", "Jörmungandr"],
+    "correctIndex": 3
   },
+
   {
     "id": "q167",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel héros grec a dompté le cheval ailé Pégase ?",
-    "answers": [
-      "Achille",
-      "Bellérophon",
-      "Héraclès",
-      "Persée"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est associé au mythe du sanglier d’Érymanthe ?",
+    "answers": ["Héraclès", "Méléagre", "Thésée", "Jason"],
+    "correctIndex": 0
   },
   {
     "id": "q168",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel roi gallois est lié à la prophétie du retour ?",
-    "answers": [
-      "Geraint",
-      "Arthur",
-      "Cadwaladr",
-      "Owain"
-    ],
+    "text": "Quelle divinité grecque est associée aux visions prophétiques et à l’extase ?",
+    "answers": ["Apollon", "Dionysos", "Hermès", "Pan"],
     "correctIndex": 1
   },
   {
     "id": "q169",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du fantôme japonais sans visage ?",
-    "answers": [
-      "Yūrei",
-      "Rokurokubi",
-      "Onryō",
-      "Noppera-bō"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est le père d’Œnomaos ?",
+    "answers": ["Pélops", "Arès", "Tantale", "Laomédon"],
+    "correctIndex": 2
   },
   {
     "id": "q170",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du chien de chasse spectral écossais ?",
-    "answers": [
-      "Cù Sìth",
-      "Black Shuck",
-      "Barghest",
-      "Moddey Dhoo"
-    ],
-    "correctIndex": 0
+    "text": "Dans la mythologie nordique, quel royaume est plongé dans le froid éternel ?",
+    "answers": ["Asgard", "Vanaheim", "Midgard", "Niflheim"],
+    "correctIndex": 3
   },
+
   {
     "id": "q171",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel héros chinois a vaincu le roi singe Sun Wukong ?",
-    "answers": [
-      "Guan Yu",
-      "Xuanzang",
-      "Nezha",
-      "Bouddha"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est lié au mythe de la mort de Chrysippe ?",
+    "answers": ["Laïos", "Œdipe", "Pélops", "Atrée"],
+    "correctIndex": 0
   },
   {
     "id": "q172",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Dans la mythologie sumérienne, qui est le dieu des orages ?",
-    "answers": [
-      "Anu",
-      "Ishkur",
-      "Enlil",
-      "Nergal"
-    ],
+    "text": "Quelle déesse grecque est associée aux serments inviolables ?",
+    "answers": ["Héra", "Styx", "Thémis", "Némésis"],
     "correctIndex": 1
   },
   {
     "id": "q173",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du démon scandinave des tempêtes marines ?",
-    "answers": [
-      "Kraken",
-      "Nøkk",
-      "Mares",
-      "Draugr"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est le père de Glaucos, roi de Corinthe ?",
+    "answers": ["Bellérophon", "Poséidon", "Sisyphe", "Éole"],
+    "correctIndex": 2
   },
   {
     "id": "q174",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel héros chinois a vaincu le roi singe Sun Wukong ?",
-    "answers": [
-      "Nezha",
-      "Guan Yu",
-      "Xuanzang",
-      "Bouddha"
-    ],
+    "text": "Dans la mythologie nordique, quel dieu est tué par le loup Fenrir ?",
+    "answers": ["Tyr", "Thor", "Baldr", "Odin"],
     "correctIndex": 3
   },
+
   {
     "id": "q175",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel héros grec a dompté le cheval ailé Pégase ?",
-    "answers": [
-      "Persée",
-      "Héraclès",
-      "Bellérophon",
-      "Achille"
-    ],
-    "correctIndex": 2
+    "text": "Quel héros grec est associé au mythe du roi Crésus dans la tradition mythique ?",
+    "answers": ["Solon", "Midas", "Pactole", "Gygès"],
+    "correctIndex": 0
   },
   {
     "id": "q176",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Dans la mythologie sumérienne, qui est le dieu des orages ?",
-    "answers": [
-      "Anu",
-      "Enlil",
-      "Nergal",
-      "Ishkur"
-    ],
-    "correctIndex": 3
+    "text": "Quelle divinité grecque est associée à la punition de l’hybris ?",
+    "answers": ["Héra", "Némésis", "Athéna", "Artémis"],
+    "correctIndex": 1
   },
   {
     "id": "q177",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel roi gallois est lié à la prophétie du retour ?",
-    "answers": [
-      "Geraint",
-      "Cadwaladr",
-      "Owain",
-      "Arthur"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est le père de Diomède ?",
+    "answers": ["Amphiaraos", "Capaneus", "Tydée", "Adraste"],
+    "correctIndex": 2
   },
   {
     "id": "q178",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du fantôme japonais sans visage ?",
-    "answers": [
-      "Noppera-bō",
-      "Onryō",
-      "Yūrei",
-      "Rokurokubi"
-    ],
-    "correctIndex": 0
+    "text": "Dans la mythologie nordique, quel dieu règne sur les mers ?",
+    "answers": ["Thor", "Odin", "Tyr", "Njörd"],
+    "correctIndex": 3
   },
+
   {
     "id": "q179",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel héros grec a dompté le cheval ailé Pégase ?",
-    "answers": [
-      "Héraclès",
-      "Bellérophon",
-      "Persée",
-      "Achille"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est lié au mythe du châtiment de Marsyas ?",
+    "answers": ["Apollon", "Hermès", "Pan", "Orphée"],
+    "correctIndex": 0
   },
   {
     "id": "q180",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Dans la mythologie sumérienne, qui est le dieu des orages ?",
-    "answers": [
-      "Anu",
-      "Nergal",
-      "Enlil",
-      "Ishkur"
-    ],
-    "correctIndex": 3
+    "text": "Quelle déesse grecque est associée aux limites et aux passages ?",
+    "answers": ["Héra", "Hécate", "Artémis", "Perséphone"],
+    "correctIndex": 1
   },
   {
     "id": "q181",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du démon scandinave des tempêtes marines ?",
-    "answers": [
-      "Nøkk",
-      "Mares",
-      "Kraken",
-      "Draugr"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est le père d’Iolaos ?",
+    "answers": ["Héraclès", "Amphitryon", "Iphiclès", "Alcmène"],
+    "correctIndex": 2
   },
   {
     "id": "q182",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du fantôme japonais sans visage ?",
-    "answers": [
-      "Rokurokubi",
-      "Yūrei",
-      "Onryō",
-      "Noppera-bō"
-    ],
+    "text": "Dans la mythologie nordique, quel dieu est le père de Fenrir ?",
+    "answers": ["Odin", "Tyr", "Thor", "Loki"],
     "correctIndex": 3
   },
+
   {
     "id": "q183",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quelle épée japonaise mythique aurait été forgée par Muramasa ?",
-    "answers": [
-      "Honjo Masamune",
-      "Muramasa",
-      "Doji-giri",
-      "Kusanagi"
-    ],
+    "text": "Quel héros grec est associé au mythe du roi Busiris d’Égypte ?",
+    "answers": ["Héraclès", "Persée", "Thésée", "Jason"],
     "correctIndex": 0
   },
   {
     "id": "q184",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quelle ville mythique du Sahara serait faite d'or pur ?",
-    "answers": [
-      "Zerzura",
-      "Ophir",
-      "Timbuktu",
-      "El Dorado"
-    ],
+    "text": "Quelle divinité grecque est associée aux songes envoyés aux mortels ?",
+    "answers": ["Nyx", "Morphée", "Hypnos", "Thanatos"],
     "correctIndex": 1
   },
   {
     "id": "q185",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quelle ville mythique du Sahara serait faite d'or pur ?",
-    "answers": [
-      "Timbuktu",
-      "El Dorado",
-      "Zerzura",
-      "Ophir"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est le père de Pénélope ?",
+    "answers": ["Icarios", "Tyndare", "Laërte", "Égée"],
+    "correctIndex": 2
   },
   {
     "id": "q186",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Dans la mythologie sumérienne, qui est le dieu des orages ?",
-    "answers": [
-      "Anu",
-      "Nergal",
-      "Ishkur",
-      "Enlil"
-    ],
-    "correctIndex": 2
+    "text": "Dans la mythologie nordique, quel lieu est la salle d’Odin ?",
+    "answers": ["Fólkvangr", "Niflheim", "Helheim", "Valhalla"],
+    "correctIndex": 3
   },
+
   {
     "id": "q187",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quelle ville mythique du Sahara serait faite d'or pur ?",
-    "answers": [
-      "El Dorado",
-      "Ophir",
-      "Zerzura",
-      "Timbuktu"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est associé au mythe de la fondation de Sinope ?",
+    "answers": ["Autolycos", "Jason", "Persée", "Héraclès"],
+    "correctIndex": 0
   },
   {
     "id": "q188",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Dans la mythologie sumérienne, qui est le dieu des orages ?",
-    "answers": [
-      "Enlil",
-      "Nergal",
-      "Ishkur",
-      "Anu"
-    ],
-    "correctIndex": 2
+    "text": "Quelle déesse grecque est associée à la sagesse stratégique ?",
+    "answers": ["Héra", "Athéna", "Artémis", "Thémis"],
+    "correctIndex": 1
   },
   {
     "id": "q189",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel roi gallois est lié à la prophétie du retour ?",
-    "answers": [
-      "Geraint",
-      "Owain",
-      "Arthur",
-      "Cadwaladr"
-    ],
+    "text": "Quel héros grec est le père de Thésée selon certaines traditions ?",
+    "answers": ["Égée", "Minos", "Poséidon", "Pittheus"],
     "correctIndex": 2
   },
   {
     "id": "q190",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du démon scandinave des tempêtes marines ?",
-    "answers": [
-      "Draugr",
-      "Mares",
-      "Kraken",
-      "Nøkk"
-    ],
-    "correctIndex": 0
+    "text": "Dans la mythologie nordique, quel être annonce le Ragnarök par son cri ?",
+    "answers": ["Fenrir", "Ratatosk", "Garm", "Heimdall"],
+    "correctIndex": 3
   },
+
   {
     "id": "q191",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Dans la mythologie sumérienne, qui est le dieu des orages ?",
-    "answers": [
-      "Enlil",
-      "Nergal",
-      "Anu",
-      "Ishkur"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est associé au mythe de la chute de Troie ?",
+    "answers": ["Énée", "Ulysse", "Agamemnon", "Achille"],
+    "correctIndex": 0
   },
   {
     "id": "q192",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du démon scandinave des tempêtes marines ?",
-    "answers": [
-      "Nøkk",
-      "Draugr",
-      "Kraken",
-      "Mares"
-    ],
+    "text": "Quelle divinité grecque est associée aux pactes sacrés ?",
+    "answers": ["Héra", "Zeus", "Apollon", "Hermès"],
     "correctIndex": 1
   },
   {
     "id": "q193",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel roi gallois est lié à la prophétie du retour ?",
-    "answers": [
-      "Geraint",
-      "Cadwaladr",
-      "Owain",
-      "Arthur"
-    ],
-    "correctIndex": 3
+    "text": "Quel héros grec est le père d’Hector ?",
+    "answers": ["Anchise", "Laomédon", "Priam", "Tros"],
+    "correctIndex": 2
   },
   {
     "id": "q194",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du démon scandinave des tempêtes marines ?",
-    "answers": [
-      "Kraken",
-      "Nøkk",
-      "Mares",
-      "Draugr"
-    ],
+    "text": "Dans la mythologie nordique, quel royaume est celui des géants ?",
+    "answers": ["Asgard", "Midgard", "Vanaheim", "Jötunheim"],
     "correctIndex": 3
   },
+
   {
     "id": "q195",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du démon scandinave des tempêtes marines ?",
-    "answers": [
-      "Draugr",
-      "Nøkk",
-      "Mares",
-      "Kraken"
-    ],
+    "text": "Quel héros grec est associé au mythe du roi Lycaon ?",
+    "answers": ["Zeus", "Apollon", "Hermès", "Arès"],
     "correctIndex": 0
   },
   {
     "id": "q196",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du démon scandinave des tempêtes marines ?",
-    "answers": [
-      "Mares",
-      "Nøkk",
-      "Kraken",
-      "Draugr"
-    ],
-    "correctIndex": 3
+    "text": "Quelle divinité grecque est associée à la mesure et à l’équilibre ?",
+    "answers": ["Héra", "Apollon", "Athéna", "Thémis"],
+    "correctIndex": 1
   },
   {
     "id": "q197",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du fantôme japonais sans visage ?",
-    "answers": [
-      "Yūrei",
-      "Noppera-bō",
-      "Rokurokubi",
-      "Onryō"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est le père de Créon ?",
+    "answers": ["Labdacos", "Cadmos", "Ménécée", "Polydoros"],
+    "correctIndex": 2
   },
   {
     "id": "q198",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel héros grec a dompté le cheval ailé Pégase ?",
-    "answers": [
-      "Bellérophon",
-      "Persée",
-      "Achille",
-      "Héraclès"
-    ],
-    "correctIndex": 0
+    "text": "Dans la mythologie nordique, quel dieu est le maître de la poésie ?",
+    "answers": ["Baldr", "Tyr", "Bragi", "Odin"],
+    "correctIndex": 3
   },
+
   {
     "id": "q199",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel héros grec a dompté le cheval ailé Pégase ?",
-    "answers": [
-      "Achille",
-      "Bellérophon",
-      "Persée",
-      "Héraclès"
-    ],
-    "correctIndex": 1
+    "text": "Quel héros grec est associé au mythe de la fondation de Rome ?",
+    "answers": ["Énée", "Romulus", "Ascagne", "Anchise"],
+    "correctIndex": 0
   },
   {
     "id": "q200",
     "category": "Légendes",
     "difficulty": "Extrême",
-    "text": "Quel est le nom du démon scandinave des tempêtes marines ?",
-    "answers": [
-      "Mares",
-      "Draugr",
-      "Kraken",
-      "Nøkk"
-    ],
+    "text": "Quelle divinité grecque est le souverain absolu de l’Olympe ?",
+    "answers": ["Poséidon", "Zeus", "Hadès", "Apollon"],
     "correctIndex": 1
-  },
-  {
-    "id": "q201",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quelle épée japonaise mythique aurait été forgée par Muramasa ?",
-    "answers": [
-      "Muramasa",
-      "Kusanagi",
-      "Honjo Masamune",
-      "Doji-giri"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q202",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Dans la mythologie sumérienne, qui est le dieu des orages ?",
-    "answers": [
-      "Ishkur",
-      "Anu",
-      "Enlil",
-      "Nergal"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q203",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel roi gallois est lié à la prophétie du retour ?",
-    "answers": [
-      "Arthur",
-      "Geraint",
-      "Cadwaladr",
-      "Owain"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q204",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel est le nom du fantôme japonais sans visage ?",
-    "answers": [
-      "Noppera-bō",
-      "Yūrei",
-      "Onryō",
-      "Rokurokubi"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q205",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quelle ville mythique du Sahara serait faite d'or pur ?",
-    "answers": [
-      "Ophir",
-      "Zerzura",
-      "El Dorado",
-      "Timbuktu"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q206",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel est le nom du chien de chasse spectral écossais ?",
-    "answers": [
-      "Barghest",
-      "Cù Sìth",
-      "Moddey Dhoo",
-      "Black Shuck"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q207",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel est le nom du chien de chasse spectral écossais ?",
-    "answers": [
-      "Black Shuck",
-      "Cù Sìth",
-      "Barghest",
-      "Moddey Dhoo"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q208",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel est le nom du serpent géant de la légende nordique ?",
-    "answers": [
-      "Fafnir",
-      "Nidhogg",
-      "Jörmungandr",
-      "Fenrir"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q209",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel est le nom du chien de chasse spectral écossais ?",
-    "answers": [
-      "Barghest",
-      "Cù Sìth",
-      "Moddey Dhoo",
-      "Black Shuck"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q210",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel héros grec a dompté le cheval ailé Pégase ?",
-    "answers": [
-      "Bellérophon",
-      "Persée",
-      "Achille",
-      "Héraclès"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q211",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quelle épée japonaise mythique aurait été forgée par Muramasa ?",
-    "answers": [
-      "Muramasa",
-      "Honjo Masamune",
-      "Doji-giri",
-      "Kusanagi"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q212",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel héros chinois a vaincu le roi singe Sun Wukong ?",
-    "answers": [
-      "Nezha",
-      "Guan Yu",
-      "Bouddha",
-      "Xuanzang"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q213",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Dans la mythologie sumérienne, qui est le dieu des orages ?",
-    "answers": [
-      "Anu",
-      "Nergal",
-      "Enlil",
-      "Ishkur"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q214",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel héros chinois a vaincu le roi singe Sun Wukong ?",
-    "answers": [
-      "Bouddha",
-      "Guan Yu",
-      "Xuanzang",
-      "Nezha"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q215",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Dans la mythologie sumérienne, qui est le dieu des orages ?",
-    "answers": [
-      "Enlil",
-      "Ishkur",
-      "Nergal",
-      "Anu"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q216",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel héros chinois a vaincu le roi singe Sun Wukong ?",
-    "answers": [
-      "Guan Yu",
-      "Bouddha",
-      "Xuanzang",
-      "Nezha"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q217",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel est le nom du chien de chasse spectral écossais ?",
-    "answers": [
-      "Moddey Dhoo",
-      "Barghest",
-      "Cù Sìth",
-      "Black Shuck"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q218",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quelle ville mythique du Sahara serait faite d'or pur ?",
-    "answers": [
-      "Ophir",
-      "El Dorado",
-      "Timbuktu",
-      "Zerzura"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q219",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quelle épée japonaise mythique aurait été forgée par Muramasa ?",
-    "answers": [
-      "Honjo Masamune",
-      "Kusanagi",
-      "Muramasa",
-      "Doji-giri"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q220",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel héros grec a dompté le cheval ailé Pégase ?",
-    "answers": [
-      "Héraclès",
-      "Persée",
-      "Achille",
-      "Bellérophon"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q221",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quelle épée japonaise mythique aurait été forgée par Muramasa ?",
-    "answers": [
-      "Doji-giri",
-      "Kusanagi",
-      "Muramasa",
-      "Honjo Masamune"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q222",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel est le nom du démon scandinave des tempêtes marines ?",
-    "answers": [
-      "Nøkk",
-      "Mares",
-      "Draugr",
-      "Kraken"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q223",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel est le nom du serpent géant de la légende nordique ?",
-    "answers": [
-      "Nidhogg",
-      "Fafnir",
-      "Jörmungandr",
-      "Fenrir"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q224",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel est le nom du fantôme japonais sans visage ?",
-    "answers": [
-      "Onryō",
-      "Rokurokubi",
-      "Yūrei",
-      "Noppera-bō"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q225",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Dans la mythologie sumérienne, qui est le dieu des orages ?",
-    "answers": [
-      "Ishkur",
-      "Enlil",
-      "Nergal",
-      "Anu"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q226",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel héros grec a dompté le cheval ailé Pégase ?",
-    "answers": [
-      "Bellérophon",
-      "Achille",
-      "Persée",
-      "Héraclès"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q227",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quelle ville mythique du Sahara serait faite d'or pur ?",
-    "answers": [
-      "Ophir",
-      "El Dorado",
-      "Zerzura",
-      "Timbuktu"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q228",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel roi gallois est lié à la prophétie du retour ?",
-    "answers": [
-      "Geraint",
-      "Cadwaladr",
-      "Owain",
-      "Arthur"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q229",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel héros grec a dompté le cheval ailé Pégase ?",
-    "answers": [
-      "Achille",
-      "Bellérophon",
-      "Persée",
-      "Héraclès"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q230",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel est le nom du serpent géant de la légende nordique ?",
-    "answers": [
-      "Nidhogg",
-      "Jörmungandr",
-      "Fenrir",
-      "Fafnir"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q231",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel roi gallois est lié à la prophétie du retour ?",
-    "answers": [
-      "Owain",
-      "Cadwaladr",
-      "Geraint",
-      "Arthur"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q232",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quelle ville mythique du Sahara serait faite d'or pur ?",
-    "answers": [
-      "Timbuktu",
-      "Zerzura",
-      "El Dorado",
-      "Ophir"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q233",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel héros chinois a vaincu le roi singe Sun Wukong ?",
-    "answers": [
-      "Bouddha",
-      "Xuanzang",
-      "Guan Yu",
-      "Nezha"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q234",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel héros chinois a vaincu le roi singe Sun Wukong ?",
-    "answers": [
-      "Guan Yu",
-      "Bouddha",
-      "Xuanzang",
-      "Nezha"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q235",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel est le nom du serpent géant de la légende nordique ?",
-    "answers": [
-      "Fafnir",
-      "Jörmungandr",
-      "Nidhogg",
-      "Fenrir"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q236",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel est le nom du serpent géant de la légende nordique ?",
-    "answers": [
-      "Fafnir",
-      "Jörmungandr",
-      "Fenrir",
-      "Nidhogg"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q237",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel héros grec a dompté le cheval ailé Pégase ?",
-    "answers": [
-      "Héraclès",
-      "Achille",
-      "Bellérophon",
-      "Persée"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q238",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel héros grec a dompté le cheval ailé Pégase ?",
-    "answers": [
-      "Bellérophon",
-      "Achille",
-      "Persée",
-      "Héraclès"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q239",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quelle épée japonaise mythique aurait été forgée par Muramasa ?",
-    "answers": [
-      "Kusanagi",
-      "Honjo Masamune",
-      "Muramasa",
-      "Doji-giri"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q240",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quelle ville mythique du Sahara serait faite d'or pur ?",
-    "answers": [
-      "Ophir",
-      "Timbuktu",
-      "El Dorado",
-      "Zerzura"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q241",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel héros grec a dompté le cheval ailé Pégase ?",
-    "answers": [
-      "Persée",
-      "Bellérophon",
-      "Achille",
-      "Héraclès"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q242",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel est le nom du serpent géant de la légende nordique ?",
-    "answers": [
-      "Nidhogg",
-      "Fafnir",
-      "Fenrir",
-      "Jörmungandr"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q243",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel est le nom du chien de chasse spectral écossais ?",
-    "answers": [
-      "Barghest",
-      "Black Shuck",
-      "Cù Sìth",
-      "Moddey Dhoo"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q244",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Dans la mythologie sumérienne, qui est le dieu des orages ?",
-    "answers": [
-      "Enlil",
-      "Nergal",
-      "Anu",
-      "Ishkur"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q245",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel héros grec a dompté le cheval ailé Pégase ?",
-    "answers": [
-      "Achille",
-      "Persée",
-      "Héraclès",
-      "Bellérophon"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q246",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel roi gallois est lié à la prophétie du retour ?",
-    "answers": [
-      "Arthur",
-      "Cadwaladr",
-      "Owain",
-      "Geraint"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q247",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quelle épée japonaise mythique aurait été forgée par Muramasa ?",
-    "answers": [
-      "Kusanagi",
-      "Muramasa",
-      "Doji-giri",
-      "Honjo Masamune"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q248",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel héros grec a dompté le cheval ailé Pégase ?",
-    "answers": [
-      "Héraclès",
-      "Bellérophon",
-      "Persée",
-      "Achille"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q249",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quelle ville mythique du Sahara serait faite d'or pur ?",
-    "answers": [
-      "El Dorado",
-      "Ophir",
-      "Zerzura",
-      "Timbuktu"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q250",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel est le nom du démon scandinave des tempêtes marines ?",
-    "answers": [
-      "Nøkk",
-      "Mares",
-      "Draugr",
-      "Kraken"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q251",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quelle ville mythique du Sahara serait faite d'or pur ?",
-    "answers": [
-      "Zerzura",
-      "El Dorado",
-      "Timbuktu",
-      "Ophir"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q252",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel est le nom du fantôme japonais sans visage ?",
-    "answers": [
-      "Noppera-bō",
-      "Rokurokubi",
-      "Onryō",
-      "Yūrei"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q253",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel roi gallois est lié à la prophétie du retour ?",
-    "answers": [
-      "Geraint",
-      "Owain",
-      "Cadwaladr",
-      "Arthur"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q254",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel est le nom du serpent géant de la légende nordique ?",
-    "answers": [
-      "Fafnir",
-      "Nidhogg",
-      "Fenrir",
-      "Jörmungandr"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q255",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel héros chinois a vaincu le roi singe Sun Wukong ?",
-    "answers": [
-      "Guan Yu",
-      "Nezha",
-      "Xuanzang",
-      "Bouddha"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q256",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel roi gallois est lié à la prophétie du retour ?",
-    "answers": [
-      "Arthur",
-      "Cadwaladr",
-      "Owain",
-      "Geraint"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q257",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel est le nom du fantôme japonais sans visage ?",
-    "answers": [
-      "Yūrei",
-      "Rokurokubi",
-      "Onryō",
-      "Noppera-bō"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q258",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quelle ville mythique du Sahara serait faite d'or pur ?",
-    "answers": [
-      "El Dorado",
-      "Timbuktu",
-      "Zerzura",
-      "Ophir"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q259",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel est le nom du démon scandinave des tempêtes marines ?",
-    "answers": [
-      "Kraken",
-      "Mares",
-      "Draugr",
-      "Nøkk"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q260",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel héros grec a dompté le cheval ailé Pégase ?",
-    "answers": [
-      "Héraclès",
-      "Bellérophon",
-      "Achille",
-      "Persée"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q261",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Dans la mythologie sumérienne, qui est le dieu des orages ?",
-    "answers": [
-      "Anu",
-      "Ishkur",
-      "Nergal",
-      "Enlil"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q262",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Dans la mythologie sumérienne, qui est le dieu des orages ?",
-    "answers": [
-      "Anu",
-      "Nergal",
-      "Enlil",
-      "Ishkur"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q263",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel est le nom du serpent géant de la légende nordique ?",
-    "answers": [
-      "Jörmungandr",
-      "Fafnir",
-      "Nidhogg",
-      "Fenrir"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q264",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel est le nom du chien de chasse spectral écossais ?",
-    "answers": [
-      "Barghest",
-      "Black Shuck",
-      "Moddey Dhoo",
-      "Cù Sìth"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q265",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel est le nom du chien de chasse spectral écossais ?",
-    "answers": [
-      "Black Shuck",
-      "Moddey Dhoo",
-      "Cù Sìth",
-      "Barghest"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q266",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel roi gallois est lié à la prophétie du retour ?",
-    "answers": [
-      "Owain",
-      "Geraint",
-      "Cadwaladr",
-      "Arthur"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q267",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel est le nom du chien de chasse spectral écossais ?",
-    "answers": [
-      "Barghest",
-      "Black Shuck",
-      "Moddey Dhoo",
-      "Cù Sìth"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q268",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel est le nom du démon scandinave des tempêtes marines ?",
-    "answers": [
-      "Draugr",
-      "Mares",
-      "Nøkk",
-      "Kraken"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q269",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel est le nom du serpent géant de la légende nordique ?",
-    "answers": [
-      "Fafnir",
-      "Jörmungandr",
-      "Nidhogg",
-      "Fenrir"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q270",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel est le nom du chien de chasse spectral écossais ?",
-    "answers": [
-      "Barghest",
-      "Black Shuck",
-      "Moddey Dhoo",
-      "Cù Sìth"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q271",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Dans la mythologie sumérienne, qui est le dieu des orages ?",
-    "answers": [
-      "Enlil",
-      "Nergal",
-      "Anu",
-      "Ishkur"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q272",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel est le nom du fantôme japonais sans visage ?",
-    "answers": [
-      "Noppera-bō",
-      "Rokurokubi",
-      "Yūrei",
-      "Onryō"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q273",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quelle ville mythique du Sahara serait faite d'or pur ?",
-    "answers": [
-      "Ophir",
-      "Zerzura",
-      "Timbuktu",
-      "El Dorado"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q274",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel est le nom du serpent géant de la légende nordique ?",
-    "answers": [
-      "Nidhogg",
-      "Jörmungandr",
-      "Fafnir",
-      "Fenrir"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q275",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel est le nom du serpent géant de la légende nordique ?",
-    "answers": [
-      "Nidhogg",
-      "Fafnir",
-      "Jörmungandr",
-      "Fenrir"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q276",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel est le nom du chien de chasse spectral écossais ?",
-    "answers": [
-      "Cù Sìth",
-      "Black Shuck",
-      "Moddey Dhoo",
-      "Barghest"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q277",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel roi gallois est lié à la prophétie du retour ?",
-    "answers": [
-      "Geraint",
-      "Cadwaladr",
-      "Owain",
-      "Arthur"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q278",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel est le nom du chien de chasse spectral écossais ?",
-    "answers": [
-      "Cù Sìth",
-      "Moddey Dhoo",
-      "Barghest",
-      "Black Shuck"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q279",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Dans la mythologie sumérienne, qui est le dieu des orages ?",
-    "answers": [
-      "Enlil",
-      "Ishkur",
-      "Anu",
-      "Nergal"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q280",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel roi gallois est lié à la prophétie du retour ?",
-    "answers": [
-      "Arthur",
-      "Cadwaladr",
-      "Geraint",
-      "Owain"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q281",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel roi gallois est lié à la prophétie du retour ?",
-    "answers": [
-      "Geraint",
-      "Cadwaladr",
-      "Owain",
-      "Arthur"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q282",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel est le nom du démon scandinave des tempêtes marines ?",
-    "answers": [
-      "Nøkk",
-      "Kraken",
-      "Mares",
-      "Draugr"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q283",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel est le nom du fantôme japonais sans visage ?",
-    "answers": [
-      "Onryō",
-      "Yūrei",
-      "Rokurokubi",
-      "Noppera-bō"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q284",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel héros grec a dompté le cheval ailé Pégase ?",
-    "answers": [
-      "Bellérophon",
-      "Achille",
-      "Persée",
-      "Héraclès"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q285",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel est le nom du serpent géant de la légende nordique ?",
-    "answers": [
-      "Fenrir",
-      "Jörmungandr",
-      "Nidhogg",
-      "Fafnir"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q286",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel est le nom du démon scandinave des tempêtes marines ?",
-    "answers": [
-      "Kraken",
-      "Nøkk",
-      "Mares",
-      "Draugr"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q287",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel héros grec a dompté le cheval ailé Pégase ?",
-    "answers": [
-      "Persée",
-      "Achille",
-      "Bellérophon",
-      "Héraclès"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q288",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel roi gallois est lié à la prophétie du retour ?",
-    "answers": [
-      "Geraint",
-      "Arthur",
-      "Owain",
-      "Cadwaladr"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q289",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel est le nom du fantôme japonais sans visage ?",
-    "answers": [
-      "Onryō",
-      "Yūrei",
-      "Rokurokubi",
-      "Noppera-bō"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q290",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel roi gallois est lié à la prophétie du retour ?",
-    "answers": [
-      "Arthur",
-      "Owain",
-      "Cadwaladr",
-      "Geraint"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q291",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quelle ville mythique du Sahara serait faite d'or pur ?",
-    "answers": [
-      "Timbuktu",
-      "Zerzura",
-      "Ophir",
-      "El Dorado"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q292",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Dans la mythologie sumérienne, qui est le dieu des orages ?",
-    "answers": [
-      "Nergal",
-      "Enlil",
-      "Anu",
-      "Ishkur"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q293",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel roi gallois est lié à la prophétie du retour ?",
-    "answers": [
-      "Arthur",
-      "Owain",
-      "Geraint",
-      "Cadwaladr"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q294",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel est le nom du démon scandinave des tempêtes marines ?",
-    "answers": [
-      "Kraken",
-      "Draugr",
-      "Mares",
-      "Nøkk"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q295",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Dans la mythologie sumérienne, qui est le dieu des orages ?",
-    "answers": [
-      "Nergal",
-      "Enlil",
-      "Anu",
-      "Ishkur"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q296",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Dans la mythologie sumérienne, qui est le dieu des orages ?",
-    "answers": [
-      "Ishkur",
-      "Enlil",
-      "Anu",
-      "Nergal"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q297",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel héros grec a dompté le cheval ailé Pégase ?",
-    "answers": [
-      "Achille",
-      "Persée",
-      "Bellérophon",
-      "Héraclès"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q298",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Dans la mythologie sumérienne, qui est le dieu des orages ?",
-    "answers": [
-      "Enlil",
-      "Anu",
-      "Ishkur",
-      "Nergal"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q299",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel est le nom du chien de chasse spectral écossais ?",
-    "answers": [
-      "Cù Sìth",
-      "Barghest",
-      "Moddey Dhoo",
-      "Black Shuck"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q300",
-    "category": "Légendes",
-    "difficulty": "Extrême",
-    "text": "Quel héros chinois a vaincu le roi singe Sun Wukong ?",
-    "answers": [
-      "Xuanzang",
-      "Guan Yu",
-      "Bouddha",
-      "Nezha"
-    ],
-    "correctIndex": 2
   }
 ]
