@@ -3,3900 +3,1667 @@
     "id": "q1",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel conflit opposa l'Angleterre et la France de 1337 à 1453 ?",
-    "answers": [
-      "Guerre de Succession d'Espagne",
-      "Guerre des Deux-Roses",
-      "Guerre de Cent Ans",
-      "Première croisade"
-    ],
-    "correctIndex": 2
+    "text": "Quel capitulaire de Charlemagne organise l’administration des domaines royaux ?",
+    "answers": ["Le capitulaire De Villis", "Le capitulaire de Quierzy", "Le capitulaire de Coulaines", "Le capitulaire de Verdun"],
+    "correctIndex": 0
   },
   {
     "id": "q2",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel conflit opposa l'Angleterre et la France de 1337 à 1453 ?",
-    "answers": [
-      "Guerre de Cent Ans",
-      "Guerre de Succession d'Espagne",
-      "Première croisade",
-      "Guerre des Deux-Roses"
-    ],
-    "correctIndex": 0
+    "text": "Quel traité de 843 partage l’Empire carolingien entre les petits-fils de Charlemagne ?",
+    "answers": ["Le traité de Meerssen", "Le traité de Verdun", "Le traité de Prüm", "Le traité de Ribemont"],
+    "correctIndex": 1
   },
   {
     "id": "q3",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel pape a lancé la première croisade ?",
-    "answers": [
-      "Alexandre III",
-      "Urbain II",
-      "Grégoire VII",
-      "Innocent III"
-    ],
-    "correctIndex": 1
+    "text": "Quel ordre monastique médiéval est fondé à Cîteaux en 1098 ?",
+    "answers": ["Les bénédictins", "Les clunisiens", "Les cisterciens", "Les chartreux"],
+    "correctIndex": 2
   },
   {
     "id": "q4",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel roi de Bohême fut canonisé après sa mort ?",
-    "answers": [
-      "Jean de Luxembourg",
-      "Ottokar II",
-      "Venceslas Ier",
-      "Charles IV"
-    ],
-    "correctIndex": 2
+    "text": "Quel concile de 1215 réforme profondément l’Église médiévale ?",
+    "answers": ["Nicée", "Chalcédoine", "Latran III", "Latran IV"],
+    "correctIndex": 3
   },
+
   {
     "id": "q5",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel roi de Bohême fut canonisé après sa mort ?",
-    "answers": [
-      "Jean de Luxembourg",
-      "Ottokar II",
-      "Venceslas Ier",
-      "Charles IV"
-    ],
-    "correctIndex": 2
+    "text": "Quel système juridique médiéval reposait sur la coutume locale ?",
+    "answers": ["Le droit coutumier", "Le droit romain", "Le droit canon", "Le droit royal"],
+    "correctIndex": 0
   },
   {
     "id": "q6",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle dynastie régnait sur l'Angleterre lors de la guerre des Deux-Roses ?",
-    "answers": [
-      "Lancastre",
-      "Tudor",
-      "York",
-      "Plantagenêt"
-    ],
-    "correctIndex": 3
+    "text": "Quel texte de 877 rend héréditaires les charges comtales ?",
+    "answers": ["Le capitulaire de Verdun", "Le capitulaire de Quierzy", "Le capitulaire de Coulaines", "Le capitulaire de Meerssen"],
+    "correctIndex": 1
   },
   {
     "id": "q7",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel pape a lancé la première croisade ?",
-    "answers": [
-      "Grégoire VII",
-      "Alexandre III",
-      "Urbain II",
-      "Innocent III"
-    ],
+    "text": "Quel ordre militaire était aussi chargé de l’accueil des pèlerins ?",
+    "answers": ["Les templiers", "Les teutoniques", "Les hospitaliers", "Les cisterciens"],
     "correctIndex": 2
   },
   {
     "id": "q8",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel fut le dernier grand maître de l'ordre du Temple ?",
-    "answers": [
-      "Hugues de Payns",
-      "Guillaume de Beaujeu",
-      "Jacques de Molay",
-      "Geoffroy de Charney"
-    ],
-    "correctIndex": 2
+    "text": "Quel événement de 1095 déclenche la première croisade ?",
+    "answers": ["La prise de Jérusalem", "La chute d’Antioche", "Le concile de Clermont", "La bataille de Nicée"],
+    "correctIndex": 3
   },
+
   {
     "id": "q9",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Qui a écrit 'Le Livre des merveilles du monde' au XIIIe siècle ?",
-    "answers": [
-      "Jean de Mandeville",
-      "Marco Polo",
-      "Odoric de Pordenone",
-      "Guillaume de Rubrouck"
-    ],
-    "correctIndex": 1
+    "text": "Quel impôt médiéval était dû pour l’utilisation des équipements seigneuriaux ?",
+    "answers": ["La banalité", "La taille", "La dîme", "Le cens"],
+    "correctIndex": 0
   },
   {
     "id": "q10",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel architecte a conçu le dôme de la cathédrale de Florence ?",
-    "answers": [
-      "Giotto",
-      "Brunelleschi",
-      "Pisano",
-      "Ghiberti"
-    ],
+    "text": "Quel texte fonde la dynastie capétienne en 987 ?",
+    "answers": ["Le sacre de Reims", "L’élection d’Hugues Capet", "Le traité de Verdun", "La loi salique"],
     "correctIndex": 1
   },
   {
     "id": "q11",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel fut le dernier grand maître de l'ordre du Temple ?",
-    "answers": [
-      "Hugues de Payns",
-      "Geoffroy de Charney",
-      "Jacques de Molay",
-      "Guillaume de Beaujeu"
-    ],
+    "text": "Quelle institution ecclésiastique luttait contre l’hérésie ?",
+    "answers": ["Le synode", "Le consistoire", "L’Inquisition", "Le chapitre"],
     "correctIndex": 2
   },
   {
     "id": "q12",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle dynastie régnait sur l'Angleterre lors de la guerre des Deux-Roses ?",
-    "answers": [
-      "York",
-      "Tudor",
-      "Plantagenêt",
-      "Lancastre"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment monastique abritait les décisions communautaires ?",
+    "answers": ["Le cloître", "Le scriptorium", "Le réfectoire", "La salle capitulaire"],
+    "correctIndex": 3
   },
+
   {
     "id": "q13",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle bataille de 732 a vu la victoire de Charles Martel ?",
-    "answers": [
-      "Bataille de Poitiers",
-      "Bataille de Hastings",
-      "Bataille d'Azincourt",
-      "Bataille de Crécy"
-    ],
+    "text": "Quel document recensait les possessions foncières seigneuriales ?",
+    "answers": ["Le terrier", "Le cartulaire", "Le capitulaire", "Le missel"],
     "correctIndex": 0
   },
   {
     "id": "q14",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel architecte a conçu le dôme de la cathédrale de Florence ?",
-    "answers": [
-      "Giotto",
-      "Brunelleschi",
-      "Ghiberti",
-      "Pisano"
-    ],
+    "text": "Quel impôt royal devient permanent au XVe siècle en France ?",
+    "answers": ["Le cens", "La taille", "La dîme", "La banalité"],
     "correctIndex": 1
   },
   {
     "id": "q15",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle bataille de 732 a vu la victoire de Charles Martel ?",
-    "answers": [
-      "Bataille de Crécy",
-      "Bataille d'Azincourt",
-      "Bataille de Poitiers",
-      "Bataille de Hastings"
-    ],
+    "text": "Quelle activité artisanale produisait les manuscrits enluminés ?",
+    "answers": ["La reliure", "La copie", "L’enluminure", "La gravure"],
     "correctIndex": 2
   },
   {
     "id": "q16",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel roi de Bohême fut canonisé après sa mort ?",
-    "answers": [
-      "Jean de Luxembourg",
-      "Venceslas Ier",
-      "Charles IV",
-      "Ottokar II"
-    ],
-    "correctIndex": 1
+    "text": "Quel traité met fin à la guerre de Cent Ans en 1453 ?",
+    "answers": ["Le traité de Troyes", "Le traité d’Arras", "Le traité de Calais", "La bataille de Castillon"],
+    "correctIndex": 3
   },
+
   {
     "id": "q17",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel chroniqueur médiéval a écrit 'La Geste des Francs' ?",
-    "answers": [
-      "Guillaume de Tyr",
-      "Orderic Vital",
-      "Joinville",
-      "Froissart"
-    ],
+    "text": "Quel texte régit la succession royale chez les Francs ?",
+    "answers": ["La loi salique", "Le droit canon", "Le capitulaire", "La coutume"],
     "correctIndex": 0
   },
   {
     "id": "q18",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel fut le dernier grand maître de l'ordre du Temple ?",
-    "answers": [
-      "Guillaume de Beaujeu",
-      "Hugues de Payns",
-      "Geoffroy de Charney",
-      "Jacques de Molay"
-    ],
-    "correctIndex": 3
+    "text": "Comment appelait-on un fief concédé à titre viager ?",
+    "answers": ["Un alleu", "Un bénéfice", "Un domaine", "Une tenure"],
+    "correctIndex": 1
   },
   {
     "id": "q19",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel roi de Bohême fut canonisé après sa mort ?",
-    "answers": [
-      "Venceslas Ier",
-      "Charles IV",
-      "Ottokar II",
-      "Jean de Luxembourg"
-    ],
-    "correctIndex": 0
+    "text": "Quelle activité permettait la fabrication des cloches ?",
+    "answers": ["La forge", "La verrerie", "La fonderie", "La sculpture"],
+    "correctIndex": 2
   },
   {
     "id": "q20",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel pape a lancé la première croisade ?",
-    "answers": [
-      "Alexandre III",
-      "Innocent III",
-      "Urbain II",
-      "Grégoire VII"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment médiéval abritait les reliques majeures ?",
+    "answers": ["La cathédrale", "La chapelle", "Le cloître", "Le trésor"],
+    "correctIndex": 3
   },
+
   {
     "id": "q21",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel architecte a conçu le dôme de la cathédrale de Florence ?",
-    "answers": [
-      "Pisano",
-      "Brunelleschi",
-      "Ghiberti",
-      "Giotto"
-    ],
-    "correctIndex": 1
+    "text": "Quel terme désigne un paysan juridiquement attaché à la terre ?",
+    "answers": ["Le serf", "Le vilain", "Le manant", "Le laboureur"],
+    "correctIndex": 0
   },
   {
     "id": "q22",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel roi a ordonné la construction de la Sainte-Chapelle à Paris ?",
-    "answers": [
-      "Charles V",
-      "Louis XI",
-      "Louis IX",
-      "Philippe le Bel"
-    ],
-    "correctIndex": 2
+    "text": "Quel texte raconte la vie d’un saint ?",
+    "answers": ["Une chronique", "Une hagiographie", "Un capitulaire", "Un cartulaire"],
+    "correctIndex": 1
   },
   {
     "id": "q23",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel architecte a conçu le dôme de la cathédrale de Florence ?",
-    "answers": [
-      "Brunelleschi",
-      "Giotto",
-      "Ghiberti",
-      "Pisano"
-    ],
-    "correctIndex": 0
+    "text": "Quelle activité produisait les armes blanches ?",
+    "answers": ["La charpenterie", "La menuiserie", "La forge", "La verrerie"],
+    "correctIndex": 2
   },
   {
     "id": "q24",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel architecte a conçu le dôme de la cathédrale de Florence ?",
-    "answers": [
-      "Giotto",
-      "Brunelleschi",
-      "Ghiberti",
-      "Pisano"
-    ],
-    "correctIndex": 1
+    "text": "Quel bâtiment abritait les archives royales ?",
+    "answers": ["La halle", "Le cloître", "Le cellier", "La chancellerie"],
+    "correctIndex": 3
   },
+
   {
     "id": "q25",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel roi de Bohême fut canonisé après sa mort ?",
-    "answers": [
-      "Charles IV",
-      "Jean de Luxembourg",
-      "Venceslas Ier",
-      "Ottokar II"
-    ],
-    "correctIndex": 2
+    "text": "Quel lien juridique unissait le vassal et le seigneur ?",
+    "answers": ["L’hommage", "La conscription", "Le contrat marchand", "La charte"],
+    "correctIndex": 0
   },
   {
     "id": "q26",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel chroniqueur médiéval a écrit 'La Geste des Francs' ?",
-    "answers": [
-      "Joinville",
-      "Orderic Vital",
-      "Froissart",
-      "Guillaume de Tyr"
-    ],
-    "correctIndex": 3
+    "text": "Comment appelait-on un chef militaire d’un château ?",
+    "answers": ["Le bailli", "Le châtelain", "Le prévôt", "Le sénéchal"],
+    "correctIndex": 1
   },
   {
     "id": "q27",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel fut le dernier grand maître de l'ordre du Temple ?",
-    "answers": [
-      "Guillaume de Beaujeu",
-      "Hugues de Payns",
-      "Jacques de Molay",
-      "Geoffroy de Charney"
-    ],
+    "text": "Quelle activité produisait les tissus de luxe en soie ?",
+    "answers": ["La broderie", "La couture", "Le tissage", "La teinture"],
     "correctIndex": 2
   },
   {
     "id": "q28",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel conflit opposa l'Angleterre et la France de 1337 à 1453 ?",
-    "answers": [
-      "Première croisade",
-      "Guerre des Deux-Roses",
-      "Guerre de Cent Ans",
-      "Guerre de Succession d'Espagne"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment symbolisait le pouvoir municipal ?",
+    "answers": ["La cathédrale", "Le château", "La halle", "L’hôtel de ville"],
+    "correctIndex": 3
   },
+
   {
     "id": "q29",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel architecte a conçu le dôme de la cathédrale de Florence ?",
-    "answers": [
-      "Ghiberti",
-      "Pisano",
-      "Giotto",
-      "Brunelleschi"
-    ],
-    "correctIndex": 3
+    "text": "Quel objet servait à authentifier un document officiel ?",
+    "answers": ["Le sceau", "La plume", "Le parchemin", "La reliure"],
+    "correctIndex": 0
   },
   {
     "id": "q30",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel roi a ordonné la construction de la Sainte-Chapelle à Paris ?",
-    "answers": [
-      "Philippe le Bel",
-      "Louis XI",
-      "Charles V",
-      "Louis IX"
-    ],
-    "correctIndex": 3
+    "text": "Comment appelait-on un territoire dirigé par un duc ?",
+    "answers": ["Un comté", "Un duché", "Une seigneurie", "Un fief"],
+    "correctIndex": 1
   },
+
   {
     "id": "q31",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel roi a ordonné la construction de la Sainte-Chapelle à Paris ?",
-    "answers": [
-      "Louis XI",
-      "Philippe le Bel",
-      "Louis IX",
-      "Charles V"
-    ],
+    "text": "Quelle activité produisait les vitraux des cathédrales ?",
+    "answers": ["La sculpture", "La fonderie", "La verrerie", "La tapisserie"],
     "correctIndex": 2
   },
   {
     "id": "q32",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel conflit opposa l'Angleterre et la France de 1337 à 1453 ?",
-    "answers": [
-      "Première croisade",
-      "Guerre des Deux-Roses",
-      "Guerre de Cent Ans",
-      "Guerre de Succession d'Espagne"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment accueillait les grandes assemblées religieuses ?",
+    "answers": ["Le cloître", "La chapelle", "Le monastère", "La cathédrale"],
+    "correctIndex": 3
   },
+
   {
     "id": "q33",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel architecte a conçu le dôme de la cathédrale de Florence ?",
-    "answers": [
-      "Pisano",
-      "Giotto",
-      "Ghiberti",
-      "Brunelleschi"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal était le plus utilisé pour la traction lourde ?",
+    "answers": ["Le bœuf", "Le cheval", "Le mulet", "L’âne"],
+    "correctIndex": 0
   },
   {
     "id": "q34",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle dynastie régnait sur l'Angleterre lors de la guerre des Deux-Roses ?",
-    "answers": [
-      "Tudor",
-      "Lancastre",
-      "Plantagenêt",
-      "York"
-    ],
-    "correctIndex": 2
+    "text": "Comment appelait-on un impôt religieux obligatoire ?",
+    "answers": ["La taille", "La dîme", "Le cens", "La banalité"],
+    "correctIndex": 1
   },
   {
     "id": "q35",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel roi de Bohême fut canonisé après sa mort ?",
-    "answers": [
-      "Charles IV",
-      "Jean de Luxembourg",
-      "Venceslas Ier",
-      "Ottokar II"
-    ],
+    "text": "Quelle activité produisait les cordages pour les navires ?",
+    "answers": ["La menuiserie", "La charpenterie", "La corderie", "La poterie"],
     "correctIndex": 2
   },
   {
     "id": "q36",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle bataille de 732 a vu la victoire de Charles Martel ?",
-    "answers": [
-      "Bataille d'Azincourt",
-      "Bataille de Crécy",
-      "Bataille de Poitiers",
-      "Bataille de Hastings"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment conservait les trésors ecclésiastiques ?",
+    "answers": ["La sacristie", "Le cloître", "La grange", "Le trésor"],
+    "correctIndex": 3
   },
+
   {
     "id": "q37",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel architecte a conçu le dôme de la cathédrale de Florence ?",
-    "answers": [
-      "Giotto",
-      "Ghiberti",
-      "Pisano",
-      "Brunelleschi"
-    ],
-    "correctIndex": 3
+    "text": "Quel symbole représentait une famille noble ?",
+    "answers": ["Les armoiries", "La bannière", "Le sceau", "La couronne"],
+    "correctIndex": 0
   },
   {
     "id": "q38",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Qui a écrit 'Le Livre des merveilles du monde' au XIIIe siècle ?",
-    "answers": [
-      "Jean de Mandeville",
-      "Odoric de Pordenone",
-      "Marco Polo",
-      "Guillaume de Rubrouck"
-    ],
-    "correctIndex": 2
+    "text": "Comment appelait-on un texte de loi royale ?",
+    "answers": ["Une charte", "Un capitulaire", "Un cartulaire", "Un missel"],
+    "correctIndex": 1
   },
   {
     "id": "q39",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel architecte a conçu le dôme de la cathédrale de Florence ?",
-    "answers": [
-      "Giotto",
-      "Ghiberti",
-      "Brunelleschi",
-      "Pisano"
-    ],
+    "text": "Quelle activité produisait les armes de siège ?",
+    "answers": ["La forge", "La charpenterie", "La fonderie", "La menuiserie"],
     "correctIndex": 2
   },
   {
     "id": "q40",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel architecte a conçu le dôme de la cathédrale de Florence ?",
-    "answers": [
-      "Ghiberti",
-      "Pisano",
-      "Giotto",
-      "Brunelleschi"
-    ],
+    "text": "Quel bâtiment servait à l’administration royale locale ?",
+    "answers": ["La halle", "Le château", "Le cloître", "La baillie"],
     "correctIndex": 3
   },
+
   {
     "id": "q41",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Qui a écrit 'Le Livre des merveilles du monde' au XIIIe siècle ?",
-    "answers": [
-      "Odoric de Pordenone",
-      "Guillaume de Rubrouck",
-      "Marco Polo",
-      "Jean de Mandeville"
-    ],
-    "correctIndex": 2
+    "text": "Quel objet permettait de mesurer le temps avant l’horloge mécanique ?",
+    "answers": ["Le cadran solaire", "La cloche", "Le sablier", "La clepsydre"],
+    "correctIndex": 0
   },
   {
     "id": "q42",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle bataille de 732 a vu la victoire de Charles Martel ?",
-    "answers": [
-      "Bataille d'Azincourt",
-      "Bataille de Crécy",
-      "Bataille de Hastings",
-      "Bataille de Poitiers"
-    ],
-    "correctIndex": 3
+    "text": "Comment appelait-on un officier chargé de la justice royale ?",
+    "answers": ["Le prévôt", "Le bailli", "Le chanoine", "Le vassal"],
+    "correctIndex": 1
   },
   {
     "id": "q43",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel architecte a conçu le dôme de la cathédrale de Florence ?",
-    "answers": [
-      "Brunelleschi",
-      "Pisano",
-      "Giotto",
-      "Ghiberti"
-    ],
-    "correctIndex": 0
+    "text": "Quelle activité produisait les manuscrits décorés ?",
+    "answers": ["La copie", "La reliure", "L’enluminure", "La gravure"],
+    "correctIndex": 2
   },
   {
     "id": "q44",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Qui a écrit 'Le Livre des merveilles du monde' au XIIIe siècle ?",
-    "answers": [
-      "Odoric de Pordenone",
-      "Marco Polo",
-      "Jean de Mandeville",
-      "Guillaume de Rubrouck"
-    ],
-    "correctIndex": 1
+    "text": "Quel bâtiment accueillait les pèlerins et les malades ?",
+    "answers": ["La grange", "Le cloître", "L’auberge", "L’hôpital"],
+    "correctIndex": 3
   },
+
   {
     "id": "q45",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel pape a lancé la première croisade ?",
-    "answers": [
-      "Alexandre III",
-      "Innocent III",
-      "Grégoire VII",
-      "Urbain II"
-    ],
-    "correctIndex": 3
+    "text": "Quel objet protégeait la poitrine du chevalier ?",
+    "answers": ["La cuirasse", "La cotte", "Le bouclier", "Le plastron"],
+    "correctIndex": 0
   },
   {
     "id": "q46",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle dynastie régnait sur l'Angleterre lors de la guerre des Deux-Roses ?",
-    "answers": [
-      "Plantagenêt",
-      "York",
-      "Lancastre",
-      "Tudor"
-    ],
-    "correctIndex": 0
+    "text": "Comment appelait-on un impôt sur les marchandises ?",
+    "answers": ["La dîme", "Le péage", "La taille", "La banalité"],
+    "correctIndex": 1
   },
   {
     "id": "q47",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle bataille de 732 a vu la victoire de Charles Martel ?",
-    "answers": [
-      "Bataille d'Azincourt",
-      "Bataille de Crécy",
-      "Bataille de Poitiers",
-      "Bataille de Hastings"
-    ],
+    "text": "Quelle activité produisait les outils agricoles ?",
+    "answers": ["La charpenterie", "La menuiserie", "La forge", "La verrerie"],
     "correctIndex": 2
   },
   {
     "id": "q48",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle dynastie régnait sur l'Angleterre lors de la guerre des Deux-Roses ?",
-    "answers": [
-      "York",
-      "Lancastre",
-      "Tudor",
-      "Plantagenêt"
-    ],
+    "text": "Quel bâtiment conservait les archives municipales ?",
+    "answers": ["La cathédrale", "Le château", "La halle", "L’hôtel de ville"],
     "correctIndex": 3
   },
+
   {
     "id": "q49",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel chroniqueur médiéval a écrit 'La Geste des Francs' ?",
-    "answers": [
-      "Joinville",
-      "Guillaume de Tyr",
-      "Orderic Vital",
-      "Froissart"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal était le plus utilisé pour le labour lourd ?",
+    "answers": ["Le bœuf", "Le cheval", "Le mulet", "L’âne"],
+    "correctIndex": 0
   },
   {
     "id": "q50",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel roi a ordonné la construction de la Sainte-Chapelle à Paris ?",
-    "answers": [
-      "Philippe le Bel",
-      "Louis IX",
-      "Louis XI",
-      "Charles V"
-    ],
+    "text": "Comment appelait-on un texte relatant les exploits héroïques ?",
+    "answers": ["Une fable", "Une chanson de geste", "Une chronique", "Un sermon"],
     "correctIndex": 1
   },
   {
     "id": "q51",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel conflit opposa l'Angleterre et la France de 1337 à 1453 ?",
-    "answers": [
-      "Guerre de Succession d'Espagne",
-      "Guerre de Cent Ans",
-      "Première croisade",
-      "Guerre des Deux-Roses"
-    ],
-    "correctIndex": 1
+    "text": "Quel acte de 843 consacre la division politique durable de l’Europe carolingienne ?",
+    "answers": ["Le capitulaire de Quierzy", "Le sacre de Reims", "Le traité de Verdun", "Le traité de Meerssen"],
+    "correctIndex": 2
   },
   {
     "id": "q52",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel chroniqueur médiéval a écrit 'La Geste des Francs' ?",
-    "answers": [
-      "Froissart",
-      "Joinville",
-      "Guillaume de Tyr",
-      "Orderic Vital"
-    ],
-    "correctIndex": 2
+    "text": "Quelle institution médiévale contrôlait la conformité doctrinale de la foi ?",
+    "answers": ["Le synode", "Le consistoire", "Le chapitre", "L’Inquisition"],
+    "correctIndex": 3
   },
+
   {
     "id": "q53",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel fut le dernier grand maître de l'ordre du Temple ?",
-    "answers": [
-      "Hugues de Payns",
-      "Geoffroy de Charney",
-      "Guillaume de Beaujeu",
-      "Jacques de Molay"
-    ],
-    "correctIndex": 3
+    "text": "Quel serment formalisait l’entrée d’un vassal dans la hiérarchie féodale ?",
+    "answers": ["L’hommage", "Le sacre", "La bénédiction", "La charte"],
+    "correctIndex": 0
   },
   {
     "id": "q54",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel chroniqueur médiéval a écrit 'La Geste des Francs' ?",
-    "answers": [
-      "Joinville",
-      "Froissart",
-      "Orderic Vital",
-      "Guillaume de Tyr"
-    ],
-    "correctIndex": 3
+    "text": "Quel impôt ecclésiastique correspondait au dixième des récoltes ?",
+    "answers": ["Le cens", "La dîme", "La taille", "La banalité"],
+    "correctIndex": 1
   },
+
   {
     "id": "q55",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel roi a ordonné la construction de la Sainte-Chapelle à Paris ?",
-    "answers": [
-      "Philippe le Bel",
-      "Charles V",
-      "Louis IX",
-      "Louis XI"
-    ],
+    "text": "Quelle activité artisanale permettait la fabrication des armures ?",
+    "answers": ["La charpenterie", "La menuiserie", "L’armurerie", "La verrerie"],
     "correctIndex": 2
   },
   {
     "id": "q56",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel roi de Bohême fut canonisé après sa mort ?",
-    "answers": [
-      "Charles IV",
-      "Venceslas Ier",
-      "Ottokar II",
-      "Jean de Luxembourg"
-    ],
-    "correctIndex": 1
+    "text": "Quel bâtiment centralisait les décisions politiques urbaines ?",
+    "answers": ["La cathédrale", "Le château", "La halle", "L’hôtel de ville"],
+    "correctIndex": 3
   },
+
   {
     "id": "q57",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle bataille de 732 a vu la victoire de Charles Martel ?",
-    "answers": [
-      "Bataille d'Azincourt",
-      "Bataille de Hastings",
-      "Bataille de Crécy",
-      "Bataille de Poitiers"
-    ],
-    "correctIndex": 3
+    "text": "Quel document écrit garantissait les privilèges d’une ville ?",
+    "answers": ["La charte de franchise", "Le capitulaire", "Le terrier", "Le missel"],
+    "correctIndex": 0
   },
   {
     "id": "q58",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle bataille de 732 a vu la victoire de Charles Martel ?",
-    "answers": [
-      "Bataille de Poitiers",
-      "Bataille de Crécy",
-      "Bataille d'Azincourt",
-      "Bataille de Hastings"
-    ],
-    "correctIndex": 0
+    "text": "Comment appelait-on un officier royal chargé de lever les impôts ?",
+    "answers": ["Le prévôt", "Le receveur", "Le sénéchal", "Le châtelain"],
+    "correctIndex": 1
   },
+
   {
     "id": "q59",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel fut le dernier grand maître de l'ordre du Temple ?",
-    "answers": [
-      "Guillaume de Beaujeu",
-      "Hugues de Payns",
-      "Geoffroy de Charney",
-      "Jacques de Molay"
-    ],
-    "correctIndex": 3
+    "text": "Quelle activité produisait les manuscrits copiés dans les abbayes ?",
+    "answers": ["La reliure", "L’enluminure", "La copie monastique", "La gravure"],
+    "correctIndex": 2
   },
   {
     "id": "q60",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel pape a lancé la première croisade ?",
-    "answers": [
-      "Urbain II",
-      "Alexandre III",
-      "Grégoire VII",
-      "Innocent III"
-    ],
-    "correctIndex": 0
+    "text": "Quel bâtiment monastique servait aux délibérations collectives ?",
+    "answers": ["Le cloître", "Le dortoir", "Le scriptorium", "La salle capitulaire"],
+    "correctIndex": 3
   },
+
   {
     "id": "q61",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle dynastie régnait sur l'Angleterre lors de la guerre des Deux-Roses ?",
-    "answers": [
-      "Plantagenêt",
-      "Tudor",
-      "Lancastre",
-      "York"
-    ],
+    "text": "Quel principe juridique interdisait l’accès des femmes au trône de France ?",
+    "answers": ["La loi salique", "Le droit canon", "La coutume franque", "Le capitulaire"],
     "correctIndex": 0
   },
   {
     "id": "q62",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel fut le dernier grand maître de l'ordre du Temple ?",
-    "answers": [
-      "Hugues de Payns",
-      "Guillaume de Beaujeu",
-      "Jacques de Molay",
-      "Geoffroy de Charney"
-    ],
-    "correctIndex": 2
+    "text": "Comment appelait-on un territoire concédé en échange de services militaires ?",
+    "answers": ["Un alleu", "Un fief", "Un comté", "Un duché"],
+    "correctIndex": 1
   },
+
   {
     "id": "q63",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel roi de Bohême fut canonisé après sa mort ?",
-    "answers": [
-      "Charles IV",
-      "Ottokar II",
-      "Jean de Luxembourg",
-      "Venceslas Ier"
-    ],
-    "correctIndex": 3
+    "text": "Quelle activité produisait les cloches des églises ?",
+    "answers": ["La forge", "La verrerie", "La fonderie", "La sculpture"],
+    "correctIndex": 2
   },
   {
     "id": "q64",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Qui a écrit 'Le Livre des merveilles du monde' au XIIIe siècle ?",
-    "answers": [
-      "Jean de Mandeville",
-      "Guillaume de Rubrouck",
-      "Marco Polo",
-      "Odoric de Pordenone"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment conservait les reliques sacrées ?",
+    "answers": ["La chapelle", "Le cloître", "La sacristie", "Le trésor"],
+    "correctIndex": 3
   },
+
   {
     "id": "q65",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Qui a écrit 'Le Livre des merveilles du monde' au XIIIe siècle ?",
-    "answers": [
-      "Marco Polo",
-      "Guillaume de Rubrouck",
-      "Jean de Mandeville",
-      "Odoric de Pordenone"
-    ],
+    "text": "Quel symbole identifiait une lignée noble sur le champ de bataille ?",
+    "answers": ["Les armoiries", "Le sceptre", "La couronne", "Le manteau"],
     "correctIndex": 0
   },
   {
     "id": "q66",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel roi de Bohême fut canonisé après sa mort ?",
-    "answers": [
-      "Ottokar II",
-      "Jean de Luxembourg",
-      "Charles IV",
-      "Venceslas Ier"
-    ],
-    "correctIndex": 3
+    "text": "Comment appelait-on un impôt exigé pour franchir un pont ou une route ?",
+    "answers": ["La taille", "Le péage", "La dîme", "La banalité"],
+    "correctIndex": 1
   },
+
   {
     "id": "q67",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Qui a écrit 'Le Livre des merveilles du monde' au XIIIe siècle ?",
-    "answers": [
-      "Odoric de Pordenone",
-      "Jean de Mandeville",
-      "Marco Polo",
-      "Guillaume de Rubrouck"
-    ],
+    "text": "Quelle activité produisait les cordages utilisés pour les navires ?",
+    "answers": ["La charpenterie", "La menuiserie", "La corderie", "La poterie"],
     "correctIndex": 2
   },
   {
     "id": "q68",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel fut le dernier grand maître de l'ordre du Temple ?",
-    "answers": [
-      "Geoffroy de Charney",
-      "Hugues de Payns",
-      "Jacques de Molay",
-      "Guillaume de Beaujeu"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment accueillait les voyageurs et pèlerins ?",
+    "answers": ["La grange", "Le cloître", "L’hôtellerie", "L’hôpital"],
+    "correctIndex": 3
   },
+
   {
     "id": "q69",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel fut le dernier grand maître de l'ordre du Temple ?",
-    "answers": [
-      "Jacques de Molay",
-      "Guillaume de Beaujeu",
-      "Geoffroy de Charney",
-      "Hugues de Payns"
-    ],
+    "text": "Quel objet authentifiait officiellement un acte écrit ?",
+    "answers": ["Le sceau", "La plume", "Le parchemin", "La cire"],
     "correctIndex": 0
   },
   {
     "id": "q70",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle bataille de 732 a vu la victoire de Charles Martel ?",
-    "answers": [
-      "Bataille de Hastings",
-      "Bataille d'Azincourt",
-      "Bataille de Crécy",
-      "Bataille de Poitiers"
-    ],
-    "correctIndex": 3
+    "text": "Comment appelait-on un représentant du roi dans une province ?",
+    "answers": ["Le chanoine", "Le bailli", "Le vassal", "Le sergent"],
+    "correctIndex": 1
   },
+
   {
     "id": "q71",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle bataille de 732 a vu la victoire de Charles Martel ?",
-    "answers": [
-      "Bataille d'Azincourt",
-      "Bataille de Poitiers",
-      "Bataille de Hastings",
-      "Bataille de Crécy"
-    ],
-    "correctIndex": 1
+    "text": "Quelle activité permettait la fabrication des vitraux ?",
+    "answers": ["La sculpture", "La fonderie", "La verrerie", "La tapisserie"],
+    "correctIndex": 2
   },
   {
     "id": "q72",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel roi a ordonné la construction de la Sainte-Chapelle à Paris ?",
-    "answers": [
-      "Louis IX",
-      "Louis XI",
-      "Philippe le Bel",
-      "Charles V"
-    ],
-    "correctIndex": 0
+    "text": "Quel bâtiment était le siège de l’évêque ?",
+    "answers": ["Le monastère", "Le cloître", "La basilique", "La cathédrale"],
+    "correctIndex": 3
   },
+
   {
     "id": "q73",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel pape a lancé la première croisade ?",
-    "answers": [
-      "Innocent III",
-      "Urbain II",
-      "Alexandre III",
-      "Grégoire VII"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal fournissait principalement la force de traction agricole ?",
+    "answers": ["Le bœuf", "Le cheval", "Le mulet", "L’âne"],
+    "correctIndex": 0
   },
   {
     "id": "q74",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel fut le dernier grand maître de l'ordre du Temple ?",
-    "answers": [
-      "Guillaume de Beaujeu",
-      "Jacques de Molay",
-      "Hugues de Payns",
-      "Geoffroy de Charney"
-    ],
+    "text": "Comment appelait-on un texte racontant la vie d’un saint ?",
+    "answers": ["Une chronique", "Une hagiographie", "Un capitulaire", "Un missel"],
     "correctIndex": 1
   },
+
   {
     "id": "q75",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle dynastie régnait sur l'Angleterre lors de la guerre des Deux-Roses ?",
-    "answers": [
-      "Tudor",
-      "York",
-      "Lancastre",
-      "Plantagenêt"
-    ],
-    "correctIndex": 3
+    "text": "Quelle activité produisait les tapisseries murales ?",
+    "answers": ["La couture", "La broderie", "La tapisserie", "La teinture"],
+    "correctIndex": 2
   },
   {
     "id": "q76",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel conflit opposa l'Angleterre et la France de 1337 à 1453 ?",
-    "answers": [
-      "Guerre de Succession d'Espagne",
-      "Première croisade",
-      "Guerre des Deux-Roses",
-      "Guerre de Cent Ans"
-    ],
+    "text": "Quel bâtiment conservait les archives seigneuriales ?",
+    "answers": ["La halle", "Le cloître", "La grange", "La chambre des archives"],
     "correctIndex": 3
   },
+
   {
     "id": "q77",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel conflit opposa l'Angleterre et la France de 1337 à 1453 ?",
-    "answers": [
-      "Guerre de Cent Ans",
-      "Guerre des Deux-Roses",
-      "Guerre de Succession d'Espagne",
-      "Première croisade"
-    ],
+    "text": "Quel élément défensif contrôlait l’accès principal du château ?",
+    "answers": ["Le pont-levis", "Le rempart", "La tour", "Le fossé"],
     "correctIndex": 0
   },
   {
     "id": "q78",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel fut le dernier grand maître de l'ordre du Temple ?",
-    "answers": [
-      "Hugues de Payns",
-      "Guillaume de Beaujeu",
-      "Jacques de Molay",
-      "Geoffroy de Charney"
-    ],
-    "correctIndex": 2
+    "text": "Comment appelait-on un chevalier non encore adoubé ?",
+    "answers": ["Un page", "Un écuyer", "Un sergent", "Un noble"],
+    "correctIndex": 1
   },
+
   {
     "id": "q79",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel roi de Bohême fut canonisé après sa mort ?",
-    "answers": [
-      "Charles IV",
-      "Venceslas Ier",
-      "Ottokar II",
-      "Jean de Luxembourg"
-    ],
-    "correctIndex": 1
+    "text": "Quelle activité produisait les armes de siège en bois ?",
+    "answers": ["La menuiserie", "La forge", "La charpenterie", "La fonderie"],
+    "correctIndex": 2
   },
   {
     "id": "q80",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle dynastie régnait sur l'Angleterre lors de la guerre des Deux-Roses ?",
-    "answers": [
-      "Lancastre",
-      "Tudor",
-      "York",
-      "Plantagenêt"
-    ],
+    "text": "Quel bâtiment servait de résidence au seigneur local ?",
+    "answers": ["Le palais", "La halle", "L’abbaye", "Le château"],
     "correctIndex": 3
   },
+
   {
     "id": "q81",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel pape a lancé la première croisade ?",
-    "answers": [
-      "Innocent III",
-      "Alexandre III",
-      "Urbain II",
-      "Grégoire VII"
-    ],
-    "correctIndex": 2
+    "text": "Quel objet permettait de mesurer le temps avant l’horloge mécanique ?",
+    "answers": ["Le cadran solaire", "La cloche", "Le sablier", "La clepsydre"],
+    "correctIndex": 0
   },
   {
     "id": "q82",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel chroniqueur médiéval a écrit 'La Geste des Francs' ?",
-    "answers": [
-      "Guillaume de Tyr",
-      "Froissart",
-      "Joinville",
-      "Orderic Vital"
-    ],
-    "correctIndex": 0
+    "text": "Comment appelait-on une grande réunion commerciale périodique ?",
+    "answers": ["Un marché", "Une foire", "Un péage", "Une halle"],
+    "correctIndex": 1
   },
+
   {
     "id": "q83",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle bataille de 732 a vu la victoire de Charles Martel ?",
-    "answers": [
-      "Bataille de Hastings",
-      "Bataille de Poitiers",
-      "Bataille de Crécy",
-      "Bataille d'Azincourt"
-    ],
-    "correctIndex": 1
+    "text": "Quelle activité produisait les outils agricoles en fer ?",
+    "answers": ["La menuiserie", "La charpenterie", "La forge", "La verrerie"],
+    "correctIndex": 2
   },
   {
     "id": "q84",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel fut le dernier grand maître de l'ordre du Temple ?",
-    "answers": [
-      "Hugues de Payns",
-      "Geoffroy de Charney",
-      "Guillaume de Beaujeu",
-      "Jacques de Molay"
-    ],
+    "text": "Quel bâtiment accueillait les assemblées de justice urbaine ?",
+    "answers": ["Le cloître", "La cathédrale", "Le château", "L’hôtel de ville"],
     "correctIndex": 3
   },
+
   {
     "id": "q85",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle dynastie régnait sur l'Angleterre lors de la guerre des Deux-Roses ?",
-    "answers": [
-      "Tudor",
-      "York",
-      "Lancastre",
-      "Plantagenêt"
-    ],
-    "correctIndex": 3
+    "text": "Quel symbole représentait l’autorité royale ?",
+    "answers": ["La couronne", "Le sceau", "La bannière", "Le blason"],
+    "correctIndex": 0
   },
   {
     "id": "q86",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel fut le dernier grand maître de l'ordre du Temple ?",
-    "answers": [
-      "Hugues de Payns",
-      "Guillaume de Beaujeu",
-      "Geoffroy de Charney",
-      "Jacques de Molay"
-    ],
-    "correctIndex": 3
+    "text": "Comment appelait-on un texte de loi promulgué par le roi ?",
+    "answers": ["Une charte", "Un capitulaire", "Un terrier", "Un cartulaire"],
+    "correctIndex": 1
   },
+
   {
     "id": "q87",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel roi de Bohême fut canonisé après sa mort ?",
-    "answers": [
-      "Jean de Luxembourg",
-      "Ottokar II",
-      "Charles IV",
-      "Venceslas Ier"
-    ],
-    "correctIndex": 3
+    "text": "Quelle activité produisait les manuscrits décorés d’or ?",
+    "answers": ["La copie", "La reliure", "L’enluminure", "La gravure"],
+    "correctIndex": 2
   },
   {
     "id": "q88",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle bataille de 732 a vu la victoire de Charles Martel ?",
-    "answers": [
-      "Bataille de Crécy",
-      "Bataille d'Azincourt",
-      "Bataille de Hastings",
-      "Bataille de Poitiers"
-    ],
+    "text": "Quel bâtiment conservait les documents municipaux ?",
+    "answers": ["La cathédrale", "Le château", "La halle", "L’hôtel de ville"],
     "correctIndex": 3
   },
+
   {
     "id": "q89",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel roi de Bohême fut canonisé après sa mort ?",
-    "answers": [
-      "Jean de Luxembourg",
-      "Ottokar II",
-      "Charles IV",
-      "Venceslas Ier"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal fournissait la laine utilisée pour les vêtements ?",
+    "answers": ["Le mouton", "La chèvre", "Le bœuf", "Le porc"],
+    "correctIndex": 0
   },
   {
     "id": "q90",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle dynastie régnait sur l'Angleterre lors de la guerre des Deux-Roses ?",
-    "answers": [
-      "Tudor",
-      "Lancastre",
-      "Plantagenêt",
-      "York"
-    ],
-    "correctIndex": 2
+    "text": "Comment appelait-on un texte historique rédigé année par année ?",
+    "answers": ["Un cartulaire", "Une chronique", "Un missel", "Un capitulaire"],
+    "correctIndex": 1
   },
+
   {
     "id": "q91",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle bataille de 732 a vu la victoire de Charles Martel ?",
-    "answers": [
-      "Bataille de Crécy",
-      "Bataille de Hastings",
-      "Bataille de Poitiers",
-      "Bataille d'Azincourt"
-    ],
+    "text": "Quelle activité produisait les verreries d’église ?",
+    "answers": ["La poterie", "La sculpture", "La verrerie", "La fonderie"],
     "correctIndex": 2
   },
   {
     "id": "q92",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel roi de Bohême fut canonisé après sa mort ?",
-    "answers": [
-      "Ottokar II",
-      "Charles IV",
-      "Jean de Luxembourg",
-      "Venceslas Ier"
-    ],
+    "text": "Quel bâtiment abritait la communauté monastique ?",
+    "answers": ["La cathédrale", "La chapelle", "Le cloître", "L’abbaye"],
     "correctIndex": 3
   },
+
   {
     "id": "q93",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel chroniqueur médiéval a écrit 'La Geste des Francs' ?",
-    "answers": [
-      "Orderic Vital",
-      "Guillaume de Tyr",
-      "Froissart",
-      "Joinville"
-    ],
-    "correctIndex": 1
+    "text": "Quel objet servait à identifier un chevalier ?",
+    "answers": ["Le blason", "La couronne", "Le sceptre", "La tunique"],
+    "correctIndex": 0
   },
   {
     "id": "q94",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Qui a écrit 'Le Livre des merveilles du monde' au XIIIe siècle ?",
-    "answers": [
-      "Jean de Mandeville",
-      "Marco Polo",
-      "Guillaume de Rubrouck",
-      "Odoric de Pordenone"
-    ],
+    "text": "Comment appelait-on un chef d’atelier médiéval ?",
+    "answers": ["Le prévôt", "Le maître", "Le serf", "Le bailli"],
     "correctIndex": 1
   },
+
   {
     "id": "q95",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel architecte a conçu le dôme de la cathédrale de Florence ?",
-    "answers": [
-      "Giotto",
-      "Ghiberti",
-      "Brunelleschi",
-      "Pisano"
-    ],
+    "text": "Quelle activité produisait les tissus de lin ?",
+    "answers": ["La filature", "La couture", "Le tissage", "La teinture"],
     "correctIndex": 2
   },
   {
     "id": "q96",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel roi a ordonné la construction de la Sainte-Chapelle à Paris ?",
-    "answers": [
-      "Louis XI",
-      "Louis IX",
-      "Philippe le Bel",
-      "Charles V"
-    ],
-    "correctIndex": 1
+    "text": "Quel bâtiment accueillait les voyageurs payants ?",
+    "answers": ["La grange", "Le cloître", "L’hospice", "L’auberge"],
+    "correctIndex": 3
   },
+
   {
     "id": "q97",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel conflit opposa l'Angleterre et la France de 1337 à 1453 ?",
-    "answers": [
-      "Guerre de Succession d'Espagne",
-      "Guerre des Deux-Roses",
-      "Guerre de Cent Ans",
-      "Première croisade"
-    ],
-    "correctIndex": 2
+    "text": "Quel objet protégeait le bras du chevalier ?",
+    "answers": ["Le bouclier", "La cotte", "Le gantelet", "La visière"],
+    "correctIndex": 0
   },
   {
     "id": "q98",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel chroniqueur médiéval a écrit 'La Geste des Francs' ?",
-    "answers": [
-      "Joinville",
-      "Orderic Vital",
-      "Froissart",
-      "Guillaume de Tyr"
-    ],
-    "correctIndex": 3
+    "text": "Comment appelait-on un territoire relevant directement du roi ?",
+    "answers": ["Un duché", "Le domaine royal", "Un fief", "Un comté"],
+    "correctIndex": 1
   },
+
   {
     "id": "q99",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle bataille de 732 a vu la victoire de Charles Martel ?",
-    "answers": [
-      "Bataille d'Azincourt",
-      "Bataille de Hastings",
-      "Bataille de Crécy",
-      "Bataille de Poitiers"
-    ],
-    "correctIndex": 3
+    "text": "Quelle activité produisait les armes blanches de guerre ?",
+    "answers": ["La charpenterie", "La menuiserie", "La forge", "La verrerie"],
+    "correctIndex": 2
   },
   {
     "id": "q100",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel roi de Bohême fut canonisé après sa mort ?",
-    "answers": [
-      "Jean de Luxembourg",
-      "Ottokar II",
-      "Venceslas Ier",
-      "Charles IV"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment symbolisait l’autorité seigneuriale ?",
+    "answers": ["La halle", "La cathédrale", "Le palais", "Le donjon"],
+    "correctIndex": 3
   },
   {
     "id": "q101",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle bataille de 732 a vu la victoire de Charles Martel ?",
-    "answers": [
-      "Bataille de Poitiers",
-      "Bataille de Hastings",
-      "Bataille d'Azincourt",
-      "Bataille de Crécy"
-    ],
+    "text": "Quel texte de 843 fixe la frontière entre Francie orientale et occidentale ?",
+    "answers": ["Le traité de Verdun", "Le capitulaire de Quierzy", "Le traité de Prüm", "Le traité de Meerssen"],
     "correctIndex": 0
   },
   {
     "id": "q102",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle dynastie régnait sur l'Angleterre lors de la guerre des Deux-Roses ?",
-    "answers": [
-      "York",
-      "Lancastre",
-      "Plantagenêt",
-      "Tudor"
-    ],
-    "correctIndex": 2
+    "text": "Comment appelait-on l’ensemble des obligations imposées aux paysans par le seigneur ?",
+    "answers": ["La vassalité", "Les redevances seigneuriales", "Le ban militaire", "La coutume franque"],
+    "correctIndex": 1
   },
   {
     "id": "q103",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel pape a lancé la première croisade ?",
-    "answers": [
-      "Innocent III",
-      "Grégoire VII",
-      "Alexandre III",
-      "Urbain II"
-    ],
-    "correctIndex": 3
+    "text": "Quelle activité monastique était dédiée exclusivement à la copie des manuscrits ?",
+    "answers": ["La reliure", "L’enluminure", "Le scriptorium", "La gravure"],
+    "correctIndex": 2
   },
   {
     "id": "q104",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle dynastie régnait sur l'Angleterre lors de la guerre des Deux-Roses ?",
-    "answers": [
-      "Tudor",
-      "Lancastre",
-      "Plantagenêt",
-      "York"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment médiéval abritait le trésor d’une cathédrale ?",
+    "answers": ["La nef", "Le cloître", "La sacristie", "Le trésor"],
+    "correctIndex": 3
   },
+
   {
     "id": "q105",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel roi de Bohême fut canonisé après sa mort ?",
-    "answers": [
-      "Jean de Luxembourg",
-      "Ottokar II",
-      "Venceslas Ier",
-      "Charles IV"
-    ],
-    "correctIndex": 2
+    "text": "Quel principe juridique médiéval reposait sur l’usage et la tradition locale ?",
+    "answers": ["Le droit coutumier", "Le droit romain", "Le droit canonique", "Le droit royal"],
+    "correctIndex": 0
   },
   {
     "id": "q106",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle dynastie régnait sur l'Angleterre lors de la guerre des Deux-Roses ?",
-    "answers": [
-      "York",
-      "Plantagenêt",
-      "Lancastre",
-      "Tudor"
-    ],
+    "text": "Comment appelait-on un officier royal chargé de l’administration financière ?",
+    "answers": ["Le bailli", "Le receveur", "Le prévôt", "Le sénéchal"],
     "correctIndex": 1
   },
   {
     "id": "q107",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel roi de Bohême fut canonisé après sa mort ?",
-    "answers": [
-      "Charles IV",
-      "Venceslas Ier",
-      "Jean de Luxembourg",
-      "Ottokar II"
-    ],
-    "correctIndex": 1
+    "text": "Quelle activité produisait les armes de jet médiévales ?",
+    "answers": ["La charpenterie", "La menuiserie", "L’armurerie", "La verrerie"],
+    "correctIndex": 2
   },
   {
     "id": "q108",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle dynastie régnait sur l'Angleterre lors de la guerre des Deux-Roses ?",
-    "answers": [
-      "York",
-      "Plantagenêt",
-      "Tudor",
-      "Lancastre"
-    ],
-    "correctIndex": 1
+    "text": "Quel bâtiment accueillait les grandes audiences judiciaires seigneuriales ?",
+    "answers": ["La halle", "Le cloître", "La tour", "La salle d’audience"],
+    "correctIndex": 3
   },
+
   {
     "id": "q109",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel architecte a conçu le dôme de la cathédrale de Florence ?",
-    "answers": [
-      "Giotto",
-      "Pisano",
-      "Ghiberti",
-      "Brunelleschi"
-    ],
-    "correctIndex": 3
+    "text": "Quel objet matérialisait l’autorité juridique du seigneur ?",
+    "answers": ["Le sceau", "La couronne", "L’épée", "Le blason"],
+    "correctIndex": 0
   },
   {
     "id": "q110",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel roi de Bohême fut canonisé après sa mort ?",
-    "answers": [
-      "Charles IV",
-      "Venceslas Ier",
-      "Jean de Luxembourg",
-      "Ottokar II"
-    ],
+    "text": "Comment appelait-on une taxe prélevée sur les échanges commerciaux ?",
+    "answers": ["La dîme", "Le péage", "La taille", "La banalité"],
     "correctIndex": 1
   },
   {
     "id": "q111",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Qui a écrit 'Le Livre des merveilles du monde' au XIIIe siècle ?",
-    "answers": [
-      "Jean de Mandeville",
-      "Marco Polo",
-      "Odoric de Pordenone",
-      "Guillaume de Rubrouck"
-    ],
-    "correctIndex": 1
+    "text": "Quelle activité permettait la fabrication des vitraux historiés ?",
+    "answers": ["La sculpture", "La fonderie", "La verrerie", "La tapisserie"],
+    "correctIndex": 2
   },
   {
     "id": "q112",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle dynastie régnait sur l'Angleterre lors de la guerre des Deux-Roses ?",
-    "answers": [
-      "York",
-      "Plantagenêt",
-      "Tudor",
-      "Lancastre"
-    ],
-    "correctIndex": 1
+    "text": "Quel bâtiment abritait le chapitre des chanoines ?",
+    "answers": ["Le cloître", "La nef", "Le chœur", "La salle capitulaire"],
+    "correctIndex": 3
   },
+
   {
     "id": "q113",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel conflit opposa l'Angleterre et la France de 1337 à 1453 ?",
-    "answers": [
-      "Guerre des Deux-Roses",
-      "Guerre de Cent Ans",
-      "Première croisade",
-      "Guerre de Succession d'Espagne"
-    ],
-    "correctIndex": 1
+    "text": "Quel symbole figurait sur les armoiries médiévales ?",
+    "answers": ["Le blason", "La couronne", "Le sceptre", "Le manteau"],
+    "correctIndex": 0
   },
   {
     "id": "q114",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel conflit opposa l'Angleterre et la France de 1337 à 1453 ?",
-    "answers": [
-      "Guerre de Cent Ans",
-      "Première croisade",
-      "Guerre des Deux-Roses",
-      "Guerre de Succession d'Espagne"
-    ],
-    "correctIndex": 0
+    "text": "Comment appelait-on un territoire dirigé par un comte ?",
+    "answers": ["Une seigneurie", "Un comté", "Un fief", "Un duché"],
+    "correctIndex": 1
   },
   {
     "id": "q115",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel roi a ordonné la construction de la Sainte-Chapelle à Paris ?",
-    "answers": [
-      "Louis XI",
-      "Philippe le Bel",
-      "Louis IX",
-      "Charles V"
-    ],
+    "text": "Quelle activité produisait les objets liturgiques en métal précieux ?",
+    "answers": ["La forge", "La sculpture", "L’orfèvrerie", "La verrerie"],
     "correctIndex": 2
   },
   {
     "id": "q116",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Qui a écrit 'Le Livre des merveilles du monde' au XIIIe siècle ?",
-    "answers": [
-      "Marco Polo",
-      "Odoric de Pordenone",
-      "Jean de Mandeville",
-      "Guillaume de Rubrouck"
-    ],
-    "correctIndex": 0
+    "text": "Quel bâtiment conservait les chartes et privilèges urbains ?",
+    "answers": ["La halle", "Le cloître", "La grange", "Les archives municipales"],
+    "correctIndex": 3
   },
+
   {
     "id": "q117",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel chroniqueur médiéval a écrit 'La Geste des Francs' ?",
-    "answers": [
-      "Guillaume de Tyr",
-      "Froissart",
-      "Joinville",
-      "Orderic Vital"
-    ],
+    "text": "Quel élément architectural défendait le sommet des remparts ?",
+    "answers": ["Les créneaux", "Les fossés", "Les tours", "Les herses"],
     "correctIndex": 0
   },
   {
     "id": "q118",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle bataille de 732 a vu la victoire de Charles Martel ?",
-    "answers": [
-      "Bataille d'Azincourt",
-      "Bataille de Hastings",
-      "Bataille de Poitiers",
-      "Bataille de Crécy"
-    ],
-    "correctIndex": 2
+    "text": "Comment appelait-on un officier chargé de la justice seigneuriale locale ?",
+    "answers": ["Le prévôt", "Le bailli", "Le chanoine", "Le sergent"],
+    "correctIndex": 1
   },
   {
     "id": "q119",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle dynastie régnait sur l'Angleterre lors de la guerre des Deux-Roses ?",
-    "answers": [
-      "York",
-      "Lancastre",
-      "Plantagenêt",
-      "Tudor"
-    ],
+    "text": "Quelle activité produisait les tissus de laine fine ?",
+    "answers": ["La filature", "La couture", "Le tissage", "La broderie"],
     "correctIndex": 2
   },
   {
     "id": "q120",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel fut le dernier grand maître de l'ordre du Temple ?",
-    "answers": [
-      "Jacques de Molay",
-      "Hugues de Payns",
-      "Guillaume de Beaujeu",
-      "Geoffroy de Charney"
-    ],
-    "correctIndex": 0
+    "text": "Quel bâtiment accueillait les pèlerins pauvres et malades ?",
+    "answers": ["La grange", "L’auberge", "Le cloître", "L’hospice"],
+    "correctIndex": 3
   },
+
   {
     "id": "q121",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel fut le dernier grand maître de l'ordre du Temple ?",
-    "answers": [
-      "Hugues de Payns",
-      "Guillaume de Beaujeu",
-      "Geoffroy de Charney",
-      "Jacques de Molay"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal était privilégié pour la cavalerie lourde ?",
+    "answers": ["Le cheval", "Le bœuf", "Le mulet", "L’âne"],
+    "correctIndex": 0
   },
   {
     "id": "q122",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle bataille de 732 a vu la victoire de Charles Martel ?",
-    "answers": [
-      "Bataille de Hastings",
-      "Bataille de Poitiers",
-      "Bataille d'Azincourt",
-      "Bataille de Crécy"
-    ],
+    "text": "Comment appelait-on un texte relatant les faits année par année ?",
+    "answers": ["Un cartulaire", "Une chronique", "Un capitulaire", "Un missel"],
     "correctIndex": 1
   },
   {
     "id": "q123",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel chroniqueur médiéval a écrit 'La Geste des Francs' ?",
-    "answers": [
-      "Orderic Vital",
-      "Joinville",
-      "Guillaume de Tyr",
-      "Froissart"
-    ],
+    "text": "Quelle activité produisait les verreries colorées des églises ?",
+    "answers": ["La poterie", "La sculpture", "La verrerie", "La fonderie"],
     "correctIndex": 2
   },
   {
     "id": "q124",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel pape a lancé la première croisade ?",
-    "answers": [
-      "Alexandre III",
-      "Grégoire VII",
-      "Urbain II",
-      "Innocent III"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment symbolisait l’autorité religieuse urbaine ?",
+    "answers": ["Le château", "Le palais", "La halle", "La cathédrale"],
+    "correctIndex": 3
   },
+
   {
     "id": "q125",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel roi a ordonné la construction de la Sainte-Chapelle à Paris ?",
-    "answers": [
-      "Louis XI",
-      "Charles V",
-      "Philippe le Bel",
-      "Louis IX"
-    ],
-    "correctIndex": 3
+    "text": "Quel objet protégeait la tête du chevalier au combat ?",
+    "answers": ["Le heaume", "Le bouclier", "La cotte", "Le gantelet"],
+    "correctIndex": 0
   },
   {
     "id": "q126",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel roi a ordonné la construction de la Sainte-Chapelle à Paris ?",
-    "answers": [
-      "Charles V",
-      "Louis XI",
-      "Louis IX",
-      "Philippe le Bel"
-    ],
-    "correctIndex": 2
+    "text": "Comment appelait-on un territoire relevant directement du roi ?",
+    "answers": ["Un duché", "Le domaine royal", "Un fief", "Un comté"],
+    "correctIndex": 1
   },
   {
     "id": "q127",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel conflit opposa l'Angleterre et la France de 1337 à 1453 ?",
-    "answers": [
-      "Guerre de Succession d'Espagne",
-      "Guerre des Deux-Roses",
-      "Première croisade",
-      "Guerre de Cent Ans"
-    ],
-    "correctIndex": 3
+    "text": "Quelle activité produisait les armes de siège en bois ?",
+    "answers": ["La menuiserie", "La forge", "La charpenterie", "La fonderie"],
+    "correctIndex": 2
   },
   {
     "id": "q128",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle bataille de 732 a vu la victoire de Charles Martel ?",
-    "answers": [
-      "Bataille de Crécy",
-      "Bataille d'Azincourt",
-      "Bataille de Poitiers",
-      "Bataille de Hastings"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment servait de résidence principale au seigneur ?",
+    "answers": ["Le palais", "La halle", "L’abbaye", "Le château"],
+    "correctIndex": 3
   },
+
   {
     "id": "q129",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel architecte a conçu le dôme de la cathédrale de Florence ?",
-    "answers": [
-      "Brunelleschi",
-      "Ghiberti",
-      "Giotto",
-      "Pisano"
-    ],
+    "text": "Quel symbole identifiait un chevalier sur le champ de bataille ?",
+    "answers": ["Le blason", "La couronne", "Le sceptre", "La tunique"],
     "correctIndex": 0
   },
   {
     "id": "q130",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel roi de Bohême fut canonisé après sa mort ?",
-    "answers": [
-      "Jean de Luxembourg",
-      "Ottokar II",
-      "Venceslas Ier",
-      "Charles IV"
-    ],
-    "correctIndex": 2
+    "text": "Comment appelait-on un chef de corporation artisanale ?",
+    "answers": ["Le prévôt", "Le maître", "Le serf", "Le bailli"],
+    "correctIndex": 1
   },
   {
     "id": "q131",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel pape a lancé la première croisade ?",
-    "answers": [
-      "Urbain II",
-      "Alexandre III",
-      "Innocent III",
-      "Grégoire VII"
-    ],
-    "correctIndex": 0
+    "text": "Quelle activité produisait les tissus en lin ?",
+    "answers": ["La filature", "La broderie", "Le tissage", "La teinture"],
+    "correctIndex": 2
   },
   {
     "id": "q132",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel roi de Bohême fut canonisé après sa mort ?",
-    "answers": [
-      "Jean de Luxembourg",
-      "Venceslas Ier",
-      "Charles IV",
-      "Ottokar II"
-    ],
-    "correctIndex": 1
+    "text": "Quel bâtiment accueillait les assemblées municipales ?",
+    "answers": ["La cathédrale", "Le château", "La halle", "L’hôtel de ville"],
+    "correctIndex": 3
   },
+
   {
     "id": "q133",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel chroniqueur médiéval a écrit 'La Geste des Francs' ?",
-    "answers": [
-      "Guillaume de Tyr",
-      "Froissart",
-      "Joinville",
-      "Orderic Vital"
-    ],
+    "text": "Quel objet permettait de mesurer le temps avant l’horloge mécanique ?",
+    "answers": ["Le sablier", "La cloche", "Le cadran solaire", "La clepsydre"],
     "correctIndex": 0
   },
   {
     "id": "q134",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle dynastie régnait sur l'Angleterre lors de la guerre des Deux-Roses ?",
-    "answers": [
-      "Plantagenêt",
-      "Lancastre",
-      "Tudor",
-      "York"
-    ],
-    "correctIndex": 0
+    "text": "Comment appelait-on une grande réunion commerciale périodique ?",
+    "answers": ["Un marché", "Une foire", "Un péage", "Une halle"],
+    "correctIndex": 1
   },
   {
     "id": "q135",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel conflit opposa l'Angleterre et la France de 1337 à 1453 ?",
-    "answers": [
-      "Guerre de Cent Ans",
-      "Guerre de Succession d'Espagne",
-      "Première croisade",
-      "Guerre des Deux-Roses"
-    ],
-    "correctIndex": 0
+    "text": "Quelle activité produisait les outils agricoles en fer ?",
+    "answers": ["La menuiserie", "La charpenterie", "La forge", "La verrerie"],
+    "correctIndex": 2
   },
   {
     "id": "q136",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel roi de Bohême fut canonisé après sa mort ?",
-    "answers": [
-      "Ottokar II",
-      "Venceslas Ier",
-      "Charles IV",
-      "Jean de Luxembourg"
-    ],
-    "correctIndex": 1
+    "text": "Quel bâtiment conservait les documents municipaux ?",
+    "answers": ["La cathédrale", "Le château", "La halle", "L’hôtel de ville"],
+    "correctIndex": 3
   },
+
   {
     "id": "q137",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle dynastie régnait sur l'Angleterre lors de la guerre des Deux-Roses ?",
-    "answers": [
-      "Lancastre",
-      "Tudor",
-      "York",
-      "Plantagenêt"
-    ],
-    "correctIndex": 3
+    "text": "Quel animal fournissait principalement la laine ?",
+    "answers": ["Le mouton", "La chèvre", "Le bœuf", "Le porc"],
+    "correctIndex": 0
   },
   {
     "id": "q138",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel chroniqueur médiéval a écrit 'La Geste des Francs' ?",
-    "answers": [
-      "Orderic Vital",
-      "Guillaume de Tyr",
-      "Froissart",
-      "Joinville"
-    ],
+    "text": "Comment appelait-on un texte religieux réglementaire ?",
+    "answers": ["Une chronique", "Un capitulaire", "Un missel", "Un cartulaire"],
     "correctIndex": 1
   },
   {
     "id": "q139",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel conflit opposa l'Angleterre et la France de 1337 à 1453 ?",
-    "answers": [
-      "Guerre de Succession d'Espagne",
-      "Première croisade",
-      "Guerre de Cent Ans",
-      "Guerre des Deux-Roses"
-    ],
+    "text": "Quelle activité produisait les objets de culte en métal ?",
+    "answers": ["La forge", "La sculpture", "L’orfèvrerie", "La verrerie"],
     "correctIndex": 2
   },
   {
     "id": "q140",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel chroniqueur médiéval a écrit 'La Geste des Francs' ?",
-    "answers": [
-      "Guillaume de Tyr",
-      "Joinville",
-      "Froissart",
-      "Orderic Vital"
-    ],
-    "correctIndex": 0
+    "text": "Quel bâtiment conservait les reliques d’un saint ?",
+    "answers": ["La halle", "Le cloître", "La grange", "Le reliquaire"],
+    "correctIndex": 3
   },
+
   {
     "id": "q141",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel conflit opposa l'Angleterre et la France de 1337 à 1453 ?",
-    "answers": [
-      "Guerre de Cent Ans",
-      "Guerre des Deux-Roses",
-      "Première croisade",
-      "Guerre de Succession d'Espagne"
-    ],
+    "text": "Quel élément défensif fermait l’entrée du château ?",
+    "answers": ["La herse", "Le rempart", "La tour", "Le fossé"],
     "correctIndex": 0
   },
   {
     "id": "q142",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel architecte a conçu le dôme de la cathédrale de Florence ?",
-    "answers": [
-      "Giotto",
-      "Brunelleschi",
-      "Ghiberti",
-      "Pisano"
-    ],
+    "text": "Comment appelait-on un officier chargé de la défense locale ?",
+    "answers": ["Le prévôt", "Le châtelain", "Le bailli", "Le sergent"],
     "correctIndex": 1
   },
   {
     "id": "q143",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel roi a ordonné la construction de la Sainte-Chapelle à Paris ?",
-    "answers": [
-      "Charles V",
-      "Louis IX",
-      "Louis XI",
-      "Philippe le Bel"
-    ],
-    "correctIndex": 1
+    "text": "Quelle activité produisait les cordages pour les navires médiévaux ?",
+    "answers": ["La charpenterie", "La menuiserie", "La corderie", "La poterie"],
+    "correctIndex": 2
   },
   {
     "id": "q144",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel roi de Bohême fut canonisé après sa mort ?",
-    "answers": [
-      "Jean de Luxembourg",
-      "Ottokar II",
-      "Venceslas Ier",
-      "Charles IV"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment accueillait les pauvres et les pèlerins ?",
+    "answers": ["La grange", "L’auberge", "Le cloître", "L’hospice"],
+    "correctIndex": 3
   },
+
   {
     "id": "q145",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle bataille de 732 a vu la victoire de Charles Martel ?",
-    "answers": [
-      "Bataille de Crécy",
-      "Bataille de Poitiers",
-      "Bataille de Hastings",
-      "Bataille d'Azincourt"
-    ],
-    "correctIndex": 1
+    "text": "Quel objet identifiait un chevalier lors des tournois ?",
+    "answers": ["Le blason", "La couronne", "Le sceptre", "La bannière"],
+    "correctIndex": 0
   },
   {
     "id": "q146",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel pape a lancé la première croisade ?",
-    "answers": [
-      "Grégoire VII",
-      "Innocent III",
-      "Alexandre III",
-      "Urbain II"
-    ],
-    "correctIndex": 3
+    "text": "Comment appelait-on un impôt prélevé par le seigneur sur les marchés ?",
+    "answers": ["La taille", "Le tonlieu", "La dîme", "La banalité"],
+    "correctIndex": 1
   },
   {
     "id": "q147",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel architecte a conçu le dôme de la cathédrale de Florence ?",
-    "answers": [
-      "Giotto",
-      "Ghiberti",
-      "Brunelleschi",
-      "Pisano"
-    ],
+    "text": "Quelle activité produisait les armes blanches médiévales ?",
+    "answers": ["La charpenterie", "La menuiserie", "La forge", "La verrerie"],
     "correctIndex": 2
   },
   {
     "id": "q148",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel architecte a conçu le dôme de la cathédrale de Florence ?",
-    "answers": [
-      "Brunelleschi",
-      "Giotto",
-      "Ghiberti",
-      "Pisano"
-    ],
-    "correctIndex": 0
+    "text": "Quel bâtiment conservait les biens précieux d’une ville ?",
+    "answers": ["La halle", "Le cloître", "La grange", "Le trésor"],
+    "correctIndex": 3
   },
+
   {
     "id": "q149",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel conflit opposa l'Angleterre et la France de 1337 à 1453 ?",
-    "answers": [
-      "Guerre de Succession d'Espagne",
-      "Guerre de Cent Ans",
-      "Guerre des Deux-Roses",
-      "Première croisade"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal était utilisé pour le transport en montagne ?",
+    "answers": ["Le mulet", "Le cheval", "Le bœuf", "L’âne"],
+    "correctIndex": 0
   },
   {
     "id": "q150",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle dynastie régnait sur l'Angleterre lors de la guerre des Deux-Roses ?",
-    "answers": [
-      "York",
-      "Lancastre",
-      "Tudor",
-      "Plantagenêt"
-    ],
-    "correctIndex": 3
+    "text": "Comment appelait-on un récit épique médiéval chanté ?",
+    "answers": ["Une fable", "Une chanson de geste", "Une chronique", "Un sermon"],
+    "correctIndex": 1
   },
   {
     "id": "q151",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel pape a lancé la première croisade ?",
-    "answers": [
-      "Urbain II",
-      "Alexandre III",
-      "Innocent III",
-      "Grégoire VII"
-    ],
+    "text": "Quel terme désignait un territoire concédé en échange de services militaires ?",
+    "answers": ["Le fief", "La seigneurie", "Le domaine", "Le comté"],
     "correctIndex": 0
   },
   {
     "id": "q152",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel pape a lancé la première croisade ?",
-    "answers": [
-      "Alexandre III",
-      "Innocent III",
-      "Urbain II",
-      "Grégoire VII"
-    ],
-    "correctIndex": 2
+    "text": "Comment appelait-on l’acte par lequel un vassal jurait fidélité à son seigneur ?",
+    "answers": ["La dîme", "L’hommage", "L’adoubement", "La coutume"],
+    "correctIndex": 1
   },
   {
     "id": "q153",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel roi a ordonné la construction de la Sainte-Chapelle à Paris ?",
-    "answers": [
-      "Philippe le Bel",
-      "Charles V",
-      "Louis XI",
-      "Louis IX"
-    ],
-    "correctIndex": 3
+    "text": "Quelle activité était spécialisée dans la fabrication des armures métalliques ?",
+    "answers": ["La forge", "La menuiserie", "L’armurerie", "La charpenterie"],
+    "correctIndex": 2
   },
   {
     "id": "q154",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle bataille de 732 a vu la victoire de Charles Martel ?",
-    "answers": [
-      "Bataille de Crécy",
-      "Bataille d'Azincourt",
-      "Bataille de Hastings",
-      "Bataille de Poitiers"
-    ],
+    "text": "Quel bâtiment servait de lieu de résidence fortifiée en zone rurale ?",
+    "answers": ["Le palais", "La halle", "L’abbaye", "La motte castrale"],
     "correctIndex": 3
   },
+
   {
     "id": "q155",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle bataille de 732 a vu la victoire de Charles Martel ?",
-    "answers": [
-      "Bataille de Poitiers",
-      "Bataille de Crécy",
-      "Bataille d'Azincourt",
-      "Bataille de Hastings"
-    ],
+    "text": "Quel symbole matérialisait un engagement écrit au Moyen Âge ?",
+    "answers": ["Le sceau", "La signature", "Le blason", "La couronne"],
     "correctIndex": 0
   },
   {
     "id": "q156",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel fut le dernier grand maître de l'ordre du Temple ?",
-    "answers": [
-      "Jacques de Molay",
-      "Geoffroy de Charney",
-      "Hugues de Payns",
-      "Guillaume de Beaujeu"
-    ],
-    "correctIndex": 0
+    "text": "Comment appelait-on un chef militaire urbain chargé de la défense d’une ville ?",
+    "answers": ["Le prévôt", "Le capitaine", "Le châtelain", "Le bailli"],
+    "correctIndex": 1
   },
   {
     "id": "q157",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Qui a écrit 'Le Livre des merveilles du monde' au XIIIe siècle ?",
-    "answers": [
-      "Odoric de Pordenone",
-      "Guillaume de Rubrouck",
-      "Marco Polo",
-      "Jean de Mandeville"
-    ],
+    "text": "Quelle activité produisait les parchemins utilisés pour l’écriture ?",
+    "answers": ["La tannerie", "La filature", "La parcheminerie", "La reliure"],
     "correctIndex": 2
   },
   {
     "id": "q158",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel roi de Bohême fut canonisé après sa mort ?",
-    "answers": [
-      "Venceslas Ier",
-      "Jean de Luxembourg",
-      "Charles IV",
-      "Ottokar II"
-    ],
-    "correctIndex": 0
+    "text": "Quel bâtiment conservait les revenus et réserves du seigneur ?",
+    "answers": ["La halle", "Le cloître", "Le palais", "Le grenier seigneurial"],
+    "correctIndex": 3
   },
+
   {
     "id": "q159",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel pape a lancé la première croisade ?",
-    "answers": [
-      "Innocent III",
-      "Urbain II",
-      "Alexandre III",
-      "Grégoire VII"
-    ],
-    "correctIndex": 1
+    "text": "Quel animal était principalement utilisé pour le labour ?",
+    "answers": ["Le bœuf", "Le cheval", "Le mulet", "L’âne"],
+    "correctIndex": 0
   },
   {
     "id": "q160",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel pape a lancé la première croisade ?",
-    "answers": [
-      "Grégoire VII",
-      "Innocent III",
-      "Urbain II",
-      "Alexandre III"
-    ],
-    "correctIndex": 2
+    "text": "Comment appelait-on un impôt perçu par l’Église sur les récoltes ?",
+    "answers": ["La taille", "La dîme", "Le cens", "Le tonlieu"],
+    "correctIndex": 1
   },
+
   {
     "id": "q161",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle bataille de 732 a vu la victoire de Charles Martel ?",
-    "answers": [
-      "Bataille de Crécy",
-      "Bataille de Poitiers",
-      "Bataille d'Azincourt",
-      "Bataille de Hastings"
-    ],
-    "correctIndex": 1
+    "text": "Quelle activité permettait la fabrication des cloches d’église ?",
+    "answers": ["La forge", "La charpenterie", "La fonderie", "La verrerie"],
+    "correctIndex": 2
   },
   {
     "id": "q162",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel architecte a conçu le dôme de la cathédrale de Florence ?",
-    "answers": [
-      "Pisano",
-      "Giotto",
-      "Ghiberti",
-      "Brunelleschi"
-    ],
+    "text": "Quel bâtiment accueillait les assemblées de notables locaux ?",
+    "answers": ["La cathédrale", "Le château", "La halle", "La maison commune"],
     "correctIndex": 3
   },
+
   {
     "id": "q163",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel roi a ordonné la construction de la Sainte-Chapelle à Paris ?",
-    "answers": [
-      "Louis IX",
-      "Philippe le Bel",
-      "Louis XI",
-      "Charles V"
-    ],
+    "text": "Quel objet servait à identifier un seigneur sur les actes officiels ?",
+    "answers": ["Le sceau", "L’épée", "Le casque", "La bannière"],
     "correctIndex": 0
   },
   {
     "id": "q164",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel conflit opposa l'Angleterre et la France de 1337 à 1453 ?",
-    "answers": [
-      "Première croisade",
-      "Guerre de Cent Ans",
-      "Guerre de Succession d'Espagne",
-      "Guerre des Deux-Roses"
-    ],
+    "text": "Comment appelait-on un territoire dirigé par un duc ?",
+    "answers": ["Un comté", "Un duché", "Une seigneurie", "Un marquisat"],
     "correctIndex": 1
   },
   {
     "id": "q165",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle dynastie régnait sur l'Angleterre lors de la guerre des Deux-Roses ?",
-    "answers": [
-      "York",
-      "Lancastre",
-      "Plantagenêt",
-      "Tudor"
-    ],
+    "text": "Quelle activité produisait les vitraux colorés des cathédrales ?",
+    "answers": ["La peinture", "La sculpture", "La verrerie", "La fonderie"],
     "correctIndex": 2
   },
   {
     "id": "q166",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle dynastie régnait sur l'Angleterre lors de la guerre des Deux-Roses ?",
-    "answers": [
-      "Plantagenêt",
-      "Lancastre",
-      "York",
-      "Tudor"
-    ],
-    "correctIndex": 0
+    "text": "Quel bâtiment abritait les reliques d’un saint local ?",
+    "answers": ["La halle", "Le cloître", "La grange", "Le sanctuaire"],
+    "correctIndex": 3
   },
+
   {
     "id": "q167",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel pape a lancé la première croisade ?",
-    "answers": [
-      "Alexandre III",
-      "Grégoire VII",
-      "Urbain II",
-      "Innocent III"
-    ],
-    "correctIndex": 2
+    "text": "Quel objet défensif protégeait le corps du chevalier ?",
+    "answers": ["La cotte de mailles", "Le heaume", "Le bouclier", "La tunique"],
+    "correctIndex": 0
   },
   {
     "id": "q168",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle bataille de 732 a vu la victoire de Charles Martel ?",
-    "answers": [
-      "Bataille de Crécy",
-      "Bataille d'Azincourt",
-      "Bataille de Poitiers",
-      "Bataille de Hastings"
-    ],
-    "correctIndex": 2
+    "text": "Comment appelait-on un officier chargé de la perception des taxes ?",
+    "answers": ["Le sergent", "Le receveur", "Le prévôt", "Le chanoine"],
+    "correctIndex": 1
   },
   {
     "id": "q169",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle dynastie régnait sur l'Angleterre lors de la guerre des Deux-Roses ?",
-    "answers": [
-      "Lancastre",
-      "York",
-      "Plantagenêt",
-      "Tudor"
-    ],
+    "text": "Quelle activité permettait la fabrication des bateaux fluviaux ?",
+    "answers": ["La menuiserie", "La forge", "La charpenterie navale", "La corderie"],
     "correctIndex": 2
   },
   {
     "id": "q170",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Qui a écrit 'Le Livre des merveilles du monde' au XIIIe siècle ?",
-    "answers": [
-      "Guillaume de Rubrouck",
-      "Odoric de Pordenone",
-      "Marco Polo",
-      "Jean de Mandeville"
-    ],
-    "correctIndex": 2
+    "text": "Quel bâtiment protégeait l’entrée principale d’une ville fortifiée ?",
+    "answers": ["La tour", "Le rempart", "Le fossé", "La porte fortifiée"],
+    "correctIndex": 3
   },
+
   {
     "id": "q171",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Qui a écrit 'Le Livre des merveilles du monde' au XIIIe siècle ?",
-    "answers": [
-      "Jean de Mandeville",
-      "Odoric de Pordenone",
-      "Marco Polo",
-      "Guillaume de Rubrouck"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal était le plus utilisé pour la guerre lourde ?",
+    "answers": ["Le cheval", "Le bœuf", "Le mulet", "L’âne"],
+    "correctIndex": 0
   },
   {
     "id": "q172",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle dynastie régnait sur l'Angleterre lors de la guerre des Deux-Roses ?",
-    "answers": [
-      "York",
-      "Tudor",
-      "Plantagenêt",
-      "Lancastre"
-    ],
-    "correctIndex": 2
+    "text": "Comment appelait-on un texte officiel scellé par une autorité ?",
+    "answers": ["Un manuscrit", "Une charte", "Un capitulaire", "Un cartulaire"],
+    "correctIndex": 1
   },
+
   {
     "id": "q173",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel chroniqueur médiéval a écrit 'La Geste des Francs' ?",
-    "answers": [
-      "Joinville",
-      "Guillaume de Tyr",
-      "Froissart",
-      "Orderic Vital"
-    ],
-    "correctIndex": 1
+    "text": "Quelle activité produisait les monnaies métalliques ?",
+    "answers": ["La forge", "La gravure", "La frappe monétaire", "La fonderie"],
+    "correctIndex": 2
   },
   {
     "id": "q174",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel fut le dernier grand maître de l'ordre du Temple ?",
-    "answers": [
-      "Geoffroy de Charney",
-      "Hugues de Payns",
-      "Guillaume de Beaujeu",
-      "Jacques de Molay"
-    ],
+    "text": "Quel bâtiment symbolisait l’autorité municipale ?",
+    "answers": ["Le château", "La cathédrale", "La halle", "L’hôtel de ville"],
     "correctIndex": 3
   },
+
   {
     "id": "q175",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel chroniqueur médiéval a écrit 'La Geste des Francs' ?",
-    "answers": [
-      "Orderic Vital",
-      "Guillaume de Tyr",
-      "Froissart",
-      "Joinville"
-    ],
-    "correctIndex": 1
+    "text": "Quel objet était utilisé pour appeler les fidèles à la prière ?",
+    "answers": ["La cloche", "Le cor", "La trompe", "Le tambour"],
+    "correctIndex": 0
   },
   {
     "id": "q176",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel conflit opposa l'Angleterre et la France de 1337 à 1453 ?",
-    "answers": [
-      "Guerre de Cent Ans",
-      "Guerre de Succession d'Espagne",
-      "Première croisade",
-      "Guerre des Deux-Roses"
-    ],
-    "correctIndex": 0
+    "text": "Comment appelait-on un territoire frontalier gouverné par un marquis ?",
+    "answers": ["Un comté", "Un marquisat", "Un duché", "Une seigneurie"],
+    "correctIndex": 1
   },
   {
     "id": "q177",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle bataille de 732 a vu la victoire de Charles Martel ?",
-    "answers": [
-      "Bataille d'Azincourt",
-      "Bataille de Crécy",
-      "Bataille de Hastings",
-      "Bataille de Poitiers"
-    ],
-    "correctIndex": 3
+    "text": "Quelle activité produisait les tapisseries murales ?",
+    "answers": ["La broderie", "La filature", "La tapisserie", "Le tissage"],
+    "correctIndex": 2
   },
   {
     "id": "q178",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel chroniqueur médiéval a écrit 'La Geste des Francs' ?",
-    "answers": [
-      "Froissart",
-      "Orderic Vital",
-      "Joinville",
-      "Guillaume de Tyr"
-    ],
+    "text": "Quel bâtiment accueillait les malades et indigents ?",
+    "answers": ["La grange", "L’auberge", "Le cloître", "L’hôpital médiéval"],
     "correctIndex": 3
   },
+
   {
     "id": "q179",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel fut le dernier grand maître de l'ordre du Temple ?",
-    "answers": [
-      "Geoffroy de Charney",
-      "Hugues de Payns",
-      "Guillaume de Beaujeu",
-      "Jacques de Molay"
-    ],
-    "correctIndex": 3
+    "text": "Quel symbole représentait la lignée familiale ?",
+    "answers": ["Les armoiries", "La couronne", "Le sceau", "L’épée"],
+    "correctIndex": 0
   },
   {
     "id": "q180",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel fut le dernier grand maître de l'ordre du Temple ?",
-    "answers": [
-      "Geoffroy de Charney",
-      "Guillaume de Beaujeu",
-      "Hugues de Payns",
-      "Jacques de Molay"
-    ],
-    "correctIndex": 3
+    "text": "Comment appelait-on une grande réunion politique du royaume ?",
+    "answers": ["Une foire", "Les états généraux", "Un synode", "Un concile"],
+    "correctIndex": 1
   },
+
   {
     "id": "q181",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle bataille de 732 a vu la victoire de Charles Martel ?",
-    "answers": [
-      "Bataille d'Azincourt",
-      "Bataille de Hastings",
-      "Bataille de Crécy",
-      "Bataille de Poitiers"
-    ],
-    "correctIndex": 3
+    "text": "Quelle activité produisait les vitres planes rares au Moyen Âge ?",
+    "answers": ["La poterie", "La sculpture", "La verrerie", "La fonderie"],
+    "correctIndex": 2
   },
   {
     "id": "q182",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel architecte a conçu le dôme de la cathédrale de Florence ?",
-    "answers": [
-      "Brunelleschi",
-      "Ghiberti",
-      "Pisano",
-      "Giotto"
-    ],
-    "correctIndex": 0
+    "text": "Quel bâtiment abritait les moines dans un monastère ?",
+    "answers": ["La nef", "Le chœur", "La salle capitulaire", "Le dortoir"],
+    "correctIndex": 3
   },
+
   {
     "id": "q183",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel fut le dernier grand maître de l'ordre du Temple ?",
-    "answers": [
-      "Guillaume de Beaujeu",
-      "Geoffroy de Charney",
-      "Jacques de Molay",
-      "Hugues de Payns"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal fournissait la force principale pour les moulins à traction ?",
+    "answers": ["Le cheval", "Le bœuf", "Le mulet", "L’âne"],
+    "correctIndex": 0
   },
   {
     "id": "q184",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel conflit opposa l'Angleterre et la France de 1337 à 1453 ?",
-    "answers": [
-      "Première croisade",
-      "Guerre de Succession d'Espagne",
-      "Guerre des Deux-Roses",
-      "Guerre de Cent Ans"
-    ],
-    "correctIndex": 3
+    "text": "Comment appelait-on un texte recensant les possessions d’un monastère ?",
+    "answers": ["Une chronique", "Un cartulaire", "Une charte", "Un capitulaire"],
+    "correctIndex": 1
   },
   {
     "id": "q185",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel roi de Bohême fut canonisé après sa mort ?",
-    "answers": [
-      "Ottokar II",
-      "Jean de Luxembourg",
-      "Venceslas Ier",
-      "Charles IV"
-    ],
+    "text": "Quelle activité produisait les pigments pour enluminures ?",
+    "answers": ["La teinture", "La verrerie", "La préparation des pigments", "La broderie"],
     "correctIndex": 2
   },
   {
     "id": "q186",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel chroniqueur médiéval a écrit 'La Geste des Francs' ?",
-    "answers": [
-      "Guillaume de Tyr",
-      "Joinville",
-      "Froissart",
-      "Orderic Vital"
-    ],
-    "correctIndex": 0
+    "text": "Quel bâtiment servait de centre administratif seigneurial ?",
+    "answers": ["La halle", "La cathédrale", "La grange", "Le palais seigneurial"],
+    "correctIndex": 3
   },
+
   {
     "id": "q187",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel conflit opposa l'Angleterre et la France de 1337 à 1453 ?",
-    "answers": [
-      "Guerre des Deux-Roses",
-      "Guerre de Cent Ans",
-      "Première croisade",
-      "Guerre de Succession d'Espagne"
-    ],
-    "correctIndex": 1
+    "text": "Quel objet était utilisé pour sceller les coffres précieux ?",
+    "answers": ["Le sceau", "La serrure", "La clé", "Le cadenas"],
+    "correctIndex": 0
   },
   {
     "id": "q188",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel fut le dernier grand maître de l'ordre du Temple ?",
-    "answers": [
-      "Hugues de Payns",
-      "Geoffroy de Charney",
-      "Guillaume de Beaujeu",
-      "Jacques de Molay"
-    ],
-    "correctIndex": 3
+    "text": "Comment appelait-on un officier chargé de la police urbaine ?",
+    "answers": ["Le prévôt", "Le sergent", "Le bailli", "Le châtelain"],
+    "correctIndex": 1
   },
+
   {
     "id": "q189",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel architecte a conçu le dôme de la cathédrale de Florence ?",
-    "answers": [
-      "Pisano",
-      "Ghiberti",
-      "Brunelleschi",
-      "Giotto"
-    ],
+    "text": "Quelle activité produisait les clous et ferrures ?",
+    "answers": ["La menuiserie", "La charpenterie", "La forge", "La fonderie"],
     "correctIndex": 2
   },
   {
     "id": "q190",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle bataille de 732 a vu la victoire de Charles Martel ?",
-    "answers": [
-      "Bataille de Hastings",
-      "Bataille de Crécy",
-      "Bataille d'Azincourt",
-      "Bataille de Poitiers"
-    ],
+    "text": "Quel bâtiment conservait les réserves alimentaires de la ville ?",
+    "answers": ["La halle", "Le cloître", "La grange", "Le grenier communal"],
     "correctIndex": 3
   },
+
   {
     "id": "q191",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel conflit opposa l'Angleterre et la France de 1337 à 1453 ?",
-    "answers": [
-      "Première croisade",
-      "Guerre de Succession d'Espagne",
-      "Guerre des Deux-Roses",
-      "Guerre de Cent Ans"
-    ],
-    "correctIndex": 3
+    "text": "Quel objet servait à mesurer les surfaces agricoles ?",
+    "answers": ["La corde à mesurer", "Le bâton", "La règle", "Le compas"],
+    "correctIndex": 0
   },
   {
     "id": "q192",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel chroniqueur médiéval a écrit 'La Geste des Francs' ?",
-    "answers": [
-      "Joinville",
-      "Orderic Vital",
-      "Froissart",
-      "Guillaume de Tyr"
-    ],
-    "correctIndex": 3
+    "text": "Comment appelait-on un rassemblement religieux local ?",
+    "answers": ["Un concile", "Un synode", "Un chapitre", "Un sermon"],
+    "correctIndex": 1
   },
+
   {
     "id": "q193",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel fut le dernier grand maître de l'ordre du Temple ?",
-    "answers": [
-      "Hugues de Payns",
-      "Geoffroy de Charney",
-      "Guillaume de Beaujeu",
-      "Jacques de Molay"
-    ],
-    "correctIndex": 3
+    "text": "Quelle activité produisait les armes de siège métalliques ?",
+    "answers": ["La charpenterie", "La menuiserie", "La forge", "La verrerie"],
+    "correctIndex": 2
   },
   {
     "id": "q194",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel roi de Bohême fut canonisé après sa mort ?",
-    "answers": [
-      "Venceslas Ier",
-      "Jean de Luxembourg",
-      "Charles IV",
-      "Ottokar II"
-    ],
-    "correctIndex": 0
+    "text": "Quel bâtiment accueillait les archives ecclésiastiques ?",
+    "answers": ["La nef", "Le cloître", "La sacristie", "La bibliothèque monastique"],
+    "correctIndex": 3
   },
+
   {
     "id": "q195",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel fut le dernier grand maître de l'ordre du Temple ?",
-    "answers": [
-      "Hugues de Payns",
-      "Geoffroy de Charney",
-      "Jacques de Molay",
-      "Guillaume de Beaujeu"
-    ],
-    "correctIndex": 2
+    "text": "Quel animal fournissait principalement le cuir ?",
+    "answers": ["Le bœuf", "Le mouton", "La chèvre", "Le porc"],
+    "correctIndex": 0
   },
   {
     "id": "q196",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Qui a écrit 'Le Livre des merveilles du monde' au XIIIe siècle ?",
-    "answers": [
-      "Odoric de Pordenone",
-      "Marco Polo",
-      "Guillaume de Rubrouck",
-      "Jean de Mandeville"
-    ],
+    "text": "Comment appelait-on une taxe prélevée sur l’utilisation des fours seigneuriaux ?",
+    "answers": ["La taille", "La banalité", "Le cens", "Le tonlieu"],
     "correctIndex": 1
   },
+
   {
     "id": "q197",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quelle dynastie régnait sur l'Angleterre lors de la guerre des Deux-Roses ?",
-    "answers": [
-      "Plantagenêt",
-      "Tudor",
-      "Lancastre",
-      "York"
-    ],
-    "correctIndex": 0
+    "text": "Quelle activité produisait les outils agricoles tranchants ?",
+    "answers": ["La menuiserie", "La charpenterie", "La forge", "La corderie"],
+    "correctIndex": 2
   },
   {
     "id": "q198",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel chroniqueur médiéval a écrit 'La Geste des Francs' ?",
-    "answers": [
-      "Froissart",
-      "Guillaume de Tyr",
-      "Orderic Vital",
-      "Joinville"
-    ],
-    "correctIndex": 1
+    "text": "Quel bâtiment symbolisait la puissance militaire d’un seigneur ?",
+    "answers": ["La cathédrale", "La halle", "Le palais", "Le donjon"],
+    "correctIndex": 3
   },
+
   {
     "id": "q199",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel fut le dernier grand maître de l'ordre du Temple ?",
-    "answers": [
-      "Geoffroy de Charney",
-      "Guillaume de Beaujeu",
-      "Hugues de Payns",
-      "Jacques de Molay"
-    ],
-    "correctIndex": 3
+    "text": "Quel objet représentait l’autorité royale ?",
+    "answers": ["Le sceptre", "L’épée", "La couronne", "Le blason"],
+    "correctIndex": 0
   },
   {
     "id": "q200",
     "category": "Moyen-Âge",
     "difficulty": "Difficile",
-    "text": "Quel architecte a conçu le dôme de la cathédrale de Florence ?",
-    "answers": [
-      "Giotto",
-      "Pisano",
-      "Ghiberti",
-      "Brunelleschi"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q201",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel roi de Bohême fut canonisé après sa mort ?",
-    "answers": [
-      "Venceslas Ier",
-      "Charles IV",
-      "Ottokar II",
-      "Jean de Luxembourg"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q202",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quelle dynastie régnait sur l'Angleterre lors de la guerre des Deux-Roses ?",
-    "answers": [
-      "Plantagenêt",
-      "York",
-      "Lancastre",
-      "Tudor"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q203",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel conflit opposa l'Angleterre et la France de 1337 à 1453 ?",
-    "answers": [
-      "Guerre de Cent Ans",
-      "Guerre des Deux-Roses",
-      "Guerre de Succession d'Espagne",
-      "Première croisade"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q204",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel architecte a conçu le dôme de la cathédrale de Florence ?",
-    "answers": [
-      "Brunelleschi",
-      "Pisano",
-      "Giotto",
-      "Ghiberti"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q205",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quelle bataille de 732 a vu la victoire de Charles Martel ?",
-    "answers": [
-      "Bataille d'Azincourt",
-      "Bataille de Crécy",
-      "Bataille de Hastings",
-      "Bataille de Poitiers"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q206",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Qui a écrit 'Le Livre des merveilles du monde' au XIIIe siècle ?",
-    "answers": [
-      "Marco Polo",
-      "Odoric de Pordenone",
-      "Guillaume de Rubrouck",
-      "Jean de Mandeville"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q207",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel roi a ordonné la construction de la Sainte-Chapelle à Paris ?",
-    "answers": [
-      "Philippe le Bel",
-      "Louis XI",
-      "Louis IX",
-      "Charles V"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q208",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel fut le dernier grand maître de l'ordre du Temple ?",
-    "answers": [
-      "Geoffroy de Charney",
-      "Hugues de Payns",
-      "Guillaume de Beaujeu",
-      "Jacques de Molay"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q209",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quelle bataille de 732 a vu la victoire de Charles Martel ?",
-    "answers": [
-      "Bataille de Hastings",
-      "Bataille d'Azincourt",
-      "Bataille de Poitiers",
-      "Bataille de Crécy"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q210",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quelle dynastie régnait sur l'Angleterre lors de la guerre des Deux-Roses ?",
-    "answers": [
-      "Lancastre",
-      "York",
-      "Tudor",
-      "Plantagenêt"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q211",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel fut le dernier grand maître de l'ordre du Temple ?",
-    "answers": [
-      "Guillaume de Beaujeu",
-      "Jacques de Molay",
-      "Geoffroy de Charney",
-      "Hugues de Payns"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q212",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel pape a lancé la première croisade ?",
-    "answers": [
-      "Grégoire VII",
-      "Innocent III",
-      "Urbain II",
-      "Alexandre III"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q213",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel pape a lancé la première croisade ?",
-    "answers": [
-      "Alexandre III",
-      "Innocent III",
-      "Grégoire VII",
-      "Urbain II"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q214",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel fut le dernier grand maître de l'ordre du Temple ?",
-    "answers": [
-      "Jacques de Molay",
-      "Geoffroy de Charney",
-      "Hugues de Payns",
-      "Guillaume de Beaujeu"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q215",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel pape a lancé la première croisade ?",
-    "answers": [
-      "Grégoire VII",
-      "Alexandre III",
-      "Innocent III",
-      "Urbain II"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q216",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel architecte a conçu le dôme de la cathédrale de Florence ?",
-    "answers": [
-      "Brunelleschi",
-      "Ghiberti",
-      "Pisano",
-      "Giotto"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q217",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel chroniqueur médiéval a écrit 'La Geste des Francs' ?",
-    "answers": [
-      "Joinville",
-      "Orderic Vital",
-      "Froissart",
-      "Guillaume de Tyr"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q218",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel fut le dernier grand maître de l'ordre du Temple ?",
-    "answers": [
-      "Hugues de Payns",
-      "Guillaume de Beaujeu",
-      "Jacques de Molay",
-      "Geoffroy de Charney"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q219",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel fut le dernier grand maître de l'ordre du Temple ?",
-    "answers": [
-      "Guillaume de Beaujeu",
-      "Hugues de Payns",
-      "Jacques de Molay",
-      "Geoffroy de Charney"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q220",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel pape a lancé la première croisade ?",
-    "answers": [
-      "Alexandre III",
-      "Innocent III",
-      "Grégoire VII",
-      "Urbain II"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q221",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel pape a lancé la première croisade ?",
-    "answers": [
-      "Innocent III",
-      "Alexandre III",
-      "Grégoire VII",
-      "Urbain II"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q222",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel architecte a conçu le dôme de la cathédrale de Florence ?",
-    "answers": [
-      "Brunelleschi",
-      "Giotto",
-      "Pisano",
-      "Ghiberti"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q223",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quelle dynastie régnait sur l'Angleterre lors de la guerre des Deux-Roses ?",
-    "answers": [
-      "York",
-      "Lancastre",
-      "Tudor",
-      "Plantagenêt"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q224",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quelle bataille de 732 a vu la victoire de Charles Martel ?",
-    "answers": [
-      "Bataille de Crécy",
-      "Bataille de Poitiers",
-      "Bataille de Hastings",
-      "Bataille d'Azincourt"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q225",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Qui a écrit 'Le Livre des merveilles du monde' au XIIIe siècle ?",
-    "answers": [
-      "Marco Polo",
-      "Guillaume de Rubrouck",
-      "Jean de Mandeville",
-      "Odoric de Pordenone"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q226",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel roi de Bohême fut canonisé après sa mort ?",
-    "answers": [
-      "Venceslas Ier",
-      "Charles IV",
-      "Jean de Luxembourg",
-      "Ottokar II"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q227",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quelle dynastie régnait sur l'Angleterre lors de la guerre des Deux-Roses ?",
-    "answers": [
-      "York",
-      "Tudor",
-      "Plantagenêt",
-      "Lancastre"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q228",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quelle bataille de 732 a vu la victoire de Charles Martel ?",
-    "answers": [
-      "Bataille de Poitiers",
-      "Bataille d'Azincourt",
-      "Bataille de Crécy",
-      "Bataille de Hastings"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q229",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quelle dynastie régnait sur l'Angleterre lors de la guerre des Deux-Roses ?",
-    "answers": [
-      "Lancastre",
-      "Plantagenêt",
-      "York",
-      "Tudor"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q230",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel roi a ordonné la construction de la Sainte-Chapelle à Paris ?",
-    "answers": [
-      "Louis XI",
-      "Louis IX",
-      "Philippe le Bel",
-      "Charles V"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q231",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel chroniqueur médiéval a écrit 'La Geste des Francs' ?",
-    "answers": [
-      "Guillaume de Tyr",
-      "Orderic Vital",
-      "Froissart",
-      "Joinville"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q232",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel chroniqueur médiéval a écrit 'La Geste des Francs' ?",
-    "answers": [
-      "Froissart",
-      "Orderic Vital",
-      "Joinville",
-      "Guillaume de Tyr"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q233",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel conflit opposa l'Angleterre et la France de 1337 à 1453 ?",
-    "answers": [
-      "Guerre des Deux-Roses",
-      "Guerre de Cent Ans",
-      "Guerre de Succession d'Espagne",
-      "Première croisade"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q234",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel roi a ordonné la construction de la Sainte-Chapelle à Paris ?",
-    "answers": [
-      "Louis XI",
-      "Charles V",
-      "Louis IX",
-      "Philippe le Bel"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q235",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Qui a écrit 'Le Livre des merveilles du monde' au XIIIe siècle ?",
-    "answers": [
-      "Marco Polo",
-      "Odoric de Pordenone",
-      "Jean de Mandeville",
-      "Guillaume de Rubrouck"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q236",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Qui a écrit 'Le Livre des merveilles du monde' au XIIIe siècle ?",
-    "answers": [
-      "Odoric de Pordenone",
-      "Jean de Mandeville",
-      "Guillaume de Rubrouck",
-      "Marco Polo"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q237",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quelle bataille de 732 a vu la victoire de Charles Martel ?",
-    "answers": [
-      "Bataille d'Azincourt",
-      "Bataille de Crécy",
-      "Bataille de Hastings",
-      "Bataille de Poitiers"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q238",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel roi a ordonné la construction de la Sainte-Chapelle à Paris ?",
-    "answers": [
-      "Louis XI",
-      "Charles V",
-      "Philippe le Bel",
-      "Louis IX"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q239",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel pape a lancé la première croisade ?",
-    "answers": [
-      "Urbain II",
-      "Innocent III",
-      "Grégoire VII",
-      "Alexandre III"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q240",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel fut le dernier grand maître de l'ordre du Temple ?",
-    "answers": [
-      "Jacques de Molay",
-      "Geoffroy de Charney",
-      "Hugues de Payns",
-      "Guillaume de Beaujeu"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q241",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel roi a ordonné la construction de la Sainte-Chapelle à Paris ?",
-    "answers": [
-      "Louis XI",
-      "Philippe le Bel",
-      "Louis IX",
-      "Charles V"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q242",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel chroniqueur médiéval a écrit 'La Geste des Francs' ?",
-    "answers": [
-      "Guillaume de Tyr",
-      "Orderic Vital",
-      "Froissart",
-      "Joinville"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q243",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel architecte a conçu le dôme de la cathédrale de Florence ?",
-    "answers": [
-      "Brunelleschi",
-      "Ghiberti",
-      "Pisano",
-      "Giotto"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q244",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel roi a ordonné la construction de la Sainte-Chapelle à Paris ?",
-    "answers": [
-      "Charles V",
-      "Philippe le Bel",
-      "Louis XI",
-      "Louis IX"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q245",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quelle dynastie régnait sur l'Angleterre lors de la guerre des Deux-Roses ?",
-    "answers": [
-      "Tudor",
-      "Plantagenêt",
-      "Lancastre",
-      "York"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q246",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel fut le dernier grand maître de l'ordre du Temple ?",
-    "answers": [
-      "Jacques de Molay",
-      "Hugues de Payns",
-      "Geoffroy de Charney",
-      "Guillaume de Beaujeu"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q247",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel roi a ordonné la construction de la Sainte-Chapelle à Paris ?",
-    "answers": [
-      "Louis IX",
-      "Charles V",
-      "Philippe le Bel",
-      "Louis XI"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q248",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quelle bataille de 732 a vu la victoire de Charles Martel ?",
-    "answers": [
-      "Bataille de Hastings",
-      "Bataille de Crécy",
-      "Bataille de Poitiers",
-      "Bataille d'Azincourt"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q249",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quelle bataille de 732 a vu la victoire de Charles Martel ?",
-    "answers": [
-      "Bataille de Crécy",
-      "Bataille d'Azincourt",
-      "Bataille de Poitiers",
-      "Bataille de Hastings"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q250",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel chroniqueur médiéval a écrit 'La Geste des Francs' ?",
-    "answers": [
-      "Froissart",
-      "Guillaume de Tyr",
-      "Joinville",
-      "Orderic Vital"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q251",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quelle bataille de 732 a vu la victoire de Charles Martel ?",
-    "answers": [
-      "Bataille de Poitiers",
-      "Bataille de Hastings",
-      "Bataille d'Azincourt",
-      "Bataille de Crécy"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q252",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel fut le dernier grand maître de l'ordre du Temple ?",
-    "answers": [
-      "Guillaume de Beaujeu",
-      "Jacques de Molay",
-      "Hugues de Payns",
-      "Geoffroy de Charney"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q253",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel roi de Bohême fut canonisé après sa mort ?",
-    "answers": [
-      "Charles IV",
-      "Jean de Luxembourg",
-      "Venceslas Ier",
-      "Ottokar II"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q254",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel roi a ordonné la construction de la Sainte-Chapelle à Paris ?",
-    "answers": [
-      "Charles V",
-      "Louis XI",
-      "Louis IX",
-      "Philippe le Bel"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q255",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel fut le dernier grand maître de l'ordre du Temple ?",
-    "answers": [
-      "Geoffroy de Charney",
-      "Jacques de Molay",
-      "Guillaume de Beaujeu",
-      "Hugues de Payns"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q256",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel roi de Bohême fut canonisé après sa mort ?",
-    "answers": [
-      "Jean de Luxembourg",
-      "Venceslas Ier",
-      "Ottokar II",
-      "Charles IV"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q257",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel roi a ordonné la construction de la Sainte-Chapelle à Paris ?",
-    "answers": [
-      "Louis XI",
-      "Philippe le Bel",
-      "Charles V",
-      "Louis IX"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q258",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quelle dynastie régnait sur l'Angleterre lors de la guerre des Deux-Roses ?",
-    "answers": [
-      "Lancastre",
-      "Tudor",
-      "Plantagenêt",
-      "York"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q259",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel pape a lancé la première croisade ?",
-    "answers": [
-      "Grégoire VII",
-      "Urbain II",
-      "Innocent III",
-      "Alexandre III"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q260",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quelle bataille de 732 a vu la victoire de Charles Martel ?",
-    "answers": [
-      "Bataille d'Azincourt",
-      "Bataille de Hastings",
-      "Bataille de Poitiers",
-      "Bataille de Crécy"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q261",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel pape a lancé la première croisade ?",
-    "answers": [
-      "Urbain II",
-      "Grégoire VII",
-      "Innocent III",
-      "Alexandre III"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q262",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quelle bataille de 732 a vu la victoire de Charles Martel ?",
-    "answers": [
-      "Bataille d'Azincourt",
-      "Bataille de Hastings",
-      "Bataille de Poitiers",
-      "Bataille de Crécy"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q263",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel architecte a conçu le dôme de la cathédrale de Florence ?",
-    "answers": [
-      "Brunelleschi",
-      "Giotto",
-      "Ghiberti",
-      "Pisano"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q264",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel roi a ordonné la construction de la Sainte-Chapelle à Paris ?",
-    "answers": [
-      "Louis XI",
-      "Philippe le Bel",
-      "Louis IX",
-      "Charles V"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q265",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quelle bataille de 732 a vu la victoire de Charles Martel ?",
-    "answers": [
-      "Bataille de Crécy",
-      "Bataille de Hastings",
-      "Bataille de Poitiers",
-      "Bataille d'Azincourt"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q266",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel chroniqueur médiéval a écrit 'La Geste des Francs' ?",
-    "answers": [
-      "Orderic Vital",
-      "Joinville",
-      "Froissart",
-      "Guillaume de Tyr"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q267",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Qui a écrit 'Le Livre des merveilles du monde' au XIIIe siècle ?",
-    "answers": [
-      "Odoric de Pordenone",
-      "Jean de Mandeville",
-      "Marco Polo",
-      "Guillaume de Rubrouck"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q268",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel roi a ordonné la construction de la Sainte-Chapelle à Paris ?",
-    "answers": [
-      "Charles V",
-      "Louis XI",
-      "Louis IX",
-      "Philippe le Bel"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q269",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel chroniqueur médiéval a écrit 'La Geste des Francs' ?",
-    "answers": [
-      "Orderic Vital",
-      "Froissart",
-      "Guillaume de Tyr",
-      "Joinville"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q270",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel roi a ordonné la construction de la Sainte-Chapelle à Paris ?",
-    "answers": [
-      "Louis XI",
-      "Philippe le Bel",
-      "Louis IX",
-      "Charles V"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q271",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel fut le dernier grand maître de l'ordre du Temple ?",
-    "answers": [
-      "Hugues de Payns",
-      "Jacques de Molay",
-      "Guillaume de Beaujeu",
-      "Geoffroy de Charney"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q272",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel conflit opposa l'Angleterre et la France de 1337 à 1453 ?",
-    "answers": [
-      "Guerre des Deux-Roses",
-      "Première croisade",
-      "Guerre de Succession d'Espagne",
-      "Guerre de Cent Ans"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q273",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel roi a ordonné la construction de la Sainte-Chapelle à Paris ?",
-    "answers": [
-      "Philippe le Bel",
-      "Louis IX",
-      "Charles V",
-      "Louis XI"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q274",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel pape a lancé la première croisade ?",
-    "answers": [
-      "Grégoire VII",
-      "Innocent III",
-      "Urbain II",
-      "Alexandre III"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q275",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel pape a lancé la première croisade ?",
-    "answers": [
-      "Grégoire VII",
-      "Innocent III",
-      "Urbain II",
-      "Alexandre III"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q276",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quelle dynastie régnait sur l'Angleterre lors de la guerre des Deux-Roses ?",
-    "answers": [
-      "Plantagenêt",
-      "Tudor",
-      "York",
-      "Lancastre"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q277",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quelle bataille de 732 a vu la victoire de Charles Martel ?",
-    "answers": [
-      "Bataille de Hastings",
-      "Bataille de Crécy",
-      "Bataille de Poitiers",
-      "Bataille d'Azincourt"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q278",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quelle bataille de 732 a vu la victoire de Charles Martel ?",
-    "answers": [
-      "Bataille d'Azincourt",
-      "Bataille de Crécy",
-      "Bataille de Poitiers",
-      "Bataille de Hastings"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q279",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel roi de Bohême fut canonisé après sa mort ?",
-    "answers": [
-      "Venceslas Ier",
-      "Jean de Luxembourg",
-      "Charles IV",
-      "Ottokar II"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q280",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quelle dynastie régnait sur l'Angleterre lors de la guerre des Deux-Roses ?",
-    "answers": [
-      "Plantagenêt",
-      "York",
-      "Tudor",
-      "Lancastre"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q281",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel pape a lancé la première croisade ?",
-    "answers": [
-      "Urbain II",
-      "Innocent III",
-      "Grégoire VII",
-      "Alexandre III"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q282",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel architecte a conçu le dôme de la cathédrale de Florence ?",
-    "answers": [
-      "Brunelleschi",
-      "Ghiberti",
-      "Giotto",
-      "Pisano"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q283",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel chroniqueur médiéval a écrit 'La Geste des Francs' ?",
-    "answers": [
-      "Joinville",
-      "Orderic Vital",
-      "Guillaume de Tyr",
-      "Froissart"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q284",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel pape a lancé la première croisade ?",
-    "answers": [
-      "Urbain II",
-      "Alexandre III",
-      "Innocent III",
-      "Grégoire VII"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q285",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel roi de Bohême fut canonisé après sa mort ?",
-    "answers": [
-      "Venceslas Ier",
-      "Charles IV",
-      "Jean de Luxembourg",
-      "Ottokar II"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q286",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel architecte a conçu le dôme de la cathédrale de Florence ?",
-    "answers": [
-      "Giotto",
-      "Pisano",
-      "Ghiberti",
-      "Brunelleschi"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q287",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel conflit opposa l'Angleterre et la France de 1337 à 1453 ?",
-    "answers": [
-      "Guerre de Cent Ans",
-      "Première croisade",
-      "Guerre de Succession d'Espagne",
-      "Guerre des Deux-Roses"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q288",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel fut le dernier grand maître de l'ordre du Temple ?",
-    "answers": [
-      "Jacques de Molay",
-      "Guillaume de Beaujeu",
-      "Geoffroy de Charney",
-      "Hugues de Payns"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q289",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel chroniqueur médiéval a écrit 'La Geste des Francs' ?",
-    "answers": [
-      "Froissart",
-      "Orderic Vital",
-      "Joinville",
-      "Guillaume de Tyr"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q290",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel architecte a conçu le dôme de la cathédrale de Florence ?",
-    "answers": [
-      "Giotto",
-      "Brunelleschi",
-      "Pisano",
-      "Ghiberti"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q291",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel fut le dernier grand maître de l'ordre du Temple ?",
-    "answers": [
-      "Guillaume de Beaujeu",
-      "Hugues de Payns",
-      "Jacques de Molay",
-      "Geoffroy de Charney"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q292",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel roi a ordonné la construction de la Sainte-Chapelle à Paris ?",
-    "answers": [
-      "Charles V",
-      "Louis IX",
-      "Philippe le Bel",
-      "Louis XI"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q293",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quelle dynastie régnait sur l'Angleterre lors de la guerre des Deux-Roses ?",
-    "answers": [
-      "Plantagenêt",
-      "York",
-      "Tudor",
-      "Lancastre"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q294",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel pape a lancé la première croisade ?",
-    "answers": [
-      "Alexandre III",
-      "Innocent III",
-      "Grégoire VII",
-      "Urbain II"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q295",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel chroniqueur médiéval a écrit 'La Geste des Francs' ?",
-    "answers": [
-      "Guillaume de Tyr",
-      "Orderic Vital",
-      "Joinville",
-      "Froissart"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q296",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quelle bataille de 732 a vu la victoire de Charles Martel ?",
-    "answers": [
-      "Bataille d'Azincourt",
-      "Bataille de Hastings",
-      "Bataille de Crécy",
-      "Bataille de Poitiers"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q297",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Qui a écrit 'Le Livre des merveilles du monde' au XIIIe siècle ?",
-    "answers": [
-      "Odoric de Pordenone",
-      "Marco Polo",
-      "Jean de Mandeville",
-      "Guillaume de Rubrouck"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q298",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel fut le dernier grand maître de l'ordre du Temple ?",
-    "answers": [
-      "Guillaume de Beaujeu",
-      "Jacques de Molay",
-      "Geoffroy de Charney",
-      "Hugues de Payns"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q299",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quel pape a lancé la première croisade ?",
-    "answers": [
-      "Grégoire VII",
-      "Urbain II",
-      "Innocent III",
-      "Alexandre III"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q300",
-    "category": "Moyen-Âge",
-    "difficulty": "Difficile",
-    "text": "Quelle bataille de 732 a vu la victoire de Charles Martel ?",
-    "answers": [
-      "Bataille d'Azincourt",
-      "Bataille de Poitiers",
-      "Bataille de Hastings",
-      "Bataille de Crécy"
-    ],
+    "text": "Comment appelait-on un récit historique rédigé par un moine ?",
+    "answers": ["Une légende", "Une chanson de geste", "Un capitulaire", "Une chronique monastique"],
     "correctIndex": 1
   }
 ]
