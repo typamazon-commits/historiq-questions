@@ -3,3900 +3,1688 @@
     "id": "q1",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel révolutionnaire français a été assassiné dans sa baignoire ?",
-    "answers": [
-      "Georges Danton",
-      "Jean-Paul Marat",
-      "Camille Desmoulins",
-      "Maximilien Robespierre"
-    ],
-    "correctIndex": 1
+    "text": "Quel concept politique permet de justifier théoriquement le renversement d’un pouvoir légitime devenu tyrannique selon la philosophie moderne ?",
+    "answers": ["Le droit de résistance", "La souveraineté monarchique", "Le légalisme", "Le positivisme juridique"],
+    "correctIndex": 0
   },
   {
     "id": "q2",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel dirigeant bolchevik a été assassiné au Mexique en 1940 ?",
-    "answers": [
-      "Trotski",
-      "Molotov",
-      "Staline",
-      "Boukhara"
-    ],
-    "correctIndex": 0
+    "text": "Quel texte influence directement les révolutions atlantiques par sa théorie du contrat politique ?",
+    "answers": ["L’Esprit des lois", "Le Contrat social", "La Politique", "Le Léviathan"],
+    "correctIndex": 1
   },
   {
     "id": "q3",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel mouvement révolutionnaire irlandais a lieu en 1916 ?",
-    "answers": [
-      "Rébellion des Fenians",
-      "Guerre d'indépendance",
-      "Insurrection de Pâques",
-      "Révolte des United Irishmen"
-    ],
+    "text": "Quel concept distingue une révolution politique d’un simple changement de régime ?",
+    "answers": ["La violence", "La rapidité", "La refondation de la légitimité", "La participation populaire"],
     "correctIndex": 2
   },
   {
     "id": "q4",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire a réprimé la Commune de Paris en 1871 ?",
-    "answers": [
-      "Mac Mahon",
-      "Faidherbe",
-      "Thiers",
-      "Boulanger"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement marque la première abolition durable d’un ordre esclavagiste par une révolution ?",
+    "answers": ["La Révolution américaine", "La Révolution française", "La Révolution russe", "La Révolution haïtienne"],
+    "correctIndex": 3
   },
+
   {
     "id": "q5",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Qui est l'auteur de 'Qu'est-ce que le Tiers État ?'",
-    "answers": [
-      "Emmanuel Joseph Sieyès",
-      "Honoré Gabriel Riqueti",
-      "Jean-Jacques Rousseau",
-      "Mirabeau"
-    ],
+    "text": "Quel principe philosophique fonde la souveraineté populaire moderne ?",
+    "answers": ["L’origine populaire du pouvoir", "La loi naturelle", "Le déterminisme historique", "Le droit divin"],
     "correctIndex": 0
   },
   {
     "id": "q6",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel ouvrage Karl Marx a-t-il publié en 1867 ?",
-    "answers": [
-      "Les Luttes de classes en France",
-      "Le Capital",
-      "Critique du programme de Gotha",
-      "Manifeste du Parti communiste"
-    ],
+    "text": "Quelle révolution introduit pour la première fois l’égalité juridique universelle dans un texte fondateur ?",
+    "answers": ["La révolution anglaise", "La Révolution française", "La Révolution américaine", "La Révolution mexicaine"],
     "correctIndex": 1
   },
   {
     "id": "q7",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quelle bataille de 1777 est considérée comme un tournant de la guerre d'indépendance américaine ?",
-    "answers": [
-      "Bataille de Yorktown",
-      "Bataille de Saratoga",
-      "Bataille de Bunker Hill",
-      "Bataille de Lexington"
-    ],
-    "correctIndex": 1
+    "text": "Quel concept marxiste explique l’inévitabilité des révolutions sociales ?",
+    "answers": ["Le matérialisme dialectique", "Le contrat social", "Le réformisme", "Le libéralisme"],
+    "correctIndex": 2
   },
   {
     "id": "q8",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel ouvrage Karl Marx a-t-il publié en 1867 ?",
-    "answers": [
-      "Manifeste du Parti communiste",
-      "Le Capital",
-      "Critique du programme de Gotha",
-      "Les Luttes de classes en France"
-    ],
-    "correctIndex": 1
+    "text": "Quel événement marque la première prise de pouvoir révolutionnaire d’un parti communiste ?",
+    "answers": ["La Commune de Paris", "La Longue Marche", "La Révolution chinoise", "La Révolution d’Octobre"],
+    "correctIndex": 3
   },
+
   {
     "id": "q9",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel ouvrage Karl Marx a-t-il publié en 1867 ?",
-    "answers": [
-      "Critique du programme de Gotha",
-      "Le Capital",
-      "Manifeste du Parti communiste",
-      "Les Luttes de classes en France"
-    ],
-    "correctIndex": 1
+    "text": "Quel idéal politique commun traverse les révolutions modernes depuis le XVIIIe siècle ?",
+    "answers": ["La contestation de la légitimité traditionnelle", "Le nationalisme", "La centralisation", "Le conservatisme"],
+    "correctIndex": 0
   },
   {
     "id": "q10",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel dirigeant bolchevik a été assassiné au Mexique en 1940 ?",
-    "answers": [
-      "Molotov",
-      "Trotski",
-      "Staline",
-      "Boukhara"
-    ],
+    "text": "Quel pays connaît la première révolution constitutionnelle non occidentale au début du XXe siècle ?",
+    "answers": ["La Chine", "La Perse", "Le Japon", "La Turquie"],
     "correctIndex": 1
   },
+
   {
     "id": "q11",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel mouvement révolutionnaire irlandais a lieu en 1916 ?",
-    "answers": [
-      "Guerre d'indépendance",
-      "Rébellion des Fenians",
-      "Insurrection de Pâques",
-      "Révolte des United Irishmen"
-    ],
+    "text": "Quel concept permet d’expliquer l’échec de nombreuses révolutions démocratiques ?",
+    "answers": ["La sur-répression", "La contre-révolution", "Le déficit de légitimité populaire", "Le réformisme"],
     "correctIndex": 2
   },
   {
     "id": "q12",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel révolutionnaire est surnommé 'l'Ami des pauvres' ?",
-    "answers": [
-      "Maximilien Robespierre",
-      "Louis Antoine de Saint-Just",
-      "Georges Danton",
-      "Jean-Paul Marat"
-    ],
+    "text": "Quel événement marque la rupture idéologique entre révolution politique et révolution sociale ?",
+    "answers": ["1789", "1830", "1848", "1871"],
     "correctIndex": 3
   },
+
   {
     "id": "q13",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel ouvrage Karl Marx a-t-il publié en 1867 ?",
-    "answers": [
-      "Les Luttes de classes en France",
-      "Le Capital",
-      "Manifeste du Parti communiste",
-      "Critique du programme de Gotha"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe fonde la légitimité des révolutions anticoloniales ?",
+    "answers": ["Le droit des peuples à disposer d’eux-mêmes", "La souveraineté impériale", "Le fédéralisme", "Le mercantilisme"],
+    "correctIndex": 0
   },
   {
     "id": "q14",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel révolutionnaire est surnommé 'l'Ami des pauvres' ?",
-    "answers": [
-      "Maximilien Robespierre",
-      "Louis Antoine de Saint-Just",
-      "Georges Danton",
-      "Jean-Paul Marat"
-    ],
-    "correctIndex": 3
+    "text": "Quelle révolution est directement influencée par le modèle jacobin français ?",
+    "answers": ["La révolution américaine", "La révolution haïtienne", "La révolution anglaise", "La révolution belge"],
+    "correctIndex": 1
   },
+
   {
     "id": "q15",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel traité met fin à la guerre civile anglaise en 1649 ?",
-    "answers": [
-      "Aucun, elle se termine par l'exécution de Charles Ier",
-      "Bill of Rights",
-      "Traité de Westphalie",
-      "Acte d'Habeas Corpus"
-    ],
-    "correctIndex": 0
+    "text": "Quel concept explique la radicalisation interne des révolutions ?",
+    "answers": ["La violence structurelle", "Le compromis politique", "La dynamique de surenchère", "Le pluralisme"],
+    "correctIndex": 2
   },
   {
     "id": "q16",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel ouvrage Karl Marx a-t-il publié en 1867 ?",
-    "answers": [
-      "Les Luttes de classes en France",
-      "Manifeste du Parti communiste",
-      "Le Capital",
-      "Critique du programme de Gotha"
-    ],
-    "correctIndex": 2
+    "text": "Quel événement marque la fin symbolique des révolutions européennes de 1848 ?",
+    "answers": ["La chute de Vienne", "Le retour des monarchies", "La guerre de Crimée", "L’échec des républiques"],
+    "correctIndex": 3
   },
+
   {
     "id": "q17",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quelle bataille de 1777 est considérée comme un tournant de la guerre d'indépendance américaine ?",
-    "answers": [
-      "Bataille de Bunker Hill",
-      "Bataille de Lexington",
-      "Bataille de Saratoga",
-      "Bataille de Yorktown"
-    ],
-    "correctIndex": 2
+    "text": "Quel concept politique justifie la désobéissance civile révolutionnaire ?",
+    "answers": ["La légitimité morale", "Le positivisme juridique", "La tradition", "Le légalisme"],
+    "correctIndex": 0
   },
   {
     "id": "q18",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel traité met fin à la guerre civile anglaise en 1649 ?",
-    "answers": [
-      "Acte d'Habeas Corpus",
-      "Bill of Rights",
-      "Aucun, elle se termine par l'exécution de Charles Ier",
-      "Traité de Westphalie"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays connaît une révolution dite « par le haut » au XXe siècle ?",
+    "answers": ["La Russie", "La Turquie", "La Chine", "Cuba"],
+    "correctIndex": 1
   },
+
   {
     "id": "q19",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel mouvement révolutionnaire irlandais a lieu en 1916 ?",
-    "answers": [
-      "Révolte des United Irishmen",
-      "Guerre d'indépendance",
-      "Insurrection de Pâques",
-      "Rébellion des Fenians"
-    ],
+    "text": "Quel principe distingue révolution et réforme dans l’analyse historique ?",
+    "answers": ["La temporalité", "La violence", "La rupture de continuité", "La légalité"],
     "correctIndex": 2
   },
   {
     "id": "q20",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Qui est l'auteur de 'Qu'est-ce que le Tiers État ?'",
-    "answers": [
-      "Mirabeau",
-      "Jean-Jacques Rousseau",
-      "Honoré Gabriel Riqueti",
-      "Emmanuel Joseph Sieyès"
-    ],
+    "text": "Quel événement met fin au cycle des grandes révolutions atlantiques ?",
+    "answers": ["La Révolution belge", "La Révolution de 1830", "La Révolution américaine", "Les révolutions de 1848"],
     "correctIndex": 3
   },
+
   {
     "id": "q21",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel dirigeant bolchevik a été assassiné au Mexique en 1940 ?",
-    "answers": [
-      "Molotov",
-      "Trotski",
-      "Boukhara",
-      "Staline"
-    ],
-    "correctIndex": 1
+    "text": "Quel concept est central dans l’analyse comparée des révolutions selon Theda Skocpol ?",
+    "answers": ["La structure de l’État", "La conscience de classe", "La culture politique", "La violence"],
+    "correctIndex": 0
   },
   {
     "id": "q22",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel révolutionnaire français a été assassiné dans sa baignoire ?",
-    "answers": [
-      "Camille Desmoulins",
-      "Maximilien Robespierre",
-      "Jean-Paul Marat",
-      "Georges Danton"
-    ],
-    "correctIndex": 2
+    "text": "Quelle révolution met fin à un empire millénaire en Asie orientale ?",
+    "answers": ["La révolution japonaise", "La révolution chinoise de 1911", "La révolution vietnamienne", "La révolution coréenne"],
+    "correctIndex": 1
   },
+
   {
     "id": "q23",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quelle bataille de 1777 est considérée comme un tournant de la guerre d'indépendance américaine ?",
-    "answers": [
-      "Bataille de Yorktown",
-      "Bataille de Saratoga",
-      "Bataille de Bunker Hill",
-      "Bataille de Lexington"
-    ],
-    "correctIndex": 1
+    "text": "Quel facteur explique la survie des régimes issus de révolutions autoritaires ?",
+    "answers": ["La légalité", "La prospérité", "Le contrôle institutionnel", "Le pluralisme"],
+    "correctIndex": 2
   },
   {
     "id": "q24",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Qui est l'auteur de 'Qu'est-ce que le Tiers État ?'",
-    "answers": [
-      "Jean-Jacques Rousseau",
-      "Honoré Gabriel Riqueti",
-      "Emmanuel Joseph Sieyès",
-      "Mirabeau"
-    ],
-    "correctIndex": 2
+    "text": "Quel événement marque la première révolution anticoloniale victorieuse du XXe siècle ?",
+    "answers": ["La révolution indienne", "La révolution algérienne", "La révolution vietnamienne", "La révolution irlandaise"],
+    "correctIndex": 3
   },
+
   {
     "id": "q25",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quelle bataille de 1777 est considérée comme un tournant de la guerre d'indépendance américaine ?",
-    "answers": [
-      "Bataille de Saratoga",
-      "Bataille de Yorktown",
-      "Bataille de Bunker Hill",
-      "Bataille de Lexington"
-    ],
+    "text": "Quel idéal traverse les révolutions non violentes contemporaines ?",
+    "answers": ["La légitimité populaire sans recours à la force", "La neutralité politique", "Le conservatisme social", "Le nationalisme"],
     "correctIndex": 0
   },
   {
     "id": "q26",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel dirigeant bolchevik a été assassiné au Mexique en 1940 ?",
-    "answers": [
-      "Staline",
-      "Boukhara",
-      "Trotski",
-      "Molotov"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays connaît une transition révolutionnaire pacifique en 1989 sans effondrement étatique ?",
+    "answers": ["La Roumanie", "La Pologne", "La Bulgarie", "L’Albanie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q27",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel révolutionnaire français a été assassiné dans sa baignoire ?",
-    "answers": [
-      "Camille Desmoulins",
-      "Maximilien Robespierre",
-      "Jean-Paul Marat",
-      "Georges Danton"
-    ],
+    "text": "Quel concept explique l’exportation idéologique des révolutions ?",
+    "answers": ["La contagion révolutionnaire", "La diplomatie", "L’impérialisme", "Le réformisme"],
     "correctIndex": 2
   },
   {
     "id": "q28",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel révolutionnaire français a été assassiné dans sa baignoire ?",
-    "answers": [
-      "Georges Danton",
-      "Maximilien Robespierre",
-      "Jean-Paul Marat",
-      "Camille Desmoulins"
-    ],
-    "correctIndex": 2
+    "text": "Quel événement marque le début du Printemps arabe ?",
+    "answers": ["La guerre d’Irak", "La chute de Moubarak", "La révolution libyenne", "L’immolation de Mohamed Bouazizi"],
+    "correctIndex": 3
   },
+
   {
     "id": "q29",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel ouvrage Karl Marx a-t-il publié en 1867 ?",
-    "answers": [
-      "Manifeste du Parti communiste",
-      "Le Capital",
-      "Les Luttes de classes en France",
-      "Critique du programme de Gotha"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe fonde la critique révolutionnaire de l’absolutisme ?",
+    "answers": ["La souveraineté populaire", "La monarchie constitutionnelle", "Le mercantilisme", "Le fédéralisme"],
+    "correctIndex": 0
   },
   {
     "id": "q30",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel événement de 1905 en Russie est surnommé 'Dimanche rouge' ?",
-    "answers": [
-      "La fusillade de Saint-Pétersbourg",
-      "Manifestations de février",
-      "Révolte du cuirassé Potemkine",
-      "Révolution d'Octobre"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays réalise une révolution socialiste par voie électorale en 1970 ?",
+    "answers": ["Cuba", "Le Chili", "Le Venezuela", "Le Nicaragua"],
+    "correctIndex": 1
   },
+
   {
     "id": "q31",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel mouvement révolutionnaire irlandais a lieu en 1916 ?",
-    "answers": [
-      "Guerre d'indépendance",
-      "Rébellion des Fenians",
-      "Insurrection de Pâques",
-      "Révolte des United Irishmen"
-    ],
+    "text": "Quel concept permet d’expliquer l’échec des révolutions sans soutien institutionnel ?",
+    "answers": ["La légalité", "La temporalité", "La fragilité organisationnelle", "Le réformisme"],
     "correctIndex": 2
   },
   {
     "id": "q32",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel événement de 1905 en Russie est surnommé 'Dimanche rouge' ?",
-    "answers": [
-      "La fusillade de Saint-Pétersbourg",
-      "Révolte du cuirassé Potemkine",
-      "Manifestations de février",
-      "Révolution d'Octobre"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement marque la fin du bloc soviétique en Europe ?",
+    "answers": ["La perestroïka", "La dissolution de l’URSS", "La réunification allemande", "La chute du mur de Berlin"],
+    "correctIndex": 3
   },
+
   {
     "id": "q33",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel dirigeant bolchevik a été assassiné au Mexique en 1940 ?",
-    "answers": [
-      "Staline",
-      "Trotski",
-      "Boukhara",
-      "Molotov"
-    ],
-    "correctIndex": 1
+    "text": "Quel idéal commun relie les grandes révolutions démocratiques ?",
+    "answers": ["La légitimité issue du peuple", "La centralisation du pouvoir", "La technocratie", "Le corporatisme"],
+    "correctIndex": 0
   },
   {
     "id": "q34",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel révolutionnaire est surnommé 'l'Ami des pauvres' ?",
-    "answers": [
-      "Maximilien Robespierre",
-      "Georges Danton",
-      "Jean-Paul Marat",
-      "Louis Antoine de Saint-Just"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays met fin à une dictature militaire par la Révolution des Œillets ?",
+    "answers": ["L’Espagne", "Le Portugal", "La Grèce", "L’Italie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q35",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Qui est l'auteur de 'Qu'est-ce que le Tiers État ?'",
-    "answers": [
-      "Honoré Gabriel Riqueti",
-      "Jean-Jacques Rousseau",
-      "Emmanuel Joseph Sieyès",
-      "Mirabeau"
-    ],
+    "text": "Quel concept est central dans la critique des révolutions autoritaires ?",
+    "answers": ["La stabilité", "La sécurité", "La confiscation du pouvoir", "Le pluralisme"],
     "correctIndex": 2
   },
   {
     "id": "q36",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel traité met fin à la guerre civile anglaise en 1649 ?",
-    "answers": [
-      "Traité de Westphalie",
-      "Acte d'Habeas Corpus",
-      "Bill of Rights",
-      "Aucun, elle se termine par l'exécution de Charles Ier"
-    ],
+    "text": "Quel événement marque la fin du régime franquiste ?",
+    "answers": ["La Constitution de 1978", "Le coup d’État de 1981", "La transition démocratique", "La mort de Franco"],
     "correctIndex": 3
   },
+
   {
     "id": "q37",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel révolutionnaire français a été assassiné dans sa baignoire ?",
-    "answers": [
-      "Jean-Paul Marat",
-      "Camille Desmoulins",
-      "Maximilien Robespierre",
-      "Georges Danton"
-    ],
+    "text": "Quel idéal politique anime les révolutions citoyennes contemporaines ?",
+    "answers": ["La participation directe", "Le corporatisme", "Le protectionnisme", "La technocratie"],
     "correctIndex": 0
   },
   {
     "id": "q38",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel dirigeant bolchevik a été assassiné au Mexique en 1940 ?",
-    "answers": [
-      "Staline",
-      "Boukhara",
-      "Molotov",
-      "Trotski"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays africain connaît une transition démocratique négociée en 1991 ?",
+    "answers": ["Le Sénégal", "Le Bénin", "Le Mali", "Le Niger"],
+    "correctIndex": 1
   },
+
   {
     "id": "q39",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel événement de 1905 en Russie est surnommé 'Dimanche rouge' ?",
-    "answers": [
-      "Manifestations de février",
-      "La fusillade de Saint-Pétersbourg",
-      "Révolution d'Octobre",
-      "Révolte du cuirassé Potemkine"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe politique fonde l’égalité démocratique moderne ?",
+    "answers": ["Le privilège", "La tradition", "L’égalité civique", "La hiérarchie"],
+    "correctIndex": 2
   },
   {
     "id": "q40",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel mouvement révolutionnaire irlandais a lieu en 1916 ?",
-    "answers": [
-      "Rébellion des Fenians",
-      "Guerre d'indépendance",
-      "Révolte des United Irishmen",
-      "Insurrection de Pâques"
-    ],
+    "text": "Quel événement marque la chute du régime autoritaire en Tunisie en 2011 ?",
+    "answers": ["La guerre civile", "La révolution libyenne", "La réforme constitutionnelle", "La fuite de Ben Ali"],
     "correctIndex": 3
   },
+
   {
     "id": "q41",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel mouvement révolutionnaire irlandais a lieu en 1916 ?",
-    "answers": [
-      "Insurrection de Pâques",
-      "Guerre d'indépendance",
-      "Révolte des United Irishmen",
-      "Rébellion des Fenians"
-    ],
+    "text": "Quel idéal politique traverse l’ensemble des révolutions modernes ?",
+    "answers": ["La remise en cause de l’autorité absolue", "Le conservatisme", "Le privilège", "Le nationalisme"],
     "correctIndex": 0
   },
   {
     "id": "q42",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel ouvrage Karl Marx a-t-il publié en 1867 ?",
-    "answers": [
-      "Critique du programme de Gotha",
-      "Manifeste du Parti communiste",
-      "Le Capital",
-      "Les Luttes de classes en France"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays renverse une dictature après la mort de Franco ?",
+    "answers": ["La Grèce", "L’Espagne", "Le Portugal", "La Turquie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q43",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel révolutionnaire français a été assassiné dans sa baignoire ?",
-    "answers": [
-      "Georges Danton",
-      "Maximilien Robespierre",
-      "Jean-Paul Marat",
-      "Camille Desmoulins"
-    ],
+    "text": "Quel principe politique est central dans les révolutions égalitaires modernes ?",
+    "answers": ["La hiérarchie sociale", "La tradition", "L’égalité des droits", "Le conservatisme"],
     "correctIndex": 2
   },
   {
     "id": "q44",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel révolutionnaire français a été assassiné dans sa baignoire ?",
-    "answers": [
-      "Maximilien Robespierre",
-      "Jean-Paul Marat",
-      "Camille Desmoulins",
-      "Georges Danton"
-    ],
-    "correctIndex": 1
+    "text": "Quel événement marque la fin du régime communiste en Roumanie ?",
+    "answers": ["La perestroïka", "La chute du mur", "La révolution de Velours", "L’exécution de Ceaușescu"],
+    "correctIndex": 3
   },
+
   {
     "id": "q45",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire a réprimé la Commune de Paris en 1871 ?",
-    "answers": [
-      "Faidherbe",
-      "Boulanger",
-      "Thiers",
-      "Mac Mahon"
-    ],
-    "correctIndex": 3
+    "text": "Quel idéal politique fonde les mouvements de libération nationale ?",
+    "answers": ["L’autodétermination", "Le corporatisme", "Le protectionnisme", "Le conservatisme"],
+    "correctIndex": 0
   },
   {
     "id": "q46",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel traité met fin à la guerre civile anglaise en 1649 ?",
-    "answers": [
-      "Acte d'Habeas Corpus",
-      "Aucun, elle se termine par l'exécution de Charles Ier",
-      "Traité de Westphalie",
-      "Bill of Rights"
-    ],
+    "text": "Quel pays connaît une révolution populaire appelée « Pouvoir populaire » en 1986 ?",
+    "answers": ["La Thaïlande", "Les Philippines", "L’Indonésie", "La Malaisie"],
     "correctIndex": 1
   },
+
   {
     "id": "q47",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Qui est l'auteur de 'Qu'est-ce que le Tiers État ?'",
-    "answers": [
-      "Honoré Gabriel Riqueti",
-      "Emmanuel Joseph Sieyès",
-      "Mirabeau",
-      "Jean-Jacques Rousseau"
-    ],
-    "correctIndex": 1
+    "text": "Quel concept explique la longévité des régimes issus de révolutions autoritaires ?",
+    "answers": ["La légalité", "La prospérité", "L’institutionnalisation du pouvoir", "Le pluralisme"],
+    "correctIndex": 2
   },
   {
     "id": "q48",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel dirigeant bolchevik a été assassiné au Mexique en 1940 ?",
-    "answers": [
-      "Boukhara",
-      "Trotski",
-      "Molotov",
-      "Staline"
-    ],
-    "correctIndex": 1
+    "text": "Quel événement marque le début de la révolution algérienne ?",
+    "answers": ["La guerre d’Indochine", "Les accords d’Évian", "La manifestation de Sétif", "La Toussaint rouge de 1954"],
+    "correctIndex": 3
   },
+
   {
     "id": "q49",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel révolutionnaire français a été assassiné dans sa baignoire ?",
-    "answers": [
-      "Jean-Paul Marat",
-      "Maximilien Robespierre",
-      "Camille Desmoulins",
-      "Georges Danton"
-    ],
+    "text": "Quel idéal politique traverse toutes les grandes ruptures révolutionnaires ?",
+    "answers": ["La remise en cause de la légitimité traditionnelle du pouvoir", "Le retour à l’ordre ancien", "Le privilège social", "Le conservatisme"],
     "correctIndex": 0
   },
   {
     "id": "q50",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quelle bataille de 1777 est considérée comme un tournant de la guerre d'indépendance américaine ?",
-    "answers": [
-      "Bataille de Saratoga",
-      "Bataille de Bunker Hill",
-      "Bataille de Lexington",
-      "Bataille de Yorktown"
-    ],
-    "correctIndex": 0
+    "text": "Quel héritage fondamental laissent les révolutions politiques modernes ?",
+    "answers": ["La stabilité immédiate", "La disparition des conflits", "La domination impériale", "La refondation durable des systèmes de légitimité politique"],
+    "correctIndex": 3
   },
   {
     "id": "q51",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel ouvrage Karl Marx a-t-il publié en 1867 ?",
-    "answers": [
-      "Manifeste du Parti communiste",
-      "Les Luttes de classes en France",
-      "Le Capital",
-      "Critique du programme de Gotha"
-    ],
-    "correctIndex": 2
+    "text": "Quel critère distingue fondamentalement une révolution d’un coup d’État dans l’analyse politologique ?",
+    "answers": ["La transformation durable de la légitimité politique", "La rapidité de l’action", "La violence armée", "Le nombre d’acteurs impliqués"],
+    "correctIndex": 0
   },
   {
     "id": "q52",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel événement de 1905 en Russie est surnommé 'Dimanche rouge' ?",
-    "answers": [
-      "Révolte du cuirassé Potemkine",
-      "Révolution d'Octobre",
-      "La fusillade de Saint-Pétersbourg",
-      "Manifestations de février"
-    ],
-    "correctIndex": 2
+    "text": "Quelle révolution introduit pour la première fois un État explicitement fondé sur une idéologie marxiste ?",
+    "answers": ["La Commune de Paris", "La Révolution russe", "La Révolution chinoise", "La Révolution cubaine"],
+    "correctIndex": 1
   },
   {
     "id": "q53",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel dirigeant bolchevik a été assassiné au Mexique en 1940 ?",
-    "answers": [
-      "Trotski",
-      "Molotov",
-      "Boukhara",
-      "Staline"
-    ],
-    "correctIndex": 0
+    "text": "Quel concept permet d’expliquer l’échec des révolutions sans appareil administratif stable ?",
+    "answers": ["La centralisation excessive", "La radicalité idéologique", "Le vide institutionnel", "La légalité constitutionnelle"],
+    "correctIndex": 2
   },
   {
     "id": "q54",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel dirigeant bolchevik a été assassiné au Mexique en 1940 ?",
-    "answers": [
-      "Trotski",
-      "Boukhara",
-      "Molotov",
-      "Staline"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement marque la première chute d’un régime communiste européen en 1989 ?",
+    "answers": ["La perestroïka", "La chute du mur de Berlin", "La révolution roumaine", "Les élections polonaises libres"],
+    "correctIndex": 3
   },
+
   {
     "id": "q55",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel mouvement révolutionnaire irlandais a lieu en 1916 ?",
-    "answers": [
-      "Révolte des United Irishmen",
-      "Insurrection de Pâques",
-      "Rébellion des Fenians",
-      "Guerre d'indépendance"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe philosophique fonde la légitimité des révolutions démocratiques modernes ?",
+    "answers": ["Le consentement des gouvernés", "La tradition", "La hiérarchie sociale", "Le droit divin"],
+    "correctIndex": 0
   },
   {
     "id": "q56",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel mouvement révolutionnaire irlandais a lieu en 1916 ?",
-    "answers": [
-      "Guerre d'indépendance",
-      "Insurrection de Pâques",
-      "Rébellion des Fenians",
-      "Révolte des United Irishmen"
-    ],
+    "text": "Quelle révolution met fin à un système impérial multiséculaire en Russie ?",
+    "answers": ["La révolution de 1905", "La révolution de Février 1917", "La révolution de 1921", "La révolution de 1936"],
     "correctIndex": 1
   },
   {
     "id": "q57",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel traité met fin à la guerre civile anglaise en 1649 ?",
-    "answers": [
-      "Aucun, elle se termine par l'exécution de Charles Ier",
-      "Traité de Westphalie",
-      "Bill of Rights",
-      "Acte d'Habeas Corpus"
-    ],
-    "correctIndex": 0
+    "text": "Quel concept explique la radicalisation progressive des mouvements révolutionnaires ?",
+    "answers": ["La stabilité politique", "La modération idéologique", "La dynamique de polarisation", "La réforme graduelle"],
+    "correctIndex": 2
   },
   {
     "id": "q58",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel traité met fin à la guerre civile anglaise en 1649 ?",
-    "answers": [
-      "Aucun, elle se termine par l'exécution de Charles Ier",
-      "Bill of Rights",
-      "Acte d'Habeas Corpus",
-      "Traité de Westphalie"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement marque l’échec définitif de la Commune de Paris ?",
+    "answers": ["Le siège de Paris", "La proclamation de la République", "L’exil des communards", "La Semaine sanglante"],
+    "correctIndex": 3
   },
+
   {
     "id": "q59",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Qui est l'auteur de 'Qu'est-ce que le Tiers État ?'",
-    "answers": [
-      "Mirabeau",
-      "Honoré Gabriel Riqueti",
-      "Emmanuel Joseph Sieyès",
-      "Jean-Jacques Rousseau"
-    ],
-    "correctIndex": 2
+    "text": "Quel idéal politique traverse les révolutions constitutionnelles modernes ?",
+    "answers": ["La limitation du pouvoir exécutif", "La centralisation absolue", "Le corporatisme", "L’autoritarisme"],
+    "correctIndex": 0
   },
   {
     "id": "q60",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel événement de 1905 en Russie est surnommé 'Dimanche rouge' ?",
-    "answers": [
-      "Manifestations de février",
-      "La fusillade de Saint-Pétersbourg",
-      "Révolte du cuirassé Potemkine",
-      "Révolution d'Octobre"
-    ],
+    "text": "Quel pays adopte une constitution révolutionnaire inspirée des Lumières en 1791 ?",
+    "answers": ["Les États-Unis", "La France", "La Suisse", "La Belgique"],
     "correctIndex": 1
   },
+
   {
     "id": "q61",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel traité met fin à la guerre civile anglaise en 1649 ?",
-    "answers": [
-      "Traité de Westphalie",
-      "Bill of Rights",
-      "Aucun, elle se termine par l'exécution de Charles Ier",
-      "Acte d'Habeas Corpus"
-    ],
+    "text": "Quel facteur structurel favorise l’émergence des révolutions sociales selon l’historiographie moderne ?",
+    "answers": ["La stabilité économique", "La croissance démographique", "La crise systémique de l’État", "La diplomatie internationale"],
     "correctIndex": 2
   },
   {
     "id": "q62",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire a réprimé la Commune de Paris en 1871 ?",
-    "answers": [
-      "Faidherbe",
-      "Thiers",
-      "Boulanger",
-      "Mac Mahon"
-    ],
+    "text": "Quel événement marque la chute définitive de la monarchie française ?",
+    "answers": ["La fuite à Varennes", "La prise de la Bastille", "L’exécution de Louis XVI", "La proclamation de la République"],
     "correctIndex": 3
   },
+
   {
     "id": "q63",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire a réprimé la Commune de Paris en 1871 ?",
-    "answers": [
-      "Thiers",
-      "Mac Mahon",
-      "Boulanger",
-      "Faidherbe"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe politique est central dans les révolutions anticoloniales du XXe siècle ?",
+    "answers": ["L’autodétermination des peuples", "La monarchie constitutionnelle", "Le fédéralisme impérial", "Le mercantilisme"],
+    "correctIndex": 0
   },
   {
     "id": "q64",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel dirigeant bolchevik a été assassiné au Mexique en 1940 ?",
-    "answers": [
-      "Molotov",
-      "Trotski",
-      "Boukhara",
-      "Staline"
-    ],
+    "text": "Quelle révolution renverse un régime théocratique en Iran en 1979 ?",
+    "answers": ["La révolution blanche", "La révolution islamique", "La révolution constitutionnelle", "La révolution verte"],
     "correctIndex": 1
   },
+
   {
     "id": "q65",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire a réprimé la Commune de Paris en 1871 ?",
-    "answers": [
-      "Thiers",
-      "Boulanger",
-      "Mac Mahon",
-      "Faidherbe"
-    ],
+    "text": "Quel concept permet d’expliquer la confiscation du pouvoir après une révolution ?",
+    "answers": ["La pluralité politique", "La démocratie directe", "L’oligarchisation révolutionnaire", "Le suffrage universel"],
     "correctIndex": 2
   },
   {
     "id": "q66",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel ouvrage Karl Marx a-t-il publié en 1867 ?",
-    "answers": [
-      "Les Luttes de classes en France",
-      "Manifeste du Parti communiste",
-      "Le Capital",
-      "Critique du programme de Gotha"
-    ],
-    "correctIndex": 2
+    "text": "Quel événement marque le début de la révolution cubaine ?",
+    "answers": ["La prise de La Havane", "La réforme agraire", "La chute de Batista", "L’attaque de la caserne Moncada"],
+    "correctIndex": 3
   },
+
   {
     "id": "q67",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel ouvrage Karl Marx a-t-il publié en 1867 ?",
-    "answers": [
-      "Critique du programme de Gotha",
-      "Manifeste du Parti communiste",
-      "Le Capital",
-      "Les Luttes de classes en France"
-    ],
-    "correctIndex": 2
+    "text": "Quel idéal fonde la critique révolutionnaire des privilèges sociaux ?",
+    "answers": ["L’égalité civique", "Le nationalisme", "Le traditionalisme", "Le conservatisme"],
+    "correctIndex": 0
   },
   {
     "id": "q68",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire a réprimé la Commune de Paris en 1871 ?",
-    "answers": [
-      "Faidherbe",
-      "Boulanger",
-      "Thiers",
-      "Mac Mahon"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays connaît une révolution dite « de Velours » en 1989 ?",
+    "answers": ["La Pologne", "La Tchécoslovaquie", "La Hongrie", "La Bulgarie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q69",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Qui est l'auteur de 'Qu'est-ce que le Tiers État ?'",
-    "answers": [
-      "Jean-Jacques Rousseau",
-      "Mirabeau",
-      "Emmanuel Joseph Sieyès",
-      "Honoré Gabriel Riqueti"
-    ],
+    "text": "Quel concept permet d’analyser l’exportation des modèles révolutionnaires ?",
+    "answers": ["La diplomatie classique", "L’impérialisme", "La diffusion idéologique", "Le conservatisme"],
     "correctIndex": 2
   },
   {
     "id": "q70",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quelle bataille de 1777 est considérée comme un tournant de la guerre d'indépendance américaine ?",
-    "answers": [
-      "Bataille de Bunker Hill",
-      "Bataille de Saratoga",
-      "Bataille de Yorktown",
-      "Bataille de Lexington"
-    ],
-    "correctIndex": 1
+    "text": "Quel événement déclenche la révolution russe de 1905 ?",
+    "answers": ["La guerre civile", "La famine", "La révolution d’Octobre", "Le Dimanche rouge"],
+    "correctIndex": 3
   },
+
   {
     "id": "q71",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire a réprimé la Commune de Paris en 1871 ?",
-    "answers": [
-      "Thiers",
-      "Boulanger",
-      "Mac Mahon",
-      "Faidherbe"
-    ],
-    "correctIndex": 2
+    "text": "Quel idéal politique traverse les révolutions citoyennes contemporaines ?",
+    "answers": ["La participation populaire directe", "La technocratie", "Le corporatisme", "Le centralisme"],
+    "correctIndex": 0
   },
   {
     "id": "q72",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel dirigeant bolchevik a été assassiné au Mexique en 1940 ?",
-    "answers": [
-      "Boukhara",
-      "Trotski",
-      "Staline",
-      "Molotov"
-    ],
+    "text": "Quel pays renverse une dictature militaire par voie révolutionnaire en 1974 ?",
+    "answers": ["L’Espagne", "Le Portugal", "La Grèce", "L’Italie"],
     "correctIndex": 1
   },
+
   {
     "id": "q73",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quelle bataille de 1777 est considérée comme un tournant de la guerre d'indépendance américaine ?",
-    "answers": [
-      "Bataille de Bunker Hill",
-      "Bataille de Yorktown",
-      "Bataille de Saratoga",
-      "Bataille de Lexington"
-    ],
+    "text": "Quel facteur explique la dérive autoritaire de certaines révolutions ?",
+    "answers": ["La liberté de la presse", "La séparation des pouvoirs", "La concentration du pouvoir", "Le pluralisme"],
     "correctIndex": 2
   },
   {
     "id": "q74",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quelle bataille de 1777 est considérée comme un tournant de la guerre d'indépendance américaine ?",
-    "answers": [
-      "Bataille de Yorktown",
-      "Bataille de Bunker Hill",
-      "Bataille de Saratoga",
-      "Bataille de Lexington"
-    ],
-    "correctIndex": 2
+    "text": "Quel événement marque la chute du régime de Moubarak en Égypte ?",
+    "answers": ["La guerre civile", "Le coup d’État militaire", "La réforme constitutionnelle", "Les manifestations de la place Tahrir"],
+    "correctIndex": 3
   },
+
   {
     "id": "q75",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel événement de 1905 en Russie est surnommé 'Dimanche rouge' ?",
-    "answers": [
-      "La fusillade de Saint-Pétersbourg",
-      "Révolte du cuirassé Potemkine",
-      "Manifestations de février",
-      "Révolution d'Octobre"
-    ],
+    "text": "Quel principe politique est commun aux grandes révolutions démocratiques ?",
+    "answers": ["La souveraineté populaire", "La hiérarchie sociale", "Le corporatisme", "Le conservatisme"],
     "correctIndex": 0
   },
   {
     "id": "q76",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Qui est l'auteur de 'Qu'est-ce que le Tiers État ?'",
-    "answers": [
-      "Emmanuel Joseph Sieyès",
-      "Honoré Gabriel Riqueti",
-      "Mirabeau",
-      "Jean-Jacques Rousseau"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays connaît une révolution constitutionnelle majeure en 1906 ?",
+    "answers": ["Le Japon", "La Perse", "La Turquie", "L’Égypte"],
+    "correctIndex": 1
   },
+
   {
     "id": "q77",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel ouvrage Karl Marx a-t-il publié en 1867 ?",
-    "answers": [
-      "Le Capital",
-      "Manifeste du Parti communiste",
-      "Les Luttes de classes en France",
-      "Critique du programme de Gotha"
-    ],
-    "correctIndex": 0
+    "text": "Quel concept explique la perte de soutien populaire après une révolution ?",
+    "answers": ["La légitimité démocratique", "La réforme sociale", "La désillusion politique", "Le pluralisme"],
+    "correctIndex": 2
   },
   {
     "id": "q78",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel traité met fin à la guerre civile anglaise en 1649 ?",
-    "answers": [
-      "Aucun, elle se termine par l'exécution de Charles Ier",
-      "Acte d'Habeas Corpus",
-      "Traité de Westphalie",
-      "Bill of Rights"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement marque la fin du régime tsariste en Russie ?",
+    "answers": ["La révolution de 1905", "La révolution d’Octobre", "La guerre civile", "L’abdication de Nicolas II"],
+    "correctIndex": 3
   },
+
   {
     "id": "q79",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire a réprimé la Commune de Paris en 1871 ?",
-    "answers": [
-      "Faidherbe",
-      "Thiers",
-      "Mac Mahon",
-      "Boulanger"
-    ],
-    "correctIndex": 2
+    "text": "Quel idéal politique anime les mouvements révolutionnaires non violents ?",
+    "answers": ["La légitimité morale", "La coercition", "La militarisation", "La centralisation"],
+    "correctIndex": 0
   },
   {
     "id": "q80",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Qui est l'auteur de 'Qu'est-ce que le Tiers État ?'",
-    "answers": [
-      "Jean-Jacques Rousseau",
-      "Emmanuel Joseph Sieyès",
-      "Mirabeau",
-      "Honoré Gabriel Riqueti"
-    ],
+    "text": "Quel pays connaît une révolution démocratique pacifique en 2014 ?",
+    "answers": ["La Géorgie", "L’Ukraine", "La Biélorussie", "La Moldavie"],
     "correctIndex": 1
   },
+
   {
     "id": "q81",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel révolutionnaire français a été assassiné dans sa baignoire ?",
-    "answers": [
-      "Camille Desmoulins",
-      "Georges Danton",
-      "Maximilien Robespierre",
-      "Jean-Paul Marat"
-    ],
-    "correctIndex": 3
+    "text": "Quel facteur explique l’échec des révolutions sans soutien international ?",
+    "answers": ["La popularité", "La rapidité", "L’isolement géopolitique", "La légalité"],
+    "correctIndex": 2
   },
   {
     "id": "q82",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quelle bataille de 1777 est considérée comme un tournant de la guerre d'indépendance américaine ?",
-    "answers": [
-      "Bataille de Saratoga",
-      "Bataille de Lexington",
-      "Bataille de Yorktown",
-      "Bataille de Bunker Hill"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement marque la fin de l’URSS ?",
+    "answers": ["La perestroïka", "La chute du mur", "La réunification allemande", "La dissolution officielle de 1991"],
+    "correctIndex": 3
   },
+
   {
     "id": "q83",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Qui est l'auteur de 'Qu'est-ce que le Tiers État ?'",
-    "answers": [
-      "Honoré Gabriel Riqueti",
-      "Emmanuel Joseph Sieyès",
-      "Jean-Jacques Rousseau",
-      "Mirabeau"
-    ],
-    "correctIndex": 1
+    "text": "Quel idéal politique remet en cause l’autorité absolue dans les révolutions modernes ?",
+    "answers": ["La souveraineté du peuple", "Le conservatisme", "Le privilège", "Le corporatisme"],
+    "correctIndex": 0
   },
   {
     "id": "q84",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quelle bataille de 1777 est considérée comme un tournant de la guerre d'indépendance américaine ?",
-    "answers": [
-      "Bataille de Yorktown",
-      "Bataille de Lexington",
-      "Bataille de Bunker Hill",
-      "Bataille de Saratoga"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays connaît une révolution populaire appelée « Maïdan » ?",
+    "answers": ["La Pologne", "L’Ukraine", "La Russie", "La Serbie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q85",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire a réprimé la Commune de Paris en 1871 ?",
-    "answers": [
-      "Faidherbe",
-      "Boulanger",
-      "Mac Mahon",
-      "Thiers"
-    ],
+    "text": "Quel concept décrit la transformation d’un régime révolutionnaire en dictature ?",
+    "answers": ["La démocratisation", "La libéralisation", "La bureaucratisation autoritaire", "La décentralisation"],
     "correctIndex": 2
   },
   {
     "id": "q86",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel révolutionnaire est surnommé 'l'Ami des pauvres' ?",
-    "answers": [
-      "Louis Antoine de Saint-Just",
-      "Maximilien Robespierre",
-      "Jean-Paul Marat",
-      "Georges Danton"
-    ],
-    "correctIndex": 2
+    "text": "Quel événement marque la chute de Batista à Cuba ?",
+    "answers": ["La bataille de Santa Clara", "La réforme agraire", "L’attaque de Moncada", "L’entrée de Castro à La Havane"],
+    "correctIndex": 3
   },
+
   {
     "id": "q87",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Qui est l'auteur de 'Qu'est-ce que le Tiers État ?'",
-    "answers": [
-      "Jean-Jacques Rousseau",
-      "Emmanuel Joseph Sieyès",
-      "Mirabeau",
-      "Honoré Gabriel Riqueti"
-    ],
-    "correctIndex": 1
+    "text": "Quel idéal est central dans la critique révolutionnaire des oligarchies ?",
+    "answers": ["L’égalité politique", "La hiérarchie", "Le corporatisme", "Le conservatisme"],
+    "correctIndex": 0
   },
   {
     "id": "q88",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quelle bataille de 1777 est considérée comme un tournant de la guerre d'indépendance américaine ?",
-    "answers": [
-      "Bataille de Saratoga",
-      "Bataille de Bunker Hill",
-      "Bataille de Lexington",
-      "Bataille de Yorktown"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays connaît une transition révolutionnaire pacifique en Afrique de l’Ouest en 1991 ?",
+    "answers": ["Le Ghana", "Le Bénin", "Le Togo", "Le Niger"],
+    "correctIndex": 1
   },
+
   {
     "id": "q89",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Qui est l'auteur de 'Qu'est-ce que le Tiers État ?'",
-    "answers": [
-      "Emmanuel Joseph Sieyès",
-      "Honoré Gabriel Riqueti",
-      "Mirabeau",
-      "Jean-Jacques Rousseau"
-    ],
-    "correctIndex": 0
+    "text": "Quel facteur structurel favorise la répétition des cycles révolutionnaires ?",
+    "answers": ["La stabilité sociale", "La croissance économique", "La persistance des inégalités", "La diplomatie"],
+    "correctIndex": 2
   },
   {
     "id": "q90",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quelle bataille de 1777 est considérée comme un tournant de la guerre d'indépendance américaine ?",
-    "answers": [
-      "Bataille de Lexington",
-      "Bataille de Yorktown",
-      "Bataille de Saratoga",
-      "Bataille de Bunker Hill"
-    ],
-    "correctIndex": 2
+    "text": "Quel événement marque le début de la Révolution française ?",
+    "answers": ["La Déclaration des droits", "La fuite à Varennes", "L’abolition des privilèges", "La prise de la Bastille"],
+    "correctIndex": 3
   },
+
   {
     "id": "q91",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel mouvement révolutionnaire irlandais a lieu en 1916 ?",
-    "answers": [
-      "Révolte des United Irishmen",
-      "Guerre d'indépendance",
-      "Rébellion des Fenians",
-      "Insurrection de Pâques"
-    ],
-    "correctIndex": 3
+    "text": "Quel idéal fonde la légitimité des gouvernements issus des révolutions modernes ?",
+    "answers": ["Le mandat populaire", "Le droit divin", "La tradition", "La hiérarchie"],
+    "correctIndex": 0
   },
   {
     "id": "q92",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel révolutionnaire est surnommé 'l'Ami des pauvres' ?",
-    "answers": [
-      "Georges Danton",
-      "Jean-Paul Marat",
-      "Louis Antoine de Saint-Just",
-      "Maximilien Robespierre"
-    ],
+    "text": "Quel pays renverse une dictature communiste sans violence majeure en 1989 ?",
+    "answers": ["La Roumanie", "La Tchécoslovaquie", "La Bulgarie", "La Yougoslavie"],
     "correctIndex": 1
   },
+
   {
     "id": "q93",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire a réprimé la Commune de Paris en 1871 ?",
-    "answers": [
-      "Boulanger",
-      "Thiers",
-      "Mac Mahon",
-      "Faidherbe"
-    ],
+    "text": "Quel concept explique la perte de l’élan révolutionnaire après la prise du pouvoir ?",
+    "answers": ["La radicalisation", "La réforme", "La normalisation politique", "La centralisation"],
     "correctIndex": 2
   },
   {
     "id": "q94",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel événement de 1905 en Russie est surnommé 'Dimanche rouge' ?",
-    "answers": [
-      "Révolution d'Octobre",
-      "La fusillade de Saint-Pétersbourg",
-      "Manifestations de février",
-      "Révolte du cuirassé Potemkine"
-    ],
-    "correctIndex": 1
+    "text": "Quel événement met fin à la révolution iranienne ?",
+    "answers": ["La chute du Shah", "La prise d’otages", "La guerre Iran-Irak", "La proclamation de la République islamique"],
+    "correctIndex": 3
   },
+
   {
     "id": "q95",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel révolutionnaire français a été assassiné dans sa baignoire ?",
-    "answers": [
-      "Camille Desmoulins",
-      "Georges Danton",
-      "Jean-Paul Marat",
-      "Maximilien Robespierre"
-    ],
-    "correctIndex": 2
+    "text": "Quel idéal est commun aux révolutions politiques modernes réussies ?",
+    "answers": ["La refondation de la légitimité", "La stabilité immédiate", "La hiérarchie sociale", "Le conservatisme"],
+    "correctIndex": 0
   },
   {
     "id": "q96",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel événement de 1905 en Russie est surnommé 'Dimanche rouge' ?",
-    "answers": [
-      "Révolte du cuirassé Potemkine",
-      "Manifestations de février",
-      "Révolution d'Octobre",
-      "La fusillade de Saint-Pétersbourg"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays connaît une révolution dite « Orange » en 2004 ?",
+    "answers": ["La Géorgie", "L’Ukraine", "La Moldavie", "La Serbie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q97",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel traité met fin à la guerre civile anglaise en 1649 ?",
-    "answers": [
-      "Aucun, elle se termine par l'exécution de Charles Ier",
-      "Traité de Westphalie",
-      "Acte d'Habeas Corpus",
-      "Bill of Rights"
-    ],
-    "correctIndex": 0
+    "text": "Quel concept permet d’expliquer la dérive autoritaire post-révolutionnaire ?",
+    "answers": ["La séparation des pouvoirs", "La démocratie directe", "La concentration institutionnelle", "Le pluralisme"],
+    "correctIndex": 2
   },
   {
     "id": "q98",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel événement de 1905 en Russie est surnommé 'Dimanche rouge' ?",
-    "answers": [
-      "Révolte du cuirassé Potemkine",
-      "Révolution d'Octobre",
-      "Manifestations de février",
-      "La fusillade de Saint-Pétersbourg"
-    ],
+    "text": "Quel événement marque la chute du régime de Ceaușescu ?",
+    "answers": ["Les élections libres", "La perestroïka", "La révolution de Velours", "L’insurrection et l’exécution de 1989"],
     "correctIndex": 3
   },
+
   {
     "id": "q99",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel mouvement révolutionnaire irlandais a lieu en 1916 ?",
-    "answers": [
-      "Révolte des United Irishmen",
-      "Guerre d'indépendance",
-      "Rébellion des Fenians",
-      "Insurrection de Pâques"
-    ],
-    "correctIndex": 3
+    "text": "Quel idéal politique remet en cause toute autorité non consentie ?",
+    "answers": ["La souveraineté populaire", "Le conservatisme", "La tradition", "Le corporatisme"],
+    "correctIndex": 0
   },
   {
     "id": "q100",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel traité met fin à la guerre civile anglaise en 1649 ?",
-    "answers": [
-      "Acte d'Habeas Corpus",
-      "Aucun, elle se termine par l'exécution de Charles Ier",
-      "Traité de Westphalie",
-      "Bill of Rights"
-    ],
-    "correctIndex": 1
+    "text": "Quel héritage majeur laissent les grandes révolutions politiques modernes ?",
+    "answers": ["La fin des conflits", "La stabilité immédiate", "La disparition des élites", "La redéfinition durable de la légitimité du pouvoir"],
+    "correctIndex": 3
   },
   {
     "id": "q101",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel révolutionnaire français a été assassiné dans sa baignoire ?",
-    "answers": [
-      "Maximilien Robespierre",
-      "Georges Danton",
-      "Camille Desmoulins",
-      "Jean-Paul Marat"
-    ],
-    "correctIndex": 3
+    "text": "Quel critère permet de qualifier une révolution comme systémique plutôt que simplement politique ?",
+    "answers": ["La transformation simultanée des institutions, de l’économie et des normes sociales", "La violence des affrontements", "La durée du conflit", "La participation militaire"],
+    "correctIndex": 0
   },
   {
     "id": "q102",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel événement de 1905 en Russie est surnommé 'Dimanche rouge' ?",
-    "answers": [
-      "La fusillade de Saint-Pétersbourg",
-      "Manifestations de février",
-      "Révolte du cuirassé Potemkine",
-      "Révolution d'Octobre"
-    ],
-    "correctIndex": 0
+    "text": "Quelle révolution met explicitement en place un État fondé sur le principe du parti unique idéologique ?",
+    "answers": ["La Révolution française", "La Révolution russe", "La Révolution américaine", "La Révolution mexicaine"],
+    "correctIndex": 1
   },
   {
     "id": "q103",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire a réprimé la Commune de Paris en 1871 ?",
-    "answers": [
-      "Thiers",
-      "Mac Mahon",
-      "Boulanger",
-      "Faidherbe"
-    ],
-    "correctIndex": 1
+    "text": "Quel concept théorique décrit l’enchaînement inévitable de phases radicales dans certaines révolutions ?",
+    "answers": ["La réforme graduelle", "La stabilisation institutionnelle", "La spirale révolutionnaire", "La modération politique"],
+    "correctIndex": 2
   },
   {
     "id": "q104",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel dirigeant bolchevik a été assassiné au Mexique en 1940 ?",
-    "answers": [
-      "Molotov",
-      "Staline",
-      "Boukhara",
-      "Trotski"
-    ],
+    "text": "Quel événement marque la fin symbolique de la Révolution française aux yeux de nombreux historiens ?",
+    "answers": ["La Terreur", "Le Directoire", "Le Consulat", "Le coup d’État du 18 Brumaire"],
     "correctIndex": 3
   },
+
   {
     "id": "q105",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire a réprimé la Commune de Paris en 1871 ?",
-    "answers": [
-      "Faidherbe",
-      "Thiers",
-      "Boulanger",
-      "Mac Mahon"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe philosophique justifie la désobéissance civile dans un contexte révolutionnaire ?",
+    "answers": ["La souveraineté populaire", "La légalité monarchique", "Le conservatisme social", "Le déterminisme historique"],
+    "correctIndex": 0
   },
   {
     "id": "q106",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel traité met fin à la guerre civile anglaise en 1649 ?",
-    "answers": [
-      "Acte d'Habeas Corpus",
-      "Traité de Westphalie",
-      "Bill of Rights",
-      "Aucun, elle se termine par l'exécution de Charles Ier"
-    ],
-    "correctIndex": 3
+    "text": "Quelle révolution est directement influencée par la pensée marxiste-léniniste dès son origine ?",
+    "answers": ["La Révolution iranienne", "La Révolution chinoise", "La Révolution américaine", "La Révolution espagnole"],
+    "correctIndex": 1
   },
   {
     "id": "q107",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel révolutionnaire est surnommé 'l'Ami des pauvres' ?",
-    "answers": [
-      "Jean-Paul Marat",
-      "Maximilien Robespierre",
-      "Georges Danton",
-      "Louis Antoine de Saint-Just"
-    ],
-    "correctIndex": 0
+    "text": "Quel concept permet d’expliquer l’échec des révolutions privées de soutien populaire durable ?",
+    "answers": ["La centralisation", "La radicalité", "La crise de légitimité", "La bureaucratisation"],
+    "correctIndex": 2
   },
   {
     "id": "q108",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel révolutionnaire est surnommé 'l'Ami des pauvres' ?",
-    "answers": [
-      "Jean-Paul Marat",
-      "Georges Danton",
-      "Louis Antoine de Saint-Just",
-      "Maximilien Robespierre"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement déclenche l’effondrement du régime tsariste en février 1917 ?",
+    "answers": ["La guerre civile", "La mutinerie de Kronstadt", "La révolution d’Octobre", "Les émeutes de Petrograd"],
+    "correctIndex": 3
   },
+
   {
     "id": "q109",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel ouvrage Karl Marx a-t-il publié en 1867 ?",
-    "answers": [
-      "Critique du programme de Gotha",
-      "Le Capital",
-      "Manifeste du Parti communiste",
-      "Les Luttes de classes en France"
-    ],
-    "correctIndex": 1
+    "text": "Quel idéal politique est commun aux révolutions libérales du XIXe siècle ?",
+    "answers": ["La limitation constitutionnelle du pouvoir", "L’égalitarisme économique", "Le collectivisme", "Le centralisme étatique"],
+    "correctIndex": 0
   },
   {
     "id": "q110",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel dirigeant bolchevik a été assassiné au Mexique en 1940 ?",
-    "answers": [
-      "Molotov",
-      "Staline",
-      "Boukhara",
-      "Trotski"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays connaît une révolution nationaliste dirigée contre un empire colonial en 1954 ?",
+    "answers": ["Le Vietnam", "L’Algérie", "L’Inde", "L’Indonésie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q111",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quelle bataille de 1777 est considérée comme un tournant de la guerre d'indépendance américaine ?",
-    "answers": [
-      "Bataille de Lexington",
-      "Bataille de Bunker Hill",
-      "Bataille de Saratoga",
-      "Bataille de Yorktown"
-    ],
+    "text": "Quel concept explique la confiscation du pouvoir par une élite révolutionnaire restreinte ?",
+    "answers": ["Le pluralisme politique", "La démocratie directe", "La loi d’airain de l’oligarchie", "Le suffrage universel"],
     "correctIndex": 2
   },
   {
     "id": "q112",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel dirigeant bolchevik a été assassiné au Mexique en 1940 ?",
-    "answers": [
-      "Trotski",
-      "Molotov",
-      "Boukhara",
-      "Staline"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement marque l’aboutissement de la révolution cubaine ?",
+    "answers": ["La réforme agraire", "La crise des missiles", "L’exil de Batista", "La prise de La Havane"],
+    "correctIndex": 3
   },
+
   {
     "id": "q113",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel dirigeant bolchevik a été assassiné au Mexique en 1940 ?",
-    "answers": [
-      "Trotski",
-      "Molotov",
-      "Staline",
-      "Boukhara"
-    ],
+    "text": "Quel principe est au cœur des révolutions démocratiques contemporaines ?",
+    "answers": ["La participation politique des citoyens", "La centralisation autoritaire", "Le parti unique", "La hiérarchie sociale"],
     "correctIndex": 0
   },
   {
     "id": "q114",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel révolutionnaire est surnommé 'l'Ami des pauvres' ?",
-    "answers": [
-      "Maximilien Robespierre",
-      "Jean-Paul Marat",
-      "Louis Antoine de Saint-Just",
-      "Georges Danton"
-    ],
+    "text": "Quelle révolution est caractérisée par l’effondrement pacifique d’un régime communiste en Europe centrale ?",
+    "answers": ["La révolution hongroise", "La révolution de Velours", "La révolution roumaine", "La révolution serbe"],
     "correctIndex": 1
   },
+
   {
     "id": "q115",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel traité met fin à la guerre civile anglaise en 1649 ?",
-    "answers": [
-      "Acte d'Habeas Corpus",
-      "Traité de Westphalie",
-      "Aucun, elle se termine par l'exécution de Charles Ier",
-      "Bill of Rights"
-    ],
+    "text": "Quel facteur structurel favorise la récurrence des révolutions dans un même État ?",
+    "answers": ["La stabilité institutionnelle", "La croissance économique", "La persistance des inégalités sociales", "La diplomatie"],
     "correctIndex": 2
   },
   {
     "id": "q116",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel révolutionnaire est surnommé 'l'Ami des pauvres' ?",
-    "answers": [
-      "Georges Danton",
-      "Maximilien Robespierre",
-      "Louis Antoine de Saint-Just",
-      "Jean-Paul Marat"
-    ],
+    "text": "Quel événement met fin à la monarchie constitutionnelle en France ?",
+    "answers": ["La prise de la Bastille", "La fuite à Varennes", "L’abolition des privilèges", "La proclamation de la République"],
     "correctIndex": 3
   },
+
   {
     "id": "q117",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel traité met fin à la guerre civile anglaise en 1649 ?",
-    "answers": [
-      "Bill of Rights",
-      "Traité de Westphalie",
-      "Aucun, elle se termine par l'exécution de Charles Ier",
-      "Acte d'Habeas Corpus"
-    ],
-    "correctIndex": 2
+    "text": "Quel idéal politique justifie les révolutions anticoloniales du XXe siècle ?",
+    "answers": ["Le droit des peuples à disposer d’eux-mêmes", "Le conservatisme", "Le mercantilisme", "Le fédéralisme impérial"],
+    "correctIndex": 0
   },
   {
     "id": "q118",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel traité met fin à la guerre civile anglaise en 1649 ?",
-    "answers": [
-      "Aucun, elle se termine par l'exécution de Charles Ier",
-      "Traité de Westphalie",
-      "Bill of Rights",
-      "Acte d'Habeas Corpus"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays connaît une révolution islamique en 1979 ?",
+    "answers": ["L’Irak", "L’Iran", "L’Arabie saoudite", "La Syrie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q119",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel dirigeant bolchevik a été assassiné au Mexique en 1940 ?",
-    "answers": [
-      "Trotski",
-      "Staline",
-      "Molotov",
-      "Boukhara"
-    ],
-    "correctIndex": 0
+    "text": "Quel concept explique la perte de l’élan révolutionnaire après la prise du pouvoir ?",
+    "answers": ["La radicalisation", "La réforme permanente", "La normalisation politique", "La mobilisation"],
+    "correctIndex": 2
   },
   {
     "id": "q120",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel révolutionnaire français a été assassiné dans sa baignoire ?",
-    "answers": [
-      "Maximilien Robespierre",
-      "Georges Danton",
-      "Camille Desmoulins",
-      "Jean-Paul Marat"
-    ],
+    "text": "Quel événement marque le début officiel de la Révolution française ?",
+    "answers": ["La Déclaration des droits de l’homme", "La convocation des États généraux", "L’abolition des privilèges", "La prise de la Bastille"],
     "correctIndex": 3
   },
+
   {
     "id": "q121",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel dirigeant bolchevik a été assassiné au Mexique en 1940 ?",
-    "answers": [
-      "Molotov",
-      "Trotski",
-      "Boukhara",
-      "Staline"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe fonde la légitimité des constitutions révolutionnaires modernes ?",
+    "answers": ["La souveraineté nationale", "Le droit divin", "La tradition monarchique", "La hiérarchie sociale"],
+    "correctIndex": 0
   },
   {
     "id": "q122",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel ouvrage Karl Marx a-t-il publié en 1867 ?",
-    "answers": [
-      "Critique du programme de Gotha",
-      "Manifeste du Parti communiste",
-      "Le Capital",
-      "Les Luttes de classes en France"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays connaît une révolution démocratique appelée « Révolution orange » en 2004 ?",
+    "answers": ["La Géorgie", "L’Ukraine", "La Moldavie", "La Biélorussie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q123",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire a réprimé la Commune de Paris en 1871 ?",
-    "answers": [
-      "Faidherbe",
-      "Mac Mahon",
-      "Thiers",
-      "Boulanger"
-    ],
-    "correctIndex": 1
+    "text": "Quel concept permet d’analyser la dérive autoritaire des régimes issus de révolutions ?",
+    "answers": ["La séparation des pouvoirs", "Le pluralisme", "La concentration du pouvoir", "La démocratie directe"],
+    "correctIndex": 2
   },
   {
     "id": "q124",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Qui est l'auteur de 'Qu'est-ce que le Tiers État ?'",
-    "answers": [
-      "Honoré Gabriel Riqueti",
-      "Mirabeau",
-      "Emmanuel Joseph Sieyès",
-      "Jean-Jacques Rousseau"
-    ],
-    "correctIndex": 2
+    "text": "Quel événement met fin au régime de Ceaușescu en Roumanie ?",
+    "answers": ["Les élections libres", "La réforme constitutionnelle", "La révolution pacifique", "L’insurrection de décembre 1989"],
+    "correctIndex": 3
   },
+
   {
     "id": "q125",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel dirigeant bolchevik a été assassiné au Mexique en 1940 ?",
-    "answers": [
-      "Staline",
-      "Trotski",
-      "Boukhara",
-      "Molotov"
-    ],
-    "correctIndex": 1
+    "text": "Quel idéal politique remet en cause toute autorité non issue du peuple ?",
+    "answers": ["La souveraineté populaire", "Le traditionalisme", "Le corporatisme", "Le conservatisme"],
+    "correctIndex": 0
   },
   {
     "id": "q126",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel événement de 1905 en Russie est surnommé 'Dimanche rouge' ?",
-    "answers": [
-      "Révolution d'Octobre",
-      "Révolte du cuirassé Potemkine",
-      "La fusillade de Saint-Pétersbourg",
-      "Manifestations de février"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays connaît une transition révolutionnaire pacifique en Afrique de l’Ouest au début des années 1990 ?",
+    "answers": ["Le Sénégal", "Le Bénin", "Le Mali", "Le Niger"],
+    "correctIndex": 1
   },
+
   {
     "id": "q127",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel événement de 1905 en Russie est surnommé 'Dimanche rouge' ?",
-    "answers": [
-      "Révolution d'Octobre",
-      "Révolte du cuirassé Potemkine",
-      "La fusillade de Saint-Pétersbourg",
-      "Manifestations de février"
-    ],
+    "text": "Quel facteur explique la fragilité des régimes post-révolutionnaires ?",
+    "answers": ["La stabilité idéologique", "La prospérité immédiate", "L’absence de compromis institutionnel", "Le pluralisme"],
     "correctIndex": 2
   },
   {
     "id": "q128",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel mouvement révolutionnaire irlandais a lieu en 1916 ?",
-    "answers": [
-      "Révolte des United Irishmen",
-      "Guerre d'indépendance",
-      "Insurrection de Pâques",
-      "Rébellion des Fenians"
-    ],
-    "correctIndex": 2
+    "text": "Quel événement marque la dissolution officielle de l’URSS ?",
+    "answers": ["La chute du mur de Berlin", "La perestroïka", "La réunification allemande", "La déclaration de décembre 1991"],
+    "correctIndex": 3
   },
+
   {
     "id": "q129",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel ouvrage Karl Marx a-t-il publié en 1867 ?",
-    "answers": [
-      "Le Capital",
-      "Les Luttes de classes en France",
-      "Critique du programme de Gotha",
-      "Manifeste du Parti communiste"
-    ],
+    "text": "Quel idéal politique inspire les révolutions citoyennes non violentes ?",
+    "answers": ["La légitimité morale", "La coercition armée", "La centralisation", "La militarisation"],
     "correctIndex": 0
   },
   {
     "id": "q130",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel mouvement révolutionnaire irlandais a lieu en 1916 ?",
-    "answers": [
-      "Guerre d'indépendance",
-      "Insurrection de Pâques",
-      "Révolte des United Irishmen",
-      "Rébellion des Fenians"
-    ],
+    "text": "Quel pays renverse une dictature par une révolution pacifique en 1974 ?",
+    "answers": ["L’Espagne", "Le Portugal", "La Grèce", "L’Italie"],
     "correctIndex": 1
   },
+
   {
     "id": "q131",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel événement de 1905 en Russie est surnommé 'Dimanche rouge' ?",
-    "answers": [
-      "Révolte du cuirassé Potemkine",
-      "La fusillade de Saint-Pétersbourg",
-      "Manifestations de février",
-      "Révolution d'Octobre"
-    ],
-    "correctIndex": 1
+    "text": "Quel concept décrit la transformation progressive d’une révolution en régime autoritaire ?",
+    "answers": ["La démocratisation", "La libéralisation", "La bureaucratisation", "La décentralisation"],
+    "correctIndex": 2
   },
   {
     "id": "q132",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Qui est l'auteur de 'Qu'est-ce que le Tiers État ?'",
-    "answers": [
-      "Mirabeau",
-      "Honoré Gabriel Riqueti",
-      "Emmanuel Joseph Sieyès",
-      "Jean-Jacques Rousseau"
-    ],
-    "correctIndex": 2
+    "text": "Quel événement marque l’échec du Printemps de Prague en 1968 ?",
+    "answers": ["Les élections libres", "La chute du mur", "La réforme constitutionnelle", "L’intervention militaire du Pacte de Varsovie"],
+    "correctIndex": 3
   },
+
   {
     "id": "q133",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel dirigeant bolchevik a été assassiné au Mexique en 1940 ?",
-    "answers": [
-      "Trotski",
-      "Molotov",
-      "Staline",
-      "Boukhara"
-    ],
+    "text": "Quel idéal fonde la critique révolutionnaire des privilèges hérités ?",
+    "answers": ["L’égalité civique", "La hiérarchie sociale", "Le corporatisme", "Le conservatisme"],
     "correctIndex": 0
   },
   {
     "id": "q134",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel traité met fin à la guerre civile anglaise en 1649 ?",
-    "answers": [
-      "Bill of Rights",
-      "Aucun, elle se termine par l'exécution de Charles Ier",
-      "Acte d'Habeas Corpus",
-      "Traité de Westphalie"
-    ],
+    "text": "Quel pays connaît une révolution populaire appelée « Maïdan » en 2014 ?",
+    "answers": ["La Pologne", "L’Ukraine", "La Russie", "La Serbie"],
     "correctIndex": 1
   },
+
   {
     "id": "q135",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel dirigeant bolchevik a été assassiné au Mexique en 1940 ?",
-    "answers": [
-      "Boukhara",
-      "Staline",
-      "Trotski",
-      "Molotov"
-    ],
+    "text": "Quel facteur structurel favorise l’explosion révolutionnaire dans les États fragiles ?",
+    "answers": ["La stabilité politique", "La croissance soutenue", "La crise de l’État", "La diplomatie"],
     "correctIndex": 2
   },
   {
     "id": "q136",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel dirigeant bolchevik a été assassiné au Mexique en 1940 ?",
-    "answers": [
-      "Molotov",
-      "Boukhara",
-      "Staline",
-      "Trotski"
-    ],
+    "text": "Quel événement marque la chute définitive de Batista à Cuba ?",
+    "answers": ["La réforme agraire", "La crise des missiles", "L’attaque de Moncada", "L’entrée de Castro à La Havane"],
     "correctIndex": 3
   },
+
   {
     "id": "q137",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel événement de 1905 en Russie est surnommé 'Dimanche rouge' ?",
-    "answers": [
-      "Manifestations de février",
-      "La fusillade de Saint-Pétersbourg",
-      "Révolte du cuirassé Potemkine",
-      "Révolution d'Octobre"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe est central dans les constitutions issues des révolutions modernes ?",
+    "answers": ["La séparation des pouvoirs", "Le pouvoir absolu", "Le corporatisme", "La censure"],
+    "correctIndex": 0
   },
   {
     "id": "q138",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire a réprimé la Commune de Paris en 1871 ?",
-    "answers": [
-      "Boulanger",
-      "Thiers",
-      "Faidherbe",
-      "Mac Mahon"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays connaît une révolution pacifique dite « de Velours » ?",
+    "answers": ["La Pologne", "La Tchécoslovaquie", "La Roumanie", "La Bulgarie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q139",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel événement de 1905 en Russie est surnommé 'Dimanche rouge' ?",
-    "answers": [
-      "La fusillade de Saint-Pétersbourg",
-      "Manifestations de février",
-      "Révolte du cuirassé Potemkine",
-      "Révolution d'Octobre"
-    ],
-    "correctIndex": 0
+    "text": "Quel concept permet d’expliquer la répétition des cycles révolutionnaires ?",
+    "answers": ["La stabilité sociale", "La prospérité", "La persistance des injustices structurelles", "La diplomatie"],
+    "correctIndex": 2
   },
   {
     "id": "q140",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel dirigeant bolchevik a été assassiné au Mexique en 1940 ?",
-    "answers": [
-      "Trotski",
-      "Molotov",
-      "Staline",
-      "Boukhara"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement marque la fin de la Terreur en France ?",
+    "answers": ["La proclamation de la République", "La fuite à Varennes", "Le coup d’État de Brumaire", "La chute de Robespierre"],
+    "correctIndex": 3
   },
+
   {
     "id": "q141",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel révolutionnaire est surnommé 'l'Ami des pauvres' ?",
-    "answers": [
-      "Maximilien Robespierre",
-      "Louis Antoine de Saint-Just",
-      "Jean-Paul Marat",
-      "Georges Danton"
-    ],
-    "correctIndex": 2
+    "text": "Quel idéal politique remet en cause l’absolutisme monarchique ?",
+    "answers": ["La souveraineté nationale", "Le conservatisme", "Le traditionalisme", "Le corporatisme"],
+    "correctIndex": 0
   },
   {
     "id": "q142",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel révolutionnaire français a été assassiné dans sa baignoire ?",
-    "answers": [
-      "Camille Desmoulins",
-      "Maximilien Robespierre",
-      "Georges Danton",
-      "Jean-Paul Marat"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays renverse une dictature communiste par la violence en 1989 ?",
+    "answers": ["La Hongrie", "La Roumanie", "La Pologne", "La Tchécoslovaquie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q143",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel événement de 1905 en Russie est surnommé 'Dimanche rouge' ?",
-    "answers": [
-      "Révolution d'Octobre",
-      "La fusillade de Saint-Pétersbourg",
-      "Révolte du cuirassé Potemkine",
-      "Manifestations de février"
-    ],
-    "correctIndex": 1
+    "text": "Quel concept décrit l’épuisement progressif de l’élan révolutionnaire ?",
+    "answers": ["La radicalisation", "La mobilisation", "La routinisation révolutionnaire", "La centralisation"],
+    "correctIndex": 2
   },
   {
     "id": "q144",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel traité met fin à la guerre civile anglaise en 1649 ?",
-    "answers": [
-      "Aucun, elle se termine par l'exécution de Charles Ier",
-      "Acte d'Habeas Corpus",
-      "Traité de Westphalie",
-      "Bill of Rights"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement marque l’échec du Printemps arabe en Syrie ?",
+    "answers": ["Les élections libres", "La chute du régime", "La transition démocratique", "La guerre civile prolongée"],
+    "correctIndex": 3
   },
+
   {
     "id": "q145",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Qui est l'auteur de 'Qu'est-ce que le Tiers État ?'",
-    "answers": [
-      "Honoré Gabriel Riqueti",
-      "Mirabeau",
-      "Jean-Jacques Rousseau",
-      "Emmanuel Joseph Sieyès"
-    ],
-    "correctIndex": 3
+    "text": "Quel idéal politique fonde la contestation des régimes autoritaires ?",
+    "answers": ["La liberté politique", "La hiérarchie", "La tradition", "Le corporatisme"],
+    "correctIndex": 0
   },
   {
     "id": "q146",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel ouvrage Karl Marx a-t-il publié en 1867 ?",
-    "answers": [
-      "Manifeste du Parti communiste",
-      "Critique du programme de Gotha",
-      "Le Capital",
-      "Les Luttes de classes en France"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays connaît une révolution dite « des Roses » en 2003 ?",
+    "answers": ["L’Ukraine", "La Géorgie", "La Moldavie", "L’Arménie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q147",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel révolutionnaire est surnommé 'l'Ami des pauvres' ?",
-    "answers": [
-      "Jean-Paul Marat",
-      "Maximilien Robespierre",
-      "Louis Antoine de Saint-Just",
-      "Georges Danton"
-    ],
-    "correctIndex": 0
+    "text": "Quel facteur explique la consolidation durable d’un régime issu d’une révolution ?",
+    "answers": ["La répression", "La radicalité idéologique", "L’institutionnalisation du pouvoir", "La mobilisation permanente"],
+    "correctIndex": 2
   },
   {
     "id": "q148",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel révolutionnaire est surnommé 'l'Ami des pauvres' ?",
-    "answers": [
-      "Louis Antoine de Saint-Just",
-      "Jean-Paul Marat",
-      "Maximilien Robespierre",
-      "Georges Danton"
-    ],
-    "correctIndex": 1
+    "text": "Quel événement marque la fin de l’apartheid en Afrique du Sud ?",
+    "answers": ["La libération de Mandela", "Les manifestations de Soweto", "La création de l’ANC", "Les élections multiraciales de 1994"],
+    "correctIndex": 3
   },
+
   {
     "id": "q149",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel révolutionnaire français a été assassiné dans sa baignoire ?",
-    "answers": [
-      "Maximilien Robespierre",
-      "Camille Desmoulins",
-      "Jean-Paul Marat",
-      "Georges Danton"
-    ],
-    "correctIndex": 2
+    "text": "Quel idéal politique justifie la refondation totale d’un ordre social ?",
+    "answers": ["La légitimité populaire", "Le conservatisme", "La tradition", "Le corporatisme"],
+    "correctIndex": 0
   },
   {
     "id": "q150",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel événement de 1905 en Russie est surnommé 'Dimanche rouge' ?",
-    "answers": [
-      "Révolution d'Octobre",
-      "Révolte du cuirassé Potemkine",
-      "La fusillade de Saint-Pétersbourg",
-      "Manifestations de février"
-    ],
-    "correctIndex": 2
+    "text": "Quel héritage commun laissent les grandes révolutions politiques modernes ?",
+    "answers": ["La fin des conflits", "La stabilité immédiate", "La disparition des élites", "La redéfinition durable de la légitimité du pouvoir"],
+    "correctIndex": 3
   },
   {
     "id": "q151",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel traité met fin à la guerre civile anglaise en 1649 ?",
-    "answers": [
-      "Acte d'Habeas Corpus",
-      "Bill of Rights",
-      "Aucun, elle se termine par l'exécution de Charles Ier",
-      "Traité de Westphalie"
-    ],
-    "correctIndex": 2
+    "text": "Quel critère permet d’identifier une révolution comme transformation de longue durée plutôt que comme rupture ponctuelle ?",
+    "answers": ["La modification durable des structures sociales et politiques", "La rapidité du changement", "La violence initiale", "La prise du pouvoir militaire"],
+    "correctIndex": 0
   },
   {
     "id": "q152",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quelle bataille de 1777 est considérée comme un tournant de la guerre d'indépendance américaine ?",
-    "answers": [
-      "Bataille de Saratoga",
-      "Bataille de Bunker Hill",
-      "Bataille de Lexington",
-      "Bataille de Yorktown"
-    ],
-    "correctIndex": 0
+    "text": "Quelle révolution met fin à un empire pluriséculaire en Chine au début du XXe siècle ?",
+    "answers": ["La révolution communiste", "La révolution de 1911", "La Longue Marche", "La révolution culturelle"],
+    "correctIndex": 1
   },
   {
     "id": "q153",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Qui est l'auteur de 'Qu'est-ce que le Tiers État ?'",
-    "answers": [
-      "Mirabeau",
-      "Honoré Gabriel Riqueti",
-      "Emmanuel Joseph Sieyès",
-      "Jean-Jacques Rousseau"
-    ],
+    "text": "Quel concept explique la tendance des révolutions à produire de nouvelles élites dirigeantes ?",
+    "answers": ["La démocratie directe", "La réforme sociale", "La circulation des élites", "La décentralisation"],
     "correctIndex": 2
   },
   {
     "id": "q154",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Qui est l'auteur de 'Qu'est-ce que le Tiers État ?'",
-    "answers": [
-      "Honoré Gabriel Riqueti",
-      "Jean-Jacques Rousseau",
-      "Mirabeau",
-      "Emmanuel Joseph Sieyès"
-    ],
+    "text": "Quel événement marque la fin effective de la Révolution mexicaine selon la plupart des historiens ?",
+    "answers": ["La constitution de 1917", "La chute de Díaz", "L’assassinat de Zapata", "L’arrivée au pouvoir du PRI"],
     "correctIndex": 3
   },
+
   {
     "id": "q155",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel traité met fin à la guerre civile anglaise en 1649 ?",
-    "answers": [
-      "Traité de Westphalie",
-      "Bill of Rights",
-      "Aucun, elle se termine par l'exécution de Charles Ier",
-      "Acte d'Habeas Corpus"
-    ],
-    "correctIndex": 2
+    "text": "Quel idéal politique sous-tend la remise en cause révolutionnaire des ordres sociaux hérités ?",
+    "answers": ["L’égalité civique", "La hiérarchie naturelle", "La tradition", "Le conservatisme"],
+    "correctIndex": 0
   },
   {
     "id": "q156",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel révolutionnaire est surnommé 'l'Ami des pauvres' ?",
-    "answers": [
-      "Maximilien Robespierre",
-      "Georges Danton",
-      "Louis Antoine de Saint-Just",
-      "Jean-Paul Marat"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays connaît une révolution constitutionnelle majeure en 1905 ?",
+    "answers": ["La Russie", "L’Iran", "La Turquie", "Le Japon"],
+    "correctIndex": 1
   },
   {
     "id": "q157",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Qui est l'auteur de 'Qu'est-ce que le Tiers État ?'",
-    "answers": [
-      "Emmanuel Joseph Sieyès",
-      "Honoré Gabriel Riqueti",
-      "Mirabeau",
-      "Jean-Jacques Rousseau"
-    ],
-    "correctIndex": 0
+    "text": "Quel concept désigne l’intégration progressive de la révolution dans un ordre institutionnel stable ?",
+    "answers": ["La radicalisation", "La polarisation", "L’institutionnalisation", "La désobéissance"],
+    "correctIndex": 2
   },
   {
     "id": "q158",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel révolutionnaire est surnommé 'l'Ami des pauvres' ?",
-    "answers": [
-      "Jean-Paul Marat",
-      "Maximilien Robespierre",
-      "Georges Danton",
-      "Louis Antoine de Saint-Just"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement marque l’échec définitif du Printemps de Prague ?",
+    "answers": ["Les élections libres", "La réforme constitutionnelle", "La chute du mur", "L’intervention du Pacte de Varsovie"],
+    "correctIndex": 3
   },
+
   {
     "id": "q159",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel événement de 1905 en Russie est surnommé 'Dimanche rouge' ?",
-    "answers": [
-      "Manifestations de février",
-      "Révolution d'Octobre",
-      "Révolte du cuirassé Potemkine",
-      "La fusillade de Saint-Pétersbourg"
-    ],
-    "correctIndex": 3
+    "text": "Quel principe philosophique fonde la légitimité des révolutions démocratiques modernes ?",
+    "answers": ["Le consentement des gouvernés", "Le droit divin", "La tradition monarchique", "Le positivisme juridique"],
+    "correctIndex": 0
   },
   {
     "id": "q160",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel révolutionnaire français a été assassiné dans sa baignoire ?",
-    "answers": [
-      "Jean-Paul Marat",
-      "Georges Danton",
-      "Maximilien Robespierre",
-      "Camille Desmoulins"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays connaît une révolution socialiste par voie électorale en 1970 ?",
+    "answers": ["Cuba", "Le Chili", "Le Nicaragua", "Le Venezuela"],
+    "correctIndex": 1
   },
+
   {
     "id": "q161",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire a réprimé la Commune de Paris en 1871 ?",
-    "answers": [
-      "Mac Mahon",
-      "Thiers",
-      "Boulanger",
-      "Faidherbe"
-    ],
-    "correctIndex": 0
+    "text": "Quel concept explique la perte de l’élan révolutionnaire après la victoire initiale ?",
+    "answers": ["La mobilisation permanente", "La radicalisation", "La routinisation du pouvoir", "La légitimité"],
+    "correctIndex": 2
   },
   {
     "id": "q162",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel révolutionnaire français a été assassiné dans sa baignoire ?",
-    "answers": [
-      "Georges Danton",
-      "Jean-Paul Marat",
-      "Maximilien Robespierre",
-      "Camille Desmoulins"
-    ],
-    "correctIndex": 1
+    "text": "Quel événement marque la fin officielle du régime de l’apartheid ?",
+    "answers": ["La libération de Mandela", "Les émeutes de Soweto", "La fin de l’ANC", "Les élections multiraciales de 1994"],
+    "correctIndex": 3
   },
+
   {
     "id": "q163",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel traité met fin à la guerre civile anglaise en 1649 ?",
-    "answers": [
-      "Traité de Westphalie",
-      "Acte d'Habeas Corpus",
-      "Bill of Rights",
-      "Aucun, elle se termine par l'exécution de Charles Ier"
-    ],
-    "correctIndex": 3
+    "text": "Quel idéal politique est central dans les révolutions non violentes contemporaines ?",
+    "answers": ["La légitimité morale", "La coercition armée", "Le centralisme", "Le corporatisme"],
+    "correctIndex": 0
   },
   {
     "id": "q164",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quelle bataille de 1777 est considérée comme un tournant de la guerre d'indépendance américaine ?",
-    "answers": [
-      "Bataille de Yorktown",
-      "Bataille de Bunker Hill",
-      "Bataille de Saratoga",
-      "Bataille de Lexington"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays connaît une révolution pacifique dite « des Roses » en 2003 ?",
+    "answers": ["L’Ukraine", "La Géorgie", "La Moldavie", "L’Arménie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q165",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel traité met fin à la guerre civile anglaise en 1649 ?",
-    "answers": [
-      "Bill of Rights",
-      "Aucun, elle se termine par l'exécution de Charles Ier",
-      "Traité de Westphalie",
-      "Acte d'Habeas Corpus"
-    ],
-    "correctIndex": 1
+    "text": "Quel facteur structurel favorise la répétition des crises révolutionnaires ?",
+    "answers": ["La stabilité économique", "La croissance démographique", "La persistance des inégalités", "La diplomatie"],
+    "correctIndex": 2
   },
   {
     "id": "q166",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel ouvrage Karl Marx a-t-il publié en 1867 ?",
-    "answers": [
-      "Les Luttes de classes en France",
-      "Critique du programme de Gotha",
-      "Manifeste du Parti communiste",
-      "Le Capital"
-    ],
+    "text": "Quel événement marque la chute définitive du régime tsariste en Russie ?",
+    "answers": ["La révolution de 1905", "La mutinerie de Kronstadt", "La révolution d’Octobre", "L’abdication de Nicolas II"],
     "correctIndex": 3
   },
+
   {
     "id": "q167",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel traité met fin à la guerre civile anglaise en 1649 ?",
-    "answers": [
-      "Acte d'Habeas Corpus",
-      "Aucun, elle se termine par l'exécution de Charles Ier",
-      "Traité de Westphalie",
-      "Bill of Rights"
-    ],
-    "correctIndex": 1
+    "text": "Quel principe est au fondement des constitutions issues des grandes révolutions modernes ?",
+    "answers": ["La séparation des pouvoirs", "Le pouvoir absolu", "Le corporatisme", "La censure"],
+    "correctIndex": 0
   },
   {
     "id": "q168",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quelle bataille de 1777 est considérée comme un tournant de la guerre d'indépendance américaine ?",
-    "answers": [
-      "Bataille de Saratoga",
-      "Bataille de Bunker Hill",
-      "Bataille de Yorktown",
-      "Bataille de Lexington"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays connaît une révolution pacifique appelée « Maïdan » en 2014 ?",
+    "answers": ["La Pologne", "L’Ukraine", "La Serbie", "La Russie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q169",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel événement de 1905 en Russie est surnommé 'Dimanche rouge' ?",
-    "answers": [
-      "Révolte du cuirassé Potemkine",
-      "La fusillade de Saint-Pétersbourg",
-      "Révolution d'Octobre",
-      "Manifestations de février"
-    ],
-    "correctIndex": 1
+    "text": "Quel concept permet d’analyser la dérive autoritaire des régimes post-révolutionnaires ?",
+    "answers": ["Le pluralisme", "La démocratie directe", "La concentration du pouvoir", "La décentralisation"],
+    "correctIndex": 2
   },
   {
     "id": "q170",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel ouvrage Karl Marx a-t-il publié en 1867 ?",
-    "answers": [
-      "Critique du programme de Gotha",
-      "Les Luttes de classes en France",
-      "Manifeste du Parti communiste",
-      "Le Capital"
-    ],
+    "text": "Quel événement marque le début de la révolution algérienne ?",
+    "answers": ["La guerre d’Indochine", "Les accords d’Évian", "Les manifestations de Sétif", "La Toussaint rouge de 1954"],
     "correctIndex": 3
   },
+
   {
     "id": "q171",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quelle bataille de 1777 est considérée comme un tournant de la guerre d'indépendance américaine ?",
-    "answers": [
-      "Bataille de Saratoga",
-      "Bataille de Yorktown",
-      "Bataille de Lexington",
-      "Bataille de Bunker Hill"
-    ],
+    "text": "Quel idéal politique traverse l’ensemble des grandes révolutions modernes ?",
+    "answers": ["La remise en cause de la légitimité traditionnelle du pouvoir", "Le retour à l’ordre ancien", "Le privilège social", "Le conservatisme"],
     "correctIndex": 0
   },
   {
     "id": "q172",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel événement de 1905 en Russie est surnommé 'Dimanche rouge' ?",
-    "answers": [
-      "Révolution d'Octobre",
-      "Manifestations de février",
-      "Révolte du cuirassé Potemkine",
-      "La fusillade de Saint-Pétersbourg"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays met fin à une dictature militaire par la Révolution des Œillets ?",
+    "answers": ["L’Espagne", "Le Portugal", "La Grèce", "L’Italie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q173",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel événement de 1905 en Russie est surnommé 'Dimanche rouge' ?",
-    "answers": [
-      "La fusillade de Saint-Pétersbourg",
-      "Révolte du cuirassé Potemkine",
-      "Révolution d'Octobre",
-      "Manifestations de février"
-    ],
-    "correctIndex": 0
+    "text": "Quel concept explique la transformation d’un mouvement révolutionnaire en régime autoritaire ?",
+    "answers": ["La démocratisation", "La libéralisation", "La bureaucratisation", "La décentralisation"],
+    "correctIndex": 2
   },
   {
     "id": "q174",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel mouvement révolutionnaire irlandais a lieu en 1916 ?",
-    "answers": [
-      "Guerre d'indépendance",
-      "Rébellion des Fenians",
-      "Révolte des United Irishmen",
-      "Insurrection de Pâques"
-    ],
+    "text": "Quel événement marque la fin de la Terreur en France ?",
+    "answers": ["La proclamation de la République", "La fuite à Varennes", "Le coup d’État de Brumaire", "La chute de Robespierre"],
     "correctIndex": 3
   },
+
   {
     "id": "q175",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel révolutionnaire français a été assassiné dans sa baignoire ?",
-    "answers": [
-      "Jean-Paul Marat",
-      "Maximilien Robespierre",
-      "Camille Desmoulins",
-      "Georges Danton"
-    ],
+    "text": "Quel principe fonde la légitimité politique des gouvernements issus des révolutions ?",
+    "answers": ["La souveraineté populaire", "La tradition", "Le droit divin", "La hiérarchie"],
     "correctIndex": 0
   },
   {
     "id": "q176",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire a réprimé la Commune de Paris en 1871 ?",
-    "answers": [
-      "Mac Mahon",
-      "Thiers",
-      "Faidherbe",
-      "Boulanger"
-    ],
-    "correctIndex": 0
+    "text": "Quel pays connaît une transition démocratique négociée après 1989 sans violence majeure ?",
+    "answers": ["La Roumanie", "La Pologne", "La Yougoslavie", "La Bulgarie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q177",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire a réprimé la Commune de Paris en 1871 ?",
-    "answers": [
-      "Faidherbe",
-      "Mac Mahon",
-      "Thiers",
-      "Boulanger"
-    ],
-    "correctIndex": 1
+    "text": "Quel facteur favorise la consolidation durable d’un régime post-révolutionnaire ?",
+    "answers": ["La répression permanente", "La radicalité idéologique", "L’institutionnalisation du pouvoir", "La mobilisation constante"],
+    "correctIndex": 2
   },
   {
     "id": "q178",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel dirigeant bolchevik a été assassiné au Mexique en 1940 ?",
-    "answers": [
-      "Trotski",
-      "Boukhara",
-      "Staline",
-      "Molotov"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement marque la chute du régime de Moubarak en Égypte ?",
+    "answers": ["La guerre civile", "Le coup d’État militaire", "La réforme constitutionnelle", "Les manifestations de la place Tahrir"],
+    "correctIndex": 3
   },
+
   {
     "id": "q179",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire a réprimé la Commune de Paris en 1871 ?",
-    "answers": [
-      "Thiers",
-      "Mac Mahon",
-      "Boulanger",
-      "Faidherbe"
-    ],
-    "correctIndex": 1
+    "text": "Quel idéal politique est central dans la critique révolutionnaire des oligarchies ?",
+    "answers": ["L’égalité politique", "La hiérarchie", "Le corporatisme", "Le conservatisme"],
+    "correctIndex": 0
   },
   {
     "id": "q180",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel dirigeant bolchevik a été assassiné au Mexique en 1940 ?",
-    "answers": [
-      "Boukhara",
-      "Molotov",
-      "Staline",
-      "Trotski"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays connaît une révolution dite « Orange » en 2004 ?",
+    "answers": ["La Géorgie", "L’Ukraine", "La Moldavie", "La Serbie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q181",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel révolutionnaire est surnommé 'l'Ami des pauvres' ?",
-    "answers": [
-      "Maximilien Robespierre",
-      "Louis Antoine de Saint-Just",
-      "Jean-Paul Marat",
-      "Georges Danton"
-    ],
+    "text": "Quel concept permet d’expliquer l’épuisement progressif des dynamiques révolutionnaires ?",
+    "answers": ["La radicalisation", "La mobilisation", "La routinisation politique", "La polarisation"],
     "correctIndex": 2
   },
   {
     "id": "q182",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel événement de 1905 en Russie est surnommé 'Dimanche rouge' ?",
-    "answers": [
-      "La fusillade de Saint-Pétersbourg",
-      "Manifestations de février",
-      "Révolte du cuirassé Potemkine",
-      "Révolution d'Octobre"
-    ],
-    "correctIndex": 0
+    "text": "Quel événement marque la dissolution officielle de l’URSS ?",
+    "answers": ["La chute du mur", "La perestroïka", "La réunification allemande", "La déclaration de décembre 1991"],
+    "correctIndex": 3
   },
+
   {
     "id": "q183",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quelle bataille de 1777 est considérée comme un tournant de la guerre d'indépendance américaine ?",
-    "answers": [
-      "Bataille de Lexington",
-      "Bataille de Saratoga",
-      "Bataille de Bunker Hill",
-      "Bataille de Yorktown"
-    ],
-    "correctIndex": 1
+    "text": "Quel idéal politique justifie la refondation totale d’un ordre social existant ?",
+    "answers": ["La légitimité populaire", "La tradition", "Le conservatisme", "Le corporatisme"],
+    "correctIndex": 0
   },
   {
     "id": "q184",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quelle bataille de 1777 est considérée comme un tournant de la guerre d'indépendance américaine ?",
-    "answers": [
-      "Bataille de Bunker Hill",
-      "Bataille de Yorktown",
-      "Bataille de Saratoga",
-      "Bataille de Lexington"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays met fin à un régime autoritaire par une transition négociée en Afrique de l’Ouest en 1991 ?",
+    "answers": ["Le Ghana", "Le Bénin", "Le Togo", "Le Niger"],
+    "correctIndex": 1
   },
+
   {
     "id": "q185",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel événement de 1905 en Russie est surnommé 'Dimanche rouge' ?",
-    "answers": [
-      "Révolution d'Octobre",
-      "Révolte du cuirassé Potemkine",
-      "Manifestations de février",
-      "La fusillade de Saint-Pétersbourg"
-    ],
-    "correctIndex": 3
+    "text": "Quel facteur explique la fragilité chronique des régimes issus de révolutions violentes ?",
+    "answers": ["La stabilité sociale", "La prospérité économique", "L’absence de consensus institutionnel", "La diplomatie"],
+    "correctIndex": 2
   },
   {
     "id": "q186",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel ouvrage Karl Marx a-t-il publié en 1867 ?",
-    "answers": [
-      "Les Luttes de classes en France",
-      "Critique du programme de Gotha",
-      "Manifeste du Parti communiste",
-      "Le Capital"
-    ],
+    "text": "Quel événement marque la chute du régime de Ceaușescu en Roumanie ?",
+    "answers": ["Les élections libres", "La réforme constitutionnelle", "La transition pacifique", "L’insurrection de décembre 1989"],
     "correctIndex": 3
   },
+
   {
     "id": "q187",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel traité met fin à la guerre civile anglaise en 1649 ?",
-    "answers": [
-      "Aucun, elle se termine par l'exécution de Charles Ier",
-      "Acte d'Habeas Corpus",
-      "Bill of Rights",
-      "Traité de Westphalie"
-    ],
+    "text": "Quel principe politique est central dans les révolutions égalitaires modernes ?",
+    "answers": ["L’égalité des droits", "La hiérarchie sociale", "Le corporatisme", "Le conservatisme"],
     "correctIndex": 0
   },
   {
     "id": "q188",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quelle bataille de 1777 est considérée comme un tournant de la guerre d'indépendance américaine ?",
-    "answers": [
-      "Bataille de Yorktown",
-      "Bataille de Bunker Hill",
-      "Bataille de Lexington",
-      "Bataille de Saratoga"
-    ],
-    "correctIndex": 3
+    "text": "Quel pays connaît une révolution pacifique majeure en Europe de l’Est en 1989 ?",
+    "answers": ["La Bulgarie", "La Tchécoslovaquie", "La Roumanie", "La Serbie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q189",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel révolutionnaire est surnommé 'l'Ami des pauvres' ?",
-    "answers": [
-      "Jean-Paul Marat",
-      "Maximilien Robespierre",
-      "Georges Danton",
-      "Louis Antoine de Saint-Just"
-    ],
-    "correctIndex": 0
+    "text": "Quel concept permet d’expliquer la centralisation progressive du pouvoir après une révolution ?",
+    "answers": ["Le pluralisme", "La démocratie directe", "La monopolisation institutionnelle", "La décentralisation"],
+    "correctIndex": 2
   },
   {
     "id": "q190",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quelle bataille de 1777 est considérée comme un tournant de la guerre d'indépendance américaine ?",
-    "answers": [
-      "Bataille de Lexington",
-      "Bataille de Saratoga",
-      "Bataille de Yorktown",
-      "Bataille de Bunker Hill"
-    ],
-    "correctIndex": 1
+    "text": "Quel événement marque le début du Printemps arabe ?",
+    "answers": ["La guerre d’Irak", "La chute de Moubarak", "La révolution libyenne", "L’immolation de Mohamed Bouazizi"],
+    "correctIndex": 3
   },
+
   {
     "id": "q191",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire a réprimé la Commune de Paris en 1871 ?",
-    "answers": [
-      "Mac Mahon",
-      "Faidherbe",
-      "Boulanger",
-      "Thiers"
-    ],
+    "text": "Quel idéal politique remet en cause toute autorité non consentie ?",
+    "answers": ["La souveraineté populaire", "La tradition", "Le conservatisme", "Le corporatisme"],
     "correctIndex": 0
   },
   {
     "id": "q192",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel événement de 1905 en Russie est surnommé 'Dimanche rouge' ?",
-    "answers": [
-      "Révolte du cuirassé Potemkine",
-      "Révolution d'Octobre",
-      "La fusillade de Saint-Pétersbourg",
-      "Manifestations de février"
-    ],
-    "correctIndex": 2
+    "text": "Quel pays connaît une révolution pacifique dite « de Velours » ?",
+    "answers": ["La Pologne", "La Tchécoslovaquie", "La Hongrie", "La Bulgarie"],
+    "correctIndex": 1
   },
+
   {
     "id": "q193",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel traité met fin à la guerre civile anglaise en 1649 ?",
-    "answers": [
-      "Aucun, elle se termine par l'exécution de Charles Ier",
-      "Bill of Rights",
-      "Acte d'Habeas Corpus",
-      "Traité de Westphalie"
-    ],
-    "correctIndex": 0
+    "text": "Quel concept décrit l’usure progressive de l’idéologie révolutionnaire au pouvoir ?",
+    "answers": ["La radicalisation", "La mobilisation", "La désidéologisation", "La polarisation"],
+    "correctIndex": 2
   },
   {
     "id": "q194",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel ouvrage Karl Marx a-t-il publié en 1867 ?",
-    "answers": [
-      "Manifeste du Parti communiste",
-      "Les Luttes de classes en France",
-      "Le Capital",
-      "Critique du programme de Gotha"
-    ],
-    "correctIndex": 2
+    "text": "Quel événement marque la fin officielle de la Révolution iranienne ?",
+    "answers": ["La chute du Shah", "La prise d’otages", "La guerre Iran-Irak", "La proclamation de la République islamique"],
+    "correctIndex": 3
   },
+
   {
     "id": "q195",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire a réprimé la Commune de Paris en 1871 ?",
-    "answers": [
-      "Boulanger",
-      "Mac Mahon",
-      "Faidherbe",
-      "Thiers"
-    ],
-    "correctIndex": 1
+    "text": "Quel idéal politique fonde les révolutions anticoloniales du XXe siècle ?",
+    "answers": ["L’autodétermination des peuples", "Le mercantilisme", "Le conservatisme", "Le fédéralisme impérial"],
+    "correctIndex": 0
   },
   {
     "id": "q196",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel révolutionnaire est surnommé 'l'Ami des pauvres' ?",
-    "answers": [
-      "Georges Danton",
-      "Jean-Paul Marat",
-      "Louis Antoine de Saint-Just",
-      "Maximilien Robespierre"
-    ],
+    "text": "Quel pays renverse une dictature militaire par une révolution populaire en 1986 ?",
+    "answers": ["La Thaïlande", "Les Philippines", "L’Indonésie", "La Malaisie"],
     "correctIndex": 1
   },
+
   {
     "id": "q197",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel chef militaire a réprimé la Commune de Paris en 1871 ?",
-    "answers": [
-      "Boulanger",
-      "Faidherbe",
-      "Mac Mahon",
-      "Thiers"
-    ],
+    "text": "Quel facteur structurel explique l’échec de nombreuses révolutions démocratiques ?",
+    "answers": ["La liberté de la presse", "La croissance économique", "Le déficit institutionnel", "La diplomatie"],
     "correctIndex": 2
   },
   {
     "id": "q198",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel événement de 1905 en Russie est surnommé 'Dimanche rouge' ?",
-    "answers": [
-      "Manifestations de février",
-      "Révolte du cuirassé Potemkine",
-      "Révolution d'Octobre",
-      "La fusillade de Saint-Pétersbourg"
-    ],
+    "text": "Quel événement marque la chute du mur de Berlin ?",
+    "answers": ["La perestroïka", "Les accords d’Helsinki", "La réunification allemande", "L’ouverture des frontières en novembre 1989"],
     "correctIndex": 3
   },
+
   {
     "id": "q199",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Qui est l'auteur de 'Qu'est-ce que le Tiers État ?'",
-    "answers": [
-      "Mirabeau",
-      "Jean-Jacques Rousseau",
-      "Honoré Gabriel Riqueti",
-      "Emmanuel Joseph Sieyès"
-    ],
-    "correctIndex": 3
+    "text": "Quel idéal politique traverse toutes les grandes ruptures révolutionnaires modernes ?",
+    "answers": ["La remise en cause de la légitimité traditionnelle du pouvoir", "Le retour à l’ordre ancien", "Le privilège social", "Le conservatisme"],
+    "correctIndex": 0
   },
   {
     "id": "q200",
     "category": "Révolution",
     "difficulty": "Extrême",
-    "text": "Quel dirigeant bolchevik a été assassiné au Mexique en 1940 ?",
-    "answers": [
-      "Molotov",
-      "Trotski",
-      "Boukhara",
-      "Staline"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q201",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel chef militaire a réprimé la Commune de Paris en 1871 ?",
-    "answers": [
-      "Boulanger",
-      "Faidherbe",
-      "Mac Mahon",
-      "Thiers"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q202",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel traité met fin à la guerre civile anglaise en 1649 ?",
-    "answers": [
-      "Traité de Westphalie",
-      "Aucun, elle se termine par l'exécution de Charles Ier",
-      "Bill of Rights",
-      "Acte d'Habeas Corpus"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q203",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel ouvrage Karl Marx a-t-il publié en 1867 ?",
-    "answers": [
-      "Les Luttes de classes en France",
-      "Manifeste du Parti communiste",
-      "Critique du programme de Gotha",
-      "Le Capital"
-    ],
+    "text": "Quel héritage majeur les révolutions politiques modernes laissent-elles durablement ?",
+    "answers": ["La stabilité immédiate", "La disparition des conflits", "La fin des élites", "La redéfinition profonde et durable de la légitimité politique"],
     "correctIndex": 3
-  },
-  {
-    "id": "q204",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel révolutionnaire est surnommé 'l'Ami des pauvres' ?",
-    "answers": [
-      "Jean-Paul Marat",
-      "Georges Danton",
-      "Louis Antoine de Saint-Just",
-      "Maximilien Robespierre"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q205",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel révolutionnaire est surnommé 'l'Ami des pauvres' ?",
-    "answers": [
-      "Georges Danton",
-      "Jean-Paul Marat",
-      "Maximilien Robespierre",
-      "Louis Antoine de Saint-Just"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q206",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Qui est l'auteur de 'Qu'est-ce que le Tiers État ?'",
-    "answers": [
-      "Honoré Gabriel Riqueti",
-      "Mirabeau",
-      "Jean-Jacques Rousseau",
-      "Emmanuel Joseph Sieyès"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q207",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel ouvrage Karl Marx a-t-il publié en 1867 ?",
-    "answers": [
-      "Manifeste du Parti communiste",
-      "Les Luttes de classes en France",
-      "Critique du programme de Gotha",
-      "Le Capital"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q208",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel révolutionnaire est surnommé 'l'Ami des pauvres' ?",
-    "answers": [
-      "Maximilien Robespierre",
-      "Louis Antoine de Saint-Just",
-      "Georges Danton",
-      "Jean-Paul Marat"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q209",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quelle bataille de 1777 est considérée comme un tournant de la guerre d'indépendance américaine ?",
-    "answers": [
-      "Bataille de Bunker Hill",
-      "Bataille de Yorktown",
-      "Bataille de Saratoga",
-      "Bataille de Lexington"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q210",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel ouvrage Karl Marx a-t-il publié en 1867 ?",
-    "answers": [
-      "Le Capital",
-      "Critique du programme de Gotha",
-      "Manifeste du Parti communiste",
-      "Les Luttes de classes en France"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q211",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quelle bataille de 1777 est considérée comme un tournant de la guerre d'indépendance américaine ?",
-    "answers": [
-      "Bataille de Yorktown",
-      "Bataille de Lexington",
-      "Bataille de Saratoga",
-      "Bataille de Bunker Hill"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q212",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel événement de 1905 en Russie est surnommé 'Dimanche rouge' ?",
-    "answers": [
-      "Révolte du cuirassé Potemkine",
-      "La fusillade de Saint-Pétersbourg",
-      "Manifestations de février",
-      "Révolution d'Octobre"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q213",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel mouvement révolutionnaire irlandais a lieu en 1916 ?",
-    "answers": [
-      "Rébellion des Fenians",
-      "Insurrection de Pâques",
-      "Guerre d'indépendance",
-      "Révolte des United Irishmen"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q214",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel chef militaire a réprimé la Commune de Paris en 1871 ?",
-    "answers": [
-      "Faidherbe",
-      "Mac Mahon",
-      "Boulanger",
-      "Thiers"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q215",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel ouvrage Karl Marx a-t-il publié en 1867 ?",
-    "answers": [
-      "Manifeste du Parti communiste",
-      "Le Capital",
-      "Critique du programme de Gotha",
-      "Les Luttes de classes en France"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q216",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel ouvrage Karl Marx a-t-il publié en 1867 ?",
-    "answers": [
-      "Les Luttes de classes en France",
-      "Le Capital",
-      "Critique du programme de Gotha",
-      "Manifeste du Parti communiste"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q217",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel ouvrage Karl Marx a-t-il publié en 1867 ?",
-    "answers": [
-      "Les Luttes de classes en France",
-      "Manifeste du Parti communiste",
-      "Le Capital",
-      "Critique du programme de Gotha"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q218",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel événement de 1905 en Russie est surnommé 'Dimanche rouge' ?",
-    "answers": [
-      "Révolution d'Octobre",
-      "Révolte du cuirassé Potemkine",
-      "Manifestations de février",
-      "La fusillade de Saint-Pétersbourg"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q219",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Qui est l'auteur de 'Qu'est-ce que le Tiers État ?'",
-    "answers": [
-      "Jean-Jacques Rousseau",
-      "Emmanuel Joseph Sieyès",
-      "Mirabeau",
-      "Honoré Gabriel Riqueti"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q220",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel chef militaire a réprimé la Commune de Paris en 1871 ?",
-    "answers": [
-      "Mac Mahon",
-      "Boulanger",
-      "Thiers",
-      "Faidherbe"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q221",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel ouvrage Karl Marx a-t-il publié en 1867 ?",
-    "answers": [
-      "Les Luttes de classes en France",
-      "Critique du programme de Gotha",
-      "Le Capital",
-      "Manifeste du Parti communiste"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q222",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel chef militaire a réprimé la Commune de Paris en 1871 ?",
-    "answers": [
-      "Faidherbe",
-      "Mac Mahon",
-      "Thiers",
-      "Boulanger"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q223",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Qui est l'auteur de 'Qu'est-ce que le Tiers État ?'",
-    "answers": [
-      "Jean-Jacques Rousseau",
-      "Honoré Gabriel Riqueti",
-      "Emmanuel Joseph Sieyès",
-      "Mirabeau"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q224",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Qui est l'auteur de 'Qu'est-ce que le Tiers État ?'",
-    "answers": [
-      "Honoré Gabriel Riqueti",
-      "Emmanuel Joseph Sieyès",
-      "Mirabeau",
-      "Jean-Jacques Rousseau"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q225",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel chef militaire a réprimé la Commune de Paris en 1871 ?",
-    "answers": [
-      "Boulanger",
-      "Faidherbe",
-      "Thiers",
-      "Mac Mahon"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q226",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel mouvement révolutionnaire irlandais a lieu en 1916 ?",
-    "answers": [
-      "Rébellion des Fenians",
-      "Insurrection de Pâques",
-      "Révolte des United Irishmen",
-      "Guerre d'indépendance"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q227",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quelle bataille de 1777 est considérée comme un tournant de la guerre d'indépendance américaine ?",
-    "answers": [
-      "Bataille de Yorktown",
-      "Bataille de Bunker Hill",
-      "Bataille de Lexington",
-      "Bataille de Saratoga"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q228",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel dirigeant bolchevik a été assassiné au Mexique en 1940 ?",
-    "answers": [
-      "Trotski",
-      "Molotov",
-      "Boukhara",
-      "Staline"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q229",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel mouvement révolutionnaire irlandais a lieu en 1916 ?",
-    "answers": [
-      "Révolte des United Irishmen",
-      "Guerre d'indépendance",
-      "Rébellion des Fenians",
-      "Insurrection de Pâques"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q230",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel révolutionnaire est surnommé 'l'Ami des pauvres' ?",
-    "answers": [
-      "Maximilien Robespierre",
-      "Georges Danton",
-      "Louis Antoine de Saint-Just",
-      "Jean-Paul Marat"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q231",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel ouvrage Karl Marx a-t-il publié en 1867 ?",
-    "answers": [
-      "Manifeste du Parti communiste",
-      "Les Luttes de classes en France",
-      "Critique du programme de Gotha",
-      "Le Capital"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q232",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel dirigeant bolchevik a été assassiné au Mexique en 1940 ?",
-    "answers": [
-      "Molotov",
-      "Trotski",
-      "Staline",
-      "Boukhara"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q233",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel ouvrage Karl Marx a-t-il publié en 1867 ?",
-    "answers": [
-      "Manifeste du Parti communiste",
-      "Critique du programme de Gotha",
-      "Le Capital",
-      "Les Luttes de classes en France"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q234",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quelle bataille de 1777 est considérée comme un tournant de la guerre d'indépendance américaine ?",
-    "answers": [
-      "Bataille de Saratoga",
-      "Bataille de Lexington",
-      "Bataille de Bunker Hill",
-      "Bataille de Yorktown"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q235",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel révolutionnaire est surnommé 'l'Ami des pauvres' ?",
-    "answers": [
-      "Maximilien Robespierre",
-      "Louis Antoine de Saint-Just",
-      "Jean-Paul Marat",
-      "Georges Danton"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q236",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel événement de 1905 en Russie est surnommé 'Dimanche rouge' ?",
-    "answers": [
-      "Révolte du cuirassé Potemkine",
-      "La fusillade de Saint-Pétersbourg",
-      "Révolution d'Octobre",
-      "Manifestations de février"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q237",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel dirigeant bolchevik a été assassiné au Mexique en 1940 ?",
-    "answers": [
-      "Trotski",
-      "Molotov",
-      "Staline",
-      "Boukhara"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q238",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Qui est l'auteur de 'Qu'est-ce que le Tiers État ?'",
-    "answers": [
-      "Honoré Gabriel Riqueti",
-      "Mirabeau",
-      "Emmanuel Joseph Sieyès",
-      "Jean-Jacques Rousseau"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q239",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel ouvrage Karl Marx a-t-il publié en 1867 ?",
-    "answers": [
-      "Manifeste du Parti communiste",
-      "Le Capital",
-      "Critique du programme de Gotha",
-      "Les Luttes de classes en France"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q240",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel chef militaire a réprimé la Commune de Paris en 1871 ?",
-    "answers": [
-      "Faidherbe",
-      "Mac Mahon",
-      "Thiers",
-      "Boulanger"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q241",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel événement de 1905 en Russie est surnommé 'Dimanche rouge' ?",
-    "answers": [
-      "La fusillade de Saint-Pétersbourg",
-      "Manifestations de février",
-      "Révolution d'Octobre",
-      "Révolte du cuirassé Potemkine"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q242",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Qui est l'auteur de 'Qu'est-ce que le Tiers État ?'",
-    "answers": [
-      "Jean-Jacques Rousseau",
-      "Emmanuel Joseph Sieyès",
-      "Mirabeau",
-      "Honoré Gabriel Riqueti"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q243",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel traité met fin à la guerre civile anglaise en 1649 ?",
-    "answers": [
-      "Traité de Westphalie",
-      "Aucun, elle se termine par l'exécution de Charles Ier",
-      "Bill of Rights",
-      "Acte d'Habeas Corpus"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q244",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel révolutionnaire est surnommé 'l'Ami des pauvres' ?",
-    "answers": [
-      "Jean-Paul Marat",
-      "Georges Danton",
-      "Louis Antoine de Saint-Just",
-      "Maximilien Robespierre"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q245",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel révolutionnaire français a été assassiné dans sa baignoire ?",
-    "answers": [
-      "Georges Danton",
-      "Maximilien Robespierre",
-      "Jean-Paul Marat",
-      "Camille Desmoulins"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q246",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel révolutionnaire français a été assassiné dans sa baignoire ?",
-    "answers": [
-      "Camille Desmoulins",
-      "Maximilien Robespierre",
-      "Jean-Paul Marat",
-      "Georges Danton"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q247",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quelle bataille de 1777 est considérée comme un tournant de la guerre d'indépendance américaine ?",
-    "answers": [
-      "Bataille de Bunker Hill",
-      "Bataille de Lexington",
-      "Bataille de Saratoga",
-      "Bataille de Yorktown"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q248",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel dirigeant bolchevik a été assassiné au Mexique en 1940 ?",
-    "answers": [
-      "Trotski",
-      "Staline",
-      "Molotov",
-      "Boukhara"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q249",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel événement de 1905 en Russie est surnommé 'Dimanche rouge' ?",
-    "answers": [
-      "Révolte du cuirassé Potemkine",
-      "Manifestations de février",
-      "Révolution d'Octobre",
-      "La fusillade de Saint-Pétersbourg"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q250",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Qui est l'auteur de 'Qu'est-ce que le Tiers État ?'",
-    "answers": [
-      "Mirabeau",
-      "Emmanuel Joseph Sieyès",
-      "Jean-Jacques Rousseau",
-      "Honoré Gabriel Riqueti"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q251",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel révolutionnaire français a été assassiné dans sa baignoire ?",
-    "answers": [
-      "Georges Danton",
-      "Camille Desmoulins",
-      "Maximilien Robespierre",
-      "Jean-Paul Marat"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q252",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quelle bataille de 1777 est considérée comme un tournant de la guerre d'indépendance américaine ?",
-    "answers": [
-      "Bataille de Saratoga",
-      "Bataille de Yorktown",
-      "Bataille de Lexington",
-      "Bataille de Bunker Hill"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q253",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel traité met fin à la guerre civile anglaise en 1649 ?",
-    "answers": [
-      "Traité de Westphalie",
-      "Aucun, elle se termine par l'exécution de Charles Ier",
-      "Acte d'Habeas Corpus",
-      "Bill of Rights"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q254",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quelle bataille de 1777 est considérée comme un tournant de la guerre d'indépendance américaine ?",
-    "answers": [
-      "Bataille de Yorktown",
-      "Bataille de Bunker Hill",
-      "Bataille de Lexington",
-      "Bataille de Saratoga"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q255",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel dirigeant bolchevik a été assassiné au Mexique en 1940 ?",
-    "answers": [
-      "Molotov",
-      "Trotski",
-      "Staline",
-      "Boukhara"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q256",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Qui est l'auteur de 'Qu'est-ce que le Tiers État ?'",
-    "answers": [
-      "Mirabeau",
-      "Honoré Gabriel Riqueti",
-      "Emmanuel Joseph Sieyès",
-      "Jean-Jacques Rousseau"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q257",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel dirigeant bolchevik a été assassiné au Mexique en 1940 ?",
-    "answers": [
-      "Boukhara",
-      "Staline",
-      "Trotski",
-      "Molotov"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q258",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel traité met fin à la guerre civile anglaise en 1649 ?",
-    "answers": [
-      "Bill of Rights",
-      "Traité de Westphalie",
-      "Aucun, elle se termine par l'exécution de Charles Ier",
-      "Acte d'Habeas Corpus"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q259",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel révolutionnaire est surnommé 'l'Ami des pauvres' ?",
-    "answers": [
-      "Louis Antoine de Saint-Just",
-      "Georges Danton",
-      "Maximilien Robespierre",
-      "Jean-Paul Marat"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q260",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel événement de 1905 en Russie est surnommé 'Dimanche rouge' ?",
-    "answers": [
-      "Révolte du cuirassé Potemkine",
-      "Manifestations de février",
-      "Révolution d'Octobre",
-      "La fusillade de Saint-Pétersbourg"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q261",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel mouvement révolutionnaire irlandais a lieu en 1916 ?",
-    "answers": [
-      "Guerre d'indépendance",
-      "Révolte des United Irishmen",
-      "Insurrection de Pâques",
-      "Rébellion des Fenians"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q262",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel ouvrage Karl Marx a-t-il publié en 1867 ?",
-    "answers": [
-      "Manifeste du Parti communiste",
-      "Critique du programme de Gotha",
-      "Le Capital",
-      "Les Luttes de classes en France"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q263",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Qui est l'auteur de 'Qu'est-ce que le Tiers État ?'",
-    "answers": [
-      "Jean-Jacques Rousseau",
-      "Honoré Gabriel Riqueti",
-      "Emmanuel Joseph Sieyès",
-      "Mirabeau"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q264",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel mouvement révolutionnaire irlandais a lieu en 1916 ?",
-    "answers": [
-      "Rébellion des Fenians",
-      "Insurrection de Pâques",
-      "Révolte des United Irishmen",
-      "Guerre d'indépendance"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q265",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quelle bataille de 1777 est considérée comme un tournant de la guerre d'indépendance américaine ?",
-    "answers": [
-      "Bataille de Bunker Hill",
-      "Bataille de Yorktown",
-      "Bataille de Saratoga",
-      "Bataille de Lexington"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q266",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel événement de 1905 en Russie est surnommé 'Dimanche rouge' ?",
-    "answers": [
-      "Révolte du cuirassé Potemkine",
-      "Révolution d'Octobre",
-      "La fusillade de Saint-Pétersbourg",
-      "Manifestations de février"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q267",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel ouvrage Karl Marx a-t-il publié en 1867 ?",
-    "answers": [
-      "Les Luttes de classes en France",
-      "Le Capital",
-      "Critique du programme de Gotha",
-      "Manifeste du Parti communiste"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q268",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel révolutionnaire est surnommé 'l'Ami des pauvres' ?",
-    "answers": [
-      "Jean-Paul Marat",
-      "Maximilien Robespierre",
-      "Georges Danton",
-      "Louis Antoine de Saint-Just"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q269",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel événement de 1905 en Russie est surnommé 'Dimanche rouge' ?",
-    "answers": [
-      "Révolution d'Octobre",
-      "Manifestations de février",
-      "Révolte du cuirassé Potemkine",
-      "La fusillade de Saint-Pétersbourg"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q270",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel chef militaire a réprimé la Commune de Paris en 1871 ?",
-    "answers": [
-      "Faidherbe",
-      "Thiers",
-      "Boulanger",
-      "Mac Mahon"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q271",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel ouvrage Karl Marx a-t-il publié en 1867 ?",
-    "answers": [
-      "Critique du programme de Gotha",
-      "Le Capital",
-      "Les Luttes de classes en France",
-      "Manifeste du Parti communiste"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q272",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel ouvrage Karl Marx a-t-il publié en 1867 ?",
-    "answers": [
-      "Critique du programme de Gotha",
-      "Le Capital",
-      "Manifeste du Parti communiste",
-      "Les Luttes de classes en France"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q273",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel ouvrage Karl Marx a-t-il publié en 1867 ?",
-    "answers": [
-      "Le Capital",
-      "Manifeste du Parti communiste",
-      "Critique du programme de Gotha",
-      "Les Luttes de classes en France"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q274",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel mouvement révolutionnaire irlandais a lieu en 1916 ?",
-    "answers": [
-      "Révolte des United Irishmen",
-      "Rébellion des Fenians",
-      "Insurrection de Pâques",
-      "Guerre d'indépendance"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q275",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel ouvrage Karl Marx a-t-il publié en 1867 ?",
-    "answers": [
-      "Critique du programme de Gotha",
-      "Manifeste du Parti communiste",
-      "Les Luttes de classes en France",
-      "Le Capital"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q276",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel révolutionnaire français a été assassiné dans sa baignoire ?",
-    "answers": [
-      "Jean-Paul Marat",
-      "Georges Danton",
-      "Camille Desmoulins",
-      "Maximilien Robespierre"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q277",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel chef militaire a réprimé la Commune de Paris en 1871 ?",
-    "answers": [
-      "Thiers",
-      "Mac Mahon",
-      "Faidherbe",
-      "Boulanger"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q278",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel chef militaire a réprimé la Commune de Paris en 1871 ?",
-    "answers": [
-      "Mac Mahon",
-      "Boulanger",
-      "Faidherbe",
-      "Thiers"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q279",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel événement de 1905 en Russie est surnommé 'Dimanche rouge' ?",
-    "answers": [
-      "Révolte du cuirassé Potemkine",
-      "Révolution d'Octobre",
-      "La fusillade de Saint-Pétersbourg",
-      "Manifestations de février"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q280",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel révolutionnaire est surnommé 'l'Ami des pauvres' ?",
-    "answers": [
-      "Louis Antoine de Saint-Just",
-      "Jean-Paul Marat",
-      "Maximilien Robespierre",
-      "Georges Danton"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q281",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel révolutionnaire français a été assassiné dans sa baignoire ?",
-    "answers": [
-      "Maximilien Robespierre",
-      "Jean-Paul Marat",
-      "Georges Danton",
-      "Camille Desmoulins"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q282",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel mouvement révolutionnaire irlandais a lieu en 1916 ?",
-    "answers": [
-      "Révolte des United Irishmen",
-      "Rébellion des Fenians",
-      "Guerre d'indépendance",
-      "Insurrection de Pâques"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q283",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Qui est l'auteur de 'Qu'est-ce que le Tiers État ?'",
-    "answers": [
-      "Honoré Gabriel Riqueti",
-      "Mirabeau",
-      "Emmanuel Joseph Sieyès",
-      "Jean-Jacques Rousseau"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q284",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel dirigeant bolchevik a été assassiné au Mexique en 1940 ?",
-    "answers": [
-      "Molotov",
-      "Trotski",
-      "Boukhara",
-      "Staline"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q285",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quelle bataille de 1777 est considérée comme un tournant de la guerre d'indépendance américaine ?",
-    "answers": [
-      "Bataille de Lexington",
-      "Bataille de Saratoga",
-      "Bataille de Yorktown",
-      "Bataille de Bunker Hill"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q286",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel événement de 1905 en Russie est surnommé 'Dimanche rouge' ?",
-    "answers": [
-      "Manifestations de février",
-      "La fusillade de Saint-Pétersbourg",
-      "Révolte du cuirassé Potemkine",
-      "Révolution d'Octobre"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q287",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel mouvement révolutionnaire irlandais a lieu en 1916 ?",
-    "answers": [
-      "Révolte des United Irishmen",
-      "Rébellion des Fenians",
-      "Insurrection de Pâques",
-      "Guerre d'indépendance"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q288",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel mouvement révolutionnaire irlandais a lieu en 1916 ?",
-    "answers": [
-      "Rébellion des Fenians",
-      "Révolte des United Irishmen",
-      "Guerre d'indépendance",
-      "Insurrection de Pâques"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q289",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Qui est l'auteur de 'Qu'est-ce que le Tiers État ?'",
-    "answers": [
-      "Jean-Jacques Rousseau",
-      "Honoré Gabriel Riqueti",
-      "Mirabeau",
-      "Emmanuel Joseph Sieyès"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q290",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel ouvrage Karl Marx a-t-il publié en 1867 ?",
-    "answers": [
-      "Critique du programme de Gotha",
-      "Manifeste du Parti communiste",
-      "Le Capital",
-      "Les Luttes de classes en France"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q291",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel traité met fin à la guerre civile anglaise en 1649 ?",
-    "answers": [
-      "Traité de Westphalie",
-      "Bill of Rights",
-      "Acte d'Habeas Corpus",
-      "Aucun, elle se termine par l'exécution de Charles Ier"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q292",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel traité met fin à la guerre civile anglaise en 1649 ?",
-    "answers": [
-      "Bill of Rights",
-      "Aucun, elle se termine par l'exécution de Charles Ier",
-      "Acte d'Habeas Corpus",
-      "Traité de Westphalie"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "q293",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quelle bataille de 1777 est considérée comme un tournant de la guerre d'indépendance américaine ?",
-    "answers": [
-      "Bataille de Saratoga",
-      "Bataille de Bunker Hill",
-      "Bataille de Lexington",
-      "Bataille de Yorktown"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q294",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel événement de 1905 en Russie est surnommé 'Dimanche rouge' ?",
-    "answers": [
-      "La fusillade de Saint-Pétersbourg",
-      "Révolution d'Octobre",
-      "Manifestations de février",
-      "Révolte du cuirassé Potemkine"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q295",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel révolutionnaire est surnommé 'l'Ami des pauvres' ?",
-    "answers": [
-      "Georges Danton",
-      "Maximilien Robespierre",
-      "Jean-Paul Marat",
-      "Louis Antoine de Saint-Just"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q296",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel dirigeant bolchevik a été assassiné au Mexique en 1940 ?",
-    "answers": [
-      "Trotski",
-      "Staline",
-      "Molotov",
-      "Boukhara"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "q297",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel ouvrage Karl Marx a-t-il publié en 1867 ?",
-    "answers": [
-      "Manifeste du Parti communiste",
-      "Les Luttes de classes en France",
-      "Critique du programme de Gotha",
-      "Le Capital"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "q298",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel chef militaire a réprimé la Commune de Paris en 1871 ?",
-    "answers": [
-      "Faidherbe",
-      "Thiers",
-      "Mac Mahon",
-      "Boulanger"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q299",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Qui est l'auteur de 'Qu'est-ce que le Tiers État ?'",
-    "answers": [
-      "Honoré Gabriel Riqueti",
-      "Mirabeau",
-      "Emmanuel Joseph Sieyès",
-      "Jean-Jacques Rousseau"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "q300",
-    "category": "Révolution",
-    "difficulty": "Extrême",
-    "text": "Quel ouvrage Karl Marx a-t-il publié en 1867 ?",
-    "answers": [
-      "Les Luttes de classes en France",
-      "Le Capital",
-      "Critique du programme de Gotha",
-      "Manifeste du Parti communiste"
-    ],
-    "correctIndex": 1
   }
 ]
